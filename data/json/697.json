@@ -1,0 +1,1907 @@
+{
+    "bi": {
+        "#obese#": {
+            "Morbid": 0.5, 
+            "morbid": 0.5
+        }, 
+        "(": {
+            "ALLERGY": 0.125, 
+            "ELIXIR": 0.25, 
+            "M.D.": 0.125, 
+            "PE": 0.125, 
+            "TREATMENTS/PROCEDURES": 0.125, 
+            "depression": 0.125, 
+            "overdose": 0.125
+        }, 
+        ")": {
+            "Admission": 0.1111111111111111, 
+            "FG12": 0.1111111111111111, 
+            "LIQUID": 0.1111111111111111, 
+            "O.R.": 0.1111111111111111, 
+            "SENSITIVITY": 0.1111111111111111, 
+            "SYRUP": 0.1111111111111111, 
+            "depression": 0.1111111111111111, 
+            "embolism": 0.1111111111111111, 
+            "overdose": 0.1111111111111111
+        }, 
+        "):": {
+            "S": 1.0
+        }, 
+        "******": {
+            "10": 0.3333333333333333, 
+            "10/25/2003": 0.3333333333333333, 
+            "ORDERS": 0.3333333333333333
+        }, 
+        ",": {
+            "ALTSTATT": 0.058823529411764705, 
+            "B.": 0.058823529411764705, 
+            "BOOKS": 0.058823529411764705, 
+            "BRUSHWOOD": 0.058823529411764705, 
+            "COY": 0.058823529411764705, 
+            "Complications": 0.058823529411764705, 
+            "D.": 0.058823529411764705, 
+            "DIAGNOSIS;Conditions": 0.058823529411764705, 
+            "Infections": 0.058823529411764705, 
+            "KROLIKOWSKI": 0.058823529411764705, 
+            "NARCOTICS": 0.058823529411764705, 
+            "ONDECK": 0.058823529411764705, 
+            "SIMON": 0.058823529411764705, 
+            "fevers/chills": 0.058823529411764705, 
+            "nausea/vomitting": 0.058823529411764705, 
+            "pain": 0.058823529411764705, 
+            "weeks": 0.058823529411764705
+        }, 
+        "/": {
+            "Bypass": 1.0
+        }, 
+        "1-2": {
+            "Passi": 1.0
+        }, 
+        "10": {
+            "@": 1.0
+        }, 
+        "10/10/2003": {
+            "|": 1.0
+        }, 
+        "10/25/2003": {
+            "Date:": 1.0
+        }, 
+        "100's": {
+            "low": 1.0
+        }, 
+        "119621796": {
+            "": 1.0
+        }, 
+        "11:00": {
+            "AT": 1.0
+        }, 
+        "12:00:00": {
+            "10/10/2003": 1.0
+        }, 
+        "150": {
+            ")": 1.0
+        }, 
+        "197-18-63-9": {
+            "DOUGLASS": 1.0
+        }, 
+        "2": {
+            "Stage": 1.0
+        }, 
+        "21927445": {
+            "|": 1.0
+        }, 
+        "3/9/03": {
+            "PROCEDURES:": 0.5, 
+            "on": 0.5
+        }, 
+        "40F": {
+            "COURSE:": 1.0
+        }, 
+        "40Y-282": {
+            "Room:": 1.0
+        }, 
+        "5": {
+            ")": 1.0
+        }, 
+        "6/10/2003": {
+            "Date:": 1.0
+        }, 
+        "6/27/03": {
+            ")": 0.5, 
+            "ON:": 0.5
+        }, 
+        "8900564": {
+            "|": 1.0
+        }, 
+        "90's.": {
+            "high": 1.0
+        }, 
+        ";Responsible": {
+            "DIAGNOSIS": 1.0
+        }, 
+        "@": {
+            "6/27/03": 1.0
+        }, 
+        "ACTIVITY:": {
+            "2": 1.0
+        }, 
+        "ADDITIONAL": {
+            "POD#3.": 1.0
+        }, 
+        "ADMIT": {
+            "Codeine": 1.0
+        }, 
+        "ALLERGY": {
+            "DEFINITE": 1.0
+        }, 
+        "ALLERGY:": {
+            ",": 1.0
+        }, 
+        "ALTSTATT": {
+            "******": 1.0
+        }, 
+        "AM": {
+            "11:00": 0.5, 
+            "12:00:00": 0.5
+        }, 
+        "AND": {
+            "OPERATIONS": 1.0
+        }, 
+        "APPOINTMENT(": {
+            "UP": 1.0
+        }, 
+        "AS": {
+            "USED": 1.0
+        }, 
+        "AT": {
+            "6/27/03": 1.0
+        }, 
+        "Abdomen": {
+            "90's.": 1.0
+        }, 
+        "Admission": {
+            "Causing": 0.5, 
+            "|": 0.5
+        }, 
+        "After": {
+            ";Responsible": 1.0
+        }, 
+        "Alert": {
+            "PAIN": 1.0
+        }, 
+        "Ambulating.": {
+            "diet.": 1.0
+        }, 
+        "Attending:": {
+            "YES": 1.0
+        }, 
+        "B.": {
+            "HARRY": 1.0
+        }, 
+        "BE": {
+            "ORDER": 1.0
+        }, 
+        "BID": {
+            "PO": 1.0
+        }, 
+        "BOOKS": {
+            "by": 1.0
+        }, 
+        "BRIEF": {
+            "None": 1.0
+        }, 
+        "BRUSHWOOD": {
+            "Attending:": 1.0
+        }, 
+        "BY:": {
+            "ENTERED": 1.0
+        }, 
+        "BYPASS": {
+            "GASTRIC": 1.0
+        }, 
+        "Bypass": {
+            "Gastric": 1.0
+        }, 
+        "CAIC": {
+            "197-18-63-9": 1.0
+        }, 
+        "CAPPED": {
+            "IS": 1.0
+        }, 
+        "CBC": {
+            "Ambulating.": 1.0
+        }, 
+        "CBSH": {
+            "|": 1.0
+        }, 
+        "CODE": {
+            "M.D.": 1.0
+        }, 
+        "COMMENTS:": {
+            "ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            "DISCHARGE": 1.0
+        }, 
+        "CONTINGENT": {
+            "AM": 1.0
+        }, 
+        "COUNTY": {
+            "DITERB": 1.0
+        }, 
+        "COURSE:": {
+            "HOSPITAL": 1.0
+        }, 
+        "COY": {
+            "KEN": 1.0
+        }, 
+        "Causing": {
+            "for": 1.0
+        }, 
+        "Cholecystecomy": {
+            "Open": 1.0
+        }, 
+        "Codeine": {
+            "ALLERGY:": 1.0
+        }, 
+        "Complications": {
+            ",": 1.0
+        }, 
+        "D.": {
+            "RAYMUNDO": 1.0
+        }, 
+        "D/C": {
+            "THE": 0.5, 
+            "WILL": 0.5
+        }, 
+        "DEFINITE": {
+            "M.S.": 1.0
+        }, 
+        "DIAGNOSIS": {
+            "DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "OTHER": 1.0
+        }, 
+        "DIET:": {
+            "BID": 1.0
+        }, 
+        "DIS": {
+            "|": 1.0
+        }, 
+        "DISCHARGE": {
+            "******": 0.16666666666666666, 
+            "GGI": 0.16666666666666666, 
+            "Home": 0.16666666666666666, 
+            "OF": 0.16666666666666666, 
+            "PRINCIPAL": 0.16666666666666666, 
+            "symptoms.": 0.16666666666666666
+        }, 
+        "DISPOSITION:": {
+            "code": 1.0
+        }, 
+        "DITERB": {
+            "ENH.": 1.0
+        }, 
+        "DO/PLAN:": {
+            "TO": 1.0
+        }, 
+        "DOUGLASS": {
+            ",": 1.0
+        }, 
+        "Date:": {
+            "Admission": 0.5, 
+            "Discharge": 0.5
+        }, 
+        "Discharge": {
+            "Status:": 1.0
+        }, 
+        "Dr.": {
+            "):": 1.0
+        }, 
+        "ELIXIR": {
+            "ROXICET": 0.5, 
+            "ZANTAC": 0.5
+        }, 
+        "EN": {
+            "ROUX": 1.0
+        }, 
+        "END": {
+            "******": 1.0
+        }, 
+        "ENH.": {
+            "CAIC": 1.0
+        }, 
+        "ENTERED": {
+            "summary": 1.0
+        }, 
+        "EPIDURAL": {
+            "when": 1.0
+        }, 
+        "FG12": {
+            "(": 1.0
+        }, 
+        "FOLLOW": {
+            "tolerated": 1.0
+        }, 
+        "Full": {
+            "STATUS:": 1.0
+        }, 
+        "GASTRIC": {
+            "Y": 1.0
+        }, 
+        "GGI": {
+            "Service:": 1.0
+        }, 
+        "Gastric": {
+            "DIET:": 0.3333333333333333, 
+            "Y": 0.6666666666666666
+        }, 
+        "HARRY": {
+            ",": 1.0
+        }, 
+        "HCL": {
+            "RANITIDINE": 1.0
+        }, 
+        "HO": {
+            "UPON": 1.0
+        }, 
+        "HOSPITAL": {
+            "MEMORIAL": 0.5, 
+            "OF": 0.5
+        }, 
+        "HR": {
+            "maintained": 1.0
+        }, 
+        "Home": {
+            "DISPOSITION:": 1.0
+        }, 
+        "IN": {
+            "NOT": 1.0
+        }, 
+        "IS": {
+            "EPIDURAL": 1.0
+        }, 
+        "Infections": {
+            ",": 1.0
+        }, 
+        "KEN": {
+            ",": 1.0
+        }, 
+        "KROLIKOWSKI": {
+            "3/9/03": 1.0
+        }, 
+        "LIQUID": {
+            "OXYCODONE+APAP": 1.0
+        }, 
+        "M.D.": {
+            ",": 1.0
+        }, 
+        "M.S.": {
+            ",": 1.0
+        }, 
+        "MD": {
+            "call": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "DISCHARGE": 1.0
+        }, 
+        "MEMORIAL": {
+            "COUNTY": 1.0
+        }, 
+        "MG": {
+            "150": 1.0
+        }, 
+        "ML": {
+            "5": 1.0
+        }, 
+        "Morbid": {
+            "DIAGNOSIS:": 1.0
+        }, 
+        "NARCOTICS": {
+            "to": 1.0
+        }, 
+        "NOT": {
+            "(": 1.0
+        }, 
+        "No": {
+            "DO/PLAN:": 1.0
+        }, 
+        "None": {
+            ")": 1.0
+        }, 
+        "O.R.": {
+            "IN": 1.0
+        }, 
+        "OF": {
+            "END": 0.5, 
+            "RESUME": 0.5
+        }, 
+        "ON:": {
+            "PATIENT": 1.0
+        }, 
+        "ONDECK": {
+            "BY:": 1.0
+        }, 
+        "OPERATIONS": {
+            ")": 1.0
+        }, 
+        "OR": {
+            "(": 1.0
+        }, 
+        "ORDER": {
+            "D/C": 1.0
+        }, 
+        "ORDERS": {
+            "DISCHARGE": 1.0
+        }, 
+        "OTHER": {
+            "BYPASS": 0.5, 
+            "Cholecystecomy": 0.5
+        }, 
+        "OXYCODONE+APAP": {
+            "(": 1.0
+        }, 
+        "Open": {
+            "/": 1.0
+        }, 
+        "Override": {
+            "overridden:": 1.0
+        }, 
+        "PAIN": {
+            "PRN": 1.0
+        }, 
+        "PATIENT": {
+            "DISCHARGE": 1.0
+        }, 
+        "PE": {
+            ")": 1.0
+        }, 
+        "PHENANTHRENES": {
+            ",": 1.0
+        }, 
+        "PO": {
+            "MG": 0.5, 
+            "ML": 0.5
+        }, 
+        "POD#1": {
+            "on": 1.0
+        }, 
+        "POD#3.": {
+            "on": 1.0
+        }, 
+        "PRINCIPAL": {
+            "#obese#": 1.0
+        }, 
+        "PRN": {
+            "CAPPED": 1.0
+        }, 
+        "PROCEDURES:": {
+            "AND": 1.0
+        }, 
+        "Passi": {
+            "Dr.": 1.0
+        }, 
+        "Please": {
+            "COMMENTS:": 1.0
+        }, 
+        "Pt": {
+            "WNL.": 0.3333333333333333, 
+            "benign.": 0.3333333333333333, 
+            "course.": 0.3333333333333333
+        }, 
+        "Q3-4H": {
+            "PO": 1.0
+        }, 
+        "RANITIDINE": {
+            "(": 1.0
+        }, 
+        "RAYMUNDO": {
+            ",": 1.0
+        }, 
+        "RESUME": {
+            "BRIEF": 1.0
+        }, 
+        "ROGER": {
+            ",": 1.0
+        }, 
+        "ROUX": {
+            "M.D.": 1.0
+        }, 
+        "ROXICET": {
+            "MEDICATIONS:": 1.0
+        }, 
+        "Reason": {
+            "PHENANTHRENES": 1.0
+        }, 
+        "Report": {
+            "6/10/2003": 1.0
+        }, 
+        "Room:": {
+            "HOSPITAL": 1.0
+        }, 
+        "Rouex": {
+            "s/p": 1.0
+        }, 
+        "S": {
+            "APPOINTMENT(": 1.0
+        }, 
+        "SENSITIVITY": {
+            "OR": 1.0
+        }, 
+        "SIMON": {
+            "ROGER": 1.0
+        }, 
+        "STATUS:": {
+            "CODE": 1.0
+        }, 
+        "SUMMARY:": {
+            "D/C": 1.0
+        }, 
+        "SYRUP": {
+            "HCL": 1.0
+        }, 
+        "Service:": {
+            "40Y-282": 1.0
+        }, 
+        "Stable": {
+            "CONDITION:": 1.0
+        }, 
+        "Stage": {
+            "Bypass": 0.5, 
+            "tolerating": 0.5
+        }, 
+        "Starting": {
+            "Q3-4H": 1.0
+        }, 
+        "Status:": {
+            "Report": 1.0
+        }, 
+        "Study": {
+            "After": 1.0
+        }, 
+        "THE": {
+            "AS": 1.0
+        }, 
+        "TO": {
+            "Stable": 1.0
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "OTHER": 1.0
+        }, 
+        "Tolerated": {
+            "bypass.": 1.0
+        }, 
+        "Treatment/Stay": {
+            "affecting": 1.0
+        }, 
+        "UP": {
+            "FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "CONTINGENT": 1.0
+        }, 
+        "USED": {
+            "BE": 1.0
+        }, 
+        "Uncomplicated": {
+            "well.": 1.0
+        }, 
+        "WILL": {
+            "evaluation": 1.0
+        }, 
+        "WNL.": {
+            "CBC": 1.0
+        }, 
+        "Walking": {
+            "ACTIVITY:": 1.0
+        }, 
+        "Y": {
+            "EN": 0.3333333333333333, 
+            "en": 0.6666666666666666
+        }, 
+        "YES": {
+            "SUMMARY:": 1.0
+        }, 
+        "ZANTAC": {
+            "monitor": 1.0
+        }, 
+        "abdominal": {
+            "concerning": 1.0
+        }, 
+        "added": {
+            "Override": 1.0
+        }, 
+        "affecting": {
+            ",": 1.0
+        }, 
+        "and": {
+            "POD#1": 1.0
+        }, 
+        "any": {
+            "or": 1.0
+        }, 
+        "as": {
+            "Walking": 1.0
+        }, 
+        "benign.": {
+            "was": 1.0
+        }, 
+        "by": {
+            "3/9/03": 1.0
+        }, 
+        "bypass.": {
+            "gastric": 1.0
+        }, 
+        "call": {
+            "Please": 1.0
+        }, 
+        "code": {
+            "Full": 1.0
+        }, 
+        "concerning": {
+            ",": 0.5, 
+            "other": 0.5
+        }, 
+        "control": {
+            "pain": 1.0
+        }, 
+        "course.": {
+            "postop": 1.0
+        }, 
+        "depression": {
+            "(": 0.5, 
+            "Treatment/Stay": 0.5
+        }, 
+        "develop": {
+            "you": 1.0
+        }, 
+        "dictated": {
+            "No": 1.0
+        }, 
+        "diet.": {
+            "2": 1.0
+        }, 
+        "discharged": {
+            "Pt": 1.0
+        }, 
+        "drug": {
+            "(": 0.5, 
+            ")": 0.5
+        }, 
+        "embolism": {
+            "pulmonary": 1.0
+        }, 
+        "en": {
+            "Rouex": 1.0
+        }, 
+        "evaluation": {
+            "HO": 1.0
+        }, 
+        "fevers/chills": {
+            "develop": 1.0
+        }, 
+        "for": {
+            "Reason": 0.5, 
+            "Study": 0.5
+        }, 
+        "gastric": {
+            "rouex-en-y": 1.0
+        }, 
+        "high": {
+            "or": 1.0
+        }, 
+        "hospital": {
+            "to": 1.0
+        }, 
+        "if": {
+            "hospital": 1.0
+        }, 
+        "in": {
+            "HR": 1.0
+        }, 
+        "low": {
+            "in": 1.0
+        }, 
+        "maintained": {
+            "and": 1.0
+        }, 
+        "monitor": {
+            "will": 1.0
+        }, 
+        "morbid": {
+            "with": 1.0
+        }, 
+        "nausea/vomitting": {
+            "persistent": 1.0
+        }, 
+        "on": {
+            "added": 0.3333333333333333, 
+            "discharged": 0.3333333333333333, 
+            "tachycardic": 0.3333333333333333
+        }, 
+        "or": {
+            ",": 0.3333333333333333, 
+            "100's": 0.3333333333333333, 
+            "MD": 0.3333333333333333
+        }, 
+        "other": {
+            "any": 1.0
+        }, 
+        "overdose": {
+            "drug": 1.0
+        }, 
+        "overridden:": {
+            "Alert": 1.0
+        }, 
+        "override:": {
+            "for": 1.0
+        }, 
+        "pain": {
+            "abdominal": 0.5, 
+            "override:": 0.5
+        }, 
+        "persistent": {
+            ",": 1.0
+        }, 
+        "postop": {
+            "Uncomplicated": 1.0
+        }, 
+        "procedure": {
+            "Tolerated": 1.0
+        }, 
+        "pulmonary": {
+            "(": 1.0
+        }, 
+        "return": {
+            "or": 1.0
+        }, 
+        "rouex-en-y": {
+            "underwent": 1.0
+        }, 
+        "s/p": {
+            ")": 0.5, 
+            "|": 0.5
+        }, 
+        "summary": {
+            "dictated": 1.0
+        }, 
+        "symptoms.": {
+            "concerning": 1.0
+        }, 
+        "tachycardic": {
+            "was": 1.0
+        }, 
+        "to": {
+            ")": 0.5, 
+            "return": 0.5
+        }, 
+        "tolerated": {
+            "as": 1.0
+        }, 
+        "tolerating": {
+            "Pt": 1.0
+        }, 
+        "underwent": {
+            "#obese#": 1.0
+        }, 
+        "was": {
+            "Abdomen": 0.5, 
+            "Pt": 0.5
+        }, 
+        "weeks": {
+            "1-2": 1.0
+        }, 
+        "well.": {
+            "procedure": 1.0
+        }, 
+        "when": {
+            "Starting": 1.0
+        }, 
+        "will": {
+            "control": 1.0
+        }, 
+        "with": {
+            "40F": 1.0
+        }, 
+        "you": {
+            "if": 1.0
+        }, 
+        "|": {
+            "119621796": 0.1111111111111111, 
+            "21927445": 0.1111111111111111, 
+            "8900564": 0.1111111111111111, 
+            "AM": 0.1111111111111111, 
+            "CBSH": 0.1111111111111111, 
+            "Cholecystecomy": 0.1111111111111111, 
+            "DIS": 0.1111111111111111, 
+            "|": 0.2222222222222222
+        }
+    }, 
+    "id": "697", 
+    "text": " 119621796 | CBSH | 21927445 | | 8900564 | 10/10/2003 12:00:00 AM | s/p Rouex en Y Gastric Bypass / Open Cholecystecomy | | DIS | Admission Date: 6/10/2003 Report Status: Discharge Date: 10/25/2003 ****** DISCHARGE ORDERS ****** ALTSTATT , DOUGLASS 197-18-63-9 CAIC ENH. DITERB COUNTY MEMORIAL HOSPITAL Room: 40Y-282 Service: GGI DISCHARGE PATIENT ON: 6/27/03 AT 11:00 AM CONTINGENT UPON HO evaluation WILL D/C ORDER BE USED AS THE D/C SUMMARY: YES Attending: BRUSHWOOD , RAYMUNDO D. , M.D. CODE STATUS: Full code DISPOSITION: Home DISCHARGE MEDICATIONS: ROXICET ELIXIR ( OXYCODONE+APAP LIQUID ) 5 ML PO Q3-4H Starting when EPIDURAL IS CAPPED PRN PAIN Alert overridden: Override added on 3/9/03 by BOOKS , ROGER SIMON , M.S. DEFINITE ALLERGY ( OR SENSITIVITY ) to NARCOTICS , PHENANTHRENES Reason for override: pain control will monitor ZANTAC ELIXIR ( RANITIDINE HCL SYRUP ) 150 MG PO BID DIET: Gastric Bypass Stage 2 ACTIVITY: Walking as tolerated FOLLOW UP APPOINTMENT( S ): Dr. Passi 1-2 weeks , ALLERGY: Codeine ADMIT DIAGNOSIS: Morbid #obese# PRINCIPAL DISCHARGE DIAGNOSIS ;Responsible After Study for Causing Admission ) s/p Rouex en Y Gastric Bypass / Open Cholecystecomy OTHER DIAGNOSIS;Conditions , Infections , Complications , affecting Treatment/Stay depression ( depression ) drug overdose ( drug overdose ) PE ( pulmonary embolism ) OPERATIONS AND PROCEDURES: 3/9/03 KROLIKOWSKI , HARRY B. , M.D. ROUX EN Y GASTRIC BYPASS OTHER TREATMENTS/PROCEDURES ( NOT IN O.R. ) None BRIEF RESUME OF HOSPITAL COURSE: 40F with morbid #obese# underwent rouex-en-y gastric bypass. Tolerated procedure well. Uncomplicated postop course. Pt was tachycardic on POD#1 and maintained HR in low 100's or high 90's. Abdomen was benign. Pt tolerating Stage 2 diet. Ambulating. CBC WNL. Pt discharged on POD#3. ADDITIONAL COMMENTS: Please call MD or return to hospital if you develop fevers/chills , persistent nausea/vomitting , concerning abdominal pain , or any other concerning symptoms. DISCHARGE CONDITION: Stable TO DO/PLAN: No dictated summary ENTERED BY: ONDECK , KEN COY , M.D. ( FG12 ) 6/27/03 @ 10 ****** END OF DISCHARGE ORDERS ******", 
+    "tri": {
+        "#obese#": {
+            "DIAGNOSIS:~Morbid": 0.5, 
+            "with~morbid": 0.5
+        }, 
+        "(": {
+            ")~PE": 0.125, 
+            ",~M.D.": 0.125, 
+            "DEFINITE~ALLERGY": 0.125, 
+            "OTHER~TREATMENTS/PROCEDURES": 0.125, 
+            "ROXICET~ELIXIR": 0.125, 
+            "Treatment/Stay~depression": 0.125, 
+            "ZANTAC~ELIXIR": 0.125, 
+            "drug~overdose": 0.125
+        }, 
+        ")": {
+            "(~FG12": 0.1111111111111111, 
+            "(~depression": 0.1111111111111111, 
+            "Causing~Admission": 0.1111111111111111, 
+            "HCL~SYRUP": 0.1111111111111111, 
+            "IN~O.R.": 0.1111111111111111, 
+            "OR~SENSITIVITY": 0.1111111111111111, 
+            "OXYCODONE+APAP~LIQUID": 0.1111111111111111, 
+            "drug~overdose": 0.1111111111111111, 
+            "pulmonary~embolism": 0.1111111111111111
+        }, 
+        "):": {
+            "APPOINTMENT(~S": 1.0
+        }, 
+        "******": {
+            "@~10": 0.25, 
+            "DISCHARGE~ORDERS": 0.5, 
+            "Date:~10/25/2003": 0.25
+        }, 
+        ",": {
+            "******~ALTSTATT": 0.058823529411764705, 
+            ",~Complications": 0.058823529411764705, 
+            ",~Infections": 0.058823529411764705, 
+            "1-2~weeks": 0.058823529411764705, 
+            "3/9/03~KROLIKOWSKI": 0.058823529411764705, 
+            "Attending:~BRUSHWOOD": 0.058823529411764705, 
+            "BY:~ONDECK": 0.058823529411764705, 
+            "HARRY~B.": 0.058823529411764705, 
+            "KEN~COY": 0.058823529411764705, 
+            "OTHER~DIAGNOSIS;Conditions": 0.058823529411764705, 
+            "RAYMUNDO~D.": 0.058823529411764705, 
+            "ROGER~SIMON": 0.058823529411764705, 
+            "abdominal~pain": 0.058823529411764705, 
+            "by~BOOKS": 0.058823529411764705, 
+            "develop~fevers/chills": 0.058823529411764705, 
+            "persistent~nausea/vomitting": 0.058823529411764705, 
+            "to~NARCOTICS": 0.058823529411764705
+        }, 
+        "/": {
+            "Gastric~Bypass": 1.0
+        }, 
+        "1-2": {
+            "Dr.~Passi": 1.0
+        }, 
+        "10": {
+            "6/27/03~@": 1.0
+        }, 
+        "10/10/2003": {
+            "8900564~|": 1.0
+        }, 
+        "10/25/2003": {
+            "Discharge~Date:": 1.0
+        }, 
+        "100's": {
+            "in~low": 1.0
+        }, 
+        "11:00": {
+            "6/27/03~AT": 1.0
+        }, 
+        "12:00:00": {
+            "|~10/10/2003": 1.0
+        }, 
+        "150": {
+            "SYRUP~)": 1.0
+        }, 
+        "197-18-63-9": {
+            ",~DOUGLASS": 1.0
+        }, 
+        "2": {
+            "Bypass~Stage": 0.5, 
+            "tolerating~Stage": 0.5
+        }, 
+        "21927445": {
+            "CBSH~|": 1.0
+        }, 
+        "3/9/03": {
+            "AND~PROCEDURES:": 0.5, 
+            "added~on": 0.5
+        }, 
+        "40F": {
+            "HOSPITAL~COURSE:": 1.0
+        }, 
+        "40Y-282": {
+            "HOSPITAL~Room:": 1.0
+        }, 
+        "5": {
+            "LIQUID~)": 1.0
+        }, 
+        "6/10/2003": {
+            "Admission~Date:": 1.0
+        }, 
+        "6/27/03": {
+            "FG12~)": 0.5, 
+            "PATIENT~ON:": 0.5
+        }, 
+        "8900564": {
+            "|~|": 1.0
+        }, 
+        "90's.": {
+            "or~high": 1.0
+        }, 
+        ";Responsible": {
+            "DISCHARGE~DIAGNOSIS": 1.0
+        }, 
+        "@": {
+            ")~6/27/03": 1.0
+        }, 
+        "ACTIVITY:": {
+            "Stage~2": 1.0
+        }, 
+        "ADDITIONAL": {
+            "on~POD#3.": 1.0
+        }, 
+        "ADMIT": {
+            "ALLERGY:~Codeine": 1.0
+        }, 
+        "ALLERGY": {
+            "M.S.~DEFINITE": 1.0
+        }, 
+        "ALLERGY:": {
+            "weeks~,": 1.0
+        }, 
+        "ALTSTATT": {
+            "ORDERS~******": 1.0
+        }, 
+        "AM": {
+            "10/10/2003~12:00:00": 0.5, 
+            "AT~11:00": 0.5
+        }, 
+        "AND": {
+            ")~OPERATIONS": 1.0
+        }, 
+        "APPOINTMENT(": {
+            "FOLLOW~UP": 1.0
+        }, 
+        "AS": {
+            "BE~USED": 1.0
+        }, 
+        "AT": {
+            "ON:~6/27/03": 1.0
+        }, 
+        "Abdomen": {
+            "high~90's.": 1.0
+        }, 
+        "Admission": {
+            "DIS~|": 0.5, 
+            "for~Causing": 0.5
+        }, 
+        "After": {
+            "DIAGNOSIS~;Responsible": 1.0
+        }, 
+        "Alert": {
+            "PRN~PAIN": 1.0
+        }, 
+        "Ambulating.": {
+            "2~diet.": 1.0
+        }, 
+        "Attending:": {
+            "SUMMARY:~YES": 1.0
+        }, 
+        "B.": {
+            ",~HARRY": 1.0
+        }, 
+        "BE": {
+            "D/C~ORDER": 1.0
+        }, 
+        "BID": {
+            "MG~PO": 1.0
+        }, 
+        "BOOKS": {
+            "3/9/03~by": 1.0
+        }, 
+        "BRIEF": {
+            ")~None": 1.0
+        }, 
+        "BRUSHWOOD": {
+            "YES~Attending:": 1.0
+        }, 
+        "BY:": {
+            "summary~ENTERED": 1.0
+        }, 
+        "BYPASS": {
+            "Y~GASTRIC": 1.0
+        }, 
+        "Bypass": {
+            "DIET:~Gastric": 0.3333333333333333, 
+            "Y~Gastric": 0.6666666666666666
+        }, 
+        "CAIC": {
+            "DOUGLASS~197-18-63-9": 1.0
+        }, 
+        "CAPPED": {
+            "EPIDURAL~IS": 1.0
+        }, 
+        "CBC": {
+            "diet.~Ambulating.": 1.0
+        }, 
+        "CBSH": {
+            "119621796~|": 1.0
+        }, 
+        "CODE": {
+            ",~M.D.": 1.0
+        }, 
+        "COMMENTS:": {
+            "POD#3.~ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            "symptoms.~DISCHARGE": 1.0
+        }, 
+        "CONTINGENT": {
+            "11:00~AM": 1.0
+        }, 
+        "COUNTY": {
+            "ENH.~DITERB": 1.0
+        }, 
+        "COURSE:": {
+            "OF~HOSPITAL": 1.0
+        }, 
+        "COY": {
+            ",~KEN": 1.0
+        }, 
+        "Causing": {
+            "Study~for": 1.0
+        }, 
+        "Cholecystecomy": {
+            "/~Open": 1.0
+        }, 
+        "Codeine": {
+            ",~ALLERGY:": 1.0
+        }, 
+        "Complications": {
+            "Infections~,": 1.0
+        }, 
+        "D.": {
+            ",~RAYMUNDO": 1.0
+        }, 
+        "D/C": {
+            "AS~THE": 0.5, 
+            "evaluation~WILL": 0.5
+        }, 
+        "DEFINITE": {
+            ",~M.S.": 1.0
+        }, 
+        "DIAGNOSIS": {
+            "PRINCIPAL~DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "Codeine~ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "Cholecystecomy~OTHER": 1.0
+        }, 
+        "DIET:": {
+            "PO~BID": 1.0
+        }, 
+        "DIS": {
+            "|~|": 1.0
+        }, 
+        "DISCHARGE": {
+            "#obese#~PRINCIPAL": 0.16666666666666666, 
+            "10/25/2003~******": 0.16666666666666666, 
+            "DISPOSITION:~Home": 0.16666666666666666, 
+            "END~OF": 0.16666666666666666, 
+            "Service:~GGI": 0.16666666666666666, 
+            "concerning~symptoms.": 0.16666666666666666
+        }, 
+        "DISPOSITION:": {
+            "Full~code": 1.0
+        }, 
+        "DITERB": {
+            "CAIC~ENH.": 1.0
+        }, 
+        "DO/PLAN:": {
+            "Stable~TO": 1.0
+        }, 
+        "DOUGLASS": {
+            "ALTSTATT~,": 1.0
+        }, 
+        "Date:": {
+            "Status:~Discharge": 0.5, 
+            "|~Admission": 0.5
+        }, 
+        "Discharge": {
+            "Report~Status:": 1.0
+        }, 
+        "Dr.": {
+            "S~):": 1.0
+        }, 
+        "ELIXIR": {
+            "MEDICATIONS:~ROXICET": 0.5, 
+            "monitor~ZANTAC": 0.5
+        }, 
+        "EN": {
+            "M.D.~ROUX": 1.0
+        }, 
+        "END": {
+            "10~******": 1.0
+        }, 
+        "ENH.": {
+            "197-18-63-9~CAIC": 1.0
+        }, 
+        "ENTERED": {
+            "dictated~summary": 1.0
+        }, 
+        "EPIDURAL": {
+            "Starting~when": 1.0
+        }, 
+        "FG12": {
+            "M.D.~(": 1.0
+        }, 
+        "FOLLOW": {
+            "as~tolerated": 1.0
+        }, 
+        "Full": {
+            "CODE~STATUS:": 1.0
+        }, 
+        "GASTRIC": {
+            "EN~Y": 1.0
+        }, 
+        "GGI": {
+            "40Y-282~Service:": 1.0
+        }, 
+        "Gastric": {
+            "BID~DIET:": 0.3333333333333333, 
+            "en~Y": 0.6666666666666666
+        }, 
+        "HARRY": {
+            "KROLIKOWSKI~,": 1.0
+        }, 
+        "HCL": {
+            "(~RANITIDINE": 1.0
+        }, 
+        "HO": {
+            "CONTINGENT~UPON": 1.0
+        }, 
+        "HOSPITAL": {
+            "COUNTY~MEMORIAL": 0.5, 
+            "RESUME~OF": 0.5
+        }, 
+        "HR": {
+            "and~maintained": 1.0
+        }, 
+        "Home": {
+            "code~DISPOSITION:": 1.0
+        }, 
+        "IN": {
+            "(~NOT": 1.0
+        }, 
+        "IS": {
+            "when~EPIDURAL": 1.0
+        }, 
+        "Infections": {
+            "DIAGNOSIS;Conditions~,": 1.0
+        }, 
+        "KEN": {
+            "ONDECK~,": 1.0
+        }, 
+        "KROLIKOWSKI": {
+            "PROCEDURES:~3/9/03": 1.0
+        }, 
+        "LIQUID": {
+            "(~OXYCODONE+APAP": 1.0
+        }, 
+        "M.D.": {
+            "B.~,": 0.3333333333333333, 
+            "COY~,": 0.3333333333333333, 
+            "D.~,": 0.3333333333333333
+        }, 
+        "M.S.": {
+            "SIMON~,": 1.0
+        }, 
+        "MD": {
+            "Please~call": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "Home~DISCHARGE": 1.0
+        }, 
+        "MEMORIAL": {
+            "DITERB~COUNTY": 1.0
+        }, 
+        "MG": {
+            ")~150": 1.0
+        }, 
+        "ML": {
+            ")~5": 1.0
+        }, 
+        "Morbid": {
+            "ADMIT~DIAGNOSIS:": 1.0
+        }, 
+        "NARCOTICS": {
+            ")~to": 1.0
+        }, 
+        "NOT": {
+            "TREATMENTS/PROCEDURES~(": 1.0
+        }, 
+        "No": {
+            "TO~DO/PLAN:": 1.0
+        }, 
+        "None": {
+            "O.R.~)": 1.0
+        }, 
+        "O.R.": {
+            "NOT~IN": 1.0
+        }, 
+        "OF": {
+            "******~END": 0.5, 
+            "BRIEF~RESUME": 0.5
+        }, 
+        "ON:": {
+            "DISCHARGE~PATIENT": 1.0
+        }, 
+        "ONDECK": {
+            "ENTERED~BY:": 1.0
+        }, 
+        "OPERATIONS": {
+            "embolism~)": 1.0
+        }, 
+        "OR": {
+            "ALLERGY~(": 1.0
+        }, 
+        "ORDER": {
+            "WILL~D/C": 1.0
+        }, 
+        "ORDERS": {
+            "******~DISCHARGE": 0.5, 
+            "OF~DISCHARGE": 0.5
+        }, 
+        "OTHER": {
+            "GASTRIC~BYPASS": 0.5, 
+            "Open~Cholecystecomy": 0.5
+        }, 
+        "OXYCODONE+APAP": {
+            "ELIXIR~(": 1.0
+        }, 
+        "Open": {
+            "Bypass~/": 1.0
+        }, 
+        "Override": {
+            "Alert~overridden:": 1.0
+        }, 
+        "PAIN": {
+            "CAPPED~PRN": 1.0
+        }, 
+        "PATIENT": {
+            "GGI~DISCHARGE": 1.0
+        }, 
+        "PE": {
+            "overdose~)": 1.0
+        }, 
+        "PHENANTHRENES": {
+            "NARCOTICS~,": 1.0
+        }, 
+        "PO": {
+            "150~MG": 0.5, 
+            "5~ML": 0.5
+        }, 
+        "POD#1": {
+            "tachycardic~on": 1.0
+        }, 
+        "POD#3.": {
+            "discharged~on": 1.0
+        }, 
+        "PRINCIPAL": {
+            "Morbid~#obese#": 1.0
+        }, 
+        "PRN": {
+            "IS~CAPPED": 1.0
+        }, 
+        "PROCEDURES:": {
+            "OPERATIONS~AND": 1.0
+        }, 
+        "Passi": {
+            "):~Dr.": 1.0
+        }, 
+        "Please": {
+            "ADDITIONAL~COMMENTS:": 1.0
+        }, 
+        "Pt": {
+            "CBC~WNL.": 0.3333333333333333, 
+            "postop~course.": 0.3333333333333333, 
+            "was~benign.": 0.3333333333333333
+        }, 
+        "Q3-4H": {
+            "ML~PO": 1.0
+        }, 
+        "RANITIDINE": {
+            "ELIXIR~(": 1.0
+        }, 
+        "RAYMUNDO": {
+            "BRUSHWOOD~,": 1.0
+        }, 
+        "RESUME": {
+            "None~BRIEF": 1.0
+        }, 
+        "ROGER": {
+            "BOOKS~,": 1.0
+        }, 
+        "ROUX": {
+            ",~M.D.": 1.0
+        }, 
+        "ROXICET": {
+            "DISCHARGE~MEDICATIONS:": 1.0
+        }, 
+        "Reason": {
+            ",~PHENANTHRENES": 1.0
+        }, 
+        "Report": {
+            "Date:~6/10/2003": 1.0
+        }, 
+        "Room:": {
+            "MEMORIAL~HOSPITAL": 1.0
+        }, 
+        "Rouex": {
+            ")~s/p": 0.5, 
+            "|~s/p": 0.5
+        }, 
+        "S": {
+            "UP~APPOINTMENT(": 1.0
+        }, 
+        "SENSITIVITY": {
+            "(~OR": 1.0
+        }, 
+        "SIMON": {
+            ",~ROGER": 1.0
+        }, 
+        "STATUS:": {
+            "M.D.~CODE": 1.0
+        }, 
+        "SUMMARY:": {
+            "THE~D/C": 1.0
+        }, 
+        "SYRUP": {
+            "RANITIDINE~HCL": 1.0
+        }, 
+        "Service:": {
+            "Room:~40Y-282": 1.0
+        }, 
+        "Stable": {
+            "DISCHARGE~CONDITION:": 1.0
+        }, 
+        "Stage": {
+            "Gastric~Bypass": 0.5, 
+            "Pt~tolerating": 0.5
+        }, 
+        "Starting": {
+            "PO~Q3-4H": 1.0
+        }, 
+        "Status:": {
+            "6/10/2003~Report": 1.0
+        }, 
+        "Study": {
+            ";Responsible~After": 1.0
+        }, 
+        "THE": {
+            "USED~AS": 1.0
+        }, 
+        "TO": {
+            "CONDITION:~Stable": 1.0
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "BYPASS~OTHER": 1.0
+        }, 
+        "Tolerated": {
+            "gastric~bypass.": 1.0
+        }, 
+        "Treatment/Stay": {
+            ",~affecting": 1.0
+        }, 
+        "UP": {
+            "tolerated~FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "AM~CONTINGENT": 1.0
+        }, 
+        "USED": {
+            "ORDER~BE": 1.0
+        }, 
+        "Uncomplicated": {
+            "procedure~well.": 1.0
+        }, 
+        "WILL": {
+            "HO~evaluation": 1.0
+        }, 
+        "WNL.": {
+            "Ambulating.~CBC": 1.0
+        }, 
+        "Walking": {
+            "2~ACTIVITY:": 1.0
+        }, 
+        "Y": {
+            "ROUX~EN": 0.3333333333333333, 
+            "Rouex~en": 0.6666666666666666
+        }, 
+        "YES": {
+            "D/C~SUMMARY:": 1.0
+        }, 
+        "ZANTAC": {
+            "will~monitor": 1.0
+        }, 
+        "abdominal": {
+            ",~concerning": 1.0
+        }, 
+        "added": {
+            "overridden:~Override": 1.0
+        }, 
+        "affecting": {
+            "Complications~,": 1.0
+        }, 
+        "and": {
+            "on~POD#1": 1.0
+        }, 
+        "any": {
+            ",~or": 1.0
+        }, 
+        "as": {
+            "ACTIVITY:~Walking": 1.0
+        }, 
+        "benign.": {
+            "Abdomen~was": 1.0
+        }, 
+        "by": {
+            "on~3/9/03": 1.0
+        }, 
+        "bypass.": {
+            "rouex-en-y~gastric": 1.0
+        }, 
+        "call": {
+            "COMMENTS:~Please": 1.0
+        }, 
+        "code": {
+            "STATUS:~Full": 1.0
+        }, 
+        "concerning": {
+            "any~other": 0.5, 
+            "nausea/vomitting~,": 0.5
+        }, 
+        "control": {
+            "override:~pain": 1.0
+        }, 
+        "course.": {
+            "Uncomplicated~postop": 1.0
+        }, 
+        "depression": {
+            "affecting~Treatment/Stay": 0.5, 
+            "depression~(": 0.5
+        }, 
+        "develop": {
+            "if~you": 1.0
+        }, 
+        "dictated": {
+            "DO/PLAN:~No": 1.0
+        }, 
+        "diet.": {
+            "Stage~2": 1.0
+        }, 
+        "discharged": {
+            "WNL.~Pt": 1.0
+        }, 
+        "drug": {
+            "depression~)": 0.5, 
+            "overdose~(": 0.5
+        }, 
+        "embolism": {
+            "(~pulmonary": 1.0
+        }, 
+        "en": {
+            "s/p~Rouex": 1.0
+        }, 
+        "evaluation": {
+            "UPON~HO": 1.0
+        }, 
+        "fevers/chills": {
+            "you~develop": 1.0
+        }, 
+        "for": {
+            "After~Study": 0.5, 
+            "PHENANTHRENES~Reason": 0.5
+        }, 
+        "gastric": {
+            "underwent~rouex-en-y": 1.0
+        }, 
+        "high": {
+            "100's~or": 1.0
+        }, 
+        "hospital": {
+            "return~to": 1.0
+        }, 
+        "if": {
+            "to~hospital": 1.0
+        }, 
+        "in": {
+            "maintained~HR": 1.0
+        }, 
+        "low": {
+            "HR~in": 1.0
+        }, 
+        "maintained": {
+            "POD#1~and": 1.0
+        }, 
+        "monitor": {
+            "control~will": 1.0
+        }, 
+        "morbid": {
+            "40F~with": 1.0
+        }, 
+        "nausea/vomitting": {
+            ",~persistent": 1.0
+        }, 
+        "on": {
+            "Override~added": 0.3333333333333333, 
+            "Pt~discharged": 0.3333333333333333, 
+            "was~tachycardic": 0.3333333333333333
+        }, 
+        "or": {
+            "call~MD": 0.3333333333333333, 
+            "low~100's": 0.3333333333333333, 
+            "pain~,": 0.3333333333333333
+        }, 
+        "other": {
+            "or~any": 1.0
+        }, 
+        "overdose": {
+            "(~drug": 0.5, 
+            ")~drug": 0.5
+        }, 
+        "overridden:": {
+            "PAIN~Alert": 1.0
+        }, 
+        "override:": {
+            "Reason~for": 1.0
+        }, 
+        "pain": {
+            "concerning~abdominal": 0.5, 
+            "for~override:": 0.5
+        }, 
+        "persistent": {
+            "fevers/chills~,": 1.0
+        }, 
+        "postop": {
+            "well.~Uncomplicated": 1.0
+        }, 
+        "procedure": {
+            "bypass.~Tolerated": 1.0
+        }, 
+        "pulmonary": {
+            "PE~(": 1.0
+        }, 
+        "return": {
+            "MD~or": 1.0
+        }, 
+        "rouex-en-y": {
+            "#obese#~underwent": 1.0
+        }, 
+        "s/p": {
+            "AM~|": 0.5, 
+            "Admission~)": 0.5
+        }, 
+        "summary": {
+            "No~dictated": 1.0
+        }, 
+        "symptoms.": {
+            "other~concerning": 1.0
+        }, 
+        "tachycardic": {
+            "Pt~was": 1.0
+        }, 
+        "to": {
+            "SENSITIVITY~)": 0.5, 
+            "or~return": 0.5
+        }, 
+        "tolerated": {
+            "Walking~as": 1.0
+        }, 
+        "tolerating": {
+            "benign.~Pt": 1.0
+        }, 
+        "underwent": {
+            "morbid~#obese#": 1.0
+        }, 
+        "was": {
+            "90's.~Abdomen": 0.5, 
+            "course.~Pt": 0.5
+        }, 
+        "weeks": {
+            "Passi~1-2": 1.0
+        }, 
+        "well.": {
+            "Tolerated~procedure": 1.0
+        }, 
+        "when": {
+            "Q3-4H~Starting": 1.0
+        }, 
+        "will": {
+            "pain~control": 1.0
+        }, 
+        "with": {
+            "COURSE:~40F": 1.0
+        }, 
+        "you": {
+            "hospital~if": 1.0
+        }, 
+        "|": {
+            "12:00:00~AM": 0.1111111111111111, 
+            "21927445~|": 0.1111111111111111, 
+            "Cholecystecomy~|": 0.1111111111111111, 
+            "Open~Cholecystecomy": 0.1111111111111111, 
+            "|~21927445": 0.1111111111111111, 
+            "|~8900564": 0.1111111111111111, 
+            "|~CBSH": 0.1111111111111111, 
+            "|~DIS": 0.1111111111111111, 
+            "~119621796": 0.1111111111111111
+        }
+    }, 
+    "type": "data/test", 
+    "uni": {
+        "": 0.0029585798816568047, 
+        "#obese#": 0.005917159763313609, 
+        "(": 0.023668639053254437, 
+        ")": 0.026627218934911243, 
+        "):": 0.0029585798816568047, 
+        "******": 0.008875739644970414, 
+        ",": 0.05029585798816568, 
+        "/": 0.005917159763313609, 
+        "1-2": 0.0029585798816568047, 
+        "10": 0.0029585798816568047, 
+        "10/10/2003": 0.0029585798816568047, 
+        "10/25/2003": 0.0029585798816568047, 
+        "100's": 0.0029585798816568047, 
+        "119621796": 0.0029585798816568047, 
+        "11:00": 0.0029585798816568047, 
+        "12:00:00": 0.0029585798816568047, 
+        "150": 0.0029585798816568047, 
+        "197-18-63-9": 0.0029585798816568047, 
+        "2": 0.005917159763313609, 
+        "21927445": 0.0029585798816568047, 
+        "3/9/03": 0.005917159763313609, 
+        "40F": 0.0029585798816568047, 
+        "40Y-282": 0.0029585798816568047, 
+        "5": 0.0029585798816568047, 
+        "6/10/2003": 0.0029585798816568047, 
+        "6/27/03": 0.005917159763313609, 
+        "8900564": 0.0029585798816568047, 
+        "90's.": 0.0029585798816568047, 
+        ";Responsible": 0.0029585798816568047, 
+        "@": 0.0029585798816568047, 
+        "ACTIVITY:": 0.0029585798816568047, 
+        "ADDITIONAL": 0.0029585798816568047, 
+        "ADMIT": 0.0029585798816568047, 
+        "ALLERGY": 0.0029585798816568047, 
+        "ALLERGY:": 0.0029585798816568047, 
+        "ALTSTATT": 0.0029585798816568047, 
+        "AM": 0.005917159763313609, 
+        "AND": 0.0029585798816568047, 
+        "APPOINTMENT(": 0.0029585798816568047, 
+        "AS": 0.0029585798816568047, 
+        "AT": 0.0029585798816568047, 
+        "Abdomen": 0.0029585798816568047, 
+        "Admission": 0.005917159763313609, 
+        "After": 0.0029585798816568047, 
+        "Alert": 0.0029585798816568047, 
+        "Ambulating.": 0.0029585798816568047, 
+        "Attending:": 0.0029585798816568047, 
+        "B.": 0.0029585798816568047, 
+        "BE": 0.0029585798816568047, 
+        "BID": 0.0029585798816568047, 
+        "BOOKS": 0.0029585798816568047, 
+        "BRIEF": 0.0029585798816568047, 
+        "BRUSHWOOD": 0.0029585798816568047, 
+        "BY:": 0.0029585798816568047, 
+        "BYPASS": 0.0029585798816568047, 
+        "Bypass": 0.008875739644970414, 
+        "CAIC": 0.0029585798816568047, 
+        "CAPPED": 0.0029585798816568047, 
+        "CBC": 0.0029585798816568047, 
+        "CBSH": 0.0029585798816568047, 
+        "CODE": 0.0029585798816568047, 
+        "COMMENTS:": 0.0029585798816568047, 
+        "CONDITION:": 0.0029585798816568047, 
+        "CONTINGENT": 0.0029585798816568047, 
+        "COUNTY": 0.0029585798816568047, 
+        "COURSE:": 0.0029585798816568047, 
+        "COY": 0.0029585798816568047, 
+        "Causing": 0.0029585798816568047, 
+        "Cholecystecomy": 0.005917159763313609, 
+        "Codeine": 0.0029585798816568047, 
+        "Complications": 0.0029585798816568047, 
+        "D.": 0.0029585798816568047, 
+        "D/C": 0.005917159763313609, 
+        "DEFINITE": 0.0029585798816568047, 
+        "DIAGNOSIS": 0.0029585798816568047, 
+        "DIAGNOSIS:": 0.0029585798816568047, 
+        "DIAGNOSIS;Conditions": 0.0029585798816568047, 
+        "DIET:": 0.0029585798816568047, 
+        "DIS": 0.0029585798816568047, 
+        "DISCHARGE": 0.01775147928994083, 
+        "DISPOSITION:": 0.0029585798816568047, 
+        "DITERB": 0.0029585798816568047, 
+        "DO/PLAN:": 0.0029585798816568047, 
+        "DOUGLASS": 0.0029585798816568047, 
+        "Date:": 0.005917159763313609, 
+        "Discharge": 0.0029585798816568047, 
+        "Dr.": 0.0029585798816568047, 
+        "ELIXIR": 0.005917159763313609, 
+        "EN": 0.0029585798816568047, 
+        "END": 0.0029585798816568047, 
+        "ENH.": 0.0029585798816568047, 
+        "ENTERED": 0.0029585798816568047, 
+        "EPIDURAL": 0.0029585798816568047, 
+        "FG12": 0.0029585798816568047, 
+        "FOLLOW": 0.0029585798816568047, 
+        "Full": 0.0029585798816568047, 
+        "GASTRIC": 0.0029585798816568047, 
+        "GGI": 0.0029585798816568047, 
+        "Gastric": 0.008875739644970414, 
+        "HARRY": 0.0029585798816568047, 
+        "HCL": 0.0029585798816568047, 
+        "HO": 0.0029585798816568047, 
+        "HOSPITAL": 0.005917159763313609, 
+        "HR": 0.0029585798816568047, 
+        "Home": 0.0029585798816568047, 
+        "IN": 0.0029585798816568047, 
+        "IS": 0.0029585798816568047, 
+        "Infections": 0.0029585798816568047, 
+        "KEN": 0.0029585798816568047, 
+        "KROLIKOWSKI": 0.0029585798816568047, 
+        "LIQUID": 0.0029585798816568047, 
+        "M.D.": 0.008875739644970414, 
+        "M.S.": 0.0029585798816568047, 
+        "MD": 0.0029585798816568047, 
+        "MEDICATIONS:": 0.0029585798816568047, 
+        "MEMORIAL": 0.0029585798816568047, 
+        "MG": 0.0029585798816568047, 
+        "ML": 0.0029585798816568047, 
+        "Morbid": 0.0029585798816568047, 
+        "NARCOTICS": 0.0029585798816568047, 
+        "NOT": 0.0029585798816568047, 
+        "No": 0.0029585798816568047, 
+        "None": 0.0029585798816568047, 
+        "O.R.": 0.0029585798816568047, 
+        "OF": 0.005917159763313609, 
+        "ON:": 0.0029585798816568047, 
+        "ONDECK": 0.0029585798816568047, 
+        "OPERATIONS": 0.0029585798816568047, 
+        "OR": 0.0029585798816568047, 
+        "ORDER": 0.0029585798816568047, 
+        "ORDERS": 0.0029585798816568047, 
+        "OTHER": 0.005917159763313609, 
+        "OXYCODONE+APAP": 0.0029585798816568047, 
+        "Open": 0.005917159763313609, 
+        "Override": 0.0029585798816568047, 
+        "PAIN": 0.0029585798816568047, 
+        "PATIENT": 0.0029585798816568047, 
+        "PE": 0.0029585798816568047, 
+        "PHENANTHRENES": 0.0029585798816568047, 
+        "PO": 0.005917159763313609, 
+        "POD#1": 0.0029585798816568047, 
+        "POD#3.": 0.0029585798816568047, 
+        "PRINCIPAL": 0.0029585798816568047, 
+        "PRN": 0.0029585798816568047, 
+        "PROCEDURES:": 0.0029585798816568047, 
+        "Passi": 0.0029585798816568047, 
+        "Please": 0.0029585798816568047, 
+        "Pt": 0.008875739644970414, 
+        "Q3-4H": 0.0029585798816568047, 
+        "RANITIDINE": 0.0029585798816568047, 
+        "RAYMUNDO": 0.0029585798816568047, 
+        "RESUME": 0.0029585798816568047, 
+        "ROGER": 0.0029585798816568047, 
+        "ROUX": 0.0029585798816568047, 
+        "ROXICET": 0.0029585798816568047, 
+        "Reason": 0.0029585798816568047, 
+        "Report": 0.0029585798816568047, 
+        "Room:": 0.0029585798816568047, 
+        "Rouex": 0.005917159763313609, 
+        "S": 0.0029585798816568047, 
+        "SENSITIVITY": 0.0029585798816568047, 
+        "SIMON": 0.0029585798816568047, 
+        "STATUS:": 0.0029585798816568047, 
+        "SUMMARY:": 0.0029585798816568047, 
+        "SYRUP": 0.0029585798816568047, 
+        "Service:": 0.0029585798816568047, 
+        "Stable": 0.0029585798816568047, 
+        "Stage": 0.005917159763313609, 
+        "Starting": 0.0029585798816568047, 
+        "Status:": 0.0029585798816568047, 
+        "Study": 0.0029585798816568047, 
+        "THE": 0.0029585798816568047, 
+        "TO": 0.0029585798816568047, 
+        "TREATMENTS/PROCEDURES": 0.0029585798816568047, 
+        "Tolerated": 0.0029585798816568047, 
+        "Treatment/Stay": 0.0029585798816568047, 
+        "UP": 0.0029585798816568047, 
+        "UPON": 0.0029585798816568047, 
+        "USED": 0.0029585798816568047, 
+        "Uncomplicated": 0.0029585798816568047, 
+        "WILL": 0.0029585798816568047, 
+        "WNL.": 0.0029585798816568047, 
+        "Walking": 0.0029585798816568047, 
+        "Y": 0.008875739644970414, 
+        "YES": 0.0029585798816568047, 
+        "ZANTAC": 0.0029585798816568047, 
+        "abdominal": 0.0029585798816568047, 
+        "added": 0.0029585798816568047, 
+        "affecting": 0.0029585798816568047, 
+        "and": 0.0029585798816568047, 
+        "any": 0.0029585798816568047, 
+        "as": 0.0029585798816568047, 
+        "benign.": 0.0029585798816568047, 
+        "by": 0.0029585798816568047, 
+        "bypass.": 0.0029585798816568047, 
+        "call": 0.0029585798816568047, 
+        "code": 0.0029585798816568047, 
+        "concerning": 0.005917159763313609, 
+        "control": 0.0029585798816568047, 
+        "course.": 0.0029585798816568047, 
+        "depression": 0.005917159763313609, 
+        "develop": 0.0029585798816568047, 
+        "dictated": 0.0029585798816568047, 
+        "diet.": 0.0029585798816568047, 
+        "discharged": 0.0029585798816568047, 
+        "drug": 0.005917159763313609, 
+        "embolism": 0.0029585798816568047, 
+        "en": 0.005917159763313609, 
+        "evaluation": 0.0029585798816568047, 
+        "fevers/chills": 0.0029585798816568047, 
+        "for": 0.005917159763313609, 
+        "gastric": 0.0029585798816568047, 
+        "high": 0.0029585798816568047, 
+        "hospital": 0.0029585798816568047, 
+        "if": 0.0029585798816568047, 
+        "in": 0.0029585798816568047, 
+        "low": 0.0029585798816568047, 
+        "maintained": 0.0029585798816568047, 
+        "monitor": 0.0029585798816568047, 
+        "morbid": 0.0029585798816568047, 
+        "nausea/vomitting": 0.0029585798816568047, 
+        "on": 0.008875739644970414, 
+        "or": 0.008875739644970414, 
+        "other": 0.0029585798816568047, 
+        "overdose": 0.005917159763313609, 
+        "overridden:": 0.0029585798816568047, 
+        "override:": 0.0029585798816568047, 
+        "pain": 0.005917159763313609, 
+        "persistent": 0.0029585798816568047, 
+        "postop": 0.0029585798816568047, 
+        "procedure": 0.0029585798816568047, 
+        "pulmonary": 0.0029585798816568047, 
+        "return": 0.0029585798816568047, 
+        "rouex-en-y": 0.0029585798816568047, 
+        "s/p": 0.005917159763313609, 
+        "summary": 0.0029585798816568047, 
+        "symptoms.": 0.0029585798816568047, 
+        "tachycardic": 0.0029585798816568047, 
+        "to": 0.005917159763313609, 
+        "tolerated": 0.0029585798816568047, 
+        "tolerating": 0.0029585798816568047, 
+        "underwent": 0.0029585798816568047, 
+        "was": 0.005917159763313609, 
+        "weeks": 0.0029585798816568047, 
+        "well.": 0.0029585798816568047, 
+        "when": 0.0029585798816568047, 
+        "will": 0.0029585798816568047, 
+        "with": 0.0029585798816568047, 
+        "you": 0.0029585798816568047, 
+        "|": 0.026627218934911243
+    }
+}

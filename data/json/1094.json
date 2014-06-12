@@ -1,0 +1,1465 @@
+{
+    "bi": {
+        "#obese#": {
+            "MOBID": 0.25, 
+            "MORBID": 0.5, 
+            "Morbid": 0.25
+        }, 
+        "(": {
+            "AM": 0.3333333333333333, 
+            "ELIXIR": 0.16666666666666666, 
+            "M.D.": 0.16666666666666666, 
+            "THERAPEUTIC": 0.16666666666666666, 
+            "TREATMENTS/PROCEDURES": 0.16666666666666666
+        }, 
+        ")": {
+            "4/6": 0.2857142857142857, 
+            "Admission": 0.14285714285714285, 
+            "LIQUID": 0.14285714285714285, 
+            "MULTIVITAMINS": 0.14285714285714285, 
+            "O.R.": 0.14285714285714285, 
+            "ZT7": 0.14285714285714285
+        }, 
+        "):": {
+            "S": 1.0
+        }, 
+        "******": {
+            "09": 0.3333333333333333, 
+            "6/12/2000": 0.3333333333333333, 
+            "ORDERS": 0.3333333333333333
+        }, 
+        ",": {
+            "Complications": 0.09090909090909091, 
+            "DAYS": 0.09090909090909091, 
+            "DIAGNOSIS;Conditions": 0.09090909090909091, 
+            "DORSEY": 0.09090909090909091, 
+            "FRANKLIN": 0.09090909090909091, 
+            "GENT": 0.09090909090909091, 
+            "HTN": 0.09090909090909091, 
+            "Infections": 0.09090909090909091, 
+            "NIDDM": 0.09090909090909091, 
+            "SARWINSKI": 0.09090909090909091, 
+            "WOODLEY": 0.09090909090909091
+        }, 
+        "-": {
+            "Activity": 1.0
+        }, 
+        "/": {
+            "DIET": 1.0
+        }, 
+        "09": {
+            "@": 1.0
+        }, 
+        "10": {
+            "NEWMARK": 1.0
+        }, 
+        "10/2": {
+            ")": 0.5, 
+            "ON:": 0.5
+        }, 
+        "11/19": {
+            "ON": 1.0
+        }, 
+        "11:30": {
+            "AT": 1.0
+        }, 
+        "12:00:00": {
+            "9/25/2000": 1.0
+        }, 
+        "17852808": {
+            "|": 1.0
+        }, 
+        "32": {
+            "COURSE:": 1.0
+        }, 
+        "4/6": {
+            "(": 1.0
+        }, 
+        "5": {
+            ")": 0.5, 
+            "LISINOPRIL": 0.5
+        }, 
+        "5-10": {
+            ")": 1.0
+        }, 
+        "5/14": {
+            "PROCEDURES:": 1.0
+        }, 
+        "529315": {
+            "|": 1.0
+        }, 
+        "548-52-48-7": {
+            "BRYANT": 1.0
+        }, 
+        "6/12/2000": {
+            "Date:": 1.0
+        }, 
+        "7/23/2000": {
+            "Date:": 1.0
+        }, 
+        "854040959": {
+            "": 1.0
+        }, 
+        "9/25/2000": {
+            "|": 1.0
+        }, 
+        ";Responsible": {
+            "DIAGNOSIS": 1.0
+        }, 
+        "@": {
+            "10/2": 1.0
+        }, 
+        "ABKMC": {
+            "FROM": 1.0
+        }, 
+        "ADDITIONAL": {
+            "CONDITION.": 1.0
+        }, 
+        "ADMIT": {
+            "Allergies": 1.0
+        }, 
+        "ADVENCED.": {
+            "AND": 1.0
+        }, 
+        "AM": {
+            "11:30": 0.25, 
+            "12:00:00": 0.25, 
+            "IN": 0.5
+        }, 
+        "AND": {
+            "ABKMC": 0.25, 
+            "OPERATIONS": 0.25, 
+            "OR": 0.25, 
+            "TOLERATED": 0.25
+        }, 
+        "APPOINTMENT(": {
+            "UP": 1.0
+        }, 
+        "AS": {
+            "USED": 1.0
+        }, 
+        "AT": {
+            "10/2": 1.0
+        }, 
+        "Activity": {
+            "diet": 1.0
+        }, 
+        "Admission": {
+            "Causing": 0.5, 
+            "|": 0.5
+        }, 
+        "After": {
+            ";Responsible": 1.0
+        }, 
+        "Allergies": {
+            "Known": 1.0
+        }, 
+        "Ambulate": {
+            "-": 1.0
+        }, 
+        "Applicable": {
+            "Not": 1.0
+        }, 
+        "BANDED": {
+            "VERTICAL": 1.0
+        }, 
+        "BE": {
+            "ORDER": 1.0
+        }, 
+        "BID": {
+            "PO": 1.0
+        }, 
+        "BMI>60.": {
+            "#obese#": 1.0
+        }, 
+        "BRIEF": {
+            ")": 1.0
+        }, 
+        "BRYANT": {
+            ",": 1.0
+        }, 
+        "BY:": {
+            "ENTERED": 1.0
+        }, 
+        "BYPASS": {
+            "GASTRIC": 1.0
+        }, 
+        "BYPASS.": {
+            "GASTRIC": 1.0
+        }, 
+        "C/": {
+            "HOME": 0.5, 
+            "MALE": 0.5
+        }, 
+        "COMMENTS:": {
+            "ADDITIONAL": 1.0
+        }, 
+        "CONDITION.": {
+            "STABLE": 1.0
+        }, 
+        "CONDITION:": {
+            "DISCHARGE": 1.0
+        }, 
+        "CONTINGENT": {
+            "AM": 1.0
+        }, 
+        "COURSE": {
+            "POST-OPERATIVE": 1.0
+        }, 
+        "COURSE:": {
+            "HOSPITAL": 1.0
+        }, 
+        "Causing": {
+            "for": 1.0
+        }, 
+        "Complications": {
+            ",": 1.0
+        }, 
+        "D/C": {
+            "THE": 0.5, 
+            "WILL": 0.5
+        }, 
+        "DAYS": {
+            "10": 1.0
+        }, 
+        "DEPRESSION": {
+            ",": 1.0
+        }, 
+        "DIAGNOSIS": {
+            "DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "OTHER": 1.0
+        }, 
+        "DIET": {
+            "NAWFEL": 0.5, 
+            "UNCOMPLICATED.": 0.5
+        }, 
+        "DIET:": {
+            "pain": 1.0
+        }, 
+        "DIS": {
+            "|": 1.0
+        }, 
+        "DISCHARGE": {
+            "******": 0.14285714285714285, 
+            "AND": 0.14285714285714285, 
+            "EVAL.": 0.14285714285714285, 
+            "GGI": 0.14285714285714285, 
+            "OF": 0.14285714285714285, 
+            "PRINCIPAL": 0.14285714285714285, 
+            "services": 0.14285714285714285
+        }, 
+        "DISPOSITION:": {
+            "YES": 1.0
+        }, 
+        "DO/PLAN:": {
+            "TO": 1.0
+        }, 
+        "DORSEY": {
+            "JEROLD": 1.0
+        }, 
+        "Date:": {
+            "Admission": 0.5, 
+            "Discharge": 0.5
+        }, 
+        "Deonaan": {
+            "La": 1.0
+        }, 
+        "Discharge": {
+            "Status:": 1.0
+        }, 
+        "ELIXIR": {
+            "ROXICET": 1.0
+        }, 
+        "END": {
+            "******": 1.0
+        }, 
+        "ENTERED": {
+            "DO/PLAN:": 1.0
+        }, 
+        "EVAL.": {
+            "SAFTY": 1.0
+        }, 
+        "FOLLOW": {
+            "Applicable": 1.0
+        }, 
+        "FRANKLIN": {
+            ",": 1.0
+        }, 
+        "FROM": {
+            "STARTED": 1.0
+        }, 
+        "GASTRIC": {
+            "BANDED": 1.0
+        }, 
+        "GENT": {
+            "5/14": 1.0
+        }, 
+        "GGI": {
+            "Service:": 1.0
+        }, 
+        "HE": {
+            "11/19": 0.3333333333333333, 
+            "ADVENCED.": 0.3333333333333333, 
+            "BYPASS.": 0.3333333333333333
+        }, 
+        "HO": {
+            "UPON": 1.0
+        }, 
+        "HOME": {
+            "DISCHARGE": 0.5, 
+            "NEED": 0.5
+        }, 
+        "HOSPITAL": {
+            "OF": 1.0
+        }, 
+        "HTN": {
+            ",": 1.0
+        }, 
+        "Home": {
+            "DISPOSITION:": 1.0
+        }, 
+        "IN": {
+            "NOT": 0.3333333333333333, 
+            "Starting": 0.6666666666666666
+        }, 
+        "Infections": {
+            ",": 1.0
+        }, 
+        "JEROLD": {
+            ",": 1.0
+        }, 
+        "Known": {
+            "No": 1.0
+        }, 
+        "LHANH": {
+            "|": 1.0
+        }, 
+        "LIQUID": {
+            "OXYCODONE+APAP": 1.0
+        }, 
+        "LISINOPRIL": {
+            "MEDICATIONS:": 1.0
+        }, 
+        "La": {
+            "548-52-48-7": 1.0
+        }, 
+        "M.D.": {
+            ",": 1.0
+        }, 
+        "MALE": {
+            "Y.O": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "DISCHARGE": 1.0
+        }, 
+        "MG": {
+            "5": 1.0
+        }, 
+        "ML": {
+            "5": 0.5, 
+            "5-10": 0.5
+        }, 
+        "MOBID": {
+            "C/": 1.0
+        }, 
+        "MORBID": {
+            ")": 0.5, 
+            "|": 0.5
+        }, 
+        "MULTIVITAMINS": {
+            "THERAPEUTIC": 1.0
+        }, 
+        "MVI": {
+            ")": 1.0
+        }, 
+        "Morbid": {
+            "DIAGNOSIS:": 1.0
+        }, 
+        "NAWFEL": {
+            "DIET:": 1.0
+        }, 
+        "NEED": {
+            "COMMENTS:": 1.0
+        }, 
+        "NEWMARK": {
+            "):": 1.0
+        }, 
+        "NIDDM": {
+            "Treatment/Stay": 1.0
+        }, 
+        "NOT": {
+            "(": 1.0
+        }, 
+        "No": {
+            ",": 1.0
+        }, 
+        "Not": {
+            "WORK:": 1.0
+        }, 
+        "O.R.": {
+            "IN": 1.0
+        }, 
+        "OF": {
+            "END": 0.5, 
+            "RESUME": 0.5
+        }, 
+        "ON": {
+            "BMI>60.": 1.0
+        }, 
+        "ON:": {
+            "PATIENT": 1.0
+        }, 
+        "OPERATIONS": {
+            "DEPRESSION": 1.0
+        }, 
+        "OR": {
+            "THE": 1.0
+        }, 
+        "ORDER": {
+            "D/C": 1.0
+        }, 
+        "ORDERS": {
+            "DISCHARGE": 1.0
+        }, 
+        "OTHER": {
+            "#obese#": 0.5, 
+            "BYPASS": 0.5
+        }, 
+        "OXYCODONE+APAP": {
+            "(": 1.0
+        }, 
+        "Oksiolan": {
+            "Deonaan": 1.0
+        }, 
+        "PATIENT": {
+            "DISCHARGE": 1.0
+        }, 
+        "PO": {
+            "MG": 0.3333333333333333, 
+            "ML": 0.6666666666666666
+        }, 
+        "POST-OPERATIVE": {
+            "THE": 1.0
+        }, 
+        "PRINCIPAL": {
+            "#obese#": 1.0
+        }, 
+        "PRN": {
+            "Q3-4H": 1.0
+        }, 
+        "PROCEDURE": {
+            "THIS": 1.0
+        }, 
+        "PROCEDURES:": {
+            "AND": 1.0
+        }, 
+        "Q3-4H": {
+            "PO": 1.0
+        }, 
+        "QD": {
+            "PO": 1.0
+        }, 
+        "RESUME": {
+            "BRIEF": 1.0
+        }, 
+        "RETURN": {
+            "assist": 1.0
+        }, 
+        "ROXICET": {
+            ")": 1.0
+        }, 
+        "Report": {
+            "7/23/2000": 1.0
+        }, 
+        "S": {
+            "APPOINTMENT(": 1.0
+        }, 
+        "SAFTY": {
+            "HOME": 1.0
+        }, 
+        "SARWINSKI": {
+            "******": 1.0
+        }, 
+        "STABLE": {
+            "C/": 1.0
+        }, 
+        "STARTED": {
+            "WAS": 1.0
+        }, 
+        "SUMMARY:": {
+            "D/C": 1.0
+        }, 
+        "Service:": {
+            "Oksiolan": 1.0
+        }, 
+        "Stable": {
+            "CONDITION:": 1.0
+        }, 
+        "Starting": {
+            "BID": 0.5, 
+            "QD": 0.5
+        }, 
+        "Status:": {
+            "Report": 1.0
+        }, 
+        "Study": {
+            "After": 1.0
+        }, 
+        "TAKEN": {
+            "WAS": 1.0
+        }, 
+        "THE": {
+            "AS": 0.3333333333333333, 
+            "TO": 0.3333333333333333, 
+            "WELL.": 0.3333333333333333
+        }, 
+        "THERAPEUTIC": {
+            "(": 0.5, 
+            "MVI": 0.5
+        }, 
+        "THIS": {
+            "TOLERATED": 1.0
+        }, 
+        "TO": {
+            "RETURN": 0.3333333333333333, 
+            "Stable": 0.3333333333333333, 
+            "TAKEN": 0.3333333333333333
+        }, 
+        "TOLERATED": {
+            "HE": 1.0
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "OTHER": 1.0
+        }, 
+        "Treatment/Stay": {
+            "affecting": 1.0
+        }, 
+        "UNCOMPLICATED.": {
+            "WAS": 1.0
+        }, 
+        "UNDERWENT": {
+            "AND": 1.0
+        }, 
+        "UP": {
+            "FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "CONTINGENT": 1.0
+        }, 
+        "USED": {
+            "BE": 1.0
+        }, 
+        "VERTICAL": {
+            "M.D.": 0.5, 
+            "UNDERWENT": 0.5
+        }, 
+        "WAS": {
+            "COURSE": 0.3333333333333333, 
+            "DIET": 0.3333333333333333, 
+            "HE": 0.3333333333333333
+        }, 
+        "WELL.": {
+            "PROCEDURE": 1.0
+        }, 
+        "WILL": {
+            "evaluation": 1.0
+        }, 
+        "WOODLEY": {
+            "BY:": 1.0
+        }, 
+        "WORK:": {
+            "TO": 1.0
+        }, 
+        "Y.O": {
+            "32": 1.0
+        }, 
+        "YES": {
+            "SUMMARY:": 1.0
+        }, 
+        "ZT7": {
+            "(": 1.0
+        }, 
+        "affecting": {
+            ",": 1.0
+        }, 
+        "assist": {
+            "with": 1.0
+        }, 
+        "bernitsky": {
+            "hospital": 1.0
+        }, 
+        "cvar": {
+            "/": 1.0
+        }, 
+        "diet": {
+            "bernitsky": 1.0
+        }, 
+        "evaluation": {
+            "HO": 1.0
+        }, 
+        "for": {
+            "Study": 1.0
+        }, 
+        "hospital": {
+            "cvar": 1.0
+        }, 
+        "pain": {
+            "PRN": 1.0
+        }, 
+        "services": {
+            "w/": 1.0
+        }, 
+        "w/": {
+            "Home": 1.0
+        }, 
+        "with": {
+            "Ambulate": 1.0
+        }, 
+        "|": {
+            "#obese#": 0.1111111111111111, 
+            "17852808": 0.1111111111111111, 
+            "529315": 0.1111111111111111, 
+            "854040959": 0.1111111111111111, 
+            "AM": 0.1111111111111111, 
+            "DIS": 0.1111111111111111, 
+            "LHANH": 0.1111111111111111, 
+            "|": 0.2222222222222222
+        }
+    }, 
+    "id": "1094", 
+    "text": " 854040959 | LHANH | 17852808 | | 529315 | 9/25/2000 12:00:00 AM | MORBID #obese# | | DIS | Admission Date: 7/23/2000 Report Status: Discharge Date: 6/12/2000 ****** DISCHARGE ORDERS ****** SARWINSKI , BRYANT 548-52-48-7 La Deonaan Oksiolan Service: GGI DISCHARGE PATIENT ON: 10/2 AT 11:30 AM CONTINGENT UPON HO evaluation WILL D/C ORDER BE USED AS THE D/C SUMMARY: YES DISPOSITION: Home w/ services DISCHARGE MEDICATIONS: LISINOPRIL 5 MG PO BID Starting IN AM ( 4/6 ) MVI THERAPEUTIC ( THERAPEUTIC MULTIVITAMINS ) 5 ML PO QD Starting IN AM ( 4/6 ) ROXICET ELIXIR ( OXYCODONE+APAP LIQUID ) 5-10 ML PO Q3-4H PRN pain DIET: NAWFEL DIET / cvar hospital bernitsky diet Activity - Ambulate with assist RETURN TO WORK: Not Applicable FOLLOW UP APPOINTMENT( S ): NEWMARK 10 DAYS , No Known Allergies ADMIT DIAGNOSIS: Morbid #obese# PRINCIPAL DISCHARGE DIAGNOSIS ;Responsible After Study for Causing Admission ) MORBID #obese# OTHER DIAGNOSIS;Conditions , Infections , Complications , affecting Treatment/Stay NIDDM , HTN , DEPRESSION OPERATIONS AND PROCEDURES: 5/14 GENT , JEROLD DORSEY , M.D. VERTICAL BANDED GASTRIC BYPASS OTHER TREATMENTS/PROCEDURES ( NOT IN O.R. ) BRIEF RESUME OF HOSPITAL COURSE: 32 Y.O MALE C/ MOBID #obese# BMI>60. ON 11/19 HE WAS TAKEN TO THE OR AND UNDERWENT VERTICAL BANDED GASTRIC BYPASS. HE TOLERATED THIS PROCEDURE WELL. THE POST-OPERATIVE COURSE WAS UNCOMPLICATED. DIET WAS STARTED FROM ABKMC AND ADVENCED. HE TOLERATED AND DISCHARGE HOME C/ STABLE CONDITION. ADDITIONAL COMMENTS: NEED HOME SAFTY EVAL. DISCHARGE CONDITION: Stable TO DO/PLAN: ENTERED BY: WOODLEY , FRANKLIN , M.D. ( ZT7 ) 10/2 @ 09 ****** END OF DISCHARGE ORDERS ******", 
+    "tri": {
+        "#obese#": {
+            ")~MORBID": 0.25, 
+            "C/~MOBID": 0.25, 
+            "DIAGNOSIS:~Morbid": 0.25, 
+            "|~MORBID": 0.25
+        }, 
+        "(": {
+            ",~M.D.": 0.16666666666666666, 
+            "IN~AM": 0.3333333333333333, 
+            "MVI~THERAPEUTIC": 0.16666666666666666, 
+            "OTHER~TREATMENTS/PROCEDURES": 0.16666666666666666, 
+            "ROXICET~ELIXIR": 0.16666666666666666
+        }, 
+        ")": {
+            "(~4/6": 0.2857142857142857, 
+            "(~ZT7": 0.14285714285714285, 
+            "Causing~Admission": 0.14285714285714285, 
+            "IN~O.R.": 0.14285714285714285, 
+            "OXYCODONE+APAP~LIQUID": 0.14285714285714285, 
+            "THERAPEUTIC~MULTIVITAMINS": 0.14285714285714285
+        }, 
+        "):": {
+            "APPOINTMENT(~S": 1.0
+        }, 
+        "******": {
+            "@~09": 0.25, 
+            "DISCHARGE~ORDERS": 0.5, 
+            "Date:~6/12/2000": 0.25
+        }, 
+        ",": {
+            "******~SARWINSKI": 0.09090909090909091, 
+            ",~Complications": 0.09090909090909091, 
+            ",~FRANKLIN": 0.09090909090909091, 
+            ",~HTN": 0.09090909090909091, 
+            ",~Infections": 0.09090909090909091, 
+            "10~DAYS": 0.09090909090909091, 
+            "5/14~GENT": 0.09090909090909091, 
+            "BY:~WOODLEY": 0.09090909090909091, 
+            "JEROLD~DORSEY": 0.09090909090909091, 
+            "OTHER~DIAGNOSIS;Conditions": 0.09090909090909091, 
+            "Treatment/Stay~NIDDM": 0.09090909090909091
+        }, 
+        "-": {
+            "diet~Activity": 1.0
+        }, 
+        "/": {
+            "NAWFEL~DIET": 1.0
+        }, 
+        "09": {
+            "10/2~@": 1.0
+        }, 
+        "10": {
+            "):~NEWMARK": 1.0
+        }, 
+        "10/2": {
+            "PATIENT~ON:": 0.5, 
+            "ZT7~)": 0.5
+        }, 
+        "11/19": {
+            "BMI>60.~ON": 1.0
+        }, 
+        "11:30": {
+            "10/2~AT": 1.0
+        }, 
+        "12:00:00": {
+            "|~9/25/2000": 1.0
+        }, 
+        "17852808": {
+            "LHANH~|": 1.0
+        }, 
+        "32": {
+            "HOSPITAL~COURSE:": 1.0
+        }, 
+        "4/6": {
+            "AM~(": 1.0
+        }, 
+        "5": {
+            "MEDICATIONS:~LISINOPRIL": 0.5, 
+            "MULTIVITAMINS~)": 0.5
+        }, 
+        "5-10": {
+            "LIQUID~)": 1.0
+        }, 
+        "5/14": {
+            "AND~PROCEDURES:": 1.0
+        }, 
+        "529315": {
+            "|~|": 1.0
+        }, 
+        "548-52-48-7": {
+            ",~BRYANT": 1.0
+        }, 
+        "6/12/2000": {
+            "Discharge~Date:": 1.0
+        }, 
+        "7/23/2000": {
+            "Admission~Date:": 1.0
+        }, 
+        "9/25/2000": {
+            "529315~|": 1.0
+        }, 
+        ";Responsible": {
+            "DISCHARGE~DIAGNOSIS": 1.0
+        }, 
+        "@": {
+            ")~10/2": 1.0
+        }, 
+        "ABKMC": {
+            "STARTED~FROM": 1.0
+        }, 
+        "ADDITIONAL": {
+            "STABLE~CONDITION.": 1.0
+        }, 
+        "ADMIT": {
+            "Known~Allergies": 1.0
+        }, 
+        "ADVENCED.": {
+            "ABKMC~AND": 1.0
+        }, 
+        "AM": {
+            "9/25/2000~12:00:00": 0.25, 
+            "AT~11:30": 0.25, 
+            "Starting~IN": 0.5
+        }, 
+        "AND": {
+            "DEPRESSION~OPERATIONS": 0.25, 
+            "FROM~ABKMC": 0.25, 
+            "HE~TOLERATED": 0.25, 
+            "THE~OR": 0.25
+        }, 
+        "APPOINTMENT(": {
+            "FOLLOW~UP": 1.0
+        }, 
+        "AS": {
+            "BE~USED": 1.0
+        }, 
+        "AT": {
+            "ON:~10/2": 1.0
+        }, 
+        "Activity": {
+            "bernitsky~diet": 1.0
+        }, 
+        "Admission": {
+            "DIS~|": 0.5, 
+            "for~Causing": 0.5
+        }, 
+        "After": {
+            "DIAGNOSIS~;Responsible": 1.0
+        }, 
+        "Allergies": {
+            "No~Known": 1.0
+        }, 
+        "Ambulate": {
+            "Activity~-": 1.0
+        }, 
+        "Applicable": {
+            "WORK:~Not": 1.0
+        }, 
+        "BANDED": {
+            "M.D.~VERTICAL": 0.5, 
+            "UNDERWENT~VERTICAL": 0.5
+        }, 
+        "BE": {
+            "D/C~ORDER": 1.0
+        }, 
+        "BID": {
+            "MG~PO": 1.0
+        }, 
+        "BMI>60.": {
+            "MOBID~#obese#": 1.0
+        }, 
+        "BRIEF": {
+            "O.R.~)": 1.0
+        }, 
+        "BRYANT": {
+            "SARWINSKI~,": 1.0
+        }, 
+        "BY:": {
+            "DO/PLAN:~ENTERED": 1.0
+        }, 
+        "BYPASS": {
+            "BANDED~GASTRIC": 1.0
+        }, 
+        "BYPASS.": {
+            "BANDED~GASTRIC": 1.0
+        }, 
+        "C/": {
+            "DISCHARGE~HOME": 0.5, 
+            "Y.O~MALE": 0.5
+        }, 
+        "COMMENTS:": {
+            "CONDITION.~ADDITIONAL": 1.0
+        }, 
+        "CONDITION.": {
+            "C/~STABLE": 1.0
+        }, 
+        "CONDITION:": {
+            "EVAL.~DISCHARGE": 1.0
+        }, 
+        "CONTINGENT": {
+            "11:30~AM": 1.0
+        }, 
+        "COURSE": {
+            "THE~POST-OPERATIVE": 1.0
+        }, 
+        "COURSE:": {
+            "OF~HOSPITAL": 1.0
+        }, 
+        "Causing": {
+            "Study~for": 1.0
+        }, 
+        "Complications": {
+            "Infections~,": 1.0
+        }, 
+        "D/C": {
+            "AS~THE": 0.5, 
+            "evaluation~WILL": 0.5
+        }, 
+        "DAYS": {
+            "NEWMARK~10": 1.0
+        }, 
+        "DEPRESSION": {
+            "HTN~,": 1.0
+        }, 
+        "DIAGNOSIS": {
+            "PRINCIPAL~DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "Allergies~ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "#obese#~OTHER": 1.0
+        }, 
+        "DIET": {
+            "DIET:~NAWFEL": 0.5, 
+            "WAS~UNCOMPLICATED.": 0.5
+        }, 
+        "DIET:": {
+            "PRN~pain": 1.0
+        }, 
+        "DIS": {
+            "|~|": 1.0
+        }, 
+        "DISCHARGE": {
+            "#obese#~PRINCIPAL": 0.14285714285714285, 
+            "6/12/2000~******": 0.14285714285714285, 
+            "END~OF": 0.14285714285714285, 
+            "SAFTY~EVAL.": 0.14285714285714285, 
+            "Service:~GGI": 0.14285714285714285, 
+            "TOLERATED~AND": 0.14285714285714285, 
+            "w/~services": 0.14285714285714285
+        }, 
+        "DISPOSITION:": {
+            "SUMMARY:~YES": 1.0
+        }, 
+        "DO/PLAN:": {
+            "Stable~TO": 1.0
+        }, 
+        "DORSEY": {
+            ",~JEROLD": 1.0
+        }, 
+        "Date:": {
+            "Status:~Discharge": 0.5, 
+            "|~Admission": 0.5
+        }, 
+        "Deonaan": {
+            "548-52-48-7~La": 1.0
+        }, 
+        "Discharge": {
+            "Report~Status:": 1.0
+        }, 
+        "ELIXIR": {
+            ")~ROXICET": 1.0
+        }, 
+        "END": {
+            "09~******": 1.0
+        }, 
+        "ENTERED": {
+            "TO~DO/PLAN:": 1.0
+        }, 
+        "EVAL.": {
+            "HOME~SAFTY": 1.0
+        }, 
+        "FOLLOW": {
+            "Not~Applicable": 1.0
+        }, 
+        "FRANKLIN": {
+            "WOODLEY~,": 1.0
+        }, 
+        "FROM": {
+            "WAS~STARTED": 1.0
+        }, 
+        "GASTRIC": {
+            "VERTICAL~BANDED": 1.0
+        }, 
+        "GENT": {
+            "PROCEDURES:~5/14": 1.0
+        }, 
+        "GGI": {
+            "Oksiolan~Service:": 1.0
+        }, 
+        "HE": {
+            "AND~ADVENCED.": 0.3333333333333333, 
+            "GASTRIC~BYPASS.": 0.3333333333333333, 
+            "ON~11/19": 0.3333333333333333
+        }, 
+        "HO": {
+            "CONTINGENT~UPON": 1.0
+        }, 
+        "HOME": {
+            "AND~DISCHARGE": 0.5, 
+            "COMMENTS:~NEED": 0.5
+        }, 
+        "HOSPITAL": {
+            "RESUME~OF": 1.0
+        }, 
+        "HTN": {
+            "NIDDM~,": 1.0
+        }, 
+        "Home": {
+            "YES~DISPOSITION:": 1.0
+        }, 
+        "IN": {
+            "(~NOT": 0.3333333333333333, 
+            "BID~Starting": 0.3333333333333333, 
+            "QD~Starting": 0.3333333333333333
+        }, 
+        "Infections": {
+            "DIAGNOSIS;Conditions~,": 1.0
+        }, 
+        "JEROLD": {
+            "GENT~,": 1.0
+        }, 
+        "Known": {
+            ",~No": 1.0
+        }, 
+        "LHANH": {
+            "854040959~|": 1.0
+        }, 
+        "LIQUID": {
+            "(~OXYCODONE+APAP": 1.0
+        }, 
+        "LISINOPRIL": {
+            "DISCHARGE~MEDICATIONS:": 1.0
+        }, 
+        "La": {
+            "BRYANT~548-52-48-7": 1.0
+        }, 
+        "M.D.": {
+            "DORSEY~,": 0.5, 
+            "FRANKLIN~,": 0.5
+        }, 
+        "MALE": {
+            "32~Y.O": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "services~DISCHARGE": 1.0
+        }, 
+        "MG": {
+            "LISINOPRIL~5": 1.0
+        }, 
+        "ML": {
+            ")~5": 0.5, 
+            ")~5-10": 0.5
+        }, 
+        "MOBID": {
+            "MALE~C/": 1.0
+        }, 
+        "MORBID": {
+            "AM~|": 0.5, 
+            "Admission~)": 0.5
+        }, 
+        "MULTIVITAMINS": {
+            "(~THERAPEUTIC": 1.0
+        }, 
+        "MVI": {
+            "4/6~)": 1.0
+        }, 
+        "Morbid": {
+            "ADMIT~DIAGNOSIS:": 1.0
+        }, 
+        "NAWFEL": {
+            "pain~DIET:": 1.0
+        }, 
+        "NEED": {
+            "ADDITIONAL~COMMENTS:": 1.0
+        }, 
+        "NEWMARK": {
+            "S~):": 1.0
+        }, 
+        "NIDDM": {
+            "affecting~Treatment/Stay": 1.0
+        }, 
+        "NOT": {
+            "TREATMENTS/PROCEDURES~(": 1.0
+        }, 
+        "No": {
+            "DAYS~,": 1.0
+        }, 
+        "Not": {
+            "TO~WORK:": 1.0
+        }, 
+        "O.R.": {
+            "NOT~IN": 1.0
+        }, 
+        "OF": {
+            "******~END": 0.5, 
+            "BRIEF~RESUME": 0.5
+        }, 
+        "ON": {
+            "#obese#~BMI>60.": 1.0
+        }, 
+        "ON:": {
+            "DISCHARGE~PATIENT": 1.0
+        }, 
+        "OPERATIONS": {
+            ",~DEPRESSION": 1.0
+        }, 
+        "OR": {
+            "TO~THE": 1.0
+        }, 
+        "ORDER": {
+            "WILL~D/C": 1.0
+        }, 
+        "ORDERS": {
+            "******~DISCHARGE": 0.5, 
+            "OF~DISCHARGE": 0.5
+        }, 
+        "OTHER": {
+            "GASTRIC~BYPASS": 0.5, 
+            "MORBID~#obese#": 0.5
+        }, 
+        "OXYCODONE+APAP": {
+            "ELIXIR~(": 1.0
+        }, 
+        "Oksiolan": {
+            "La~Deonaan": 1.0
+        }, 
+        "PATIENT": {
+            "GGI~DISCHARGE": 1.0
+        }, 
+        "PO": {
+            "5-10~ML": 0.3333333333333333, 
+            "5~MG": 0.3333333333333333, 
+            "5~ML": 0.3333333333333333
+        }, 
+        "POST-OPERATIVE": {
+            "WELL.~THE": 1.0
+        }, 
+        "PRINCIPAL": {
+            "Morbid~#obese#": 1.0
+        }, 
+        "PRN": {
+            "PO~Q3-4H": 1.0
+        }, 
+        "PROCEDURE": {
+            "TOLERATED~THIS": 1.0
+        }, 
+        "PROCEDURES:": {
+            "OPERATIONS~AND": 1.0
+        }, 
+        "Q3-4H": {
+            "ML~PO": 1.0
+        }, 
+        "QD": {
+            "ML~PO": 1.0
+        }, 
+        "RESUME": {
+            ")~BRIEF": 1.0
+        }, 
+        "RETURN": {
+            "with~assist": 1.0
+        }, 
+        "ROXICET": {
+            "4/6~)": 1.0
+        }, 
+        "Report": {
+            "Date:~7/23/2000": 1.0
+        }, 
+        "S": {
+            "UP~APPOINTMENT(": 1.0
+        }, 
+        "SAFTY": {
+            "NEED~HOME": 1.0
+        }, 
+        "SARWINSKI": {
+            "ORDERS~******": 1.0
+        }, 
+        "STABLE": {
+            "HOME~C/": 1.0
+        }, 
+        "STARTED": {
+            "DIET~WAS": 1.0
+        }, 
+        "SUMMARY:": {
+            "THE~D/C": 1.0
+        }, 
+        "Service:": {
+            "Deonaan~Oksiolan": 1.0
+        }, 
+        "Stable": {
+            "DISCHARGE~CONDITION:": 1.0
+        }, 
+        "Starting": {
+            "PO~BID": 0.5, 
+            "PO~QD": 0.5
+        }, 
+        "Status:": {
+            "7/23/2000~Report": 1.0
+        }, 
+        "Study": {
+            ";Responsible~After": 1.0
+        }, 
+        "TAKEN": {
+            "HE~WAS": 1.0
+        }, 
+        "THE": {
+            "PROCEDURE~WELL.": 0.3333333333333333, 
+            "TAKEN~TO": 0.3333333333333333, 
+            "USED~AS": 0.3333333333333333
+        }, 
+        "THERAPEUTIC": {
+            ")~MVI": 0.5, 
+            "THERAPEUTIC~(": 0.5
+        }, 
+        "THIS": {
+            "HE~TOLERATED": 1.0
+        }, 
+        "TO": {
+            "CONDITION:~Stable": 0.3333333333333333, 
+            "WAS~TAKEN": 0.3333333333333333, 
+            "assist~RETURN": 0.3333333333333333
+        }, 
+        "TOLERATED": {
+            "ADVENCED.~HE": 0.5, 
+            "BYPASS.~HE": 0.5
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "BYPASS~OTHER": 1.0
+        }, 
+        "Treatment/Stay": {
+            ",~affecting": 1.0
+        }, 
+        "UNCOMPLICATED.": {
+            "COURSE~WAS": 1.0
+        }, 
+        "UNDERWENT": {
+            "OR~AND": 1.0
+        }, 
+        "UP": {
+            "Applicable~FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "AM~CONTINGENT": 1.0
+        }, 
+        "USED": {
+            "ORDER~BE": 1.0
+        }, 
+        "VERTICAL": {
+            ",~M.D.": 0.5, 
+            "AND~UNDERWENT": 0.5
+        }, 
+        "WAS": {
+            "11/19~HE": 0.3333333333333333, 
+            "POST-OPERATIVE~COURSE": 0.3333333333333333, 
+            "UNCOMPLICATED.~DIET": 0.3333333333333333
+        }, 
+        "WELL.": {
+            "THIS~PROCEDURE": 1.0
+        }, 
+        "WILL": {
+            "HO~evaluation": 1.0
+        }, 
+        "WOODLEY": {
+            "ENTERED~BY:": 1.0
+        }, 
+        "WORK:": {
+            "RETURN~TO": 1.0
+        }, 
+        "Y.O": {
+            "COURSE:~32": 1.0
+        }, 
+        "YES": {
+            "D/C~SUMMARY:": 1.0
+        }, 
+        "ZT7": {
+            "M.D.~(": 1.0
+        }, 
+        "affecting": {
+            "Complications~,": 1.0
+        }, 
+        "assist": {
+            "Ambulate~with": 1.0
+        }, 
+        "bernitsky": {
+            "cvar~hospital": 1.0
+        }, 
+        "cvar": {
+            "DIET~/": 1.0
+        }, 
+        "diet": {
+            "hospital~bernitsky": 1.0
+        }, 
+        "evaluation": {
+            "UPON~HO": 1.0
+        }, 
+        "for": {
+            "After~Study": 1.0
+        }, 
+        "hospital": {
+            "/~cvar": 1.0
+        }, 
+        "pain": {
+            "Q3-4H~PRN": 1.0
+        }, 
+        "services": {
+            "Home~w/": 1.0
+        }, 
+        "w/": {
+            "DISPOSITION:~Home": 1.0
+        }, 
+        "with": {
+            "-~Ambulate": 1.0
+        }, 
+        "|": {
+            "#obese#~|": 0.1111111111111111, 
+            "12:00:00~AM": 0.1111111111111111, 
+            "17852808~|": 0.1111111111111111, 
+            "MORBID~#obese#": 0.1111111111111111, 
+            "|~17852808": 0.1111111111111111, 
+            "|~529315": 0.1111111111111111, 
+            "|~DIS": 0.1111111111111111, 
+            "|~LHANH": 0.1111111111111111, 
+            "~854040959": 0.1111111111111111
+        }
+    }, 
+    "type": "data/test", 
+    "uni": {
+        "": 0.003745318352059925, 
+        "#obese#": 0.0149812734082397, 
+        "(": 0.02247191011235955, 
+        ")": 0.026217228464419477, 
+        "):": 0.003745318352059925, 
+        "******": 0.011235955056179775, 
+        ",": 0.04119850187265917, 
+        "-": 0.003745318352059925, 
+        "/": 0.003745318352059925, 
+        "09": 0.003745318352059925, 
+        "10": 0.003745318352059925, 
+        "10/2": 0.00749063670411985, 
+        "11/19": 0.003745318352059925, 
+        "11:30": 0.003745318352059925, 
+        "12:00:00": 0.003745318352059925, 
+        "17852808": 0.003745318352059925, 
+        "32": 0.003745318352059925, 
+        "4/6": 0.00749063670411985, 
+        "5": 0.00749063670411985, 
+        "5-10": 0.003745318352059925, 
+        "5/14": 0.003745318352059925, 
+        "529315": 0.003745318352059925, 
+        "548-52-48-7": 0.003745318352059925, 
+        "6/12/2000": 0.003745318352059925, 
+        "7/23/2000": 0.003745318352059925, 
+        "854040959": 0.003745318352059925, 
+        "9/25/2000": 0.003745318352059925, 
+        ";Responsible": 0.003745318352059925, 
+        "@": 0.003745318352059925, 
+        "ABKMC": 0.003745318352059925, 
+        "ADDITIONAL": 0.003745318352059925, 
+        "ADMIT": 0.003745318352059925, 
+        "ADVENCED.": 0.003745318352059925, 
+        "AM": 0.0149812734082397, 
+        "AND": 0.0149812734082397, 
+        "APPOINTMENT(": 0.003745318352059925, 
+        "AS": 0.003745318352059925, 
+        "AT": 0.003745318352059925, 
+        "Activity": 0.003745318352059925, 
+        "Admission": 0.00749063670411985, 
+        "After": 0.003745318352059925, 
+        "Allergies": 0.003745318352059925, 
+        "Ambulate": 0.003745318352059925, 
+        "Applicable": 0.003745318352059925, 
+        "BANDED": 0.00749063670411985, 
+        "BE": 0.003745318352059925, 
+        "BID": 0.003745318352059925, 
+        "BMI>60.": 0.003745318352059925, 
+        "BRIEF": 0.003745318352059925, 
+        "BRYANT": 0.003745318352059925, 
+        "BY:": 0.003745318352059925, 
+        "BYPASS": 0.003745318352059925, 
+        "BYPASS.": 0.003745318352059925, 
+        "C/": 0.00749063670411985, 
+        "COMMENTS:": 0.003745318352059925, 
+        "CONDITION.": 0.003745318352059925, 
+        "CONDITION:": 0.003745318352059925, 
+        "CONTINGENT": 0.003745318352059925, 
+        "COURSE": 0.003745318352059925, 
+        "COURSE:": 0.003745318352059925, 
+        "Causing": 0.003745318352059925, 
+        "Complications": 0.003745318352059925, 
+        "D/C": 0.00749063670411985, 
+        "DAYS": 0.003745318352059925, 
+        "DEPRESSION": 0.003745318352059925, 
+        "DIAGNOSIS": 0.003745318352059925, 
+        "DIAGNOSIS:": 0.003745318352059925, 
+        "DIAGNOSIS;Conditions": 0.003745318352059925, 
+        "DIET": 0.00749063670411985, 
+        "DIET:": 0.003745318352059925, 
+        "DIS": 0.003745318352059925, 
+        "DISCHARGE": 0.026217228464419477, 
+        "DISPOSITION:": 0.003745318352059925, 
+        "DO/PLAN:": 0.003745318352059925, 
+        "DORSEY": 0.003745318352059925, 
+        "Date:": 0.00749063670411985, 
+        "Deonaan": 0.003745318352059925, 
+        "Discharge": 0.003745318352059925, 
+        "ELIXIR": 0.003745318352059925, 
+        "END": 0.003745318352059925, 
+        "ENTERED": 0.003745318352059925, 
+        "EVAL.": 0.003745318352059925, 
+        "FOLLOW": 0.003745318352059925, 
+        "FRANKLIN": 0.003745318352059925, 
+        "FROM": 0.003745318352059925, 
+        "GASTRIC": 0.00749063670411985, 
+        "GENT": 0.003745318352059925, 
+        "GGI": 0.003745318352059925, 
+        "HE": 0.011235955056179775, 
+        "HO": 0.003745318352059925, 
+        "HOME": 0.00749063670411985, 
+        "HOSPITAL": 0.003745318352059925, 
+        "HTN": 0.003745318352059925, 
+        "Home": 0.003745318352059925, 
+        "IN": 0.011235955056179775, 
+        "Infections": 0.003745318352059925, 
+        "JEROLD": 0.003745318352059925, 
+        "Known": 0.003745318352059925, 
+        "LHANH": 0.003745318352059925, 
+        "LIQUID": 0.003745318352059925, 
+        "LISINOPRIL": 0.003745318352059925, 
+        "La": 0.003745318352059925, 
+        "M.D.": 0.00749063670411985, 
+        "MALE": 0.003745318352059925, 
+        "MEDICATIONS:": 0.003745318352059925, 
+        "MG": 0.003745318352059925, 
+        "ML": 0.00749063670411985, 
+        "MOBID": 0.003745318352059925, 
+        "MORBID": 0.00749063670411985, 
+        "MULTIVITAMINS": 0.003745318352059925, 
+        "MVI": 0.003745318352059925, 
+        "Morbid": 0.003745318352059925, 
+        "NAWFEL": 0.003745318352059925, 
+        "NEED": 0.003745318352059925, 
+        "NEWMARK": 0.003745318352059925, 
+        "NIDDM": 0.003745318352059925, 
+        "NOT": 0.003745318352059925, 
+        "No": 0.003745318352059925, 
+        "Not": 0.003745318352059925, 
+        "O.R.": 0.003745318352059925, 
+        "OF": 0.00749063670411985, 
+        "ON": 0.003745318352059925, 
+        "ON:": 0.003745318352059925, 
+        "OPERATIONS": 0.003745318352059925, 
+        "OR": 0.003745318352059925, 
+        "ORDER": 0.003745318352059925, 
+        "ORDERS": 0.003745318352059925, 
+        "OTHER": 0.00749063670411985, 
+        "OXYCODONE+APAP": 0.003745318352059925, 
+        "Oksiolan": 0.003745318352059925, 
+        "PATIENT": 0.003745318352059925, 
+        "PO": 0.011235955056179775, 
+        "POST-OPERATIVE": 0.003745318352059925, 
+        "PRINCIPAL": 0.003745318352059925, 
+        "PRN": 0.003745318352059925, 
+        "PROCEDURE": 0.003745318352059925, 
+        "PROCEDURES:": 0.003745318352059925, 
+        "Q3-4H": 0.003745318352059925, 
+        "QD": 0.003745318352059925, 
+        "RESUME": 0.003745318352059925, 
+        "RETURN": 0.003745318352059925, 
+        "ROXICET": 0.003745318352059925, 
+        "Report": 0.003745318352059925, 
+        "S": 0.003745318352059925, 
+        "SAFTY": 0.003745318352059925, 
+        "SARWINSKI": 0.003745318352059925, 
+        "STABLE": 0.003745318352059925, 
+        "STARTED": 0.003745318352059925, 
+        "SUMMARY:": 0.003745318352059925, 
+        "Service:": 0.003745318352059925, 
+        "Stable": 0.003745318352059925, 
+        "Starting": 0.00749063670411985, 
+        "Status:": 0.003745318352059925, 
+        "Study": 0.003745318352059925, 
+        "TAKEN": 0.003745318352059925, 
+        "THE": 0.011235955056179775, 
+        "THERAPEUTIC": 0.00749063670411985, 
+        "THIS": 0.003745318352059925, 
+        "TO": 0.011235955056179775, 
+        "TOLERATED": 0.00749063670411985, 
+        "TREATMENTS/PROCEDURES": 0.003745318352059925, 
+        "Treatment/Stay": 0.003745318352059925, 
+        "UNCOMPLICATED.": 0.003745318352059925, 
+        "UNDERWENT": 0.003745318352059925, 
+        "UP": 0.003745318352059925, 
+        "UPON": 0.003745318352059925, 
+        "USED": 0.003745318352059925, 
+        "VERTICAL": 0.00749063670411985, 
+        "WAS": 0.011235955056179775, 
+        "WELL.": 0.003745318352059925, 
+        "WILL": 0.003745318352059925, 
+        "WOODLEY": 0.003745318352059925, 
+        "WORK:": 0.003745318352059925, 
+        "Y.O": 0.003745318352059925, 
+        "YES": 0.003745318352059925, 
+        "ZT7": 0.003745318352059925, 
+        "affecting": 0.003745318352059925, 
+        "assist": 0.003745318352059925, 
+        "bernitsky": 0.003745318352059925, 
+        "cvar": 0.003745318352059925, 
+        "diet": 0.003745318352059925, 
+        "evaluation": 0.003745318352059925, 
+        "for": 0.003745318352059925, 
+        "hospital": 0.003745318352059925, 
+        "pain": 0.003745318352059925, 
+        "services": 0.003745318352059925, 
+        "w/": 0.003745318352059925, 
+        "with": 0.003745318352059925, 
+        "|": 0.033707865168539325
+    }
+}

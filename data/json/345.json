@@ -1,0 +1,2926 @@
+{
+    "bi": {
+        "#1": {
+            "day": 1.0
+        }, 
+        "#2": {
+            "day": 1.0
+        }, 
+        "#4": {
+            "day": 1.0
+        }, 
+        "#obese#": {
+            "MORBID": 0.4, 
+            "an": 0.2, 
+            "is": 0.2, 
+            "morbid": 0.2
+        }, 
+        ",": {
+            "#1": 0.022222222222222223, 
+            "1.3": 0.022222222222222223, 
+            "104": 0.022222222222222223, 
+            "12.2": 0.022222222222222223, 
+            "122/72": 0.022222222222222223, 
+            "142": 0.022222222222222223, 
+            "173": 0.022222222222222223, 
+            "195": 0.022222222222222223, 
+            "28": 0.022222222222222223, 
+            "31.6": 0.022222222222222223, 
+            "4/11/98": 0.022222222222222223, 
+            "5.1": 0.022222222222222223, 
+            "7.0": 0.022222222222222223, 
+            "APNEA": 0.022222222222222223, 
+            "FAILURE": 0.022222222222222223, 
+            "HYPERTENSION": 0.022222222222222223, 
+            "LABORDE": 0.022222222222222223, 
+            "MELLITUS": 0.022222222222222223, 
+            "NPH": 0.022222222222222223, 
+            "SPRAGGINS": 0.022222222222222223, 
+            "a.m.": 0.022222222222222223, 
+            "b.i.d.": 0.044444444444444446, 
+            "complications": 0.022222222222222223, 
+            "day": 0.15555555555555556, 
+            "diet": 0.022222222222222223, 
+            "failure": 0.022222222222222223, 
+            "fever": 0.022222222222222223, 
+            "hypertension": 0.022222222222222223, 
+            "p.m.": 0.08888888888888889, 
+            "pain": 0.022222222222222223, 
+            "pounds": 0.022222222222222223, 
+            "questions": 0.022222222222222223, 
+            "surgeries": 0.022222222222222223, 
+            "t.i.d.": 0.044444444444444446
+        }, 
+        "1.3": {
+            "creatinine": 1.0
+        }, 
+        "1/24/98": {
+            "D:": 1.0
+        }, 
+        "10": {
+            "elixir": 1.0
+        }, 
+        "104": {
+            "chloride": 1.0
+        }, 
+        "12.2": {
+            "PT": 1.0
+        }, 
+        "120": {
+            "includes": 1.0
+        }, 
+        "122/72": {
+            "pressure": 1.0
+        }, 
+        "1250": {
+            "Tums": 1.0
+        }, 
+        "12:00:00": {
+            "6/25/1998": 1.0
+        }, 
+        "14": {
+            "insulin": 1.0
+        }, 
+        "142": {
+            "sodium": 1.0
+        }, 
+        "15": {
+            "at": 1.0
+        }, 
+        "150": {
+            "Axid": 1.0
+        }, 
+        "173": {
+            "platelets": 1.0
+        }, 
+        "195": {
+            "glucose": 1.0
+        }, 
+        "195809": {
+            "|": 1.0
+        }, 
+        "1989": {
+            "in": 1.0
+        }, 
+        "20": {
+            ",": 0.3333333333333333, 
+            "Lisinopril": 0.3333333333333333, 
+            "and": 0.3333333333333333
+        }, 
+        "26.5.": {
+            "PTT": 1.0
+        }, 
+        "28": {
+            "bicarb": 1.0
+        }, 
+        "3/1/1998": {
+            "Date:": 1.0
+        }, 
+        "31.6": {
+            "hematocrit": 1.0
+        }, 
+        "325": {
+            "aspirin": 1.0
+        }, 
+        "4/11/98": {
+            "ON": 0.5, 
+            "on": 0.5
+        }, 
+        "40": {
+            "Lasix": 1.0
+        }, 
+        "450": {
+            "approximately": 1.0
+        }, 
+        "479794466": {
+            "": 1.0
+        }, 
+        "48": {
+            "after": 1.0
+        }, 
+        "5": {
+            "elixir": 1.0
+        }, 
+        "5.1": {
+            "potassium": 1.0
+        }, 
+        "50": {
+            "atenolol": 1.0
+        }, 
+        "55-year-old": {
+            "#obese#": 0.5, 
+            "a": 0.5
+        }, 
+        "6": {
+            ",": 0.25, 
+            "and": 0.25, 
+            "insulin": 0.25, 
+            "with": 0.25
+        }, 
+        "6/25/1998": {
+            "Date:": 0.5, 
+            "|": 0.5
+        }, 
+        "600": {
+            "Rezulin": 1.0
+        }, 
+        "7.0": {
+            "count": 1.0
+        }, 
+        "72.": {
+            "rate": 1.0
+        }, 
+        "850": {
+            "Metformin": 1.0
+        }, 
+        "96033978": {
+            "|": 1.0
+        }, 
+        "97853": {
+            "Batch:": 1.0
+        }, 
+        "ADMISSION:": {
+            "ON": 1.0
+        }, 
+        "AM": {
+            "12:00:00": 1.0
+        }, 
+        "AND": {
+            ",": 0.5, 
+            "OPERATIONS": 0.5
+        }, 
+        "ANTON": {
+            "DR.": 1.0
+        }, 
+        "APNEA": {
+            "SLEEP": 1.0
+        }, 
+        "AV": {
+            "degree": 1.0
+        }, 
+        "Abdomen": {
+            "distress.": 1.0
+        }, 
+        "Activities": {
+            "meals.": 1.0
+        }, 
+        "Admission": {
+            "LABORATORY:": 0.5, 
+            "|": 0.5
+        }, 
+        "As": {
+            "HISTORY:": 1.0
+        }, 
+        "Attending:": {
+            "DD86": 1.0
+        }, 
+        "Axid": {
+            ",": 1.0
+        }, 
+        "BILLIE": {
+            "Attending:": 1.0
+        }, 
+        "BY": {
+            "BYPASS": 1.0
+        }, 
+        "BYPASS": {
+            "GASTRIC": 1.0
+        }, 
+        "Batch:": {
+            "QI341/3884": 1.0
+        }, 
+        "Blood": {
+            "EXAMINATION:": 1.0
+        }, 
+        "Breakfast": {
+            "Instant": 1.0
+        }, 
+        "By:": {
+            "Dictated": 1.0
+        }, 
+        "CONGESTIVE": {
+            ",": 1.0
+        }, 
+        "CPAP": {
+            "nocturnal": 1.0
+        }, 
+        "CVI": {
+            ",": 1.0
+        }, 
+        "Carnation": {
+            "of": 1.0
+        }, 
+        "Chest": {
+            "block.": 1.0
+        }, 
+        "D:": {
+            "Y6XTZT1XJL": 1.0
+        }, 
+        "DD86": {
+            "M.D.": 1.0
+        }, 
+        "DEPENDENT": {
+            "NONINSULIN": 1.0
+        }, 
+        "DIABETES": {
+            "DEPENDENT": 1.0
+        }, 
+        "DIAGNOSES:": {
+            "DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "PRINCIPAL": 1.0
+        }, 
+        "DIS": {
+            "|": 1.0
+        }, 
+        "DISCHARGE": {
+            "OTHER": 1.0
+        }, 
+        "DISEASE.": {
+            "VASCULAR": 1.0
+        }, 
+        "DR.": {
+            "BY": 1.0
+        }, 
+        "Date:": {
+            "Admission": 0.5, 
+            "Discharge": 0.5
+        }, 
+        "Dictated": {
+            "Jello.": 1.0
+        }, 
+        "Discharge": {
+            "Signed": 0.5, 
+            "incision.": 0.5
+        }, 
+        "Dr.": {
+            "by": 0.5, 
+            "with": 0.5
+        }, 
+        "EKG": {
+            "26.5.": 1.0
+        }, 
+        "EXAMINATION:": {
+            "PHYSICAL": 1.0
+        }, 
+        "FAILURE": {
+            "HEART": 1.0
+        }, 
+        "G": {
+            "a": 1.0
+        }, 
+        "GASTRIC": {
+            "ROUX-EN-Y": 1.0
+        }, 
+        "HEART": {
+            "CONGESTIVE": 1.0
+        }, 
+        "HISTORY": {
+            "STEFANELLI": 1.0
+        }, 
+        "HISTORY:": {
+            "MEDICAL": 1.0
+        }, 
+        "HYPERTENSION": {
+            "DIAGNOSES:": 1.0
+        }, 
+        "He": {
+            "72.": 0.08333333333333333, 
+            "allergies.": 0.08333333333333333, 
+            "appointment.": 0.16666666666666666, 
+            "complications.": 0.08333333333333333, 
+            "course.": 0.08333333333333333, 
+            "day.": 0.16666666666666666, 
+            "diet.": 0.08333333333333333, 
+            "disease.": 0.08333333333333333, 
+            "drainage.": 0.08333333333333333, 
+            "tolerated.": 0.08333333333333333
+        }, 
+        "His": {
+            "condition.": 0.5, 
+            "movement.": 0.5
+        }, 
+        "II": {
+            "type": 1.0
+        }, 
+        "ILLNESS:": {
+            "PRESENT": 1.0
+        }, 
+        "Index": {
+            "97853": 1.0
+        }, 
+        "Instant": {
+            "Carnation": 1.0
+        }, 
+        "Jello.": {
+            "or": 1.0
+        }, 
+        "LABORATORY:": {
+            "soft.": 1.0
+        }, 
+        "LABORDE": {
+            "BILLIE": 1.0
+        }, 
+        "Lasix": {
+            ",": 1.0
+        }, 
+        "Lisinopril": {
+            ",": 1.0
+        }, 
+        "M.D.": {
+            ",": 1.0
+        }, 
+        "MEDICAL": {
+            "PAST": 1.0
+        }, 
+        "MEDICATIONS": {
+            "above.": 1.0
+        }, 
+        "MELLITUS": {
+            "DIABETES": 1.0
+        }, 
+        "MORBID": {
+            "DIAGNOSIS:": 0.5, 
+            "|": 0.5
+        }, 
+        "MV24": {
+            "M.D.": 1.0
+        }, 
+        "Metformin": {
+            ",": 1.0
+        }, 
+        "NONINSULIN": {
+            ",": 1.0
+        }, 
+        "NPH": {
+            ",": 0.3333333333333333, 
+            "of": 0.6666666666666666
+        }, 
+        "No.": {
+            "Index": 1.0
+        }, 
+        "OBSTRUCTIVE": {
+            ",": 1.0
+        }, 
+        "OF": {
+            "HISTORY": 1.0
+        }, 
+        "ON": {
+            "MEDICATIONS": 0.5, 
+            "PROCEDURES:": 0.5
+        }, 
+        "OPERATIONS": {
+            "DISEASE.": 1.0
+        }, 
+        "OTHER": {
+            "#obese#": 1.0
+        }, 
+        "On": {
+            "course.": 1.0
+        }, 
+        "PAST": {
+            "attempts.": 1.0
+        }, 
+        "PERIPHERAL": {
+            "AND": 1.0
+        }, 
+        "PHYSICAL": {
+            "history.": 1.0
+        }, 
+        "PRESENT": {
+            "OF": 1.0
+        }, 
+        "PRINCIPAL": {
+            "3/1/1998": 1.0
+        }, 
+        "PROCEDURES:": {
+            "AND": 1.0
+        }, 
+        "PT": {
+            ",": 1.0
+        }, 
+        "PTT": {
+            ",": 1.0
+        }, 
+        "Porro": {
+            "Dr.": 1.0
+        }, 
+        "QI341/3884": {
+            "MV24": 1.0
+        }, 
+        "ROUX-EN-Y": {
+            "UNDERWENT": 1.0
+        }, 
+        "RSMC": {
+            "|": 1.0
+        }, 
+        "Randall": {
+            "the": 1.0
+        }, 
+        "Regular": {
+            "of": 1.0
+        }, 
+        "Report": {
+            "6/25/1998": 1.0
+        }, 
+        "Rezulin": {
+            ",": 0.5, 
+            "ADMISSION:": 0.5
+        }, 
+        "Roux-en-y": {
+            "underwent": 1.0
+        }, 
+        "Roxicet": {
+            ",": 1.0
+        }, 
+        "SLEEP": {
+            "OBSTRUCTIVE": 1.0
+        }, 
+        "SPRAGGINS": {
+            "VIRGILIO": 1.0
+        }, 
+        "STEFANELLI": {
+            "ANTON": 1.0
+        }, 
+        "Signed": {
+            "Status:": 0.5, 
+            "|": 0.5
+        }, 
+        "Sobolewski": {
+            "Dr.": 1.0
+        }, 
+        "Status:": {
+            "Report": 1.0
+        }, 
+        "T": {
+            "His": 1.0
+        }, 
+        "T:": {
+            "1/24/98": 1.0
+        }, 
+        "The": {
+            "ILLNESS:": 1.0
+        }, 
+        "Tums": {
+            ",": 1.0
+        }, 
+        "UNDERWENT": {
+            ",": 1.0
+        }, 
+        "VASCULAR": {
+            "PERIPHERAL": 1.0
+        }, 
+        "VIRGILIO": {
+            "By:": 1.0
+        }, 
+        "Y6XTZT1XJL": {
+            "No.": 1.0
+        }, 
+        "a": {
+            "after": 0.14285714285714285, 
+            "began": 0.14285714285714285, 
+            "continued": 0.14285714285714285, 
+            "had": 0.14285714285714285, 
+            "having": 0.14285714285714285, 
+            "is": 0.14285714285714285, 
+            "with": 0.14285714285714285
+        }, 
+        "a.m.": {
+            "q": 1.0
+        }, 
+        "above.": {
+            "As": 1.0
+        }, 
+        "acute": {
+            "no": 1.0
+        }, 
+        "admitted": {
+            "was": 1.0
+        }, 
+        "after": {
+            "#2": 0.3333333333333333, 
+            "#4": 0.3333333333333333, 
+            "1989": 0.3333333333333333
+        }, 
+        "aggressive": {
+            "with": 1.0
+        }, 
+        "airway": {
+            "positive": 1.0
+        }, 
+        "all": {
+            "crush": 1.0
+        }, 
+        "allergies.": {
+            "drug": 1.0
+        }, 
+        "also": {
+            "will": 1.0
+        }, 
+        "ambulated": {
+            "was": 1.0
+        }, 
+        "an": {
+            "is": 1.0
+        }, 
+        "and": {
+            "#obese#": 0.06666666666666667, 
+            ",": 0.06666666666666667, 
+            "a.m.": 0.13333333333333333, 
+            "day": 0.06666666666666667, 
+            "floor": 0.06666666666666667, 
+            "follow-up": 0.06666666666666667, 
+            "improve": 0.06666666666666667, 
+            "intraoperatively": 0.06666666666666667, 
+            "mellitus": 0.06666666666666667, 
+            "physician": 0.06666666666666667, 
+            "pills": 0.06666666666666667, 
+            "steady": 0.06666666666666667, 
+            "toiletry": 0.06666666666666667, 
+            "week": 0.06666666666666667
+        }, 
+        "any": {
+            "had": 0.5, 
+            "with": 0.5
+        }, 
+        "apnea": {
+            "sleep": 1.0
+        }, 
+        "appointment.": {
+            "his": 0.5, 
+            "this": 0.5
+        }, 
+        "appreciable": {
+            "any": 1.0
+        }, 
+        "approximately": {
+            "of": 1.0
+        }, 
+        "are": {
+            "Activities": 1.0
+        }, 
+        "as": {
+            "are": 1.0
+        }, 
+        "aspirin": {
+            "and": 0.5, 
+            "include": 0.5
+        }, 
+        "at": {
+            "CPAP": 0.5, 
+            "which": 0.5
+        }, 
+        "atenolol": {
+            ",": 1.0
+        }, 
+        "attempts.": {
+            "diet": 1.0
+        }, 
+        "b.i.d.": {
+            "po": 1.0
+        }, 
+        "be": {
+            "to": 1.0
+        }, 
+        "began": {
+            "and": 1.0
+        }, 
+        "bicarb": {
+            ",": 1.0
+        }, 
+        "block.": {
+            "AV": 1.0
+        }, 
+        "bowel": {
+            "a": 1.0
+        }, 
+        "by": {
+            "bypass": 1.0
+        }, 
+        "bypass": {
+            "gastric": 1.0
+        }, 
+        "call": {
+            "should": 1.0
+        }, 
+        "care": {
+            "intensive": 0.5, 
+            "primary": 0.5
+        }, 
+        "cc": {
+            "120": 1.0
+        }, 
+        "centimeters": {
+            "15": 1.0
+        }, 
+        "chloride": {
+            ",": 1.0
+        }, 
+        "cigarettes": {
+            "smoking": 1.0
+        }, 
+        "clamped": {
+            "was": 1.0
+        }, 
+        "complications": {
+            "vascular": 1.0
+        }, 
+        "complications.": {
+            "intraoperative": 1.0
+        }, 
+        "condition.": {
+            "stable": 1.0
+        }, 
+        "congestive": {
+            ",": 1.0
+        }, 
+        "continue": {
+            "will": 1.0
+        }, 
+        "continued": {
+            ",": 0.5, 
+            "he": 0.5
+        }, 
+        "count": {
+            "white": 1.0
+        }, 
+        "course.": {
+            "postoperative": 1.0
+        }, 
+        "creatinine": {
+            ",": 1.0
+        }, 
+        "crush": {
+            "to": 1.0
+        }, 
+        "data": {
+            "laboratory": 1.0
+        }, 
+        "day": {
+            "per": 0.09090909090909091, 
+            "po": 0.09090909090909091, 
+            "postoperative": 0.2727272727272727, 
+            "q": 0.5454545454545454
+        }, 
+        "day.": {
+            "q": 1.0
+        }, 
+        "degree": {
+            "first": 1.0
+        }, 
+        "despite": {
+            "loss": 1.0
+        }, 
+        "diabetes": {
+            "II": 1.0
+        }, 
+        "diet": {
+            "His": 0.25, 
+            "gastrectomy": 0.25, 
+            "multiple": 0.25, 
+            "postgastroplasty": 0.25
+        }, 
+        "diet.": {
+            "gastrectomy": 1.0
+        }, 
+        "discharged": {
+            "was": 1.0
+        }, 
+        "disease.": {
+            "pulmonary": 1.0
+        }, 
+        "distress.": {
+            "acute": 1.0
+        }, 
+        "drainage": {
+            "or": 1.0
+        }, 
+        "drainage.": {
+            "gravity": 1.0
+        }, 
+        "drug": {
+            "known": 1.0
+        }, 
+        "early": {
+            "ambulated": 1.0
+        }, 
+        "eight": {
+            "Breakfast": 1.0
+        }, 
+        "elixir": {
+            "Roxicet": 0.5, 
+            "multivitamin": 0.5
+        }, 
+        "failure": {
+            "heart": 1.0
+        }, 
+        "fever": {
+            ",": 1.0
+        }, 
+        "first": {
+            "revealed": 1.0
+        }, 
+        "floor": {
+            "the": 1.0
+        }, 
+        "follow-up": {
+            "have": 0.3333333333333333, 
+            "on": 0.3333333333333333, 
+            "will": 0.3333333333333333
+        }, 
+        "foot": {
+            "left": 1.0
+        }, 
+        "four": {
+            "q": 1.0
+        }, 
+        "from": {
+            "drainage": 1.0
+        }, 
+        "gastrectomy": {
+            "his": 0.5, 
+            "post": 0.5
+        }, 
+        "gastric": {
+            "Roux-en-y": 1.0
+        }, 
+        "glucose": {
+            ",": 1.0
+        }, 
+        "gravity": {
+            "of": 1.0
+        }, 
+        "had": {
+            "He": 0.5, 
+            "not": 0.5
+        }, 
+        "has": {
+            "He": 0.5, 
+            "who": 0.5
+        }, 
+        "have": {
+            "also": 0.5, 
+            "will": 0.5
+        }, 
+        "having": {
+            "after": 1.0
+        }, 
+        "he": {
+            ",": 0.5, 
+            "where": 0.5
+        }, 
+        "heart": {
+            ",": 0.5, 
+            "congestive": 0.5
+        }, 
+        "hematocrit": {
+            ",": 1.0
+        }, 
+        "his": {
+            "from": 0.16666666666666666, 
+            "have": 0.16666666666666666, 
+            "in": 0.16666666666666666, 
+            "of": 0.16666666666666666, 
+            "schedule": 0.16666666666666666, 
+            "with": 0.16666666666666666
+        }, 
+        "history": {
+            "a": 1.0
+        }, 
+        "history.": {
+            "year": 1.0
+        }, 
+        "home": {
+            "discharged": 1.0
+        }, 
+        "hours": {
+            "48": 0.5, 
+            "six": 0.5
+        }, 
+        "hypertension": {
+            ",": 1.0
+        }, 
+        "improve": {
+            "to": 1.0
+        }, 
+        "in": {
+            "Porro": 0.2, 
+            "cigarettes": 0.2, 
+            "discharged": 0.2, 
+            "early": 0.2, 
+            "male": 0.2
+        }, 
+        "incision.": {
+            "his": 1.0
+        }, 
+        "include": {
+            "medications": 1.0
+        }, 
+        "included": {
+            "data": 1.0
+        }, 
+        "includes": {
+            "point": 1.0
+        }, 
+        "instructed": {
+            "was": 1.0
+        }, 
+        "insulin": {
+            ",": 0.3333333333333333, 
+            "CVI": 0.3333333333333333, 
+            "NPH": 0.3333333333333333
+        }, 
+        "intensive": {
+            "surgical": 1.0
+        }, 
+        "intraoperative": {
+            "no": 1.0
+        }, 
+        "intraoperatively": {
+            "placed": 1.0
+        }, 
+        "is": {
+            "Abdomen": 0.3333333333333333, 
+            "He": 0.3333333333333333, 
+            "patient": 0.3333333333333333
+        }, 
+        "known": {
+            "no": 1.0
+        }, 
+        "laboratory": {
+            "Admission": 1.0
+        }, 
+        "left": {
+            "two": 1.0
+        }, 
+        "loss": {
+            "weight": 1.0
+        }, 
+        "maintained": {
+            "was": 1.0
+        }, 
+        "male": {
+            "55-year-old": 1.0
+        }, 
+        "meals.": {
+            "small": 1.0
+        }, 
+        "medications": {
+            "Discharge": 1.0
+        }, 
+        "mellitus": {
+            "diabetes": 1.0
+        }, 
+        "milligrams": {
+            "1250": 0.07142857142857142, 
+            "150": 0.07142857142857142, 
+            "20": 0.07142857142857142, 
+            "325": 0.14285714285714285, 
+            "40": 0.14285714285714285, 
+            "5": 0.07142857142857142, 
+            "50": 0.14285714285714285, 
+            "600": 0.14285714285714285, 
+            "850": 0.14285714285714285
+        }, 
+        "mix": {
+            "and": 1.0
+        }, 
+        "mls": {
+            "10": 1.0
+        }, 
+        "monitored": {
+            "was": 1.0
+        }, 
+        "morbid": {
+            "of": 1.0
+        }, 
+        "movement.": {
+            "bowel": 1.0
+        }, 
+        "multiple": {
+            "despite": 1.0
+        }, 
+        "multivitamin": {
+            ",": 1.0
+        }, 
+        "no": {
+            "has": 0.25, 
+            "in": 0.25, 
+            "revealed": 0.25, 
+            "with": 0.25
+        }, 
+        "nocturnal": {
+            "on": 1.0
+        }, 
+        "not": {
+            "has": 1.0
+        }, 
+        "obstructive": {
+            ",": 1.0
+        }, 
+        "of": {
+            "#obese#": 0.1, 
+            "cc": 0.1, 
+            "centimeters": 0.1, 
+            "history": 0.1, 
+            "hours": 0.1, 
+            "progression": 0.1, 
+            "units": 0.4
+        }, 
+        "office": {
+            "the": 1.0
+        }, 
+        "on": {
+            "Sobolewski": 0.16666666666666666, 
+            "apnea": 0.16666666666666666, 
+            "clamped": 0.16666666666666666, 
+            "home": 0.16666666666666666, 
+            "maintained": 0.16666666666666666, 
+            "removed": 0.16666666666666666
+        }, 
+        "one": {
+            "in": 1.0
+        }, 
+        "or": {
+            "redness": 0.5, 
+            "water": 0.5
+        }, 
+        "p.m.": {
+            "q": 1.0
+        }, 
+        "pack": {
+            "twelve": 1.0
+        }, 
+        "pain": {
+            "prn": 1.0
+        }, 
+        "patient": {
+            "The": 1.0
+        }, 
+        "per": {
+            "pack": 0.5, 
+            "times": 0.5
+        }, 
+        "physician": {
+            "care": 1.0
+        }, 
+        "pills": {
+            "all": 1.0
+        }, 
+        "placed": {
+            "tube": 1.0
+        }, 
+        "platelets": {
+            ",": 1.0
+        }, 
+        "po": {
+            "milligrams": 1.0
+        }, 
+        "point": {
+            "this": 1.0
+        }, 
+        "positive": {
+            "on": 1.0
+        }, 
+        "post": {
+            "standard": 0.5, 
+            "status": 0.5
+        }, 
+        "postgastroplasty": {
+            "Randall": 1.0
+        }, 
+        "postoperative": {
+            "On": 0.2, 
+            "his": 0.2, 
+            "on": 0.4, 
+            "stable": 0.2
+        }, 
+        "postoperatively": {
+            "unit": 1.0
+        }, 
+        "potassium": {
+            ",": 1.0
+        }, 
+        "pounds": {
+            "450": 1.0
+        }, 
+        "pressure": {
+            "Blood": 0.5, 
+            "airway": 0.5
+        }, 
+        "primary": {
+            "his": 1.0
+        }, 
+        "prn": {
+            "hours": 1.0
+        }, 
+        "progression": {
+            "through": 1.0
+        }, 
+        "pulmonary": {
+            "acute": 0.5, 
+            "aggressive": 0.5
+        }, 
+        "q": {
+            "Regular": 0.125, 
+            "milligrams": 0.0625, 
+            "mls": 0.0625, 
+            "po": 0.5, 
+            "units": 0.25
+        }, 
+        "questions": {
+            "any": 1.0
+        }, 
+        "quit": {
+            "He": 1.0
+        }, 
+        "rate": {
+            "heart": 1.0
+        }, 
+        "redness": {
+            ",": 1.0
+        }, 
+        "removed": {
+            "staples": 1.0
+        }, 
+        "revealed": {
+            "EKG": 0.5, 
+            "x-ray": 0.5
+        }, 
+        "schedule": {
+            "to": 1.0
+        }, 
+        "should": {
+            "and": 1.0
+        }, 
+        "six": {
+            "to": 1.0
+        }, 
+        "sleep": {
+            "obstructive": 1.0
+        }, 
+        "small": {
+            "and": 1.0
+        }, 
+        "smoking": {
+            "quit": 1.0
+        }, 
+        "sodium": {
+            "included": 1.0
+        }, 
+        "soft.": {
+            "and": 1.0
+        }, 
+        "stable": {
+            "and": 0.5, 
+            "in": 0.5
+        }, 
+        "standard": {
+            "a": 1.0
+        }, 
+        "staples": {
+            "his": 1.0
+        }, 
+        "status": {
+            ",": 1.0
+        }, 
+        "steady": {
+            "a": 1.0
+        }, 
+        "surgeries": {
+            "foot": 1.0
+        }, 
+        "surgical": {
+            "the": 1.0
+        }, 
+        "t.i.d.": {
+            "po": 1.0
+        }, 
+        "the": {
+            "be": 0.25, 
+            "call": 0.25, 
+            "to": 0.5
+        }, 
+        "this": {
+            "at": 0.5, 
+            "schedule": 0.5
+        }, 
+        "through": {
+            "monitored": 1.0
+        }, 
+        "times": {
+            "eight": 1.0
+        }, 
+        "to": {
+            "admitted": 0.125, 
+            "call": 0.25, 
+            "continue": 0.125, 
+            "continued": 0.125, 
+            "four": 0.125, 
+            "instructed": 0.125, 
+            "transferred": 0.125
+        }, 
+        "toiletry": {
+            "pulmonary": 1.0
+        }, 
+        "tolerated.": {
+            "as": 1.0
+        }, 
+        "transferred": {
+            "was": 1.0
+        }, 
+        "tube": {
+            "G": 0.5, 
+            "T": 0.5
+        }, 
+        "twelve": {
+            "a": 1.0
+        }, 
+        "two": {
+            "post": 1.0
+        }, 
+        "type": {
+            ",": 1.0
+        }, 
+        "underwent": {
+            "He": 1.0
+        }, 
+        "unit": {
+            "care": 1.0
+        }, 
+        "units": {
+            "14": 0.25, 
+            "20": 0.25, 
+            "6": 0.5
+        }, 
+        "vascular": {
+            "and": 1.0
+        }, 
+        "was": {
+            "He": 0.4444444444444444, 
+            "and": 0.3333333333333333, 
+            "he": 0.1111111111111111, 
+            "tube": 0.1111111111111111
+        }, 
+        "water": {
+            "of": 0.5, 
+            "with": 0.5
+        }, 
+        "week": {
+            "one": 1.0
+        }, 
+        "weight": {
+            "appreciable": 1.0
+        }, 
+        "well": {
+            "mix": 1.0
+        }, 
+        "where": {
+            "postoperatively": 1.0
+        }, 
+        "which": {
+            "diet": 1.0
+        }, 
+        "white": {
+            ",": 1.0
+        }, 
+        "who": {
+            "pressure": 1.0
+        }, 
+        "will": {
+            "He": 0.75, 
+            "diet": 0.25
+        }, 
+        "with": {
+            "4/11/98": 0.125, 
+            "NPH": 0.125, 
+            "follow-up": 0.25, 
+            "male": 0.125, 
+            "office": 0.125, 
+            "water": 0.125, 
+            "well": 0.125
+        }, 
+        "x-ray": {
+            "Chest": 1.0
+        }, 
+        "year": {
+            "per": 1.0
+        }, 
+        "|": {
+            "#obese#": 0.1111111111111111, 
+            "195809": 0.1111111111111111, 
+            "479794466": 0.1111111111111111, 
+            "96033978": 0.1111111111111111, 
+            "AM": 0.1111111111111111, 
+            "DIS": 0.1111111111111111, 
+            "RSMC": 0.1111111111111111, 
+            "Signed": 0.1111111111111111, 
+            "|": 0.1111111111111111
+        }
+    }, 
+    "id": "345", 
+    "text": " 479794466 | RSMC | 96033978 | | 195809 | 6/25/1998 12:00:00 AM | MORBID #obese# | Signed | DIS | Admission Date: 6/25/1998 Report Status: Signed Discharge Date: 3/1/1998 PRINCIPAL DIAGNOSIS: MORBID #obese# OTHER DISCHARGE DIAGNOSES: HYPERTENSION , NONINSULIN DEPENDENT DIABETES MELLITUS , CONGESTIVE HEART FAILURE , OBSTRUCTIVE SLEEP APNEA , AND PERIPHERAL VASCULAR DISEASE. OPERATIONS AND PROCEDURES: ON 4/11/98 , UNDERWENT ROUX-EN-Y GASTRIC BYPASS BY DR. ANTON STEFANELLI HISTORY OF PRESENT ILLNESS: The patient is a 55-year-old male with a history of morbid #obese# of approximately 450 pounds , type II diabetes mellitus and vascular complications , status post two left foot surgeries , congestive heart failure , hypertension , obstructive sleep apnea on positive airway pressure who has not had any appreciable weight loss despite multiple diet attempts. PAST MEDICAL HISTORY: As above. MEDICATIONS ON ADMISSION: Rezulin 600 milligrams po q p.m. , Metformin 850 milligrams po b.i.d. , insulin 14 units of NPH , 6 units of Regular q a.m. , 20 units of NPH with 6 units of Regular q p.m. , Lasix 40 milligrams q day , atenolol 50 milligrams po q day , and aspirin 325 milligrams po q day. He has no known drug allergies. He quit smoking cigarettes in 1989 after a twelve pack per year history. PHYSICAL EXAMINATION: Blood pressure 122/72 , heart rate 72. He is an #obese# 55-year-old male in no acute distress. Abdomen is #obese# and soft. LABORATORY: Admission laboratory data included sodium 142 , potassium 5.1 , chloride 104 , bicarb 28 , creatinine 1.3 , glucose 195 , hematocrit 31.6 , white count 7.0 , platelets 173 , PT 12.2 , PTT 26.5. EKG revealed first degree AV block. Chest x-ray revealed no acute pulmonary disease. He underwent Roux-en-y gastric bypass by Dr. Sobolewski on 4/11/98 with no intraoperative complications. He had a G tube placed intraoperatively and was admitted to the surgical intensive care unit postoperatively where he continued a steady and stable postoperative course. He was maintained on nocturnal CPAP at 15 centimeters of water with aggressive pulmonary toiletry and was ambulated early in his postoperative course. On postoperative day #1 , he was transferred to the floor and began a standard post gastrectomy diet , continued to improve and was monitored through progression of his gastrectomy diet. He was discharged home on postoperative day #4 after having a bowel movement. His T tube was clamped on postoperative day #2 after 48 hours of gravity drainage. He was discharged in stable condition. His diet will continue to be the Randall postgastroplasty diet which at this point includes 120 cc of Carnation Instant Breakfast eight times per day and small meals. Activities are as tolerated. He will follow-up with Dr. Porro in one week and should call to schedule his appointment. He will also have follow-up with his primary care physician and should call to schedule this appointment. He will have his staples removed on follow-up and should call the office with any questions , fever , redness or drainage from his incision. Discharge medications include aspirin 325 milligrams po q day , atenolol 50 milligrams po q day , Tums 1250 milligrams po t.i.d. , Lasix 40 milligrams po q day , NPH insulin 14 units q a.m. and 20 units q p.m. , CVI insulin 6 units q a.m. and 6 units q p.m. , Lisinopril 20 milligrams po day , multivitamin elixir 5 milligrams po q day , Axid 150 milligrams po b.i.d. , Roxicet elixir 10 mls q four to six hours prn pain , Metformin 850 milligrams po t.i.d. , Rezulin 600 milligrams po q day. He was instructed to crush all pills and mix well with water or Jello. Dictated By: VIRGILIO SPRAGGINS , M.D. DD86 Attending: BILLIE LABORDE , M.D. MV24 QI341/3884 Batch: 97853 Index No. Y6XTZT1XJL D: 1/24/98 T: 1/24/98", 
+    "tri": {
+        "#1": {
+            "postoperative~day": 1.0
+        }, 
+        "#2": {
+            "postoperative~day": 1.0
+        }, 
+        "#4": {
+            "postoperative~day": 1.0
+        }, 
+        "#obese#": {
+            "Abdomen~is": 0.2, 
+            "DIAGNOSIS:~MORBID": 0.2, 
+            "is~an": 0.2, 
+            "of~morbid": 0.2, 
+            "|~MORBID": 0.2
+        }, 
+        ",": {
+            ",~fever": 0.022222222222222223, 
+            ",~hypertension": 0.022222222222222223, 
+            "450~pounds": 0.022222222222222223, 
+            "BILLIE~LABORDE": 0.022222222222222223, 
+            "DIABETES~MELLITUS": 0.022222222222222223, 
+            "DIAGNOSES:~HYPERTENSION": 0.022222222222222223, 
+            "HEART~FAILURE": 0.022222222222222223, 
+            "ON~4/11/98": 0.022222222222222223, 
+            "PT~12.2": 0.022222222222222223, 
+            "SLEEP~APNEA": 0.022222222222222223, 
+            "VIRGILIO~SPRAGGINS": 0.022222222222222223, 
+            "any~questions": 0.022222222222222223, 
+            "bicarb~28": 0.022222222222222223, 
+            "chloride~104": 0.022222222222222223, 
+            "count~7.0": 0.022222222222222223, 
+            "creatinine~1.3": 0.022222222222222223, 
+            "day~#1": 0.022222222222222223, 
+            "foot~surgeries": 0.022222222222222223, 
+            "gastrectomy~diet": 0.022222222222222223, 
+            "glucose~195": 0.022222222222222223, 
+            "heart~failure": 0.022222222222222223, 
+            "hematocrit~31.6": 0.022222222222222223, 
+            "of~NPH": 0.022222222222222223, 
+            "platelets~173": 0.022222222222222223, 
+            "potassium~5.1": 0.022222222222222223, 
+            "po~b.i.d.": 0.044444444444444446, 
+            "po~day": 0.022222222222222223, 
+            "po~t.i.d.": 0.044444444444444446, 
+            "pressure~122/72": 0.022222222222222223, 
+            "prn~pain": 0.022222222222222223, 
+            "q~a.m.": 0.022222222222222223, 
+            "q~day": 0.13333333333333333, 
+            "q~p.m.": 0.08888888888888889, 
+            "sodium~142": 0.022222222222222223, 
+            "vascular~complications": 0.022222222222222223
+        }, 
+        "1.3": {
+            ",~creatinine": 1.0
+        }, 
+        "1/24/98": {
+            "1/24/98~T:": 0.5, 
+            "Y6XTZT1XJL~D:": 0.5
+        }, 
+        "10": {
+            "Roxicet~elixir": 1.0
+        }, 
+        "104": {
+            ",~chloride": 1.0
+        }, 
+        "12.2": {
+            ",~PT": 1.0
+        }, 
+        "120": {
+            "point~includes": 1.0
+        }, 
+        "122/72": {
+            "Blood~pressure": 1.0
+        }, 
+        "1250": {
+            ",~Tums": 1.0
+        }, 
+        "12:00:00": {
+            "|~6/25/1998": 1.0
+        }, 
+        "14": {
+            ",~insulin": 0.5, 
+            "NPH~insulin": 0.5
+        }, 
+        "142": {
+            "included~sodium": 1.0
+        }, 
+        "15": {
+            "CPAP~at": 1.0
+        }, 
+        "150": {
+            ",~Axid": 1.0
+        }, 
+        "173": {
+            ",~platelets": 1.0
+        }, 
+        "195": {
+            ",~glucose": 1.0
+        }, 
+        "195809": {
+            "|~|": 1.0
+        }, 
+        "1989": {
+            "cigarettes~in": 1.0
+        }, 
+        "20": {
+            ",~Lisinopril": 0.3333333333333333, 
+            "a.m.~,": 0.3333333333333333, 
+            "a.m.~and": 0.3333333333333333
+        }, 
+        "26.5.": {
+            ",~PTT": 1.0
+        }, 
+        "28": {
+            ",~bicarb": 1.0
+        }, 
+        "3/1/1998": {
+            "Discharge~Date:": 1.0
+        }, 
+        "31.6": {
+            ",~hematocrit": 1.0
+        }, 
+        "325": {
+            "and~aspirin": 0.5, 
+            "include~aspirin": 0.5
+        }, 
+        "4/11/98": {
+            "PROCEDURES:~ON": 0.5, 
+            "Sobolewski~on": 0.5
+        }, 
+        "40": {
+            ",~Lasix": 1.0
+        }, 
+        "450": {
+            "of~approximately": 1.0
+        }, 
+        "48": {
+            "#2~after": 1.0
+        }, 
+        "5": {
+            "multivitamin~elixir": 1.0
+        }, 
+        "5.1": {
+            ",~potassium": 1.0
+        }, 
+        "50": {
+            ",~atenolol": 1.0
+        }, 
+        "55-year-old": {
+            "an~#obese#": 0.5, 
+            "is~a": 0.5
+        }, 
+        "6": {
+            "CVI~insulin": 0.25, 
+            "NPH~,": 0.25, 
+            "NPH~with": 0.25, 
+            "a.m.~and": 0.25
+        }, 
+        "6/25/1998": {
+            "195809~|": 0.5, 
+            "Admission~Date:": 0.5
+        }, 
+        "600": {
+            ",~Rezulin": 0.5, 
+            "ADMISSION:~Rezulin": 0.5
+        }, 
+        "7.0": {
+            "white~count": 1.0
+        }, 
+        "72.": {
+            "heart~rate": 1.0
+        }, 
+        "850": {
+            ",~Metformin": 1.0
+        }, 
+        "96033978": {
+            "RSMC~|": 1.0
+        }, 
+        "97853": {
+            "QI341/3884~Batch:": 1.0
+        }, 
+        "ADMISSION:": {
+            "MEDICATIONS~ON": 1.0
+        }, 
+        "AM": {
+            "6/25/1998~12:00:00": 1.0
+        }, 
+        "AND": {
+            "APNEA~,": 0.5, 
+            "DISEASE.~OPERATIONS": 0.5
+        }, 
+        "ANTON": {
+            "BY~DR.": 1.0
+        }, 
+        "APNEA": {
+            "OBSTRUCTIVE~SLEEP": 1.0
+        }, 
+        "AV": {
+            "first~degree": 1.0
+        }, 
+        "Abdomen": {
+            "acute~distress.": 1.0
+        }, 
+        "Activities": {
+            "small~meals.": 1.0
+        }, 
+        "Admission": {
+            "DIS~|": 0.5, 
+            "soft.~LABORATORY:": 0.5
+        }, 
+        "As": {
+            "MEDICAL~HISTORY:": 1.0
+        }, 
+        "Attending:": {
+            "M.D.~DD86": 1.0
+        }, 
+        "Axid": {
+            "day~,": 1.0
+        }, 
+        "BILLIE": {
+            "DD86~Attending:": 1.0
+        }, 
+        "BY": {
+            "GASTRIC~BYPASS": 1.0
+        }, 
+        "BYPASS": {
+            "ROUX-EN-Y~GASTRIC": 1.0
+        }, 
+        "Batch:": {
+            "MV24~QI341/3884": 1.0
+        }, 
+        "Blood": {
+            "PHYSICAL~EXAMINATION:": 1.0
+        }, 
+        "Breakfast": {
+            "Carnation~Instant": 1.0
+        }, 
+        "By:": {
+            "Jello.~Dictated": 1.0
+        }, 
+        "CONGESTIVE": {
+            "MELLITUS~,": 1.0
+        }, 
+        "CPAP": {
+            "on~nocturnal": 1.0
+        }, 
+        "CVI": {
+            "p.m.~,": 1.0
+        }, 
+        "Carnation": {
+            "cc~of": 1.0
+        }, 
+        "Chest": {
+            "AV~block.": 1.0
+        }, 
+        "D:": {
+            "No.~Y6XTZT1XJL": 1.0
+        }, 
+        "DD86": {
+            ",~M.D.": 1.0
+        }, 
+        "DEPENDENT": {
+            ",~NONINSULIN": 1.0
+        }, 
+        "DIABETES": {
+            "NONINSULIN~DEPENDENT": 1.0
+        }, 
+        "DIAGNOSES:": {
+            "OTHER~DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "3/1/1998~PRINCIPAL": 1.0
+        }, 
+        "DIS": {
+            "Signed~|": 1.0
+        }, 
+        "DISCHARGE": {
+            "#obese#~OTHER": 1.0
+        }, 
+        "DISEASE.": {
+            "PERIPHERAL~VASCULAR": 1.0
+        }, 
+        "DR.": {
+            "BYPASS~BY": 1.0
+        }, 
+        "Date:": {
+            "Signed~Discharge": 0.5, 
+            "|~Admission": 0.5
+        }, 
+        "Dictated": {
+            "or~Jello.": 1.0
+        }, 
+        "Discharge": {
+            "Status:~Signed": 0.5, 
+            "his~incision.": 0.5
+        }, 
+        "Dr.": {
+            "bypass~by": 0.5, 
+            "follow-up~with": 0.5
+        }, 
+        "EKG": {
+            "PTT~26.5.": 1.0
+        }, 
+        "EXAMINATION:": {
+            "history.~PHYSICAL": 1.0
+        }, 
+        "FAILURE": {
+            "CONGESTIVE~HEART": 1.0
+        }, 
+        "G": {
+            "had~a": 1.0
+        }, 
+        "GASTRIC": {
+            "UNDERWENT~ROUX-EN-Y": 1.0
+        }, 
+        "HEART": {
+            ",~CONGESTIVE": 1.0
+        }, 
+        "HISTORY": {
+            "ANTON~STEFANELLI": 1.0
+        }, 
+        "HISTORY:": {
+            "PAST~MEDICAL": 1.0
+        }, 
+        "HYPERTENSION": {
+            "DISCHARGE~DIAGNOSES:": 1.0
+        }, 
+        "He": {
+            "as~tolerated.": 0.08333333333333333, 
+            "drug~allergies.": 0.08333333333333333, 
+            "gastrectomy~diet.": 0.08333333333333333, 
+            "gravity~drainage.": 0.08333333333333333, 
+            "his~appointment.": 0.08333333333333333, 
+            "intraoperative~complications.": 0.08333333333333333, 
+            "postoperative~course.": 0.08333333333333333, 
+            "pulmonary~disease.": 0.08333333333333333, 
+            "q~day.": 0.16666666666666666, 
+            "rate~72.": 0.08333333333333333, 
+            "this~appointment.": 0.08333333333333333
+        }, 
+        "His": {
+            "bowel~movement.": 0.5, 
+            "stable~condition.": 0.5
+        }, 
+        "II": {
+            ",~type": 1.0
+        }, 
+        "ILLNESS:": {
+            "OF~PRESENT": 1.0
+        }, 
+        "Index": {
+            "Batch:~97853": 1.0
+        }, 
+        "Instant": {
+            "of~Carnation": 1.0
+        }, 
+        "Jello.": {
+            "water~or": 1.0
+        }, 
+        "LABORATORY:": {
+            "and~soft.": 1.0
+        }, 
+        "LABORDE": {
+            "Attending:~BILLIE": 1.0
+        }, 
+        "Lasix": {
+            "p.m.~,": 0.5, 
+            "t.i.d.~,": 0.5
+        }, 
+        "Lisinopril": {
+            "p.m.~,": 1.0
+        }, 
+        "M.D.": {
+            "LABORDE~,": 0.5, 
+            "SPRAGGINS~,": 0.5
+        }, 
+        "MEDICAL": {
+            "attempts.~PAST": 1.0
+        }, 
+        "MEDICATIONS": {
+            "As~above.": 1.0
+        }, 
+        "MELLITUS": {
+            "DEPENDENT~DIABETES": 1.0
+        }, 
+        "MORBID": {
+            "AM~|": 0.5, 
+            "PRINCIPAL~DIAGNOSIS:": 0.5
+        }, 
+        "MV24": {
+            ",~M.D.": 1.0
+        }, 
+        "Metformin": {
+            "p.m.~,": 0.5, 
+            "pain~,": 0.5
+        }, 
+        "NONINSULIN": {
+            "HYPERTENSION~,": 1.0
+        }, 
+        "NPH": {
+            "day~,": 0.3333333333333333, 
+            "units~of": 0.6666666666666666
+        }, 
+        "No.": {
+            "97853~Index": 1.0
+        }, 
+        "OBSTRUCTIVE": {
+            "FAILURE~,": 1.0
+        }, 
+        "OF": {
+            "STEFANELLI~HISTORY": 1.0
+        }, 
+        "ON": {
+            "AND~PROCEDURES:": 0.5, 
+            "above.~MEDICATIONS": 0.5
+        }, 
+        "OPERATIONS": {
+            "VASCULAR~DISEASE.": 1.0
+        }, 
+        "OTHER": {
+            "MORBID~#obese#": 1.0
+        }, 
+        "On": {
+            "postoperative~course.": 1.0
+        }, 
+        "PAST": {
+            "diet~attempts.": 1.0
+        }, 
+        "PERIPHERAL": {
+            ",~AND": 1.0
+        }, 
+        "PHYSICAL": {
+            "year~history.": 1.0
+        }, 
+        "PRESENT": {
+            "HISTORY~OF": 1.0
+        }, 
+        "PRINCIPAL": {
+            "Date:~3/1/1998": 1.0
+        }, 
+        "PROCEDURES:": {
+            "OPERATIONS~AND": 1.0
+        }, 
+        "PT": {
+            "173~,": 1.0
+        }, 
+        "PTT": {
+            "12.2~,": 1.0
+        }, 
+        "Porro": {
+            "with~Dr.": 1.0
+        }, 
+        "QI341/3884": {
+            "M.D.~MV24": 1.0
+        }, 
+        "ROUX-EN-Y": {
+            ",~UNDERWENT": 1.0
+        }, 
+        "RSMC": {
+            "479794466~|": 1.0
+        }, 
+        "Randall": {
+            "be~the": 1.0
+        }, 
+        "Regular": {
+            "units~of": 1.0
+        }, 
+        "Report": {
+            "Date:~6/25/1998": 1.0
+        }, 
+        "Rezulin": {
+            "ON~ADMISSION:": 0.5, 
+            "t.i.d.~,": 0.5
+        }, 
+        "Roux-en-y": {
+            "He~underwent": 1.0
+        }, 
+        "Roxicet": {
+            "b.i.d.~,": 1.0
+        }, 
+        "SLEEP": {
+            ",~OBSTRUCTIVE": 1.0
+        }, 
+        "SPRAGGINS": {
+            "By:~VIRGILIO": 1.0
+        }, 
+        "STEFANELLI": {
+            "DR.~ANTON": 1.0
+        }, 
+        "Signed": {
+            "#obese#~|": 0.5, 
+            "Report~Status:": 0.5
+        }, 
+        "Sobolewski": {
+            "by~Dr.": 1.0
+        }, 
+        "Status:": {
+            "6/25/1998~Report": 1.0
+        }, 
+        "T": {
+            "movement.~His": 1.0
+        }, 
+        "T:": {
+            "D:~1/24/98": 1.0
+        }, 
+        "The": {
+            "PRESENT~ILLNESS:": 1.0
+        }, 
+        "Tums": {
+            "day~,": 1.0
+        }, 
+        "UNDERWENT": {
+            "4/11/98~,": 1.0
+        }, 
+        "VASCULAR": {
+            "AND~PERIPHERAL": 1.0
+        }, 
+        "VIRGILIO": {
+            "Dictated~By:": 1.0
+        }, 
+        "Y6XTZT1XJL": {
+            "Index~No.": 1.0
+        }, 
+        "a": {
+            "1989~after": 0.14285714285714285, 
+            "He~had": 0.14285714285714285, 
+            "after~having": 0.14285714285714285, 
+            "and~began": 0.14285714285714285, 
+            "he~continued": 0.14285714285714285, 
+            "male~with": 0.14285714285714285, 
+            "patient~is": 0.14285714285714285
+        }, 
+        "a.m.": {
+            "Regular~q": 0.3333333333333333, 
+            "units~q": 0.6666666666666666
+        }, 
+        "above.": {
+            "HISTORY:~As": 1.0
+        }, 
+        "acute": {
+            "in~no": 0.5, 
+            "revealed~no": 0.5
+        }, 
+        "admitted": {
+            "and~was": 1.0
+        }, 
+        "after": {
+            "day~#2": 0.3333333333333333, 
+            "day~#4": 0.3333333333333333, 
+            "in~1989": 0.3333333333333333
+        }, 
+        "aggressive": {
+            "water~with": 1.0
+        }, 
+        "airway": {
+            "on~positive": 1.0
+        }, 
+        "all": {
+            "to~crush": 1.0
+        }, 
+        "allergies.": {
+            "known~drug": 1.0
+        }, 
+        "also": {
+            "He~will": 1.0
+        }, 
+        "ambulated": {
+            "and~was": 1.0
+        }, 
+        "an": {
+            "He~is": 1.0
+        }, 
+        "and": {
+            "all~pills": 0.06666666666666667, 
+            "a~steady": 0.06666666666666667, 
+            "care~physician": 0.06666666666666667, 
+            "day~,": 0.06666666666666667, 
+            "diabetes~mellitus": 0.06666666666666667, 
+            "is~#obese#": 0.06666666666666667, 
+            "one~week": 0.06666666666666667, 
+            "on~follow-up": 0.06666666666666667, 
+            "per~day": 0.06666666666666667, 
+            "placed~intraoperatively": 0.06666666666666667, 
+            "pulmonary~toiletry": 0.06666666666666667, 
+            "q~a.m.": 0.13333333333333333, 
+            "the~floor": 0.06666666666666667, 
+            "to~improve": 0.06666666666666667
+        }, 
+        "any": {
+            "not~had": 0.5, 
+            "office~with": 0.5
+        }, 
+        "apnea": {
+            "obstructive~sleep": 1.0
+        }, 
+        "appointment.": {
+            "schedule~his": 0.5, 
+            "schedule~this": 0.5
+        }, 
+        "appreciable": {
+            "had~any": 1.0
+        }, 
+        "approximately": {
+            "#obese#~of": 1.0
+        }, 
+        "are": {
+            "meals.~Activities": 1.0
+        }, 
+        "as": {
+            "Activities~are": 1.0
+        }, 
+        "aspirin": {
+            ",~and": 0.5, 
+            "medications~include": 0.5
+        }, 
+        "at": {
+            "diet~which": 0.5, 
+            "nocturnal~CPAP": 0.5
+        }, 
+        "atenolol": {
+            "day~,": 1.0
+        }, 
+        "attempts.": {
+            "multiple~diet": 1.0
+        }, 
+        "b.i.d.": {
+            "milligrams~po": 1.0
+        }, 
+        "be": {
+            "continue~to": 1.0
+        }, 
+        "began": {
+            "floor~and": 1.0
+        }, 
+        "bicarb": {
+            "104~,": 1.0
+        }, 
+        "block.": {
+            "degree~AV": 1.0
+        }, 
+        "bowel": {
+            "having~a": 1.0
+        }, 
+        "by": {
+            "gastric~bypass": 1.0
+        }, 
+        "bypass": {
+            "Roux-en-y~gastric": 1.0
+        }, 
+        "call": {
+            "and~should": 1.0
+        }, 
+        "care": {
+            "his~primary": 0.5, 
+            "surgical~intensive": 0.5
+        }, 
+        "cc": {
+            "includes~120": 1.0
+        }, 
+        "centimeters": {
+            "at~15": 1.0
+        }, 
+        "chloride": {
+            "5.1~,": 1.0
+        }, 
+        "cigarettes": {
+            "quit~smoking": 1.0
+        }, 
+        "clamped": {
+            "tube~was": 1.0
+        }, 
+        "complications": {
+            "and~vascular": 1.0
+        }, 
+        "complications.": {
+            "no~intraoperative": 1.0
+        }, 
+        "condition.": {
+            "in~stable": 1.0
+        }, 
+        "congestive": {
+            "surgeries~,": 1.0
+        }, 
+        "continue": {
+            "diet~will": 1.0
+        }, 
+        "continued": {
+            "diet~,": 0.5, 
+            "where~he": 0.5
+        }, 
+        "count": {
+            ",~white": 1.0
+        }, 
+        "course.": {
+            "his~postoperative": 0.5, 
+            "stable~postoperative": 0.5
+        }, 
+        "creatinine": {
+            "28~,": 1.0
+        }, 
+        "crush": {
+            "instructed~to": 1.0
+        }, 
+        "data": {
+            "Admission~laboratory": 1.0
+        }, 
+        "day": {
+            "On~postoperative": 0.09090909090909091, 
+            "milligrams~po": 0.09090909090909091, 
+            "milligrams~q": 0.09090909090909091, 
+            "on~postoperative": 0.18181818181818182, 
+            "po~q": 0.45454545454545453, 
+            "times~per": 0.09090909090909091
+        }, 
+        "day.": {
+            "po~q": 1.0
+        }, 
+        "degree": {
+            "revealed~first": 1.0
+        }, 
+        "despite": {
+            "weight~loss": 1.0
+        }, 
+        "diabetes": {
+            "type~II": 1.0
+        }, 
+        "diet": {
+            "Randall~postgastroplasty": 0.25, 
+            "condition.~His": 0.25, 
+            "despite~multiple": 0.25, 
+            "post~gastrectomy": 0.25
+        }, 
+        "diet.": {
+            "his~gastrectomy": 1.0
+        }, 
+        "discharged": {
+            "He~was": 1.0
+        }, 
+        "disease.": {
+            "acute~pulmonary": 1.0
+        }, 
+        "distress.": {
+            "no~acute": 1.0
+        }, 
+        "drainage": {
+            "redness~or": 1.0
+        }, 
+        "drainage.": {
+            "of~gravity": 1.0
+        }, 
+        "drug": {
+            "no~known": 1.0
+        }, 
+        "early": {
+            "was~ambulated": 1.0
+        }, 
+        "eight": {
+            "Instant~Breakfast": 1.0
+        }, 
+        "elixir": {
+            ",~Roxicet": 0.5, 
+            ",~multivitamin": 0.5
+        }, 
+        "failure": {
+            "congestive~heart": 1.0
+        }, 
+        "fever": {
+            "questions~,": 1.0
+        }, 
+        "first": {
+            "EKG~revealed": 1.0
+        }, 
+        "floor": {
+            "to~the": 1.0
+        }, 
+        "follow-up": {
+            "He~will": 0.3333333333333333, 
+            "also~have": 0.3333333333333333, 
+            "removed~on": 0.3333333333333333
+        }, 
+        "foot": {
+            "two~left": 1.0
+        }, 
+        "four": {
+            "mls~q": 1.0
+        }, 
+        "from": {
+            "or~drainage": 1.0
+        }, 
+        "gastrectomy": {
+            "of~his": 0.5, 
+            "standard~post": 0.5
+        }, 
+        "gastric": {
+            "underwent~Roux-en-y": 1.0
+        }, 
+        "glucose": {
+            "1.3~,": 1.0
+        }, 
+        "gravity": {
+            "hours~of": 1.0
+        }, 
+        "had": {
+            "complications.~He": 0.5, 
+            "has~not": 0.5
+        }, 
+        "has": {
+            "day.~He": 0.5, 
+            "pressure~who": 0.5
+        }, 
+        "have": {
+            "He~will": 0.5, 
+            "will~also": 0.5
+        }, 
+        "having": {
+            "#4~after": 1.0
+        }, 
+        "he": {
+            "#1~,": 0.5, 
+            "postoperatively~where": 0.5
+        }, 
+        "heart": {
+            ",~congestive": 0.5, 
+            "122/72~,": 0.5
+        }, 
+        "hematocrit": {
+            "195~,": 1.0
+        }, 
+        "his": {
+            "drainage~from": 0.16666666666666666, 
+            "early~in": 0.16666666666666666, 
+            "follow-up~with": 0.16666666666666666, 
+            "progression~of": 0.16666666666666666, 
+            "to~schedule": 0.16666666666666666, 
+            "will~have": 0.16666666666666666
+        }, 
+        "history": {
+            "with~a": 1.0
+        }, 
+        "history.": {
+            "per~year": 1.0
+        }, 
+        "home": {
+            "was~discharged": 1.0
+        }, 
+        "hours": {
+            "after~48": 0.5, 
+            "to~six": 0.5
+        }, 
+        "hypertension": {
+            "failure~,": 1.0
+        }, 
+        "improve": {
+            "continued~to": 1.0
+        }, 
+        "in": {
+            "55-year-old~male": 0.2, 
+            "Dr.~Porro": 0.2, 
+            "ambulated~early": 0.2, 
+            "smoking~cigarettes": 0.2, 
+            "was~discharged": 0.2
+        }, 
+        "incision.": {
+            "from~his": 1.0
+        }, 
+        "include": {
+            "Discharge~medications": 1.0
+        }, 
+        "included": {
+            "laboratory~data": 1.0
+        }, 
+        "includes": {
+            "this~point": 1.0
+        }, 
+        "instructed": {
+            "He~was": 1.0
+        }, 
+        "insulin": {
+            ",~CVI": 0.3333333333333333, 
+            ",~NPH": 0.3333333333333333, 
+            "b.i.d.~,": 0.3333333333333333
+        }, 
+        "intensive": {
+            "the~surgical": 1.0
+        }, 
+        "intraoperative": {
+            "with~no": 1.0
+        }, 
+        "intraoperatively": {
+            "tube~placed": 1.0
+        }, 
+        "is": {
+            "72.~He": 0.3333333333333333, 
+            "The~patient": 0.3333333333333333, 
+            "distress.~Abdomen": 0.3333333333333333
+        }, 
+        "known": {
+            "has~no": 1.0
+        }, 
+        "laboratory": {
+            "LABORATORY:~Admission": 1.0
+        }, 
+        "left": {
+            "post~two": 1.0
+        }, 
+        "loss": {
+            "appreciable~weight": 1.0
+        }, 
+        "maintained": {
+            "He~was": 1.0
+        }, 
+        "male": {
+            "#obese#~55-year-old": 0.5, 
+            "a~55-year-old": 0.5
+        }, 
+        "meals.": {
+            "and~small": 1.0
+        }, 
+        "medications": {
+            "incision.~Discharge": 1.0
+        }, 
+        "mellitus": {
+            "II~diabetes": 1.0
+        }, 
+        "milligrams": {
+            "Axid~150": 0.07142857142857142, 
+            "Lasix~40": 0.14285714285714285, 
+            "Lisinopril~20": 0.07142857142857142, 
+            "Metformin~850": 0.14285714285714285, 
+            "Rezulin~600": 0.14285714285714285, 
+            "Tums~1250": 0.07142857142857142, 
+            "aspirin~325": 0.14285714285714285, 
+            "atenolol~50": 0.14285714285714285, 
+            "elixir~5": 0.07142857142857142
+        }, 
+        "mix": {
+            "pills~and": 1.0
+        }, 
+        "mls": {
+            "elixir~10": 1.0
+        }, 
+        "monitored": {
+            "and~was": 1.0
+        }, 
+        "morbid": {
+            "history~of": 1.0
+        }, 
+        "movement.": {
+            "a~bowel": 1.0
+        }, 
+        "multiple": {
+            "loss~despite": 1.0
+        }, 
+        "multivitamin": {
+            "day~,": 1.0
+        }, 
+        "no": {
+            "4/11/98~with": 0.25, 
+            "He~has": 0.25, 
+            "male~in": 0.25, 
+            "x-ray~revealed": 0.25
+        }, 
+        "nocturnal": {
+            "maintained~on": 1.0
+        }, 
+        "not": {
+            "who~has": 1.0
+        }, 
+        "obstructive": {
+            "hypertension~,": 1.0
+        }, 
+        "of": {
+            "120~cc": 0.1, 
+            "14~units": 0.1, 
+            "15~centimeters": 0.1, 
+            "20~units": 0.1, 
+            "48~hours": 0.1, 
+            "6~units": 0.2, 
+            "a~history": 0.1, 
+            "morbid~#obese#": 0.1, 
+            "through~progression": 0.1
+        }, 
+        "office": {
+            "call~the": 1.0
+        }, 
+        "on": {
+            "Dr.~Sobolewski": 0.16666666666666666, 
+            "discharged~home": 0.16666666666666666, 
+            "sleep~apnea": 0.16666666666666666, 
+            "staples~removed": 0.16666666666666666, 
+            "was~clamped": 0.16666666666666666, 
+            "was~maintained": 0.16666666666666666
+        }, 
+        "one": {
+            "Porro~in": 1.0
+        }, 
+        "or": {
+            ",~redness": 0.5, 
+            "with~water": 0.5
+        }, 
+        "p.m.": {
+            "Regular~q": 0.25, 
+            "po~q": 0.25, 
+            "units~q": 0.5
+        }, 
+        "pack": {
+            "a~twelve": 1.0
+        }, 
+        "pain": {
+            "hours~prn": 1.0
+        }, 
+        "patient": {
+            "ILLNESS:~The": 1.0
+        }, 
+        "per": {
+            "eight~times": 0.5, 
+            "twelve~pack": 0.5
+        }, 
+        "physician": {
+            "primary~care": 1.0
+        }, 
+        "pills": {
+            "crush~all": 1.0
+        }, 
+        "placed": {
+            "G~tube": 1.0
+        }, 
+        "platelets": {
+            "7.0~,": 1.0
+        }, 
+        "po": {
+            "1250~milligrams": 0.07692307692307693, 
+            "150~milligrams": 0.07692307692307693, 
+            "20~milligrams": 0.07692307692307693, 
+            "325~milligrams": 0.15384615384615385, 
+            "40~milligrams": 0.07692307692307693, 
+            "50~milligrams": 0.15384615384615385, 
+            "5~milligrams": 0.07692307692307693, 
+            "600~milligrams": 0.15384615384615385, 
+            "850~milligrams": 0.15384615384615385
+        }, 
+        "point": {
+            "at~this": 1.0
+        }, 
+        "positive": {
+            "apnea~on": 1.0
+        }, 
+        "post": {
+            ",~status": 0.5, 
+            "a~standard": 0.5
+        }, 
+        "postgastroplasty": {
+            "the~Randall": 1.0
+        }, 
+        "postoperative": {
+            "and~stable": 0.2, 
+            "clamped~on": 0.2, 
+            "course.~On": 0.2, 
+            "home~on": 0.2, 
+            "in~his": 0.2
+        }, 
+        "postoperatively": {
+            "care~unit": 1.0
+        }, 
+        "potassium": {
+            "142~,": 1.0
+        }, 
+        "pounds": {
+            "approximately~450": 1.0
+        }, 
+        "pressure": {
+            "EXAMINATION:~Blood": 0.5, 
+            "positive~airway": 0.5
+        }, 
+        "primary": {
+            "with~his": 1.0
+        }, 
+        "prn": {
+            "six~hours": 1.0
+        }, 
+        "progression": {
+            "monitored~through": 1.0
+        }, 
+        "pulmonary": {
+            "no~acute": 0.5, 
+            "with~aggressive": 0.5
+        }, 
+        "q": {
+            "10~mls": 0.0625, 
+            "14~units": 0.0625, 
+            "20~units": 0.0625, 
+            "40~milligrams": 0.0625, 
+            "6~units": 0.125, 
+            "milligrams~po": 0.5, 
+            "of~Regular": 0.125
+        }, 
+        "questions": {
+            "with~any": 1.0
+        }, 
+        "quit": {
+            "allergies.~He": 1.0
+        }, 
+        "rate": {
+            ",~heart": 1.0
+        }, 
+        "redness": {
+            "fever~,": 1.0
+        }, 
+        "removed": {
+            "his~staples": 1.0
+        }, 
+        "revealed": {
+            "26.5.~EKG": 0.5, 
+            "Chest~x-ray": 0.5
+        }, 
+        "schedule": {
+            "call~to": 1.0
+        }, 
+        "should": {
+            "follow-up~and": 0.3333333333333333, 
+            "physician~and": 0.3333333333333333, 
+            "week~and": 0.3333333333333333
+        }, 
+        "six": {
+            "four~to": 1.0
+        }, 
+        "sleep": {
+            ",~obstructive": 1.0
+        }, 
+        "small": {
+            "day~and": 1.0
+        }, 
+        "smoking": {
+            "He~quit": 1.0
+        }, 
+        "sodium": {
+            "data~included": 1.0
+        }, 
+        "soft.": {
+            "#obese#~and": 1.0
+        }, 
+        "stable": {
+            "discharged~in": 0.5, 
+            "steady~and": 0.5
+        }, 
+        "standard": {
+            "began~a": 1.0
+        }, 
+        "staples": {
+            "have~his": 1.0
+        }, 
+        "status": {
+            "complications~,": 1.0
+        }, 
+        "steady": {
+            "continued~a": 1.0
+        }, 
+        "surgeries": {
+            "left~foot": 1.0
+        }, 
+        "surgical": {
+            "to~the": 1.0
+        }, 
+        "t.i.d.": {
+            "milligrams~po": 1.0
+        }, 
+        "the": {
+            "admitted~to": 0.25, 
+            "should~call": 0.25, 
+            "to~be": 0.25, 
+            "transferred~to": 0.25
+        }, 
+        "this": {
+            "to~schedule": 0.5, 
+            "which~at": 0.5
+        }, 
+        "through": {
+            "was~monitored": 1.0
+        }, 
+        "times": {
+            "Breakfast~eight": 1.0
+        }, 
+        "to": {
+            ",~continued": 0.125, 
+            "q~four": 0.125, 
+            "should~call": 0.25, 
+            "was~admitted": 0.125, 
+            "was~instructed": 0.125, 
+            "was~transferred": 0.125, 
+            "will~continue": 0.125
+        }, 
+        "toiletry": {
+            "aggressive~pulmonary": 1.0
+        }, 
+        "tolerated.": {
+            "are~as": 1.0
+        }, 
+        "transferred": {
+            "he~was": 1.0
+        }, 
+        "tube": {
+            "His~T": 0.5, 
+            "a~G": 0.5
+        }, 
+        "twelve": {
+            "after~a": 1.0
+        }, 
+        "two": {
+            "status~post": 1.0
+        }, 
+        "type": {
+            "pounds~,": 1.0
+        }, 
+        "underwent": {
+            "disease.~He": 1.0
+        }, 
+        "unit": {
+            "intensive~care": 1.0
+        }, 
+        "units": {
+            ",~20": 0.125, 
+            ",~6": 0.125, 
+            "and~20": 0.125, 
+            "and~6": 0.125, 
+            "insulin~14": 0.25, 
+            "insulin~6": 0.125, 
+            "with~6": 0.125
+        }, 
+        "vascular": {
+            "mellitus~and": 1.0
+        }, 
+        "was": {
+            ",~he": 0.1111111111111111, 
+            "T~tube": 0.1111111111111111, 
+            "course.~He": 0.1111111111111111, 
+            "day.~He": 0.1111111111111111, 
+            "diet.~He": 0.1111111111111111, 
+            "drainage.~He": 0.1111111111111111, 
+            "improve~and": 0.1111111111111111, 
+            "intraoperatively~and": 0.1111111111111111, 
+            "toiletry~and": 0.1111111111111111
+        }, 
+        "water": {
+            "centimeters~of": 0.5, 
+            "well~with": 0.5
+        }, 
+        "week": {
+            "in~one": 1.0
+        }, 
+        "weight": {
+            "any~appreciable": 1.0
+        }, 
+        "well": {
+            "and~mix": 1.0
+        }, 
+        "where": {
+            "unit~postoperatively": 1.0
+        }, 
+        "which": {
+            "postgastroplasty~diet": 1.0
+        }, 
+        "white": {
+            "31.6~,": 1.0
+        }, 
+        "who": {
+            "airway~pressure": 1.0
+        }, 
+        "will": {
+            "His~diet": 0.25, 
+            "appointment.~He": 0.5, 
+            "tolerated.~He": 0.25
+        }, 
+        "with": {
+            "55-year-old~male": 0.125, 
+            "have~follow-up": 0.125, 
+            "mix~well": 0.125, 
+            "of~NPH": 0.125, 
+            "of~water": 0.125, 
+            "on~4/11/98": 0.125, 
+            "the~office": 0.125, 
+            "will~follow-up": 0.125
+        }, 
+        "x-ray": {
+            "block.~Chest": 1.0
+        }, 
+        "year": {
+            "pack~per": 1.0
+        }, 
+        "|": {
+            "12:00:00~AM": 0.1111111111111111, 
+            "96033978~|": 0.1111111111111111, 
+            "MORBID~#obese#": 0.1111111111111111, 
+            "|~195809": 0.1111111111111111, 
+            "|~96033978": 0.1111111111111111, 
+            "|~DIS": 0.1111111111111111, 
+            "|~RSMC": 0.1111111111111111, 
+            "|~Signed": 0.1111111111111111, 
+            "~479794466": 0.1111111111111111
+        }
+    }, 
+    "type": "data/train", 
+    "uni": {
+        "": 0.001557632398753894, 
+        "#1": 0.001557632398753894, 
+        "#2": 0.001557632398753894, 
+        "#4": 0.001557632398753894, 
+        "#obese#": 0.00778816199376947, 
+        ",": 0.07009345794392523, 
+        "1.3": 0.001557632398753894, 
+        "1/24/98": 0.001557632398753894, 
+        "10": 0.001557632398753894, 
+        "104": 0.001557632398753894, 
+        "12.2": 0.001557632398753894, 
+        "120": 0.001557632398753894, 
+        "122/72": 0.001557632398753894, 
+        "1250": 0.001557632398753894, 
+        "12:00:00": 0.001557632398753894, 
+        "14": 0.003115264797507788, 
+        "142": 0.001557632398753894, 
+        "15": 0.001557632398753894, 
+        "150": 0.001557632398753894, 
+        "173": 0.001557632398753894, 
+        "195": 0.001557632398753894, 
+        "195809": 0.001557632398753894, 
+        "1989": 0.001557632398753894, 
+        "20": 0.004672897196261682, 
+        "26.5.": 0.001557632398753894, 
+        "28": 0.001557632398753894, 
+        "3/1/1998": 0.001557632398753894, 
+        "31.6": 0.001557632398753894, 
+        "325": 0.003115264797507788, 
+        "4/11/98": 0.003115264797507788, 
+        "40": 0.003115264797507788, 
+        "450": 0.001557632398753894, 
+        "479794466": 0.001557632398753894, 
+        "48": 0.001557632398753894, 
+        "5": 0.001557632398753894, 
+        "5.1": 0.001557632398753894, 
+        "50": 0.003115264797507788, 
+        "55-year-old": 0.003115264797507788, 
+        "6": 0.006230529595015576, 
+        "6/25/1998": 0.003115264797507788, 
+        "600": 0.003115264797507788, 
+        "7.0": 0.001557632398753894, 
+        "72.": 0.001557632398753894, 
+        "850": 0.003115264797507788, 
+        "96033978": 0.001557632398753894, 
+        "97853": 0.001557632398753894, 
+        "ADMISSION:": 0.001557632398753894, 
+        "AM": 0.001557632398753894, 
+        "AND": 0.003115264797507788, 
+        "ANTON": 0.001557632398753894, 
+        "APNEA": 0.001557632398753894, 
+        "AV": 0.001557632398753894, 
+        "Abdomen": 0.001557632398753894, 
+        "Activities": 0.001557632398753894, 
+        "Admission": 0.003115264797507788, 
+        "As": 0.001557632398753894, 
+        "Attending:": 0.001557632398753894, 
+        "Axid": 0.001557632398753894, 
+        "BILLIE": 0.001557632398753894, 
+        "BY": 0.001557632398753894, 
+        "BYPASS": 0.001557632398753894, 
+        "Batch:": 0.001557632398753894, 
+        "Blood": 0.001557632398753894, 
+        "Breakfast": 0.001557632398753894, 
+        "By:": 0.001557632398753894, 
+        "CONGESTIVE": 0.001557632398753894, 
+        "CPAP": 0.001557632398753894, 
+        "CVI": 0.001557632398753894, 
+        "Carnation": 0.001557632398753894, 
+        "Chest": 0.001557632398753894, 
+        "D:": 0.001557632398753894, 
+        "DD86": 0.001557632398753894, 
+        "DEPENDENT": 0.001557632398753894, 
+        "DIABETES": 0.001557632398753894, 
+        "DIAGNOSES:": 0.001557632398753894, 
+        "DIAGNOSIS:": 0.001557632398753894, 
+        "DIS": 0.001557632398753894, 
+        "DISCHARGE": 0.001557632398753894, 
+        "DISEASE.": 0.001557632398753894, 
+        "DR.": 0.001557632398753894, 
+        "Date:": 0.003115264797507788, 
+        "Dictated": 0.001557632398753894, 
+        "Discharge": 0.003115264797507788, 
+        "Dr.": 0.003115264797507788, 
+        "EKG": 0.001557632398753894, 
+        "EXAMINATION:": 0.001557632398753894, 
+        "FAILURE": 0.001557632398753894, 
+        "G": 0.001557632398753894, 
+        "GASTRIC": 0.001557632398753894, 
+        "HEART": 0.001557632398753894, 
+        "HISTORY": 0.001557632398753894, 
+        "HISTORY:": 0.001557632398753894, 
+        "HYPERTENSION": 0.001557632398753894, 
+        "He": 0.018691588785046728, 
+        "His": 0.003115264797507788, 
+        "II": 0.001557632398753894, 
+        "ILLNESS:": 0.001557632398753894, 
+        "Index": 0.001557632398753894, 
+        "Instant": 0.001557632398753894, 
+        "Jello.": 0.001557632398753894, 
+        "LABORATORY:": 0.001557632398753894, 
+        "LABORDE": 0.001557632398753894, 
+        "Lasix": 0.003115264797507788, 
+        "Lisinopril": 0.001557632398753894, 
+        "M.D.": 0.003115264797507788, 
+        "MEDICAL": 0.001557632398753894, 
+        "MEDICATIONS": 0.001557632398753894, 
+        "MELLITUS": 0.001557632398753894, 
+        "MORBID": 0.003115264797507788, 
+        "MV24": 0.001557632398753894, 
+        "Metformin": 0.003115264797507788, 
+        "NONINSULIN": 0.001557632398753894, 
+        "NPH": 0.004672897196261682, 
+        "No.": 0.001557632398753894, 
+        "OBSTRUCTIVE": 0.001557632398753894, 
+        "OF": 0.001557632398753894, 
+        "ON": 0.003115264797507788, 
+        "OPERATIONS": 0.001557632398753894, 
+        "OTHER": 0.001557632398753894, 
+        "On": 0.001557632398753894, 
+        "PAST": 0.001557632398753894, 
+        "PERIPHERAL": 0.001557632398753894, 
+        "PHYSICAL": 0.001557632398753894, 
+        "PRESENT": 0.001557632398753894, 
+        "PRINCIPAL": 0.001557632398753894, 
+        "PROCEDURES:": 0.001557632398753894, 
+        "PT": 0.001557632398753894, 
+        "PTT": 0.001557632398753894, 
+        "Porro": 0.001557632398753894, 
+        "QI341/3884": 0.001557632398753894, 
+        "ROUX-EN-Y": 0.001557632398753894, 
+        "RSMC": 0.001557632398753894, 
+        "Randall": 0.001557632398753894, 
+        "Regular": 0.003115264797507788, 
+        "Report": 0.001557632398753894, 
+        "Rezulin": 0.003115264797507788, 
+        "Roux-en-y": 0.001557632398753894, 
+        "Roxicet": 0.001557632398753894, 
+        "SLEEP": 0.001557632398753894, 
+        "SPRAGGINS": 0.001557632398753894, 
+        "STEFANELLI": 0.001557632398753894, 
+        "Signed": 0.003115264797507788, 
+        "Sobolewski": 0.001557632398753894, 
+        "Status:": 0.001557632398753894, 
+        "T": 0.001557632398753894, 
+        "The": 0.001557632398753894, 
+        "Tums": 0.001557632398753894, 
+        "UNDERWENT": 0.001557632398753894, 
+        "VASCULAR": 0.001557632398753894, 
+        "VIRGILIO": 0.001557632398753894, 
+        "Y6XTZT1XJL": 0.001557632398753894, 
+        "a": 0.010903426791277258, 
+        "a.m.": 0.004672897196261682, 
+        "above.": 0.001557632398753894, 
+        "acute": 0.003115264797507788, 
+        "admitted": 0.001557632398753894, 
+        "after": 0.004672897196261682, 
+        "aggressive": 0.001557632398753894, 
+        "airway": 0.001557632398753894, 
+        "all": 0.001557632398753894, 
+        "allergies.": 0.001557632398753894, 
+        "also": 0.001557632398753894, 
+        "ambulated": 0.001557632398753894, 
+        "an": 0.001557632398753894, 
+        "and": 0.02336448598130841, 
+        "any": 0.003115264797507788, 
+        "apnea": 0.001557632398753894, 
+        "appointment.": 0.003115264797507788, 
+        "appreciable": 0.001557632398753894, 
+        "approximately": 0.001557632398753894, 
+        "are": 0.001557632398753894, 
+        "as": 0.001557632398753894, 
+        "aspirin": 0.003115264797507788, 
+        "at": 0.003115264797507788, 
+        "atenolol": 0.003115264797507788, 
+        "attempts.": 0.001557632398753894, 
+        "b.i.d.": 0.003115264797507788, 
+        "be": 0.001557632398753894, 
+        "began": 0.001557632398753894, 
+        "bicarb": 0.001557632398753894, 
+        "block.": 0.001557632398753894, 
+        "bowel": 0.001557632398753894, 
+        "by": 0.001557632398753894, 
+        "bypass": 0.001557632398753894, 
+        "call": 0.004672897196261682, 
+        "care": 0.003115264797507788, 
+        "cc": 0.001557632398753894, 
+        "centimeters": 0.001557632398753894, 
+        "chloride": 0.001557632398753894, 
+        "cigarettes": 0.001557632398753894, 
+        "clamped": 0.001557632398753894, 
+        "complications": 0.001557632398753894, 
+        "complications.": 0.001557632398753894, 
+        "condition.": 0.001557632398753894, 
+        "congestive": 0.001557632398753894, 
+        "continue": 0.001557632398753894, 
+        "continued": 0.003115264797507788, 
+        "count": 0.001557632398753894, 
+        "course.": 0.003115264797507788, 
+        "creatinine": 0.001557632398753894, 
+        "crush": 0.001557632398753894, 
+        "data": 0.001557632398753894, 
+        "day": 0.017133956386292833, 
+        "day.": 0.003115264797507788, 
+        "degree": 0.001557632398753894, 
+        "despite": 0.001557632398753894, 
+        "diabetes": 0.001557632398753894, 
+        "diet": 0.006230529595015576, 
+        "diet.": 0.001557632398753894, 
+        "discharged": 0.003115264797507788, 
+        "disease.": 0.001557632398753894, 
+        "distress.": 0.001557632398753894, 
+        "drainage": 0.001557632398753894, 
+        "drainage.": 0.001557632398753894, 
+        "drug": 0.001557632398753894, 
+        "early": 0.001557632398753894, 
+        "eight": 0.001557632398753894, 
+        "elixir": 0.003115264797507788, 
+        "failure": 0.001557632398753894, 
+        "fever": 0.001557632398753894, 
+        "first": 0.001557632398753894, 
+        "floor": 0.001557632398753894, 
+        "follow-up": 0.004672897196261682, 
+        "foot": 0.001557632398753894, 
+        "four": 0.001557632398753894, 
+        "from": 0.001557632398753894, 
+        "gastrectomy": 0.003115264797507788, 
+        "gastric": 0.001557632398753894, 
+        "glucose": 0.001557632398753894, 
+        "gravity": 0.001557632398753894, 
+        "had": 0.003115264797507788, 
+        "has": 0.003115264797507788, 
+        "have": 0.003115264797507788, 
+        "having": 0.001557632398753894, 
+        "he": 0.003115264797507788, 
+        "heart": 0.003115264797507788, 
+        "hematocrit": 0.001557632398753894, 
+        "his": 0.009345794392523364, 
+        "history": 0.001557632398753894, 
+        "history.": 0.001557632398753894, 
+        "home": 0.001557632398753894, 
+        "hours": 0.003115264797507788, 
+        "hypertension": 0.001557632398753894, 
+        "improve": 0.001557632398753894, 
+        "in": 0.00778816199376947, 
+        "incision.": 0.001557632398753894, 
+        "include": 0.001557632398753894, 
+        "included": 0.001557632398753894, 
+        "includes": 0.001557632398753894, 
+        "instructed": 0.001557632398753894, 
+        "insulin": 0.004672897196261682, 
+        "intensive": 0.001557632398753894, 
+        "intraoperative": 0.001557632398753894, 
+        "intraoperatively": 0.001557632398753894, 
+        "is": 0.004672897196261682, 
+        "known": 0.001557632398753894, 
+        "laboratory": 0.001557632398753894, 
+        "left": 0.001557632398753894, 
+        "loss": 0.001557632398753894, 
+        "maintained": 0.001557632398753894, 
+        "male": 0.003115264797507788, 
+        "meals.": 0.001557632398753894, 
+        "medications": 0.001557632398753894, 
+        "mellitus": 0.001557632398753894, 
+        "milligrams": 0.021806853582554516, 
+        "mix": 0.001557632398753894, 
+        "mls": 0.001557632398753894, 
+        "monitored": 0.001557632398753894, 
+        "morbid": 0.001557632398753894, 
+        "movement.": 0.001557632398753894, 
+        "multiple": 0.001557632398753894, 
+        "multivitamin": 0.001557632398753894, 
+        "no": 0.006230529595015576, 
+        "nocturnal": 0.001557632398753894, 
+        "not": 0.001557632398753894, 
+        "obstructive": 0.001557632398753894, 
+        "of": 0.01557632398753894, 
+        "office": 0.001557632398753894, 
+        "on": 0.009345794392523364, 
+        "one": 0.001557632398753894, 
+        "or": 0.003115264797507788, 
+        "p.m.": 0.006230529595015576, 
+        "pack": 0.001557632398753894, 
+        "pain": 0.001557632398753894, 
+        "patient": 0.001557632398753894, 
+        "per": 0.003115264797507788, 
+        "physician": 0.001557632398753894, 
+        "pills": 0.001557632398753894, 
+        "placed": 0.001557632398753894, 
+        "platelets": 0.001557632398753894, 
+        "po": 0.020249221183800622, 
+        "point": 0.001557632398753894, 
+        "positive": 0.001557632398753894, 
+        "post": 0.003115264797507788, 
+        "postgastroplasty": 0.001557632398753894, 
+        "postoperative": 0.00778816199376947, 
+        "postoperatively": 0.001557632398753894, 
+        "potassium": 0.001557632398753894, 
+        "pounds": 0.001557632398753894, 
+        "pressure": 0.003115264797507788, 
+        "primary": 0.001557632398753894, 
+        "prn": 0.001557632398753894, 
+        "progression": 0.001557632398753894, 
+        "pulmonary": 0.003115264797507788, 
+        "q": 0.024922118380062305, 
+        "questions": 0.001557632398753894, 
+        "quit": 0.001557632398753894, 
+        "rate": 0.001557632398753894, 
+        "redness": 0.001557632398753894, 
+        "removed": 0.001557632398753894, 
+        "revealed": 0.003115264797507788, 
+        "schedule": 0.003115264797507788, 
+        "should": 0.004672897196261682, 
+        "six": 0.001557632398753894, 
+        "sleep": 0.001557632398753894, 
+        "small": 0.001557632398753894, 
+        "smoking": 0.001557632398753894, 
+        "sodium": 0.001557632398753894, 
+        "soft.": 0.001557632398753894, 
+        "stable": 0.003115264797507788, 
+        "standard": 0.001557632398753894, 
+        "staples": 0.001557632398753894, 
+        "status": 0.001557632398753894, 
+        "steady": 0.001557632398753894, 
+        "surgeries": 0.001557632398753894, 
+        "surgical": 0.001557632398753894, 
+        "t.i.d.": 0.003115264797507788, 
+        "the": 0.006230529595015576, 
+        "this": 0.003115264797507788, 
+        "through": 0.001557632398753894, 
+        "times": 0.001557632398753894, 
+        "to": 0.012461059190031152, 
+        "toiletry": 0.001557632398753894, 
+        "tolerated.": 0.001557632398753894, 
+        "transferred": 0.001557632398753894, 
+        "tube": 0.003115264797507788, 
+        "twelve": 0.001557632398753894, 
+        "two": 0.001557632398753894, 
+        "type": 0.001557632398753894, 
+        "underwent": 0.001557632398753894, 
+        "unit": 0.001557632398753894, 
+        "units": 0.012461059190031152, 
+        "vascular": 0.001557632398753894, 
+        "was": 0.014018691588785047, 
+        "water": 0.003115264797507788, 
+        "week": 0.001557632398753894, 
+        "weight": 0.001557632398753894, 
+        "well": 0.001557632398753894, 
+        "where": 0.001557632398753894, 
+        "which": 0.001557632398753894, 
+        "white": 0.001557632398753894, 
+        "who": 0.001557632398753894, 
+        "will": 0.006230529595015576, 
+        "with": 0.012461059190031152, 
+        "x-ray": 0.001557632398753894, 
+        "year": 0.001557632398753894, 
+        "|": 0.014018691588785047
+    }
+}

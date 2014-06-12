@@ -1,0 +1,5892 @@
+{
+    "bi": {
+        "#19": {
+            "day": 1.0
+        }, 
+        "(": {
+            "disease": 0.5, 
+            "fibrillation": 0.5
+        }, 
+        ").": {
+            "dependent": 0.5, 
+            "paroxysmal": 0.5
+        }, 
+        ",": {
+            "000": 0.010309278350515464, 
+            "1.2": 0.010309278350515464, 
+            "1.7": 0.010309278350515464, 
+            "134": 0.010309278350515464, 
+            "14.9": 0.010309278350515464, 
+            "16": 0.010309278350515464, 
+            "2005": 0.05154639175257732, 
+            "27": 0.010309278350515464, 
+            "28": 0.010309278350515464, 
+            "30%": 0.020618556701030927, 
+            "36": 0.010309278350515464, 
+            "4.3": 0.010309278350515464, 
+            "7.7": 0.010309278350515464, 
+            "95": 0.010309278350515464, 
+            "Albuterol": 0.010309278350515464, 
+            "Also": 0.010309278350515464, 
+            "Amiodarone": 0.010309278350515464, 
+            "BORBA": 0.010309278350515464, 
+            "CT": 0.010309278350515464, 
+            "Center": 0.010309278350515464, 
+            "Combivent": 0.010309278350515464, 
+            "Digoxin": 0.010309278350515464, 
+            "Flagyl": 0.010309278350515464, 
+            "Flovent": 0.010309278350515464, 
+            "Folate": 0.010309278350515464, 
+            "HEUSNER": 0.010309278350515464, 
+            "Heparin": 0.010309278350515464, 
+            "ICU": 0.010309278350515464, 
+            "Intraoperatively": 0.010309278350515464, 
+            "January": 0.010309278350515464, 
+            "June": 0.010309278350515464, 
+            "March": 0.010309278350515464, 
+            "Moreover": 0.010309278350515464, 
+            "NPH": 0.010309278350515464, 
+            "October": 0.020618556701030927, 
+            "Otherwise": 0.010309278350515464, 
+            "Peridex": 0.010309278350515464, 
+            "Postoperatively": 0.020618556701030927, 
+            "Prednisone": 0.010309278350515464, 
+            "Quinla": 0.010309278350515464, 
+            "SCHILMOELLER": 0.010309278350515464, 
+            "Service": 0.030927835051546393, 
+            "Thiamine": 0.010309278350515464, 
+            "addition": 0.010309278350515464, 
+            "allergies": 0.010309278350515464, 
+            "ceftazidime": 0.010309278350515464, 
+            "colectomy": 0.010309278350515464, 
+            "colon": 0.010309278350515464, 
+            "daily": 0.010309278350515464, 
+            "disease": 0.030927835051546393, 
+            "failure": 0.05154639175257732, 
+            "feeds": 0.010309278350515464, 
+            "fluconazole": 0.020618556701030927, 
+            "fluids": 0.010309278350515464, 
+            "however": 0.041237113402061855, 
+            "ileostomy": 0.010309278350515464, 
+            "infarction": 0.010309278350515464, 
+            "insufficiency": 0.010309278350515464, 
+            "mg": 0.041237113402061855, 
+            "mg/mL": 0.010309278350515464, 
+            "placement": 0.010309278350515464, 
+            "pneumonia": 0.010309278350515464, 
+            "postoperatively": 0.010309278350515464, 
+            "regular": 0.010309278350515464, 
+            "scan": 0.010309278350515464, 
+            "sepsis": 0.010309278350515464, 
+            "stable": 0.010309278350515464, 
+            "standpoint": 0.010309278350515464, 
+            "stay": 0.010309278350515464, 
+            "temperatures": 0.020618556701030927, 
+            "tracheostomy": 0.010309278350515464, 
+            "vancomycin": 0.030927835051546393
+        }, 
+        ".": {
+            "Hospital": 1.0
+        }, 
+        "0.0625": {
+            ",": 1.0
+        }, 
+        "0.521": {
+            "tube": 1.0
+        }, 
+        "000": {
+            ",": 1.0
+        }, 
+        "0016869": {
+            "|": 1.0
+        }, 
+        "0479349": {
+            "ID": 1.0
+        }, 
+        "1": {
+            ",": 0.5, 
+            "Oxycodone": 0.5
+        }, 
+        "1.": {
+            "HISTORY:": 0.3333333333333333, 
+            "LIST:": 0.3333333333333333, 
+            "MEDICATIONS:": 0.3333333333333333
+        }, 
+        "1.2": {
+            "INR": 1.0
+        }, 
+        "1.5": {
+            "creatinine": 1.0
+        }, 
+        "1.7": {
+            "creatinine": 1.0
+        }, 
+        "1.7.": {
+            "to": 1.0
+        }, 
+        "10": {
+            ",": 1.0
+        }, 
+        "10.": {
+            "blisters.": 0.3333333333333333, 
+            "daily.": 0.3333333333333333, 
+            "insufficiency.": 0.3333333333333333
+        }, 
+        "100": {
+            ",": 0.5, 
+            "alpha": 0.5
+        }, 
+        "11.": {
+            "attacks.": 0.3333333333333333, 
+            "daily.": 0.3333333333333333, 
+            "dependent.": 0.3333333333333333
+        }, 
+        "11/19/2005": {
+            "Date:": 1.0
+        }, 
+        "12.": {
+            "Gout.": 0.3333333333333333, 
+            "diverticula.": 0.3333333333333333, 
+            "q.i.d.": 0.3333333333333333
+        }, 
+        "12:00:00": {
+            "6/7/2005": 1.0
+        }, 
+        "13.": {
+            "Cholecystectomy.": 0.3333333333333333, 
+            "Sepsis.": 0.3333333333333333, 
+            "daily.": 0.3333333333333333
+        }, 
+        "134": {
+            "Sodium": 1.0
+        }, 
+        "14.": {
+            "Appendectomy.": 0.5, 
+            "b.i.d.": 0.5
+        }, 
+        "14.9": {
+            "PT": 1.0
+        }, 
+        "15": {
+            ",": 1.0
+        }, 
+        "15.": {
+            "daily.": 1.0
+        }, 
+        "16": {
+            "count": 1.0
+        }, 
+        "16.": {
+            "q.i.d.": 1.0
+        }, 
+        "17.": {
+            "p.r.n.": 1.0
+        }, 
+        "18.": {
+            "week.": 1.0
+        }, 
+        "19.": {
+            "b.i.d.": 1.0
+        }, 
+        "2": {
+            ",": 1.0
+        }, 
+        "2.": {
+            "T-tube.": 0.3333333333333333, 
+            "above.": 0.3333333333333333, 
+            "colon.": 0.3333333333333333
+        }, 
+        "2.0": {
+            "to": 1.0
+        }, 
+        "20": {
+            "Pepcid": 1.0
+        }, 
+        "20.": {
+            "anxiety.": 1.0
+        }, 
+        "200": {
+            ",": 1.0
+        }, 
+        "2005": {
+            ",": 1.0
+        }, 
+        "20s": {
+            "mid": 1.0
+        }, 
+        "21.": {
+            "insomnia.": 0.5, 
+            "of": 0.5
+        }, 
+        "27": {
+            "hematocrit": 1.0
+        }, 
+        "28": {
+            "bicarbonate": 1.0
+        }, 
+        "3.": {
+            "b.i.d.": 0.3333333333333333, 
+            "disease.": 0.3333333333333333, 
+            "toxicity.": 0.3333333333333333
+        }, 
+        "30%": {
+            "fraction": 0.5, 
+            "of": 0.5
+        }, 
+        "34.1.": {
+            "PTT": 1.0
+        }, 
+        "36": {
+            "BUN": 1.0
+        }, 
+        "36908482": {
+            "|": 1.0
+        }, 
+        "4": {
+            "to": 1.0
+        }, 
+        "4-1653219": {
+            "document:": 1.0
+        }, 
+        "4.": {
+            ").": 0.25, 
+            "Adriamycin.": 0.25, 
+            "b.i.d.": 0.25, 
+            "q.o.d.": 0.25
+        }, 
+        "4.3": {
+            "potassium": 1.0
+        }, 
+        "4/4": {
+            "have": 1.0
+        }, 
+        "443.": {
+            "platelets": 1.0
+        }, 
+        "5": {
+            ",": 0.5, 
+            "suspension": 0.5
+        }, 
+        "5.": {
+            "daily.": 0.3333333333333333, 
+            "fibrillation": 0.3333333333333333, 
+            "tachycardia.": 0.3333333333333333
+        }, 
+        "50": {
+            "Trazodone": 1.0
+        }, 
+        "50-year-old": {
+            "a": 1.0
+        }, 
+        "5000": {
+            ",": 1.0
+        }, 
+        "6.": {
+            "Hypertension.": 0.3333333333333333, 
+            "t.i.d.": 0.3333333333333333, 
+            "tracheostomy.": 0.3333333333333333
+        }, 
+        "6/7/2005": {
+            "|": 1.0
+        }, 
+        "7.": {
+            ").": 0.3333333333333333, 
+            "disease.": 0.3333333333333333, 
+            "q.a.m.": 0.3333333333333333
+        }, 
+        "7.7": {
+            "of": 1.0
+        }, 
+        "7/20/05": {
+            "D:": 1.0
+        }, 
+        "741601659": {
+            "": 1.0
+        }, 
+        "7:": {
+            "Chem": 1.0
+        }, 
+        "8.": {
+            "bacteremia.": 0.3333333333333333, 
+            "pneumonia.": 0.3333333333333333, 
+            "q.4h.": 0.3333333333333333
+        }, 
+        "88": {
+            ",": 1.0
+        }, 
+        "9": {
+            ",": 1.0
+        }, 
+        "9.": {
+            "failure.": 0.3333333333333333, 
+            "pain.": 0.3333333333333333, 
+            "q.a.m.": 0.3333333333333333
+        }, 
+        "9.1.": {
+            "calcium": 1.0
+        }, 
+        "95": {
+            "chloride": 1.0
+        }, 
+        "ACTIVE": {
+            "colectomy.": 1.0
+        }, 
+        "ALLERGIES:": {
+            "chemotherapy.": 1.0
+        }, 
+        "AM": {
+            "12:00:00": 1.0
+        }, 
+        "AND": {
+            "ASSESSMENT": 1.0
+        }, 
+        "ASSESSMENT": {
+            "34.1.": 1.0
+        }, 
+        "ATTENDING:": {
+            "Date:": 1.0
+        }, 
+        "Achilles": {
+            "of": 1.0
+        }, 
+        "Acute": {
+            "1.7.": 0.5, 
+            "8.": 0.5
+        }, 
+        "Admission": {
+            "|": 1.0
+        }, 
+        "Adriamycin": {
+            "and": 1.0
+        }, 
+        "Adriamycin.": {
+            "to": 1.0
+        }, 
+        "After": {
+            "CT.": 1.0
+        }, 
+        "Albuterol": {
+            "16.": 1.0
+        }, 
+        "Also": {
+            "INR.": 0.25, 
+            "ceftazidime.": 0.25, 
+            "infarction.": 0.25, 
+            "levofloxacin.": 0.25
+        }, 
+        "Amiodarone": {
+            "1.": 1.0
+        }, 
+        "Anxiety": {
+            "13.": 1.0
+        }, 
+        "Appendectomy.": {
+            "13.": 1.0
+        }, 
+        "Arlricks": {
+            "to": 1.0
+        }, 
+        "Aspergillus": {
+            "have": 1.0
+        }, 
+        "Ativan": {
+            "19.": 0.5, 
+            "continue": 0.5
+        }, 
+        "Atrial": {
+            "3.": 0.5, 
+            "4.": 0.5
+        }, 
+        "Attending:": {
+            "BENTON": 1.0
+        }, 
+        "BENTON": {
+            ",": 1.0
+        }, 
+        "BORBA": {
+            "ATTENDING:": 1.0
+        }, 
+        "BUN": {
+            ",": 1.0
+        }, 
+        "By:": {
+            "Dictated": 1.0
+        }, 
+        "COPD": {
+            "and": 1.0
+        }, 
+        "COURSE:": {
+            "HOSPITAL": 1.0
+        }, 
+        "CT": {
+            "abdominal": 0.25, 
+            "followup": 0.75
+        }, 
+        "CT-guided": {
+            "a": 1.0
+        }, 
+        "CT.": {
+            "abdominal": 1.0
+        }, 
+        "Cardiovascular:": {
+            "needed.": 1.0
+        }, 
+        "Center": {
+            "Medical": 0.5, 
+            "Versut": 0.5
+        }, 
+        "Chem": {
+            "443.": 1.0
+        }, 
+        "Cholecystectomy.": {
+            "12.": 1.0
+        }, 
+        "Chronic": {
+            "6.": 0.25, 
+            "8.": 0.25, 
+            "9.": 0.25, 
+            "FEN/GU:": 0.25
+        }, 
+        "Collagenase": {
+            "14.": 1.0
+        }, 
+        "Combivent": {
+            "15.": 1.0
+        }, 
+        "Community": {
+            "Arlricks": 1.0
+        }, 
+        "Congestive": {
+            "2.": 0.5, 
+            "3.": 0.5
+        }, 
+        "Continues": {
+            "Gastrointestinal:": 0.5, 
+            "Respiratory:": 0.5
+        }, 
+        "Coronary": {
+            "1.": 0.5, 
+            "2.": 0.5
+        }, 
+        "Currently": {
+            "ID:": 1.0
+        }, 
+        "D:": {
+            "0479349": 1.0
+        }, 
+        "DATA:": {
+            "LABORATORY": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "PRINCIPAL": 1.0
+        }, 
+        "DIS": {
+            "|": 1.0
+        }, 
+        "DISPOSITION:": {
+            "monitoring.": 1.0
+        }, 
+        "DVT": {
+            "continue": 1.0
+        }, 
+        "Darbepoetin": {
+            "17.": 1.0
+        }, 
+        "Date:": {
+            "Admission": 0.5, 
+            "Discharge": 0.5
+        }, 
+        "Dictated": {
+            "Tel": 1.0
+        }, 
+        "Dictation": {
+            "NATHANAEL": 1.0
+        }, 
+        "Digoxin": {
+            "3.": 1.0
+        }, 
+        "Discharge": {
+            "Signed": 0.5, 
+            "|": 0.5
+        }, 
+        "Disease": {
+            "Infectious": 1.0
+        }, 
+        "During": {
+            "vancomycin.": 1.0
+        }, 
+        "Endocrine:": {
+            "even.": 1.0
+        }, 
+        "FEN/GU:": {
+            "tolerated.": 1.0
+        }, 
+        "Flagyl": {
+            ",": 1.0
+        }, 
+        "Flagyl.": {
+            "and": 1.0
+        }, 
+        "Flovent": {
+            "13.": 1.0
+        }, 
+        "Folate": {
+            "4.": 1.0
+        }, 
+        "From": {
+            "improving.": 1.0
+        }, 
+        "GARRET": {
+            ",": 1.0
+        }, 
+        "Gastrointestinal:": {
+            "ceftazidime.": 1.0
+        }, 
+        "Gout.": {
+            "11.": 1.0
+        }, 
+        "HEUSNER": {
+            "By:": 1.0
+        }, 
+        "HISTORY:": {
+            "MEDICAL": 1.0
+        }, 
+        "HOSPITAL": {
+            "pain.": 1.0
+        }, 
+        "He": {
+            "Flagyl.": 0.05263157894736842, 
+            "Staphylococcus.": 0.05263157894736842, 
+            "air.": 0.05263157894736842, 
+            "clinically.": 0.05263157894736842, 
+            "collections.": 0.05263157894736842, 
+            "colon.": 0.05263157894736842, 
+            "contrast.": 0.05263157894736842, 
+            "drips.": 0.05263157894736842, 
+            "extubation.": 0.05263157894736842, 
+            "failure.": 0.10526315789473684, 
+            "fevers.": 0.05263157894736842, 
+            "flare.": 0.05263157894736842, 
+            "intubated.": 0.05263157894736842, 
+            "line.": 0.05263157894736842, 
+            "pressors.": 0.05263157894736842, 
+            "resolved.": 0.05263157894736842, 
+            "symptoms.": 0.05263157894736842, 
+            "ventilator.": 0.05263157894736842
+        }, 
+        "Heme:": {
+            "euglycemic.": 1.0
+        }, 
+        "Heparin": {
+            "5.": 1.0
+        }, 
+        "Hospital": {
+            "Community": 0.3333333333333333, 
+            "Ieldha": 0.3333333333333333, 
+            "Onnau": 0.3333333333333333
+        }, 
+        "Hypertension.": {
+            "5.": 1.0
+        }, 
+        "I's": {
+            "keep": 1.0
+        }, 
+        "ICU": {
+            "Center": 0.25, 
+            "prolonged": 0.25, 
+            "surgical": 0.25, 
+            "the": 0.25
+        }, 
+        "ICU.": {
+            "Surgical": 0.5, 
+            "the": 0.5
+        }, 
+        "ID": {
+            "Dictation": 1.0
+        }, 
+        "ID:": {
+            "prophylaxis.": 1.0
+        }, 
+        "INR": {
+            ",": 1.0
+        }, 
+        "INR.": {
+            "supratherapeutic": 1.0
+        }, 
+        "ISSten": {
+            "4-1653219": 1.0
+        }, 
+        "IV": {
+            "With": 0.5, 
+            "to": 0.5
+        }, 
+        "Ieldha": {
+            "at": 1.0
+        }, 
+        "In": {
+            ".": 0.5, 
+            "tracheostomy.": 0.5
+        }, 
+        "Infectious": {
+            "the": 1.0
+        }, 
+        "Ins": {
+            "to": 1.0
+        }, 
+        "Insulin": {
+            "7.": 1.0
+        }, 
+        "Interventional": {
+            ",": 1.0
+        }, 
+        "Intraoperatively": {
+            "fungemia.": 1.0
+        }, 
+        "JP": {
+            "monitor": 1.0
+        }, 
+        "January": {
+            "On": 1.0
+        }, 
+        "June": {
+            "on": 1.0
+        }, 
+        "LABORATORY": {
+            "ICU.": 1.0
+        }, 
+        "LIST:": {
+            "PROBLEMS": 1.0
+        }, 
+        "Lasix": {
+            "with": 1.0
+        }, 
+        "Leg": {
+            "9.": 1.0
+        }, 
+        "Levophed": {
+            "required": 1.0
+        }, 
+        "Liberated": {
+            "wean.": 1.0
+        }, 
+        "M.D.": {
+            "GARRET": 1.0
+        }, 
+        "MDI": {
+            "mcg": 0.5, 
+            "puffs": 0.5
+        }, 
+        "MEDICAL": {
+            "PAST": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "levofloxacin.": 1.0
+        }, 
+        "MI": {
+            "elevation": 1.0
+        }, 
+        "March": {
+            "on": 1.0
+        }, 
+        "Medical": {
+            "O": 1.0
+        }, 
+        "Moreover": {
+            "antibiotics.": 1.0
+        }, 
+        "Multivitamin": {
+            "9.": 1.0
+        }, 
+        "NATHANAEL": {
+            ",": 1.0
+        }, 
+        "NG": {
+            "Ativan": 1.0
+        }, 
+        "NPH": {
+            "6.": 1.0
+        }, 
+        "Neurological:": {
+            "fibrillation.": 1.0
+        }, 
+        "No": {
+            "ALLERGIES:": 1.0
+        }, 
+        "Non-ST": {
+            "including:": 1.0
+        }, 
+        "Nonsustained": {
+            "4.": 1.0
+        }, 
+        "Noted": {
+            "antibiotics.": 1.0
+        }, 
+        "Nystatin": {
+            "11.": 1.0
+        }, 
+        "O": {
+            "to": 1.0
+        }, 
+        "O's": {
+            "and": 1.0
+        }, 
+        "October": {
+            "on": 1.0
+        }, 
+        "On": {
+            "airways.": 0.5, 
+            "fevers.": 0.5
+        }, 
+        "Onnau": {
+            "at": 1.0
+        }, 
+        "Otherwise": {
+            "time.": 1.0
+        }, 
+        "Oxycodone": {
+            "21.": 1.0
+        }, 
+        "PAST": {
+            "disorder.": 1.0
+        }, 
+        "PLAN:": {
+            "AND": 1.0
+        }, 
+        "PO": {
+            "advancing": 0.2, 
+            "mL": 0.2, 
+            "mg": 0.2, 
+            "start": 0.2, 
+            "starting": 0.2
+        }, 
+        "PO's.": {
+            "further": 1.0
+        }, 
+        "PRINCIPAL": {
+            "ICU.": 1.0
+        }, 
+        "PROBLEMS": {
+            "ACTIVE": 1.0
+        }, 
+        "PT": {
+            "9.1.": 1.0
+        }, 
+        "PTT": {
+            ",": 1.0
+        }, 
+        "Pepcid": {
+            "4.": 1.0
+        }, 
+        "Perforated": {
+            "11.": 0.5, 
+            "DIAGNOSIS:": 0.5
+        }, 
+        "Peridex": {
+            "2.": 1.0
+        }, 
+        "Plan": {
+            "anxiety.": 0.5, 
+            "rhythm.": 0.5
+        }, 
+        "Postoperatively": {
+            "ICU.": 0.5, 
+            "lysed.": 0.5
+        }, 
+        "Prednisone": {
+            "8.": 1.0
+        }, 
+        "Pseudomonas": {
+            "7.": 0.25, 
+            "for": 0.25, 
+            "of": 0.25, 
+            "ongoing": 0.25
+        }, 
+        "Psychiatric": {
+            "regimen.": 1.0
+        }, 
+        "Quinla": {
+            "the": 1.0
+        }, 
+        "RCMC": {
+            "|": 1.0
+        }, 
+        "Radiology": {
+            "Interventional": 1.0
+        }, 
+        "Repeat": {
+            "procedurally.": 1.0
+        }, 
+        "Report": {
+            "11/19/2005": 1.0
+        }, 
+        "Respiratory": {
+            "5.": 1.0
+        }, 
+        "Respiratory:": {
+            "even.": 1.0
+        }, 
+        "S/p": {
+            "ICU.": 1.0
+        }, 
+        "SCHILMOELLER": {
+            "Attending:": 1.0
+        }, 
+        "SERVICE:": {
+            "M.D.": 1.0
+        }, 
+        "Sarna": {
+            "10.": 1.0
+        }, 
+        "Sepsis.": {
+            "12.": 1.0
+        }, 
+        "Service": {
+            "Disease": 0.3333333333333333, 
+            "Radiology": 0.3333333333333333, 
+            "Surgical": 0.3333333333333333
+        }, 
+        "Signed": {
+            "Status:": 0.5, 
+            "|": 0.5
+        }, 
+        "Sodium": {
+            "7:": 1.0
+        }, 
+        "Sputum": {
+            "antibiotics.": 1.0
+        }, 
+        "Staphylococcus": {
+            "7.": 1.0
+        }, 
+        "Staphylococcus.": {
+            "coagulation-negative": 1.0
+        }, 
+        "Status": {
+            "1.": 0.5, 
+            "Cardiovascular:": 0.5
+        }, 
+        "Status:": {
+            "Report": 1.0
+        }, 
+        "Steroid": {
+            "10.": 1.0
+        }, 
+        "Steroid-dependent": {
+            "6.": 1.0
+        }, 
+        "Sti": {
+            "at": 1.0
+        }, 
+        "Summary": {
+            "Discharge": 1.0
+        }, 
+        "Surgical": {
+            "Ins": 0.3333333333333333, 
+            "SERVICE:": 0.3333333333333333, 
+            "the": 0.3333333333333333
+        }, 
+        "T": {
+            "via": 1.0
+        }, 
+        "T-tube": {
+            ",": 0.7142857142857143, 
+            "mg": 0.14285714285714285, 
+            "via": 0.14285714285714285
+        }, 
+        "T-tube.": {
+            ",": 1.0
+        }, 
+        "T:": {
+            "7/20/05": 1.0
+        }, 
+        "Tel": {
+            "ISSten": 1.0
+        }, 
+        "Testicular": {
+            "14.": 1.0
+        }, 
+        "The": {
+            "21.": 0.25, 
+            "Heme:": 0.25, 
+            "Neurological:": 0.25, 
+            "vasopressin.": 0.25
+        }, 
+        "Thiamine": {
+            "12.": 1.0
+        }, 
+        "This": {
+            "COURSE:": 0.25, 
+            "DISPOSITION:": 0.25, 
+            "Endocrine:": 0.25, 
+            "PLAN:": 0.25
+        }, 
+        "Thought": {
+            "sputum.": 1.0
+        }, 
+        "Transferred": {
+            "future.": 1.0
+        }, 
+        "Transient": {
+            "10.": 1.0
+        }, 
+        "Trazodone": {
+            "20.": 1.0
+        }, 
+        "Versut": {
+            "Sti": 1.0
+        }, 
+        "We": {
+            "PO's.": 0.14285714285714285, 
+            "abnormalities.": 0.14285714285714285, 
+            "digoxin.": 0.14285714285714285, 
+            "disease.": 0.14285714285714285, 
+            "rate.": 0.14285714285714285, 
+            "scale.": 0.14285714285714285, 
+            "weeks.": 0.14285714285714285
+        }, 
+        "White": {
+            "DATA:": 1.0
+        }, 
+        "With": {
+            "range.": 1.0
+        }, 
+        "Xenaderm": {
+            "18.": 1.0
+        }, 
+        "a": {
+            "after": 0.08333333333333333, 
+            "and": 0.08333333333333333, 
+            "had": 0.16666666666666666, 
+            "is": 0.16666666666666666, 
+            "obtained": 0.08333333333333333, 
+            "of": 0.08333333333333333, 
+            "warrant": 0.08333333333333333, 
+            "with": 0.25
+        }, 
+        "abdomen": {
+            "his": 1.0
+        }, 
+        "abdominal": {
+            "on": 1.0
+        }, 
+        "able": {
+            "is": 1.0
+        }, 
+        "abnormalities.": {
+            "electrolyte": 1.0
+        }, 
+        "above.": {
+            "as": 1.0
+        }, 
+        "abscess;": {
+            "possible": 1.0
+        }, 
+        "acidosis;": {
+            "in": 1.0
+        }, 
+        "acute": {
+            ",": 0.3333333333333333, 
+            "had": 0.3333333333333333, 
+            "his": 0.3333333333333333
+        }, 
+        "addition": {
+            "In": 1.0
+        }, 
+        "adhesions": {
+            "and": 1.0
+        }, 
+        "adjustment": {
+            "an": 0.5, 
+            "with": 0.5
+        }, 
+        "admitted": {
+            "was": 1.0
+        }, 
+        "advancing": {
+            "start": 1.0
+        }, 
+        "after": {
+            ",": 0.5, 
+            "ICU": 0.5
+        }, 
+        "air.": {
+            "free": 1.0
+        }, 
+        "airways.": {
+            "his": 1.0
+        }, 
+        "alert": {
+            "is": 1.0
+        }, 
+        "allergies": {
+            "drug": 1.0
+        }, 
+        "along": {
+            "collections": 1.0
+        }, 
+        "alpha": {
+            "Darbepoetin": 1.0
+        }, 
+        "also": {
+            "He": 0.5, 
+            "was": 0.5
+        }, 
+        "amiodarone": {
+            "continue": 1.0
+        }, 
+        "an": {
+            "had": 0.16666666666666666, 
+            "have": 0.5, 
+            "revealed": 0.16666666666666666, 
+            "with": 0.16666666666666666
+        }, 
+        "and": {
+            ",": 0.24242424242424243, 
+            "20s": 0.030303030303030304, 
+            "I's": 0.06060606060606061, 
+            "Levophed": 0.030303030303030304, 
+            "PO": 0.030303030303030304, 
+            "Pseudomonas": 0.030303030303030304, 
+            "abdomen": 0.030303030303030304, 
+            "alert": 0.030303030303030304, 
+            "cardiomyopathy": 0.030303030303030304, 
+            "ceftazidime": 0.030303030303030304, 
+            "colostomy": 0.030303030303030304, 
+            "drainage": 0.030303030303030304, 
+            "explored": 0.030303030303030304, 
+            "failure": 0.030303030303030304, 
+            "floor": 0.030303030303030304, 
+            "improvement": 0.030303030303030304, 
+            "lines": 0.06060606060606061, 
+            "needed": 0.030303030303030304, 
+            "nutrition": 0.030303030303030304, 
+            "obtained": 0.030303030303030304, 
+            "oriented": 0.030303030303030304, 
+            "pneumonia": 0.030303030303030304, 
+            "stable": 0.030303030303030304, 
+            "tube": 0.030303030303030304
+        }, 
+        "anemia": {
+            "and": 1.0
+        }, 
+        "anemic": {
+            "been": 1.0
+        }, 
+        "antibiotics": {
+            "broad-spectrum": 0.5, 
+            "on": 0.5
+        }, 
+        "antibiotics.": {
+            "despite": 0.3333333333333333, 
+            "of": 0.3333333333333333, 
+            "on": 0.3333333333333333
+        }, 
+        "anxiety.": {
+            "p.r.n.": 0.5, 
+            "with": 0.5
+        }, 
+        "appeared": {
+            "MI": 1.0
+        }, 
+        "area": {
+            "an": 0.5, 
+            "the": 0.5
+        }, 
+        "arterial": {
+            "his": 1.0
+        }, 
+        "artery": {
+            "Coronary": 0.6666666666666666, 
+            "coronary": 0.3333333333333333
+        }, 
+        "as": {
+            "Ativan": 0.08333333333333333, 
+            "Lasix": 0.16666666666666666, 
+            "collection": 0.08333333333333333, 
+            "diet": 0.08333333333333333, 
+            "disease": 0.08333333333333333, 
+            "feeds": 0.08333333333333333, 
+            "medications": 0.08333333333333333, 
+            "output": 0.08333333333333333, 
+            "oxycodone": 0.08333333333333333, 
+            "well": 0.16666666666666666
+        }, 
+        "at": {
+            "CT": 0.16666666666666666, 
+            "ICU": 0.16666666666666666, 
+            "antibiotics": 0.16666666666666666, 
+            "collection": 0.16666666666666666, 
+            "distress": 0.16666666666666666, 
+            "noted": 0.16666666666666666
+        }, 
+        "atrial": {
+            "paroxysmal": 1.0
+        }, 
+        "attacks.": {
+            "ischemic": 1.0
+        }, 
+        "b.i.d.": {
+            "MDI": 0.25, 
+            "T-tube": 0.25, 
+            "orally": 0.25, 
+            "topically": 0.25
+        }, 
+        "back": {
+            "lower": 1.0
+        }, 
+        "bacteremia.": {
+            "Staphylococcus": 1.0
+        }, 
+        "baseline": {
+            "with": 1.0
+        }, 
+        "be": {
+            "to": 0.8, 
+            "would": 0.2
+        }, 
+        "been": {
+            "has": 1.0
+        }, 
+        "bicarbonate": {
+            ",": 1.0
+        }, 
+        "bleed": {
+            "gastrointestinal": 1.0
+        }, 
+        "blisters.": {
+            "Leg": 1.0
+        }, 
+        "blood": {
+            "4/4": 0.5, 
+            "white": 0.5
+        }, 
+        "brief": {
+            "a": 1.0
+        }, 
+        "broad-spectrum": {
+            "on": 1.0
+        }, 
+        "but": {
+            ",": 1.0
+        }, 
+        "by": {
+            "edema": 0.5, 
+            "or": 0.5
+        }, 
+        "calcium": {
+            ",": 1.0
+        }, 
+        "cancer": {
+            "Testicular": 1.0
+        }, 
+        "cardiac": {
+            "with": 1.0
+        }, 
+        "cardiomyopathy": {
+            "ischemic": 1.0
+        }, 
+        "ceftazidime": {
+            ",": 0.25, 
+            "and": 0.25, 
+            "of": 0.25, 
+            "with": 0.25
+        }, 
+        "ceftazidime.": {
+            "on": 0.5, 
+            "to": 0.5
+        }, 
+        "cell": {
+            "White": 0.3333333333333333, 
+            "blood": 0.3333333333333333, 
+            "tagged": 0.3333333333333333
+        }, 
+        "center": {
+            "health": 1.0
+        }, 
+        "central": {
+            "his": 1.0
+        }, 
+        "change-out": {
+            "a": 1.0
+        }, 
+        "chemotherapy.": {
+            "post": 1.0
+        }, 
+        "chloride": {
+            ",": 1.0
+        }, 
+        "chronic": {
+            ",": 0.2222222222222222, 
+            "Steroid-dependent": 0.1111111111111111, 
+            "has": 0.1111111111111111, 
+            "history": 0.1111111111111111, 
+            "of": 0.1111111111111111, 
+            "on": 0.3333333333333333
+        }, 
+        "clinical": {
+            "by": 1.0
+        }, 
+        "clinically": {
+            "but": 1.0
+        }, 
+        "clinically.": {
+            "follow": 1.0
+        }, 
+        "coagulation-negative": {
+            "for": 1.0
+        }, 
+        "colectomy": {
+            "post": 0.6666666666666666, 
+            "sigmoid": 0.3333333333333333
+        }, 
+        "colectomy.": {
+            "post": 1.0
+        }, 
+        "collection": {
+            "fluid": 0.75, 
+            "this": 0.25
+        }, 
+        "collections": {
+            "fluid": 1.0
+        }, 
+        "collections.": {
+            "fluid": 1.0
+        }, 
+        "colon": {
+            "Perforated": 0.5, 
+            "sigmoid": 0.5
+        }, 
+        "colon.": {
+            "of": 0.5, 
+            "sigmoid": 0.5
+        }, 
+        "colonic": {
+            "Perforated": 1.0
+        }, 
+        "colonization": {
+            "possible": 1.0
+        }, 
+        "colostomy": {
+            "with": 1.0
+        }, 
+        "completing": {
+            ",": 1.0
+        }, 
+        "condition": {
+            "patient's": 1.0
+        }, 
+        "congestive": {
+            ",": 1.0
+        }, 
+        "consistent": {
+            "quadrant": 1.0
+        }, 
+        "consult": {
+            "Psychiatric": 1.0
+        }, 
+        "consultation": {
+            "After": 1.0
+        }, 
+        "continuation": {
+            "and": 1.0
+        }, 
+        "continue": {
+            "and": 0.375, 
+            "to": 0.25, 
+            "will": 0.375
+        }, 
+        "continued": {
+            "was": 1.0
+        }, 
+        "contrast.": {
+            "IV": 1.0
+        }, 
+        "controlled": {
+            "well": 1.0
+        }, 
+        "coronary": {
+            "of": 1.0
+        }, 
+        "correlate": {
+            "not": 1.0
+        }, 
+        "count": {
+            "cell": 1.0
+        }, 
+        "course": {
+            "ICU": 0.3333333333333333, 
+            "completing": 0.3333333333333333, 
+            "the": 0.3333333333333333
+        }, 
+        "creatinine": {
+            ",": 0.25, 
+            "a": 0.25, 
+            "baseline": 0.25, 
+            "his": 0.25
+        }, 
+        "culture": {
+            "Sputum": 1.0
+        }, 
+        "cultures": {
+            "Repeat": 0.5, 
+            "blood": 0.5
+        }, 
+        "current": {
+            "his": 1.0
+        }, 
+        "daily": {
+            "as": 0.3333333333333333, 
+            "his": 0.3333333333333333, 
+            "mg": 0.3333333333333333
+        }, 
+        "daily.": {
+            "Multivitamin": 0.2, 
+            "T-tube": 0.4, 
+            "topically": 0.4
+        }, 
+        "day": {
+            "on": 1.0
+        }, 
+        "decided": {
+            "was": 1.0
+        }, 
+        "decreasing": {
+            "had": 1.0
+        }, 
+        "degenerative": {
+            "to": 1.0
+        }, 
+        "dependent": {
+            "steroid": 1.0
+        }, 
+        "dependent.": {
+            "Steroid": 1.0
+        }, 
+        "despite": {
+            "fevers": 1.0
+        }, 
+        "diagnosed": {
+            "fever": 1.0
+        }, 
+        "did": {
+            "scan": 1.0
+        }, 
+        "diet": {
+            "PO": 1.0
+        }, 
+        "digoxin.": {
+            "continue": 1.0
+        }, 
+        "discharge": {
+            "to": 1.0
+        }, 
+        "discontinuation": {
+            "with": 1.0
+        }, 
+        "discontinued": {
+            "was": 1.0
+        }, 
+        "disease": {
+            "artery": 0.4, 
+            "pulmonary": 0.6
+        }, 
+        "disease.": {
+            "artery": 0.3333333333333333, 
+            "chronic": 0.3333333333333333, 
+            "pulmonary": 0.3333333333333333
+        }, 
+        "disease;": {
+            "back": 1.0
+        }, 
+        "disorder": {
+            "adjustment": 1.0
+        }, 
+        "disorder.": {
+            "adjustment": 1.0
+        }, 
+        "distress": {
+            "respiratory": 1.0
+        }, 
+        "diurese": {
+            "to": 0.5, 
+            "will": 0.5
+        }, 
+        "diverticula.": {
+            "colonic": 1.0
+        }, 
+        "document:": {
+            "eScription": 1.0
+        }, 
+        "doing": {
+            "been": 1.0
+        }, 
+        "done": {
+            "intervention": 1.0
+        }, 
+        "drain": {
+            "a": 1.0
+        }, 
+        "drainage": {
+            "CT-guided": 1.0
+        }, 
+        "drips.": {
+            "sedative": 1.0
+        }, 
+        "drug": {
+            "known": 1.0
+        }, 
+        "due": {
+            "be": 0.3333333333333333, 
+            "bleed": 0.3333333333333333, 
+            "likely": 0.3333333333333333
+        }, 
+        "eScription": {
+            "stable.": 1.0
+        }, 
+        "edema": {
+            "pulmonary": 1.0
+        }, 
+        "ejection": {
+            ",": 0.5, 
+            "an": 0.5
+        }, 
+        "electrolyte": {
+            "major": 1.0
+        }, 
+        "elevation": {
+            "Non-ST": 0.3333333333333333, 
+            "non-ST": 0.6666666666666666
+        }, 
+        "empirically": {
+            "started": 1.0
+        }, 
+        "enhancement": {
+            "of": 1.0
+        }, 
+        "euglycemic.": {
+            "keep": 1.0
+        }, 
+        "even.": {
+            "O's": 1.0
+        }, 
+        "every": {
+            "subcutaneously": 1.0
+        }, 
+        "explored": {
+            "was": 1.0
+        }, 
+        "extubation.": {
+            "of": 1.0
+        }, 
+        "failure": {
+            "Respiratory": 0.09090909090909091, 
+            "heart": 0.36363636363636365, 
+            "renal": 0.36363636363636365, 
+            "respiratory": 0.18181818181818182
+        }, 
+        "failure.": {
+            "renal": 0.6666666666666666, 
+            "respiratory": 0.3333333333333333
+        }, 
+        "feeds": {
+            "tube": 1.0
+        }, 
+        "fever": {
+            "and": 1.0
+        }, 
+        "fevers": {
+            "of": 0.5, 
+            "ongoing": 0.5
+        }, 
+        "fevers.": {
+            "daily": 1.0
+        }, 
+        "fibrillation": {
+            "Atrial": 1.0
+        }, 
+        "fibrillation.": {
+            "atrial": 1.0
+        }, 
+        "flare.": {
+            "COPD": 1.0
+        }, 
+        "floor": {
+            "the": 0.5, 
+            "to": 0.5
+        }, 
+        "fluconazole": {
+            ",": 0.6666666666666666, 
+            "on": 0.3333333333333333
+        }, 
+        "fluid": {
+            "intraabdominal": 0.2, 
+            "ongoing": 0.4, 
+            "significant": 0.2, 
+            "these": 0.2
+        }, 
+        "fluids": {
+            "IV": 1.0
+        }, 
+        "follow": {
+            "to": 1.0
+        }, 
+        "followup": {
+            "On": 0.3333333333333333, 
+            "a": 0.3333333333333333, 
+            "on": 0.3333333333333333
+        }, 
+        "for": {
+            ",": 0.16666666666666666, 
+            "drain": 0.16666666666666666, 
+            "fluconazole": 0.16666666666666666, 
+            "positive": 0.3333333333333333, 
+            "tracheostomy": 0.16666666666666666
+        }, 
+        "fraction": {
+            "ejection": 1.0
+        }, 
+        "free": {
+            "have": 1.0
+        }, 
+        "frequency": {
+            "decreasing": 1.0
+        }, 
+        "from": {
+            "Liberated": 0.25, 
+            "discharge": 0.25, 
+            "improved": 0.25, 
+            "liberated": 0.25
+        }, 
+        "fungemia.": {
+            "for": 1.0
+        }, 
+        "further": {
+            "have": 0.3333333333333333, 
+            "no": 0.3333333333333333, 
+            "tolerate": 0.3333333333333333
+        }, 
+        "future.": {
+            "the": 1.0
+        }, 
+        "gastrointestinal": {
+            "upper": 1.0
+        }, 
+        "goal": {
+            ",": 1.0
+        }, 
+        "going": {
+            "after": 1.0
+        }, 
+        "good": {
+            "having": 1.0
+        }, 
+        "had": {
+            ",": 0.1, 
+            "Also": 0.1, 
+            "He": 0.1, 
+            "and": 0.2, 
+            "has": 0.1, 
+            "he": 0.3, 
+            "patient": 0.1
+        }, 
+        "has": {
+            ",": 0.1111111111111111, 
+            "He": 0.3333333333333333, 
+            "and": 0.2222222222222222, 
+            "pain": 0.1111111111111111, 
+            "patient": 0.2222222222222222
+        }, 
+        "have": {
+            "to": 1.0
+        }, 
+        "having": {
+            "been": 0.6666666666666666, 
+            "is": 0.3333333333333333
+        }, 
+        "he": {
+            ",": 0.6363636363636364, 
+            "and": 0.18181818181818182, 
+            "where": 0.09090909090909091, 
+            "which": 0.09090909090909091
+        }, 
+        "health": {
+            "shore": 1.0
+        }, 
+        "heart": {
+            "Congestive": 0.5, 
+            "congestive": 0.5
+        }, 
+        "hematocrit": {
+            ",": 0.5, 
+            "watch": 0.5
+        }, 
+        "hematocrits": {
+            "with": 1.0
+        }, 
+        "hemodynamically": {
+            "been": 1.0
+        }, 
+        "his": {
+            ",": 0.2, 
+            "in": 0.3333333333333333, 
+            "of": 0.2, 
+            "on": 0.06666666666666667, 
+            "with": 0.2
+        }, 
+        "history": {
+            ",": 0.6666666666666666, 
+            "with": 0.3333333333333333
+        }, 
+        "hospital": {
+            "this": 1.0
+        }, 
+        "however": {
+            "abscess;": 0.25, 
+            "acidosis;": 0.25, 
+            "disease;": 0.25, 
+            "resolving;": 0.25
+        }, 
+        "ileostomy": {
+            "an": 0.5, 
+            "with": 0.5
+        }, 
+        "improved": {
+            "but": 1.0
+        }, 
+        "improvement": {
+            "an": 0.25, 
+            "further": 0.25, 
+            "have": 0.25, 
+            "ongoing": 0.25
+        }, 
+        "improving": {
+            "creatinine": 1.0
+        }, 
+        "improving.": {
+            "clinically": 1.0
+        }, 
+        "in": {
+            "Aspergillus": 0.09090909090909091, 
+            "He": 0.09090909090909091, 
+            "Pseudomonas": 0.09090909090909091, 
+            "and": 0.09090909090909091, 
+            "collection": 0.09090909090909091, 
+            "enhancement": 0.09090909090909091, 
+            "hematocrits": 0.09090909090909091, 
+            "improvement": 0.18181818181818182, 
+            "perforation": 0.09090909090909091, 
+            "point": 0.09090909090909091
+        }, 
+        "including": {
+            "antibiotics": 1.0
+        }, 
+        "including:": {
+            "issues": 1.0
+        }, 
+        "infarction": {
+            "myocardial": 1.0
+        }, 
+        "infarction.": {
+            "myocardial": 1.0
+        }, 
+        "insomnia.": {
+            "p.r.n.": 1.0
+        }, 
+        "insufficiency": {
+            "renal": 1.0
+        }, 
+        "insufficiency.": {
+            "renal": 1.0
+        }, 
+        "insulin": {
+            "on": 1.0
+        }, 
+        "intervention": {
+            "no": 1.0
+        }, 
+        "into": {
+            "going": 1.0
+        }, 
+        "intraabdominal": {
+            "have": 1.0
+        }, 
+        "intubated": {
+            "remained": 1.0
+        }, 
+        "intubated.": {
+            "was": 1.0
+        }, 
+        "is": {
+            "He": 0.21428571428571427, 
+            "Plan": 0.14285714285714285, 
+            "This": 0.14285714285714285, 
+            "and": 0.07142857142857142, 
+            "condition": 0.07142857142857142, 
+            "he": 0.07142857142857142, 
+            "now": 0.07142857142857142, 
+            "patient": 0.14285714285714285, 
+            "who": 0.07142857142857142
+        }, 
+        "ischemic": {
+            "Transient": 0.5, 
+            "to": 0.5
+        }, 
+        "issues": {
+            "medical": 1.0
+        }, 
+        "it": {
+            ",": 1.0
+        }, 
+        "keep": {
+            "to": 1.0
+        }, 
+        "known": {
+            "No": 1.0
+        }, 
+        "last": {
+            "the": 1.0
+        }, 
+        "levofloxacin.": {
+            "and": 0.5, 
+            "with": 0.5
+        }, 
+        "liberated": {
+            "was": 1.0
+        }, 
+        "likely": {
+            ",": 1.0
+        }, 
+        "line.": {
+            "arterial": 1.0
+        }, 
+        "lines": {
+            "central": 0.5, 
+            "of": 0.5
+        }, 
+        "low-grade": {
+            "having": 0.5, 
+            "ongoing": 0.5
+        }, 
+        "lower": {
+            "degenerative": 0.5, 
+            "right": 0.5
+        }, 
+        "lysed.": {
+            "were": 1.0
+        }, 
+        "mL": {
+            "15": 0.5, 
+            "5": 0.5
+        }, 
+        "major": {
+            "no": 1.0
+        }, 
+        "man": {
+            "50-year-old": 1.0
+        }, 
+        "may": {
+            "and": 1.0
+        }, 
+        "mcg": {
+            "100": 0.5, 
+            "88": 0.5
+        }, 
+        "mechanical": {
+            "from": 1.0
+        }, 
+        "medical": {
+            "other": 1.0
+        }, 
+        "medications": {
+            "PO": 1.0
+        }, 
+        "mg": {
+            "0.0625": 0.1111111111111111, 
+            "0.521": 0.1111111111111111, 
+            "1": 0.1111111111111111, 
+            "10": 0.1111111111111111, 
+            "100": 0.1111111111111111, 
+            "20": 0.1111111111111111, 
+            "200": 0.1111111111111111, 
+            "5": 0.1111111111111111, 
+            "50": 0.1111111111111111
+        }, 
+        "mg/mL": {
+            "1": 1.0
+        }, 
+        "mid": {
+            "the": 1.0
+        }, 
+        "monitor": {
+            "to": 1.0
+        }, 
+        "monitoring.": {
+            "cardiac": 1.0
+        }, 
+        "myocardial": {
+            "elevation": 1.0
+        }, 
+        "needed": {
+            "as": 1.0
+        }, 
+        "needed.": {
+            "as": 1.0
+        }, 
+        "no": {
+            "be": 0.3333333333333333, 
+            "had": 0.3333333333333333, 
+            "with": 0.3333333333333333
+        }, 
+        "non-ST": {
+            "his": 0.5, 
+            "post": 0.5
+        }, 
+        "normal": {
+            "in": 1.0
+        }, 
+        "not": {
+            "did": 1.0
+        }, 
+        "noted": {
+            ",": 0.07692307692307693, 
+            "Also": 0.15384615384615385, 
+            "also": 0.07692307692307693, 
+            "is": 0.15384615384615385, 
+            "was": 0.5384615384615384
+        }, 
+        "now": {
+            "is": 0.5, 
+            "patient": 0.5
+        }, 
+        "nutrition": {
+            "to": 1.0
+        }, 
+        "obstructive": {
+            "Chronic": 0.25, 
+            "chronic": 0.75
+        }, 
+        "obtained": {
+            "also": 0.5, 
+            "was": 0.5
+        }, 
+        "of": {
+            "#19": 0.041666666666666664, 
+            "anemia": 0.041666666666666664, 
+            "area": 0.08333333333333333, 
+            "ceftazidime": 0.041666666666666664, 
+            "change-out": 0.041666666666666664, 
+            "colonization": 0.041666666666666664, 
+            "continuation": 0.041666666666666664, 
+            "course": 0.08333333333333333, 
+            "creatinine": 0.041666666666666664, 
+            "cultures": 0.041666666666666664, 
+            "discontinuation": 0.041666666666666664, 
+            "fraction": 0.041666666666666664, 
+            "frequency": 0.041666666666666664, 
+            "history": 0.08333333333333333, 
+            "improvement": 0.041666666666666664, 
+            "one": 0.041666666666666664, 
+            "out": 0.041666666666666664, 
+            "perforation": 0.041666666666666664, 
+            "period": 0.041666666666666664, 
+            "placement": 0.041666666666666664, 
+            "signs": 0.041666666666666664
+        }, 
+        "off": {
+            "is": 0.25, 
+            "now": 0.25, 
+            "wean": 0.25, 
+            "well": 0.25
+        }, 
+        "on": {
+            "Acute": 0.041666666666666664, 
+            "Currently": 0.041666666666666664, 
+            "Hospital": 0.041666666666666664, 
+            "Noted": 0.041666666666666664, 
+            "acute": 0.08333333333333333, 
+            "be": 0.041666666666666664, 
+            "collection": 0.041666666666666664, 
+            "continued": 0.16666666666666666, 
+            "discontinued": 0.041666666666666664, 
+            "done": 0.041666666666666664, 
+            "empirically": 0.041666666666666664, 
+            "enhancement": 0.041666666666666664, 
+            "have": 0.041666666666666664, 
+            "hematocrit": 0.041666666666666664, 
+            "placed": 0.041666666666666664, 
+            "reintubation": 0.041666666666666664, 
+            "remains": 0.041666666666666664, 
+            "room": 0.08333333333333333, 
+            "treatments": 0.041666666666666664
+        }, 
+        "one": {
+            "for": 1.0
+        }, 
+        "ongoing": {
+            "an": 0.125, 
+            "had": 0.125, 
+            "have": 0.375, 
+            "having": 0.125, 
+            "some": 0.125, 
+            "yielded": 0.125
+        }, 
+        "operating": {
+            "the": 1.0
+        }, 
+        "or": {
+            "x-ray": 1.0
+        }, 
+        "orally": {
+            "mL": 1.0
+        }, 
+        "oriented": {
+            "and": 1.0
+        }, 
+        "other": {
+            "had": 1.0
+        }, 
+        "out": {
+            "transfer": 1.0
+        }, 
+        "output": {
+            "JP": 0.5, 
+            "urine": 0.5
+        }, 
+        "oxycodone": {
+            "continue": 1.0
+        }, 
+        "p.r.n.": {
+            "q.4h.": 0.25, 
+            "q.6h.": 0.25, 
+            "q.h.s.": 0.25, 
+            "q.i.d.": 0.25
+        }, 
+        "pain": {
+            "chronic": 0.5, 
+            "his": 0.5
+        }, 
+        "pain.": {
+            "Chronic": 0.5, 
+            "p.r.n.": 0.5
+        }, 
+        "paroxysmal": {
+            "(": 0.5, 
+            "and": 0.5
+        }, 
+        "patient": {
+            "The": 0.5, 
+            "This": 0.125, 
+            "the": 0.25, 
+            "this": 0.125
+        }, 
+        "patient's": {
+            "This": 1.0
+        }, 
+        "perforated": {
+            "to": 1.0
+        }, 
+        "perforation": {
+            ",": 0.5, 
+            "have": 0.5
+        }, 
+        "period": {
+            "brief": 1.0
+        }, 
+        "placed": {
+            "was": 1.0
+        }, 
+        "placement": {
+            "T-tube": 0.5, 
+            "and": 0.5
+        }, 
+        "plan": {
+            "a": 0.5, 
+            "will": 0.5
+        }, 
+        "platelets": {
+            ",": 1.0
+        }, 
+        "pneumonia": {
+            "Pseudomonas": 0.3333333333333333, 
+            "to": 0.3333333333333333, 
+            "with": 0.3333333333333333
+        }, 
+        "pneumonia.": {
+            "Pseudomonas": 1.0
+        }, 
+        "point": {
+            "some": 1.0
+        }, 
+        "positive": {
+            "cultures": 0.5, 
+            "was": 0.5
+        }, 
+        "possible": {
+            "have": 0.5, 
+            "with": 0.5
+        }, 
+        "post": {
+            "Status": 0.25, 
+            "ceftazidime": 0.125, 
+            "status": 0.625
+        }, 
+        "postoperatively": {
+            "intubated": 1.0
+        }, 
+        "potassium": {
+            ",": 1.0
+        }, 
+        "pressors.": {
+            "off": 1.0
+        }, 
+        "prior": {
+            "mechanical": 0.5, 
+            "ventilation": 0.5
+        }, 
+        "procedurally.": {
+            "post": 1.0
+        }, 
+        "prolonged": {
+            ",": 1.0
+        }, 
+        "prophylaxis.": {
+            "DVT": 1.0
+        }, 
+        "puffs": {
+            "2": 0.5, 
+            "4": 0.5
+        }, 
+        "pulmonary": {
+            "obstructive": 0.8, 
+            "of": 0.2
+        }, 
+        "q.4h.": {
+            "T-tube": 0.5, 
+            "scale": 0.5
+        }, 
+        "q.6h.": {
+            "mg": 1.0
+        }, 
+        "q.a.m.": {
+            "T-tube": 0.5, 
+            "subcutaneously": 0.5
+        }, 
+        "q.h.s.": {
+            "PO": 1.0
+        }, 
+        "q.i.d.": {
+            "MDI": 0.3333333333333333, 
+            "PO": 0.3333333333333333, 
+            "puffs": 0.3333333333333333
+        }, 
+        "q.o.d.": {
+            "T-tube": 1.0
+        }, 
+        "quadrant": {
+            "lower": 1.0
+        }, 
+        "range.": {
+            "2.0": 1.0
+        }, 
+        "rate.": {
+            "goal": 1.0
+        }, 
+        "regimen.": {
+            "current": 1.0
+        }, 
+        "regular": {
+            "Insulin": 1.0
+        }, 
+        "reintubation": {
+            "required": 1.0
+        }, 
+        "remained": {
+            "he": 1.0
+        }, 
+        "remains": {
+            "patient": 1.0
+        }, 
+        "renal": {
+            "Acute": 0.1111111111111111, 
+            "Chronic": 0.2222222222222222, 
+            "acute": 0.1111111111111111, 
+            "chronic": 0.4444444444444444, 
+            "his": 0.1111111111111111
+        }, 
+        "required": {
+            ",": 0.5, 
+            "He": 0.5
+        }, 
+        "resolved.": {
+            ",": 1.0
+        }, 
+        "resolving;": {
+            "be": 1.0
+        }, 
+        "respiratory": {
+            "for": 0.2, 
+            "into": 0.2, 
+            "ongoing": 0.2, 
+            "the": 0.2, 
+            "with": 0.2
+        }, 
+        "returned": {
+            "He": 1.0
+        }, 
+        "revealed": {
+            "which": 1.0
+        }, 
+        "rhythm.": {
+            "sinus": 1.0
+        }, 
+        "right": {
+            "his": 1.0
+        }, 
+        "room": {
+            "operating": 1.0
+        }, 
+        "rupture": {
+            "tendon": 1.0
+        }, 
+        "scale": {
+            "sliding": 1.0
+        }, 
+        "scale.": {
+            "sliding": 1.0
+        }, 
+        "scan": {
+            "cell": 1.0
+        }, 
+        "secondary": {
+            ",": 0.2, 
+            "course": 0.2, 
+            "failure": 0.2, 
+            "ileostomy": 0.2, 
+            "pain": 0.2
+        }, 
+        "sedative": {
+            "off": 1.0
+        }, 
+        "sensitive": {
+            "sputum": 1.0
+        }, 
+        "sepsis": {
+            ",": 1.0
+        }, 
+        "several": {
+            "last": 1.0
+        }, 
+        "shore": {
+            "the": 1.0
+        }, 
+        "sigmoid": {
+            "had": 0.3333333333333333, 
+            "his": 0.3333333333333333, 
+            "perforated": 0.3333333333333333
+        }, 
+        "significant": {
+            "a": 1.0
+        }, 
+        "signs": {
+            "further": 1.0
+        }, 
+        "sinus": {
+            "normal": 1.0
+        }, 
+        "sliding": {
+            ",": 0.5, 
+            "insulin": 0.5
+        }, 
+        "slow": {
+            "be": 0.5, 
+            "ongoing": 0.5
+        }, 
+        "solution": {
+            "mg": 1.0
+        }, 
+        "some": {
+            "at": 0.5, 
+            "had": 0.5
+        }, 
+        "sputum": {
+            "of": 0.5, 
+            "the": 0.5
+        }, 
+        "sputum.": {
+            "his": 1.0
+        }, 
+        "stable": {
+            "been": 0.5, 
+            "hemodynamically": 0.5
+        }, 
+        "stable.": {
+            "is": 1.0
+        }, 
+        "standpoint": {
+            "respiratory": 1.0
+        }, 
+        "start": {
+            "to": 0.5, 
+            "will": 0.5
+        }, 
+        "started": {
+            "was": 1.0
+        }, 
+        "starting": {
+            "is": 1.0
+        }, 
+        "status": {
+            ",": 0.2, 
+            "cancer": 0.2, 
+            "colon": 0.2, 
+            "failure": 0.2, 
+            "is": 0.2
+        }, 
+        "stay": {
+            "hospital": 1.0
+        }, 
+        "steroid": {
+            "(": 0.5, 
+            "slow": 0.5
+        }, 
+        "subcutaneously": {
+            "mcg": 0.3333333333333333, 
+            "units": 0.6666666666666666
+        }, 
+        "supratherapeutic": {
+            "to": 1.0
+        }, 
+        "surgical": {
+            "center": 1.0
+        }, 
+        "suspension": {
+            "Nystatin": 1.0
+        }, 
+        "symptoms.": {
+            "clinical": 1.0
+        }, 
+        "t.i.d.": {
+            "subcutaneously": 1.0
+        }, 
+        "tachycardia.": {
+            "ventricular": 1.0
+        }, 
+        "tagged": {
+            "a": 0.5, 
+            "the": 0.5
+        }, 
+        "taken": {
+            "was": 1.0
+        }, 
+        "temperatures": {
+            "low-grade": 1.0
+        }, 
+        "tendon": {
+            "Achilles": 1.0
+        }, 
+        "that": {
+            "decided": 1.0
+        }, 
+        "the": {
+            ",": 0.09523809523809523, 
+            "During": 0.047619047619047616, 
+            "From": 0.047619047619047616, 
+            "In": 0.047619047619047616, 
+            "and": 0.047619047619047616, 
+            "as": 0.047619047619047616, 
+            "at": 0.047619047619047616, 
+            "from": 0.09523809523809523, 
+            "in": 0.19047619047619047, 
+            "of": 0.047619047619047616, 
+            "off": 0.047619047619047616, 
+            "on": 0.09523809523809523, 
+            "to": 0.09523809523809523, 
+            "with": 0.047619047619047616
+        }, 
+        "there": {
+            "that": 1.0
+        }, 
+        "these": {
+            "of": 1.0
+        }, 
+        "this": {
+            ",": 0.25, 
+            "at": 0.25, 
+            "of": 0.25, 
+            "on": 0.25
+        }, 
+        "thought": {
+            ",": 1.0
+        }, 
+        "time.": {
+            "this": 1.0
+        }, 
+        "titrate": {
+            "will": 1.0
+        }, 
+        "to": {
+            "1.5": 0.019230769230769232, 
+            "2": 0.019230769230769232, 
+            "CT": 0.038461538461538464, 
+            "Continues": 0.038461538461538464, 
+            "Hospital": 0.019230769230769232, 
+            "Thought": 0.019230769230769232, 
+            "Transferred": 0.019230769230769232, 
+            "able": 0.019230769230769232, 
+            "admitted": 0.019230769230769232, 
+            "appeared": 0.019230769230769232, 
+            "as": 0.019230769230769232, 
+            "continue": 0.057692307692307696, 
+            "due": 0.057692307692307696, 
+            "improving": 0.019230769230769232, 
+            "is": 0.038461538461538464, 
+            "needed": 0.038461538461538464, 
+            "noted": 0.23076923076923078, 
+            "plan": 0.038461538461538464, 
+            "prior": 0.038461538461538464, 
+            "returned": 0.019230769230769232, 
+            "secondary": 0.09615384615384616, 
+            "sensitive": 0.019230769230769232, 
+            "taken": 0.019230769230769232, 
+            "thought": 0.019230769230769232, 
+            "titrate": 0.019230769230769232, 
+            "transferred": 0.038461538461538464
+        }, 
+        "tolerate": {
+            "to": 1.0
+        }, 
+        "tolerated": {
+            "as": 1.0
+        }, 
+        "tolerated.": {
+            "as": 1.0
+        }, 
+        "topically": {
+            "Collagenase": 0.3333333333333333, 
+            "Sarna": 0.3333333333333333, 
+            "Xenaderm": 0.3333333333333333
+        }, 
+        "toxicity.": {
+            "Adriamycin": 1.0
+        }, 
+        "tracheostomy": {
+            "S/p": 0.5, 
+            "post": 0.5
+        }, 
+        "tracheostomy.": {
+            "a": 0.5, 
+            "post": 0.5
+        }, 
+        "transfer": {
+            "to": 1.0
+        }, 
+        "transferred": {
+            "was": 1.0
+        }, 
+        "treated": {
+            "and": 1.0
+        }, 
+        "treatments": {
+            "pneumonia": 1.0
+        }, 
+        "tube": {
+            "NG": 0.25, 
+            "T": 0.25, 
+            "on": 0.25, 
+            "wean": 0.25
+        }, 
+        "units": {
+            "5000": 0.5, 
+            "9": 0.5
+        }, 
+        "upper": {
+            "have": 1.0
+        }, 
+        "urine": {
+            "good": 1.0
+        }, 
+        "vancomycin": {
+            "including": 0.3333333333333333, 
+            "off": 0.3333333333333333, 
+            "on": 0.3333333333333333
+        }, 
+        "vancomycin.": {
+            "on": 1.0
+        }, 
+        "vasopressin.": {
+            "and": 1.0
+        }, 
+        "ventilation": {
+            "mechanical": 1.0
+        }, 
+        "ventilator.": {
+            "the": 1.0
+        }, 
+        "ventricular": {
+            "Nonsustained": 1.0
+        }, 
+        "via": {
+            "amiodarone": 0.5, 
+            "solution": 0.5
+        }, 
+        "warrant": {
+            "may": 1.0
+        }, 
+        "was": {
+            ",": 0.08, 
+            "He": 0.32, 
+            "abdomen": 0.04, 
+            "and": 0.12, 
+            "consult": 0.04, 
+            "culture": 0.04, 
+            "he": 0.24, 
+            "it": 0.04, 
+            "patient": 0.04, 
+            "who": 0.04
+        }, 
+        "watch": {
+            "to": 1.0
+        }, 
+        "wean": {
+            "slow": 0.5, 
+            "to": 0.5
+        }, 
+        "wean.": {
+            "steroid": 1.0
+        }, 
+        "week.": {
+            "every": 1.0
+        }, 
+        "weeks.": {
+            "several": 1.0
+        }, 
+        "well": {
+            "as": 0.5, 
+            "been": 0.25, 
+            "doing": 0.25
+        }, 
+        "were": {
+            "adhesions": 1.0
+        }, 
+        "where": {
+            ",": 1.0
+        }, 
+        "which": {
+            ",": 0.5, 
+            "for": 0.5
+        }, 
+        "white": {
+            "tagged": 1.0
+        }, 
+        "who": {
+            ",": 0.5, 
+            "man": 0.5
+        }, 
+        "will": {
+            "We": 1.0
+        }, 
+        "with": {
+            ",": 0.04, 
+            "Anxiety": 0.04, 
+            "along": 0.04, 
+            "anemic": 0.04, 
+            "colectomy": 0.08, 
+            "consistent": 0.04, 
+            "consultation": 0.04, 
+            "controlled": 0.04, 
+            "correlate": 0.04, 
+            "diagnosed": 0.04, 
+            "disorder": 0.04, 
+            "diurese": 0.08, 
+            "failure": 0.12, 
+            "fevers": 0.04, 
+            "floor": 0.04, 
+            "insufficiency": 0.04, 
+            "man": 0.04, 
+            "output": 0.04, 
+            "rupture": 0.04, 
+            "tolerated": 0.04, 
+            "treated": 0.04
+        }, 
+        "would": {
+            "there": 1.0
+        }, 
+        "x-ray": {
+            "by": 1.0
+        }, 
+        "yielded": {
+            "sputum": 1.0
+        }, 
+        "|": {
+            "0016869": 0.1111111111111111, 
+            "36908482": 0.1111111111111111, 
+            "741601659": 0.1111111111111111, 
+            "AM": 0.1111111111111111, 
+            "DIS": 0.1111111111111111, 
+            "RCMC": 0.1111111111111111, 
+            "Signed": 0.1111111111111111, 
+            "Summary": 0.1111111111111111, 
+            "|": 0.1111111111111111
+        }
+    }, 
+    "id": "541", 
+    "text": " 741601659 | RCMC | 36908482 | | 0016869 | 6/7/2005 12:00:00 AM | Discharge Summary | Signed | DIS | Admission Date: 11/19/2005 Report Status: Signed Discharge Date: ATTENDING: BORBA , GARRET M.D. SERVICE: Surgical ICU. PRINCIPAL DIAGNOSIS: Perforated colon status post colectomy. ACTIVE PROBLEMS LIST: 1. Status post colectomy , perforation of colon. 2. Coronary artery disease. 3. Congestive heart failure secondary to Adriamycin. 4. Atrial fibrillation 5. Respiratory failure status post tracheostomy. 6. Chronic obstructive pulmonary disease ( steroid dependent ). 7. Pseudomonas pneumonia. 8. Chronic pain. 9. Chronic renal insufficiency. 10. Steroid dependent. 11. Perforated colonic diverticula. 12. Sepsis. 13. Anxiety with adjustment disorder. PAST MEDICAL HISTORY: 1. Coronary artery disease as above. 2. Congestive heart failure , ejection fraction 30% , secondary to ischemic cardiomyopathy and Adriamycin toxicity. 3. Atrial fibrillation ( paroxysmal ). 4. Nonsustained ventricular tachycardia. 5. Hypertension. 6. Steroid-dependent chronic obstructive pulmonary disease. 7. Staphylococcus bacteremia. 8. Acute on chronic renal failure. 9. Leg blisters. 10. Transient ischemic attacks. 11. Gout. 12. Cholecystectomy. 13. Appendectomy. 14. Testicular cancer status post chemotherapy. ALLERGIES: No known drug allergies , history of Achilles tendon rupture with levofloxacin. MEDICATIONS: 1. Amiodarone , 200 mg daily , T-tube. 2. Peridex , 15 mL orally b.i.d. 3. Digoxin , 0.0625 mg , T-tube q.o.d. 4. Pepcid 20 mg T-tube b.i.d. 4. Folate , 1 mg , T-tube daily. 5. Heparin , 5000 units subcutaneously t.i.d. 6. NPH , 9 units subcutaneously q.a.m. 7. Insulin regular , sliding scale q.4h. 8. Prednisone , 5 mg , T-tube q.a.m. 9. Multivitamin daily. 10. Sarna topically daily. 11. Nystatin suspension 5 mL PO q.i.d. 12. Thiamine , 100 mg , T-tube daily. 13. Flovent , 88 mcg MDI b.i.d. 14. Collagenase topically daily. 15. Combivent , 2 puffs MDI q.i.d. 16. Albuterol , 2 to 4 puffs q.i.d. p.r.n. 17. Darbepoetin alpha 100 mcg subcutaneously every week. 18. Xenaderm topically b.i.d. 19. Ativan NG tube 0.521 mg q.6h. p.r.n. anxiety. 20. Trazodone 50 mg PO q.h.s. p.r.n. insomnia. 21. Oxycodone 1 mg/mL , 10 mg solution via T-tube q.4h. p.r.n. pain. HOSPITAL COURSE: This is a 50-year-old man who was admitted to Arlricks Community Hospital on March , 2005 , with respiratory failure and fever diagnosed with pneumonia and COPD flare. He was started empirically on antibiotics. Sputum culture was positive for Pseudomonas and treated with ceftazidime and levofloxacin. Also , noted at Ieldha Hospital to have 4/4 blood cultures positive for coagulation-negative Staphylococcus. He was placed on vancomycin. During the course of this hospital stay , he had other medical issues including: Non-ST elevation myocardial infarction. Also noted to have upper gastrointestinal bleed due to supratherapeutic INR. Also had acute on chronic renal failure with a creatinine of 7.7 , thought to be due to IV contrast. He was transferred to O Medical Center ICU after going into respiratory distress at Sti Versut Center , for which he was intubated. He was continued on antibiotics at Onnau Hospital . In the shore health center surgical ICU at the Quinla , he was also noted to have an improvement in his acute renal failure with his creatinine improving to 2.0 range. With IV fluids , his non-ST elevation MI appeared to be resolving; however , was noted to have ongoing fevers despite antibiotics. Noted on abdominal CT to have free air. He was taken to the operating room on June , 2005 , and had sigmoid colectomy with colostomy and he remained intubated postoperatively , and was transferred to Ins Surgical ICU. Postoperatively , he was continued on broad-spectrum antibiotics including vancomycin , ceftazidime , and was continued on fluconazole for fungemia. Intraoperatively , he was noted to have perforation in his sigmoid colon. He in the ICU , required Levophed and vasopressin. The patient was noted to have ongoing respiratory failure. He required reintubation on October , 2005 , after a brief period of extubation. He returned to the operating room on October , 2005 , where he had an ileostomy , T-tube placement , and a tracheostomy. In addition , his abdomen was explored and adhesions were lysed. Postoperatively , he was noted to have further improvement of his renal failure. He was noted to have improvement in acidosis; however , had ongoing slow wean off the ventilator. He was noted to have on followup CT to have intraabdominal fluid collections along with his daily fevers. On January , 2005 , he had a CT-guided drainage and placement of a drain for one of these fluid collections. He had some ongoing improvement and was continued on vancomycin , Flagyl , fluconazole , and ceftazidime post procedurally. Repeat cultures of sputum yielded ongoing Pseudomonas in the sputum sensitive to ceftazidime. Also noted to have Aspergillus in his sputum. Thought to have possible colonization of his airways. On followup CT , he was noted to have ongoing fluid collection as well as daily fevers. He was discontinued on his central lines and had a change-out of his arterial line. He also obtained a tagged white blood cell scan , which revealed an area of enhancement in his right lower quadrant consistent with possible abscess; however , this patient had decreasing frequency of fevers with discontinuation of lines and continuation of antibiotics. Moreover , the area of enhancement on the tagged cell scan did not correlate with a significant fluid collection on abdominal CT. After consultation with the Infectious Disease Service , Interventional Radiology Service , and the Surgical Service , it was decided that there would be no intervention done on this collection at this time. Otherwise , the patient now is starting PO and is having ongoing low-grade temperatures , but clinically improving. From the respiratory standpoint , was liberated from mechanical prior to discharge from the ICU. LABORATORY DATA: White cell count 16 , 000 , hematocrit 27 , platelets 443. Chem 7: Sodium 134 , potassium 4.3 , chloride 95 , bicarbonate 28 , BUN 36 , creatinine 1.7 , calcium 9.1. PT 14.9 , INR 1.2 , PTT 34.1. ASSESSMENT AND PLAN: This is a 50-year-old man with history of coronary artery disease , congestive heart failure , chronic obstructive pulmonary disease , chronic renal insufficiency , who is status post colectomy with ileostomy secondary to perforated sigmoid colon , status post tracheostomy for respiratory failure , prolonged ICU course secondary to pneumonia , sepsis , acute on chronic renal failure , and paroxysmal atrial fibrillation. Neurological: The patient is now off sedative drips. He is alert and oriented and has chronic pain secondary to degenerative lower back disease; however , his pain has been well controlled with his current regimen. Psychiatric consult was obtained and he is noted to have an adjustment disorder with anxiety. Plan is to continue oxycodone as needed and continue Ativan as needed. Cardiovascular: Status post non-ST elevation myocardial infarction , congestive heart failure with an ejection fraction of 30% , has had no further signs of pulmonary edema by x-ray or by clinical symptoms. He is off pressors. He has been hemodynamically stable and in normal sinus rhythm. Plan is to continue amiodarone via T tube and continue digoxin. We will diurese with Lasix as needed to keep I's and O's even. Respiratory: Continues to be slow steroid wean. Liberated from mechanical ventilation prior to transfer out of the ICU. S/p tracheostomy , history chronic obstructive pulmonary disease , completing course of Pseudomonas pneumonia treatments on ceftazidime. Gastrointestinal: Continues to be on tube feeds , goal rate. We will start advancing PO diet as tolerated with a plan to wean tube feeds as the patient is able to tolerate further PO's. We will plan to start PO medications as tolerated. FEN/GU: Chronic renal insufficiency with baseline creatinine 1.5 to 1.7. Acute renal failure , resolved. He has been having good urine output with no major electrolyte abnormalities. We will continue to diurese with Lasix as needed to keep I's and O's even. Endocrine: This patient remains on insulin sliding scale. We will titrate to keep euglycemic. Heme: The patient has been anemic with hematocrits in the mid 20s and has been stable , likely due to nutrition and anemia of chronic disease. We will continue to watch hematocrit on the floor and continue DVT prophylaxis. ID: Currently on day #19 of ceftazidime of 21. The patient has been doing well off vancomycin , fluconazole , and Flagyl. He has been having low-grade temperatures , but improved from the last several weeks. We will continue to monitor JP output as well as to follow clinically. He is noted to have an ongoing fluid collection in his abdomen and may warrant a followup CT at some point in the future. Transferred to floor with cardiac monitoring. DISPOSITION: This patient's condition is stable. eScription document: 4-1653219 ISSten Tel Dictated By: HEUSNER , BENTON Attending: SCHILMOELLER , NATHANAEL Dictation ID 0479349 D: 7/20/05 T: 7/20/05", 
+    "tri": {
+        "#19": {
+            "on~day": 1.0
+        }, 
+        "(": {
+            "Atrial~fibrillation": 0.5, 
+            "pulmonary~disease": 0.5
+        }, 
+        ").": {
+            "(~paroxysmal": 0.5, 
+            "steroid~dependent": 0.5
+        }, 
+        ",": {
+            ",~000": 0.010309278350515464, 
+            ",~2005": 0.05154639175257732, 
+            ",~Flagyl": 0.010309278350515464, 
+            ",~ceftazidime": 0.010309278350515464, 
+            ",~fluconazole": 0.020618556701030927, 
+            ",~sepsis": 0.010309278350515464, 
+            "0.0625~mg": 0.010309278350515464, 
+            "1.~Amiodarone": 0.010309278350515464, 
+            "100~mg": 0.010309278350515464, 
+            "12.~Thiamine": 0.010309278350515464, 
+            "13.~Flovent": 0.010309278350515464, 
+            "15.~Combivent": 0.010309278350515464, 
+            "16.~Albuterol": 0.010309278350515464, 
+            "1~mg": 0.010309278350515464, 
+            "1~mg/mL": 0.010309278350515464, 
+            "2.~Peridex": 0.010309278350515464, 
+            "3.~Digoxin": 0.010309278350515464, 
+            "4.~Folate": 0.010309278350515464, 
+            "5.~Heparin": 0.010309278350515464, 
+            "5~mg": 0.010309278350515464, 
+            "6.~NPH": 0.010309278350515464, 
+            "8.~Prednisone": 0.010309278350515464, 
+            "ATTENDING:~BORBA": 0.010309278350515464, 
+            "Attending:~SCHILMOELLER": 0.010309278350515464, 
+            "BUN~36": 0.010309278350515464, 
+            "By:~HEUSNER": 0.010309278350515464, 
+            "Disease~Service": 0.010309278350515464, 
+            "ICU.~Postoperatively": 0.010309278350515464, 
+            "INR~1.2": 0.010309278350515464, 
+            "IV~fluids": 0.010309278350515464, 
+            "Insulin~regular": 0.010309278350515464, 
+            "In~addition": 0.010309278350515464, 
+            "On~January": 0.010309278350515464, 
+            "PT~14.9": 0.010309278350515464, 
+            "Radiology~Service": 0.010309278350515464, 
+            "S/p~tracheostomy": 0.010309278350515464, 
+            "Sodium~134": 0.010309278350515464, 
+            "Surgical~Service": 0.010309278350515464, 
+            "T-tube~placement": 0.010309278350515464, 
+            "Versut~Center": 0.010309278350515464, 
+            "abscess;~however": 0.010309278350515464, 
+            "acidosis;~however": 0.010309278350515464, 
+            "antibiotics.~Moreover": 0.010309278350515464, 
+            "an~ileostomy": 0.010309278350515464, 
+            "artery~disease": 0.010309278350515464, 
+            "been~stable": 0.010309278350515464, 
+            "bicarbonate~28": 0.010309278350515464, 
+            "cell~scan": 0.010309278350515464, 
+            "chloride~95": 0.010309278350515464, 
+            "count~16": 0.010309278350515464, 
+            "creatinine~1.7": 0.010309278350515464, 
+            "disease;~however": 0.010309278350515464, 
+            "drug~allergies": 0.010309278350515464, 
+            "followup~CT": 0.010309278350515464, 
+            "fraction~30%": 0.010309278350515464, 
+            "fungemia.~Intraoperatively": 0.010309278350515464, 
+            "heart~failure": 0.020618556701030927, 
+            "hematocrit~27": 0.010309278350515464, 
+            "hospital~stay": 0.010309278350515464, 
+            "including~vancomycin": 0.010309278350515464, 
+            "intubated~postoperatively": 0.010309278350515464, 
+            "levofloxacin.~Also": 0.010309278350515464, 
+            "low-grade~temperatures": 0.020618556701030927, 
+            "lysed.~Postoperatively": 0.010309278350515464, 
+            "mg~daily": 0.010309278350515464, 
+            "myocardial~infarction": 0.010309278350515464, 
+            "off~vancomycin": 0.010309278350515464, 
+            "of~30%": 0.010309278350515464, 
+            "of~7.7": 0.010309278350515464, 
+            "on~June": 0.010309278350515464, 
+            "on~March": 0.010309278350515464, 
+            "on~October": 0.020618556701030927, 
+            "on~vancomycin": 0.010309278350515464, 
+            "post~colectomy": 0.010309278350515464, 
+            "potassium~4.3": 0.010309278350515464, 
+            "pulmonary~disease": 0.020618556701030927, 
+            "renal~failure": 0.020618556701030927, 
+            "renal~insufficiency": 0.010309278350515464, 
+            "resolving;~however": 0.010309278350515464, 
+            "respiratory~failure": 0.010309278350515464, 
+            "respiratory~standpoint": 0.010309278350515464, 
+            "sigmoid~colon": 0.010309278350515464, 
+            "the~ICU": 0.010309278350515464, 
+            "the~Quinla": 0.010309278350515464, 
+            "time.~Otherwise": 0.010309278350515464, 
+            "to~pneumonia": 0.010309278350515464, 
+            "tube~feeds": 0.010309278350515464
+        }, 
+        ".": {
+            "Onnau~Hospital": 1.0
+        }, 
+        "0.0625": {
+            "Digoxin~,": 1.0
+        }, 
+        "0.521": {
+            "NG~tube": 1.0
+        }, 
+        "000": {
+            "16~,": 1.0
+        }, 
+        "0016869": {
+            "|~|": 1.0
+        }, 
+        "0479349": {
+            "Dictation~ID": 1.0
+        }, 
+        "1": {
+            "21.~Oxycodone": 0.5, 
+            "Folate~,": 0.5
+        }, 
+        "1.": {
+            "MEDICAL~HISTORY:": 0.3333333333333333, 
+            "PROBLEMS~LIST:": 0.3333333333333333, 
+            "levofloxacin.~MEDICATIONS:": 0.3333333333333333
+        }, 
+        "1.2": {
+            ",~INR": 1.0
+        }, 
+        "1.5": {
+            "baseline~creatinine": 1.0
+        }, 
+        "1.7": {
+            ",~creatinine": 1.0
+        }, 
+        "1.7.": {
+            "1.5~to": 1.0
+        }, 
+        "10": {
+            "mg/mL~,": 1.0
+        }, 
+        "10.": {
+            "Leg~blisters.": 0.3333333333333333, 
+            "Multivitamin~daily.": 0.3333333333333333, 
+            "renal~insufficiency.": 0.3333333333333333
+        }, 
+        "100": {
+            "Darbepoetin~alpha": 0.5, 
+            "Thiamine~,": 0.5
+        }, 
+        "11.": {
+            "Steroid~dependent.": 0.3333333333333333, 
+            "ischemic~attacks.": 0.3333333333333333, 
+            "topically~daily.": 0.3333333333333333
+        }, 
+        "11/19/2005": {
+            "Admission~Date:": 1.0
+        }, 
+        "12.": {
+            "11.~Gout.": 0.3333333333333333, 
+            "PO~q.i.d.": 0.3333333333333333, 
+            "colonic~diverticula.": 0.3333333333333333
+        }, 
+        "12:00:00": {
+            "|~6/7/2005": 1.0
+        }, 
+        "13.": {
+            "12.~Cholecystectomy.": 0.3333333333333333, 
+            "12.~Sepsis.": 0.3333333333333333, 
+            "T-tube~daily.": 0.3333333333333333
+        }, 
+        "134": {
+            "7:~Sodium": 1.0
+        }, 
+        "14.": {
+            "13.~Appendectomy.": 0.5, 
+            "MDI~b.i.d.": 0.5
+        }, 
+        "14.9": {
+            "9.1.~PT": 1.0
+        }, 
+        "15": {
+            "Peridex~,": 1.0
+        }, 
+        "15.": {
+            "topically~daily.": 1.0
+        }, 
+        "16": {
+            "cell~count": 1.0
+        }, 
+        "16.": {
+            "MDI~q.i.d.": 1.0
+        }, 
+        "17.": {
+            "q.i.d.~p.r.n.": 1.0
+        }, 
+        "18.": {
+            "every~week.": 1.0
+        }, 
+        "19.": {
+            "topically~b.i.d.": 1.0
+        }, 
+        "2": {
+            "Albuterol~,": 0.5, 
+            "Combivent~,": 0.5
+        }, 
+        "2.": {
+            ",~T-tube.": 0.3333333333333333, 
+            "as~above.": 0.3333333333333333, 
+            "of~colon.": 0.3333333333333333
+        }, 
+        "2.0": {
+            "improving~to": 1.0
+        }, 
+        "20": {
+            "4.~Pepcid": 1.0
+        }, 
+        "20.": {
+            "p.r.n.~anxiety.": 1.0
+        }, 
+        "200": {
+            "Amiodarone~,": 1.0
+        }, 
+        "2005": {
+            "January~,": 0.2, 
+            "June~,": 0.2, 
+            "March~,": 0.2, 
+            "October~,": 0.4
+        }, 
+        "20s": {
+            "the~mid": 1.0
+        }, 
+        "21.": {
+            "ceftazidime~of": 0.5, 
+            "p.r.n.~insomnia.": 0.5
+        }, 
+        "27": {
+            ",~hematocrit": 1.0
+        }, 
+        "28": {
+            ",~bicarbonate": 1.0
+        }, 
+        "3.": {
+            "Adriamycin~toxicity.": 0.3333333333333333, 
+            "artery~disease.": 0.3333333333333333, 
+            "orally~b.i.d.": 0.3333333333333333
+        }, 
+        "30%": {
+            "ejection~fraction": 0.5, 
+            "fraction~of": 0.5
+        }, 
+        "34.1.": {
+            ",~PTT": 1.0
+        }, 
+        "36": {
+            ",~BUN": 1.0
+        }, 
+        "36908482": {
+            "RCMC~|": 1.0
+        }, 
+        "4": {
+            "2~to": 1.0
+        }, 
+        "4-1653219": {
+            "eScription~document:": 1.0
+        }, 
+        "4.": {
+            "T-tube~b.i.d.": 0.25, 
+            "T-tube~q.o.d.": 0.25, 
+            "paroxysmal~).": 0.25, 
+            "to~Adriamycin.": 0.25
+        }, 
+        "4.3": {
+            ",~potassium": 1.0
+        }, 
+        "4/4": {
+            "to~have": 1.0
+        }, 
+        "443.": {
+            ",~platelets": 1.0
+        }, 
+        "5": {
+            "Nystatin~suspension": 0.5, 
+            "Prednisone~,": 0.5
+        }, 
+        "5.": {
+            "Atrial~fibrillation": 0.3333333333333333, 
+            "T-tube~daily.": 0.3333333333333333, 
+            "ventricular~tachycardia.": 0.3333333333333333
+        }, 
+        "50": {
+            "20.~Trazodone": 1.0
+        }, 
+        "50-year-old": {
+            "is~a": 1.0
+        }, 
+        "5000": {
+            "Heparin~,": 1.0
+        }, 
+        "6.": {
+            "5.~Hypertension.": 0.3333333333333333, 
+            "post~tracheostomy.": 0.3333333333333333, 
+            "subcutaneously~t.i.d.": 0.3333333333333333
+        }, 
+        "6/7/2005": {
+            "0016869~|": 1.0
+        }, 
+        "7.": {
+            "dependent~).": 0.3333333333333333, 
+            "pulmonary~disease.": 0.3333333333333333, 
+            "subcutaneously~q.a.m.": 0.3333333333333333
+        }, 
+        "7.7": {
+            "creatinine~of": 1.0
+        }, 
+        "7/20/05": {
+            "0479349~D:": 0.5, 
+            "7/20/05~T:": 0.5
+        }, 
+        "7:": {
+            "443.~Chem": 1.0
+        }, 
+        "8.": {
+            "Pseudomonas~pneumonia.": 0.3333333333333333, 
+            "Staphylococcus~bacteremia.": 0.3333333333333333, 
+            "scale~q.4h.": 0.3333333333333333
+        }, 
+        "88": {
+            "Flovent~,": 1.0
+        }, 
+        "9": {
+            "NPH~,": 1.0
+        }, 
+        "9.": {
+            "Chronic~pain.": 0.3333333333333333, 
+            "T-tube~q.a.m.": 0.3333333333333333, 
+            "renal~failure.": 0.3333333333333333
+        }, 
+        "9.1.": {
+            ",~calcium": 1.0
+        }, 
+        "95": {
+            ",~chloride": 1.0
+        }, 
+        "ACTIVE": {
+            "post~colectomy.": 1.0
+        }, 
+        "ALLERGIES:": {
+            "post~chemotherapy.": 1.0
+        }, 
+        "AM": {
+            "6/7/2005~12:00:00": 1.0
+        }, 
+        "AND": {
+            "34.1.~ASSESSMENT": 1.0
+        }, 
+        "ASSESSMENT": {
+            "PTT~34.1.": 1.0
+        }, 
+        "ATTENDING:": {
+            "Discharge~Date:": 1.0
+        }, 
+        "Achilles": {
+            "history~of": 1.0
+        }, 
+        "Acute": {
+            "bacteremia.~8.": 0.5, 
+            "to~1.7.": 0.5
+        }, 
+        "Admission": {
+            "DIS~|": 1.0
+        }, 
+        "Adriamycin": {
+            "cardiomyopathy~and": 1.0
+        }, 
+        "Adriamycin.": {
+            "secondary~to": 1.0
+        }, 
+        "After": {
+            "abdominal~CT.": 1.0
+        }, 
+        "Albuterol": {
+            "q.i.d.~16.": 1.0
+        }, 
+        "Also": {
+            "and~levofloxacin.": 0.25, 
+            "myocardial~infarction.": 0.25, 
+            "supratherapeutic~INR.": 0.25, 
+            "to~ceftazidime.": 0.25
+        }, 
+        "Amiodarone": {
+            "MEDICATIONS:~1.": 1.0
+        }, 
+        "Anxiety": {
+            "Sepsis.~13.": 1.0
+        }, 
+        "Appendectomy.": {
+            "Cholecystectomy.~13.": 1.0
+        }, 
+        "Arlricks": {
+            "admitted~to": 1.0
+        }, 
+        "Aspergillus": {
+            "to~have": 1.0
+        }, 
+        "Ativan": {
+            "and~continue": 0.5, 
+            "b.i.d.~19.": 0.5
+        }, 
+        "Atrial": {
+            "Adriamycin.~4.": 0.5, 
+            "toxicity.~3.": 0.5
+        }, 
+        "Attending:": {
+            ",~BENTON": 1.0
+        }, 
+        "BENTON": {
+            "HEUSNER~,": 1.0
+        }, 
+        "BORBA": {
+            "Date:~ATTENDING:": 1.0
+        }, 
+        "BUN": {
+            "28~,": 1.0
+        }, 
+        "By:": {
+            "Tel~Dictated": 1.0
+        }, 
+        "COPD": {
+            "pneumonia~and": 1.0
+        }, 
+        "COURSE:": {
+            "pain.~HOSPITAL": 1.0
+        }, 
+        "CT": {
+            "On~followup": 0.25, 
+            "a~followup": 0.25, 
+            "on~abdominal": 0.25, 
+            "on~followup": 0.25
+        }, 
+        "CT-guided": {
+            "had~a": 1.0
+        }, 
+        "CT.": {
+            "on~abdominal": 1.0
+        }, 
+        "Cardiovascular:": {
+            "as~needed.": 1.0
+        }, 
+        "Center": {
+            "O~Medical": 0.5, 
+            "Sti~Versut": 0.5
+        }, 
+        "Chem": {
+            "platelets~443.": 1.0
+        }, 
+        "Cholecystectomy.": {
+            "Gout.~12.": 1.0
+        }, 
+        "Chronic": {
+            "pain.~9.": 0.25, 
+            "pneumonia.~8.": 0.25, 
+            "tolerated.~FEN/GU:": 0.25, 
+            "tracheostomy.~6.": 0.25
+        }, 
+        "Collagenase": {
+            "b.i.d.~14.": 1.0
+        }, 
+        "Combivent": {
+            "daily.~15.": 1.0
+        }, 
+        "Community": {
+            "to~Arlricks": 1.0
+        }, 
+        "Congestive": {
+            "above.~2.": 0.5, 
+            "disease.~3.": 0.5
+        }, 
+        "Continues": {
+            "ceftazidime.~Gastrointestinal:": 0.5, 
+            "even.~Respiratory:": 0.5
+        }, 
+        "Coronary": {
+            "HISTORY:~1.": 0.5, 
+            "colon.~2.": 0.5
+        }, 
+        "Currently": {
+            "prophylaxis.~ID:": 1.0
+        }, 
+        "D:": {
+            "ID~0479349": 1.0
+        }, 
+        "DATA:": {
+            "ICU.~LABORATORY": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "ICU.~PRINCIPAL": 1.0
+        }, 
+        "DIS": {
+            "Signed~|": 1.0
+        }, 
+        "DISPOSITION:": {
+            "cardiac~monitoring.": 1.0
+        }, 
+        "DVT": {
+            "and~continue": 1.0
+        }, 
+        "Darbepoetin": {
+            "p.r.n.~17.": 1.0
+        }, 
+        "Date:": {
+            "Signed~Discharge": 0.5, 
+            "|~Admission": 0.5
+        }, 
+        "Dictated": {
+            "ISSten~Tel": 1.0
+        }, 
+        "Dictation": {
+            ",~NATHANAEL": 1.0
+        }, 
+        "Digoxin": {
+            "b.i.d.~3.": 1.0
+        }, 
+        "Discharge": {
+            "AM~|": 0.5, 
+            "Status:~Signed": 0.5
+        }, 
+        "Disease": {
+            "the~Infectious": 1.0
+        }, 
+        "During": {
+            "on~vancomycin.": 1.0
+        }, 
+        "Endocrine:": {
+            "O's~even.": 1.0
+        }, 
+        "FEN/GU:": {
+            "as~tolerated.": 1.0
+        }, 
+        "Flagyl": {
+            "vancomycin~,": 1.0
+        }, 
+        "Flagyl.": {
+            ",~and": 1.0
+        }, 
+        "Flovent": {
+            "daily.~13.": 1.0
+        }, 
+        "Folate": {
+            "b.i.d.~4.": 1.0
+        }, 
+        "From": {
+            "clinically~improving.": 1.0
+        }, 
+        "GARRET": {
+            "BORBA~,": 1.0
+        }, 
+        "Gastrointestinal:": {
+            "on~ceftazidime.": 1.0
+        }, 
+        "Gout.": {
+            "attacks.~11.": 1.0
+        }, 
+        "HEUSNER": {
+            "Dictated~By:": 1.0
+        }, 
+        "HISTORY:": {
+            "PAST~MEDICAL": 1.0
+        }, 
+        "HOSPITAL": {
+            "p.r.n.~pain.": 1.0
+        }, 
+        "He": {
+            ",~resolved.": 0.05263157894736842, 
+            "COPD~flare.": 0.05263157894736842, 
+            "IV~contrast.": 0.05263157894736842, 
+            "and~Flagyl.": 0.05263157894736842, 
+            "arterial~line.": 0.05263157894736842, 
+            "clinical~symptoms.": 0.05263157894736842, 
+            "coagulation-negative~Staphylococcus.": 0.05263157894736842, 
+            "daily~fevers.": 0.05263157894736842, 
+            "fluid~collections.": 0.05263157894736842, 
+            "follow~clinically.": 0.05263157894736842, 
+            "free~air.": 0.05263157894736842, 
+            "off~pressors.": 0.05263157894736842, 
+            "of~extubation.": 0.05263157894736842, 
+            "renal~failure.": 0.05263157894736842, 
+            "respiratory~failure.": 0.05263157894736842, 
+            "sedative~drips.": 0.05263157894736842, 
+            "sigmoid~colon.": 0.05263157894736842, 
+            "the~ventilator.": 0.05263157894736842, 
+            "was~intubated.": 0.05263157894736842
+        }, 
+        "Heme:": {
+            "keep~euglycemic.": 1.0
+        }, 
+        "Heparin": {
+            "daily.~5.": 1.0
+        }, 
+        "Hospital": {
+            "Arlricks~Community": 0.3333333333333333, 
+            "at~Ieldha": 0.3333333333333333, 
+            "at~Onnau": 0.3333333333333333
+        }, 
+        "Hypertension.": {
+            "tachycardia.~5.": 1.0
+        }, 
+        "I's": {
+            "to~keep": 1.0
+        }, 
+        "ICU": {
+            ",~prolonged": 0.25, 
+            "Medical~Center": 0.25, 
+            "center~surgical": 0.25, 
+            "in~the": 0.25
+        }, 
+        "ICU.": {
+            "Ins~Surgical": 0.25, 
+            "SERVICE:~Surgical": 0.25, 
+            "from~the": 0.25, 
+            "of~the": 0.25
+        }, 
+        "ID": {
+            "NATHANAEL~Dictation": 1.0
+        }, 
+        "ID:": {
+            "DVT~prophylaxis.": 1.0
+        }, 
+        "INR": {
+            "14.9~,": 1.0
+        }, 
+        "INR.": {
+            "to~supratherapeutic": 1.0
+        }, 
+        "ISSten": {
+            "document:~4-1653219": 1.0
+        }, 
+        "IV": {
+            "due~to": 0.5, 
+            "range.~With": 0.5
+        }, 
+        "Ieldha": {
+            "noted~at": 1.0
+        }, 
+        "In": {
+            "Hospital~.": 0.5, 
+            "a~tracheostomy.": 0.5
+        }, 
+        "Infectious": {
+            "with~the": 1.0
+        }, 
+        "Ins": {
+            "transferred~to": 1.0
+        }, 
+        "Insulin": {
+            "q.a.m.~7.": 1.0
+        }, 
+        "Interventional": {
+            "Service~,": 1.0
+        }, 
+        "Intraoperatively": {
+            "for~fungemia.": 1.0
+        }, 
+        "JP": {
+            "to~monitor": 1.0
+        }, 
+        "January": {
+            "fevers.~On": 1.0
+        }, 
+        "June": {
+            "room~on": 1.0
+        }, 
+        "LABORATORY": {
+            "the~ICU.": 1.0
+        }, 
+        "LIST:": {
+            "ACTIVE~PROBLEMS": 1.0
+        }, 
+        "Lasix": {
+            "diurese~with": 1.0
+        }, 
+        "Leg": {
+            "failure.~9.": 1.0
+        }, 
+        "Levophed": {
+            ",~required": 1.0
+        }, 
+        "Liberated": {
+            "steroid~wean.": 1.0
+        }, 
+        "M.D.": {
+            ",~GARRET": 1.0
+        }, 
+        "MDI": {
+            "2~puffs": 0.5, 
+            "88~mcg": 0.5
+        }, 
+        "MEDICAL": {
+            "disorder.~PAST": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "with~levofloxacin.": 1.0
+        }, 
+        "MI": {
+            "non-ST~elevation": 1.0
+        }, 
+        "March": {
+            "Hospital~on": 1.0
+        }, 
+        "Medical": {
+            "to~O": 1.0
+        }, 
+        "Moreover": {
+            "of~antibiotics.": 1.0
+        }, 
+        "Multivitamin": {
+            "q.a.m.~9.": 1.0
+        }, 
+        "NATHANAEL": {
+            "SCHILMOELLER~,": 1.0
+        }, 
+        "NG": {
+            "19.~Ativan": 1.0
+        }, 
+        "NPH": {
+            "t.i.d.~6.": 1.0
+        }, 
+        "Neurological:": {
+            "atrial~fibrillation.": 1.0
+        }, 
+        "No": {
+            "chemotherapy.~ALLERGIES:": 1.0
+        }, 
+        "Non-ST": {
+            "issues~including:": 1.0
+        }, 
+        "Nonsustained": {
+            ").~4.": 1.0
+        }, 
+        "Noted": {
+            "despite~antibiotics.": 1.0
+        }, 
+        "Nystatin": {
+            "daily.~11.": 1.0
+        }, 
+        "O": {
+            "transferred~to": 1.0
+        }, 
+        "O's": {
+            "I's~and": 1.0
+        }, 
+        "October": {
+            "reintubation~on": 0.5, 
+            "room~on": 0.5
+        }, 
+        "On": {
+            "daily~fevers.": 0.5, 
+            "his~airways.": 0.5
+        }, 
+        "Onnau": {
+            "antibiotics~at": 1.0
+        }, 
+        "Otherwise": {
+            "this~time.": 1.0
+        }, 
+        "Oxycodone": {
+            "insomnia.~21.": 1.0
+        }, 
+        "PAST": {
+            "adjustment~disorder.": 1.0
+        }, 
+        "PLAN:": {
+            "ASSESSMENT~AND": 1.0
+        }, 
+        "PO": {
+            "50~mg": 0.2, 
+            "5~mL": 0.2, 
+            "is~starting": 0.2, 
+            "start~advancing": 0.2, 
+            "to~start": 0.2
+        }, 
+        "PO's.": {
+            "tolerate~further": 1.0
+        }, 
+        "PRINCIPAL": {
+            "Surgical~ICU.": 1.0
+        }, 
+        "PROBLEMS": {
+            "colectomy.~ACTIVE": 1.0
+        }, 
+        "PT": {
+            "calcium~9.1.": 1.0
+        }, 
+        "PTT": {
+            "1.2~,": 1.0
+        }, 
+        "Pepcid": {
+            "q.o.d.~4.": 1.0
+        }, 
+        "Perforated": {
+            "PRINCIPAL~DIAGNOSIS:": 0.5, 
+            "dependent.~11.": 0.5
+        }, 
+        "Peridex": {
+            "T-tube.~2.": 1.0
+        }, 
+        "Plan": {
+            "sinus~rhythm.": 0.5, 
+            "with~anxiety.": 0.5
+        }, 
+        "Postoperatively": {
+            "Surgical~ICU.": 0.5, 
+            "were~lysed.": 0.5
+        }, 
+        "Prednisone": {
+            "q.4h.~8.": 1.0
+        }, 
+        "Pseudomonas": {
+            ").~7.": 0.25, 
+            "course~of": 0.25, 
+            "positive~for": 0.25, 
+            "yielded~ongoing": 0.25
+        }, 
+        "Psychiatric": {
+            "current~regimen.": 1.0
+        }, 
+        "Quinla": {
+            "at~the": 1.0
+        }, 
+        "RCMC": {
+            "741601659~|": 1.0
+        }, 
+        "Radiology": {
+            ",~Interventional": 1.0
+        }, 
+        "Repeat": {
+            "post~procedurally.": 1.0
+        }, 
+        "Report": {
+            "Date:~11/19/2005": 1.0
+        }, 
+        "Respiratory": {
+            "fibrillation~5.": 1.0
+        }, 
+        "Respiratory:": {
+            "O's~even.": 1.0
+        }, 
+        "S/p": {
+            "the~ICU.": 1.0
+        }, 
+        "SCHILMOELLER": {
+            "BENTON~Attending:": 1.0
+        }, 
+        "SERVICE:": {
+            "GARRET~M.D.": 1.0
+        }, 
+        "Sarna": {
+            "daily.~10.": 1.0
+        }, 
+        "Sepsis.": {
+            "diverticula.~12.": 1.0
+        }, 
+        "Service": {
+            "Infectious~Disease": 0.3333333333333333, 
+            "Interventional~Radiology": 0.3333333333333333, 
+            "the~Surgical": 0.3333333333333333
+        }, 
+        "Signed": {
+            "Report~Status:": 0.5, 
+            "Summary~|": 0.5
+        }, 
+        "Sodium": {
+            "Chem~7:": 1.0
+        }, 
+        "Sputum": {
+            "on~antibiotics.": 1.0
+        }, 
+        "Staphylococcus": {
+            "disease.~7.": 1.0
+        }, 
+        "Staphylococcus.": {
+            "for~coagulation-negative": 1.0
+        }, 
+        "Status": {
+            "LIST:~1.": 0.5, 
+            "needed.~Cardiovascular:": 0.5
+        }, 
+        "Status:": {
+            "11/19/2005~Report": 1.0
+        }, 
+        "Steroid": {
+            "insufficiency.~10.": 1.0
+        }, 
+        "Steroid-dependent": {
+            "Hypertension.~6.": 1.0
+        }, 
+        "Sti": {
+            "distress~at": 1.0
+        }, 
+        "Summary": {
+            "|~Discharge": 1.0
+        }, 
+        "Surgical": {
+            "M.D.~SERVICE:": 0.3333333333333333, 
+            "and~the": 0.3333333333333333, 
+            "to~Ins": 0.3333333333333333
+        }, 
+        "T": {
+            "amiodarone~via": 1.0
+        }, 
+        "T-tube": {
+            "20~mg": 0.14285714285714285, 
+            "ileostomy~,": 0.14285714285714285, 
+            "mg~,": 0.5714285714285714, 
+            "solution~via": 0.14285714285714285
+        }, 
+        "T-tube.": {
+            "daily~,": 1.0
+        }, 
+        "T:": {
+            "D:~7/20/05": 1.0
+        }, 
+        "Tel": {
+            "4-1653219~ISSten": 1.0
+        }, 
+        "Testicular": {
+            "Appendectomy.~14.": 1.0
+        }, 
+        "The": {
+            "and~vasopressin.": 0.25, 
+            "euglycemic.~Heme:": 0.25, 
+            "fibrillation.~Neurological:": 0.25, 
+            "of~21.": 0.25
+        }, 
+        "Thiamine": {
+            "q.i.d.~12.": 1.0
+        }, 
+        "This": {
+            "AND~PLAN:": 0.25, 
+            "HOSPITAL~COURSE:": 0.25, 
+            "even.~Endocrine:": 0.25, 
+            "monitoring.~DISPOSITION:": 0.25
+        }, 
+        "Thought": {
+            "his~sputum.": 1.0
+        }, 
+        "Transferred": {
+            "the~future.": 1.0
+        }, 
+        "Transient": {
+            "blisters.~10.": 1.0
+        }, 
+        "Trazodone": {
+            "anxiety.~20.": 1.0
+        }, 
+        "Versut": {
+            "at~Sti": 1.0
+        }, 
+        "We": {
+            "chronic~disease.": 0.14285714285714285, 
+            "continue~digoxin.": 0.14285714285714285, 
+            "electrolyte~abnormalities.": 0.14285714285714285, 
+            "further~PO's.": 0.14285714285714285, 
+            "goal~rate.": 0.14285714285714285, 
+            "several~weeks.": 0.14285714285714285, 
+            "sliding~scale.": 0.14285714285714285
+        }, 
+        "White": {
+            "LABORATORY~DATA:": 1.0
+        }, 
+        "With": {
+            "2.0~range.": 1.0
+        }, 
+        "Xenaderm": {
+            "week.~18.": 1.0
+        }, 
+        "a": {
+            ",~after": 0.08333333333333333, 
+            ",~and": 0.08333333333333333, 
+            "This~is": 0.16666666666666666, 
+            "also~obtained": 0.08333333333333333, 
+            "and~had": 0.08333333333333333, 
+            "correlate~with": 0.08333333333333333, 
+            "failure~with": 0.08333333333333333, 
+            "he~had": 0.08333333333333333, 
+            "may~warrant": 0.08333333333333333, 
+            "placement~of": 0.08333333333333333, 
+            "tolerated~with": 0.08333333333333333
+        }, 
+        "abdomen": {
+            ",~his": 0.5, 
+            "in~his": 0.5
+        }, 
+        "abdominal": {
+            "Noted~on": 0.5, 
+            "collection~on": 0.5
+        }, 
+        "able": {
+            "patient~is": 1.0
+        }, 
+        "abnormalities.": {
+            "major~electrolyte": 1.0
+        }, 
+        "above.": {
+            "disease~as": 1.0
+        }, 
+        "abscess;": {
+            "with~possible": 1.0
+        }, 
+        "acidosis;": {
+            "improvement~in": 1.0
+        }, 
+        "acute": {
+            "Also~had": 0.3333333333333333, 
+            "in~his": 0.3333333333333333, 
+            "sepsis~,": 0.3333333333333333
+        }, 
+        "addition": {
+            "tracheostomy.~In": 1.0
+        }, 
+        "adhesions": {
+            "explored~and": 1.0
+        }, 
+        "adjustment": {
+            "Anxiety~with": 0.5, 
+            "have~an": 0.5
+        }, 
+        "admitted": {
+            "who~was": 1.0
+        }, 
+        "advancing": {
+            "will~start": 1.0
+        }, 
+        "after": {
+            "2005~,": 0.5, 
+            "Center~ICU": 0.5
+        }, 
+        "air.": {
+            "have~free": 1.0
+        }, 
+        "airways.": {
+            "of~his": 1.0
+        }, 
+        "alert": {
+            "He~is": 1.0
+        }, 
+        "allergies": {
+            "known~drug": 1.0
+        }, 
+        "along": {
+            "fluid~collections": 1.0
+        }, 
+        "alpha": {
+            "17.~Darbepoetin": 1.0
+        }, 
+        "also": {
+            "he~was": 0.5, 
+            "line.~He": 0.5
+        }, 
+        "amiodarone": {
+            "to~continue": 1.0
+        }, 
+        "an": {
+            "failure~with": 0.16666666666666666, 
+            "he~had": 0.16666666666666666, 
+            "to~have": 0.5, 
+            "which~revealed": 0.16666666666666666
+        }, 
+        "and": {
+            "2005~,": 0.030303030303030304, 
+            "CT-guided~drainage": 0.030303030303030304, 
+            "Service~,": 0.030303030303030304, 
+            "T~tube": 0.030303030303030304, 
+            "and~oriented": 0.030303030303030304, 
+            "as~needed": 0.030303030303030304, 
+            "ceftazidime~,": 0.030303030303030304, 
+            "central~lines": 0.030303030303030304, 
+            "failure~,": 0.030303030303030304, 
+            "fluconazole~,": 0.06060606060606061, 
+            "for~Pseudomonas": 0.030303030303030304, 
+            "hemodynamically~stable": 0.030303030303030304, 
+            "his~abdomen": 0.030303030303030304, 
+            "ischemic~cardiomyopathy": 0.030303030303030304, 
+            "is~alert": 0.030303030303030304, 
+            "keep~I's": 0.06060606060606061, 
+            "mid~20s": 0.030303030303030304, 
+            "of~lines": 0.030303030303030304, 
+            "ongoing~improvement": 0.030303030303030304, 
+            "placement~,": 0.030303030303030304, 
+            "postoperatively~,": 0.030303030303030304, 
+            "required~Levophed": 0.030303030303030304, 
+            "respiratory~failure": 0.030303030303030304, 
+            "starting~PO": 0.030303030303030304, 
+            "the~floor": 0.030303030303030304, 
+            "to~nutrition": 0.030303030303030304, 
+            "was~explored": 0.030303030303030304, 
+            "was~obtained": 0.030303030303030304, 
+            "with~ceftazidime": 0.030303030303030304, 
+            "with~colostomy": 0.030303030303030304, 
+            "with~pneumonia": 0.030303030303030304
+        }, 
+        "anemia": {
+            "nutrition~and": 1.0
+        }, 
+        "anemic": {
+            "has~been": 1.0
+        }, 
+        "antibiotics": {
+            "continued~on": 0.5, 
+            "on~broad-spectrum": 0.5
+        }, 
+        "antibiotics.": {
+            "continuation~of": 0.3333333333333333, 
+            "empirically~on": 0.3333333333333333, 
+            "fevers~despite": 0.3333333333333333
+        }, 
+        "anxiety.": {
+            "disorder~with": 0.5, 
+            "q.6h.~p.r.n.": 0.5
+        }, 
+        "appeared": {
+            "elevation~MI": 1.0
+        }, 
+        "area": {
+            ",~the": 0.5, 
+            "revealed~an": 0.5
+        }, 
+        "arterial": {
+            "of~his": 1.0
+        }, 
+        "artery": {
+            "1.~Coronary": 0.3333333333333333, 
+            "2.~Coronary": 0.3333333333333333, 
+            "of~coronary": 0.3333333333333333
+        }, 
+        "as": {
+            "JP~output": 0.08333333333333333, 
+            "PO~diet": 0.08333333333333333, 
+            "PO~medications": 0.08333333333333333, 
+            "artery~disease": 0.08333333333333333, 
+            "as~well": 0.16666666666666666, 
+            "continue~Ativan": 0.08333333333333333, 
+            "continue~oxycodone": 0.08333333333333333, 
+            "fluid~collection": 0.08333333333333333, 
+            "tube~feeds": 0.08333333333333333, 
+            "with~Lasix": 0.16666666666666666
+        }, 
+        "at": {
+            ",~noted": 0.16666666666666666, 
+            "followup~CT": 0.16666666666666666, 
+            "on~antibiotics": 0.16666666666666666, 
+            "respiratory~distress": 0.16666666666666666, 
+            "surgical~ICU": 0.16666666666666666, 
+            "this~collection": 0.16666666666666666
+        }, 
+        "atrial": {
+            "and~paroxysmal": 1.0
+        }, 
+        "attacks.": {
+            "Transient~ischemic": 1.0
+        }, 
+        "b.i.d.": {
+            "Xenaderm~topically": 0.25, 
+            "mL~orally": 0.25, 
+            "mcg~MDI": 0.25, 
+            "mg~T-tube": 0.25
+        }, 
+        "back": {
+            "degenerative~lower": 1.0
+        }, 
+        "bacteremia.": {
+            "7.~Staphylococcus": 1.0
+        }, 
+        "baseline": {
+            "insufficiency~with": 1.0
+        }, 
+        "be": {
+            "Continues~to": 0.4, 
+            "appeared~to": 0.2, 
+            "there~would": 0.2, 
+            "thought~to": 0.2
+        }, 
+        "been": {
+            "He~has": 0.42857142857142855, 
+            "and~has": 0.14285714285714285, 
+            "pain~has": 0.14285714285714285, 
+            "patient~has": 0.2857142857142857
+        }, 
+        "bicarbonate": {
+            "95~,": 1.0
+        }, 
+        "bleed": {
+            "upper~gastrointestinal": 1.0
+        }, 
+        "blisters.": {
+            "9.~Leg": 1.0
+        }, 
+        "blood": {
+            "have~4/4": 0.5, 
+            "tagged~white": 0.5
+        }, 
+        "brief": {
+            "after~a": 1.0
+        }, 
+        "broad-spectrum": {
+            "continued~on": 1.0
+        }, 
+        "but": {
+            "temperatures~,": 1.0
+        }, 
+        "by": {
+            "pulmonary~edema": 0.5, 
+            "x-ray~or": 0.5
+        }, 
+        "calcium": {
+            "1.7~,": 1.0
+        }, 
+        "cancer": {
+            "14.~Testicular": 1.0
+        }, 
+        "cardiac": {
+            "floor~with": 1.0
+        }, 
+        "cardiomyopathy": {
+            "to~ischemic": 1.0
+        }, 
+        "ceftazidime": {
+            "#19~of": 0.25, 
+            ",~and": 0.25, 
+            "treated~with": 0.25, 
+            "vancomycin~,": 0.25
+        }, 
+        "ceftazidime.": {
+            "sensitive~to": 0.5, 
+            "treatments~on": 0.5
+        }, 
+        "cell": {
+            "DATA:~White": 0.3333333333333333, 
+            "the~tagged": 0.3333333333333333, 
+            "white~blood": 0.3333333333333333
+        }, 
+        "center": {
+            "shore~health": 1.0
+        }, 
+        "central": {
+            "on~his": 1.0
+        }, 
+        "change-out": {
+            "had~a": 1.0
+        }, 
+        "chemotherapy.": {
+            "status~post": 1.0
+        }, 
+        "chloride": {
+            "4.3~,": 1.0
+        }, 
+        "chronic": {
+            ",~history": 0.1111111111111111, 
+            "6.~Steroid-dependent": 0.1111111111111111, 
+            "Acute~on": 0.1111111111111111, 
+            "acute~on": 0.2222222222222222, 
+            "and~has": 0.1111111111111111, 
+            "anemia~of": 0.1111111111111111, 
+            "disease~,": 0.1111111111111111, 
+            "failure~,": 0.1111111111111111
+        }, 
+        "clinical": {
+            "or~by": 1.0
+        }, 
+        "clinically": {
+            ",~but": 1.0
+        }, 
+        "clinically.": {
+            "to~follow": 1.0
+        }, 
+        "coagulation-negative": {
+            "positive~for": 1.0
+        }, 
+        "colectomy": {
+            "Status~post": 0.3333333333333333, 
+            "had~sigmoid": 0.3333333333333333, 
+            "status~post": 0.3333333333333333
+        }, 
+        "colectomy.": {
+            "status~post": 1.0
+        }, 
+        "collection": {
+            "ongoing~fluid": 0.5, 
+            "on~this": 0.25, 
+            "significant~fluid": 0.25
+        }, 
+        "collections": {
+            "intraabdominal~fluid": 1.0
+        }, 
+        "collections.": {
+            "these~fluid": 1.0
+        }, 
+        "colon": {
+            "DIAGNOSIS:~Perforated": 0.5, 
+            "perforated~sigmoid": 0.5
+        }, 
+        "colon.": {
+            "his~sigmoid": 0.5, 
+            "perforation~of": 0.5
+        }, 
+        "colonic": {
+            "11.~Perforated": 1.0
+        }, 
+        "colonization": {
+            "have~possible": 1.0
+        }, 
+        "colostomy": {
+            "colectomy~with": 1.0
+        }, 
+        "completing": {
+            "disease~,": 1.0
+        }, 
+        "condition": {
+            "This~patient's": 1.0
+        }, 
+        "congestive": {
+            "disease~,": 0.5, 
+            "infarction~,": 0.5
+        }, 
+        "consistent": {
+            "lower~quadrant": 1.0
+        }, 
+        "consult": {
+            "regimen.~Psychiatric": 1.0
+        }, 
+        "consultation": {
+            "CT.~After": 1.0
+        }, 
+        "continuation": {
+            "lines~and": 1.0
+        }, 
+        "continue": {
+            "We~will": 0.375, 
+            "floor~and": 0.125, 
+            "is~to": 0.25, 
+            "needed~and": 0.125, 
+            "tube~and": 0.125
+        }, 
+        "continued": {
+            "He~was": 0.25, 
+            "and~was": 0.5, 
+            "he~was": 0.25
+        }, 
+        "contrast.": {
+            "to~IV": 1.0
+        }, 
+        "controlled": {
+            "been~well": 1.0
+        }, 
+        "coronary": {
+            "history~of": 1.0
+        }, 
+        "correlate": {
+            "did~not": 1.0
+        }, 
+        "count": {
+            "White~cell": 1.0
+        }, 
+        "course": {
+            ",~completing": 0.3333333333333333, 
+            "During~the": 0.3333333333333333, 
+            "prolonged~ICU": 0.3333333333333333
+        }, 
+        "creatinine": {
+            "36~,": 0.25, 
+            "with~a": 0.25, 
+            "with~baseline": 0.25, 
+            "with~his": 0.25
+        }, 
+        "culture": {
+            "antibiotics.~Sputum": 1.0
+        }, 
+        "cultures": {
+            "4/4~blood": 0.5, 
+            "procedurally.~Repeat": 0.5
+        }, 
+        "current": {
+            "with~his": 1.0
+        }, 
+        "daily": {
+            "200~mg": 0.3333333333333333, 
+            "well~as": 0.3333333333333333, 
+            "with~his": 0.3333333333333333
+        }, 
+        "daily.": {
+            ",~T-tube": 0.4, 
+            "9.~Multivitamin": 0.2, 
+            "Collagenase~topically": 0.2, 
+            "Sarna~topically": 0.2
+        }, 
+        "day": {
+            "Currently~on": 1.0
+        }, 
+        "decided": {
+            "it~was": 1.0
+        }, 
+        "decreasing": {
+            "patient~had": 1.0
+        }, 
+        "degenerative": {
+            "secondary~to": 1.0
+        }, 
+        "dependent": {
+            "(~steroid": 1.0
+        }, 
+        "dependent.": {
+            "10.~Steroid": 1.0
+        }, 
+        "despite": {
+            "ongoing~fevers": 1.0
+        }, 
+        "diagnosed": {
+            "and~fever": 1.0
+        }, 
+        "did": {
+            "cell~scan": 1.0
+        }, 
+        "diet": {
+            "advancing~PO": 1.0
+        }, 
+        "digoxin.": {
+            "and~continue": 1.0
+        }, 
+        "discharge": {
+            "prior~to": 1.0
+        }, 
+        "discontinuation": {
+            "fevers~with": 1.0
+        }, 
+        "discontinued": {
+            "He~was": 1.0
+        }, 
+        "disease": {
+            "Coronary~artery": 0.2, 
+            "coronary~artery": 0.2, 
+            "obstructive~pulmonary": 0.6
+        }, 
+        "disease.": {
+            "Coronary~artery": 0.3333333333333333, 
+            "obstructive~pulmonary": 0.3333333333333333, 
+            "of~chronic": 0.3333333333333333
+        }, 
+        "disease;": {
+            "lower~back": 1.0
+        }, 
+        "disorder": {
+            "an~adjustment": 1.0
+        }, 
+        "disorder.": {
+            "with~adjustment": 1.0
+        }, 
+        "distress": {
+            "into~respiratory": 1.0
+        }, 
+        "diurese": {
+            "We~will": 0.5, 
+            "continue~to": 0.5
+        }, 
+        "diverticula.": {
+            "Perforated~colonic": 1.0
+        }, 
+        "document:": {
+            "stable.~eScription": 1.0
+        }, 
+        "doing": {
+            "has~been": 1.0
+        }, 
+        "done": {
+            "no~intervention": 1.0
+        }, 
+        "drain": {
+            "of~a": 1.0
+        }, 
+        "drainage": {
+            "a~CT-guided": 1.0
+        }, 
+        "drips.": {
+            "off~sedative": 1.0
+        }, 
+        "drug": {
+            "No~known": 1.0
+        }, 
+        "due": {
+            ",~likely": 0.3333333333333333, 
+            "gastrointestinal~bleed": 0.3333333333333333, 
+            "to~be": 0.3333333333333333
+        }, 
+        "eScription": {
+            "is~stable.": 1.0
+        }, 
+        "edema": {
+            "of~pulmonary": 1.0
+        }, 
+        "ejection": {
+            "failure~,": 0.5, 
+            "with~an": 0.5
+        }, 
+        "electrolyte": {
+            "no~major": 1.0
+        }, 
+        "elevation": {
+            "his~non-ST": 0.3333333333333333, 
+            "including:~Non-ST": 0.3333333333333333, 
+            "post~non-ST": 0.3333333333333333
+        }, 
+        "empirically": {
+            "was~started": 1.0
+        }, 
+        "enhancement": {
+            "area~of": 1.0
+        }, 
+        "euglycemic.": {
+            "to~keep": 1.0
+        }, 
+        "even.": {
+            "and~O's": 1.0
+        }, 
+        "every": {
+            "mcg~subcutaneously": 1.0
+        }, 
+        "explored": {
+            "abdomen~was": 1.0
+        }, 
+        "extubation.": {
+            "period~of": 1.0
+        }, 
+        "failure": {
+            "5.~Respiratory": 0.09090909090909091, 
+            "Acute~renal": 0.09090909090909091, 
+            "Congestive~heart": 0.18181818181818182, 
+            "acute~renal": 0.09090909090909091, 
+            "chronic~renal": 0.18181818181818182, 
+            "congestive~heart": 0.18181818181818182, 
+            "for~respiratory": 0.09090909090909091, 
+            "with~respiratory": 0.09090909090909091
+        }, 
+        "failure.": {
+            "chronic~renal": 0.3333333333333333, 
+            "his~renal": 0.3333333333333333, 
+            "ongoing~respiratory": 0.3333333333333333
+        }, 
+        "feeds": {
+            "on~tube": 0.5, 
+            "wean~tube": 0.5
+        }, 
+        "fever": {
+            "failure~and": 1.0
+        }, 
+        "fevers": {
+            "frequency~of": 0.5, 
+            "have~ongoing": 0.5
+        }, 
+        "fevers.": {
+            "as~daily": 0.5, 
+            "his~daily": 0.5
+        }, 
+        "fibrillation": {
+            "3.~Atrial": 0.5, 
+            "4.~Atrial": 0.5
+        }, 
+        "fibrillation.": {
+            "paroxysmal~atrial": 1.0
+        }, 
+        "flare.": {
+            "and~COPD": 1.0
+        }, 
+        "floor": {
+            "Transferred~to": 0.5, 
+            "on~the": 0.5
+        }, 
+        "fluconazole": {
+            "Flagyl~,": 0.3333333333333333, 
+            "continued~on": 0.3333333333333333, 
+            "vancomycin~,": 0.3333333333333333
+        }, 
+        "fluid": {
+            "an~ongoing": 0.2, 
+            "a~significant": 0.2, 
+            "have~intraabdominal": 0.2, 
+            "have~ongoing": 0.2, 
+            "of~these": 0.2
+        }, 
+        "fluids": {
+            "With~IV": 1.0
+        }, 
+        "follow": {
+            "as~to": 1.0
+        }, 
+        "followup": {
+            "airways.~On": 0.3333333333333333, 
+            "have~on": 0.3333333333333333, 
+            "warrant~a": 0.3333333333333333
+        }, 
+        "for": {
+            "Center~,": 0.16666666666666666, 
+            "a~drain": 0.16666666666666666, 
+            "cultures~positive": 0.16666666666666666, 
+            "on~fluconazole": 0.16666666666666666, 
+            "post~tracheostomy": 0.16666666666666666, 
+            "was~positive": 0.16666666666666666
+        }, 
+        "fraction": {
+            ",~ejection": 0.5, 
+            "an~ejection": 0.5
+        }, 
+        "free": {
+            "to~have": 1.0
+        }, 
+        "frequency": {
+            "had~decreasing": 1.0
+        }, 
+        "from": {
+            "but~improved": 0.25, 
+            "to~discharge": 0.25, 
+            "was~liberated": 0.25, 
+            "wean.~Liberated": 0.25
+        }, 
+        "fungemia.": {
+            "fluconazole~for": 1.0
+        }, 
+        "further": {
+            "had~no": 0.3333333333333333, 
+            "to~have": 0.3333333333333333, 
+            "to~tolerate": 0.3333333333333333
+        }, 
+        "future.": {
+            "in~the": 1.0
+        }, 
+        "gastrointestinal": {
+            "have~upper": 1.0
+        }, 
+        "goal": {
+            "feeds~,": 1.0
+        }, 
+        "going": {
+            "ICU~after": 1.0
+        }, 
+        "good": {
+            "been~having": 1.0
+        }, 
+        "had": {
+            ",~and": 0.1, 
+            ",~has": 0.1, 
+            ",~he": 0.2, 
+            "INR.~Also": 0.1, 
+            "collections.~He": 0.1, 
+            "however~,": 0.1, 
+            "lines~and": 0.1, 
+            "this~patient": 0.1, 
+            "where~he": 0.1
+        }, 
+        "has": {
+            "20s~and": 0.1111111111111111, 
+            "30%~,": 0.1111111111111111, 
+            "Flagyl.~He": 0.1111111111111111, 
+            "The~patient": 0.2222222222222222, 
+            "his~pain": 0.1111111111111111, 
+            "oriented~and": 0.1111111111111111, 
+            "pressors.~He": 0.1111111111111111, 
+            "resolved.~He": 0.1111111111111111
+        }, 
+        "have": {
+            "CT~to": 0.125, 
+            "Hospital~to": 0.0625, 
+            "Thought~to": 0.0625, 
+            "noted~to": 0.75
+        }, 
+        "having": {
+            "and~is": 0.3333333333333333, 
+            "has~been": 0.6666666666666666
+        }, 
+        "he": {
+            ",~where": 0.09090909090909091, 
+            "2005~,": 0.09090909090909091, 
+            "CT~,": 0.09090909090909091, 
+            "Intraoperatively~,": 0.09090909090909091, 
+            "Postoperatively~,": 0.18181818181818182, 
+            "Quinla~,": 0.09090909090909091, 
+            "colostomy~and": 0.09090909090909091, 
+            "for~which": 0.09090909090909091, 
+            "obtained~and": 0.09090909090909091, 
+            "stay~,": 0.09090909090909091
+        }, 
+        "health": {
+            "the~shore": 1.0
+        }, 
+        "heart": {
+            ",~congestive": 0.5, 
+            "2.~Congestive": 0.25, 
+            "3.~Congestive": 0.25
+        }, 
+        "hematocrit": {
+            "000~,": 0.5, 
+            "to~watch": 0.5
+        }, 
+        "hematocrits": {
+            "anemic~with": 1.0
+        }, 
+        "hemodynamically": {
+            "has~been": 1.0
+        }, 
+        "his": {
+            "Aspergillus~in": 0.06666666666666667, 
+            "addition~,": 0.06666666666666667, 
+            "along~with": 0.06666666666666667, 
+            "change-out~of": 0.06666666666666667, 
+            "collection~in": 0.06666666666666667, 
+            "colonization~of": 0.06666666666666667, 
+            "controlled~with": 0.06666666666666667, 
+            "discontinued~on": 0.06666666666666667, 
+            "enhancement~in": 0.06666666666666667, 
+            "failure~with": 0.06666666666666667, 
+            "fluids~,": 0.06666666666666667, 
+            "however~,": 0.06666666666666667, 
+            "improvement~in": 0.06666666666666667, 
+            "improvement~of": 0.06666666666666667, 
+            "perforation~in": 0.06666666666666667
+        }, 
+        "history": {
+            "allergies~,": 0.3333333333333333, 
+            "man~with": 0.3333333333333333, 
+            "tracheostomy~,": 0.3333333333333333
+        }, 
+        "hospital": {
+            "of~this": 1.0
+        }, 
+        "however": {
+            "back~disease;": 0.25, 
+            "be~resolving;": 0.25, 
+            "in~acidosis;": 0.25, 
+            "possible~abscess;": 0.25
+        }, 
+        "ileostomy": {
+            "colectomy~with": 0.5, 
+            "had~an": 0.5
+        }, 
+        "improved": {
+            ",~but": 1.0
+        }, 
+        "improvement": {
+            "have~an": 0.25, 
+            "have~further": 0.25, 
+            "some~ongoing": 0.25, 
+            "to~have": 0.25
+        }, 
+        "improving": {
+            "his~creatinine": 1.0
+        }, 
+        "improving.": {
+            "but~clinically": 1.0
+        }, 
+        "in": {
+            "an~improvement": 0.09090909090909091, 
+            "colon.~He": 0.09090909090909091, 
+            "fluid~collection": 0.09090909090909091, 
+            "have~Aspergillus": 0.09090909090909091, 
+            "have~improvement": 0.09090909090909091, 
+            "have~perforation": 0.09090909090909091, 
+            "of~enhancement": 0.09090909090909091, 
+            "ongoing~Pseudomonas": 0.09090909090909091, 
+            "some~point": 0.09090909090909091, 
+            "stable~and": 0.09090909090909091, 
+            "with~hematocrits": 0.09090909090909091
+        }, 
+        "including": {
+            "broad-spectrum~antibiotics": 1.0
+        }, 
+        "including:": {
+            "medical~issues": 1.0
+        }, 
+        "infarction": {
+            "elevation~myocardial": 1.0
+        }, 
+        "infarction.": {
+            "elevation~myocardial": 1.0
+        }, 
+        "insomnia.": {
+            "q.h.s.~p.r.n.": 1.0
+        }, 
+        "insufficiency": {
+            "Chronic~renal": 0.5, 
+            "chronic~renal": 0.5
+        }, 
+        "insufficiency.": {
+            "Chronic~renal": 1.0
+        }, 
+        "insulin": {
+            "remains~on": 1.0
+        }, 
+        "intervention": {
+            "be~no": 1.0
+        }, 
+        "into": {
+            "after~going": 1.0
+        }, 
+        "intraabdominal": {
+            "to~have": 1.0
+        }, 
+        "intubated": {
+            "he~remained": 1.0
+        }, 
+        "intubated.": {
+            "he~was": 1.0
+        }, 
+        "is": {
+            ",~who": 0.07142857142857142, 
+            "COURSE:~This": 0.07142857142857142, 
+            "PLAN:~This": 0.07142857142857142, 
+            "PO~and": 0.07142857142857142, 
+            "The~patient": 0.07142857142857142, 
+            "and~he": 0.07142857142857142, 
+            "anxiety.~Plan": 0.07142857142857142, 
+            "clinically.~He": 0.07142857142857142, 
+            "drips.~He": 0.07142857142857142, 
+            "patient's~condition": 0.07142857142857142, 
+            "patient~now": 0.07142857142857142, 
+            "rhythm.~Plan": 0.07142857142857142, 
+            "symptoms.~He": 0.07142857142857142, 
+            "the~patient": 0.07142857142857142
+        }, 
+        "ischemic": {
+            "10.~Transient": 0.5, 
+            "secondary~to": 0.5
+        }, 
+        "issues": {
+            "other~medical": 1.0
+        }, 
+        "it": {
+            "Service~,": 1.0
+        }, 
+        "keep": {
+            "needed~to": 0.6666666666666666, 
+            "titrate~to": 0.3333333333333333
+        }, 
+        "known": {
+            "ALLERGIES:~No": 1.0
+        }, 
+        "last": {
+            "from~the": 1.0
+        }, 
+        "levofloxacin.": {
+            "ceftazidime~and": 0.5, 
+            "rupture~with": 0.5
+        }, 
+        "liberated": {
+            ",~was": 1.0
+        }, 
+        "likely": {
+            "stable~,": 1.0
+        }, 
+        "line.": {
+            "his~arterial": 1.0
+        }, 
+        "lines": {
+            "discontinuation~of": 0.5, 
+            "his~central": 0.5
+        }, 
+        "low-grade": {
+            "been~having": 0.5, 
+            "having~ongoing": 0.5
+        }, 
+        "lower": {
+            "his~right": 0.5, 
+            "to~degenerative": 0.5
+        }, 
+        "lysed.": {
+            "adhesions~were": 1.0
+        }, 
+        "mL": {
+            ",~15": 0.5, 
+            "suspension~5": 0.5
+        }, 
+        "major": {
+            "with~no": 1.0
+        }, 
+        "man": {
+            "a~50-year-old": 1.0
+        }, 
+        "may": {
+            "abdomen~and": 1.0
+        }, 
+        "mcg": {
+            ",~88": 0.5, 
+            "alpha~100": 0.5
+        }, 
+        "mechanical": {
+            "Liberated~from": 0.5, 
+            "liberated~from": 0.5
+        }, 
+        "medical": {
+            "had~other": 1.0
+        }, 
+        "medications": {
+            "start~PO": 1.0
+        }, 
+        "mg": {
+            ",~0.0625": 0.1111111111111111, 
+            ",~1": 0.1111111111111111, 
+            ",~10": 0.1111111111111111, 
+            ",~100": 0.1111111111111111, 
+            ",~200": 0.1111111111111111, 
+            ",~5": 0.1111111111111111, 
+            "Pepcid~20": 0.1111111111111111, 
+            "Trazodone~50": 0.1111111111111111, 
+            "tube~0.521": 0.1111111111111111
+        }, 
+        "mg/mL": {
+            "Oxycodone~1": 1.0
+        }, 
+        "mid": {
+            "in~the": 1.0
+        }, 
+        "monitor": {
+            "continue~to": 1.0
+        }, 
+        "monitoring.": {
+            "with~cardiac": 1.0
+        }, 
+        "myocardial": {
+            "Non-ST~elevation": 0.5, 
+            "non-ST~elevation": 0.5
+        }, 
+        "needed": {
+            "Lasix~as": 0.6666666666666666, 
+            "oxycodone~as": 0.3333333333333333
+        }, 
+        "needed.": {
+            "Ativan~as": 1.0
+        }, 
+        "no": {
+            "has~had": 0.3333333333333333, 
+            "output~with": 0.3333333333333333, 
+            "would~be": 0.3333333333333333
+        }, 
+        "non-ST": {
+            ",~his": 0.5, 
+            "Status~post": 0.5
+        }, 
+        "normal": {
+            "and~in": 1.0
+        }, 
+        "not": {
+            "scan~did": 1.0
+        }, 
+        "noted": {
+            ",~was": 0.07692307692307693, 
+            "Also~,": 0.07692307692307693, 
+            "He~is": 0.07692307692307693, 
+            "He~was": 0.15384615384615385, 
+            "ceftazidime.~Also": 0.07692307692307693, 
+            "he~is": 0.07692307692307693, 
+            "he~was": 0.23076923076923078, 
+            "infarction.~Also": 0.07692307692307693, 
+            "patient~was": 0.07692307692307693, 
+            "was~also": 0.07692307692307693
+        }, 
+        "now": {
+            "patient~is": 0.5, 
+            "the~patient": 0.5
+        }, 
+        "nutrition": {
+            "due~to": 1.0
+        }, 
+        "obstructive": {
+            ",~chronic": 0.25, 
+            "6.~Chronic": 0.25, 
+            "Steroid-dependent~chronic": 0.25, 
+            "history~chronic": 0.25
+        }, 
+        "obtained": {
+            "He~also": 0.5, 
+            "consult~was": 0.5
+        }, 
+        "of": {
+            ",~history": 0.041666666666666664, 
+            ",~perforation": 0.041666666666666664, 
+            "Repeat~cultures": 0.041666666666666664, 
+            "and~anemia": 0.041666666666666664, 
+            "and~continuation": 0.041666666666666664, 
+            "and~placement": 0.041666666666666664, 
+            "an~area": 0.041666666666666664, 
+            "a~change-out": 0.041666666666666664, 
+            "a~creatinine": 0.041666666666666664, 
+            "brief~period": 0.041666666666666664, 
+            "completing~course": 0.041666666666666664, 
+            "day~#19": 0.041666666666666664, 
+            "decreasing~frequency": 0.041666666666666664, 
+            "ejection~fraction": 0.041666666666666664, 
+            "for~one": 0.041666666666666664, 
+            "further~improvement": 0.041666666666666664, 
+            "further~signs": 0.041666666666666664, 
+            "of~ceftazidime": 0.041666666666666664, 
+            "possible~colonization": 0.041666666666666664, 
+            "the~area": 0.041666666666666664, 
+            "the~course": 0.041666666666666664, 
+            "transfer~out": 0.041666666666666664, 
+            "with~discontinuation": 0.041666666666666664, 
+            "with~history": 0.041666666666666664
+        }, 
+        "off": {
+            "He~is": 0.25, 
+            "doing~well": 0.25, 
+            "is~now": 0.25, 
+            "slow~wean": 0.25
+        }, 
+        "on": {
+            ",~acute": 0.041666666666666664, 
+            "8.~Acute": 0.041666666666666664, 
+            "Community~Hospital": 0.041666666666666664, 
+            "ID:~Currently": 0.041666666666666664, 
+            "antibiotics.~Noted": 0.041666666666666664, 
+            "fluid~collection": 0.041666666666666664, 
+            "had~acute": 0.041666666666666664, 
+            "intervention~done": 0.041666666666666664, 
+            "of~enhancement": 0.041666666666666664, 
+            "operating~room": 0.08333333333333333, 
+            "patient~remains": 0.041666666666666664, 
+            "pneumonia~treatments": 0.041666666666666664, 
+            "required~reintubation": 0.041666666666666664, 
+            "started~empirically": 0.041666666666666664, 
+            "to~be": 0.041666666666666664, 
+            "to~have": 0.041666666666666664, 
+            "was~continued": 0.16666666666666666, 
+            "was~discontinued": 0.041666666666666664, 
+            "was~placed": 0.041666666666666664, 
+            "watch~hematocrit": 0.041666666666666664
+        }, 
+        "one": {
+            "drain~for": 1.0
+        }, 
+        "ongoing": {
+            ",~had": 0.125, 
+            "had~some": 0.125, 
+            "have~an": 0.125, 
+            "is~having": 0.125, 
+            "sputum~yielded": 0.125, 
+            "to~have": 0.375
+        }, 
+        "operating": {
+            "to~the": 1.0
+        }, 
+        "or": {
+            "by~x-ray": 1.0
+        }, 
+        "orally": {
+            "15~mL": 1.0
+        }, 
+        "oriented": {
+            "alert~and": 1.0
+        }, 
+        "other": {
+            "he~had": 1.0
+        }, 
+        "out": {
+            "to~transfer": 1.0
+        }, 
+        "output": {
+            "good~urine": 0.5, 
+            "monitor~JP": 0.5
+        }, 
+        "oxycodone": {
+            "to~continue": 1.0
+        }, 
+        "p.r.n.": {
+            "PO~q.h.s.": 0.25, 
+            "T-tube~q.4h.": 0.25, 
+            "mg~q.6h.": 0.25, 
+            "puffs~q.i.d.": 0.25
+        }, 
+        "pain": {
+            ",~his": 0.5, 
+            "has~chronic": 0.5
+        }, 
+        "pain.": {
+            "8.~Chronic": 0.5, 
+            "q.4h.~p.r.n.": 0.5
+        }, 
+        "paroxysmal": {
+            ",~and": 0.5, 
+            "fibrillation~(": 0.5
+        }, 
+        "patient": {
+            ",~the": 0.125, 
+            ",~this": 0.125, 
+            "21.~The": 0.125, 
+            "Endocrine:~This": 0.125, 
+            "Heme:~The": 0.125, 
+            "Neurological:~The": 0.125, 
+            "as~the": 0.125, 
+            "vasopressin.~The": 0.125
+        }, 
+        "patient's": {
+            "DISPOSITION:~This": 1.0
+        }, 
+        "perforated": {
+            "secondary~to": 1.0
+        }, 
+        "perforation": {
+            "colectomy~,": 0.5, 
+            "to~have": 0.5
+        }, 
+        "period": {
+            "a~brief": 1.0
+        }, 
+        "placed": {
+            "He~was": 1.0
+        }, 
+        "placement": {
+            ",~T-tube": 0.5, 
+            "drainage~and": 0.5
+        }, 
+        "plan": {
+            "We~will": 0.5, 
+            "with~a": 0.5
+        }, 
+        "platelets": {
+            "27~,": 1.0
+        }, 
+        "pneumonia": {
+            "diagnosed~with": 0.3333333333333333, 
+            "of~Pseudomonas": 0.3333333333333333, 
+            "secondary~to": 0.3333333333333333
+        }, 
+        "pneumonia.": {
+            "7.~Pseudomonas": 1.0
+        }, 
+        "point": {
+            "at~some": 1.0
+        }, 
+        "positive": {
+            "blood~cultures": 0.5, 
+            "culture~was": 0.5
+        }, 
+        "possible": {
+            "consistent~with": 0.5, 
+            "to~have": 0.5
+        }, 
+        "post": {
+            ",~status": 0.125, 
+            "1.~Status": 0.125, 
+            "Cardiovascular:~Status": 0.125, 
+            "and~ceftazidime": 0.125, 
+            "cancer~status": 0.125, 
+            "colon~status": 0.125, 
+            "failure~status": 0.125, 
+            "is~status": 0.125
+        }, 
+        "postoperatively": {
+            "remained~intubated": 1.0
+        }, 
+        "potassium": {
+            "134~,": 1.0
+        }, 
+        "pressors.": {
+            "is~off": 1.0
+        }, 
+        "prior": {
+            "from~mechanical": 0.5, 
+            "mechanical~ventilation": 0.5
+        }, 
+        "procedurally.": {
+            "ceftazidime~post": 1.0
+        }, 
+        "prolonged": {
+            "failure~,": 1.0
+        }, 
+        "prophylaxis.": {
+            "continue~DVT": 1.0
+        }, 
+        "puffs": {
+            ",~2": 0.5, 
+            "to~4": 0.5
+        }, 
+        "pulmonary": {
+            "Chronic~obstructive": 0.2, 
+            "chronic~obstructive": 0.6, 
+            "signs~of": 0.2
+        }, 
+        "q.4h.": {
+            "sliding~scale": 0.5, 
+            "via~T-tube": 0.5
+        }, 
+        "q.6h.": {
+            "0.521~mg": 1.0
+        }, 
+        "q.a.m.": {
+            ",~T-tube": 0.5, 
+            "units~subcutaneously": 0.5
+        }, 
+        "q.h.s.": {
+            "mg~PO": 1.0
+        }, 
+        "q.i.d.": {
+            "4~puffs": 0.3333333333333333, 
+            "mL~PO": 0.3333333333333333, 
+            "puffs~MDI": 0.3333333333333333
+        }, 
+        "q.o.d.": {
+            ",~T-tube": 1.0
+        }, 
+        "quadrant": {
+            "right~lower": 1.0
+        }, 
+        "range.": {
+            "to~2.0": 1.0
+        }, 
+        "rate.": {
+            ",~goal": 1.0
+        }, 
+        "regimen.": {
+            "his~current": 1.0
+        }, 
+        "regular": {
+            "7.~Insulin": 1.0
+        }, 
+        "reintubation": {
+            "He~required": 1.0
+        }, 
+        "remained": {
+            "and~he": 1.0
+        }, 
+        "remains": {
+            "This~patient": 1.0
+        }, 
+        "renal": {
+            ",~chronic": 0.1111111111111111, 
+            "1.7.~Acute": 0.1111111111111111, 
+            "9.~Chronic": 0.1111111111111111, 
+            "FEN/GU:~Chronic": 0.1111111111111111, 
+            "his~acute": 0.1111111111111111, 
+            "of~his": 0.1111111111111111, 
+            "on~chronic": 0.3333333333333333
+        }, 
+        "required": {
+            "ICU~,": 0.5, 
+            "failure.~He": 0.5
+        }, 
+        "resolved.": {
+            "failure~,": 1.0
+        }, 
+        "resolving;": {
+            "to~be": 1.0
+        }, 
+        "respiratory": {
+            ",~with": 0.2, 
+            "From~the": 0.2, 
+            "going~into": 0.2, 
+            "have~ongoing": 0.2, 
+            "tracheostomy~for": 0.2
+        }, 
+        "returned": {
+            "extubation.~He": 1.0
+        }, 
+        "revealed": {
+            ",~which": 1.0
+        }, 
+        "rhythm.": {
+            "normal~sinus": 1.0
+        }, 
+        "right": {
+            "in~his": 1.0
+        }, 
+        "room": {
+            "the~operating": 1.0
+        }, 
+        "rupture": {
+            "Achilles~tendon": 1.0
+        }, 
+        "scale": {
+            ",~sliding": 1.0
+        }, 
+        "scale.": {
+            "insulin~sliding": 1.0
+        }, 
+        "scan": {
+            "blood~cell": 0.5, 
+            "tagged~cell": 0.5
+        }, 
+        "secondary": {
+            "30%~,": 0.2, 
+            "ICU~course": 0.2, 
+            "chronic~pain": 0.2, 
+            "heart~failure": 0.2, 
+            "with~ileostomy": 0.2
+        }, 
+        "sedative": {
+            "now~off": 1.0
+        }, 
+        "sensitive": {
+            "the~sputum": 1.0
+        }, 
+        "sepsis": {
+            "pneumonia~,": 1.0
+        }, 
+        "several": {
+            "the~last": 1.0
+        }, 
+        "shore": {
+            "In~the": 1.0
+        }, 
+        "sigmoid": {
+            "and~had": 0.3333333333333333, 
+            "in~his": 0.3333333333333333, 
+            "to~perforated": 0.3333333333333333
+        }, 
+        "significant": {
+            "with~a": 1.0
+        }, 
+        "signs": {
+            "no~further": 1.0
+        }, 
+        "sinus": {
+            "in~normal": 1.0
+        }, 
+        "sliding": {
+            "on~insulin": 0.5, 
+            "regular~,": 0.5
+        }, 
+        "slow": {
+            "had~ongoing": 0.5, 
+            "to~be": 0.5
+        }, 
+        "solution": {
+            "10~mg": 1.0
+        }, 
+        "some": {
+            "CT~at": 0.5, 
+            "He~had": 0.5
+        }, 
+        "sputum": {
+            "cultures~of": 0.5, 
+            "in~the": 0.5
+        }, 
+        "sputum.": {
+            "in~his": 1.0
+        }, 
+        "stable": {
+            "been~hemodynamically": 0.5, 
+            "has~been": 0.5
+        }, 
+        "stable.": {
+            "condition~is": 1.0
+        }, 
+        "standpoint": {
+            "the~respiratory": 1.0
+        }, 
+        "start": {
+            "We~will": 0.5, 
+            "plan~to": 0.5
+        }, 
+        "started": {
+            "He~was": 1.0
+        }, 
+        "starting": {
+            "now~is": 1.0
+        }, 
+        "status": {
+            "Perforated~colon": 0.2, 
+            "Respiratory~failure": 0.2, 
+            "Testicular~cancer": 0.2, 
+            "colon~,": 0.2, 
+            "who~is": 0.2
+        }, 
+        "stay": {
+            "this~hospital": 1.0
+        }, 
+        "steroid": {
+            "be~slow": 0.5, 
+            "disease~(": 0.5
+        }, 
+        "subcutaneously": {
+            "100~mcg": 0.3333333333333333, 
+            "5000~units": 0.3333333333333333, 
+            "9~units": 0.3333333333333333
+        }, 
+        "supratherapeutic": {
+            "due~to": 1.0
+        }, 
+        "surgical": {
+            "health~center": 1.0
+        }, 
+        "suspension": {
+            "11.~Nystatin": 1.0
+        }, 
+        "symptoms.": {
+            "by~clinical": 1.0
+        }, 
+        "t.i.d.": {
+            "units~subcutaneously": 1.0
+        }, 
+        "tachycardia.": {
+            "Nonsustained~ventricular": 1.0
+        }, 
+        "tagged": {
+            "obtained~a": 0.5, 
+            "on~the": 0.5
+        }, 
+        "taken": {
+            "He~was": 1.0
+        }, 
+        "temperatures": {
+            "having~low-grade": 0.5, 
+            "ongoing~low-grade": 0.5
+        }, 
+        "tendon": {
+            "of~Achilles": 1.0
+        }, 
+        "that": {
+            "was~decided": 1.0
+        }, 
+        "the": {
+            ",~and": 0.047619047619047616, 
+            ".~In": 0.047619047619047616, 
+            "He~in": 0.047619047619047616, 
+            "ICU~at": 0.047619047619047616, 
+            "Moreover~,": 0.047619047619047616, 
+            "Otherwise~,": 0.047619047619047616, 
+            "Pseudomonas~in": 0.047619047619047616, 
+            "consultation~with": 0.047619047619047616, 
+            "discharge~from": 0.047619047619047616, 
+            "enhancement~on": 0.047619047619047616, 
+            "feeds~as": 0.047619047619047616, 
+            "hematocrits~in": 0.047619047619047616, 
+            "hematocrit~on": 0.047619047619047616, 
+            "improved~from": 0.047619047619047616, 
+            "improving.~From": 0.047619047619047616, 
+            "out~of": 0.047619047619047616, 
+            "point~in": 0.047619047619047616, 
+            "returned~to": 0.047619047619047616, 
+            "taken~to": 0.047619047619047616, 
+            "vancomycin.~During": 0.047619047619047616, 
+            "wean~off": 0.047619047619047616
+        }, 
+        "there": {
+            "decided~that": 1.0
+        }, 
+        "these": {
+            "one~of": 1.0
+        }, 
+        "this": {
+            "collection~at": 0.25, 
+            "course~of": 0.25, 
+            "done~on": 0.25, 
+            "however~,": 0.25
+        }, 
+        "thought": {
+            "7.7~,": 1.0
+        }, 
+        "time.": {
+            "at~this": 1.0
+        }, 
+        "titrate": {
+            "We~will": 1.0
+        }, 
+        "to": {
+            ",~2": 0.019230769230769232, 
+            ",~secondary": 0.019230769230769232, 
+            ",~thought": 0.019230769230769232, 
+            "Also~noted": 0.038461538461538464, 
+            "Gastrointestinal:~Continues": 0.019230769230769232, 
+            "He~returned": 0.019230769230769232, 
+            "Ieldha~Hospital": 0.019230769230769232, 
+            "MI~appeared": 0.019230769230769232, 
+            "Plan~is": 0.038461538461538464, 
+            "Respiratory:~Continues": 0.019230769230769232, 
+            "abdominal~CT": 0.019230769230769232, 
+            "also~noted": 0.019230769230769232, 
+            "as~needed": 0.038461538461538464, 
+            "a~plan": 0.019230769230769232, 
+            "be~due": 0.019230769230769232, 
+            "bleed~due": 0.019230769230769232, 
+            "course~secondary": 0.019230769230769232, 
+            "creatinine~1.5": 0.019230769230769232, 
+            "creatinine~improving": 0.019230769230769232, 
+            "failure~secondary": 0.019230769230769232, 
+            "followup~CT": 0.019230769230769232, 
+            "future.~Transferred": 0.019230769230769232, 
+            "ileostomy~secondary": 0.019230769230769232, 
+            "is~able": 0.019230769230769232, 
+            "is~noted": 0.038461538461538464, 
+            "likely~due": 0.019230769230769232, 
+            "mechanical~prior": 0.019230769230769232, 
+            "pain~secondary": 0.019230769230769232, 
+            "sputum.~Thought": 0.019230769230769232, 
+            "sputum~sensitive": 0.019230769230769232, 
+            "ventilation~prior": 0.019230769230769232, 
+            "was~admitted": 0.019230769230769232, 
+            "was~noted": 0.1346153846153846, 
+            "was~taken": 0.019230769230769232, 
+            "was~transferred": 0.038461538461538464, 
+            "well~as": 0.019230769230769232, 
+            "will~continue": 0.057692307692307696, 
+            "will~plan": 0.019230769230769232, 
+            "will~titrate": 0.019230769230769232
+        }, 
+        "tolerate": {
+            "able~to": 1.0
+        }, 
+        "tolerated": {
+            "diet~as": 1.0
+        }, 
+        "tolerated.": {
+            "medications~as": 1.0
+        }, 
+        "topically": {
+            "10.~Sarna": 0.3333333333333333, 
+            "14.~Collagenase": 0.3333333333333333, 
+            "18.~Xenaderm": 0.3333333333333333
+        }, 
+        "toxicity.": {
+            "and~Adriamycin": 1.0
+        }, 
+        "tracheostomy": {
+            "ICU.~S/p": 0.5, 
+            "status~post": 0.5
+        }, 
+        "tracheostomy.": {
+            "and~a": 0.5, 
+            "status~post": 0.5
+        }, 
+        "transfer": {
+            "prior~to": 1.0
+        }, 
+        "transferred": {
+            "He~was": 0.5, 
+            "and~was": 0.5
+        }, 
+        "treated": {
+            "Pseudomonas~and": 1.0
+        }, 
+        "treatments": {
+            "Pseudomonas~pneumonia": 1.0
+        }, 
+        "tube": {
+            "Ativan~NG": 0.25, 
+            "be~on": 0.25, 
+            "to~wean": 0.25, 
+            "via~T": 0.25
+        }, 
+        "units": {
+            ",~5000": 0.5, 
+            ",~9": 0.5
+        }, 
+        "upper": {
+            "to~have": 1.0
+        }, 
+        "urine": {
+            "having~good": 1.0
+        }, 
+        "vancomycin": {
+            "antibiotics~including": 0.3333333333333333, 
+            "continued~on": 0.3333333333333333, 
+            "well~off": 0.3333333333333333
+        }, 
+        "vancomycin.": {
+            "placed~on": 1.0
+        }, 
+        "vasopressin.": {
+            "Levophed~and": 1.0
+        }, 
+        "ventilation": {
+            "from~mechanical": 1.0
+        }, 
+        "ventilator.": {
+            "off~the": 1.0
+        }, 
+        "ventricular": {
+            "4.~Nonsustained": 1.0
+        }, 
+        "via": {
+            "continue~amiodarone": 0.5, 
+            "mg~solution": 0.5
+        }, 
+        "warrant": {
+            "and~may": 1.0
+        }, 
+        "was": {
+            ",~and": 0.08, 
+            ",~he": 0.2, 
+            ",~it": 0.04, 
+            "Psychiatric~consult": 0.04, 
+            "Sputum~culture": 0.04, 
+            "Staphylococcus.~He": 0.04, 
+            "The~patient": 0.04, 
+            "air.~He": 0.04, 
+            "contrast.~He": 0.04, 
+            "failure.~He": 0.04, 
+            "fevers.~He": 0.04, 
+            "flare.~He": 0.04, 
+            "his~abdomen": 0.04, 
+            "however~,": 0.04, 
+            "improvement~and": 0.04, 
+            "intubated.~He": 0.04, 
+            "man~who": 0.04, 
+            "standpoint~,": 0.04, 
+            "ventilator.~He": 0.04, 
+            "which~he": 0.04
+        }, 
+        "watch": {
+            "continue~to": 1.0
+        }, 
+        "wean": {
+            "ongoing~slow": 0.5, 
+            "plan~to": 0.5
+        }, 
+        "wean.": {
+            "slow~steroid": 1.0
+        }, 
+        "week.": {
+            "subcutaneously~every": 1.0
+        }, 
+        "weeks.": {
+            "last~several": 1.0
+        }, 
+        "well": {
+            "been~doing": 0.25, 
+            "collection~as": 0.25, 
+            "has~been": 0.25, 
+            "output~as": 0.25
+        }, 
+        "were": {
+            "and~adhesions": 1.0
+        }, 
+        "where": {
+            "2005~,": 1.0
+        }, 
+        "which": {
+            ",~for": 0.5, 
+            "scan~,": 0.5
+        }, 
+        "white": {
+            "a~tagged": 1.0
+        }, 
+        "who": {
+            "50-year-old~man": 0.5, 
+            "insufficiency~,": 0.5
+        }, 
+        "will": {
+            "PO's.~We": 0.14285714285714285, 
+            "abnormalities.~We": 0.14285714285714285, 
+            "digoxin.~We": 0.14285714285714285, 
+            "disease.~We": 0.14285714285714285, 
+            "rate.~We": 0.14285714285714285, 
+            "scale.~We": 0.14285714285714285, 
+            "weeks.~We": 0.14285714285714285
+        }, 
+        "with": {
+            "13.~Anxiety": 0.04, 
+            "2005~,": 0.04, 
+            "50-year-old~man": 0.04, 
+            "After~consultation": 0.04, 
+            "adjustment~disorder": 0.04, 
+            "and~treated": 0.04, 
+            "as~tolerated": 0.04, 
+            "been~anemic": 0.04, 
+            "collections~along": 0.04, 
+            "fever~diagnosed": 0.04, 
+            "heart~failure": 0.04, 
+            "not~correlate": 0.04, 
+            "of~fevers": 0.04, 
+            "post~colectomy": 0.04, 
+            "quadrant~consistent": 0.04, 
+            "renal~failure": 0.08, 
+            "renal~insufficiency": 0.04, 
+            "sigmoid~colectomy": 0.04, 
+            "tendon~rupture": 0.04, 
+            "to~diurese": 0.04, 
+            "to~floor": 0.04, 
+            "urine~output": 0.04, 
+            "well~controlled": 0.04, 
+            "will~diurese": 0.04
+        }, 
+        "would": {
+            "that~there": 1.0
+        }, 
+        "x-ray": {
+            "edema~by": 1.0
+        }, 
+        "yielded": {
+            "of~sputum": 1.0
+        }, 
+        "|": {
+            "12:00:00~AM": 0.1111111111111111, 
+            "36908482~|": 0.1111111111111111, 
+            "Discharge~Summary": 0.1111111111111111, 
+            "|~0016869": 0.1111111111111111, 
+            "|~36908482": 0.1111111111111111, 
+            "|~DIS": 0.1111111111111111, 
+            "|~RCMC": 0.1111111111111111, 
+            "|~Signed": 0.1111111111111111, 
+            "~741601659": 0.1111111111111111
+        }
+    }, 
+    "type": "data/test", 
+    "uni": {
+        "": 0.0006720430107526882, 
+        "#19": 0.0006720430107526882, 
+        "(": 0.0013440860215053765, 
+        ").": 0.0013440860215053765, 
+        ",": 0.06518817204301075, 
+        ".": 0.0006720430107526882, 
+        "0.0625": 0.0006720430107526882, 
+        "0.521": 0.0006720430107526882, 
+        "000": 0.0006720430107526882, 
+        "0016869": 0.0006720430107526882, 
+        "0479349": 0.0006720430107526882, 
+        "1": 0.0013440860215053765, 
+        "1.": 0.0020161290322580645, 
+        "1.2": 0.0006720430107526882, 
+        "1.5": 0.0006720430107526882, 
+        "1.7": 0.0006720430107526882, 
+        "1.7.": 0.0006720430107526882, 
+        "10": 0.0006720430107526882, 
+        "10.": 0.0020161290322580645, 
+        "100": 0.0013440860215053765, 
+        "11.": 0.0020161290322580645, 
+        "11/19/2005": 0.0006720430107526882, 
+        "12.": 0.0020161290322580645, 
+        "12:00:00": 0.0006720430107526882, 
+        "13.": 0.0020161290322580645, 
+        "134": 0.0006720430107526882, 
+        "14.": 0.0013440860215053765, 
+        "14.9": 0.0006720430107526882, 
+        "15": 0.0006720430107526882, 
+        "15.": 0.0006720430107526882, 
+        "16": 0.0006720430107526882, 
+        "16.": 0.0006720430107526882, 
+        "17.": 0.0006720430107526882, 
+        "18.": 0.0006720430107526882, 
+        "19.": 0.0006720430107526882, 
+        "2": 0.0013440860215053765, 
+        "2.": 0.0020161290322580645, 
+        "2.0": 0.0006720430107526882, 
+        "20": 0.0006720430107526882, 
+        "20.": 0.0006720430107526882, 
+        "200": 0.0006720430107526882, 
+        "2005": 0.003360215053763441, 
+        "20s": 0.0006720430107526882, 
+        "21.": 0.0013440860215053765, 
+        "27": 0.0006720430107526882, 
+        "28": 0.0006720430107526882, 
+        "3.": 0.0020161290322580645, 
+        "30%": 0.0013440860215053765, 
+        "34.1.": 0.0006720430107526882, 
+        "36": 0.0006720430107526882, 
+        "36908482": 0.0006720430107526882, 
+        "4": 0.0006720430107526882, 
+        "4-1653219": 0.0006720430107526882, 
+        "4.": 0.002688172043010753, 
+        "4.3": 0.0006720430107526882, 
+        "4/4": 0.0006720430107526882, 
+        "443.": 0.0006720430107526882, 
+        "5": 0.0013440860215053765, 
+        "5.": 0.0020161290322580645, 
+        "50": 0.0006720430107526882, 
+        "50-year-old": 0.0013440860215053765, 
+        "5000": 0.0006720430107526882, 
+        "6.": 0.0020161290322580645, 
+        "6/7/2005": 0.0006720430107526882, 
+        "7.": 0.0020161290322580645, 
+        "7.7": 0.0006720430107526882, 
+        "7/20/05": 0.0006720430107526882, 
+        "741601659": 0.0006720430107526882, 
+        "7:": 0.0006720430107526882, 
+        "8.": 0.0020161290322580645, 
+        "88": 0.0006720430107526882, 
+        "9": 0.0006720430107526882, 
+        "9.": 0.0020161290322580645, 
+        "9.1.": 0.0006720430107526882, 
+        "95": 0.0006720430107526882, 
+        "ACTIVE": 0.0006720430107526882, 
+        "ALLERGIES:": 0.0006720430107526882, 
+        "AM": 0.0006720430107526882, 
+        "AND": 0.0006720430107526882, 
+        "ASSESSMENT": 0.0006720430107526882, 
+        "ATTENDING:": 0.0006720430107526882, 
+        "Achilles": 0.0006720430107526882, 
+        "Acute": 0.0013440860215053765, 
+        "Admission": 0.0006720430107526882, 
+        "Adriamycin": 0.0006720430107526882, 
+        "Adriamycin.": 0.0006720430107526882, 
+        "After": 0.0006720430107526882, 
+        "Albuterol": 0.0006720430107526882, 
+        "Also": 0.002688172043010753, 
+        "Amiodarone": 0.0006720430107526882, 
+        "Anxiety": 0.0006720430107526882, 
+        "Appendectomy.": 0.0006720430107526882, 
+        "Arlricks": 0.0006720430107526882, 
+        "Aspergillus": 0.0006720430107526882, 
+        "Ativan": 0.0013440860215053765, 
+        "Atrial": 0.0013440860215053765, 
+        "Attending:": 0.0006720430107526882, 
+        "BENTON": 0.0006720430107526882, 
+        "BORBA": 0.0006720430107526882, 
+        "BUN": 0.0006720430107526882, 
+        "By:": 0.0006720430107526882, 
+        "COPD": 0.0006720430107526882, 
+        "COURSE:": 0.0006720430107526882, 
+        "CT": 0.002688172043010753, 
+        "CT-guided": 0.0006720430107526882, 
+        "CT.": 0.0006720430107526882, 
+        "Cardiovascular:": 0.0006720430107526882, 
+        "Center": 0.0013440860215053765, 
+        "Chem": 0.0006720430107526882, 
+        "Cholecystectomy.": 0.0006720430107526882, 
+        "Chronic": 0.002688172043010753, 
+        "Collagenase": 0.0006720430107526882, 
+        "Combivent": 0.0006720430107526882, 
+        "Community": 0.0006720430107526882, 
+        "Congestive": 0.0013440860215053765, 
+        "Continues": 0.0013440860215053765, 
+        "Coronary": 0.0013440860215053765, 
+        "Currently": 0.0006720430107526882, 
+        "D:": 0.0006720430107526882, 
+        "DATA:": 0.0006720430107526882, 
+        "DIAGNOSIS:": 0.0006720430107526882, 
+        "DIS": 0.0006720430107526882, 
+        "DISPOSITION:": 0.0006720430107526882, 
+        "DVT": 0.0006720430107526882, 
+        "Darbepoetin": 0.0006720430107526882, 
+        "Date:": 0.0013440860215053765, 
+        "Dictated": 0.0006720430107526882, 
+        "Dictation": 0.0006720430107526882, 
+        "Digoxin": 0.0006720430107526882, 
+        "Discharge": 0.0013440860215053765, 
+        "Disease": 0.0006720430107526882, 
+        "During": 0.0006720430107526882, 
+        "Endocrine:": 0.0006720430107526882, 
+        "FEN/GU:": 0.0006720430107526882, 
+        "Flagyl": 0.0006720430107526882, 
+        "Flagyl.": 0.0006720430107526882, 
+        "Flovent": 0.0006720430107526882, 
+        "Folate": 0.0006720430107526882, 
+        "From": 0.0006720430107526882, 
+        "GARRET": 0.0006720430107526882, 
+        "Gastrointestinal:": 0.0006720430107526882, 
+        "Gout.": 0.0006720430107526882, 
+        "HEUSNER": 0.0006720430107526882, 
+        "HISTORY:": 0.0006720430107526882, 
+        "HOSPITAL": 0.0006720430107526882, 
+        "He": 0.012768817204301076, 
+        "Heme:": 0.0006720430107526882, 
+        "Heparin": 0.0006720430107526882, 
+        "Hospital": 0.0020161290322580645, 
+        "Hypertension.": 0.0006720430107526882, 
+        "I's": 0.0013440860215053765, 
+        "ICU": 0.002688172043010753, 
+        "ICU.": 0.002688172043010753, 
+        "ID": 0.0006720430107526882, 
+        "ID:": 0.0006720430107526882, 
+        "INR": 0.0006720430107526882, 
+        "INR.": 0.0006720430107526882, 
+        "ISSten": 0.0006720430107526882, 
+        "IV": 0.0013440860215053765, 
+        "Ieldha": 0.0006720430107526882, 
+        "In": 0.0013440860215053765, 
+        "Infectious": 0.0006720430107526882, 
+        "Ins": 0.0006720430107526882, 
+        "Insulin": 0.0006720430107526882, 
+        "Interventional": 0.0006720430107526882, 
+        "Intraoperatively": 0.0006720430107526882, 
+        "JP": 0.0006720430107526882, 
+        "January": 0.0006720430107526882, 
+        "June": 0.0006720430107526882, 
+        "LABORATORY": 0.0006720430107526882, 
+        "LIST:": 0.0006720430107526882, 
+        "Lasix": 0.0013440860215053765, 
+        "Leg": 0.0006720430107526882, 
+        "Levophed": 0.0006720430107526882, 
+        "Liberated": 0.0006720430107526882, 
+        "M.D.": 0.0006720430107526882, 
+        "MDI": 0.0013440860215053765, 
+        "MEDICAL": 0.0006720430107526882, 
+        "MEDICATIONS:": 0.0006720430107526882, 
+        "MI": 0.0006720430107526882, 
+        "March": 0.0006720430107526882, 
+        "Medical": 0.0006720430107526882, 
+        "Moreover": 0.0006720430107526882, 
+        "Multivitamin": 0.0006720430107526882, 
+        "NATHANAEL": 0.0006720430107526882, 
+        "NG": 0.0006720430107526882, 
+        "NPH": 0.0006720430107526882, 
+        "Neurological:": 0.0006720430107526882, 
+        "No": 0.0006720430107526882, 
+        "Non-ST": 0.0006720430107526882, 
+        "Nonsustained": 0.0006720430107526882, 
+        "Noted": 0.0006720430107526882, 
+        "Nystatin": 0.0006720430107526882, 
+        "O": 0.0006720430107526882, 
+        "O's": 0.0013440860215053765, 
+        "October": 0.0013440860215053765, 
+        "On": 0.0013440860215053765, 
+        "Onnau": 0.0006720430107526882, 
+        "Otherwise": 0.0006720430107526882, 
+        "Oxycodone": 0.0006720430107526882, 
+        "PAST": 0.0006720430107526882, 
+        "PLAN:": 0.0006720430107526882, 
+        "PO": 0.003360215053763441, 
+        "PO's.": 0.0006720430107526882, 
+        "PRINCIPAL": 0.0006720430107526882, 
+        "PROBLEMS": 0.0006720430107526882, 
+        "PT": 0.0006720430107526882, 
+        "PTT": 0.0006720430107526882, 
+        "Pepcid": 0.0006720430107526882, 
+        "Perforated": 0.0013440860215053765, 
+        "Peridex": 0.0006720430107526882, 
+        "Plan": 0.0013440860215053765, 
+        "Postoperatively": 0.0013440860215053765, 
+        "Prednisone": 0.0006720430107526882, 
+        "Pseudomonas": 0.002688172043010753, 
+        "Psychiatric": 0.0006720430107526882, 
+        "Quinla": 0.0006720430107526882, 
+        "RCMC": 0.0006720430107526882, 
+        "Radiology": 0.0006720430107526882, 
+        "Repeat": 0.0006720430107526882, 
+        "Report": 0.0006720430107526882, 
+        "Respiratory": 0.0006720430107526882, 
+        "Respiratory:": 0.0006720430107526882, 
+        "S/p": 0.0006720430107526882, 
+        "SCHILMOELLER": 0.0006720430107526882, 
+        "SERVICE:": 0.0006720430107526882, 
+        "Sarna": 0.0006720430107526882, 
+        "Sepsis.": 0.0006720430107526882, 
+        "Service": 0.0020161290322580645, 
+        "Signed": 0.0013440860215053765, 
+        "Sodium": 0.0006720430107526882, 
+        "Sputum": 0.0006720430107526882, 
+        "Staphylococcus": 0.0006720430107526882, 
+        "Staphylococcus.": 0.0006720430107526882, 
+        "Status": 0.0013440860215053765, 
+        "Status:": 0.0006720430107526882, 
+        "Steroid": 0.0006720430107526882, 
+        "Steroid-dependent": 0.0006720430107526882, 
+        "Sti": 0.0006720430107526882, 
+        "Summary": 0.0006720430107526882, 
+        "Surgical": 0.0020161290322580645, 
+        "T": 0.0006720430107526882, 
+        "T-tube": 0.004704301075268817, 
+        "T-tube.": 0.0006720430107526882, 
+        "Tel": 0.0006720430107526882, 
+        "Testicular": 0.0006720430107526882, 
+        "The": 0.002688172043010753, 
+        "Thiamine": 0.0006720430107526882, 
+        "This": 0.002688172043010753, 
+        "Thought": 0.0006720430107526882, 
+        "Transferred": 0.0006720430107526882, 
+        "Transient": 0.0006720430107526882, 
+        "Trazodone": 0.0006720430107526882, 
+        "Versut": 0.0006720430107526882, 
+        "We": 0.004704301075268817, 
+        "White": 0.0006720430107526882, 
+        "With": 0.0006720430107526882, 
+        "Xenaderm": 0.0006720430107526882, 
+        "a": 0.008064516129032258, 
+        "abdomen": 0.0013440860215053765, 
+        "abdominal": 0.0013440860215053765, 
+        "able": 0.0006720430107526882, 
+        "abnormalities.": 0.0006720430107526882, 
+        "above.": 0.0006720430107526882, 
+        "abscess;": 0.0006720430107526882, 
+        "acidosis;": 0.0006720430107526882, 
+        "acute": 0.0020161290322580645, 
+        "addition": 0.0006720430107526882, 
+        "adhesions": 0.0006720430107526882, 
+        "adjustment": 0.0013440860215053765, 
+        "admitted": 0.0006720430107526882, 
+        "advancing": 0.0006720430107526882, 
+        "after": 0.0013440860215053765, 
+        "air.": 0.0006720430107526882, 
+        "airways.": 0.0006720430107526882, 
+        "alert": 0.0006720430107526882, 
+        "allergies": 0.0006720430107526882, 
+        "along": 0.0006720430107526882, 
+        "alpha": 0.0006720430107526882, 
+        "also": 0.0013440860215053765, 
+        "amiodarone": 0.0006720430107526882, 
+        "an": 0.004032258064516129, 
+        "and": 0.02217741935483871, 
+        "anemia": 0.0006720430107526882, 
+        "anemic": 0.0006720430107526882, 
+        "antibiotics": 0.0013440860215053765, 
+        "antibiotics.": 0.0020161290322580645, 
+        "anxiety.": 0.0013440860215053765, 
+        "appeared": 0.0006720430107526882, 
+        "area": 0.0013440860215053765, 
+        "arterial": 0.0006720430107526882, 
+        "artery": 0.0020161290322580645, 
+        "as": 0.008064516129032258, 
+        "at": 0.004032258064516129, 
+        "atrial": 0.0006720430107526882, 
+        "attacks.": 0.0006720430107526882, 
+        "b.i.d.": 0.002688172043010753, 
+        "back": 0.0006720430107526882, 
+        "bacteremia.": 0.0006720430107526882, 
+        "baseline": 0.0006720430107526882, 
+        "be": 0.003360215053763441, 
+        "been": 0.004704301075268817, 
+        "bicarbonate": 0.0006720430107526882, 
+        "bleed": 0.0006720430107526882, 
+        "blisters.": 0.0006720430107526882, 
+        "blood": 0.0013440860215053765, 
+        "brief": 0.0006720430107526882, 
+        "broad-spectrum": 0.0006720430107526882, 
+        "but": 0.0013440860215053765, 
+        "by": 0.0013440860215053765, 
+        "calcium": 0.0006720430107526882, 
+        "cancer": 0.0006720430107526882, 
+        "cardiac": 0.0006720430107526882, 
+        "cardiomyopathy": 0.0006720430107526882, 
+        "ceftazidime": 0.002688172043010753, 
+        "ceftazidime.": 0.0013440860215053765, 
+        "cell": 0.0020161290322580645, 
+        "center": 0.0006720430107526882, 
+        "central": 0.0006720430107526882, 
+        "change-out": 0.0006720430107526882, 
+        "chemotherapy.": 0.0006720430107526882, 
+        "chloride": 0.0006720430107526882, 
+        "chronic": 0.006048387096774193, 
+        "clinical": 0.0006720430107526882, 
+        "clinically": 0.0006720430107526882, 
+        "clinically.": 0.0006720430107526882, 
+        "coagulation-negative": 0.0006720430107526882, 
+        "colectomy": 0.0020161290322580645, 
+        "colectomy.": 0.0006720430107526882, 
+        "collection": 0.002688172043010753, 
+        "collections": 0.0006720430107526882, 
+        "collections.": 0.0006720430107526882, 
+        "colon": 0.0013440860215053765, 
+        "colon.": 0.0013440860215053765, 
+        "colonic": 0.0006720430107526882, 
+        "colonization": 0.0006720430107526882, 
+        "colostomy": 0.0006720430107526882, 
+        "completing": 0.0006720430107526882, 
+        "condition": 0.0006720430107526882, 
+        "congestive": 0.0013440860215053765, 
+        "consistent": 0.0006720430107526882, 
+        "consult": 0.0006720430107526882, 
+        "consultation": 0.0006720430107526882, 
+        "continuation": 0.0006720430107526882, 
+        "continue": 0.005376344086021506, 
+        "continued": 0.002688172043010753, 
+        "contrast.": 0.0006720430107526882, 
+        "controlled": 0.0006720430107526882, 
+        "coronary": 0.0006720430107526882, 
+        "correlate": 0.0006720430107526882, 
+        "count": 0.0006720430107526882, 
+        "course": 0.0020161290322580645, 
+        "creatinine": 0.002688172043010753, 
+        "culture": 0.0006720430107526882, 
+        "cultures": 0.0013440860215053765, 
+        "current": 0.0006720430107526882, 
+        "daily": 0.0020161290322580645, 
+        "daily.": 0.003360215053763441, 
+        "day": 0.0006720430107526882, 
+        "decided": 0.0006720430107526882, 
+        "decreasing": 0.0006720430107526882, 
+        "degenerative": 0.0006720430107526882, 
+        "dependent": 0.0006720430107526882, 
+        "dependent.": 0.0006720430107526882, 
+        "despite": 0.0006720430107526882, 
+        "diagnosed": 0.0006720430107526882, 
+        "did": 0.0006720430107526882, 
+        "diet": 0.0006720430107526882, 
+        "digoxin.": 0.0006720430107526882, 
+        "discharge": 0.0006720430107526882, 
+        "discontinuation": 0.0006720430107526882, 
+        "discontinued": 0.0006720430107526882, 
+        "disease": 0.003360215053763441, 
+        "disease.": 0.0020161290322580645, 
+        "disease;": 0.0006720430107526882, 
+        "disorder": 0.0006720430107526882, 
+        "disorder.": 0.0006720430107526882, 
+        "distress": 0.0006720430107526882, 
+        "diurese": 0.0013440860215053765, 
+        "diverticula.": 0.0006720430107526882, 
+        "document:": 0.0006720430107526882, 
+        "doing": 0.0006720430107526882, 
+        "done": 0.0006720430107526882, 
+        "drain": 0.0006720430107526882, 
+        "drainage": 0.0006720430107526882, 
+        "drips.": 0.0006720430107526882, 
+        "drug": 0.0006720430107526882, 
+        "due": 0.0020161290322580645, 
+        "eScription": 0.0006720430107526882, 
+        "edema": 0.0006720430107526882, 
+        "ejection": 0.0013440860215053765, 
+        "electrolyte": 0.0006720430107526882, 
+        "elevation": 0.0020161290322580645, 
+        "empirically": 0.0006720430107526882, 
+        "enhancement": 0.0013440860215053765, 
+        "euglycemic.": 0.0006720430107526882, 
+        "even.": 0.0013440860215053765, 
+        "every": 0.0006720430107526882, 
+        "explored": 0.0006720430107526882, 
+        "extubation.": 0.0006720430107526882, 
+        "failure": 0.00739247311827957, 
+        "failure.": 0.0020161290322580645, 
+        "feeds": 0.0013440860215053765, 
+        "fever": 0.0006720430107526882, 
+        "fevers": 0.0013440860215053765, 
+        "fevers.": 0.0013440860215053765, 
+        "fibrillation": 0.0013440860215053765, 
+        "fibrillation.": 0.0006720430107526882, 
+        "flare.": 0.0006720430107526882, 
+        "floor": 0.0013440860215053765, 
+        "fluconazole": 0.0020161290322580645, 
+        "fluid": 0.003360215053763441, 
+        "fluids": 0.0006720430107526882, 
+        "follow": 0.0006720430107526882, 
+        "followup": 0.0020161290322580645, 
+        "for": 0.004032258064516129, 
+        "fraction": 0.0013440860215053765, 
+        "free": 0.0006720430107526882, 
+        "frequency": 0.0006720430107526882, 
+        "from": 0.002688172043010753, 
+        "fungemia.": 0.0006720430107526882, 
+        "further": 0.0020161290322580645, 
+        "future.": 0.0006720430107526882, 
+        "gastrointestinal": 0.0006720430107526882, 
+        "goal": 0.0006720430107526882, 
+        "going": 0.0006720430107526882, 
+        "good": 0.0006720430107526882, 
+        "had": 0.006720430107526882, 
+        "has": 0.006048387096774193, 
+        "have": 0.010752688172043012, 
+        "having": 0.0020161290322580645, 
+        "he": 0.00739247311827957, 
+        "health": 0.0006720430107526882, 
+        "heart": 0.002688172043010753, 
+        "hematocrit": 0.0013440860215053765, 
+        "hematocrits": 0.0006720430107526882, 
+        "hemodynamically": 0.0006720430107526882, 
+        "his": 0.010080645161290322, 
+        "history": 0.0020161290322580645, 
+        "hospital": 0.0006720430107526882, 
+        "however": 0.002688172043010753, 
+        "ileostomy": 0.0013440860215053765, 
+        "improved": 0.0006720430107526882, 
+        "improvement": 0.002688172043010753, 
+        "improving": 0.0006720430107526882, 
+        "improving.": 0.0006720430107526882, 
+        "in": 0.00739247311827957, 
+        "including": 0.0006720430107526882, 
+        "including:": 0.0006720430107526882, 
+        "infarction": 0.0006720430107526882, 
+        "infarction.": 0.0006720430107526882, 
+        "insomnia.": 0.0006720430107526882, 
+        "insufficiency": 0.0013440860215053765, 
+        "insufficiency.": 0.0006720430107526882, 
+        "insulin": 0.0006720430107526882, 
+        "intervention": 0.0006720430107526882, 
+        "into": 0.0006720430107526882, 
+        "intraabdominal": 0.0006720430107526882, 
+        "intubated": 0.0006720430107526882, 
+        "intubated.": 0.0006720430107526882, 
+        "is": 0.009408602150537635, 
+        "ischemic": 0.0013440860215053765, 
+        "issues": 0.0006720430107526882, 
+        "it": 0.0006720430107526882, 
+        "keep": 0.0020161290322580645, 
+        "known": 0.0006720430107526882, 
+        "last": 0.0006720430107526882, 
+        "levofloxacin.": 0.0013440860215053765, 
+        "liberated": 0.0006720430107526882, 
+        "likely": 0.0006720430107526882, 
+        "line.": 0.0006720430107526882, 
+        "lines": 0.0013440860215053765, 
+        "low-grade": 0.0013440860215053765, 
+        "lower": 0.0013440860215053765, 
+        "lysed.": 0.0006720430107526882, 
+        "mL": 0.0013440860215053765, 
+        "major": 0.0006720430107526882, 
+        "man": 0.0013440860215053765, 
+        "may": 0.0006720430107526882, 
+        "mcg": 0.0013440860215053765, 
+        "mechanical": 0.0013440860215053765, 
+        "medical": 0.0006720430107526882, 
+        "medications": 0.0006720430107526882, 
+        "mg": 0.006048387096774193, 
+        "mg/mL": 0.0006720430107526882, 
+        "mid": 0.0006720430107526882, 
+        "monitor": 0.0006720430107526882, 
+        "monitoring.": 0.0006720430107526882, 
+        "myocardial": 0.0013440860215053765, 
+        "needed": 0.0020161290322580645, 
+        "needed.": 0.0006720430107526882, 
+        "no": 0.0020161290322580645, 
+        "non-ST": 0.0013440860215053765, 
+        "normal": 0.0006720430107526882, 
+        "not": 0.0006720430107526882, 
+        "noted": 0.008736559139784945, 
+        "now": 0.0013440860215053765, 
+        "nutrition": 0.0006720430107526882, 
+        "obstructive": 0.002688172043010753, 
+        "obtained": 0.0013440860215053765, 
+        "of": 0.016129032258064516, 
+        "off": 0.002688172043010753, 
+        "on": 0.016129032258064516, 
+        "one": 0.0006720430107526882, 
+        "ongoing": 0.005376344086021506, 
+        "operating": 0.0013440860215053765, 
+        "or": 0.0006720430107526882, 
+        "orally": 0.0006720430107526882, 
+        "oriented": 0.0006720430107526882, 
+        "other": 0.0006720430107526882, 
+        "out": 0.0006720430107526882, 
+        "output": 0.0013440860215053765, 
+        "oxycodone": 0.0006720430107526882, 
+        "p.r.n.": 0.002688172043010753, 
+        "pain": 0.0013440860215053765, 
+        "pain.": 0.0013440860215053765, 
+        "paroxysmal": 0.0013440860215053765, 
+        "patient": 0.005376344086021506, 
+        "patient's": 0.0006720430107526882, 
+        "perforated": 0.0006720430107526882, 
+        "perforation": 0.0013440860215053765, 
+        "period": 0.0006720430107526882, 
+        "placed": 0.0006720430107526882, 
+        "placement": 0.0013440860215053765, 
+        "plan": 0.0013440860215053765, 
+        "platelets": 0.0006720430107526882, 
+        "pneumonia": 0.0020161290322580645, 
+        "pneumonia.": 0.0006720430107526882, 
+        "point": 0.0006720430107526882, 
+        "positive": 0.0013440860215053765, 
+        "possible": 0.0013440860215053765, 
+        "post": 0.005376344086021506, 
+        "postoperatively": 0.0006720430107526882, 
+        "potassium": 0.0006720430107526882, 
+        "pressors.": 0.0006720430107526882, 
+        "prior": 0.0013440860215053765, 
+        "procedurally.": 0.0006720430107526882, 
+        "prolonged": 0.0006720430107526882, 
+        "prophylaxis.": 0.0006720430107526882, 
+        "puffs": 0.0013440860215053765, 
+        "pulmonary": 0.003360215053763441, 
+        "q.4h.": 0.0013440860215053765, 
+        "q.6h.": 0.0006720430107526882, 
+        "q.a.m.": 0.0013440860215053765, 
+        "q.h.s.": 0.0006720430107526882, 
+        "q.i.d.": 0.0020161290322580645, 
+        "q.o.d.": 0.0006720430107526882, 
+        "quadrant": 0.0006720430107526882, 
+        "range.": 0.0006720430107526882, 
+        "rate.": 0.0006720430107526882, 
+        "regimen.": 0.0006720430107526882, 
+        "regular": 0.0006720430107526882, 
+        "reintubation": 0.0006720430107526882, 
+        "remained": 0.0006720430107526882, 
+        "remains": 0.0006720430107526882, 
+        "renal": 0.006048387096774193, 
+        "required": 0.0013440860215053765, 
+        "resolved.": 0.0006720430107526882, 
+        "resolving;": 0.0006720430107526882, 
+        "respiratory": 0.003360215053763441, 
+        "returned": 0.0006720430107526882, 
+        "revealed": 0.0006720430107526882, 
+        "rhythm.": 0.0006720430107526882, 
+        "right": 0.0006720430107526882, 
+        "room": 0.0013440860215053765, 
+        "rupture": 0.0006720430107526882, 
+        "scale": 0.0006720430107526882, 
+        "scale.": 0.0006720430107526882, 
+        "scan": 0.0013440860215053765, 
+        "secondary": 0.003360215053763441, 
+        "sedative": 0.0006720430107526882, 
+        "sensitive": 0.0006720430107526882, 
+        "sepsis": 0.0006720430107526882, 
+        "several": 0.0006720430107526882, 
+        "shore": 0.0006720430107526882, 
+        "sigmoid": 0.0020161290322580645, 
+        "significant": 0.0006720430107526882, 
+        "signs": 0.0006720430107526882, 
+        "sinus": 0.0006720430107526882, 
+        "sliding": 0.0013440860215053765, 
+        "slow": 0.0013440860215053765, 
+        "solution": 0.0006720430107526882, 
+        "some": 0.0013440860215053765, 
+        "sputum": 0.0013440860215053765, 
+        "sputum.": 0.0006720430107526882, 
+        "stable": 0.0013440860215053765, 
+        "stable.": 0.0006720430107526882, 
+        "standpoint": 0.0006720430107526882, 
+        "start": 0.0013440860215053765, 
+        "started": 0.0006720430107526882, 
+        "starting": 0.0006720430107526882, 
+        "status": 0.003360215053763441, 
+        "stay": 0.0006720430107526882, 
+        "steroid": 0.0013440860215053765, 
+        "subcutaneously": 0.0020161290322580645, 
+        "supratherapeutic": 0.0006720430107526882, 
+        "surgical": 0.0006720430107526882, 
+        "suspension": 0.0006720430107526882, 
+        "symptoms.": 0.0006720430107526882, 
+        "t.i.d.": 0.0006720430107526882, 
+        "tachycardia.": 0.0006720430107526882, 
+        "tagged": 0.0013440860215053765, 
+        "taken": 0.0006720430107526882, 
+        "temperatures": 0.0013440860215053765, 
+        "tendon": 0.0006720430107526882, 
+        "that": 0.0006720430107526882, 
+        "the": 0.014112903225806451, 
+        "there": 0.0006720430107526882, 
+        "these": 0.0006720430107526882, 
+        "this": 0.002688172043010753, 
+        "thought": 0.0006720430107526882, 
+        "time.": 0.0006720430107526882, 
+        "titrate": 0.0006720430107526882, 
+        "to": 0.03494623655913978, 
+        "tolerate": 0.0006720430107526882, 
+        "tolerated": 0.0006720430107526882, 
+        "tolerated.": 0.0006720430107526882, 
+        "topically": 0.0020161290322580645, 
+        "toxicity.": 0.0006720430107526882, 
+        "tracheostomy": 0.0013440860215053765, 
+        "tracheostomy.": 0.0013440860215053765, 
+        "transfer": 0.0006720430107526882, 
+        "transferred": 0.0013440860215053765, 
+        "treated": 0.0006720430107526882, 
+        "treatments": 0.0006720430107526882, 
+        "tube": 0.002688172043010753, 
+        "units": 0.0013440860215053765, 
+        "upper": 0.0006720430107526882, 
+        "urine": 0.0006720430107526882, 
+        "vancomycin": 0.0020161290322580645, 
+        "vancomycin.": 0.0006720430107526882, 
+        "vasopressin.": 0.0006720430107526882, 
+        "ventilation": 0.0006720430107526882, 
+        "ventilator.": 0.0006720430107526882, 
+        "ventricular": 0.0006720430107526882, 
+        "via": 0.0013440860215053765, 
+        "warrant": 0.0006720430107526882, 
+        "was": 0.016801075268817203, 
+        "watch": 0.0006720430107526882, 
+        "wean": 0.0013440860215053765, 
+        "wean.": 0.0006720430107526882, 
+        "week.": 0.0006720430107526882, 
+        "weeks.": 0.0006720430107526882, 
+        "well": 0.002688172043010753, 
+        "were": 0.0006720430107526882, 
+        "where": 0.0006720430107526882, 
+        "which": 0.0013440860215053765, 
+        "white": 0.0006720430107526882, 
+        "who": 0.0013440860215053765, 
+        "will": 0.004704301075268817, 
+        "with": 0.016801075268817203, 
+        "would": 0.0006720430107526882, 
+        "x-ray": 0.0006720430107526882, 
+        "yielded": 0.0006720430107526882, 
+        "|": 0.006048387096774193
+    }
+}

@@ -1,0 +1,3717 @@
+{
+    "bi": {
+        "#asthma#": {
+            "(": 0.1, 
+            ")": 0.2, 
+            "DIAGNOSIS:": 0.1, 
+            "URTI.": 0.1, 
+            "Usual": 0.1, 
+            "carpets.": 0.1, 
+            "with": 0.2, 
+            "|": 0.1
+        }, 
+        "#obese#": {
+            "(": 0.25, 
+            "Morbid": 0.25, 
+            "Morbidly": 0.25, 
+            "morbid": 0.25
+        }, 
+        "(": {
+            "#asthma#": 0.05, 
+            "#obese#": 0.05, 
+            "500/50": 0.05, 
+            "D": 0.05, 
+            "Depression": 0.05, 
+            "FLONASE": 0.05, 
+            "HTN": 0.05, 
+            "LBP": 0.05, 
+            "M.D.": 0.05, 
+            "NEXIUM": 0.05, 
+            "OSA": 0.05, 
+            "Required": 0.05, 
+            "TREATMENTS/PROCEDURES": 0.05, 
+            "Today": 0.1, 
+            "abuse": 0.05, 
+            "capsulitis": 0.05, 
+            "medicine": 0.05, 
+            "tear": 0.05, 
+            "tolerated": 0.05
+        }, 
+        ")": {
+            "#asthma#": 0.05263157894736842, 
+            "#obese#": 0.05263157894736842, 
+            "7/18": 0.10526315789473684, 
+            "Admission": 0.05263157894736842, 
+            "ESOMEPRAZOLE": 0.05263157894736842, 
+            "IU": 0.05263157894736842, 
+            "JW53": 0.05263157894736842, 
+            "O.R.": 0.05263157894736842, 
+            "PROPIONATE/...": 0.05263157894736842, 
+            "SPRAY": 0.05263157894736842, 
+            "abuse": 0.05263157894736842, 
+            "apnea": 0.05263157894736842, 
+            "capsulitis": 0.05263157894736842, 
+            "depression": 0.05263157894736842, 
+            "hypertension": 0.05263157894736842, 
+            "pain": 0.05263157894736842, 
+            "tear": 0.05263157894736842, 
+            "vasotec": 0.05263157894736842
+        }, 
+        ").": {
+            "tightness": 1.0
+        }, 
+        "):": {
+            "S": 0.5, 
+            "approximate": 0.5
+        }, 
+        "******": {
+            "10/15/2005": 0.3333333333333333, 
+            "AM": 0.3333333333333333, 
+            "ORDERS": 0.3333333333333333
+        }, 
+        "+": {
+            "CA": 0.5, 
+            "CARB": 0.5
+        }, 
+        ",": {
+            "#obese#": 0.0425531914893617, 
+            "140-160": 0.02127659574468085, 
+            "200": 0.02127659574468085, 
+            "ANIMALS": 0.02127659574468085, 
+            "Ab": 0.02127659574468085, 
+            "All:theophylline": 0.02127659574468085, 
+            "Breath": 0.02127659574468085, 
+            "Complications": 0.02127659574468085, 
+            "DIAGNOSIS;Conditions": 0.02127659574468085, 
+            "FLOWERS": 0.02127659574468085, 
+            "GONG": 0.02127659574468085, 
+            "HANS": 0.02127659574468085, 
+            "HTN": 0.02127659574468085, 
+            "Infections": 0.02127659574468085, 
+            "LOBSTER": 0.02127659574468085, 
+            "MCCOY": 0.02127659574468085, 
+            "NUSZ": 0.02127659574468085, 
+            "OA": 0.02127659574468085, 
+            "OSA": 0.02127659574468085, 
+            "REYNALDO": 0.02127659574468085, 
+            "ampicillin": 0.02127659574468085, 
+            "bation": 0.02127659574468085, 
+            "colds": 0.02127659574468085, 
+            "consulted": 0.02127659574468085, 
+            "d": 0.02127659574468085, 
+            "discharge": 0.02127659574468085, 
+            "exp": 0.02127659574468085, 
+            "heart": 0.02127659574468085, 
+            "intubated": 0.02127659574468085, 
+            "mg": 0.02127659574468085, 
+            "movement": 0.02127659574468085, 
+            "nebs": 0.02127659574468085, 
+            "nexium": 0.02127659574468085, 
+            "nose": 0.02127659574468085, 
+            "pets": 0.02127659574468085, 
+            "qid": 0.02127659574468085, 
+            "sbp<100": 0.0425531914893617, 
+            "scheduled": 0.0425531914893617, 
+            "sentences": 0.02127659574468085, 
+            "steroids": 0.02127659574468085, 
+            "taper": 0.0425531914893617, 
+            "tid": 0.02127659574468085, 
+            "x5d": 0.02127659574468085
+        }, 
+        "-": {
+            "q1hr": 1.0
+        }, 
+        "->urgent": {
+            "wheezing": 1.0
+        }, 
+        "/": {
+            "House": 1.0
+        }, 
+        "021-25-90-4": {
+            "AMBROSE": 1.0
+        }, 
+        "1": {
+            ")": 1.0
+        }, 
+        "1+pedal": {
+            "wheezing": 1.0
+        }, 
+        "1-2": {
+            ")": 1.0
+        }, 
+        "1/1/2005": {
+            "Date:": 1.0
+        }, 
+        "10": {
+            "OXYCODONE": 0.3333333333333333, 
+            "oxycodone": 0.3333333333333333, 
+            "until": 0.3333333333333333
+        }, 
+        "10/11/2005": {
+            "|": 1.0
+        }, 
+        "10/15/2005": {
+            "Date:": 1.0
+        }, 
+        "10:11": {
+            "@": 1.0
+        }, 
+        "11/9/05": {
+            "Hankel": 1.0
+        }, 
+        "12:00": {
+            "AT": 1.0
+        }, 
+        "12:00:00": {
+            "10/11/2005": 1.0
+        }, 
+        "139/29": {
+            "73": 1.0
+        }, 
+        "140-160": {
+            "consistently": 1.0
+        }, 
+        "14647242": {
+            "|": 1.0
+        }, 
+        "1hr": {
+            "Q": 1.0
+        }, 
+        "2": {
+            ")": 1.0
+        }, 
+        "2.5": {
+            "NEBULIZER": 1.0
+        }, 
+        "2/6/05": {
+            "Figary": 1.0
+        }, 
+        "20": {
+            ",": 0.2, 
+            "139/29": 0.2, 
+            "HCL": 0.2, 
+            "from": 0.2, 
+            "nebs/methadone": 0.2
+        }, 
+        "200": {
+            "flow": 1.0
+        }, 
+        "25": {
+            "HYDROCHLOROTHIAZIDE": 1.0
+        }, 
+        "250": {
+            ",": 1.0
+        }, 
+        "2889120": {
+            "|": 1.0
+        }, 
+        "30": {
+            "to": 1.0
+        }, 
+        "380.": {
+            "PF": 1.0
+        }, 
+        "4": {
+            "):": 0.5, 
+            ",": 0.5
+        }, 
+        "40": {
+            ")": 0.2, 
+            ",": 0.2, 
+            "MALEATE": 0.2, 
+            "to": 0.4
+        }, 
+        "420-450.": {
+            "PF": 1.0
+        }, 
+        "5/24/05": {
+            ")": 0.5, 
+            "ON:": 0.5
+        }, 
+        "500": {
+            "GLUCONATE": 1.0
+        }, 
+        "500/50": {
+            "DISKUS": 1.0
+        }, 
+        "51": {
+            "COURSE": 1.0
+        }, 
+        "60": {
+            "Instructions:": 0.5, 
+            "PREDNISONE": 0.5
+        }, 
+        "600MG": {
+            "(": 1.0
+        }, 
+        "7/18": {
+            "(": 1.0
+        }, 
+        "73": {
+            "97.6": 1.0
+        }, 
+        "768085696": {
+            "": 1.0
+        }, 
+        "97%": {
+            "20": 1.0
+        }, 
+        "97.6": {
+            "PE": 1.0
+        }, 
+        ";Responsible": {
+            "DIAGNOSIS": 1.0
+        }, 
+        "@": {
+            "5/24/05": 1.0
+        }, 
+        "A": {
+            "GET": 1.0
+        }, 
+        "ACTIVITY:": {
+            "fat": 1.0
+        }, 
+        "ADDITIONAL": {
+            "Code:full": 1.0
+        }, 
+        "ADMIT": {
+            "THEOPHYLLINE": 1.0
+        }, 
+        "ADVAIR": {
+            "4": 1.0
+        }, 
+        "ALBUTEROL": {
+            "MEDICATIONS:": 1.0
+        }, 
+        "ALLERGY:": {
+            ",": 1.0
+        }, 
+        "AM": {
+            "10:11": 0.5, 
+            "12:00:00": 0.5
+        }, 
+        "AMBROSE": {
+            ",": 1.0
+        }, 
+        "AND": {
+            "OPERATIONS": 0.5, 
+            "POTASSIUM": 0.5
+        }, 
+        "ANIMALS": {
+            "STUFFED": 1.0
+        }, 
+        "APPOINTMENT": {
+            "YOUR": 1.0
+        }, 
+        "APPOINTMENT(": {
+            "UP": 1.0
+        }, 
+        "AS": {
+            "USED": 1.0
+        }, 
+        "AT": {
+            "5/24/05": 1.0
+        }, 
+        "Ab": {
+            "Aspergillus": 1.0
+        }, 
+        "Adhesive": {
+            ")": 1.0
+        }, 
+        "Admission": {
+            "Causing": 0.5, 
+            "|": 0.5
+        }, 
+        "After": {
+            ";Responsible": 1.0
+        }, 
+        "All:theophylline": {
+            "ca": 1.0
+        }, 
+        "Aspergillus": {
+            "and": 1.0
+        }, 
+        "Attending": {
+            "UPON": 1.0
+        }, 
+        "Attending:": {
+            "YES": 1.0
+        }, 
+        "BE": {
+            "ORDER": 1.0
+        }, 
+        "BEFORE": {
+            "TUESDAY": 1.0
+        }, 
+        "BID": {
+            "INH": 0.3333333333333333, 
+            "PO": 0.6666666666666666
+        }, 
+        "BLOOD": {
+            "A": 1.0
+        }, 
+        "BRIEF": {
+            "none": 1.0
+        }, 
+        "BY:": {
+            "ENTERED": 1.0
+        }, 
+        "Baseline": {
+            ").": 1.0
+        }, 
+        "Bilat": {
+            ")": 1.0
+        }, 
+        "Breath": {
+            "of": 1.0
+        }, 
+        "CA": {
+            "ELEM": 1.0
+        }, 
+        "CALCIUM": {
+            "BID": 1.0
+        }, 
+        "CARB": {
+            "CALCIUM": 1.0
+        }, 
+        "CC:wheezing": {
+            "COURSE:": 1.0
+        }, 
+        "CHECK": {
+            "TO": 1.0
+        }, 
+        "CODE": {
+            "M.D.": 1.0
+        }, 
+        "COMMENTS:": {
+            "ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            "DISCHARGE": 1.0
+        }, 
+        "CONTINGENT": {
+            "PM": 1.0
+        }, 
+        "COURSE": {
+            "HOSPITAL": 1.0
+        }, 
+        "COURSE:": {
+            "HOSPITAL": 1.0
+        }, 
+        "CREATININE": {
+            "AND": 1.0
+        }, 
+        "CV:HTN:continued": {
+            "discharge.": 1.0
+        }, 
+        "CXR": {
+            "250": 1.0
+        }, 
+        "Causing": {
+            "for": 1.0
+        }, 
+        "Code:full": {
+            "methadone": 1.0
+        }, 
+        "Complications": {
+            ",": 1.0
+        }, 
+        "D": {
+            "+": 1.0
+        }, 
+        "D/200": {
+            "VIT": 1.0
+        }, 
+        "D/C": {
+            "THE": 0.5, 
+            "WILL": 0.5
+        }, 
+        "DARIO": {
+            ",": 1.0
+        }, 
+        "DIAGNOSIS": {
+            "DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "OTHER": 1.0
+        }, 
+        "DIET:": {
+            "BID": 1.0
+        }, 
+        "DIS": {
+            "|": 1.0
+        }, 
+        "DISCHARGE": {
+            "******": 0.16666666666666666, 
+            "MED": 0.16666666666666666, 
+            "OF": 0.16666666666666666, 
+            "PRINCIPAL": 0.16666666666666666, 
+            "WIMBS": 0.16666666666666666, 
+            "services": 0.16666666666666666
+        }, 
+        "DISKUS": {
+            "ADVAIR": 1.0
+        }, 
+        "DISPOSITION:": {
+            "code": 1.0
+        }, 
+        "DO/PLAN:": {
+            "TO": 1.0
+        }, 
+        "DR": {
+            "WITH": 1.0
+        }, 
+        "DRAW": {
+            "BLOOD": 1.0
+        }, 
+        "Date:": {
+            "Admission": 0.5, 
+            "Discharge": 0.5
+        }, 
+        "Depression": {
+            ")": 1.0
+        }, 
+        "Discharge": {
+            "Status:": 1.0
+        }, 
+        "Doses": {
+            "of": 1.0
+        }, 
+        "Dr": {
+            "):": 0.3333333333333333, 
+            ",": 0.3333333333333333, 
+            "with": 0.3333333333333333
+        }, 
+        "ELEM": {
+            "600MG": 1.0
+        }, 
+        "ENALAPRIL": {
+            "H.O.": 1.0
+        }, 
+        "END": {
+            "******": 1.0
+        }, 
+        "ENTERED": {
+            "summary": 1.0
+        }, 
+        "ESOMEPRAZOLE": {
+            "(": 1.0
+        }, 
+        "F": {
+            "51": 1.0
+        }, 
+        "FLONASE": {
+            "stop": 1.0
+        }, 
+        "FLOWERS": {
+            ",": 1.0
+        }, 
+        "FLUTICASONE": {
+            "(": 1.0
+        }, 
+        "FOLLOW": {
+            "exercise": 1.0
+        }, 
+        "Figary": {
+            "Dr": 1.0
+        }, 
+        "Full": {
+            "STATUS:": 1.0
+        }, 
+        "GET": {
+            "TO": 1.0
+        }, 
+        "GLUCONATE": {
+            "MAGNESIUM": 1.0
+        }, 
+        "GONG": {
+            "******": 1.0
+        }, 
+        "Get": {
+            "DO/PLAN:": 1.0
+        }, 
+        "H.O.": {
+            "call": 1.0
+        }, 
+        "HANS": {
+            "DARIO": 1.0
+        }, 
+        "HCL": {
+            "METHADONE": 1.0
+        }, 
+        "HO": {
+            "call": 1.0
+        }, 
+        "HOLD": {
+            ")": 0.5, 
+            "QD": 0.5
+        }, 
+        "HOSPITAL": {
+            "OF": 0.3333333333333333, 
+            "UNIVERSITY": 0.3333333333333333, 
+            "infiltrates": 0.3333333333333333
+        }, 
+        "HPI:2": {
+            "CC:wheezing": 1.0
+        }, 
+        "HTN": {
+            ",": 0.5, 
+            "Treatment/Stay": 0.5
+        }, 
+        "HYDROCHLOROTHIAZIDE": {
+            "HO": 1.0
+        }, 
+        "Hankel": {
+            "Dr": 1.0
+        }, 
+        "Home": {
+            "DISPOSITION:": 1.0
+        }, 
+        "House": {
+            "DIET:": 1.0
+        }, 
+        "IF:": {
+            "HOLD": 1.0
+        }, 
+        "IN": {
+            "NOT": 1.0
+        }, 
+        "INH": {
+            "PUFF": 0.5, 
+            "SPRAY": 0.5
+        }, 
+        "IU": {
+            "D/200": 1.0
+        }, 
+        "If": {
+            "Instructions:": 1.0
+        }, 
+        "IgE": {
+            "checking": 1.0
+        }, 
+        "Infections": {
+            ",": 1.0
+        }, 
+        "Instructions:": {
+            ")": 0.5, 
+            "Wheezing": 0.5
+        }, 
+        "JW53": {
+            "(": 1.0
+        }, 
+        "LBP": {
+            ")": 0.5, 
+            "chronic": 0.5
+        }, 
+        "LOBSTER": {
+            "ALLERGY:": 1.0
+        }, 
+        "Lola": {
+            "Dr": 1.0
+        }, 
+        "Low": {
+            "/": 1.0
+        }, 
+        "Lungs:prolonged": {
+            "muscles": 1.0
+        }, 
+        "M.D.": {
+            ",": 1.0
+        }, 
+        "MAGNESIUM": {
+            "HO": 1.0
+        }, 
+        "MALEATE": {
+            "ENALAPRIL": 1.0
+        }, 
+        "MCCOY": {
+            "BY:": 1.0
+        }, 
+        "MED": {
+            "Service:": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "DISCHARGE": 1.0
+        }, 
+        "METHADONE": {
+            "BID": 1.0
+        }, 
+        "MG": {
+            "10": 0.125, 
+            "2.5": 0.125, 
+            "20": 0.125, 
+            "25": 0.125, 
+            "40": 0.25, 
+            "500": 0.125, 
+            "60": 0.125
+        }, 
+        "Meds:vasotec/hctz/advair/albuterol": {
+            "use": 1.0
+        }, 
+        "Morbid": {
+            ")": 1.0
+        }, 
+        "Morbidly": {
+            "RA": 1.0
+        }, 
+        "NASAL": {
+            "FLUTICASONE": 1.0
+        }, 
+        "NEB": {
+            "MG": 1.0
+        }, 
+        "NEBULIZER": {
+            "ALBUTEROL": 1.0
+        }, 
+        "NEED": {
+            "YOU": 1.0
+        }, 
+        "NEXIUM": {
+            "QD": 1.0
+        }, 
+        "NOT": {
+            "(": 1.0
+        }, 
+        "NUSZ": {
+            "Attending:": 1.0
+        }, 
+        "Neuro:continued": {
+            "qd.": 1.0
+        }, 
+        "No": {
+            "Lola": 1.0
+        }, 
+        "Number": {
+            "stuffiness": 1.0
+        }, 
+        "O.R.": {
+            "IN": 1.0
+        }, 
+        "OA": {
+            ",": 1.0
+        }, 
+        "OF": {
+            "END": 0.5, 
+            "RESUME": 0.5
+        }, 
+        "ON": {
+            "CREATININE": 1.0
+        }, 
+        "ON:": {
+            "PATIENT": 1.0
+        }, 
+        "OPERATIONS": {
+            ")": 1.0
+        }, 
+        "ORDER": {
+            "D/C": 1.0
+        }, 
+        "ORDERS": {
+            "DISCHARGE": 1.0
+        }, 
+        "OSA": {
+            ")": 0.5, 
+            ",": 0.5
+        }, 
+        "OTHER": {
+            "exacerbation": 0.5, 
+            "none": 0.5
+        }, 
+        "OXYCODONE": {
+            "TID": 1.0
+        }, 
+        "On": {
+            "420-450.": 1.0
+        }, 
+        "Other:nasal": {
+            "PRN": 1.0
+        }, 
+        "PATIENT": {
+            "DISCHARGE": 1.0
+        }, 
+        "PCP": {
+            "saw": 1.0
+        }, 
+        "PE": {
+            "lobster": 1.0
+        }, 
+        "PF": {
+            "Baseline": 0.5, 
+            "clear": 0.5
+        }, 
+        "PM": {
+            "12:00": 1.0
+        }, 
+        "PO": {
+            "MG": 0.875, 
+            "TAB": 0.125
+        }, 
+        "POTASSIUM": {
+            "YOUR": 1.0
+        }, 
+        "PREDNISONE": {
+            "Pain": 1.0
+        }, 
+        "PRINCIPAL": {
+            "exacerbation": 1.0
+        }, 
+        "PRN": {
+            "1hr": 0.3333333333333333, 
+            "Q4H": 0.3333333333333333, 
+            "QD": 0.3333333333333333
+        }, 
+        "PROCEDURES:": {
+            "AND": 1.0
+        }, 
+        "PROPIONATE/...": {
+            "FLUTICASONE": 1.0
+        }, 
+        "PUFF": {
+            "1": 1.0
+        }, 
+        "Pain": {
+            "PRN": 1.0
+        }, 
+        "Peak": {
+            "pitting": 1.0
+        }, 
+        "Pulmonary": {
+            "380.": 1.0
+        }, 
+        "Q": {
+            "NEB": 1.0
+        }, 
+        "Q4H": {
+            "PO": 1.0
+        }, 
+        "QD": {
+            "INH": 0.2, 
+            "PO": 0.8
+        }, 
+        "RA": {
+            "97%": 1.0
+        }, 
+        "RESUME": {
+            "BRIEF": 1.0
+        }, 
+        "REYNALDO": {
+            ",": 1.0
+        }, 
+        "Racemic": {
+            "advair.": 1.0
+        }, 
+        "Rd.": {
+            "Sconrock": 1.0
+        }, 
+        "Report": {
+            "1/1/2005": 1.0
+        }, 
+        "Required": {
+            "Doses": 1.0
+        }, 
+        "Resume": {
+            "ACTIVITY:": 1.0
+        }, 
+        "Rx": {
+            ")": 1.0
+        }, 
+        "S": {
+            "APPOINTMENT(": 1.0
+        }, 
+        "SBP": {
+            "patients": 1.0
+        }, 
+        "SOB/wheezing": {
+            "worsening": 1.0
+        }, 
+        "SPRAY": {
+            "1-2": 0.5, 
+            "NASAL": 0.5
+        }, 
+        "STATUS:": {
+            "CODE": 1.0
+        }, 
+        "STUFFED": {
+            ",": 1.0
+        }, 
+        "SUMMARY:": {
+            "D/C": 1.0
+        }, 
+        "Sconrock": {
+            "021-25-90-4": 1.0
+        }, 
+        "Service:": {
+            "Rd.": 1.0
+        }, 
+        "Shortness": {
+            "PRN": 1.0
+        }, 
+        "Stable": {
+            "CONDITION:": 1.0
+        }, 
+        "Starting": {
+            "QD": 1.0
+        }, 
+        "Status:": {
+            "Report": 1.0
+        }, 
+        "Study": {
+            "After": 1.0
+        }, 
+        "TAB": {
+            "2": 1.0
+        }, 
+        "THE": {
+            "AS": 1.0
+        }, 
+        "THEOPHYLLINE": {
+            ",": 1.0
+        }, 
+        "TID": {
+            "PO": 1.0
+        }, 
+        "TO": {
+            "DRAW": 0.3333333333333333, 
+            "NEED": 0.3333333333333333, 
+            "Stable": 0.3333333333333333
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "OTHER": 1.0
+        }, 
+        "TUESDAY": {
+            "ON": 1.0
+        }, 
+        "The": {
+            "hctz.": 1.0
+        }, 
+        "Today": {
+            "Starting": 1.0
+        }, 
+        "Treatment/Stay": {
+            "affecting": 1.0
+        }, 
+        "Tuesday": {
+            "on": 1.0
+        }, 
+        "UNIVERSITY": {
+            "WESTGIFF": 1.0
+        }, 
+        "UP": {
+            "FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "CONTINGENT": 1.0
+        }, 
+        "URTI.": {
+            "by": 1.0
+        }, 
+        "USED": {
+            "BE": 1.0
+        }, 
+        "Usual": {
+            "nebs.": 1.0
+        }, 
+        "VH": {
+            "|": 1.0
+        }, 
+        "VIT": {
+            "+": 1.0
+        }, 
+        "WESTGIFF": {
+            "at": 1.0
+        }, 
+        "WILL": {
+            "evaluation": 1.0
+        }, 
+        "WIMBS": {
+            "DR": 1.0
+        }, 
+        "WITH": {
+            "APPOINTMENT": 1.0
+        }, 
+        "We": {
+            "COMMENTS:": 0.5, 
+            "wheezing.": 0.5
+        }, 
+        "Well": {
+            "tightness.": 1.0
+        }, 
+        "Wheezing": {
+            ",": 1.0
+        }, 
+        "YES": {
+            "SUMMARY:": 1.0
+        }, 
+        "YOU": {
+            "day.": 1.0
+        }, 
+        "YOUR": {
+            "BEFORE": 0.5, 
+            "CHECK": 0.5
+        }, 
+        "a": {
+            "once": 0.5, 
+            "twice": 0.5
+        }, 
+        "abuse": {
+            "opioid": 0.5, 
+            "substance": 0.5
+        }, 
+        "accessory": {
+            "no": 1.0
+        }, 
+        "acid": {
+            "felt": 0.5, 
+            "stomach": 0.5
+        }, 
+        "adequate": {
+            ",": 1.0
+        }, 
+        "adhesive": {
+            "(": 1.0
+        }, 
+        "admitted": {
+            "#asthma#": 1.0
+        }, 
+        "advair.": {
+            "continued": 1.0
+        }, 
+        "affecting": {
+            ",": 1.0
+        }, 
+        "ago": {
+            "days": 1.0
+        }, 
+        "air": {
+            "adequate": 1.0
+        }, 
+        "airway": {
+            "upper": 1.0
+        }, 
+        "alb": {
+            ",": 1.0
+        }, 
+        "ampicillin": {
+            "on": 1.0
+        }, 
+        "and": {
+            "IgE": 0.16666666666666666, 
+            "LBP": 0.16666666666666666, 
+            "cough": 0.16666666666666666, 
+            "creatinine": 0.16666666666666666, 
+            "flowers": 0.16666666666666666, 
+            "oxycodone": 0.16666666666666666
+        }, 
+        "apnea": {
+            "sleep": 1.0
+        }, 
+        "appointment": {
+            "your": 1.0
+        }, 
+        "approximate": {
+            "(": 1.0
+        }, 
+        "as": {
+            "day": 1.0
+        }, 
+        "at": {
+            "pending": 0.5, 
+            "potassium": 0.5
+        }, 
+        "back": {
+            "low": 1.0
+        }, 
+        "bation": {
+            "exacer": 1.0
+        }, 
+        "be": {
+            "might": 1.0
+        }, 
+        "been": {
+            "have": 1.0
+        }, 
+        "before": {
+            "Tuesday": 1.0
+        }, 
+        "blood": {
+            "Get": 0.5, 
+            "your": 0.5
+        }, 
+        "but": {
+            ",": 1.0
+        }, 
+        "by": {
+            "triggered": 1.0
+        }, 
+        "ca": {
+            ",": 1.0
+        }, 
+        "call": {
+            ",": 0.6666666666666666, 
+            "-": 0.3333333333333333
+        }, 
+        "capsulitis": {
+            "Adhesive": 0.5, 
+            "adhesive": 0.5
+        }, 
+        "care": {
+            "->urgent": 1.0
+        }, 
+        "carpets.": {
+            "dusty": 1.0
+        }, 
+        "checking": {
+            "recommended": 1.0
+        }, 
+        "chest": {
+            ",": 0.5, 
+            "wheezing": 0.5
+        }, 
+        "chol/low": {
+            "Low": 1.0
+        }, 
+        "chronic": {
+            ",": 1.0
+        }, 
+        "clear": {
+            "lungs": 1.0
+        }, 
+        "code": {
+            "Full": 1.0
+        }, 
+        "colds": {
+            "triggers": 1.0
+        }, 
+        "consistently": {
+            "was": 1.0
+        }, 
+        "consulted": {
+            "service": 1.0
+        }, 
+        "continued": {
+            ",": 1.0
+        }, 
+        "contributing": {
+            "be": 1.0
+        }, 
+        "cough": {
+            "got": 1.0
+        }, 
+        "creatinine": {
+            "for": 1.0
+        }, 
+        "cuff": {
+            "rotator": 1.0
+        }, 
+        "d": {
+            "x5": 1.0
+        }, 
+        "day": {
+            "HPI:2": 0.3333333333333333, 
+            "On": 0.3333333333333333, 
+            "a": 0.3333333333333333
+        }, 
+        "day.": {
+            "a": 1.0
+        }, 
+        "days": {
+            "10": 0.5, 
+            "4": 0.5
+        }, 
+        "depression": {
+            "(": 1.0
+        }, 
+        "despite": {
+            "SOB/wheezing": 1.0
+        }, 
+        "developed": {
+            "ago": 0.5, 
+            "still": 0.5
+        }, 
+        "dictated": {
+            "No": 1.0
+        }, 
+        "diffuse": {
+            ",": 1.0
+        }, 
+        "discharge": {
+            "of": 1.0
+        }, 
+        "discharge.": {
+            "of": 1.0
+        }, 
+        "draw": {
+            "blood": 1.0
+        }, 
+        "due": {
+            "been": 1.0
+        }, 
+        "dusty": {
+            "and": 1.0
+        }, 
+        "edema": {
+            "1+pedal": 1.0
+        }, 
+        "epinephrine": {
+            "Racemic": 1.0
+        }, 
+        "evaluation": {
+            "Attending": 1.0
+        }, 
+        "exacer": {
+            "#asthma#": 1.0
+        }, 
+        "exacerbation": {
+            "#asthma#": 1.0
+        }, 
+        "exercise": {
+            "regular": 1.0
+        }, 
+        "exp": {
+            "Lungs:prolonged": 1.0
+        }, 
+        "fat": {
+            "sat.": 1.0
+        }, 
+        "feet": {
+            "of": 1.0
+        }, 
+        "felt": {
+            "we": 1.0
+        }, 
+        "flow": {
+            "Peak": 1.0
+        }, 
+        "flowers": {
+            ",": 1.0
+        }, 
+        "for": {
+            "Study": 0.25, 
+            "draw": 0.25, 
+            "epinephrine": 0.25, 
+            "nexium": 0.25
+        }, 
+        "frequently": {
+            "more": 1.0
+        }, 
+        "from": {
+            "vasotec": 1.0
+        }, 
+        "got": {
+            "care": 0.5, 
+            "when": 0.5
+        }, 
+        "had": {
+            "pt": 1.0
+        }, 
+        "have": {
+            "We": 0.5, 
+            "may": 0.5
+        }, 
+        "hctz.": {
+            "home": 1.0
+        }, 
+        "heart": {
+            "racing": 1.0
+        }, 
+        "her": {
+            "increased": 1.0
+        }, 
+        "history": {
+            "day": 1.0
+        }, 
+        "home": {
+            "CV:HTN:continued": 0.3333333333333333, 
+            "Neuro:continued": 0.3333333333333333, 
+            "despite": 0.3333333333333333
+        }, 
+        "hosp/icu": {
+            "multiple": 1.0
+        }, 
+        "hypertension": {
+            "(": 1.0
+        }, 
+        "in": {
+            "(": 1.0
+        }, 
+        "increased": {
+            "We": 0.3333333333333333, 
+            "have": 0.3333333333333333, 
+            "we": 0.3333333333333333
+        }, 
+        "infiltrates": {
+            "no": 1.0
+        }, 
+        "intubated": {
+            "never": 1.0
+        }, 
+        "likely": {
+            ",": 1.0
+        }, 
+        "lobster": {
+            ",": 1.0
+        }, 
+        "low": {
+            "(": 1.0
+        }, 
+        "lungs": {
+            ",": 1.0
+        }, 
+        "may": {
+            "this": 1.0
+        }, 
+        "medicine": {
+            "pressure": 1.0
+        }, 
+        "methadone": {
+            "and": 1.0
+        }, 
+        "mg": {
+            ",": 0.14285714285714285, 
+            "20": 0.14285714285714285, 
+            "30": 0.14285714285714285, 
+            "40": 0.42857142857142855, 
+            "60": 0.14285714285714285
+        }, 
+        "might": {
+            "reflux": 1.0
+        }, 
+        "morbid": {
+            ",": 1.0
+        }, 
+        "more": {
+            "requests": 1.0
+        }, 
+        "movement": {
+            "air": 1.0
+        }, 
+        "multiple": {
+            "with": 1.0
+        }, 
+        "muscles": {
+            "accessory": 1.0
+        }, 
+        "nebs": {
+            "alb": 1.0
+        }, 
+        "nebs.": {
+            "home": 1.0
+        }, 
+        "nebs/methadone": {
+            "Meds:vasotec/hctz/advair/albuterol": 1.0
+        }, 
+        "never": {
+            "stays": 1.0
+        }, 
+        "nexium": {
+            ",": 0.5, 
+            "your": 0.5
+        }, 
+        "no": {
+            ",": 0.5, 
+            "CXR": 0.5
+        }, 
+        "non": {
+            "feet": 1.0
+        }, 
+        "none": {
+            ")": 0.5, 
+            "PROCEDURES:": 0.5
+        }, 
+        "nose": {
+            "runny": 1.0
+        }, 
+        "not": {
+            "swelling": 1.0
+        }, 
+        "of": {
+            "Number": 0.14285714285714285, 
+            "Shortness": 0.14285714285714285, 
+            "day": 0.14285714285714285, 
+            "edema": 0.14285714285714285, 
+            "history": 0.14285714285714285, 
+            "regimen": 0.14285714285714285, 
+            "time": 0.14285714285714285
+        }, 
+        "on": {
+            "HOSPITAL": 0.5, 
+            "started": 0.5
+        }, 
+        "once": {
+            "mg": 1.0
+        }, 
+        "opiate": {
+            "and": 1.0
+        }, 
+        "opioid": {
+            "Rx": 1.0
+        }, 
+        "oxycodone": {
+            ",": 0.5, 
+            "of": 0.5
+        }, 
+        "pain": {
+            "back": 0.5, 
+            "home": 0.5
+        }, 
+        "past": {
+            "in": 1.0
+        }, 
+        "pathway": {
+            "#asthma#": 1.0
+        }, 
+        "patient": {
+            "If": 1.0
+        }, 
+        "patients": {
+            "The": 1.0
+        }, 
+        "pending": {
+            ",": 1.0
+        }, 
+        "pets": {
+            ",": 1.0
+        }, 
+        "pitting": {
+            "non": 1.0
+        }, 
+        "po": {
+            "mg": 1.0
+        }, 
+        "potassium": {
+            "and": 1.0
+        }, 
+        "prednisone": {
+            "got": 0.5, 
+            "rapid": 0.5
+        }, 
+        "pressure": {
+            "blood": 1.0
+        }, 
+        "pt": {
+            "past": 1.0
+        }, 
+        "q1hr": {
+            "than": 1.0
+        }, 
+        "qd.": {
+            "po": 1.0
+        }, 
+        "qid": {
+            "10": 1.0
+        }, 
+        "racing": {
+            "had": 1.0
+        }, 
+        "rapid": {
+            "prednisone": 0.5, 
+            "with": 0.5
+        }, 
+        "recommended": {
+            ",": 1.0
+        }, 
+        "reflux": {
+            "acid": 1.0
+        }, 
+        "regimen": {
+            "pain": 1.0
+        }, 
+        "regular": {
+            "Resume": 1.0
+        }, 
+        "requests": {
+            "patient": 1.0
+        }, 
+        "rotator": {
+            "(": 0.5, 
+            "Bilat": 0.5
+        }, 
+        "runny": {
+            "and": 1.0
+        }, 
+        "sat.": {
+            "chol/low": 1.0
+        }, 
+        "saw": {
+            ",": 1.0
+        }, 
+        "sbp<100": {
+            "IF:": 1.0
+        }, 
+        "scheduled": {
+            "11/9/05": 0.5, 
+            "2/6/05": 0.5
+        }, 
+        "sentences": {
+            "short": 1.0
+        }, 
+        "service": {
+            "Pulmonary": 1.0
+        }, 
+        "services": {
+            "w/": 1.0
+        }, 
+        "short": {
+            ",": 1.0
+        }, 
+        "sleep": {
+            "(": 1.0
+        }, 
+        "started": {
+            "PCP": 1.0
+        }, 
+        "stays": {
+            "hosp/icu": 1.0
+        }, 
+        "steroids": {
+            "the": 1.0
+        }, 
+        "still": {
+            "but": 1.0
+        }, 
+        "stomach": {
+            "for": 1.0
+        }, 
+        "stop": {
+            "then": 1.0
+        }, 
+        "stuffiness": {
+            "Other:nasal": 1.0
+        }, 
+        "substance": {
+            "(": 1.0
+        }, 
+        "summary": {
+            "dictated": 1.0
+        }, 
+        "suppression": {
+            "acid": 1.0
+        }, 
+        "swelling": {
+            "airway": 1.0
+        }, 
+        "taper": {
+            "prednisone": 0.5, 
+            "rapid": 0.5
+        }, 
+        "tear": {
+            "cuff": 1.0
+        }, 
+        "than": {
+            "frequently": 1.0
+        }, 
+        "the": {
+            "to": 1.0
+        }, 
+        "then": {
+            "x5d": 1.0
+        }, 
+        "this": {
+            ",": 1.0
+        }, 
+        "tid": {
+            "20": 1.0
+        }, 
+        "tightness": {
+            "chest": 1.0
+        }, 
+        "tightness.": {
+            "chest": 1.0
+        }, 
+        "time": {
+            "at": 1.0
+        }, 
+        "to": {
+            ")": 0.2, 
+            "20": 0.2, 
+            "contributing": 0.2, 
+            "due": 0.2, 
+            "suppression": 0.2
+        }, 
+        "tolerated": {
+            "not": 1.0
+        }, 
+        "triggered": {
+            "likely": 1.0
+        }, 
+        "triggers": {
+            "#asthma#": 1.0
+        }, 
+        "twice": {
+            "mg": 1.0
+        }, 
+        "until": {
+            "Well": 1.0
+        }, 
+        "upper": {
+            "for": 1.0
+        }, 
+        "use": {
+            "opiate": 1.0
+        }, 
+        "vasotec": {
+            "(": 0.5, 
+            "her": 0.5
+        }, 
+        "w/": {
+            "Home": 1.0
+        }, 
+        "was": {
+            "SBP": 1.0
+        }, 
+        "we": {
+            "as": 0.5, 
+            "but": 0.5
+        }, 
+        "wheezing": {
+            "developed": 0.3333333333333333, 
+            "diffuse": 0.3333333333333333, 
+            "of": 0.3333333333333333
+        }, 
+        "wheezing.": {
+            "your": 1.0
+        }, 
+        "when": {
+            "ago": 1.0
+        }, 
+        "with": {
+            "#asthma#": 0.2, 
+            "F": 0.2, 
+            "admitted": 0.2, 
+            "appointment": 0.2, 
+            "pathway": 0.2
+        }, 
+        "worsening": {
+            "developed": 1.0
+        }, 
+        "x5": {
+            "mg": 1.0
+        }, 
+        "x5d": {
+            "mg": 1.0
+        }, 
+        "your": {
+            "before": 0.25, 
+            "increased": 0.5, 
+            "to": 0.25
+        }, 
+        "|": {
+            "14647242": 0.1111111111111111, 
+            "2889120": 0.1111111111111111, 
+            "768085696": 0.1111111111111111, 
+            "AM": 0.1111111111111111, 
+            "DIS": 0.1111111111111111, 
+            "VH": 0.1111111111111111, 
+            "exacerbation": 0.1111111111111111, 
+            "|": 0.2222222222222222
+        }
+    }, 
+    "id": "141", 
+    "text": " 768085696 | VH | 14647242 | | 2889120 | 10/11/2005 12:00:00 AM | #asthma# exacerbation | | DIS | Admission Date: 1/1/2005 Report Status: Discharge Date: 10/15/2005 ****** DISCHARGE ORDERS ****** GONG , AMBROSE 021-25-90-4 Sconrock Rd. Service: MED DISCHARGE PATIENT ON: 5/24/05 AT 12:00 PM CONTINGENT UPON Attending evaluation WILL D/C ORDER BE USED AS THE D/C SUMMARY: YES Attending: NUSZ , DARIO HANS , M.D. CODE STATUS: Full code DISPOSITION: Home w/ services DISCHARGE MEDICATIONS: ALBUTEROL NEBULIZER 2.5 MG NEB Q 1hr PRN Shortness of Breath , Wheezing Instructions: If patient requests more frequently than q1hr - call H.O. ENALAPRIL MALEATE 40 MG PO QD Starting Today ( 7/18 ) HOLD IF: sbp<100 , call HO HYDROCHLOROTHIAZIDE 25 MG PO QD HOLD IF: sbp<100 , call HO MAGNESIUM GLUCONATE 500 MG PO BID METHADONE HCL 20 MG PO TID OXYCODONE 10 MG PO Q4H PRN Pain PREDNISONE 60 MG PO QD Starting Today ( 7/18 ) Instructions: 60 mg x5d , 40 mg x5 d , 20 mg x5d then stop FLONASE ( FLUTICASONE NASAL SPRAY ) 1-2 SPRAY INH QD PRN Other:nasal stuffiness Number of Doses Required ( approximate ): 4 ADVAIR DISKUS 500/50 ( FLUTICASONE PROPIONATE/... ) 1 PUFF INH BID CALCIUM CARB + D ( 600MG ELEM CA + VIT D/200 IU ) 2 TAB PO QD NEXIUM ( ESOMEPRAZOLE ) 40 MG PO BID DIET: House / Low chol/low sat. fat ACTIVITY: Resume regular exercise FOLLOW UP APPOINTMENT( S ): Dr Hankel 11/9/05 scheduled , Dr Figary 2/6/05 scheduled , ALLERGY: LOBSTER , FLOWERS , STUFFED ANIMALS , THEOPHYLLINE ADMIT DIAGNOSIS: #asthma# exacerbation PRINCIPAL DISCHARGE DIAGNOSIS ;Responsible After Study for Causing Admission ) #asthma# exacerbation OTHER DIAGNOSIS;Conditions , Infections , Complications , affecting Treatment/Stay HTN ( hypertension ) OSA ( sleep apnea ) Morbid #obese# ( #obese# ) Depression ( depression ) Rx opioid abuse ( substance abuse ) #asthma# ( #asthma# ) LBP ( low back pain ) Adhesive capsulitis ( adhesive capsulitis ) Bilat rotator cuff tear ( rotator cuff tear ) OPERATIONS AND PROCEDURES: none OTHER TREATMENTS/PROCEDURES ( NOT IN O.R. ) none BRIEF RESUME OF HOSPITAL COURSE: CC:wheezing HPI:2 day history of wheezing chest tightness. Well until 10 days ago when got cough and runny nose , saw PCP started on ampicillin , 4 days ago developed wheezing ->urgent care got prednisone rapid taper , but still developed worsening SOB/wheezing despite home nebs. Usual #asthma# triggers colds , pets , flowers and dusty carpets. #asthma# with multiple hosp/icu stays never intubated , HTN , morbid #obese# , OSA , OA , chronic LBP and opiate use Meds:vasotec/hctz/advair/albuterol nebs/methadone 20 tid , oxycodone 10 qid , nexium , mg , ca All:theophylline , lobster PE 97.6 73 139/29 20 97% RA Morbidly #obese# , short sentences , no accessory muscles Lungs:prolonged exp , adequate air movement , diffuse wheezing 1+pedal edema of feet non pitting Peak flow 200 , 250 CXR no infiltrates HOSPITAL COURSE 51 F with #asthma# admitted with #asthma# exacer bation , likely triggered by URTI. #asthma# pathway with rapid prednisone taper , alb nebs , continued advair. Racemic epinephrine for upper airway swelling not tolerated ( in past pt had racing heart , chest tightness ). Baseline PF 420-450. On day of discharge , lungs clear PF 380. Pulmonary service consulted , recommended checking IgE and Aspergillus Ab , pending at time of discharge. CV:HTN:continued home hctz. The patients SBP was consistently 140-160 , this may have been due to the steroids , but we increased her vasotec from 20 to 30 mg po qd. Neuro:continued home pain regimen of oxycodone and methadone Code:full ADDITIONAL COMMENTS: We have increased your nexium for stomach acid suppression to 40 mg twice a day as we felt acid reflux might be contributing to your wheezing. We increased your blood pressure medicine ( vasotec ) to 40 mg once a day. YOU NEED TO GET A BLOOD DRAW TO CHECK YOUR POTASSIUM AND CREATININE ON TUESDAY BEFORE YOUR APPOINTMENT WITH DR WIMBS DISCHARGE CONDITION: Stable TO DO/PLAN: Get blood draw for creatinine and potassium at WESTGIFF UNIVERSITY HOSPITAL on Tuesday before your appointment with Dr Lola No dictated summary ENTERED BY: MCCOY , REYNALDO , M.D. ( JW53 ) 5/24/05 @ 10:11 AM ****** END OF DISCHARGE ORDERS ******", 
+    "tri": {
+        "#asthma#": {
+            "#asthma#~(": 0.1, 
+            "ADMIT~DIAGNOSIS:": 0.1, 
+            "AM~|": 0.1, 
+            "Admission~)": 0.1, 
+            "F~with": 0.1, 
+            "abuse~)": 0.1, 
+            "admitted~with": 0.1, 
+            "by~URTI.": 0.1, 
+            "dusty~carpets.": 0.1, 
+            "nebs.~Usual": 0.1
+        }, 
+        "#obese#": {
+            "#obese#~(": 0.25, 
+            ")~Morbid": 0.25, 
+            ",~morbid": 0.25, 
+            "RA~Morbidly": 0.25
+        }, 
+        "(": {
+            ")~#asthma#": 0.05, 
+            ")~Depression": 0.05, 
+            ")~LBP": 0.05, 
+            ")~OSA": 0.05, 
+            "+~D": 0.05, 
+            ",~M.D.": 0.05, 
+            "Adhesive~capsulitis": 0.05, 
+            "DISKUS~500/50": 0.05, 
+            "Doses~Required": 0.05, 
+            "Morbid~#obese#": 0.05, 
+            "OTHER~TREATMENTS/PROCEDURES": 0.05, 
+            "QD~NEXIUM": 0.05, 
+            "Starting~Today": 0.1, 
+            "Treatment/Stay~HTN": 0.05, 
+            "cuff~tear": 0.05, 
+            "not~tolerated": 0.05, 
+            "opioid~abuse": 0.05, 
+            "pressure~medicine": 0.05, 
+            "stop~FLONASE": 0.05
+        }, 
+        ")": {
+            "(~#asthma#": 0.05263157894736842, 
+            "(~#obese#": 0.05263157894736842, 
+            "(~7/18": 0.10526315789473684, 
+            "(~ESOMEPRAZOLE": 0.05263157894736842, 
+            "(~JW53": 0.05263157894736842, 
+            "(~depression": 0.05263157894736842, 
+            "(~hypertension": 0.05263157894736842, 
+            "(~vasotec": 0.05263157894736842, 
+            "Causing~Admission": 0.05263157894736842, 
+            "D/200~IU": 0.05263157894736842, 
+            "FLUTICASONE~PROPIONATE/...": 0.05263157894736842, 
+            "IN~O.R.": 0.05263157894736842, 
+            "NASAL~SPRAY": 0.05263157894736842, 
+            "adhesive~capsulitis": 0.05263157894736842, 
+            "back~pain": 0.05263157894736842, 
+            "cuff~tear": 0.05263157894736842, 
+            "sleep~apnea": 0.05263157894736842, 
+            "substance~abuse": 0.05263157894736842
+        }, 
+        ").": {
+            "chest~tightness": 1.0
+        }, 
+        "):": {
+            "(~approximate": 0.5, 
+            "APPOINTMENT(~S": 0.5
+        }, 
+        "******": {
+            "10:11~AM": 0.25, 
+            "DISCHARGE~ORDERS": 0.5, 
+            "Date:~10/15/2005": 0.25
+        }, 
+        "+": {
+            "CALCIUM~CARB": 0.5, 
+            "ELEM~CA": 0.5
+        }, 
+        ",": {
+            "******~GONG": 0.02127659574468085, 
+            ",~Complications": 0.02127659574468085, 
+            ",~FLOWERS": 0.02127659574468085, 
+            ",~HTN": 0.02127659574468085, 
+            ",~Infections": 0.02127659574468085, 
+            ",~OA": 0.02127659574468085, 
+            ",~OSA": 0.02127659574468085, 
+            ",~REYNALDO": 0.02127659574468085, 
+            ",~mg": 0.02127659574468085, 
+            ",~nexium": 0.02127659574468085, 
+            ",~pets": 0.02127659574468085, 
+            "10~qid": 0.02127659574468085, 
+            "11/9/05~scheduled": 0.02127659574468085, 
+            "2/6/05~scheduled": 0.02127659574468085, 
+            "20~tid": 0.02127659574468085, 
+            "ALLERGY:~LOBSTER": 0.02127659574468085, 
+            "Aspergillus~Ab": 0.02127659574468085, 
+            "Attending:~NUSZ": 0.02127659574468085, 
+            "BY:~MCCOY": 0.02127659574468085, 
+            "DARIO~HANS": 0.02127659574468085, 
+            "IF:~sbp<100": 0.0425531914893617, 
+            "Lungs:prolonged~exp": 0.02127659574468085, 
+            "Morbidly~#obese#": 0.02127659574468085, 
+            "OTHER~DIAGNOSIS;Conditions": 0.02127659574468085, 
+            "STUFFED~ANIMALS": 0.02127659574468085, 
+            "air~movement": 0.02127659574468085, 
+            "alb~nebs": 0.02127659574468085, 
+            "ca~All:theophylline": 0.02127659574468085, 
+            "consistently~140-160": 0.02127659574468085, 
+            "exacer~bation": 0.02127659574468085, 
+            "flow~200": 0.02127659574468085, 
+            "mg~x5d": 0.02127659574468085, 
+            "morbid~#obese#": 0.02127659574468085, 
+            "never~intubated": 0.02127659574468085, 
+            "of~Breath": 0.02127659574468085, 
+            "of~discharge": 0.02127659574468085, 
+            "on~ampicillin": 0.02127659574468085, 
+            "prednisone~taper": 0.02127659574468085, 
+            "racing~heart": 0.02127659574468085, 
+            "rapid~taper": 0.02127659574468085, 
+            "runny~nose": 0.02127659574468085, 
+            "service~consulted": 0.02127659574468085, 
+            "short~sentences": 0.02127659574468085, 
+            "the~steroids": 0.02127659574468085, 
+            "triggers~colds": 0.02127659574468085, 
+            "x5~d": 0.02127659574468085
+        }, 
+        "-": {
+            "than~q1hr": 1.0
+        }, 
+        "->urgent": {
+            "developed~wheezing": 1.0
+        }, 
+        "/": {
+            "DIET:~House": 1.0
+        }, 
+        "021-25-90-4": {
+            ",~AMBROSE": 1.0
+        }, 
+        "1": {
+            "PROPIONATE/...~)": 1.0
+        }, 
+        "1+pedal": {
+            "diffuse~wheezing": 1.0
+        }, 
+        "1-2": {
+            "SPRAY~)": 1.0
+        }, 
+        "1/1/2005": {
+            "Admission~Date:": 1.0
+        }, 
+        "10": {
+            ",~oxycodone": 0.3333333333333333, 
+            "TID~OXYCODONE": 0.3333333333333333, 
+            "Well~until": 0.3333333333333333
+        }, 
+        "10/11/2005": {
+            "2889120~|": 1.0
+        }, 
+        "10/15/2005": {
+            "Discharge~Date:": 1.0
+        }, 
+        "10:11": {
+            "5/24/05~@": 1.0
+        }, 
+        "11/9/05": {
+            "Dr~Hankel": 1.0
+        }, 
+        "12:00": {
+            "5/24/05~AT": 1.0
+        }, 
+        "12:00:00": {
+            "|~10/11/2005": 1.0
+        }, 
+        "139/29": {
+            "97.6~73": 1.0
+        }, 
+        "140-160": {
+            "was~consistently": 1.0
+        }, 
+        "14647242": {
+            "VH~|": 1.0
+        }, 
+        "1hr": {
+            "NEB~Q": 1.0
+        }, 
+        "2": {
+            "IU~)": 1.0
+        }, 
+        "2.5": {
+            "ALBUTEROL~NEBULIZER": 1.0
+        }, 
+        "2/6/05": {
+            "Dr~Figary": 1.0
+        }, 
+        "20": {
+            "73~139/29": 0.2, 
+            "METHADONE~HCL": 0.2, 
+            "Meds:vasotec/hctz/advair/albuterol~nebs/methadone": 0.2, 
+            "d~,": 0.2, 
+            "vasotec~from": 0.2
+        }, 
+        "200": {
+            "Peak~flow": 1.0
+        }, 
+        "25": {
+            "HO~HYDROCHLOROTHIAZIDE": 1.0
+        }, 
+        "250": {
+            "200~,": 1.0
+        }, 
+        "2889120": {
+            "|~|": 1.0
+        }, 
+        "30": {
+            "20~to": 1.0
+        }, 
+        "380.": {
+            "clear~PF": 1.0
+        }, 
+        "4": {
+            "ampicillin~,": 0.5, 
+            "approximate~):": 0.5
+        }, 
+        "40": {
+            ")~to": 0.2, 
+            "ENALAPRIL~MALEATE": 0.2, 
+            "ESOMEPRAZOLE~)": 0.2, 
+            "suppression~to": 0.2, 
+            "x5d~,": 0.2
+        }, 
+        "420-450.": {
+            "Baseline~PF": 1.0
+        }, 
+        "5/24/05": {
+            "JW53~)": 0.5, 
+            "PATIENT~ON:": 0.5
+        }, 
+        "500": {
+            "MAGNESIUM~GLUCONATE": 1.0
+        }, 
+        "500/50": {
+            "ADVAIR~DISKUS": 1.0
+        }, 
+        "51": {
+            "HOSPITAL~COURSE": 1.0
+        }, 
+        "60": {
+            ")~Instructions:": 0.5, 
+            "Pain~PREDNISONE": 0.5
+        }, 
+        "600MG": {
+            "D~(": 1.0
+        }, 
+        "7/18": {
+            "Today~(": 1.0
+        }, 
+        "73": {
+            "PE~97.6": 1.0
+        }, 
+        "97%": {
+            "139/29~20": 1.0
+        }, 
+        "97.6": {
+            "lobster~PE": 1.0
+        }, 
+        ";Responsible": {
+            "DISCHARGE~DIAGNOSIS": 1.0
+        }, 
+        "@": {
+            ")~5/24/05": 1.0
+        }, 
+        "A": {
+            "TO~GET": 1.0
+        }, 
+        "ACTIVITY:": {
+            "sat.~fat": 1.0
+        }, 
+        "ADDITIONAL": {
+            "methadone~Code:full": 1.0
+        }, 
+        "ADMIT": {
+            ",~THEOPHYLLINE": 1.0
+        }, 
+        "ADVAIR": {
+            "):~4": 1.0
+        }, 
+        "ALBUTEROL": {
+            "DISCHARGE~MEDICATIONS:": 1.0
+        }, 
+        "ALLERGY:": {
+            "scheduled~,": 1.0
+        }, 
+        "AM": {
+            "10/11/2005~12:00:00": 0.5, 
+            "@~10:11": 0.5
+        }, 
+        "AMBROSE": {
+            "GONG~,": 1.0
+        }, 
+        "AND": {
+            ")~OPERATIONS": 0.5, 
+            "YOUR~POTASSIUM": 0.5
+        }, 
+        "ANIMALS": {
+            ",~STUFFED": 1.0
+        }, 
+        "APPOINTMENT": {
+            "BEFORE~YOUR": 1.0
+        }, 
+        "APPOINTMENT(": {
+            "FOLLOW~UP": 1.0
+        }, 
+        "AS": {
+            "BE~USED": 1.0
+        }, 
+        "AT": {
+            "ON:~5/24/05": 1.0
+        }, 
+        "Ab": {
+            "and~Aspergillus": 1.0
+        }, 
+        "Adhesive": {
+            "pain~)": 1.0
+        }, 
+        "Admission": {
+            "DIS~|": 0.5, 
+            "for~Causing": 0.5
+        }, 
+        "After": {
+            "DIAGNOSIS~;Responsible": 1.0
+        }, 
+        "All:theophylline": {
+            ",~ca": 1.0
+        }, 
+        "Aspergillus": {
+            "IgE~and": 1.0
+        }, 
+        "Attending": {
+            "CONTINGENT~UPON": 1.0
+        }, 
+        "Attending:": {
+            "SUMMARY:~YES": 1.0
+        }, 
+        "BE": {
+            "D/C~ORDER": 1.0
+        }, 
+        "BEFORE": {
+            "ON~TUESDAY": 1.0
+        }, 
+        "BID": {
+            "MG~PO": 0.6666666666666666, 
+            "PUFF~INH": 0.3333333333333333
+        }, 
+        "BLOOD": {
+            "GET~A": 1.0
+        }, 
+        "BRIEF": {
+            ")~none": 1.0
+        }, 
+        "BY:": {
+            "summary~ENTERED": 1.0
+        }, 
+        "Baseline": {
+            "tightness~).": 1.0
+        }, 
+        "Bilat": {
+            "capsulitis~)": 1.0
+        }, 
+        "Breath": {
+            "Shortness~of": 1.0
+        }, 
+        "CA": {
+            "600MG~ELEM": 1.0
+        }, 
+        "CALCIUM": {
+            "INH~BID": 1.0
+        }, 
+        "CARB": {
+            "BID~CALCIUM": 1.0
+        }, 
+        "CC:wheezing": {
+            "HOSPITAL~COURSE:": 1.0
+        }, 
+        "CHECK": {
+            "DRAW~TO": 1.0
+        }, 
+        "CODE": {
+            ",~M.D.": 1.0
+        }, 
+        "COMMENTS:": {
+            "Code:full~ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            "WIMBS~DISCHARGE": 1.0
+        }, 
+        "CONTINGENT": {
+            "12:00~PM": 1.0
+        }, 
+        "COURSE": {
+            "infiltrates~HOSPITAL": 1.0
+        }, 
+        "COURSE:": {
+            "OF~HOSPITAL": 1.0
+        }, 
+        "CREATININE": {
+            "POTASSIUM~AND": 1.0
+        }, 
+        "CV:HTN:continued": {
+            "of~discharge.": 1.0
+        }, 
+        "CXR": {
+            ",~250": 1.0
+        }, 
+        "Causing": {
+            "Study~for": 1.0
+        }, 
+        "Code:full": {
+            "and~methadone": 1.0
+        }, 
+        "Complications": {
+            "Infections~,": 1.0
+        }, 
+        "D": {
+            "CARB~+": 1.0
+        }, 
+        "D/200": {
+            "+~VIT": 1.0
+        }, 
+        "D/C": {
+            "AS~THE": 0.5, 
+            "evaluation~WILL": 0.5
+        }, 
+        "DARIO": {
+            "NUSZ~,": 1.0
+        }, 
+        "DIAGNOSIS": {
+            "PRINCIPAL~DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "THEOPHYLLINE~ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "exacerbation~OTHER": 1.0
+        }, 
+        "DIET:": {
+            "PO~BID": 1.0
+        }, 
+        "DIS": {
+            "|~|": 1.0
+        }, 
+        "DISCHARGE": {
+            "10/15/2005~******": 0.16666666666666666, 
+            "DR~WIMBS": 0.16666666666666666, 
+            "END~OF": 0.16666666666666666, 
+            "Service:~MED": 0.16666666666666666, 
+            "exacerbation~PRINCIPAL": 0.16666666666666666, 
+            "w/~services": 0.16666666666666666
+        }, 
+        "DISKUS": {
+            "4~ADVAIR": 1.0
+        }, 
+        "DISPOSITION:": {
+            "Full~code": 1.0
+        }, 
+        "DO/PLAN:": {
+            "Stable~TO": 1.0
+        }, 
+        "DR": {
+            "APPOINTMENT~WITH": 1.0
+        }, 
+        "DRAW": {
+            "A~BLOOD": 1.0
+        }, 
+        "Date:": {
+            "Status:~Discharge": 0.5, 
+            "|~Admission": 0.5
+        }, 
+        "Depression": {
+            "#obese#~)": 1.0
+        }, 
+        "Discharge": {
+            "Report~Status:": 1.0
+        }, 
+        "Doses": {
+            "Number~of": 1.0
+        }, 
+        "Dr": {
+            "S~):": 0.3333333333333333, 
+            "appointment~with": 0.3333333333333333, 
+            "scheduled~,": 0.3333333333333333
+        }, 
+        "ELEM": {
+            "(~600MG": 1.0
+        }, 
+        "ENALAPRIL": {
+            "call~H.O.": 1.0
+        }, 
+        "END": {
+            "AM~******": 1.0
+        }, 
+        "ENTERED": {
+            "dictated~summary": 1.0
+        }, 
+        "ESOMEPRAZOLE": {
+            "NEXIUM~(": 1.0
+        }, 
+        "F": {
+            "COURSE~51": 1.0
+        }, 
+        "FLONASE": {
+            "then~stop": 1.0
+        }, 
+        "FLOWERS": {
+            "LOBSTER~,": 1.0
+        }, 
+        "FLUTICASONE": {
+            "500/50~(": 0.5, 
+            "FLONASE~(": 0.5
+        }, 
+        "FOLLOW": {
+            "regular~exercise": 1.0
+        }, 
+        "Figary": {
+            ",~Dr": 1.0
+        }, 
+        "Full": {
+            "CODE~STATUS:": 1.0
+        }, 
+        "GET": {
+            "NEED~TO": 1.0
+        }, 
+        "GLUCONATE": {
+            "HO~MAGNESIUM": 1.0
+        }, 
+        "GONG": {
+            "ORDERS~******": 1.0
+        }, 
+        "Get": {
+            "TO~DO/PLAN:": 1.0
+        }, 
+        "H.O.": {
+            "-~call": 1.0
+        }, 
+        "HANS": {
+            ",~DARIO": 1.0
+        }, 
+        "HCL": {
+            "BID~METHADONE": 1.0
+        }, 
+        "HO": {
+            ",~call": 1.0
+        }, 
+        "HOLD": {
+            "7/18~)": 0.5, 
+            "PO~QD": 0.5
+        }, 
+        "HOSPITAL": {
+            "RESUME~OF": 0.3333333333333333, 
+            "WESTGIFF~UNIVERSITY": 0.3333333333333333, 
+            "no~infiltrates": 0.3333333333333333
+        }, 
+        "HPI:2": {
+            "COURSE:~CC:wheezing": 1.0
+        }, 
+        "HTN": {
+            "affecting~Treatment/Stay": 0.5, 
+            "intubated~,": 0.5
+        }, 
+        "HYDROCHLOROTHIAZIDE": {
+            "call~HO": 1.0
+        }, 
+        "Hankel": {
+            "):~Dr": 1.0
+        }, 
+        "Home": {
+            "code~DISPOSITION:": 1.0
+        }, 
+        "House": {
+            "BID~DIET:": 1.0
+        }, 
+        "IF:": {
+            ")~HOLD": 0.5, 
+            "QD~HOLD": 0.5
+        }, 
+        "IN": {
+            "(~NOT": 1.0
+        }, 
+        "INH": {
+            "1-2~SPRAY": 0.5, 
+            "1~PUFF": 0.5
+        }, 
+        "IU": {
+            "VIT~D/200": 1.0
+        }, 
+        "If": {
+            "Wheezing~Instructions:": 1.0
+        }, 
+        "IgE": {
+            "recommended~checking": 1.0
+        }, 
+        "Infections": {
+            "DIAGNOSIS;Conditions~,": 1.0
+        }, 
+        "Instructions:": {
+            ",~Wheezing": 0.5, 
+            "7/18~)": 0.5
+        }, 
+        "JW53": {
+            "M.D.~(": 1.0
+        }, 
+        "LBP": {
+            "#asthma#~)": 0.5, 
+            ",~chronic": 0.5
+        }, 
+        "LOBSTER": {
+            ",~ALLERGY:": 1.0
+        }, 
+        "Lola": {
+            "with~Dr": 1.0
+        }, 
+        "Low": {
+            "House~/": 1.0
+        }, 
+        "Lungs:prolonged": {
+            "accessory~muscles": 1.0
+        }, 
+        "M.D.": {
+            "HANS~,": 0.5, 
+            "REYNALDO~,": 0.5
+        }, 
+        "MAGNESIUM": {
+            "call~HO": 1.0
+        }, 
+        "MALEATE": {
+            "H.O.~ENALAPRIL": 1.0
+        }, 
+        "MCCOY": {
+            "ENTERED~BY:": 1.0
+        }, 
+        "MED": {
+            "Rd.~Service:": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "services~DISCHARGE": 1.0
+        }, 
+        "METHADONE": {
+            "PO~BID": 1.0
+        }, 
+        "MG": {
+            ")~40": 0.125, 
+            "GLUCONATE~500": 0.125, 
+            "HCL~20": 0.125, 
+            "HYDROCHLOROTHIAZIDE~25": 0.125, 
+            "MALEATE~40": 0.125, 
+            "NEBULIZER~2.5": 0.125, 
+            "OXYCODONE~10": 0.125, 
+            "PREDNISONE~60": 0.125
+        }, 
+        "Meds:vasotec/hctz/advair/albuterol": {
+            "opiate~use": 1.0
+        }, 
+        "Morbid": {
+            "apnea~)": 1.0
+        }, 
+        "Morbidly": {
+            "97%~RA": 1.0
+        }, 
+        "NASAL": {
+            "(~FLUTICASONE": 1.0
+        }, 
+        "NEB": {
+            "2.5~MG": 1.0
+        }, 
+        "NEBULIZER": {
+            "MEDICATIONS:~ALBUTEROL": 1.0
+        }, 
+        "NEED": {
+            "day.~YOU": 1.0
+        }, 
+        "NEXIUM": {
+            "PO~QD": 1.0
+        }, 
+        "NOT": {
+            "TREATMENTS/PROCEDURES~(": 1.0
+        }, 
+        "NUSZ": {
+            "YES~Attending:": 1.0
+        }, 
+        "Neuro:continued": {
+            "po~qd.": 1.0
+        }, 
+        "No": {
+            "Dr~Lola": 1.0
+        }, 
+        "Number": {
+            "Other:nasal~stuffiness": 1.0
+        }, 
+        "O.R.": {
+            "NOT~IN": 1.0
+        }, 
+        "OA": {
+            "OSA~,": 1.0
+        }, 
+        "OF": {
+            "******~END": 0.5, 
+            "BRIEF~RESUME": 0.5
+        }, 
+        "ON": {
+            "AND~CREATININE": 1.0
+        }, 
+        "ON:": {
+            "DISCHARGE~PATIENT": 1.0
+        }, 
+        "OPERATIONS": {
+            "tear~)": 1.0
+        }, 
+        "ORDER": {
+            "WILL~D/C": 1.0
+        }, 
+        "ORDERS": {
+            "******~DISCHARGE": 0.5, 
+            "OF~DISCHARGE": 0.5
+        }, 
+        "OSA": {
+            "#obese#~,": 0.5, 
+            "hypertension~)": 0.5
+        }, 
+        "OTHER": {
+            "#asthma#~exacerbation": 0.5, 
+            "PROCEDURES:~none": 0.5
+        }, 
+        "OXYCODONE": {
+            "PO~TID": 1.0
+        }, 
+        "On": {
+            "PF~420-450.": 1.0
+        }, 
+        "Other:nasal": {
+            "QD~PRN": 1.0
+        }, 
+        "PATIENT": {
+            "MED~DISCHARGE": 1.0
+        }, 
+        "PCP": {
+            ",~saw": 1.0
+        }, 
+        "PE": {
+            ",~lobster": 1.0
+        }, 
+        "PF": {
+            ").~Baseline": 0.5, 
+            "lungs~clear": 0.5
+        }, 
+        "PM": {
+            "AT~12:00": 1.0
+        }, 
+        "PO": {
+            "10~MG": 0.125, 
+            "20~MG": 0.125, 
+            "25~MG": 0.125, 
+            "2~TAB": 0.125, 
+            "40~MG": 0.25, 
+            "500~MG": 0.125, 
+            "60~MG": 0.125
+        }, 
+        "POTASSIUM": {
+            "CHECK~YOUR": 1.0
+        }, 
+        "PREDNISONE": {
+            "PRN~Pain": 1.0
+        }, 
+        "PRINCIPAL": {
+            "#asthma#~exacerbation": 1.0
+        }, 
+        "PRN": {
+            "INH~QD": 0.3333333333333333, 
+            "PO~Q4H": 0.3333333333333333, 
+            "Q~1hr": 0.3333333333333333
+        }, 
+        "PROCEDURES:": {
+            "OPERATIONS~AND": 1.0
+        }, 
+        "PROPIONATE/...": {
+            "(~FLUTICASONE": 1.0
+        }, 
+        "PUFF": {
+            ")~1": 1.0
+        }, 
+        "Pain": {
+            "Q4H~PRN": 1.0
+        }, 
+        "Peak": {
+            "non~pitting": 1.0
+        }, 
+        "Pulmonary": {
+            "PF~380.": 1.0
+        }, 
+        "Q": {
+            "MG~NEB": 1.0
+        }, 
+        "Q4H": {
+            "MG~PO": 1.0
+        }, 
+        "QD": {
+            "MG~PO": 0.6, 
+            "SPRAY~INH": 0.2, 
+            "TAB~PO": 0.2
+        }, 
+        "RA": {
+            "20~97%": 1.0
+        }, 
+        "RESUME": {
+            "none~BRIEF": 1.0
+        }, 
+        "REYNALDO": {
+            "MCCOY~,": 1.0
+        }, 
+        "Racemic": {
+            "continued~advair.": 1.0
+        }, 
+        "Rd.": {
+            "021-25-90-4~Sconrock": 1.0
+        }, 
+        "Report": {
+            "Date:~1/1/2005": 1.0
+        }, 
+        "Required": {
+            "of~Doses": 1.0
+        }, 
+        "Resume": {
+            "fat~ACTIVITY:": 1.0
+        }, 
+        "Rx": {
+            "depression~)": 1.0
+        }, 
+        "S": {
+            "UP~APPOINTMENT(": 1.0
+        }, 
+        "SBP": {
+            "The~patients": 1.0
+        }, 
+        "SOB/wheezing": {
+            "developed~worsening": 1.0
+        }, 
+        "SPRAY": {
+            ")~1-2": 0.5, 
+            "FLUTICASONE~NASAL": 0.5
+        }, 
+        "STATUS:": {
+            "M.D.~CODE": 1.0
+        }, 
+        "STUFFED": {
+            "FLOWERS~,": 1.0
+        }, 
+        "SUMMARY:": {
+            "THE~D/C": 1.0
+        }, 
+        "Sconrock": {
+            "AMBROSE~021-25-90-4": 1.0
+        }, 
+        "Service:": {
+            "Sconrock~Rd.": 1.0
+        }, 
+        "Shortness": {
+            "1hr~PRN": 1.0
+        }, 
+        "Stable": {
+            "DISCHARGE~CONDITION:": 1.0
+        }, 
+        "Starting": {
+            "PO~QD": 1.0
+        }, 
+        "Status:": {
+            "1/1/2005~Report": 1.0
+        }, 
+        "Study": {
+            ";Responsible~After": 1.0
+        }, 
+        "TAB": {
+            ")~2": 1.0
+        }, 
+        "THE": {
+            "USED~AS": 1.0
+        }, 
+        "THEOPHYLLINE": {
+            "ANIMALS~,": 1.0
+        }, 
+        "TID": {
+            "MG~PO": 1.0
+        }, 
+        "TO": {
+            "BLOOD~DRAW": 0.3333333333333333, 
+            "CONDITION:~Stable": 0.3333333333333333, 
+            "YOU~NEED": 0.3333333333333333
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "none~OTHER": 1.0
+        }, 
+        "TUESDAY": {
+            "CREATININE~ON": 1.0
+        }, 
+        "The": {
+            "home~hctz.": 1.0
+        }, 
+        "Today": {
+            "QD~Starting": 1.0
+        }, 
+        "Treatment/Stay": {
+            ",~affecting": 1.0
+        }, 
+        "Tuesday": {
+            "HOSPITAL~on": 1.0
+        }, 
+        "UNIVERSITY": {
+            "at~WESTGIFF": 1.0
+        }, 
+        "UP": {
+            "exercise~FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "PM~CONTINGENT": 1.0
+        }, 
+        "URTI.": {
+            "triggered~by": 1.0
+        }, 
+        "USED": {
+            "ORDER~BE": 1.0
+        }, 
+        "Usual": {
+            "home~nebs.": 1.0
+        }, 
+        "VH": {
+            "768085696~|": 1.0
+        }, 
+        "VIT": {
+            "CA~+": 1.0
+        }, 
+        "WESTGIFF": {
+            "potassium~at": 1.0
+        }, 
+        "WILL": {
+            "Attending~evaluation": 1.0
+        }, 
+        "WIMBS": {
+            "WITH~DR": 1.0
+        }, 
+        "WITH": {
+            "YOUR~APPOINTMENT": 1.0
+        }, 
+        "We": {
+            "ADDITIONAL~COMMENTS:": 0.5, 
+            "your~wheezing.": 0.5
+        }, 
+        "Well": {
+            "chest~tightness.": 1.0
+        }, 
+        "Wheezing": {
+            "Breath~,": 1.0
+        }, 
+        "YES": {
+            "D/C~SUMMARY:": 1.0
+        }, 
+        "YOU": {
+            "a~day.": 1.0
+        }, 
+        "YOUR": {
+            "TO~CHECK": 0.5, 
+            "TUESDAY~BEFORE": 0.5
+        }, 
+        "a": {
+            "mg~once": 0.5, 
+            "mg~twice": 0.5
+        }, 
+        "abuse": {
+            "(~substance": 0.5, 
+            "Rx~opioid": 0.5
+        }, 
+        "accessory": {
+            ",~no": 1.0
+        }, 
+        "acid": {
+            "for~stomach": 0.5, 
+            "we~felt": 0.5
+        }, 
+        "adequate": {
+            "exp~,": 1.0
+        }, 
+        "adhesive": {
+            "capsulitis~(": 1.0
+        }, 
+        "admitted": {
+            "with~#asthma#": 1.0
+        }, 
+        "advair.": {
+            ",~continued": 1.0
+        }, 
+        "affecting": {
+            "Complications~,": 1.0
+        }, 
+        "ago": {
+            "10~days": 0.5, 
+            "4~days": 0.5
+        }, 
+        "air": {
+            ",~adequate": 1.0
+        }, 
+        "airway": {
+            "for~upper": 1.0
+        }, 
+        "alb": {
+            "taper~,": 1.0
+        }, 
+        "ampicillin": {
+            "started~on": 1.0
+        }, 
+        "and": {
+            ",~flowers": 0.16666666666666666, 
+            "checking~IgE": 0.16666666666666666, 
+            "chronic~LBP": 0.16666666666666666, 
+            "for~creatinine": 0.16666666666666666, 
+            "got~cough": 0.16666666666666666, 
+            "of~oxycodone": 0.16666666666666666
+        }, 
+        "apnea": {
+            "(~sleep": 1.0
+        }, 
+        "appointment": {
+            "before~your": 1.0
+        }, 
+        "approximate": {
+            "Required~(": 1.0
+        }, 
+        "as": {
+            "a~day": 1.0
+        }, 
+        "at": {
+            ",~pending": 0.5, 
+            "and~potassium": 0.5
+        }, 
+        "back": {
+            "(~low": 1.0
+        }, 
+        "bation": {
+            "#asthma#~exacer": 1.0
+        }, 
+        "be": {
+            "reflux~might": 1.0
+        }, 
+        "been": {
+            "may~have": 1.0
+        }, 
+        "before": {
+            "on~Tuesday": 1.0
+        }, 
+        "blood": {
+            "DO/PLAN:~Get": 0.5, 
+            "increased~your": 0.5
+        }, 
+        "but": {
+            "steroids~,": 0.5, 
+            "taper~,": 0.5
+        }, 
+        "by": {
+            "likely~triggered": 1.0
+        }, 
+        "ca": {
+            "mg~,": 1.0
+        }, 
+        "call": {
+            "q1hr~-": 0.3333333333333333, 
+            "sbp<100~,": 0.6666666666666666
+        }, 
+        "capsulitis": {
+            "(~adhesive": 0.5, 
+            ")~Adhesive": 0.5
+        }, 
+        "care": {
+            "wheezing~->urgent": 1.0
+        }, 
+        "carpets.": {
+            "and~dusty": 1.0
+        }, 
+        "checking": {
+            ",~recommended": 1.0
+        }, 
+        "chest": {
+            "heart~,": 0.5, 
+            "of~wheezing": 0.5
+        }, 
+        "chol/low": {
+            "/~Low": 1.0
+        }, 
+        "chronic": {
+            "OA~,": 1.0
+        }, 
+        "clear": {
+            ",~lungs": 1.0
+        }, 
+        "code": {
+            "STATUS:~Full": 1.0
+        }, 
+        "colds": {
+            "#asthma#~triggers": 1.0
+        }, 
+        "consistently": {
+            "SBP~was": 1.0
+        }, 
+        "consulted": {
+            "Pulmonary~service": 1.0
+        }, 
+        "continued": {
+            "nebs~,": 1.0
+        }, 
+        "contributing": {
+            "might~be": 1.0
+        }, 
+        "cough": {
+            "when~got": 1.0
+        }, 
+        "creatinine": {
+            "draw~for": 1.0
+        }, 
+        "cuff": {
+            "(~rotator": 0.5, 
+            "Bilat~rotator": 0.5
+        }, 
+        "d": {
+            "mg~x5": 1.0
+        }, 
+        "day": {
+            "420-450.~On": 0.3333333333333333, 
+            "CC:wheezing~HPI:2": 0.3333333333333333, 
+            "twice~a": 0.3333333333333333
+        }, 
+        "day.": {
+            "once~a": 1.0
+        }, 
+        "days": {
+            ",~4": 0.5, 
+            "until~10": 0.5
+        }, 
+        "depression": {
+            "Depression~(": 1.0
+        }, 
+        "despite": {
+            "worsening~SOB/wheezing": 1.0
+        }, 
+        "developed": {
+            "but~still": 0.5, 
+            "days~ago": 0.5
+        }, 
+        "dictated": {
+            "Lola~No": 1.0
+        }, 
+        "diffuse": {
+            "movement~,": 1.0
+        }, 
+        "discharge": {
+            "day~of": 1.0
+        }, 
+        "discharge.": {
+            "time~of": 1.0
+        }, 
+        "draw": {
+            "Get~blood": 1.0
+        }, 
+        "due": {
+            "have~been": 1.0
+        }, 
+        "dusty": {
+            "flowers~and": 1.0
+        }, 
+        "edema": {
+            "wheezing~1+pedal": 1.0
+        }, 
+        "epinephrine": {
+            "advair.~Racemic": 1.0
+        }, 
+        "evaluation": {
+            "UPON~Attending": 1.0
+        }, 
+        "exacer": {
+            "with~#asthma#": 1.0
+        }, 
+        "exacerbation": {
+            ")~#asthma#": 0.3333333333333333, 
+            "DIAGNOSIS:~#asthma#": 0.3333333333333333, 
+            "|~#asthma#": 0.3333333333333333
+        }, 
+        "exercise": {
+            "Resume~regular": 1.0
+        }, 
+        "exp": {
+            "muscles~Lungs:prolonged": 1.0
+        }, 
+        "fat": {
+            "chol/low~sat.": 1.0
+        }, 
+        "feet": {
+            "edema~of": 1.0
+        }, 
+        "felt": {
+            "as~we": 1.0
+        }, 
+        "flow": {
+            "pitting~Peak": 1.0
+        }, 
+        "flowers": {
+            "pets~,": 1.0
+        }, 
+        "for": {
+            "After~Study": 0.25, 
+            "Racemic~epinephrine": 0.25, 
+            "blood~draw": 0.25, 
+            "your~nexium": 0.25
+        }, 
+        "frequently": {
+            "requests~more": 1.0
+        }, 
+        "from": {
+            "her~vasotec": 1.0
+        }, 
+        "got": {
+            "->urgent~care": 0.5, 
+            "ago~when": 0.5
+        }, 
+        "had": {
+            "past~pt": 1.0
+        }, 
+        "have": {
+            "COMMENTS:~We": 0.5, 
+            "this~may": 0.5
+        }, 
+        "hctz.": {
+            "CV:HTN:continued~home": 1.0
+        }, 
+        "heart": {
+            "had~racing": 1.0
+        }, 
+        "her": {
+            "we~increased": 1.0
+        }, 
+        "history": {
+            "HPI:2~day": 1.0
+        }, 
+        "home": {
+            "SOB/wheezing~despite": 0.3333333333333333, 
+            "discharge.~CV:HTN:continued": 0.3333333333333333, 
+            "qd.~Neuro:continued": 0.3333333333333333
+        }, 
+        "hosp/icu": {
+            "with~multiple": 1.0
+        }, 
+        "hypertension": {
+            "HTN~(": 1.0
+        }, 
+        "in": {
+            "tolerated~(": 1.0
+        }, 
+        "increased": {
+            "We~have": 0.3333333333333333, 
+            "but~we": 0.3333333333333333, 
+            "wheezing.~We": 0.3333333333333333
+        }, 
+        "infiltrates": {
+            "CXR~no": 1.0
+        }, 
+        "intubated": {
+            "stays~never": 1.0
+        }, 
+        "likely": {
+            "bation~,": 1.0
+        }, 
+        "lobster": {
+            "All:theophylline~,": 1.0
+        }, 
+        "low": {
+            "LBP~(": 1.0
+        }, 
+        "lungs": {
+            "discharge~,": 1.0
+        }, 
+        "may": {
+            ",~this": 1.0
+        }, 
+        "medicine": {
+            "blood~pressure": 1.0
+        }, 
+        "methadone": {
+            "oxycodone~and": 1.0
+        }, 
+        "mg": {
+            ",~20": 0.14285714285714285, 
+            ",~40": 0.14285714285714285, 
+            "Instructions:~60": 0.14285714285714285, 
+            "nexium~,": 0.14285714285714285, 
+            "to~30": 0.14285714285714285, 
+            "to~40": 0.2857142857142857
+        }, 
+        "might": {
+            "acid~reflux": 1.0
+        }, 
+        "morbid": {
+            "HTN~,": 1.0
+        }, 
+        "more": {
+            "patient~requests": 1.0
+        }, 
+        "movement": {
+            "adequate~air": 1.0
+        }, 
+        "multiple": {
+            "#asthma#~with": 1.0
+        }, 
+        "muscles": {
+            "no~accessory": 1.0
+        }, 
+        "nebs": {
+            ",~alb": 1.0
+        }, 
+        "nebs.": {
+            "despite~home": 1.0
+        }, 
+        "nebs/methadone": {
+            "use~Meds:vasotec/hctz/advair/albuterol": 1.0
+        }, 
+        "never": {
+            "hosp/icu~stays": 1.0
+        }, 
+        "nexium": {
+            "increased~your": 0.5, 
+            "qid~,": 0.5
+        }, 
+        "no": {
+            "250~CXR": 0.5, 
+            "sentences~,": 0.5
+        }, 
+        "non": {
+            "of~feet": 1.0
+        }, 
+        "none": {
+            "AND~PROCEDURES:": 0.5, 
+            "O.R.~)": 0.5
+        }, 
+        "nose": {
+            "and~runny": 1.0
+        }, 
+        "not": {
+            "airway~swelling": 1.0
+        }, 
+        "of": {
+            "1+pedal~edema": 0.14285714285714285, 
+            "On~day": 0.14285714285714285, 
+            "PRN~Shortness": 0.14285714285714285, 
+            "at~time": 0.14285714285714285, 
+            "day~history": 0.14285714285714285, 
+            "pain~regimen": 0.14285714285714285, 
+            "stuffiness~Number": 0.14285714285714285
+        }, 
+        "on": {
+            "PCP~started": 0.5, 
+            "UNIVERSITY~HOSPITAL": 0.5
+        }, 
+        "once": {
+            "40~mg": 1.0
+        }, 
+        "opiate": {
+            "LBP~and": 1.0
+        }, 
+        "opioid": {
+            ")~Rx": 1.0
+        }, 
+        "oxycodone": {
+            "regimen~of": 0.5, 
+            "tid~,": 0.5
+        }, 
+        "pain": {
+            "Neuro:continued~home": 0.5, 
+            "low~back": 0.5
+        }, 
+        "past": {
+            "(~in": 1.0
+        }, 
+        "pathway": {
+            "URTI.~#asthma#": 1.0
+        }, 
+        "patient": {
+            "Instructions:~If": 1.0
+        }, 
+        "patients": {
+            "hctz.~The": 1.0
+        }, 
+        "pending": {
+            "Ab~,": 1.0
+        }, 
+        "pets": {
+            "colds~,": 1.0
+        }, 
+        "pitting": {
+            "feet~non": 1.0
+        }, 
+        "po": {
+            "30~mg": 1.0
+        }, 
+        "potassium": {
+            "creatinine~and": 1.0
+        }, 
+        "prednisone": {
+            "care~got": 0.5, 
+            "with~rapid": 0.5
+        }, 
+        "pressure": {
+            "your~blood": 1.0
+        }, 
+        "pt": {
+            "in~past": 1.0
+        }, 
+        "q1hr": {
+            "frequently~than": 1.0
+        }, 
+        "qd.": {
+            "mg~po": 1.0
+        }, 
+        "qid": {
+            "oxycodone~10": 1.0
+        }, 
+        "racing": {
+            "pt~had": 1.0
+        }, 
+        "rapid": {
+            "got~prednisone": 0.5, 
+            "pathway~with": 0.5
+        }, 
+        "recommended": {
+            "consulted~,": 1.0
+        }, 
+        "reflux": {
+            "felt~acid": 1.0
+        }, 
+        "regimen": {
+            "home~pain": 1.0
+        }, 
+        "regular": {
+            "ACTIVITY:~Resume": 1.0
+        }, 
+        "requests": {
+            "If~patient": 1.0
+        }, 
+        "rotator": {
+            ")~Bilat": 0.5, 
+            "tear~(": 0.5
+        }, 
+        "runny": {
+            "cough~and": 1.0
+        }, 
+        "sat.": {
+            "Low~chol/low": 1.0
+        }, 
+        "saw": {
+            "nose~,": 1.0
+        }, 
+        "sbp<100": {
+            "HOLD~IF:": 1.0
+        }, 
+        "scheduled": {
+            "Figary~2/6/05": 0.5, 
+            "Hankel~11/9/05": 0.5
+        }, 
+        "sentences": {
+            ",~short": 1.0
+        }, 
+        "service": {
+            "380.~Pulmonary": 1.0
+        }, 
+        "services": {
+            "Home~w/": 1.0
+        }, 
+        "short": {
+            "#obese#~,": 1.0
+        }, 
+        "sleep": {
+            "OSA~(": 1.0
+        }, 
+        "started": {
+            "saw~PCP": 1.0
+        }, 
+        "stays": {
+            "multiple~hosp/icu": 1.0
+        }, 
+        "steroids": {
+            "to~the": 1.0
+        }, 
+        "still": {
+            ",~but": 1.0
+        }, 
+        "stomach": {
+            "nexium~for": 1.0
+        }, 
+        "stop": {
+            "x5d~then": 1.0
+        }, 
+        "stuffiness": {
+            "PRN~Other:nasal": 1.0
+        }, 
+        "substance": {
+            "abuse~(": 1.0
+        }, 
+        "summary": {
+            "No~dictated": 1.0
+        }, 
+        "suppression": {
+            "stomach~acid": 1.0
+        }, 
+        "swelling": {
+            "upper~airway": 1.0
+        }, 
+        "taper": {
+            "prednisone~rapid": 0.5, 
+            "rapid~prednisone": 0.5
+        }, 
+        "tear": {
+            "rotator~cuff": 1.0
+        }, 
+        "than": {
+            "more~frequently": 1.0
+        }, 
+        "the": {
+            "due~to": 1.0
+        }, 
+        "then": {
+            "mg~x5d": 1.0
+        }, 
+        "this": {
+            "140-160~,": 1.0
+        }, 
+        "tid": {
+            "nebs/methadone~20": 1.0
+        }, 
+        "tightness": {
+            ",~chest": 1.0
+        }, 
+        "tightness.": {
+            "wheezing~chest": 1.0
+        }, 
+        "time": {
+            "pending~at": 1.0
+        }, 
+        "to": {
+            "acid~suppression": 0.2, 
+            "been~due": 0.2, 
+            "be~contributing": 0.2, 
+            "from~20": 0.2, 
+            "vasotec~)": 0.2
+        }, 
+        "tolerated": {
+            "swelling~not": 1.0
+        }, 
+        "triggered": {
+            ",~likely": 1.0
+        }, 
+        "triggers": {
+            "Usual~#asthma#": 1.0
+        }, 
+        "twice": {
+            "40~mg": 1.0
+        }, 
+        "until": {
+            "tightness.~Well": 1.0
+        }, 
+        "upper": {
+            "epinephrine~for": 1.0
+        }, 
+        "use": {
+            "and~opiate": 1.0
+        }, 
+        "vasotec": {
+            "increased~her": 0.5, 
+            "medicine~(": 0.5
+        }, 
+        "w/": {
+            "DISPOSITION:~Home": 1.0
+        }, 
+        "was": {
+            "patients~SBP": 1.0
+        }, 
+        "we": {
+            ",~but": 0.5, 
+            "day~as": 0.5
+        }, 
+        "wheezing": {
+            ",~diffuse": 0.3333333333333333, 
+            "ago~developed": 0.3333333333333333, 
+            "history~of": 0.3333333333333333
+        }, 
+        "wheezing.": {
+            "to~your": 1.0
+        }, 
+        "when": {
+            "days~ago": 1.0
+        }, 
+        "with": {
+            "#asthma#~admitted": 0.2, 
+            "#asthma#~pathway": 0.2, 
+            "51~F": 0.2, 
+            "carpets.~#asthma#": 0.2, 
+            "your~appointment": 0.2
+        }, 
+        "worsening": {
+            "still~developed": 1.0
+        }, 
+        "x5": {
+            "40~mg": 1.0
+        }, 
+        "x5d": {
+            "20~mg": 0.5, 
+            "60~mg": 0.5
+        }, 
+        "your": {
+            "Tuesday~before": 0.25, 
+            "We~increased": 0.25, 
+            "contributing~to": 0.25, 
+            "have~increased": 0.25
+        }, 
+        "|": {
+            "#asthma#~exacerbation": 0.1111111111111111, 
+            "12:00:00~AM": 0.1111111111111111, 
+            "14647242~|": 0.1111111111111111, 
+            "exacerbation~|": 0.1111111111111111, 
+            "|~14647242": 0.1111111111111111, 
+            "|~2889120": 0.1111111111111111, 
+            "|~DIS": 0.1111111111111111, 
+            "|~VH": 0.1111111111111111, 
+            "~768085696": 0.1111111111111111
+        }
+    }, 
+    "type": "data/test", 
+    "uni": {
+        "": 0.001394700139470014, 
+        "#asthma#": 0.01394700139470014, 
+        "#obese#": 0.005578800557880056, 
+        "(": 0.02789400278940028, 
+        ")": 0.026499302649930265, 
+        ").": 0.001394700139470014, 
+        "):": 0.002789400278940028, 
+        "******": 0.0041841004184100415, 
+        "+": 0.002789400278940028, 
+        ",": 0.06555090655509066, 
+        "-": 0.001394700139470014, 
+        "->urgent": 0.001394700139470014, 
+        "/": 0.001394700139470014, 
+        "021-25-90-4": 0.001394700139470014, 
+        "1": 0.001394700139470014, 
+        "1+pedal": 0.001394700139470014, 
+        "1-2": 0.001394700139470014, 
+        "1/1/2005": 0.001394700139470014, 
+        "10": 0.0041841004184100415, 
+        "10/11/2005": 0.001394700139470014, 
+        "10/15/2005": 0.001394700139470014, 
+        "10:11": 0.001394700139470014, 
+        "11/9/05": 0.001394700139470014, 
+        "12:00": 0.001394700139470014, 
+        "12:00:00": 0.001394700139470014, 
+        "139/29": 0.001394700139470014, 
+        "140-160": 0.001394700139470014, 
+        "14647242": 0.001394700139470014, 
+        "1hr": 0.001394700139470014, 
+        "2": 0.001394700139470014, 
+        "2.5": 0.001394700139470014, 
+        "2/6/05": 0.001394700139470014, 
+        "20": 0.00697350069735007, 
+        "200": 0.001394700139470014, 
+        "25": 0.001394700139470014, 
+        "250": 0.001394700139470014, 
+        "2889120": 0.001394700139470014, 
+        "30": 0.001394700139470014, 
+        "380.": 0.001394700139470014, 
+        "4": 0.002789400278940028, 
+        "40": 0.00697350069735007, 
+        "420-450.": 0.001394700139470014, 
+        "5/24/05": 0.002789400278940028, 
+        "500": 0.001394700139470014, 
+        "500/50": 0.001394700139470014, 
+        "51": 0.001394700139470014, 
+        "60": 0.002789400278940028, 
+        "600MG": 0.001394700139470014, 
+        "7/18": 0.002789400278940028, 
+        "73": 0.001394700139470014, 
+        "768085696": 0.001394700139470014, 
+        "97%": 0.001394700139470014, 
+        "97.6": 0.001394700139470014, 
+        ";Responsible": 0.001394700139470014, 
+        "@": 0.001394700139470014, 
+        "A": 0.001394700139470014, 
+        "ACTIVITY:": 0.001394700139470014, 
+        "ADDITIONAL": 0.001394700139470014, 
+        "ADMIT": 0.001394700139470014, 
+        "ADVAIR": 0.001394700139470014, 
+        "ALBUTEROL": 0.001394700139470014, 
+        "ALLERGY:": 0.001394700139470014, 
+        "AM": 0.002789400278940028, 
+        "AMBROSE": 0.001394700139470014, 
+        "AND": 0.002789400278940028, 
+        "ANIMALS": 0.001394700139470014, 
+        "APPOINTMENT": 0.001394700139470014, 
+        "APPOINTMENT(": 0.001394700139470014, 
+        "AS": 0.001394700139470014, 
+        "AT": 0.001394700139470014, 
+        "Ab": 0.001394700139470014, 
+        "Adhesive": 0.001394700139470014, 
+        "Admission": 0.002789400278940028, 
+        "After": 0.001394700139470014, 
+        "All:theophylline": 0.001394700139470014, 
+        "Aspergillus": 0.001394700139470014, 
+        "Attending": 0.001394700139470014, 
+        "Attending:": 0.001394700139470014, 
+        "BE": 0.001394700139470014, 
+        "BEFORE": 0.001394700139470014, 
+        "BID": 0.0041841004184100415, 
+        "BLOOD": 0.001394700139470014, 
+        "BRIEF": 0.001394700139470014, 
+        "BY:": 0.001394700139470014, 
+        "Baseline": 0.001394700139470014, 
+        "Bilat": 0.001394700139470014, 
+        "Breath": 0.001394700139470014, 
+        "CA": 0.001394700139470014, 
+        "CALCIUM": 0.001394700139470014, 
+        "CARB": 0.001394700139470014, 
+        "CC:wheezing": 0.001394700139470014, 
+        "CHECK": 0.001394700139470014, 
+        "CODE": 0.001394700139470014, 
+        "COMMENTS:": 0.001394700139470014, 
+        "CONDITION:": 0.001394700139470014, 
+        "CONTINGENT": 0.001394700139470014, 
+        "COURSE": 0.001394700139470014, 
+        "COURSE:": 0.001394700139470014, 
+        "CREATININE": 0.001394700139470014, 
+        "CV:HTN:continued": 0.001394700139470014, 
+        "CXR": 0.001394700139470014, 
+        "Causing": 0.001394700139470014, 
+        "Code:full": 0.001394700139470014, 
+        "Complications": 0.001394700139470014, 
+        "D": 0.001394700139470014, 
+        "D/200": 0.001394700139470014, 
+        "D/C": 0.002789400278940028, 
+        "DARIO": 0.001394700139470014, 
+        "DIAGNOSIS": 0.001394700139470014, 
+        "DIAGNOSIS:": 0.001394700139470014, 
+        "DIAGNOSIS;Conditions": 0.001394700139470014, 
+        "DIET:": 0.001394700139470014, 
+        "DIS": 0.001394700139470014, 
+        "DISCHARGE": 0.008368200836820083, 
+        "DISKUS": 0.001394700139470014, 
+        "DISPOSITION:": 0.001394700139470014, 
+        "DO/PLAN:": 0.001394700139470014, 
+        "DR": 0.001394700139470014, 
+        "DRAW": 0.001394700139470014, 
+        "Date:": 0.002789400278940028, 
+        "Depression": 0.001394700139470014, 
+        "Discharge": 0.001394700139470014, 
+        "Doses": 0.001394700139470014, 
+        "Dr": 0.0041841004184100415, 
+        "ELEM": 0.001394700139470014, 
+        "ENALAPRIL": 0.001394700139470014, 
+        "END": 0.001394700139470014, 
+        "ENTERED": 0.001394700139470014, 
+        "ESOMEPRAZOLE": 0.001394700139470014, 
+        "F": 0.001394700139470014, 
+        "FLONASE": 0.001394700139470014, 
+        "FLOWERS": 0.001394700139470014, 
+        "FLUTICASONE": 0.002789400278940028, 
+        "FOLLOW": 0.001394700139470014, 
+        "Figary": 0.001394700139470014, 
+        "Full": 0.001394700139470014, 
+        "GET": 0.001394700139470014, 
+        "GLUCONATE": 0.001394700139470014, 
+        "GONG": 0.001394700139470014, 
+        "Get": 0.001394700139470014, 
+        "H.O.": 0.001394700139470014, 
+        "HANS": 0.001394700139470014, 
+        "HCL": 0.001394700139470014, 
+        "HO": 0.002789400278940028, 
+        "HOLD": 0.002789400278940028, 
+        "HOSPITAL": 0.0041841004184100415, 
+        "HPI:2": 0.001394700139470014, 
+        "HTN": 0.002789400278940028, 
+        "HYDROCHLOROTHIAZIDE": 0.001394700139470014, 
+        "Hankel": 0.001394700139470014, 
+        "Home": 0.001394700139470014, 
+        "House": 0.001394700139470014, 
+        "IF:": 0.002789400278940028, 
+        "IN": 0.001394700139470014, 
+        "INH": 0.002789400278940028, 
+        "IU": 0.001394700139470014, 
+        "If": 0.001394700139470014, 
+        "IgE": 0.001394700139470014, 
+        "Infections": 0.001394700139470014, 
+        "Instructions:": 0.002789400278940028, 
+        "JW53": 0.001394700139470014, 
+        "LBP": 0.002789400278940028, 
+        "LOBSTER": 0.001394700139470014, 
+        "Lola": 0.001394700139470014, 
+        "Low": 0.001394700139470014, 
+        "Lungs:prolonged": 0.001394700139470014, 
+        "M.D.": 0.002789400278940028, 
+        "MAGNESIUM": 0.001394700139470014, 
+        "MALEATE": 0.001394700139470014, 
+        "MCCOY": 0.001394700139470014, 
+        "MED": 0.001394700139470014, 
+        "MEDICATIONS:": 0.001394700139470014, 
+        "METHADONE": 0.001394700139470014, 
+        "MG": 0.011157601115760111, 
+        "Meds:vasotec/hctz/advair/albuterol": 0.001394700139470014, 
+        "Morbid": 0.001394700139470014, 
+        "Morbidly": 0.001394700139470014, 
+        "NASAL": 0.001394700139470014, 
+        "NEB": 0.001394700139470014, 
+        "NEBULIZER": 0.001394700139470014, 
+        "NEED": 0.001394700139470014, 
+        "NEXIUM": 0.001394700139470014, 
+        "NOT": 0.001394700139470014, 
+        "NUSZ": 0.001394700139470014, 
+        "Neuro:continued": 0.001394700139470014, 
+        "No": 0.001394700139470014, 
+        "Number": 0.001394700139470014, 
+        "O.R.": 0.001394700139470014, 
+        "OA": 0.001394700139470014, 
+        "OF": 0.002789400278940028, 
+        "ON": 0.001394700139470014, 
+        "ON:": 0.001394700139470014, 
+        "OPERATIONS": 0.001394700139470014, 
+        "ORDER": 0.001394700139470014, 
+        "ORDERS": 0.001394700139470014, 
+        "OSA": 0.002789400278940028, 
+        "OTHER": 0.002789400278940028, 
+        "OXYCODONE": 0.001394700139470014, 
+        "On": 0.001394700139470014, 
+        "Other:nasal": 0.001394700139470014, 
+        "PATIENT": 0.001394700139470014, 
+        "PCP": 0.001394700139470014, 
+        "PE": 0.001394700139470014, 
+        "PF": 0.002789400278940028, 
+        "PM": 0.001394700139470014, 
+        "PO": 0.011157601115760111, 
+        "POTASSIUM": 0.001394700139470014, 
+        "PREDNISONE": 0.001394700139470014, 
+        "PRINCIPAL": 0.001394700139470014, 
+        "PRN": 0.0041841004184100415, 
+        "PROCEDURES:": 0.001394700139470014, 
+        "PROPIONATE/...": 0.001394700139470014, 
+        "PUFF": 0.001394700139470014, 
+        "Pain": 0.001394700139470014, 
+        "Peak": 0.001394700139470014, 
+        "Pulmonary": 0.001394700139470014, 
+        "Q": 0.001394700139470014, 
+        "Q4H": 0.001394700139470014, 
+        "QD": 0.00697350069735007, 
+        "RA": 0.001394700139470014, 
+        "RESUME": 0.001394700139470014, 
+        "REYNALDO": 0.001394700139470014, 
+        "Racemic": 0.001394700139470014, 
+        "Rd.": 0.001394700139470014, 
+        "Report": 0.001394700139470014, 
+        "Required": 0.001394700139470014, 
+        "Resume": 0.001394700139470014, 
+        "Rx": 0.001394700139470014, 
+        "S": 0.001394700139470014, 
+        "SBP": 0.001394700139470014, 
+        "SOB/wheezing": 0.001394700139470014, 
+        "SPRAY": 0.002789400278940028, 
+        "STATUS:": 0.001394700139470014, 
+        "STUFFED": 0.001394700139470014, 
+        "SUMMARY:": 0.001394700139470014, 
+        "Sconrock": 0.001394700139470014, 
+        "Service:": 0.001394700139470014, 
+        "Shortness": 0.001394700139470014, 
+        "Stable": 0.001394700139470014, 
+        "Starting": 0.002789400278940028, 
+        "Status:": 0.001394700139470014, 
+        "Study": 0.001394700139470014, 
+        "TAB": 0.001394700139470014, 
+        "THE": 0.001394700139470014, 
+        "THEOPHYLLINE": 0.001394700139470014, 
+        "TID": 0.001394700139470014, 
+        "TO": 0.0041841004184100415, 
+        "TREATMENTS/PROCEDURES": 0.001394700139470014, 
+        "TUESDAY": 0.001394700139470014, 
+        "The": 0.001394700139470014, 
+        "Today": 0.002789400278940028, 
+        "Treatment/Stay": 0.001394700139470014, 
+        "Tuesday": 0.001394700139470014, 
+        "UNIVERSITY": 0.001394700139470014, 
+        "UP": 0.001394700139470014, 
+        "UPON": 0.001394700139470014, 
+        "URTI.": 0.001394700139470014, 
+        "USED": 0.001394700139470014, 
+        "Usual": 0.001394700139470014, 
+        "VH": 0.001394700139470014, 
+        "VIT": 0.001394700139470014, 
+        "WESTGIFF": 0.001394700139470014, 
+        "WILL": 0.001394700139470014, 
+        "WIMBS": 0.001394700139470014, 
+        "WITH": 0.001394700139470014, 
+        "We": 0.002789400278940028, 
+        "Well": 0.001394700139470014, 
+        "Wheezing": 0.001394700139470014, 
+        "YES": 0.001394700139470014, 
+        "YOU": 0.001394700139470014, 
+        "YOUR": 0.002789400278940028, 
+        "a": 0.002789400278940028, 
+        "abuse": 0.002789400278940028, 
+        "accessory": 0.001394700139470014, 
+        "acid": 0.002789400278940028, 
+        "adequate": 0.001394700139470014, 
+        "adhesive": 0.001394700139470014, 
+        "admitted": 0.001394700139470014, 
+        "advair.": 0.001394700139470014, 
+        "affecting": 0.001394700139470014, 
+        "ago": 0.002789400278940028, 
+        "air": 0.001394700139470014, 
+        "airway": 0.001394700139470014, 
+        "alb": 0.001394700139470014, 
+        "ampicillin": 0.001394700139470014, 
+        "and": 0.008368200836820083, 
+        "apnea": 0.001394700139470014, 
+        "appointment": 0.001394700139470014, 
+        "approximate": 0.001394700139470014, 
+        "as": 0.001394700139470014, 
+        "at": 0.002789400278940028, 
+        "back": 0.001394700139470014, 
+        "bation": 0.001394700139470014, 
+        "be": 0.001394700139470014, 
+        "been": 0.001394700139470014, 
+        "before": 0.001394700139470014, 
+        "blood": 0.002789400278940028, 
+        "but": 0.002789400278940028, 
+        "by": 0.001394700139470014, 
+        "ca": 0.001394700139470014, 
+        "call": 0.0041841004184100415, 
+        "capsulitis": 0.002789400278940028, 
+        "care": 0.001394700139470014, 
+        "carpets.": 0.001394700139470014, 
+        "checking": 0.001394700139470014, 
+        "chest": 0.002789400278940028, 
+        "chol/low": 0.001394700139470014, 
+        "chronic": 0.001394700139470014, 
+        "clear": 0.001394700139470014, 
+        "code": 0.001394700139470014, 
+        "colds": 0.001394700139470014, 
+        "consistently": 0.001394700139470014, 
+        "consulted": 0.001394700139470014, 
+        "continued": 0.001394700139470014, 
+        "contributing": 0.001394700139470014, 
+        "cough": 0.001394700139470014, 
+        "creatinine": 0.001394700139470014, 
+        "cuff": 0.002789400278940028, 
+        "d": 0.001394700139470014, 
+        "day": 0.0041841004184100415, 
+        "day.": 0.001394700139470014, 
+        "days": 0.002789400278940028, 
+        "depression": 0.001394700139470014, 
+        "despite": 0.001394700139470014, 
+        "developed": 0.002789400278940028, 
+        "dictated": 0.001394700139470014, 
+        "diffuse": 0.001394700139470014, 
+        "discharge": 0.001394700139470014, 
+        "discharge.": 0.001394700139470014, 
+        "draw": 0.001394700139470014, 
+        "due": 0.001394700139470014, 
+        "dusty": 0.001394700139470014, 
+        "edema": 0.001394700139470014, 
+        "epinephrine": 0.001394700139470014, 
+        "evaluation": 0.001394700139470014, 
+        "exacer": 0.001394700139470014, 
+        "exacerbation": 0.0041841004184100415, 
+        "exercise": 0.001394700139470014, 
+        "exp": 0.001394700139470014, 
+        "fat": 0.001394700139470014, 
+        "feet": 0.001394700139470014, 
+        "felt": 0.001394700139470014, 
+        "flow": 0.001394700139470014, 
+        "flowers": 0.001394700139470014, 
+        "for": 0.005578800557880056, 
+        "frequently": 0.001394700139470014, 
+        "from": 0.001394700139470014, 
+        "got": 0.002789400278940028, 
+        "had": 0.001394700139470014, 
+        "have": 0.002789400278940028, 
+        "hctz.": 0.001394700139470014, 
+        "heart": 0.001394700139470014, 
+        "her": 0.001394700139470014, 
+        "history": 0.001394700139470014, 
+        "home": 0.0041841004184100415, 
+        "hosp/icu": 0.001394700139470014, 
+        "hypertension": 0.001394700139470014, 
+        "in": 0.001394700139470014, 
+        "increased": 0.0041841004184100415, 
+        "infiltrates": 0.001394700139470014, 
+        "intubated": 0.001394700139470014, 
+        "likely": 0.001394700139470014, 
+        "lobster": 0.001394700139470014, 
+        "low": 0.001394700139470014, 
+        "lungs": 0.001394700139470014, 
+        "may": 0.001394700139470014, 
+        "medicine": 0.001394700139470014, 
+        "methadone": 0.001394700139470014, 
+        "mg": 0.009762900976290097, 
+        "might": 0.001394700139470014, 
+        "morbid": 0.001394700139470014, 
+        "more": 0.001394700139470014, 
+        "movement": 0.001394700139470014, 
+        "multiple": 0.001394700139470014, 
+        "muscles": 0.001394700139470014, 
+        "nebs": 0.001394700139470014, 
+        "nebs.": 0.001394700139470014, 
+        "nebs/methadone": 0.001394700139470014, 
+        "never": 0.001394700139470014, 
+        "nexium": 0.002789400278940028, 
+        "no": 0.002789400278940028, 
+        "non": 0.001394700139470014, 
+        "none": 0.002789400278940028, 
+        "nose": 0.001394700139470014, 
+        "not": 0.001394700139470014, 
+        "of": 0.009762900976290097, 
+        "on": 0.002789400278940028, 
+        "once": 0.001394700139470014, 
+        "opiate": 0.001394700139470014, 
+        "opioid": 0.001394700139470014, 
+        "oxycodone": 0.002789400278940028, 
+        "pain": 0.002789400278940028, 
+        "past": 0.001394700139470014, 
+        "pathway": 0.001394700139470014, 
+        "patient": 0.001394700139470014, 
+        "patients": 0.001394700139470014, 
+        "pending": 0.001394700139470014, 
+        "pets": 0.001394700139470014, 
+        "pitting": 0.001394700139470014, 
+        "po": 0.001394700139470014, 
+        "potassium": 0.001394700139470014, 
+        "prednisone": 0.002789400278940028, 
+        "pressure": 0.001394700139470014, 
+        "pt": 0.001394700139470014, 
+        "q1hr": 0.001394700139470014, 
+        "qd.": 0.001394700139470014, 
+        "qid": 0.001394700139470014, 
+        "racing": 0.001394700139470014, 
+        "rapid": 0.002789400278940028, 
+        "recommended": 0.001394700139470014, 
+        "reflux": 0.001394700139470014, 
+        "regimen": 0.001394700139470014, 
+        "regular": 0.001394700139470014, 
+        "requests": 0.001394700139470014, 
+        "rotator": 0.002789400278940028, 
+        "runny": 0.001394700139470014, 
+        "sat.": 0.001394700139470014, 
+        "saw": 0.001394700139470014, 
+        "sbp<100": 0.002789400278940028, 
+        "scheduled": 0.002789400278940028, 
+        "sentences": 0.001394700139470014, 
+        "service": 0.001394700139470014, 
+        "services": 0.001394700139470014, 
+        "short": 0.001394700139470014, 
+        "sleep": 0.001394700139470014, 
+        "started": 0.001394700139470014, 
+        "stays": 0.001394700139470014, 
+        "steroids": 0.001394700139470014, 
+        "still": 0.001394700139470014, 
+        "stomach": 0.001394700139470014, 
+        "stop": 0.001394700139470014, 
+        "stuffiness": 0.001394700139470014, 
+        "substance": 0.001394700139470014, 
+        "summary": 0.001394700139470014, 
+        "suppression": 0.001394700139470014, 
+        "swelling": 0.001394700139470014, 
+        "taper": 0.002789400278940028, 
+        "tear": 0.002789400278940028, 
+        "than": 0.001394700139470014, 
+        "the": 0.001394700139470014, 
+        "then": 0.001394700139470014, 
+        "this": 0.001394700139470014, 
+        "tid": 0.001394700139470014, 
+        "tightness": 0.001394700139470014, 
+        "tightness.": 0.001394700139470014, 
+        "time": 0.001394700139470014, 
+        "to": 0.00697350069735007, 
+        "tolerated": 0.001394700139470014, 
+        "triggered": 0.001394700139470014, 
+        "triggers": 0.001394700139470014, 
+        "twice": 0.001394700139470014, 
+        "until": 0.001394700139470014, 
+        "upper": 0.001394700139470014, 
+        "use": 0.001394700139470014, 
+        "vasotec": 0.002789400278940028, 
+        "w/": 0.001394700139470014, 
+        "was": 0.001394700139470014, 
+        "we": 0.002789400278940028, 
+        "wheezing": 0.0041841004184100415, 
+        "wheezing.": 0.001394700139470014, 
+        "when": 0.001394700139470014, 
+        "with": 0.00697350069735007, 
+        "worsening": 0.001394700139470014, 
+        "x5": 0.001394700139470014, 
+        "x5d": 0.002789400278940028, 
+        "your": 0.005578800557880056, 
+        "|": 0.012552301255230125
+    }
+}

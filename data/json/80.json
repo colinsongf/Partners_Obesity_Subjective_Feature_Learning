@@ -1,0 +1,2434 @@
+{
+    "bi": {
+        "#": {
+            "ref": 1.0
+        }, 
+        "#asthma#": {
+            "and": 1.0
+        }, 
+        "#obese#": {
+            "(": 0.3333333333333333, 
+            "morbid": 0.6666666666666666
+        }, 
+        "&": {
+            "CLONAZEPAM": 1.0
+        }, 
+        "(": {
+            "#obese#": 0.043478260869565216, 
+            ")": 0.30434782608695654, 
+            "AM": 0.043478260869565216, 
+            "COLACE": 0.043478260869565216, 
+            "ECASA": 0.043478260869565216, 
+            "INHALER": 0.043478260869565216, 
+            "KLONOPIN": 0.043478260869565216, 
+            "M.D.": 0.043478260869565216, 
+            "PO": 0.08695652173913043, 
+            "PRILOSEC": 0.043478260869565216, 
+            "PROZAC": 0.043478260869565216, 
+            "TREATMENTS/PROCEDURES": 0.043478260869565216, 
+            "Today": 0.043478260869565216, 
+            "ZESTRIL": 0.043478260869565216, 
+            "apnea": 0.043478260869565216, 
+            "psoriasis": 0.043478260869565216
+        }, 
+        ")": {
+            "#obese#": 0.03225806451612903, 
+            "12922629": 0.03225806451612903, 
+            "2/7/01-09": 0.03225806451612903, 
+            "23229788": 0.03225806451612903, 
+            "3/6/01-09": 0.03225806451612903, 
+            "4/26/01-09": 0.03225806451612903, 
+            "5/9/01-10": 0.03225806451612903, 
+            "7/24/01-10": 0.03225806451612903, 
+            "7/27/01-09": 0.03225806451612903, 
+            "9/13/01-09": 0.03225806451612903, 
+            "9/2": 0.06451612903225806, 
+            "Admission": 0.03225806451612903, 
+            "BY60": 0.03225806451612903, 
+            "CLONAZEPAM": 0.03225806451612903, 
+            "COATED": 0.03225806451612903, 
+            "HCL": 0.03225806451612903, 
+            "INHALER": 0.03225806451612903, 
+            "LISINOPRIL": 0.03225806451612903, 
+            "O.R.": 0.03225806451612903, 
+            "OMEPRAZOLE": 0.03225806451612903, 
+            "SODIUM": 0.03225806451612903, 
+            "apnea": 0.03225806451612903, 
+            "psoriasis": 0.03225806451612903, 
+            "s": 0.22580645161290322
+        }, 
+        "******": {
+            "2/29/2001": 0.3333333333333333, 
+            "AM": 0.3333333333333333, 
+            "ORDERS": 0.3333333333333333
+        }, 
+        "+": {
+            "PPD": 1.0
+        }, 
+        ",": {
+            "#obese#": 0.04, 
+            ")": 0.28, 
+            "CONER": 0.04, 
+            "Complications": 0.04, 
+            "DARELL": 0.04, 
+            "DIAGNOSIS;Conditions": 0.04, 
+            "DIOMEDE": 0.04, 
+            "DOMINGO": 0.04, 
+            "ELDON": 0.04, 
+            "FRIEDRICHS": 0.04, 
+            "HUNZIKER": 0.04, 
+            "Infections": 0.04, 
+            "JAY": 0.04, 
+            "JIM": 0.04, 
+            "KRIS": 0.04, 
+            "PFTs": 0.04, 
+            "RESSEGUIE": 0.04, 
+            "apnea": 0.04, 
+            "pain": 0.04
+        }, 
+        "---done": {
+            "then": 1.0
+        }, 
+        "/": {
+            "House": 1.0
+        }, 
+        "02:00": {
+            "AT": 1.0
+        }, 
+        "1": {
+            ")": 0.5, 
+            "PERCOCET": 0.5
+        }, 
+        "10": {
+            ")": 0.5, 
+            "Give": 0.5
+        }, 
+        "100": {
+            ")": 1.0
+        }, 
+        "10:58": {
+            "@": 1.0
+        }, 
+        "11/11/01": {
+            "on": 1.0
+        }, 
+        "12922629": {
+            "#": 1.0
+        }, 
+        "12:00:00": {
+            "3/16/2001": 1.0
+        }, 
+        "150": {
+            "NIFEREX-150": 1.0
+        }, 
+        "2": {
+            ")": 0.1111111111111111, 
+            "INHALER": 0.1111111111111111, 
+            "X": 0.7777777777777778
+        }, 
+        "2/29/2001": {
+            "Date:": 1.0
+        }, 
+        "2/7/01-09": {
+            "(": 1.0
+        }, 
+        "20": {
+            ")": 0.6666666666666666, 
+            "Give": 0.3333333333333333
+        }, 
+        "23229788": {
+            "#": 1.0
+        }, 
+        "250": {
+            "AZITHROMYCIN": 1.0
+        }, 
+        "281484": {
+            "|": 1.0
+        }, 
+        "3/16/2001": {
+            "|": 1.0
+        }, 
+        "3/6/01-09": {
+            "(": 1.0
+        }, 
+        "30": {
+            "Give": 1.0
+        }, 
+        "325": {
+            ")": 1.0
+        }, 
+        "37": {
+            "COURSE:": 1.0
+        }, 
+        "4": {
+            "X": 1.0
+        }, 
+        "4/26/01-09": {
+            "(": 1.0
+        }, 
+        "40": {
+            "Give": 1.0
+        }, 
+        "41742729": {
+            "|": 1.0
+        }, 
+        "468422454": {
+            "": 1.0
+        }, 
+        "5": {
+            "Give": 1.0
+        }, 
+        "5/9/01-10": {
+            "(": 1.0
+        }, 
+        "50": {
+            "ATENOLOL": 0.5, 
+            "Give": 0.5
+        }, 
+        "514-36-87-1": {
+            "DAVID": 1.0
+        }, 
+        "60": {
+            "Give": 1.0
+        }, 
+        "7": {
+            "X": 1.0
+        }, 
+        "7/24/01-10": {
+            "(": 1.0
+        }, 
+        "7/27/01-09": {
+            "(": 1.0
+        }, 
+        "8/30/2001": {
+            "Date:": 1.0
+        }, 
+        "9/13/01-09": {
+            "(": 1.0
+        }, 
+        "9/2": {
+            "(": 1.0
+        }, 
+        "9/30/01": {
+            ")": 0.5, 
+            "ON:": 0.5
+        }, 
+        ";Responsible": {
+            "DIAGNOSIS": 1.0
+        }, 
+        "@": {
+            "9/30/01": 1.0
+        }, 
+        "ADDITIONAL": {
+            "home.": 1.0
+        }, 
+        "ADMIT": {
+            "Allergies": 1.0
+        }, 
+        "ALBUTEROL": {
+            "QD": 1.0
+        }, 
+        "AM": {
+            "10:58": 0.3333333333333333, 
+            "12:00:00": 0.3333333333333333, 
+            "IN": 0.3333333333333333
+        }, 
+        "AND": {
+            "OPERATIONS": 1.0
+        }, 
+        "AS": {
+            "USED": 1.0
+        }, 
+        "ASPIRIN": {
+            "(": 1.0
+        }, 
+        "AT": {
+            "9/30/01": 1.0
+        }, 
+        "ATENOLOL": {
+            "QD": 1.0
+        }, 
+        "ATROVENT": {
+            "QID": 1.0
+        }, 
+        "AZITHROMYCIN": {
+            "&": 0.5714285714285714, 
+            "for": 0.2857142857142857, 
+            "pain": 0.14285714285714285
+        }, 
+        "Admission": {
+            "Causing": 0.5, 
+            "|": 0.5
+        }, 
+        "After": {
+            ";Responsible": 0.5, 
+            "WORK:": 0.5
+        }, 
+        "Alert": {
+            "food": 1.0
+        }, 
+        "Allergies": {
+            "Known": 1.0
+        }, 
+        "Anxiety": {
+            "HTN": 1.0
+        }, 
+        "Applicable": {
+            "Not": 1.0
+        }, 
+        "Appt": {
+            "After": 1.0
+        }, 
+        "Ativan": {
+            "and": 1.0
+        }, 
+        "Attending:": {
+            "YES": 1.0
+        }, 
+        "BARTON": {
+            ",": 1.0
+        }, 
+        "BE": {
+            "ORDER": 1.0
+        }, 
+        "BID": {
+            "PO": 1.0
+        }, 
+        "BRIEF": {
+            "none": 1.0
+        }, 
+        "BY60": {
+            "(": 1.0
+        }, 
+        "BY:": {
+            "ENTERED": 1.0
+        }, 
+        "Borderline": {
+            "Treatment/Stay": 1.0
+        }, 
+        "CLONAZEPAM": {
+            "(": 0.2, 
+            "INTERACTION:": 0.8
+        }, 
+        "COATED": {
+            "ENTERIC": 1.0
+        }, 
+        "CODE": {
+            "M.D.": 1.0
+        }, 
+        "COLACE": {
+            "monitor": 1.0
+        }, 
+        "COLUMBUS": {
+            ",": 1.0
+        }, 
+        "COMMENTS:": {
+            "ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            "DISCHARGE": 1.0
+        }, 
+        "CONER": {
+            "Attending:": 1.0
+        }, 
+        "CONTINGENT": {
+            "PM": 1.0
+        }, 
+        "COURSE:": {
+            "HOSPITAL": 1.0
+        }, 
+        "Causing": {
+            "for": 1.0
+        }, 
+        "Complications": {
+            ",": 1.0
+        }, 
+        "D/C": {
+            "THE": 0.5, 
+            "WILL": 0.5
+        }, 
+        "D/O": {
+            "Anxiety": 1.0
+        }, 
+        "DAMC": {
+            "|": 1.0
+        }, 
+        "DARELL": {
+            "COLUMBUS": 1.0
+        }, 
+        "DAVID": {
+            ",": 1.0
+        }, 
+        "DIAGNOSIS": {
+            "DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "OTHER": 1.0
+        }, 
+        "DIET:": {
+            "---done": 1.0
+        }, 
+        "DIOMEDE": {
+            "******": 1.0
+        }, 
+        "DIS": {
+            "|": 1.0
+        }, 
+        "DISCHARGE": {
+            "******": 0.16666666666666666, 
+            "COMMENTS:": 0.16666666666666666, 
+            "Home": 0.16666666666666666, 
+            "MED": 0.16666666666666666, 
+            "OF": 0.16666666666666666, 
+            "PRINCIPAL": 0.16666666666666666
+        }, 
+        "DISPOSITION:": {
+            "code": 1.0
+        }, 
+        "DO/PLAN:": {
+            "TO": 1.0
+        }, 
+        "DOCUSATE": {
+            "(": 1.0
+        }, 
+        "DOMINGO": {
+            "LEN": 1.0
+        }, 
+        "Date:": {
+            "Admission": 0.5, 
+            "Discharge": 0.5
+        }, 
+        "Days": {
+            "4": 0.5, 
+            "7": 0.5
+        }, 
+        "Discharge": {
+            "Status:": 1.0
+        }, 
+        "ECASA": {
+            "MEDICATIONS:": 1.0
+        }, 
+        "ED.": {
+            "in": 1.0
+        }, 
+        "ELDON": {
+            "BARTON": 1.0
+        }, 
+        "END": {
+            "******": 1.0
+        }, 
+        "ENTERED": {
+            "summary": 1.0
+        }, 
+        "ENTERIC": {
+            "ASPIRIN": 1.0
+        }, 
+        "ERIK": {
+            ",": 1.0
+        }, 
+        "Ertna": {
+            "U": 1.0
+        }, 
+        "FLUOXETINE": {
+            "(": 1.0
+        }, 
+        "FRIEDRICHS": {
+            "by": 1.0
+        }, 
+        "Food/Drug": {
+            ")": 0.5, 
+            "QD": 0.5
+        }, 
+        "Full": {
+            "STATUS:": 1.0
+        }, 
+        "G5P4TAB1": {
+            "INH": 1.0
+        }, 
+        "Give": {
+            "---done": 0.8571428571428571, 
+            "PO": 0.14285714285714285
+        }, 
+        "HCL": {
+            "FLUOXETINE": 1.0
+        }, 
+        "HOSPITAL": {
+            "OF": 1.0
+        }, 
+        "HTN": {
+            "Borderline": 1.0
+        }, 
+        "HTN.": {
+            "borderline": 1.0
+        }, 
+        "HUNZIKER": {
+            "by": 1.0
+        }, 
+        "Had": {
+            "HTN.": 1.0
+        }, 
+        "Home": {
+            "DISPOSITION:": 1.0
+        }, 
+        "House": {
+            "DIET:": 1.0
+        }, 
+        "IN": {
+            "NOT": 0.5, 
+            "Starting": 0.5
+        }, 
+        "INH": {
+            "PUFF": 0.6666666666666666, 
+            "s/p": 0.3333333333333333
+        }, 
+        "INHALER": {
+            "ALBUTEROL": 0.3333333333333333, 
+            "ATROVENT": 0.3333333333333333, 
+            "IPRATROPIUM": 0.3333333333333333
+        }, 
+        "INTERACTION:": {
+            "SERIOUS": 1.0
+        }, 
+        "IPRATROPIUM": {
+            "(": 1.0
+        }, 
+        "Infections": {
+            ",": 1.0
+        }, 
+        "Instruction": {
+            "Interaction": 1.0
+        }, 
+        "Interaction": {
+            "Food/Drug": 1.0
+        }, 
+        "JAY": {
+            "BY:": 1.0
+        }, 
+        "JIM": {
+            "ERIK": 1.0
+        }, 
+        "KLONOPIN": {
+            "stomach.": 1.0
+        }, 
+        "KRIS": {
+            "LAMAR": 1.0
+        }, 
+        "Known": {
+            "No": 1.0
+        }, 
+        "LAMAR": {
+            ",": 1.0
+        }, 
+        "LEN": {
+            ",": 1.0
+        }, 
+        "LISINOPRIL": {
+            "(": 1.0
+        }, 
+        "Leigh": {
+            "Ertna": 1.0
+        }, 
+        "Low": {
+            "/": 1.0
+        }, 
+        "M.D.": {
+            ",": 1.0
+        }, 
+        "MED": {
+            "Service:": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "DISCHARGE": 1.0
+        }, 
+        "MG": {
+            "1": 0.1111111111111111, 
+            "10": 0.1111111111111111, 
+            "100": 0.1111111111111111, 
+            "150": 0.1111111111111111, 
+            "20": 0.2222222222222222, 
+            "250": 0.1111111111111111, 
+            "325": 0.1111111111111111, 
+            "50": 0.1111111111111111
+        }, 
+        "Macrolide": {
+            "of": 1.0
+        }, 
+        "NIFEREX-150": {
+            "QD": 1.0
+        }, 
+        "NOT": {
+            "(": 1.0
+        }, 
+        "Nebs": {
+            "to": 1.0
+        }, 
+        "No": {
+            "DO/PLAN:": 0.5, 
+            "physician": 0.5
+        }, 
+        "Not": {
+            "UPON": 1.0
+        }, 
+        "Notice:": {
+            "Override": 1.0
+        }, 
+        "Now": {
+            "coronaries.": 1.0
+        }, 
+        "O.R.": {
+            "IN": 1.0
+        }, 
+        "OF": {
+            "END": 0.5, 
+            "RESUME": 0.5
+        }, 
+        "OMEPRAZOLE": {
+            "(": 1.0
+        }, 
+        "ON:": {
+            "PATIENT": 1.0
+        }, 
+        "OPERATIONS": {
+            ")": 1.0
+        }, 
+        "ORDER": {
+            "D/C": 1.0
+        }, 
+        "ORDERS": {
+            "DISCHARGE": 1.0
+        }, 
+        "OTHER": {
+            "etiology": 0.5, 
+            "none": 0.5
+        }, 
+        "Override": {
+            "Notice:": 0.25, 
+            "TID": 0.25, 
+            "information:": 0.25, 
+            "overridden:": 0.25
+        }, 
+        "PATIENT": {
+            "DISCHARGE": 1.0
+        }, 
+        "PERCOCET": {
+            "BID": 1.0
+        }, 
+        "PFTs": {
+            "by": 1.0
+        }, 
+        "PM": {
+            "02:00": 1.0
+        }, 
+        "PO": {
+            "AZITHROMYCIN": 0.15384615384615385, 
+            "MG": 0.6923076923076923, 
+            "TAB": 0.07692307692307693, 
+            "Taper": 0.07692307692307693
+        }, 
+        "POTENTIALLY": {
+            ")": 0.5, 
+            "AZITHROMYCIN": 0.25, 
+            "M.D.": 0.25
+        }, 
+        "PPD": {
+            "D/O": 1.0
+        }, 
+        "PREDNISONE": {
+            "QID": 1.0
+        }, 
+        "PRILOSEC": {
+            "monitor": 1.0
+        }, 
+        "PRINCIPAL": {
+            "sob": 1.0
+        }, 
+        "PRN": {
+            ")": 1.0
+        }, 
+        "PROCEDURES:": {
+            "AND": 1.0
+        }, 
+        "PROZAC": {
+            "BID": 1.0
+        }, 
+        "PUFF": {
+            "2": 1.0
+        }, 
+        "Previous": {
+            "monitor": 1.0
+        }, 
+        "Q6H": {
+            "PO": 1.0
+        }, 
+        "QD": {
+            "PO": 0.46153846153846156, 
+            "mg": 0.5384615384615384
+        }, 
+        "QID": {
+            "INH": 1.0
+        }, 
+        "RESSEGUIE": {
+            "by": 1.0
+        }, 
+        "RESUME": {
+            "BRIEF": 1.0
+        }, 
+        "RETURN": {
+            "fat": 1.0
+        }, 
+        "Reason": {
+            "AZITHROMYCIN": 1.0
+        }, 
+        "Report": {
+            "8/30/2001": 1.0
+        }, 
+        "Responded": {
+            "anxiety.": 1.0
+        }, 
+        "SERIOUS": {
+            "POTENTIALLY": 1.0
+        }, 
+        "SOB": {
+            "of": 1.0
+        }, 
+        "SODIUM": {
+            "DOCUSATE": 1.0
+        }, 
+        "STATUS:": {
+            "CODE": 1.0
+        }, 
+        "SUMMARY:": {
+            "D/C": 1.0
+        }, 
+        "Service:": {
+            "Leigh": 1.0
+        }, 
+        "Stable": {
+            "CONDITION:": 1.0
+        }, 
+        "Starting": {
+            "Days": 1.0
+        }, 
+        "Status:": {
+            "Report": 1.0
+        }, 
+        "Study": {
+            "After": 1.0
+        }, 
+        "TAB": {
+            "1": 1.0
+        }, 
+        "THE": {
+            "AS": 1.0
+        }, 
+        "TID": {
+            "PO": 1.0
+        }, 
+        "TO": {
+            "RETURN": 0.5, 
+            "Stable": 0.5
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "OTHER": 1.0
+        }, 
+        "Take": {
+            "Instruction": 1.0
+        }, 
+        "Taper": {
+            "PREDNISONE": 1.0
+        }, 
+        "Today": {
+            "Starting": 1.0
+        }, 
+        "Treatment/Stay": {
+            "affecting": 1.0
+        }, 
+        "U": {
+            "514-36-87-1": 1.0
+        }, 
+        "UPON": {
+            "CONTINGENT": 1.0
+        }, 
+        "USED": {
+            "BE": 1.0
+        }, 
+        "WILL": {
+            "Applicable": 1.0
+        }, 
+        "WORK:": {
+            "TO": 1.0
+        }, 
+        "Will": {
+            "ED.": 1.0
+        }, 
+        "X": {
+            "Q6H": 0.1111111111111111, 
+            "QD": 0.8888888888888888
+        }, 
+        "YES": {
+            "SUMMARY:": 1.0
+        }, 
+        "ZESTRIL": {
+            "QD": 1.0
+        }, 
+        "added": {
+            "Override": 1.0
+        }, 
+        "admission": {
+            "last": 1.0
+        }, 
+        "admissions": {
+            "multiple": 1.0
+        }, 
+        "affecting": {
+            ",": 1.0
+        }, 
+        "and": {
+            "Nebs": 0.25, 
+            "SOB": 0.25, 
+            "admission": 0.25, 
+            "attack\"": 0.25
+        }, 
+        "antibio": {
+            "Macrolide": 1.0
+        }, 
+        "anxiety.": {
+            "and": 1.0
+        }, 
+        "apnea": {
+            "sleep": 1.0
+        }, 
+        "at": {
+            "tracheobronchitis": 1.0
+        }, 
+        "attack\"": {
+            "#asthma#": 1.0
+        }, 
+        "atypical": {
+            "for": 1.0
+        }, 
+        "atypicals": {
+            "cover": 1.0
+        }, 
+        "borderline": {
+            ",": 1.0
+        }, 
+        "by": {
+            "11/11/01": 0.75, 
+            "dz": 0.25
+        }, 
+        "cath": {
+            "Had": 1.0
+        }, 
+        "chest": {
+            "atypical": 1.0
+        }, 
+        "chol/low": {
+            "Low": 1.0
+        }, 
+        "clean": {
+            "showed": 1.0
+        }, 
+        "code": {
+            "Full": 1.0
+        }, 
+        "comes": {
+            "Now": 1.0
+        }, 
+        "complaining": {
+            "in": 1.0
+        }, 
+        "complete": {
+            "to": 1.0
+        }, 
+        "consistently": {
+            "Take": 1.0
+        }, 
+        "coronaries.": {
+            "clean": 1.0
+        }, 
+        "course": {
+            "complete": 1.0
+        }, 
+        "cover": {
+            "to": 1.0
+        }, 
+        "d/c": {
+            "Will": 1.0
+        }, 
+        "day(": {
+            "2": 1.0
+        }, 
+        "dictated": {
+            "No": 1.0
+        }, 
+        "dz": {
+            "lung": 1.0
+        }, 
+        "empty": {
+            "on": 1.0
+        }, 
+        "etiology": {
+            "unknown": 1.0
+        }, 
+        "fat": {
+            "sat.": 1.0
+        }, 
+        "food": {
+            "with": 1.0
+        }, 
+        "for": {
+            "Reason": 0.375, 
+            "Study": 0.125, 
+            "admissions": 0.125, 
+            "atypicals": 0.125, 
+            "order": 0.25
+        }, 
+        "home.": {
+            "at": 1.0
+        }, 
+        "in": {
+            "Ativan": 0.5, 
+            "comes": 0.5
+        }, 
+        "information:": {
+            "override": 1.0
+        }, 
+        "last": {
+            "cath": 1.0
+        }, 
+        "local": {
+            "with": 1.0
+        }, 
+        "lung": {
+            "restrictive": 1.0
+        }, 
+        "meals": {
+            "with": 1.0
+        }, 
+        "mg": {
+            "10": 0.14285714285714285, 
+            "20": 0.14285714285714285, 
+            "30": 0.14285714285714285, 
+            "40": 0.14285714285714285, 
+            "5": 0.14285714285714285, 
+            "50": 0.14285714285714285, 
+            "60": 0.14285714285714285
+        }, 
+        "monitor": {
+            "override:": 1.0
+        }, 
+        "morbid": {
+            ",": 0.5, 
+            "G5P4TAB1": 0.5
+        }, 
+        "multiple": {
+            "yo": 1.0
+        }, 
+        "none": {
+            ")": 0.5, 
+            "PROCEDURES:": 0.5
+        }, 
+        "obstructive": {
+            ")": 1.0
+        }, 
+        "of": {
+            "complaining": 0.25, 
+            "course": 0.25, 
+            "sob": 0.5
+        }, 
+        "on": {
+            "M.D.": 0.3333333333333333, 
+            "added": 0.5, 
+            "or": 0.16666666666666666
+        }, 
+        "or": {
+            "meals": 1.0
+        }, 
+        "order": {
+            "on": 1.0
+        }, 
+        "overridden:": {
+            "Alert": 1.0
+        }, 
+        "override": {
+            "Previous": 1.0
+        }, 
+        "override:": {
+            "for": 1.0
+        }, 
+        "pain": {
+            "PRN": 0.5, 
+            "chest": 0.5
+        }, 
+        "physician": {
+            "local": 1.0
+        }, 
+        "psoriasis": {
+            "(": 0.5, 
+            ")": 0.5
+        }, 
+        "ref": {
+            "(": 1.0
+        }, 
+        "restrictive": {
+            ",": 1.0
+        }, 
+        "s": {
+            "day(": 1.0
+        }, 
+        "s/p": {
+            "+": 1.0
+        }, 
+        "sat.": {
+            "chol/low": 1.0
+        }, 
+        "showed": {
+            "and": 1.0
+        }, 
+        "sleep": {
+            "(": 0.3333333333333333, 
+            ",": 0.3333333333333333, 
+            "obstructive": 0.3333333333333333
+        }, 
+        "sob": {
+            ")": 0.3333333333333333, 
+            "DIAGNOSIS:": 0.3333333333333333, 
+            "|": 0.3333333333333333
+        }, 
+        "stomach.": {
+            "empty": 1.0
+        }, 
+        "summary": {
+            "dictated": 1.0
+        }, 
+        "then": {
+            ",": 1.0
+        }, 
+        "tic": {
+            "antibio": 1.0
+        }, 
+        "to": {
+            "d/c": 0.3333333333333333, 
+            "tic": 0.3333333333333333, 
+            "well": 0.3333333333333333
+        }, 
+        "tracheobronchitis": {
+            "for": 1.0
+        }, 
+        "unknown": {
+            "of": 1.0
+        }, 
+        "well": {
+            "Responded": 1.0
+        }, 
+        "with": {
+            "Appt": 0.3333333333333333, 
+            "Take": 0.3333333333333333, 
+            "consistently": 0.3333333333333333
+        }, 
+        "yo": {
+            "37": 1.0
+        }, 
+        "|": {
+            "281484": 0.1111111111111111, 
+            "41742729": 0.1111111111111111, 
+            "468422454": 0.1111111111111111, 
+            "AM": 0.1111111111111111, 
+            "DAMC": 0.1111111111111111, 
+            "DIS": 0.1111111111111111, 
+            "etiology": 0.1111111111111111, 
+            "|": 0.2222222222222222
+        }
+    }, 
+    "id": "80", 
+    "text": " 468422454 | DAMC | 41742729 | | 281484 | 3/16/2001 12:00:00 AM | sob of unknown etiology | | DIS | Admission Date: 8/30/2001 Report Status: Discharge Date: 2/29/2001 ****** DISCHARGE ORDERS ****** DIOMEDE , DAVID 514-36-87-1 U Ertna Leigh Service: MED DISCHARGE PATIENT ON: 9/30/01 AT 02:00 PM CONTINGENT UPON Not Applicable WILL D/C ORDER BE USED AS THE D/C SUMMARY: YES Attending: CONER , LEN DOMINGO , M.D. CODE STATUS: Full code DISPOSITION: Home DISCHARGE MEDICATIONS: ECASA ( ASPIRIN ENTERIC COATED ) 325 MG PO QD ATENOLOL 50 MG PO QD Food/Drug Interaction Instruction Take consistently with meals or on empty stomach. KLONOPIN ( CLONAZEPAM ) 1 MG PO TID Override Notice: Override added on 11/11/01 by FRIEDRICHS , ERIK JIM , M.D. on order for AZITHROMYCIN PO ( ref # 12922629 ) POTENTIALLY SERIOUS INTERACTION: CLONAZEPAM & AZITHROMYCIN Reason for override: monitor Previous override information: Override added on 11/11/01 by RESSEGUIE , COLUMBUS DARELL , M.D. on order for AZITHROMYCIN PO ( ref # 23229788 ) POTENTIALLY SERIOUS INTERACTION: CLONAZEPAM & AZITHROMYCIN Reason for override: monitor COLACE ( DOCUSATE SODIUM ) 100 MG PO BID PROZAC ( FLUOXETINE HCL ) 20 MG PO QD ZESTRIL ( LISINOPRIL ) 10 MG PO QD NIFEREX-150 150 MG PO BID PERCOCET 1 TAB PO Q6H X 7 Days Starting Today ( 9/2 ) PRN pain AZITHROMYCIN 250 MG PO QD X 4 Days Starting IN AM ( 9/2 ) Food/Drug Interaction Instruction Take with food Alert overridden: Override added on 11/11/01 by HUNZIKER , BARTON ELDON , M.D. POTENTIALLY SERIOUS INTERACTION: CLONAZEPAM & AZITHROMYCIN POTENTIALLY SERIOUS INTERACTION: CLONAZEPAM & AZITHROMYCIN Reason for override: monitor PRILOSEC ( OMEPRAZOLE ) 20 MG PO QD ALBUTEROL INHALER 2 PUFF INH QID ATROVENT INHALER ( IPRATROPIUM INHALER ) 2 PUFF INH QID PREDNISONE Taper PO Give 60 mg QD X 2 day( s ) ( 9/13/01-09 ) , then ---done Give 50 mg QD X 2 day( s ) ( 7/27/01-09 ) , then ---done Give 40 mg QD X 2 day( s ) ( 4/26/01-09 ) , then ---done Give 30 mg QD X 2 day( s ) ( 3/6/01-09 ) , then ---done Give 20 mg QD X 2 day( s ) ( 2/7/01-09 ) , then ---done Give 10 mg QD X 2 day( s ) ( 7/24/01-10 ) , then ---done Give 5 mg QD X 2 day( s ) ( 5/9/01-10 ) , then ---done DIET: House / Low chol/low sat. fat RETURN TO WORK: After Appt with local physician No Known Allergies ADMIT DIAGNOSIS: sob PRINCIPAL DISCHARGE DIAGNOSIS ;Responsible After Study for Causing Admission ) sob of unknown etiology OTHER DIAGNOSIS;Conditions , Infections , Complications , affecting Treatment/Stay Borderline HTN Anxiety D/O PPD + s/p INH G5P4TAB1 morbid #obese# ( #obese# ) obstructive sleep apnea ( sleep apnea ) psoriasis ( psoriasis ) OPERATIONS AND PROCEDURES: none OTHER TREATMENTS/PROCEDURES ( NOT IN O.R. ) none BRIEF RESUME OF HOSPITAL COURSE: 37 yo multiple admissions for atypical chest pain , morbid #obese# , restrictive lung dz by PFTs , sleep apnea , borderline HTN. Had cath last admission and showed clean coronaries. Now comes in complaining of SOB and #asthma# attack\" and anxiety. Responded well to Nebs and Ativan in ED. Will d/c to complete course of Macrolide antibio tic to cover atypicals for tracheobronchitis at home. ADDITIONAL COMMENTS: DISCHARGE CONDITION: Stable TO DO/PLAN: No dictated summary ENTERED BY: JAY , LAMAR KRIS , M.D. ( BY60 ) 9/30/01 @ 10:58 AM ****** END OF DISCHARGE ORDERS ******", 
+    "tri": {
+        "#": {
+            "(~ref": 1.0
+        }, 
+        "#asthma#": {
+            "SOB~and": 1.0
+        }, 
+        "#obese#": {
+            "#obese#~(": 0.3333333333333333, 
+            ",~morbid": 0.3333333333333333, 
+            "G5P4TAB1~morbid": 0.3333333333333333
+        }, 
+        "&": {
+            "INTERACTION:~CLONAZEPAM": 1.0
+        }, 
+        "(": {
+            ")~psoriasis": 0.043478260869565216, 
+            ",~M.D.": 0.043478260869565216, 
+            "ATROVENT~INHALER": 0.043478260869565216, 
+            "AZITHROMYCIN~PO": 0.08695652173913043, 
+            "BID~PROZAC": 0.043478260869565216, 
+            "IN~AM": 0.043478260869565216, 
+            "MEDICATIONS:~ECASA": 0.043478260869565216, 
+            "OTHER~TREATMENTS/PROCEDURES": 0.043478260869565216, 
+            "QD~ZESTRIL": 0.043478260869565216, 
+            "Starting~Today": 0.043478260869565216, 
+            "monitor~COLACE": 0.043478260869565216, 
+            "monitor~PRILOSEC": 0.043478260869565216, 
+            "morbid~#obese#": 0.043478260869565216, 
+            "sleep~apnea": 0.043478260869565216, 
+            "stomach.~KLONOPIN": 0.043478260869565216, 
+            "s~)": 0.30434782608695654
+        }, 
+        ")": {
+            "#~12922629": 0.03225806451612903, 
+            "#~23229788": 0.03225806451612903, 
+            "(~#obese#": 0.03225806451612903, 
+            "(~2/7/01-09": 0.03225806451612903, 
+            "(~3/6/01-09": 0.03225806451612903, 
+            "(~4/26/01-09": 0.03225806451612903, 
+            "(~5/9/01-10": 0.03225806451612903, 
+            "(~7/24/01-10": 0.03225806451612903, 
+            "(~7/27/01-09": 0.03225806451612903, 
+            "(~9/13/01-09": 0.03225806451612903, 
+            "(~9/2": 0.06451612903225806, 
+            "(~BY60": 0.03225806451612903, 
+            "(~CLONAZEPAM": 0.03225806451612903, 
+            "(~LISINOPRIL": 0.03225806451612903, 
+            "(~OMEPRAZOLE": 0.03225806451612903, 
+            "(~psoriasis": 0.03225806451612903, 
+            "Causing~Admission": 0.03225806451612903, 
+            "DOCUSATE~SODIUM": 0.03225806451612903, 
+            "ENTERIC~COATED": 0.03225806451612903, 
+            "FLUOXETINE~HCL": 0.03225806451612903, 
+            "IN~O.R.": 0.03225806451612903, 
+            "IPRATROPIUM~INHALER": 0.03225806451612903, 
+            "day(~s": 0.22580645161290322, 
+            "sleep~apnea": 0.03225806451612903
+        }, 
+        "******": {
+            "10:58~AM": 0.25, 
+            "DISCHARGE~ORDERS": 0.5, 
+            "Date:~2/29/2001": 0.25
+        }, 
+        "+": {
+            "D/O~PPD": 1.0
+        }, 
+        ",": {
+            "******~DIOMEDE": 0.04, 
+            ",~Complications": 0.04, 
+            ",~Infections": 0.04, 
+            "2/7/01-09~)": 0.04, 
+            "3/6/01-09~)": 0.04, 
+            "4/26/01-09~)": 0.04, 
+            "5/9/01-10~)": 0.04, 
+            "7/24/01-10~)": 0.04, 
+            "7/27/01-09~)": 0.04, 
+            "9/13/01-09~)": 0.04, 
+            "Attending:~CONER": 0.04, 
+            "BARTON~ELDON": 0.04, 
+            "BY:~JAY": 0.04, 
+            "COLUMBUS~DARELL": 0.04, 
+            "ERIK~JIM": 0.04, 
+            "LAMAR~KRIS": 0.04, 
+            "LEN~DOMINGO": 0.04, 
+            "OTHER~DIAGNOSIS;Conditions": 0.04, 
+            "by~FRIEDRICHS": 0.04, 
+            "by~HUNZIKER": 0.04, 
+            "by~PFTs": 0.04, 
+            "by~RESSEGUIE": 0.04, 
+            "chest~pain": 0.04, 
+            "morbid~#obese#": 0.04, 
+            "sleep~apnea": 0.04
+        }, 
+        "---done": {
+            ",~then": 1.0
+        }, 
+        "/": {
+            "DIET:~House": 1.0
+        }, 
+        "02:00": {
+            "9/30/01~AT": 1.0
+        }, 
+        "1": {
+            "BID~PERCOCET": 0.5, 
+            "CLONAZEPAM~)": 0.5
+        }, 
+        "10": {
+            "---done~Give": 0.5, 
+            "LISINOPRIL~)": 0.5
+        }, 
+        "100": {
+            "SODIUM~)": 1.0
+        }, 
+        "10:58": {
+            "9/30/01~@": 1.0
+        }, 
+        "11/11/01": {
+            "added~on": 1.0
+        }, 
+        "12922629": {
+            "ref~#": 1.0
+        }, 
+        "12:00:00": {
+            "|~3/16/2001": 1.0
+        }, 
+        "150": {
+            "QD~NIFEREX-150": 1.0
+        }, 
+        "2": {
+            "ALBUTEROL~INHALER": 0.1111111111111111, 
+            "INHALER~)": 0.1111111111111111, 
+            "QD~X": 0.7777777777777778
+        }, 
+        "2/29/2001": {
+            "Discharge~Date:": 1.0
+        }, 
+        "2/7/01-09": {
+            ")~(": 1.0
+        }, 
+        "20": {
+            "---done~Give": 0.3333333333333333, 
+            "HCL~)": 0.3333333333333333, 
+            "OMEPRAZOLE~)": 0.3333333333333333
+        }, 
+        "23229788": {
+            "ref~#": 1.0
+        }, 
+        "250": {
+            "pain~AZITHROMYCIN": 1.0
+        }, 
+        "281484": {
+            "|~|": 1.0
+        }, 
+        "3/16/2001": {
+            "281484~|": 1.0
+        }, 
+        "3/6/01-09": {
+            ")~(": 1.0
+        }, 
+        "30": {
+            "---done~Give": 1.0
+        }, 
+        "325": {
+            "COATED~)": 1.0
+        }, 
+        "37": {
+            "HOSPITAL~COURSE:": 1.0
+        }, 
+        "4": {
+            "QD~X": 1.0
+        }, 
+        "4/26/01-09": {
+            ")~(": 1.0
+        }, 
+        "40": {
+            "---done~Give": 1.0
+        }, 
+        "41742729": {
+            "DAMC~|": 1.0
+        }, 
+        "5": {
+            "---done~Give": 1.0
+        }, 
+        "5/9/01-10": {
+            ")~(": 1.0
+        }, 
+        "50": {
+            "---done~Give": 0.5, 
+            "QD~ATENOLOL": 0.5
+        }, 
+        "514-36-87-1": {
+            ",~DAVID": 1.0
+        }, 
+        "60": {
+            "PO~Give": 1.0
+        }, 
+        "7": {
+            "Q6H~X": 1.0
+        }, 
+        "7/24/01-10": {
+            ")~(": 1.0
+        }, 
+        "7/27/01-09": {
+            ")~(": 1.0
+        }, 
+        "8/30/2001": {
+            "Admission~Date:": 1.0
+        }, 
+        "9/13/01-09": {
+            ")~(": 1.0
+        }, 
+        "9/2": {
+            "AM~(": 0.5, 
+            "Today~(": 0.5
+        }, 
+        "9/30/01": {
+            "BY60~)": 0.5, 
+            "PATIENT~ON:": 0.5
+        }, 
+        ";Responsible": {
+            "DISCHARGE~DIAGNOSIS": 1.0
+        }, 
+        "@": {
+            ")~9/30/01": 1.0
+        }, 
+        "ADDITIONAL": {
+            "at~home.": 1.0
+        }, 
+        "ADMIT": {
+            "Known~Allergies": 1.0
+        }, 
+        "ALBUTEROL": {
+            "PO~QD": 1.0
+        }, 
+        "AM": {
+            "3/16/2001~12:00:00": 0.3333333333333333, 
+            "@~10:58": 0.3333333333333333, 
+            "Starting~IN": 0.3333333333333333
+        }, 
+        "AND": {
+            ")~OPERATIONS": 1.0
+        }, 
+        "AS": {
+            "BE~USED": 1.0
+        }, 
+        "ASPIRIN": {
+            "ECASA~(": 1.0
+        }, 
+        "AT": {
+            "ON:~9/30/01": 1.0
+        }, 
+        "ATENOLOL": {
+            "PO~QD": 1.0
+        }, 
+        "ATROVENT": {
+            "INH~QID": 1.0
+        }, 
+        "AZITHROMYCIN": {
+            "CLONAZEPAM~&": 0.5714285714285714, 
+            "PRN~pain": 0.14285714285714285, 
+            "order~for": 0.2857142857142857
+        }, 
+        "Admission": {
+            "DIS~|": 0.5, 
+            "for~Causing": 0.5
+        }, 
+        "After": {
+            "DIAGNOSIS~;Responsible": 0.5, 
+            "TO~WORK:": 0.5
+        }, 
+        "Alert": {
+            "with~food": 1.0
+        }, 
+        "Allergies": {
+            "No~Known": 1.0
+        }, 
+        "Anxiety": {
+            "Borderline~HTN": 1.0
+        }, 
+        "Applicable": {
+            "UPON~Not": 1.0
+        }, 
+        "Appt": {
+            "WORK:~After": 1.0
+        }, 
+        "Ativan": {
+            "Nebs~and": 1.0
+        }, 
+        "Attending:": {
+            "SUMMARY:~YES": 1.0
+        }, 
+        "BARTON": {
+            "HUNZIKER~,": 1.0
+        }, 
+        "BE": {
+            "D/C~ORDER": 1.0
+        }, 
+        "BID": {
+            "MG~PO": 1.0
+        }, 
+        "BRIEF": {
+            ")~none": 1.0
+        }, 
+        "BY60": {
+            "M.D.~(": 1.0
+        }, 
+        "BY:": {
+            "summary~ENTERED": 1.0
+        }, 
+        "Borderline": {
+            "affecting~Treatment/Stay": 1.0
+        }, 
+        "CLONAZEPAM": {
+            "KLONOPIN~(": 0.2, 
+            "SERIOUS~INTERACTION:": 0.8
+        }, 
+        "COATED": {
+            "ASPIRIN~ENTERIC": 1.0
+        }, 
+        "CODE": {
+            ",~M.D.": 1.0
+        }, 
+        "COLACE": {
+            "override:~monitor": 1.0
+        }, 
+        "COLUMBUS": {
+            "RESSEGUIE~,": 1.0
+        }, 
+        "COMMENTS:": {
+            "home.~ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            "COMMENTS:~DISCHARGE": 1.0
+        }, 
+        "CONER": {
+            "YES~Attending:": 1.0
+        }, 
+        "CONTINGENT": {
+            "02:00~PM": 1.0
+        }, 
+        "COURSE:": {
+            "OF~HOSPITAL": 1.0
+        }, 
+        "Causing": {
+            "Study~for": 1.0
+        }, 
+        "Complications": {
+            "Infections~,": 1.0
+        }, 
+        "D/C": {
+            "AS~THE": 0.5, 
+            "Applicable~WILL": 0.5
+        }, 
+        "D/O": {
+            "HTN~Anxiety": 1.0
+        }, 
+        "DAMC": {
+            "468422454~|": 1.0
+        }, 
+        "DARELL": {
+            ",~COLUMBUS": 1.0
+        }, 
+        "DAVID": {
+            "DIOMEDE~,": 1.0
+        }, 
+        "DIAGNOSIS": {
+            "PRINCIPAL~DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "Allergies~ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "etiology~OTHER": 1.0
+        }, 
+        "DIET:": {
+            "then~---done": 1.0
+        }, 
+        "DIOMEDE": {
+            "ORDERS~******": 1.0
+        }, 
+        "DIS": {
+            "|~|": 1.0
+        }, 
+        "DISCHARGE": {
+            "2/29/2001~******": 0.16666666666666666, 
+            "ADDITIONAL~COMMENTS:": 0.16666666666666666, 
+            "DISPOSITION:~Home": 0.16666666666666666, 
+            "END~OF": 0.16666666666666666, 
+            "Service:~MED": 0.16666666666666666, 
+            "sob~PRINCIPAL": 0.16666666666666666
+        }, 
+        "DISPOSITION:": {
+            "Full~code": 1.0
+        }, 
+        "DO/PLAN:": {
+            "Stable~TO": 1.0
+        }, 
+        "DOCUSATE": {
+            "COLACE~(": 1.0
+        }, 
+        "DOMINGO": {
+            ",~LEN": 1.0
+        }, 
+        "Date:": {
+            "Status:~Discharge": 0.5, 
+            "|~Admission": 0.5
+        }, 
+        "Days": {
+            "X~4": 0.5, 
+            "X~7": 0.5
+        }, 
+        "Discharge": {
+            "Report~Status:": 1.0
+        }, 
+        "ECASA": {
+            "DISCHARGE~MEDICATIONS:": 1.0
+        }, 
+        "ED.": {
+            "Ativan~in": 1.0
+        }, 
+        "ELDON": {
+            ",~BARTON": 1.0
+        }, 
+        "END": {
+            "AM~******": 1.0
+        }, 
+        "ENTERED": {
+            "dictated~summary": 1.0
+        }, 
+        "ENTERIC": {
+            "(~ASPIRIN": 1.0
+        }, 
+        "ERIK": {
+            "FRIEDRICHS~,": 1.0
+        }, 
+        "Ertna": {
+            "514-36-87-1~U": 1.0
+        }, 
+        "FLUOXETINE": {
+            "PROZAC~(": 1.0
+        }, 
+        "FRIEDRICHS": {
+            "11/11/01~by": 1.0
+        }, 
+        "Food/Drug": {
+            "9/2~)": 0.5, 
+            "PO~QD": 0.5
+        }, 
+        "Full": {
+            "CODE~STATUS:": 1.0
+        }, 
+        "G5P4TAB1": {
+            "s/p~INH": 1.0
+        }, 
+        "Give": {
+            "Taper~PO": 0.14285714285714285, 
+            "then~---done": 0.8571428571428571
+        }, 
+        "HCL": {
+            "(~FLUOXETINE": 1.0
+        }, 
+        "HOSPITAL": {
+            "RESUME~OF": 1.0
+        }, 
+        "HTN": {
+            "Treatment/Stay~Borderline": 1.0
+        }, 
+        "HTN.": {
+            ",~borderline": 1.0
+        }, 
+        "HUNZIKER": {
+            "11/11/01~by": 1.0
+        }, 
+        "Had": {
+            "borderline~HTN.": 1.0
+        }, 
+        "Home": {
+            "code~DISPOSITION:": 1.0
+        }, 
+        "House": {
+            "---done~DIET:": 1.0
+        }, 
+        "IN": {
+            "(~NOT": 0.5, 
+            "Days~Starting": 0.5
+        }, 
+        "INH": {
+            "+~s/p": 0.3333333333333333, 
+            "2~PUFF": 0.6666666666666666
+        }, 
+        "INHALER": {
+            "(~IPRATROPIUM": 0.3333333333333333, 
+            "QD~ALBUTEROL": 0.3333333333333333, 
+            "QID~ATROVENT": 0.3333333333333333
+        }, 
+        "INTERACTION:": {
+            "POTENTIALLY~SERIOUS": 1.0
+        }, 
+        "IPRATROPIUM": {
+            "INHALER~(": 1.0
+        }, 
+        "Infections": {
+            "DIAGNOSIS;Conditions~,": 1.0
+        }, 
+        "Instruction": {
+            "Food/Drug~Interaction": 1.0
+        }, 
+        "Interaction": {
+            ")~Food/Drug": 0.5, 
+            "QD~Food/Drug": 0.5
+        }, 
+        "JAY": {
+            "ENTERED~BY:": 1.0
+        }, 
+        "JIM": {
+            ",~ERIK": 1.0
+        }, 
+        "KLONOPIN": {
+            "empty~stomach.": 1.0
+        }, 
+        "KRIS": {
+            ",~LAMAR": 1.0
+        }, 
+        "Known": {
+            "physician~No": 1.0
+        }, 
+        "LAMAR": {
+            "JAY~,": 1.0
+        }, 
+        "LEN": {
+            "CONER~,": 1.0
+        }, 
+        "LISINOPRIL": {
+            "ZESTRIL~(": 1.0
+        }, 
+        "Leigh": {
+            "U~Ertna": 1.0
+        }, 
+        "Low": {
+            "House~/": 1.0
+        }, 
+        "M.D.": {
+            "DARELL~,": 0.2, 
+            "DOMINGO~,": 0.2, 
+            "ELDON~,": 0.2, 
+            "JIM~,": 0.2, 
+            "KRIS~,": 0.2
+        }, 
+        "MED": {
+            "Leigh~Service:": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "Home~DISCHARGE": 1.0
+        }, 
+        "MG": {
+            ")~1": 0.1111111111111111, 
+            ")~10": 0.1111111111111111, 
+            ")~100": 0.1111111111111111, 
+            ")~20": 0.2222222222222222, 
+            ")~325": 0.1111111111111111, 
+            "ATENOLOL~50": 0.1111111111111111, 
+            "AZITHROMYCIN~250": 0.1111111111111111, 
+            "NIFEREX-150~150": 0.1111111111111111
+        }, 
+        "Macrolide": {
+            "course~of": 1.0
+        }, 
+        "NIFEREX-150": {
+            "PO~QD": 1.0
+        }, 
+        "NOT": {
+            "TREATMENTS/PROCEDURES~(": 1.0
+        }, 
+        "Nebs": {
+            "well~to": 1.0
+        }, 
+        "No": {
+            "TO~DO/PLAN:": 0.5, 
+            "local~physician": 0.5
+        }, 
+        "Not": {
+            "CONTINGENT~UPON": 1.0
+        }, 
+        "Notice:": {
+            "TID~Override": 1.0
+        }, 
+        "Now": {
+            "clean~coronaries.": 1.0
+        }, 
+        "O.R.": {
+            "NOT~IN": 1.0
+        }, 
+        "OF": {
+            "******~END": 0.5, 
+            "BRIEF~RESUME": 0.5
+        }, 
+        "OMEPRAZOLE": {
+            "PRILOSEC~(": 1.0
+        }, 
+        "ON:": {
+            "DISCHARGE~PATIENT": 1.0
+        }, 
+        "OPERATIONS": {
+            "psoriasis~)": 1.0
+        }, 
+        "ORDER": {
+            "WILL~D/C": 1.0
+        }, 
+        "ORDERS": {
+            "******~DISCHARGE": 0.5, 
+            "OF~DISCHARGE": 0.5
+        }, 
+        "OTHER": {
+            "PROCEDURES:~none": 0.5, 
+            "unknown~etiology": 0.5
+        }, 
+        "Override": {
+            "Alert~overridden:": 0.25, 
+            "Override~Notice:": 0.25, 
+            "PO~TID": 0.25, 
+            "override~information:": 0.25
+        }, 
+        "PATIENT": {
+            "MED~DISCHARGE": 1.0
+        }, 
+        "PERCOCET": {
+            "PO~BID": 1.0
+        }, 
+        "PFTs": {
+            "dz~by": 1.0
+        }, 
+        "PM": {
+            "AT~02:00": 1.0
+        }, 
+        "PO": {
+            "100~MG": 0.07692307692307693, 
+            "10~MG": 0.07692307692307693, 
+            "150~MG": 0.07692307692307693, 
+            "1~MG": 0.07692307692307693, 
+            "1~TAB": 0.07692307692307693, 
+            "20~MG": 0.15384615384615385, 
+            "250~MG": 0.07692307692307693, 
+            "325~MG": 0.07692307692307693, 
+            "50~MG": 0.07692307692307693, 
+            "PREDNISONE~Taper": 0.07692307692307693, 
+            "for~AZITHROMYCIN": 0.15384615384615385
+        }, 
+        "POTENTIALLY": {
+            "&~AZITHROMYCIN": 0.25, 
+            ",~M.D.": 0.25, 
+            "12922629~)": 0.25, 
+            "23229788~)": 0.25
+        }, 
+        "PPD": {
+            "Anxiety~D/O": 1.0
+        }, 
+        "PREDNISONE": {
+            "INH~QID": 1.0
+        }, 
+        "PRILOSEC": {
+            "override:~monitor": 1.0
+        }, 
+        "PRINCIPAL": {
+            "DIAGNOSIS:~sob": 1.0
+        }, 
+        "PRN": {
+            "9/2~)": 1.0
+        }, 
+        "PROCEDURES:": {
+            "OPERATIONS~AND": 1.0
+        }, 
+        "PROZAC": {
+            "PO~BID": 1.0
+        }, 
+        "PUFF": {
+            ")~2": 0.5, 
+            "INHALER~2": 0.5
+        }, 
+        "Previous": {
+            "override:~monitor": 1.0
+        }, 
+        "Q6H": {
+            "TAB~PO": 1.0
+        }, 
+        "QD": {
+            "10~mg": 0.07692307692307693, 
+            "20~mg": 0.07692307692307693, 
+            "30~mg": 0.07692307692307693, 
+            "40~mg": 0.07692307692307693, 
+            "50~mg": 0.07692307692307693, 
+            "5~mg": 0.07692307692307693, 
+            "60~mg": 0.07692307692307693, 
+            "MG~PO": 0.46153846153846156
+        }, 
+        "QID": {
+            "PUFF~INH": 1.0
+        }, 
+        "RESSEGUIE": {
+            "11/11/01~by": 1.0
+        }, 
+        "RESUME": {
+            "none~BRIEF": 1.0
+        }, 
+        "RETURN": {
+            "sat.~fat": 1.0
+        }, 
+        "Reason": {
+            "&~AZITHROMYCIN": 1.0
+        }, 
+        "Report": {
+            "Date:~8/30/2001": 1.0
+        }, 
+        "Responded": {
+            "and~anxiety.": 1.0
+        }, 
+        "SERIOUS": {
+            ")~POTENTIALLY": 0.5, 
+            "AZITHROMYCIN~POTENTIALLY": 0.25, 
+            "M.D.~POTENTIALLY": 0.25
+        }, 
+        "SOB": {
+            "complaining~of": 1.0
+        }, 
+        "SODIUM": {
+            "(~DOCUSATE": 1.0
+        }, 
+        "STATUS:": {
+            "M.D.~CODE": 1.0
+        }, 
+        "SUMMARY:": {
+            "THE~D/C": 1.0
+        }, 
+        "Service:": {
+            "Ertna~Leigh": 1.0
+        }, 
+        "Stable": {
+            "DISCHARGE~CONDITION:": 1.0
+        }, 
+        "Starting": {
+            "4~Days": 0.5, 
+            "7~Days": 0.5
+        }, 
+        "Status:": {
+            "8/30/2001~Report": 1.0
+        }, 
+        "Study": {
+            ";Responsible~After": 1.0
+        }, 
+        "TAB": {
+            "PERCOCET~1": 1.0
+        }, 
+        "THE": {
+            "USED~AS": 1.0
+        }, 
+        "TID": {
+            "MG~PO": 1.0
+        }, 
+        "TO": {
+            "CONDITION:~Stable": 0.5, 
+            "fat~RETURN": 0.5
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "none~OTHER": 1.0
+        }, 
+        "Take": {
+            "Interaction~Instruction": 1.0
+        }, 
+        "Taper": {
+            "QID~PREDNISONE": 1.0
+        }, 
+        "Today": {
+            "Days~Starting": 1.0
+        }, 
+        "Treatment/Stay": {
+            ",~affecting": 1.0
+        }, 
+        "U": {
+            "DAVID~514-36-87-1": 1.0
+        }, 
+        "UPON": {
+            "PM~CONTINGENT": 1.0
+        }, 
+        "USED": {
+            "ORDER~BE": 1.0
+        }, 
+        "WILL": {
+            "Not~Applicable": 1.0
+        }, 
+        "WORK:": {
+            "RETURN~TO": 1.0
+        }, 
+        "Will": {
+            "in~ED.": 1.0
+        }, 
+        "X": {
+            "PO~Q6H": 0.1111111111111111, 
+            "PO~QD": 0.1111111111111111, 
+            "mg~QD": 0.7777777777777778
+        }, 
+        "YES": {
+            "D/C~SUMMARY:": 1.0
+        }, 
+        "ZESTRIL": {
+            "PO~QD": 1.0
+        }, 
+        "added": {
+            "Notice:~Override": 0.3333333333333333, 
+            "information:~Override": 0.3333333333333333, 
+            "overridden:~Override": 0.3333333333333333
+        }, 
+        "admission": {
+            "cath~last": 1.0
+        }, 
+        "admissions": {
+            "yo~multiple": 1.0
+        }, 
+        "affecting": {
+            "Complications~,": 1.0
+        }, 
+        "and": {
+            "#asthma#~attack\"": 0.25, 
+            "last~admission": 0.25, 
+            "of~SOB": 0.25, 
+            "to~Nebs": 0.25
+        }, 
+        "antibio": {
+            "of~Macrolide": 1.0
+        }, 
+        "anxiety.": {
+            "attack\"~and": 1.0
+        }, 
+        "apnea": {
+            "(~sleep": 0.3333333333333333, 
+            ",~sleep": 0.3333333333333333, 
+            "obstructive~sleep": 0.3333333333333333
+        }, 
+        "at": {
+            "for~tracheobronchitis": 1.0
+        }, 
+        "attack\"": {
+            "and~#asthma#": 1.0
+        }, 
+        "atypical": {
+            "admissions~for": 1.0
+        }, 
+        "atypicals": {
+            "to~cover": 1.0
+        }, 
+        "borderline": {
+            "apnea~,": 1.0
+        }, 
+        "by": {
+            "lung~dz": 0.25, 
+            "on~11/11/01": 0.75
+        }, 
+        "cath": {
+            "HTN.~Had": 1.0
+        }, 
+        "chest": {
+            "for~atypical": 1.0
+        }, 
+        "chol/low": {
+            "/~Low": 1.0
+        }, 
+        "clean": {
+            "and~showed": 1.0
+        }, 
+        "code": {
+            "STATUS:~Full": 1.0
+        }, 
+        "comes": {
+            "coronaries.~Now": 1.0
+        }, 
+        "complaining": {
+            "comes~in": 1.0
+        }, 
+        "complete": {
+            "d/c~to": 1.0
+        }, 
+        "consistently": {
+            "Instruction~Take": 1.0
+        }, 
+        "coronaries.": {
+            "showed~clean": 1.0
+        }, 
+        "course": {
+            "to~complete": 1.0
+        }, 
+        "cover": {
+            "tic~to": 1.0
+        }, 
+        "d/c": {
+            "ED.~Will": 1.0
+        }, 
+        "day(": {
+            "X~2": 1.0
+        }, 
+        "dictated": {
+            "DO/PLAN:~No": 1.0
+        }, 
+        "dz": {
+            "restrictive~lung": 1.0
+        }, 
+        "empty": {
+            "or~on": 1.0
+        }, 
+        "etiology": {
+            "of~unknown": 1.0
+        }, 
+        "fat": {
+            "chol/low~sat.": 1.0
+        }, 
+        "food": {
+            "Take~with": 1.0
+        }, 
+        "for": {
+            "AZITHROMYCIN~Reason": 0.375, 
+            "After~Study": 0.125, 
+            "cover~atypicals": 0.125, 
+            "multiple~admissions": 0.125, 
+            "on~order": 0.25
+        }, 
+        "home.": {
+            "tracheobronchitis~at": 1.0
+        }, 
+        "in": {
+            "Now~comes": 0.5, 
+            "and~Ativan": 0.5
+        }, 
+        "information:": {
+            "Previous~override": 1.0
+        }, 
+        "last": {
+            "Had~cath": 1.0
+        }, 
+        "local": {
+            "Appt~with": 1.0
+        }, 
+        "lung": {
+            ",~restrictive": 1.0
+        }, 
+        "meals": {
+            "consistently~with": 1.0
+        }, 
+        "mg": {
+            "Give~10": 0.14285714285714285, 
+            "Give~20": 0.14285714285714285, 
+            "Give~30": 0.14285714285714285, 
+            "Give~40": 0.14285714285714285, 
+            "Give~5": 0.14285714285714285, 
+            "Give~50": 0.14285714285714285, 
+            "Give~60": 0.14285714285714285
+        }, 
+        "monitor": {
+            "for~override:": 1.0
+        }, 
+        "morbid": {
+            "INH~G5P4TAB1": 0.5, 
+            "pain~,": 0.5
+        }, 
+        "multiple": {
+            "37~yo": 1.0
+        }, 
+        "none": {
+            "AND~PROCEDURES:": 0.5, 
+            "O.R.~)": 0.5
+        }, 
+        "obstructive": {
+            "#obese#~)": 1.0
+        }, 
+        "of": {
+            ")~sob": 0.25, 
+            "complete~course": 0.25, 
+            "in~complaining": 0.25, 
+            "|~sob": 0.25
+        }, 
+        "on": {
+            ",~M.D.": 0.3333333333333333, 
+            "Override~added": 0.5, 
+            "meals~or": 0.16666666666666666
+        }, 
+        "or": {
+            "with~meals": 1.0
+        }, 
+        "order": {
+            "M.D.~on": 1.0
+        }, 
+        "overridden:": {
+            "food~Alert": 1.0
+        }, 
+        "override": {
+            "monitor~Previous": 1.0
+        }, 
+        "override:": {
+            "Reason~for": 1.0
+        }, 
+        "pain": {
+            ")~PRN": 0.5, 
+            "atypical~chest": 0.5
+        }, 
+        "physician": {
+            "with~local": 1.0
+        }, 
+        "psoriasis": {
+            "apnea~)": 0.5, 
+            "psoriasis~(": 0.5
+        }, 
+        "ref": {
+            "PO~(": 1.0
+        }, 
+        "restrictive": {
+            "#obese#~,": 1.0
+        }, 
+        "s": {
+            "2~day(": 1.0
+        }, 
+        "s/p": {
+            "PPD~+": 1.0
+        }, 
+        "sat.": {
+            "Low~chol/low": 1.0
+        }, 
+        "showed": {
+            "admission~and": 1.0
+        }, 
+        "sleep": {
+            ")~obstructive": 0.3333333333333333, 
+            "PFTs~,": 0.3333333333333333, 
+            "apnea~(": 0.3333333333333333
+        }, 
+        "sob": {
+            "ADMIT~DIAGNOSIS:": 0.3333333333333333, 
+            "AM~|": 0.3333333333333333, 
+            "Admission~)": 0.3333333333333333
+        }, 
+        "stomach.": {
+            "on~empty": 1.0
+        }, 
+        "summary": {
+            "No~dictated": 1.0
+        }, 
+        "then": {
+            ")~,": 1.0
+        }, 
+        "tic": {
+            "Macrolide~antibio": 1.0
+        }, 
+        "to": {
+            "Responded~well": 0.3333333333333333, 
+            "Will~d/c": 0.3333333333333333, 
+            "antibio~tic": 0.3333333333333333
+        }, 
+        "tracheobronchitis": {
+            "atypicals~for": 1.0
+        }, 
+        "unknown": {
+            "sob~of": 1.0
+        }, 
+        "well": {
+            "anxiety.~Responded": 1.0
+        }, 
+        "with": {
+            "After~Appt": 0.3333333333333333, 
+            "Instruction~Take": 0.3333333333333333, 
+            "Take~consistently": 0.3333333333333333
+        }, 
+        "yo": {
+            "COURSE:~37": 1.0
+        }, 
+        "|": {
+            "12:00:00~AM": 0.1111111111111111, 
+            "41742729~|": 0.1111111111111111, 
+            "etiology~|": 0.1111111111111111, 
+            "unknown~etiology": 0.1111111111111111, 
+            "|~281484": 0.1111111111111111, 
+            "|~41742729": 0.1111111111111111, 
+            "|~DAMC": 0.1111111111111111, 
+            "|~DIS": 0.1111111111111111, 
+            "~468422454": 0.1111111111111111
+        }
+    }, 
+    "type": "data/test", 
+    "uni": {
+        "": 0.0017006802721088435, 
+        "#": 0.003401360544217687, 
+        "#asthma#": 0.0017006802721088435, 
+        "#obese#": 0.00510204081632653, 
+        "&": 0.006802721088435374, 
+        "(": 0.0391156462585034, 
+        ")": 0.05272108843537415, 
+        "******": 0.00510204081632653, 
+        "+": 0.0017006802721088435, 
+        ",": 0.04251700680272109, 
+        "---done": 0.011904761904761904, 
+        "/": 0.0017006802721088435, 
+        "02:00": 0.0017006802721088435, 
+        "1": 0.003401360544217687, 
+        "10": 0.003401360544217687, 
+        "100": 0.0017006802721088435, 
+        "10:58": 0.0017006802721088435, 
+        "11/11/01": 0.00510204081632653, 
+        "12922629": 0.0017006802721088435, 
+        "12:00:00": 0.0017006802721088435, 
+        "150": 0.0017006802721088435, 
+        "2": 0.015306122448979591, 
+        "2/29/2001": 0.0017006802721088435, 
+        "2/7/01-09": 0.0017006802721088435, 
+        "20": 0.00510204081632653, 
+        "23229788": 0.0017006802721088435, 
+        "250": 0.0017006802721088435, 
+        "281484": 0.0017006802721088435, 
+        "3/16/2001": 0.0017006802721088435, 
+        "3/6/01-09": 0.0017006802721088435, 
+        "30": 0.0017006802721088435, 
+        "325": 0.0017006802721088435, 
+        "37": 0.0017006802721088435, 
+        "4": 0.0017006802721088435, 
+        "4/26/01-09": 0.0017006802721088435, 
+        "40": 0.0017006802721088435, 
+        "41742729": 0.0017006802721088435, 
+        "468422454": 0.0017006802721088435, 
+        "5": 0.0017006802721088435, 
+        "5/9/01-10": 0.0017006802721088435, 
+        "50": 0.003401360544217687, 
+        "514-36-87-1": 0.0017006802721088435, 
+        "60": 0.0017006802721088435, 
+        "7": 0.0017006802721088435, 
+        "7/24/01-10": 0.0017006802721088435, 
+        "7/27/01-09": 0.0017006802721088435, 
+        "8/30/2001": 0.0017006802721088435, 
+        "9/13/01-09": 0.0017006802721088435, 
+        "9/2": 0.003401360544217687, 
+        "9/30/01": 0.003401360544217687, 
+        ";Responsible": 0.0017006802721088435, 
+        "@": 0.0017006802721088435, 
+        "ADDITIONAL": 0.0017006802721088435, 
+        "ADMIT": 0.0017006802721088435, 
+        "ALBUTEROL": 0.0017006802721088435, 
+        "AM": 0.00510204081632653, 
+        "AND": 0.0017006802721088435, 
+        "AS": 0.0017006802721088435, 
+        "ASPIRIN": 0.0017006802721088435, 
+        "AT": 0.0017006802721088435, 
+        "ATENOLOL": 0.0017006802721088435, 
+        "ATROVENT": 0.0017006802721088435, 
+        "AZITHROMYCIN": 0.011904761904761904, 
+        "Admission": 0.003401360544217687, 
+        "After": 0.003401360544217687, 
+        "Alert": 0.0017006802721088435, 
+        "Allergies": 0.0017006802721088435, 
+        "Anxiety": 0.0017006802721088435, 
+        "Applicable": 0.0017006802721088435, 
+        "Appt": 0.0017006802721088435, 
+        "Ativan": 0.0017006802721088435, 
+        "Attending:": 0.0017006802721088435, 
+        "BARTON": 0.0017006802721088435, 
+        "BE": 0.0017006802721088435, 
+        "BID": 0.003401360544217687, 
+        "BRIEF": 0.0017006802721088435, 
+        "BY60": 0.0017006802721088435, 
+        "BY:": 0.0017006802721088435, 
+        "Borderline": 0.0017006802721088435, 
+        "CLONAZEPAM": 0.008503401360544218, 
+        "COATED": 0.0017006802721088435, 
+        "CODE": 0.0017006802721088435, 
+        "COLACE": 0.0017006802721088435, 
+        "COLUMBUS": 0.0017006802721088435, 
+        "COMMENTS:": 0.0017006802721088435, 
+        "CONDITION:": 0.0017006802721088435, 
+        "CONER": 0.0017006802721088435, 
+        "CONTINGENT": 0.0017006802721088435, 
+        "COURSE:": 0.0017006802721088435, 
+        "Causing": 0.0017006802721088435, 
+        "Complications": 0.0017006802721088435, 
+        "D/C": 0.003401360544217687, 
+        "D/O": 0.0017006802721088435, 
+        "DAMC": 0.0017006802721088435, 
+        "DARELL": 0.0017006802721088435, 
+        "DAVID": 0.0017006802721088435, 
+        "DIAGNOSIS": 0.0017006802721088435, 
+        "DIAGNOSIS:": 0.0017006802721088435, 
+        "DIAGNOSIS;Conditions": 0.0017006802721088435, 
+        "DIET:": 0.0017006802721088435, 
+        "DIOMEDE": 0.0017006802721088435, 
+        "DIS": 0.0017006802721088435, 
+        "DISCHARGE": 0.01020408163265306, 
+        "DISPOSITION:": 0.0017006802721088435, 
+        "DO/PLAN:": 0.0017006802721088435, 
+        "DOCUSATE": 0.0017006802721088435, 
+        "DOMINGO": 0.0017006802721088435, 
+        "Date:": 0.003401360544217687, 
+        "Days": 0.003401360544217687, 
+        "Discharge": 0.0017006802721088435, 
+        "ECASA": 0.0017006802721088435, 
+        "ED.": 0.0017006802721088435, 
+        "ELDON": 0.0017006802721088435, 
+        "END": 0.0017006802721088435, 
+        "ENTERED": 0.0017006802721088435, 
+        "ENTERIC": 0.0017006802721088435, 
+        "ERIK": 0.0017006802721088435, 
+        "Ertna": 0.0017006802721088435, 
+        "FLUOXETINE": 0.0017006802721088435, 
+        "FRIEDRICHS": 0.0017006802721088435, 
+        "Food/Drug": 0.003401360544217687, 
+        "Full": 0.0017006802721088435, 
+        "G5P4TAB1": 0.0017006802721088435, 
+        "Give": 0.011904761904761904, 
+        "HCL": 0.0017006802721088435, 
+        "HOSPITAL": 0.0017006802721088435, 
+        "HTN": 0.0017006802721088435, 
+        "HTN.": 0.0017006802721088435, 
+        "HUNZIKER": 0.0017006802721088435, 
+        "Had": 0.0017006802721088435, 
+        "Home": 0.0017006802721088435, 
+        "House": 0.0017006802721088435, 
+        "IN": 0.003401360544217687, 
+        "INH": 0.00510204081632653, 
+        "INHALER": 0.00510204081632653, 
+        "INTERACTION:": 0.006802721088435374, 
+        "IPRATROPIUM": 0.0017006802721088435, 
+        "Infections": 0.0017006802721088435, 
+        "Instruction": 0.003401360544217687, 
+        "Interaction": 0.003401360544217687, 
+        "JAY": 0.0017006802721088435, 
+        "JIM": 0.0017006802721088435, 
+        "KLONOPIN": 0.0017006802721088435, 
+        "KRIS": 0.0017006802721088435, 
+        "Known": 0.0017006802721088435, 
+        "LAMAR": 0.0017006802721088435, 
+        "LEN": 0.0017006802721088435, 
+        "LISINOPRIL": 0.0017006802721088435, 
+        "Leigh": 0.0017006802721088435, 
+        "Low": 0.0017006802721088435, 
+        "M.D.": 0.008503401360544218, 
+        "MED": 0.0017006802721088435, 
+        "MEDICATIONS:": 0.0017006802721088435, 
+        "MG": 0.015306122448979591, 
+        "Macrolide": 0.0017006802721088435, 
+        "NIFEREX-150": 0.0017006802721088435, 
+        "NOT": 0.0017006802721088435, 
+        "Nebs": 0.0017006802721088435, 
+        "No": 0.003401360544217687, 
+        "Not": 0.0017006802721088435, 
+        "Notice:": 0.0017006802721088435, 
+        "Now": 0.0017006802721088435, 
+        "O.R.": 0.0017006802721088435, 
+        "OF": 0.003401360544217687, 
+        "OMEPRAZOLE": 0.0017006802721088435, 
+        "ON:": 0.0017006802721088435, 
+        "OPERATIONS": 0.0017006802721088435, 
+        "ORDER": 0.0017006802721088435, 
+        "ORDERS": 0.0017006802721088435, 
+        "OTHER": 0.003401360544217687, 
+        "Override": 0.006802721088435374, 
+        "PATIENT": 0.0017006802721088435, 
+        "PERCOCET": 0.0017006802721088435, 
+        "PFTs": 0.0017006802721088435, 
+        "PM": 0.0017006802721088435, 
+        "PO": 0.022108843537414966, 
+        "POTENTIALLY": 0.006802721088435374, 
+        "PPD": 0.0017006802721088435, 
+        "PREDNISONE": 0.0017006802721088435, 
+        "PRILOSEC": 0.0017006802721088435, 
+        "PRINCIPAL": 0.0017006802721088435, 
+        "PRN": 0.0017006802721088435, 
+        "PROCEDURES:": 0.0017006802721088435, 
+        "PROZAC": 0.0017006802721088435, 
+        "PUFF": 0.003401360544217687, 
+        "Previous": 0.0017006802721088435, 
+        "Q6H": 0.0017006802721088435, 
+        "QD": 0.022108843537414966, 
+        "QID": 0.003401360544217687, 
+        "RESSEGUIE": 0.0017006802721088435, 
+        "RESUME": 0.0017006802721088435, 
+        "RETURN": 0.0017006802721088435, 
+        "Reason": 0.00510204081632653, 
+        "Report": 0.0017006802721088435, 
+        "Responded": 0.0017006802721088435, 
+        "SERIOUS": 0.006802721088435374, 
+        "SOB": 0.0017006802721088435, 
+        "SODIUM": 0.0017006802721088435, 
+        "STATUS:": 0.0017006802721088435, 
+        "SUMMARY:": 0.0017006802721088435, 
+        "Service:": 0.0017006802721088435, 
+        "Stable": 0.0017006802721088435, 
+        "Starting": 0.003401360544217687, 
+        "Status:": 0.0017006802721088435, 
+        "Study": 0.0017006802721088435, 
+        "TAB": 0.0017006802721088435, 
+        "THE": 0.0017006802721088435, 
+        "TID": 0.0017006802721088435, 
+        "TO": 0.003401360544217687, 
+        "TREATMENTS/PROCEDURES": 0.0017006802721088435, 
+        "Take": 0.003401360544217687, 
+        "Taper": 0.0017006802721088435, 
+        "Today": 0.0017006802721088435, 
+        "Treatment/Stay": 0.0017006802721088435, 
+        "U": 0.0017006802721088435, 
+        "UPON": 0.0017006802721088435, 
+        "USED": 0.0017006802721088435, 
+        "WILL": 0.0017006802721088435, 
+        "WORK:": 0.0017006802721088435, 
+        "Will": 0.0017006802721088435, 
+        "X": 0.015306122448979591, 
+        "YES": 0.0017006802721088435, 
+        "ZESTRIL": 0.0017006802721088435, 
+        "added": 0.00510204081632653, 
+        "admission": 0.0017006802721088435, 
+        "admissions": 0.0017006802721088435, 
+        "affecting": 0.0017006802721088435, 
+        "and": 0.006802721088435374, 
+        "antibio": 0.0017006802721088435, 
+        "anxiety.": 0.0017006802721088435, 
+        "apnea": 0.00510204081632653, 
+        "at": 0.0017006802721088435, 
+        "attack\"": 0.0017006802721088435, 
+        "atypical": 0.0017006802721088435, 
+        "atypicals": 0.0017006802721088435, 
+        "borderline": 0.0017006802721088435, 
+        "by": 0.006802721088435374, 
+        "cath": 0.0017006802721088435, 
+        "chest": 0.0017006802721088435, 
+        "chol/low": 0.0017006802721088435, 
+        "clean": 0.0017006802721088435, 
+        "code": 0.0017006802721088435, 
+        "comes": 0.0017006802721088435, 
+        "complaining": 0.0017006802721088435, 
+        "complete": 0.0017006802721088435, 
+        "consistently": 0.0017006802721088435, 
+        "coronaries.": 0.0017006802721088435, 
+        "course": 0.0017006802721088435, 
+        "cover": 0.0017006802721088435, 
+        "d/c": 0.0017006802721088435, 
+        "day(": 0.011904761904761904, 
+        "dictated": 0.0017006802721088435, 
+        "dz": 0.0017006802721088435, 
+        "empty": 0.0017006802721088435, 
+        "etiology": 0.003401360544217687, 
+        "fat": 0.0017006802721088435, 
+        "food": 0.0017006802721088435, 
+        "for": 0.013605442176870748, 
+        "home.": 0.0017006802721088435, 
+        "in": 0.003401360544217687, 
+        "information:": 0.0017006802721088435, 
+        "last": 0.0017006802721088435, 
+        "local": 0.0017006802721088435, 
+        "lung": 0.0017006802721088435, 
+        "meals": 0.0017006802721088435, 
+        "mg": 0.011904761904761904, 
+        "monitor": 0.00510204081632653, 
+        "morbid": 0.003401360544217687, 
+        "multiple": 0.0017006802721088435, 
+        "none": 0.003401360544217687, 
+        "obstructive": 0.0017006802721088435, 
+        "of": 0.006802721088435374, 
+        "on": 0.01020408163265306, 
+        "or": 0.0017006802721088435, 
+        "order": 0.003401360544217687, 
+        "overridden:": 0.0017006802721088435, 
+        "override": 0.0017006802721088435, 
+        "override:": 0.00510204081632653, 
+        "pain": 0.003401360544217687, 
+        "physician": 0.0017006802721088435, 
+        "psoriasis": 0.003401360544217687, 
+        "ref": 0.003401360544217687, 
+        "restrictive": 0.0017006802721088435, 
+        "s": 0.011904761904761904, 
+        "s/p": 0.0017006802721088435, 
+        "sat.": 0.0017006802721088435, 
+        "showed": 0.0017006802721088435, 
+        "sleep": 0.00510204081632653, 
+        "sob": 0.00510204081632653, 
+        "stomach.": 0.0017006802721088435, 
+        "summary": 0.0017006802721088435, 
+        "then": 0.011904761904761904, 
+        "tic": 0.0017006802721088435, 
+        "to": 0.00510204081632653, 
+        "tracheobronchitis": 0.0017006802721088435, 
+        "unknown": 0.003401360544217687, 
+        "well": 0.0017006802721088435, 
+        "with": 0.00510204081632653, 
+        "yo": 0.0017006802721088435, 
+        "|": 0.015306122448979591
+    }
+}

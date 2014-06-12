@@ -1,0 +1,2131 @@
+{
+    "bi": {
+        "#obese#": {
+            "morbid": 1.0
+        }, 
+        "(": {
+            "ACTIGALL": 0.2, 
+            "ELIXIR": 0.2, 
+            "M.D.": 0.2, 
+            "SYRUP": 0.2, 
+            "TREATMENTS/PROCEDURES": 0.2
+        }, 
+        ")": {
+            "Admission": 0.16666666666666666, 
+            "CQ68": 0.16666666666666666, 
+            "LIQUID": 0.16666666666666666, 
+            "O.R.": 0.16666666666666666, 
+            "SYRUP": 0.16666666666666666, 
+            "URSODIOL": 0.16666666666666666
+        }, 
+        "):": {
+            "S": 1.0
+        }, 
+        "******": {
+            "7/10/2006": 0.3333333333333333, 
+            "ORDERS": 0.3333333333333333, 
+            "PM": 0.3333333333333333
+        }, 
+        ",": {
+            "#obese#": 0.09523809523809523, 
+            "A.": 0.047619047619047616, 
+            "BRUCK": 0.047619047619047616, 
+            "COVELLI": 0.047619047619047616, 
+            "Complications": 0.047619047619047616, 
+            "DIAGNOSIS;Conditions": 0.047619047619047616, 
+            "Infections": 0.047619047619047616, 
+            "ROGELIO": 0.047619047619047616, 
+            "VANWYK": 0.047619047619047616, 
+            "afebrile": 0.047619047619047616, 
+            "benadryl": 0.047619047619047616, 
+            "diet": 0.047619047619047616, 
+            "difficulty": 0.047619047619047616, 
+            "fever>101": 0.047619047619047616, 
+            "obstruction": 0.047619047619047616, 
+            "pain": 0.047619047619047616, 
+            "site": 0.047619047619047616, 
+            "stable": 0.047619047619047616, 
+            "week": 0.047619047619047616, 
+            "weeks": 0.047619047619047616
+        }, 
+        "-": {
+            "ASA": 1.0
+        }, 
+        "02:02": {
+            "@": 1.0
+        }, 
+        "033-46-65-9": {
+            "MAC": 1.0
+        }, 
+        "1": {
+            "Stage": 0.5, 
+            "physician": 0.5
+        }, 
+        "1/8/2006": {
+            "|": 1.0
+        }, 
+        "11:00": {
+            "AT": 1.0
+        }, 
+        "12:00:00": {
+            "1/8/2006": 1.0
+        }, 
+        "150": {
+            ")": 1.0
+        }, 
+        "2": {
+            "Stage": 0.25, 
+            "Whitlinger": 0.25, 
+            "stage": 0.5
+        }, 
+        "2/18/06": {
+            ")": 0.5, 
+            "ON:": 0.5
+        }, 
+        "282679179": {
+            "": 1.0
+        }, 
+        "3/4/2006": {
+            "Date:": 1.0
+        }, 
+        "300": {
+            ")": 1.0
+        }, 
+        "42": {
+            "COURSE:": 1.0
+        }, 
+        "48142740": {
+            "|": 1.0
+        }, 
+        "5-10": {
+            ")": 1.0
+        }, 
+        "7/10/2006": {
+            "Date:": 1.0
+        }, 
+        "8/29/06": {
+            "on": 1.0
+        }, 
+        "8726391": {
+            "|": 1.0
+        }, 
+        ";Responsible": {
+            "DIAGNOSIS": 1.0
+        }, 
+        "@": {
+            "2/18/06": 1.0
+        }, 
+        "A.": {
+            "EZEQUIEL": 1.0
+        }, 
+        "ACTIGALL": {
+            "MEDICATIONS:": 1.0
+        }, 
+        "ACTIVITY:": {
+            "bypass": 1.0
+        }, 
+        "ADDITIONAL": {
+            "ambulating.": 1.0
+        }, 
+        "ADMIT": {
+            "Aspirin": 1.0
+        }, 
+        "ALL:": {
+            "fioricet": 1.0
+        }, 
+        "ALLERGY:": {
+            ",": 1.0
+        }, 
+        "AM": {
+            "11:00": 0.3333333333333333, 
+            "12:00:00": 0.3333333333333333, 
+            "IN": 0.3333333333333333
+        }, 
+        "AND": {
+            "OPERATIONS": 1.0
+        }, 
+        "APPOINTMENT(": {
+            "UP": 1.0
+        }, 
+        "AS": {
+            "USED": 1.0
+        }, 
+        "ASA": {
+            "ALL:": 1.0
+        }, 
+        "AT": {
+            "2/18/06": 1.0
+        }, 
+        "Admission": {
+            "Causing": 0.5, 
+            "|": 0.5
+        }, 
+        "After": {
+            ";Responsible": 1.0
+        }, 
+        "Ambulating": {
+            "Resp:": 1.0
+        }, 
+        "Applicable": {
+            "Not": 1.0
+        }, 
+        "Aspirin": {
+            "ALLERGY:": 1.0
+        }, 
+        "At": {
+            "house.": 1.0
+        }, 
+        "Attending:": {
+            "YES": 1.0
+        }, 
+        "BE": {
+            "ORDER": 1.0
+        }, 
+        "BID": {
+            "PO": 1.0
+        }, 
+        "BP": {
+            "with": 1.0
+        }, 
+        "BRIEF": {
+            "gi": 1.0
+        }, 
+        "BRUCK": {
+            "******": 1.0
+        }, 
+        "BY:": {
+            "ENTERED": 1.0
+        }, 
+        "C": {
+            "|": 1.0
+        }, 
+        "COMMENTS:": {
+            "ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            "DISCHARGE": 1.0
+        }, 
+        "CONTINGENT": {
+            "AM": 1.0
+        }, 
+        "COURSE:": {
+            "HOSPITAL": 1.0
+        }, 
+        "COVELLI": {
+            "BY:": 1.0
+        }, 
+        "CQ68": {
+            "(": 1.0
+        }, 
+        "CV:": {
+            "po's.": 1.0
+        }, 
+        "Call": {
+            "medication.": 1.0
+        }, 
+        "Causing": {
+            "for": 1.0
+        }, 
+        "Complications": {
+            ",": 1.0
+        }, 
+        "Crush": {
+            "nausea/vomiting.": 1.0
+        }, 
+        "D/C": {
+            "THE": 0.5, 
+            "WILL": 0.5
+        }, 
+        "DIAGNOSIS": {
+            "DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "OTHER": 1.0
+        }, 
+        "DIET:": {
+            "BID": 1.0
+        }, 
+        "DIS": {
+            "|": 1.0
+        }, 
+        "DISCHARGE": {
+            "FINAL": 0.16666666666666666, 
+            "GGI": 0.16666666666666666, 
+            "Home": 0.16666666666666666, 
+            "OF": 0.16666666666666666, 
+            "PRINCIPAL": 0.16666666666666666, 
+            "medication.": 0.16666666666666666
+        }, 
+        "DISPOSITION:": {
+            "M.D.": 1.0
+        }, 
+        "DO/PLAN:": {
+            "TO": 1.0
+        }, 
+        "DVT": {
+            "Received": 1.0
+        }, 
+        "Date:": {
+            "Admission": 0.5, 
+            "Discharge": 0.5
+        }, 
+        "Discharge": {
+            "Status:": 1.0
+        }, 
+        "Do": {
+            "COMMENTS:": 1.0
+        }, 
+        "Dr.": {
+            "):": 1.0
+        }, 
+        "ELIXIR": {
+            "ROXICET": 1.0
+        }, 
+        "END": {
+            "******": 1.0
+        }, 
+        "ENTERED": {
+            "summary": 1.0
+        }, 
+        "ER": {
+            "local": 1.0
+        }, 
+        "EZEQUIEL": {
+            ",": 1.0
+        }, 
+        "FINAL": {
+            "******": 1.0
+        }, 
+        "FOLLOW": {
+            "tolerated": 1.0
+        }, 
+        "Foley": {
+            "GU:": 1.0
+        }, 
+        "GGI": {
+            "Service:": 1.0
+        }, 
+        "GI:": {
+            "difficulty.": 1.0
+        }, 
+        "GU:": {
+            "diet.": 1.0
+        }, 
+        "HCL": {
+            "RANITIDINE": 1.0
+        }, 
+        "HOSPITAL": {
+            "OF": 1.0
+        }, 
+        "HR": {
+            "or": 1.0
+        }, 
+        "Heme:": {
+            "difficulty.": 1.0
+        }, 
+        "Home": {
+            "DISPOSITION:": 1.0
+        }, 
+        "IN": {
+            "NOT": 0.5, 
+            "Starting": 0.5
+        }, 
+        "Infections": {
+            ",": 1.0
+        }, 
+        "Kane": {
+            "La": 1.0
+        }, 
+        "LIQUID": {
+            "OXYCODONE+APAP": 1.0
+        }, 
+        "La": {
+            "033-46-65-9": 1.0
+        }, 
+        "Lap": {
+            "underwent": 1.0
+        }, 
+        "M.D.": {
+            ",": 1.0
+        }, 
+        "MAC": {
+            ",": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "DISCHARGE": 1.0
+        }, 
+        "MEDS:": {
+            "OSA": 1.0
+        }, 
+        "MG": {
+            "150": 0.5, 
+            "300": 0.5
+        }, 
+        "MILLILITERS": {
+            "5-10": 1.0
+        }, 
+        "NOT": {
+            "(": 1.0
+        }, 
+        "Neuro:": {
+            "uneventful.": 1.0
+        }, 
+        "No": {
+            "CV:": 0.5, 
+            "DO/PLAN:": 0.5
+        }, 
+        "Not": {
+            "UPON": 1.0
+        }, 
+        "O.R.": {
+            "IN": 1.0
+        }, 
+        "OF": {
+            "END": 0.5, 
+            "RESUME": 0.5
+        }, 
+        "ON:": {
+            "PATIENT": 1.0
+        }, 
+        "OPERATIONS": {
+            "OSA": 1.0
+        }, 
+        "ORDER": {
+            "D/C": 1.0
+        }, 
+        "ORDERS": {
+            "DISCHARGE": 1.0
+        }, 
+        "OSA": {
+            "PMH:": 0.5, 
+            "Treatment/Stay": 0.5
+        }, 
+        "OTHER": {
+            "bypass": 1.0
+        }, 
+        "OXYCODONE+APAP": {
+            "(": 1.0
+        }, 
+        "PATIENT": {
+            "DISCHARGE": 1.0
+        }, 
+        "PCA": {
+            "on": 1.0
+        }, 
+        "PM": {
+            "02:02": 1.0
+        }, 
+        "PMH:": {
+            "#obese#": 1.0
+        }, 
+        "PO": {
+            "MG": 0.5, 
+            "MILLILITERS": 0.25, 
+            "to": 0.25
+        }, 
+        "POD1": {
+            "Ambulating": 0.3333333333333333, 
+            "on": 0.3333333333333333, 
+            "removed": 0.3333333333333333
+        }, 
+        "PRINCIPAL": {
+            "#obese#": 1.0
+        }, 
+        "PRN": {
+            "Q4H": 1.0
+        }, 
+        "PROCEDURES:": {
+            "AND": 1.0
+        }, 
+        "Pain": {
+            "Neuro:": 0.5, 
+            "PRN": 0.5
+        }, 
+        "Patient": {
+            "swelling": 1.0
+        }, 
+        "Postoperative": {
+            "complication.": 1.0
+        }, 
+        "Primary": {
+            ",": 1.0
+        }, 
+        "Q4H": {
+            "PO": 1.0
+        }, 
+        "RANDALL": {
+            ",": 1.0
+        }, 
+        "RANITIDINE": {
+            "(": 1.0
+        }, 
+        "RESUME": {
+            "BRIEF": 1.0
+        }, 
+        "ROGELIO": {
+            "RANDALL": 1.0
+        }, 
+        "ROXICET": {
+            "8/29/06": 1.0
+        }, 
+        "Received": {
+            "Heme:": 1.0
+        }, 
+        "Report": {
+            "3/4/2006": 1.0
+        }, 
+        "Resp:": {
+            "stay.": 1.0
+        }, 
+        "Roux": {
+            "Lap": 1.0
+        }, 
+        "S": {
+            "APPOINTMENT(": 1.0
+        }, 
+        "SCDs": {
+            "and": 1.0
+        }, 
+        "SQH": {
+            "with": 1.0
+        }, 
+        "SUMMARY:": {
+            "D/C": 1.0
+        }, 
+        "SYRUP": {
+            "HCL": 0.5, 
+            "ZANTAC": 0.5
+        }, 
+        "Service:": {
+            "Ville": 1.0
+        }, 
+        "Stable": {
+            "CONDITION:": 1.0
+        }, 
+        "Stage": {
+            "DIET:": 0.5, 
+            "on": 0.5
+        }, 
+        "Starting": {
+            "BID": 1.0
+        }, 
+        "Status:": {
+            "Report": 1.0
+        }, 
+        "Study": {
+            "After": 1.0
+        }, 
+        "THE": {
+            "AS": 1.0
+        }, 
+        "TO": {
+            "Stable": 1.0
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "OTHER": 1.0
+        }, 
+        "Treatment/Stay": {
+            "affecting": 1.0
+        }, 
+        "UGI": {
+            "GI:": 1.0
+        }, 
+        "UP": {
+            "FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "CONTINGENT": 1.0
+        }, 
+        "URSODIOL": {
+            "(": 1.0
+        }, 
+        "USED": {
+            "BE": 1.0
+        }, 
+        "Upon": {
+            "protocol.": 1.0
+        }, 
+        "VANWYK": {
+            "Attending:": 1.0
+        }, 
+        "Ville": {
+            "Kane": 1.0
+        }, 
+        "WILL": {
+            "Applicable": 1.0
+        }, 
+        "Whitlinger": {
+            "Dr.": 1.0
+        }, 
+        "Y": {
+            "en": 1.0
+        }, 
+        "YES": {
+            "SUMMARY:": 1.0
+        }, 
+        "ZANTAC": {
+            "Pain": 1.0
+        }, 
+        "abdominal": {
+            "of": 1.0
+        }, 
+        "admitted": {
+            "Patient": 1.0
+        }, 
+        "afebrile": {
+            "is": 1.0
+        }, 
+        "affecting": {
+            ",": 1.0
+        }, 
+        "all": {
+            "Crush": 1.0
+        }, 
+        "ambulating.": {
+            ",": 1.0
+        }, 
+        "and": {
+            ",": 0.3333333333333333, 
+            "SQH": 0.3333333333333333, 
+            "service": 0.3333333333333333
+        }, 
+        "as": {
+            "ACTIVITY:": 1.0
+        }, 
+        "benadryl": {
+            "MEDS:": 1.0
+        }, 
+        "but": {
+            "PCA": 1.0
+        }, 
+        "bypass": {
+            "gastric": 1.0
+        }, 
+        "care": {
+            "Primary": 1.0
+        }, 
+        "complication.": {
+            "without": 1.0
+        }, 
+        "controlled": {
+            "initially": 1.0
+        }, 
+        "course": {
+            "Postoperative": 1.0
+        }, 
+        "develop": {
+            "you": 1.0
+        }, 
+        "dictated": {
+            "No": 1.0
+        }, 
+        "diet": {
+            "bypass": 1.0
+        }, 
+        "diet.": {
+            "bypass": 1.0
+        }, 
+        "difficulty": {
+            "without": 1.0
+        }, 
+        "difficulty.": {
+            "without": 1.0
+        }, 
+        "discharge": {
+            "Upon": 0.3333333333333333, 
+            "of": 0.3333333333333333, 
+            "upon": 0.3333333333333333
+        }, 
+        "drive": {
+            "not": 1.0
+        }, 
+        "during": {
+            "HR": 1.0
+        }, 
+        "elixir": {
+            "pain": 1.0
+        }, 
+        "en": {
+            "Roux": 1.0
+        }, 
+        "fever>101": {
+            "for": 1.0
+        }, 
+        "fioricet": {
+            ",": 1.0
+        }, 
+        "for": {
+            "ER": 0.3333333333333333, 
+            "Study": 0.3333333333333333, 
+            "negative": 0.3333333333333333
+        }, 
+        "from": {
+            "redness/discharge": 1.0
+        }, 
+        "gastric": {
+            "1": 0.125, 
+            "2": 0.375, 
+            "Y": 0.125, 
+            "lap": 0.25, 
+            "roux-en-y": 0.125
+        }, 
+        "gi": {
+            "upper": 1.0
+        }, 
+        "go": {
+            "or": 1.0
+        }, 
+        "hospital": {
+            "during": 1.0
+        }, 
+        "house.": {
+            "in": 1.0
+        }, 
+        "if": {
+            "or": 1.0
+        }, 
+        "in": {
+            "while": 1.0
+        }, 
+        "incision": {
+            "from": 1.0
+        }, 
+        "increased": {
+            ",": 1.0
+        }, 
+        "initially": {
+            "Pain": 1.0
+        }, 
+        "is": {
+            "patient": 1.0
+        }, 
+        "issues": {
+            "No": 1.0
+        }, 
+        "lap": {
+            "PROCEDURES:": 0.3333333333333333, 
+            "s/p": 0.6666666666666666
+        }, 
+        "leak": {
+            "for": 1.0
+        }, 
+        "local": {
+            "to": 1.0
+        }, 
+        "male": {
+            "yo": 1.0
+        }, 
+        "medication.": {
+            "all": 0.5, 
+            "pain": 0.5
+        }, 
+        "morbid": {
+            ")": 0.25, 
+            "DIAGNOSIS:": 0.25, 
+            "w/": 0.25, 
+            "|": 0.25
+        }, 
+        "narcotic": {
+            "taking": 1.0
+        }, 
+        "nausea/vomiting.": {
+            ",": 1.0
+        }, 
+        "negative": {
+            "was": 1.0
+        }, 
+        "not": {
+            "Do": 1.0
+        }, 
+        "obstruction": {
+            "or": 1.0
+        }, 
+        "of": {
+            "onset": 0.5, 
+            "time": 0.5
+        }, 
+        "on": {
+            "AM": 0.25, 
+            "UGI": 0.25, 
+            "controlled": 0.25, 
+            "started": 0.25
+        }, 
+        "onset": {
+            "sudden": 1.0
+        }, 
+        "or": {
+            ",": 0.25, 
+            "BP": 0.25, 
+            "Call": 0.25, 
+            "leak": 0.25
+        }, 
+        "over": {
+            "transitioned": 1.0
+        }, 
+        "pain": {
+            "PO": 0.3333333333333333, 
+            "abdominal": 0.3333333333333333, 
+            "narcotic": 0.3333333333333333
+        }, 
+        "patient": {
+            "and": 0.25, 
+            "discharge": 0.75
+        }, 
+        "per": {
+            "diet": 1.0
+        }, 
+        "physician": {
+            "care": 1.0
+        }, 
+        "po's.": {
+            "taking": 1.0
+        }, 
+        "prophylaxis": {
+            "DVT": 1.0
+        }, 
+        "protocol.": {
+            "per": 1.0
+        }, 
+        "redness/discharge": {
+            "increased": 1.0
+        }, 
+        "removed": {
+            "Foley": 1.0
+        }, 
+        "roux-en-y": {
+            "lap": 1.0
+        }, 
+        "s/p": {
+            ",": 1.0
+        }, 
+        "service": {
+            "surgical": 1.0
+        }, 
+        "site": {
+            "incision": 1.0
+        }, 
+        "stable": {
+            "vitals": 1.0
+        }, 
+        "stage": {
+            "tolerating": 1.0
+        }, 
+        "started": {
+            "was": 1.0
+        }, 
+        "stay.": {
+            "hospital": 1.0
+        }, 
+        "sudden": {
+            "develop": 1.0
+        }, 
+        "summary": {
+            "dictated": 1.0
+        }, 
+        "surgical": {
+            "to": 1.0
+        }, 
+        "swelling": {
+            "-": 1.0
+        }, 
+        "taking": {
+            "when": 0.5, 
+            "while": 0.5
+        }, 
+        "time": {
+            "At": 1.0
+        }, 
+        "to": {
+            "admitted": 0.3333333333333333, 
+            "go": 0.3333333333333333, 
+            "over": 0.3333333333333333
+        }, 
+        "tolerated": {
+            "as": 1.0
+        }, 
+        "tolerating": {
+            ",": 0.5, 
+            "is": 0.5
+        }, 
+        "transitioned": {
+            "but": 1.0
+        }, 
+        "underwent": {
+            "and": 1.0
+        }, 
+        "uneventful.": {
+            "course": 1.0
+        }, 
+        "upon": {
+            ",": 1.0
+        }, 
+        "upper": {
+            ")": 1.0
+        }, 
+        "vitals": {
+            ",": 1.0
+        }, 
+        "voiding": {
+            "is": 1.0
+        }, 
+        "w/": {
+            "male": 1.0
+        }, 
+        "was": {
+            "POD1": 0.5, 
+            "patient": 0.5
+        }, 
+        "week": {
+            "1": 1.0
+        }, 
+        "weeks": {
+            "2": 1.0
+        }, 
+        "when": {
+            "elixir": 1.0
+        }, 
+        "while": {
+            "SCDs": 0.5, 
+            "drive": 0.5
+        }, 
+        "with": {
+            "issues": 0.5, 
+            "prophylaxis": 0.5
+        }, 
+        "without": {
+            "POD1": 0.5, 
+            "bypass": 0.25, 
+            "voiding": 0.25
+        }, 
+        "yo": {
+            "42": 1.0
+        }, 
+        "you": {
+            "if": 1.0
+        }, 
+        "|": {
+            "282679179": 0.1111111111111111, 
+            "48142740": 0.1111111111111111, 
+            "8726391": 0.1111111111111111, 
+            "AM": 0.1111111111111111, 
+            "C": 0.1111111111111111, 
+            "DIS": 0.1111111111111111, 
+            "bypass": 0.1111111111111111, 
+            "|": 0.2222222222222222
+        }
+    }, 
+    "id": "312", 
+    "text": " 282679179 | C | 48142740 | | 8726391 | 1/8/2006 12:00:00 AM | morbid #obese# , s/p lap gastric bypass | | DIS | Admission Date: 3/4/2006 Report Status: Discharge Date: 7/10/2006 ****** FINAL DISCHARGE ORDERS ****** BRUCK , MAC 033-46-65-9 La Kane Ville Service: GGI DISCHARGE PATIENT ON: 2/18/06 AT 11:00 AM CONTINGENT UPON Not Applicable WILL D/C ORDER BE USED AS THE D/C SUMMARY: YES Attending: VANWYK , EZEQUIEL A. , M.D. DISPOSITION: Home DISCHARGE MEDICATIONS: ACTIGALL ( URSODIOL ) 300 MG PO BID Starting IN AM on 8/29/06 ROXICET ELIXIR ( OXYCODONE+APAP LIQUID ) 5-10 MILLILITERS PO Q4H PRN Pain ZANTAC SYRUP ( RANITIDINE HCL SYRUP ) 150 MG PO BID DIET: Stage 2 gastric bypass ACTIVITY: as tolerated FOLLOW UP APPOINTMENT( S ): Dr. Whitlinger 2 weeks , Primary care physician 1 week , ALLERGY: Aspirin ADMIT DIAGNOSIS: morbid #obese# PRINCIPAL DISCHARGE DIAGNOSIS ;Responsible After Study for Causing Admission ) morbid #obese# , s/p lap gastric bypass OTHER DIAGNOSIS;Conditions , Infections , Complications , affecting Treatment/Stay OSA OPERATIONS AND PROCEDURES: lap roux-en-y gastric bypass OTHER TREATMENTS/PROCEDURES ( NOT IN O.R. ) upper gi BRIEF RESUME OF HOSPITAL COURSE: 42 yo male w/ morbid #obese# PMH: OSA MEDS: benadryl , fioricet ALL: ASA - swelling Patient admitted to surgical service and underwent Lap Roux en Y gastric bypass without complication. Postoperative course uneventful. Neuro: Pain initially controlled on PCA but transitioned over to PO pain elixir when taking po's. CV: No issues with BP or HR during hospital stay. Resp: Ambulating POD1 without difficulty. GI: UGI on POD1 was negative for leak or obstruction , and patient was started on Stage 1 gastric bypass diet per protocol. Upon discharge patient is tolerating stage 2 gastric bypass diet. GU: Foley removed POD1 without difficulty , upon discharge patient is voiding without difficulty. Heme: Received DVT prophylaxis with SQH and SCDs while in house. At time of discharge patient is afebrile , vitals stable , tolerating stage 2 gastric bypass diet , ambulating. ADDITIONAL COMMENTS: Do not drive while taking narcotic pain medication. Call or go to local ER for fever>101 , increased redness/discharge from incision site , or if you develop sudden onset of abdominal pain , nausea/vomiting. Crush all medication. DISCHARGE CONDITION: Stable TO DO/PLAN: No dictated summary ENTERED BY: COVELLI , RANDALL ROGELIO , M.D. ( CQ68 ) 2/18/06 @ 02:02 PM ****** END OF DISCHARGE ORDERS ******", 
+    "tri": {
+        "#obese#": {
+            ")~morbid": 0.25, 
+            "DIAGNOSIS:~morbid": 0.25, 
+            "w/~morbid": 0.25, 
+            "|~morbid": 0.25
+        }, 
+        "(": {
+            ",~M.D.": 0.2, 
+            "MEDICATIONS:~ACTIGALL": 0.2, 
+            "OTHER~TREATMENTS/PROCEDURES": 0.2, 
+            "ROXICET~ELIXIR": 0.2, 
+            "ZANTAC~SYRUP": 0.2
+        }, 
+        ")": {
+            "(~CQ68": 0.16666666666666666, 
+            "(~URSODIOL": 0.16666666666666666, 
+            "Causing~Admission": 0.16666666666666666, 
+            "HCL~SYRUP": 0.16666666666666666, 
+            "IN~O.R.": 0.16666666666666666, 
+            "OXYCODONE+APAP~LIQUID": 0.16666666666666666
+        }, 
+        "):": {
+            "APPOINTMENT(~S": 1.0
+        }, 
+        "******": {
+            "02:02~PM": 0.25, 
+            "DISCHARGE~ORDERS": 0.5, 
+            "Date:~7/10/2006": 0.25
+        }, 
+        ",": {
+            "******~BRUCK": 0.047619047619047616, 
+            ",~Complications": 0.047619047619047616, 
+            ",~Infections": 0.047619047619047616, 
+            "1~week": 0.047619047619047616, 
+            "2~weeks": 0.047619047619047616, 
+            "Attending:~VANWYK": 0.047619047619047616, 
+            "BY:~COVELLI": 0.047619047619047616, 
+            "EZEQUIEL~A.": 0.047619047619047616, 
+            "MEDS:~benadryl": 0.047619047619047616, 
+            "OTHER~DIAGNOSIS;Conditions": 0.047619047619047616, 
+            "RANDALL~ROGELIO": 0.047619047619047616, 
+            "abdominal~pain": 0.047619047619047616, 
+            "bypass~diet": 0.047619047619047616, 
+            "for~fever>101": 0.047619047619047616, 
+            "incision~site": 0.047619047619047616, 
+            "is~afebrile": 0.047619047619047616, 
+            "morbid~#obese#": 0.09523809523809523, 
+            "or~obstruction": 0.047619047619047616, 
+            "vitals~stable": 0.047619047619047616, 
+            "without~difficulty": 0.047619047619047616
+        }, 
+        "-": {
+            "ALL:~ASA": 1.0
+        }, 
+        "02:02": {
+            "2/18/06~@": 1.0
+        }, 
+        "033-46-65-9": {
+            ",~MAC": 1.0
+        }, 
+        "1": {
+            "care~physician": 0.5, 
+            "on~Stage": 0.5
+        }, 
+        "1/8/2006": {
+            "8726391~|": 1.0
+        }, 
+        "11:00": {
+            "2/18/06~AT": 1.0
+        }, 
+        "12:00:00": {
+            "|~1/8/2006": 1.0
+        }, 
+        "150": {
+            "SYRUP~)": 1.0
+        }, 
+        "2": {
+            "DIET:~Stage": 0.25, 
+            "Dr.~Whitlinger": 0.25, 
+            "tolerating~stage": 0.5
+        }, 
+        "2/18/06": {
+            "CQ68~)": 0.5, 
+            "PATIENT~ON:": 0.5
+        }, 
+        "3/4/2006": {
+            "Admission~Date:": 1.0
+        }, 
+        "300": {
+            "URSODIOL~)": 1.0
+        }, 
+        "42": {
+            "HOSPITAL~COURSE:": 1.0
+        }, 
+        "48142740": {
+            "C~|": 1.0
+        }, 
+        "5-10": {
+            "LIQUID~)": 1.0
+        }, 
+        "7/10/2006": {
+            "Discharge~Date:": 1.0
+        }, 
+        "8/29/06": {
+            "AM~on": 1.0
+        }, 
+        "8726391": {
+            "|~|": 1.0
+        }, 
+        ";Responsible": {
+            "DISCHARGE~DIAGNOSIS": 1.0
+        }, 
+        "@": {
+            ")~2/18/06": 1.0
+        }, 
+        "A.": {
+            ",~EZEQUIEL": 1.0
+        }, 
+        "ACTIGALL": {
+            "DISCHARGE~MEDICATIONS:": 1.0
+        }, 
+        "ACTIVITY:": {
+            "gastric~bypass": 1.0
+        }, 
+        "ADDITIONAL": {
+            ",~ambulating.": 1.0
+        }, 
+        "ADMIT": {
+            "ALLERGY:~Aspirin": 1.0
+        }, 
+        "ALL:": {
+            ",~fioricet": 1.0
+        }, 
+        "ALLERGY:": {
+            "week~,": 1.0
+        }, 
+        "AM": {
+            "1/8/2006~12:00:00": 0.3333333333333333, 
+            "AT~11:00": 0.3333333333333333, 
+            "Starting~IN": 0.3333333333333333
+        }, 
+        "AND": {
+            "OSA~OPERATIONS": 1.0
+        }, 
+        "APPOINTMENT(": {
+            "FOLLOW~UP": 1.0
+        }, 
+        "AS": {
+            "BE~USED": 1.0
+        }, 
+        "ASA": {
+            "fioricet~ALL:": 1.0
+        }, 
+        "AT": {
+            "ON:~2/18/06": 1.0
+        }, 
+        "Admission": {
+            "DIS~|": 0.5, 
+            "for~Causing": 0.5
+        }, 
+        "After": {
+            "DIAGNOSIS~;Responsible": 1.0
+        }, 
+        "Ambulating": {
+            "stay.~Resp:": 1.0
+        }, 
+        "Applicable": {
+            "UPON~Not": 1.0
+        }, 
+        "Aspirin": {
+            ",~ALLERGY:": 1.0
+        }, 
+        "At": {
+            "in~house.": 1.0
+        }, 
+        "Attending:": {
+            "SUMMARY:~YES": 1.0
+        }, 
+        "BE": {
+            "D/C~ORDER": 1.0
+        }, 
+        "BID": {
+            "MG~PO": 1.0
+        }, 
+        "BP": {
+            "issues~with": 1.0
+        }, 
+        "BRIEF": {
+            "upper~gi": 1.0
+        }, 
+        "BRUCK": {
+            "ORDERS~******": 1.0
+        }, 
+        "BY:": {
+            "summary~ENTERED": 1.0
+        }, 
+        "C": {
+            "282679179~|": 1.0
+        }, 
+        "COMMENTS:": {
+            "ambulating.~ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            "medication.~DISCHARGE": 1.0
+        }, 
+        "CONTINGENT": {
+            "11:00~AM": 1.0
+        }, 
+        "COURSE:": {
+            "OF~HOSPITAL": 1.0
+        }, 
+        "COVELLI": {
+            "ENTERED~BY:": 1.0
+        }, 
+        "CQ68": {
+            "M.D.~(": 1.0
+        }, 
+        "CV:": {
+            "taking~po's.": 1.0
+        }, 
+        "Call": {
+            "pain~medication.": 1.0
+        }, 
+        "Causing": {
+            "Study~for": 1.0
+        }, 
+        "Complications": {
+            "Infections~,": 1.0
+        }, 
+        "Crush": {
+            ",~nausea/vomiting.": 1.0
+        }, 
+        "D/C": {
+            "AS~THE": 0.5, 
+            "Applicable~WILL": 0.5
+        }, 
+        "DIAGNOSIS": {
+            "PRINCIPAL~DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "Aspirin~ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "bypass~OTHER": 1.0
+        }, 
+        "DIET:": {
+            "PO~BID": 1.0
+        }, 
+        "DIS": {
+            "|~|": 1.0
+        }, 
+        "DISCHARGE": {
+            "#obese#~PRINCIPAL": 0.16666666666666666, 
+            "******~FINAL": 0.16666666666666666, 
+            "DISPOSITION:~Home": 0.16666666666666666, 
+            "END~OF": 0.16666666666666666, 
+            "Service:~GGI": 0.16666666666666666, 
+            "all~medication.": 0.16666666666666666
+        }, 
+        "DISPOSITION:": {
+            ",~M.D.": 1.0
+        }, 
+        "DO/PLAN:": {
+            "Stable~TO": 1.0
+        }, 
+        "DVT": {
+            "Heme:~Received": 1.0
+        }, 
+        "Date:": {
+            "Status:~Discharge": 0.5, 
+            "|~Admission": 0.5
+        }, 
+        "Discharge": {
+            "Report~Status:": 1.0
+        }, 
+        "Do": {
+            "ADDITIONAL~COMMENTS:": 1.0
+        }, 
+        "Dr.": {
+            "S~):": 1.0
+        }, 
+        "ELIXIR": {
+            "8/29/06~ROXICET": 1.0
+        }, 
+        "END": {
+            "PM~******": 1.0
+        }, 
+        "ENTERED": {
+            "dictated~summary": 1.0
+        }, 
+        "ER": {
+            "to~local": 1.0
+        }, 
+        "EZEQUIEL": {
+            "VANWYK~,": 1.0
+        }, 
+        "FINAL": {
+            "7/10/2006~******": 1.0
+        }, 
+        "FOLLOW": {
+            "as~tolerated": 1.0
+        }, 
+        "Foley": {
+            "diet.~GU:": 1.0
+        }, 
+        "GGI": {
+            "Ville~Service:": 1.0
+        }, 
+        "GI:": {
+            "without~difficulty.": 1.0
+        }, 
+        "GU:": {
+            "bypass~diet.": 1.0
+        }, 
+        "HCL": {
+            "(~RANITIDINE": 1.0
+        }, 
+        "HOSPITAL": {
+            "RESUME~OF": 1.0
+        }, 
+        "HR": {
+            "BP~or": 1.0
+        }, 
+        "Heme:": {
+            "without~difficulty.": 1.0
+        }, 
+        "Home": {
+            "M.D.~DISPOSITION:": 1.0
+        }, 
+        "IN": {
+            "(~NOT": 0.5, 
+            "BID~Starting": 0.5
+        }, 
+        "Infections": {
+            "DIAGNOSIS;Conditions~,": 1.0
+        }, 
+        "Kane": {
+            "033-46-65-9~La": 1.0
+        }, 
+        "LIQUID": {
+            "(~OXYCODONE+APAP": 1.0
+        }, 
+        "La": {
+            "MAC~033-46-65-9": 1.0
+        }, 
+        "Lap": {
+            "and~underwent": 1.0
+        }, 
+        "M.D.": {
+            "A.~,": 0.5, 
+            "ROGELIO~,": 0.5
+        }, 
+        "MAC": {
+            "BRUCK~,": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "Home~DISCHARGE": 1.0
+        }, 
+        "MEDS:": {
+            "PMH:~OSA": 1.0
+        }, 
+        "MG": {
+            ")~150": 0.5, 
+            ")~300": 0.5
+        }, 
+        "MILLILITERS": {
+            ")~5-10": 1.0
+        }, 
+        "NOT": {
+            "TREATMENTS/PROCEDURES~(": 1.0
+        }, 
+        "Neuro:": {
+            "course~uneventful.": 1.0
+        }, 
+        "No": {
+            "TO~DO/PLAN:": 0.5, 
+            "po's.~CV:": 0.5
+        }, 
+        "Not": {
+            "CONTINGENT~UPON": 1.0
+        }, 
+        "O.R.": {
+            "NOT~IN": 1.0
+        }, 
+        "OF": {
+            "******~END": 0.5, 
+            "BRIEF~RESUME": 0.5
+        }, 
+        "ON:": {
+            "DISCHARGE~PATIENT": 1.0
+        }, 
+        "OPERATIONS": {
+            "Treatment/Stay~OSA": 1.0
+        }, 
+        "ORDER": {
+            "WILL~D/C": 1.0
+        }, 
+        "ORDERS": {
+            "FINAL~DISCHARGE": 0.5, 
+            "OF~DISCHARGE": 0.5
+        }, 
+        "OSA": {
+            "#obese#~PMH:": 0.5, 
+            "affecting~Treatment/Stay": 0.5
+        }, 
+        "OTHER": {
+            "gastric~bypass": 1.0
+        }, 
+        "OXYCODONE+APAP": {
+            "ELIXIR~(": 1.0
+        }, 
+        "PATIENT": {
+            "GGI~DISCHARGE": 1.0
+        }, 
+        "PCA": {
+            "controlled~on": 1.0
+        }, 
+        "PM": {
+            "@~02:02": 1.0
+        }, 
+        "PMH:": {
+            "morbid~#obese#": 1.0
+        }, 
+        "PO": {
+            "150~MG": 0.25, 
+            "300~MG": 0.25, 
+            "5-10~MILLILITERS": 0.25, 
+            "over~to": 0.25
+        }, 
+        "POD1": {
+            "Foley~removed": 0.3333333333333333, 
+            "Resp:~Ambulating": 0.3333333333333333, 
+            "UGI~on": 0.3333333333333333
+        }, 
+        "PRINCIPAL": {
+            "morbid~#obese#": 1.0
+        }, 
+        "PRN": {
+            "PO~Q4H": 1.0
+        }, 
+        "PROCEDURES:": {
+            "OPERATIONS~AND": 1.0
+        }, 
+        "Pain": {
+            "Q4H~PRN": 0.5, 
+            "uneventful.~Neuro:": 0.5
+        }, 
+        "Patient": {
+            "-~swelling": 1.0
+        }, 
+        "Postoperative": {
+            "without~complication.": 1.0
+        }, 
+        "Primary": {
+            "weeks~,": 1.0
+        }, 
+        "Q4H": {
+            "MILLILITERS~PO": 1.0
+        }, 
+        "RANDALL": {
+            "COVELLI~,": 1.0
+        }, 
+        "RANITIDINE": {
+            "SYRUP~(": 1.0
+        }, 
+        "RESUME": {
+            "gi~BRIEF": 1.0
+        }, 
+        "ROGELIO": {
+            ",~RANDALL": 1.0
+        }, 
+        "ROXICET": {
+            "on~8/29/06": 1.0
+        }, 
+        "Received": {
+            "difficulty.~Heme:": 1.0
+        }, 
+        "Report": {
+            "Date:~3/4/2006": 1.0
+        }, 
+        "Resp:": {
+            "hospital~stay.": 1.0
+        }, 
+        "Roux": {
+            "underwent~Lap": 1.0
+        }, 
+        "S": {
+            "UP~APPOINTMENT(": 1.0
+        }, 
+        "SCDs": {
+            "SQH~and": 1.0
+        }, 
+        "SQH": {
+            "prophylaxis~with": 1.0
+        }, 
+        "SUMMARY:": {
+            "THE~D/C": 1.0
+        }, 
+        "SYRUP": {
+            "Pain~ZANTAC": 0.5, 
+            "RANITIDINE~HCL": 0.5
+        }, 
+        "Service:": {
+            "Kane~Ville": 1.0
+        }, 
+        "Stable": {
+            "DISCHARGE~CONDITION:": 1.0
+        }, 
+        "Stage": {
+            "BID~DIET:": 0.5, 
+            "started~on": 0.5
+        }, 
+        "Starting": {
+            "PO~BID": 1.0
+        }, 
+        "Status:": {
+            "3/4/2006~Report": 1.0
+        }, 
+        "Study": {
+            ";Responsible~After": 1.0
+        }, 
+        "THE": {
+            "USED~AS": 1.0
+        }, 
+        "TO": {
+            "CONDITION:~Stable": 1.0
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "bypass~OTHER": 1.0
+        }, 
+        "Treatment/Stay": {
+            ",~affecting": 1.0
+        }, 
+        "UGI": {
+            "difficulty.~GI:": 1.0
+        }, 
+        "UP": {
+            "tolerated~FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "AM~CONTINGENT": 1.0
+        }, 
+        "URSODIOL": {
+            "ACTIGALL~(": 1.0
+        }, 
+        "USED": {
+            "ORDER~BE": 1.0
+        }, 
+        "Upon": {
+            "per~protocol.": 1.0
+        }, 
+        "VANWYK": {
+            "YES~Attending:": 1.0
+        }, 
+        "Ville": {
+            "La~Kane": 1.0
+        }, 
+        "WILL": {
+            "Not~Applicable": 1.0
+        }, 
+        "Whitlinger": {
+            "):~Dr.": 1.0
+        }, 
+        "Y": {
+            "Roux~en": 1.0
+        }, 
+        "YES": {
+            "D/C~SUMMARY:": 1.0
+        }, 
+        "ZANTAC": {
+            "PRN~Pain": 1.0
+        }, 
+        "abdominal": {
+            "onset~of": 1.0
+        }, 
+        "admitted": {
+            "swelling~Patient": 1.0
+        }, 
+        "afebrile": {
+            "patient~is": 1.0
+        }, 
+        "affecting": {
+            "Complications~,": 1.0
+        }, 
+        "all": {
+            "nausea/vomiting.~Crush": 1.0
+        }, 
+        "ambulating.": {
+            "diet~,": 1.0
+        }, 
+        "and": {
+            "obstruction~,": 0.3333333333333333, 
+            "surgical~service": 0.3333333333333333, 
+            "with~SQH": 0.3333333333333333
+        }, 
+        "as": {
+            "bypass~ACTIVITY:": 1.0
+        }, 
+        "benadryl": {
+            "OSA~MEDS:": 1.0
+        }, 
+        "but": {
+            "on~PCA": 1.0
+        }, 
+        "bypass": {
+            "1~gastric": 0.125, 
+            "2~gastric": 0.375, 
+            "Y~gastric": 0.125, 
+            "lap~gastric": 0.25, 
+            "roux-en-y~gastric": 0.125
+        }, 
+        "care": {
+            ",~Primary": 1.0
+        }, 
+        "complication.": {
+            "bypass~without": 1.0
+        }, 
+        "controlled": {
+            "Pain~initially": 1.0
+        }, 
+        "course": {
+            "complication.~Postoperative": 1.0
+        }, 
+        "develop": {
+            "if~you": 1.0
+        }, 
+        "dictated": {
+            "DO/PLAN:~No": 1.0
+        }, 
+        "diet": {
+            "gastric~bypass": 1.0
+        }, 
+        "diet.": {
+            "gastric~bypass": 1.0
+        }, 
+        "difficulty": {
+            "POD1~without": 1.0
+        }, 
+        "difficulty.": {
+            "POD1~without": 0.5, 
+            "voiding~without": 0.5
+        }, 
+        "discharge": {
+            ",~upon": 0.3333333333333333, 
+            "protocol.~Upon": 0.3333333333333333, 
+            "time~of": 0.3333333333333333
+        }, 
+        "drive": {
+            "Do~not": 1.0
+        }, 
+        "during": {
+            "or~HR": 1.0
+        }, 
+        "elixir": {
+            "PO~pain": 1.0
+        }, 
+        "en": {
+            "Lap~Roux": 1.0
+        }, 
+        "fever>101": {
+            "ER~for": 1.0
+        }, 
+        "fioricet": {
+            "benadryl~,": 1.0
+        }, 
+        "for": {
+            "After~Study": 0.3333333333333333, 
+            "local~ER": 0.3333333333333333, 
+            "was~negative": 0.3333333333333333
+        }, 
+        "from": {
+            "increased~redness/discharge": 1.0
+        }, 
+        "gastric": {
+            "Stage~1": 0.125, 
+            "Stage~2": 0.125, 
+            "en~Y": 0.125, 
+            "lap~roux-en-y": 0.125, 
+            "s/p~lap": 0.25, 
+            "stage~2": 0.25
+        }, 
+        "gi": {
+            ")~upper": 1.0
+        }, 
+        "go": {
+            "Call~or": 1.0
+        }, 
+        "hospital": {
+            "HR~during": 1.0
+        }, 
+        "house.": {
+            "while~in": 1.0
+        }, 
+        "if": {
+            ",~or": 1.0
+        }, 
+        "in": {
+            "SCDs~while": 1.0
+        }, 
+        "incision": {
+            "redness/discharge~from": 1.0
+        }, 
+        "increased": {
+            "fever>101~,": 1.0
+        }, 
+        "initially": {
+            "Neuro:~Pain": 1.0
+        }, 
+        "is": {
+            "discharge~patient": 1.0
+        }, 
+        "issues": {
+            "CV:~No": 1.0
+        }, 
+        "lap": {
+            ",~s/p": 0.6666666666666666, 
+            "AND~PROCEDURES:": 0.3333333333333333
+        }, 
+        "leak": {
+            "negative~for": 1.0
+        }, 
+        "local": {
+            "go~to": 1.0
+        }, 
+        "male": {
+            "42~yo": 1.0
+        }, 
+        "medication.": {
+            "Crush~all": 0.5, 
+            "narcotic~pain": 0.5
+        }, 
+        "morbid": {
+            "ADMIT~DIAGNOSIS:": 0.25, 
+            "AM~|": 0.25, 
+            "Admission~)": 0.25, 
+            "male~w/": 0.25
+        }, 
+        "narcotic": {
+            "while~taking": 1.0
+        }, 
+        "nausea/vomiting.": {
+            "pain~,": 1.0
+        }, 
+        "negative": {
+            "POD1~was": 1.0
+        }, 
+        "not": {
+            "COMMENTS:~Do": 1.0
+        }, 
+        "obstruction": {
+            "leak~or": 1.0
+        }, 
+        "of": {
+            "At~time": 0.5, 
+            "sudden~onset": 0.5
+        }, 
+        "on": {
+            "GI:~UGI": 0.25, 
+            "IN~AM": 0.25, 
+            "initially~controlled": 0.25, 
+            "was~started": 0.25
+        }, 
+        "onset": {
+            "develop~sudden": 1.0
+        }, 
+        "or": {
+            "for~leak": 0.25, 
+            "medication.~Call": 0.25, 
+            "site~,": 0.25, 
+            "with~BP": 0.25
+        }, 
+        "over": {
+            "but~transitioned": 1.0
+        }, 
+        "pain": {
+            "of~abdominal": 0.3333333333333333, 
+            "taking~narcotic": 0.3333333333333333, 
+            "to~PO": 0.3333333333333333
+        }, 
+        "patient": {
+            ",~and": 0.25, 
+            "Upon~discharge": 0.25, 
+            "of~discharge": 0.25, 
+            "upon~discharge": 0.25
+        }, 
+        "per": {
+            "bypass~diet": 1.0
+        }, 
+        "physician": {
+            "Primary~care": 1.0
+        }, 
+        "po's.": {
+            "when~taking": 1.0
+        }, 
+        "prophylaxis": {
+            "Received~DVT": 1.0
+        }, 
+        "protocol.": {
+            "diet~per": 1.0
+        }, 
+        "redness/discharge": {
+            ",~increased": 1.0
+        }, 
+        "removed": {
+            "GU:~Foley": 1.0
+        }, 
+        "roux-en-y": {
+            "PROCEDURES:~lap": 1.0
+        }, 
+        "s/p": {
+            "#obese#~,": 1.0
+        }, 
+        "service": {
+            "to~surgical": 1.0
+        }, 
+        "site": {
+            "from~incision": 1.0
+        }, 
+        "stable": {
+            ",~vitals": 1.0
+        }, 
+        "stage": {
+            ",~tolerating": 0.5, 
+            "is~tolerating": 0.5
+        }, 
+        "started": {
+            "patient~was": 1.0
+        }, 
+        "stay.": {
+            "during~hospital": 1.0
+        }, 
+        "sudden": {
+            "you~develop": 1.0
+        }, 
+        "summary": {
+            "No~dictated": 1.0
+        }, 
+        "surgical": {
+            "admitted~to": 1.0
+        }, 
+        "swelling": {
+            "ASA~-": 1.0
+        }, 
+        "taking": {
+            "drive~while": 0.5, 
+            "elixir~when": 0.5
+        }, 
+        "time": {
+            "house.~At": 1.0
+        }, 
+        "to": {
+            "Patient~admitted": 0.3333333333333333, 
+            "or~go": 0.3333333333333333, 
+            "transitioned~over": 0.3333333333333333
+        }, 
+        "tolerated": {
+            "ACTIVITY:~as": 1.0
+        }, 
+        "tolerating": {
+            "patient~is": 0.5, 
+            "stable~,": 0.5
+        }, 
+        "transitioned": {
+            "PCA~but": 1.0
+        }, 
+        "underwent": {
+            "service~and": 1.0
+        }, 
+        "uneventful.": {
+            "Postoperative~course": 1.0
+        }, 
+        "upon": {
+            "difficulty~,": 1.0
+        }, 
+        "upper": {
+            "O.R.~)": 1.0
+        }, 
+        "vitals": {
+            "afebrile~,": 1.0
+        }, 
+        "voiding": {
+            "patient~is": 1.0
+        }, 
+        "w/": {
+            "yo~male": 1.0
+        }, 
+        "was": {
+            "and~patient": 0.5, 
+            "on~POD1": 0.5
+        }, 
+        "week": {
+            "physician~1": 1.0
+        }, 
+        "weeks": {
+            "Whitlinger~2": 1.0
+        }, 
+        "when": {
+            "pain~elixir": 1.0
+        }, 
+        "while": {
+            "and~SCDs": 0.5, 
+            "not~drive": 0.5
+        }, 
+        "with": {
+            "DVT~prophylaxis": 0.5, 
+            "No~issues": 0.5
+        }, 
+        "without": {
+            "Ambulating~POD1": 0.25, 
+            "gastric~bypass": 0.25, 
+            "is~voiding": 0.25, 
+            "removed~POD1": 0.25
+        }, 
+        "yo": {
+            "COURSE:~42": 1.0
+        }, 
+        "you": {
+            "or~if": 1.0
+        }, 
+        "|": {
+            "12:00:00~AM": 0.1111111111111111, 
+            "48142740~|": 0.1111111111111111, 
+            "bypass~|": 0.1111111111111111, 
+            "gastric~bypass": 0.1111111111111111, 
+            "|~48142740": 0.1111111111111111, 
+            "|~8726391": 0.1111111111111111, 
+            "|~C": 0.1111111111111111, 
+            "|~DIS": 0.1111111111111111, 
+            "~282679179": 0.1111111111111111
+        }
+    }, 
+    "type": "data/train", 
+    "uni": {
+        "": 0.0024937655860349127, 
+        "#obese#": 0.00997506234413965, 
+        "(": 0.012468827930174564, 
+        ")": 0.014962593516209476, 
+        "):": 0.0024937655860349127, 
+        "******": 0.007481296758104738, 
+        ",": 0.05236907730673317, 
+        "-": 0.0024937655860349127, 
+        "02:02": 0.0024937655860349127, 
+        "033-46-65-9": 0.0024937655860349127, 
+        "1": 0.004987531172069825, 
+        "1/8/2006": 0.0024937655860349127, 
+        "11:00": 0.0024937655860349127, 
+        "12:00:00": 0.0024937655860349127, 
+        "150": 0.0024937655860349127, 
+        "2": 0.00997506234413965, 
+        "2/18/06": 0.004987531172069825, 
+        "282679179": 0.0024937655860349127, 
+        "3/4/2006": 0.0024937655860349127, 
+        "300": 0.0024937655860349127, 
+        "42": 0.0024937655860349127, 
+        "48142740": 0.0024937655860349127, 
+        "5-10": 0.0024937655860349127, 
+        "7/10/2006": 0.0024937655860349127, 
+        "8/29/06": 0.0024937655860349127, 
+        "8726391": 0.0024937655860349127, 
+        ";Responsible": 0.0024937655860349127, 
+        "@": 0.0024937655860349127, 
+        "A.": 0.0024937655860349127, 
+        "ACTIGALL": 0.0024937655860349127, 
+        "ACTIVITY:": 0.0024937655860349127, 
+        "ADDITIONAL": 0.0024937655860349127, 
+        "ADMIT": 0.0024937655860349127, 
+        "ALL:": 0.0024937655860349127, 
+        "ALLERGY:": 0.0024937655860349127, 
+        "AM": 0.007481296758104738, 
+        "AND": 0.0024937655860349127, 
+        "APPOINTMENT(": 0.0024937655860349127, 
+        "AS": 0.0024937655860349127, 
+        "ASA": 0.0024937655860349127, 
+        "AT": 0.0024937655860349127, 
+        "Admission": 0.004987531172069825, 
+        "After": 0.0024937655860349127, 
+        "Ambulating": 0.0024937655860349127, 
+        "Applicable": 0.0024937655860349127, 
+        "Aspirin": 0.0024937655860349127, 
+        "At": 0.0024937655860349127, 
+        "Attending:": 0.0024937655860349127, 
+        "BE": 0.0024937655860349127, 
+        "BID": 0.004987531172069825, 
+        "BP": 0.0024937655860349127, 
+        "BRIEF": 0.0024937655860349127, 
+        "BRUCK": 0.0024937655860349127, 
+        "BY:": 0.0024937655860349127, 
+        "C": 0.0024937655860349127, 
+        "COMMENTS:": 0.0024937655860349127, 
+        "CONDITION:": 0.0024937655860349127, 
+        "CONTINGENT": 0.0024937655860349127, 
+        "COURSE:": 0.0024937655860349127, 
+        "COVELLI": 0.0024937655860349127, 
+        "CQ68": 0.0024937655860349127, 
+        "CV:": 0.0024937655860349127, 
+        "Call": 0.0024937655860349127, 
+        "Causing": 0.0024937655860349127, 
+        "Complications": 0.0024937655860349127, 
+        "Crush": 0.0024937655860349127, 
+        "D/C": 0.004987531172069825, 
+        "DIAGNOSIS": 0.0024937655860349127, 
+        "DIAGNOSIS:": 0.0024937655860349127, 
+        "DIAGNOSIS;Conditions": 0.0024937655860349127, 
+        "DIET:": 0.0024937655860349127, 
+        "DIS": 0.0024937655860349127, 
+        "DISCHARGE": 0.014962593516209476, 
+        "DISPOSITION:": 0.0024937655860349127, 
+        "DO/PLAN:": 0.0024937655860349127, 
+        "DVT": 0.0024937655860349127, 
+        "Date:": 0.004987531172069825, 
+        "Discharge": 0.0024937655860349127, 
+        "Do": 0.0024937655860349127, 
+        "Dr.": 0.0024937655860349127, 
+        "ELIXIR": 0.0024937655860349127, 
+        "END": 0.0024937655860349127, 
+        "ENTERED": 0.0024937655860349127, 
+        "ER": 0.0024937655860349127, 
+        "EZEQUIEL": 0.0024937655860349127, 
+        "FINAL": 0.0024937655860349127, 
+        "FOLLOW": 0.0024937655860349127, 
+        "Foley": 0.0024937655860349127, 
+        "GGI": 0.0024937655860349127, 
+        "GI:": 0.0024937655860349127, 
+        "GU:": 0.0024937655860349127, 
+        "HCL": 0.0024937655860349127, 
+        "HOSPITAL": 0.0024937655860349127, 
+        "HR": 0.0024937655860349127, 
+        "Heme:": 0.0024937655860349127, 
+        "Home": 0.0024937655860349127, 
+        "IN": 0.004987531172069825, 
+        "Infections": 0.0024937655860349127, 
+        "Kane": 0.0024937655860349127, 
+        "LIQUID": 0.0024937655860349127, 
+        "La": 0.0024937655860349127, 
+        "Lap": 0.0024937655860349127, 
+        "M.D.": 0.004987531172069825, 
+        "MAC": 0.0024937655860349127, 
+        "MEDICATIONS:": 0.0024937655860349127, 
+        "MEDS:": 0.0024937655860349127, 
+        "MG": 0.004987531172069825, 
+        "MILLILITERS": 0.0024937655860349127, 
+        "NOT": 0.0024937655860349127, 
+        "Neuro:": 0.0024937655860349127, 
+        "No": 0.004987531172069825, 
+        "Not": 0.0024937655860349127, 
+        "O.R.": 0.0024937655860349127, 
+        "OF": 0.004987531172069825, 
+        "ON:": 0.0024937655860349127, 
+        "OPERATIONS": 0.0024937655860349127, 
+        "ORDER": 0.0024937655860349127, 
+        "ORDERS": 0.0024937655860349127, 
+        "OSA": 0.004987531172069825, 
+        "OTHER": 0.004987531172069825, 
+        "OXYCODONE+APAP": 0.0024937655860349127, 
+        "PATIENT": 0.0024937655860349127, 
+        "PCA": 0.0024937655860349127, 
+        "PM": 0.0024937655860349127, 
+        "PMH:": 0.0024937655860349127, 
+        "PO": 0.00997506234413965, 
+        "POD1": 0.007481296758104738, 
+        "PRINCIPAL": 0.0024937655860349127, 
+        "PRN": 0.0024937655860349127, 
+        "PROCEDURES:": 0.0024937655860349127, 
+        "Pain": 0.004987531172069825, 
+        "Patient": 0.0024937655860349127, 
+        "Postoperative": 0.0024937655860349127, 
+        "Primary": 0.0024937655860349127, 
+        "Q4H": 0.0024937655860349127, 
+        "RANDALL": 0.0024937655860349127, 
+        "RANITIDINE": 0.0024937655860349127, 
+        "RESUME": 0.0024937655860349127, 
+        "ROGELIO": 0.0024937655860349127, 
+        "ROXICET": 0.0024937655860349127, 
+        "Received": 0.0024937655860349127, 
+        "Report": 0.0024937655860349127, 
+        "Resp:": 0.0024937655860349127, 
+        "Roux": 0.0024937655860349127, 
+        "S": 0.0024937655860349127, 
+        "SCDs": 0.0024937655860349127, 
+        "SQH": 0.0024937655860349127, 
+        "SUMMARY:": 0.0024937655860349127, 
+        "SYRUP": 0.004987531172069825, 
+        "Service:": 0.0024937655860349127, 
+        "Stable": 0.0024937655860349127, 
+        "Stage": 0.004987531172069825, 
+        "Starting": 0.0024937655860349127, 
+        "Status:": 0.0024937655860349127, 
+        "Study": 0.0024937655860349127, 
+        "THE": 0.0024937655860349127, 
+        "TO": 0.0024937655860349127, 
+        "TREATMENTS/PROCEDURES": 0.0024937655860349127, 
+        "Treatment/Stay": 0.0024937655860349127, 
+        "UGI": 0.0024937655860349127, 
+        "UP": 0.0024937655860349127, 
+        "UPON": 0.0024937655860349127, 
+        "URSODIOL": 0.0024937655860349127, 
+        "USED": 0.0024937655860349127, 
+        "Upon": 0.0024937655860349127, 
+        "VANWYK": 0.0024937655860349127, 
+        "Ville": 0.0024937655860349127, 
+        "WILL": 0.0024937655860349127, 
+        "Whitlinger": 0.0024937655860349127, 
+        "Y": 0.0024937655860349127, 
+        "YES": 0.0024937655860349127, 
+        "ZANTAC": 0.0024937655860349127, 
+        "abdominal": 0.0024937655860349127, 
+        "admitted": 0.0024937655860349127, 
+        "afebrile": 0.0024937655860349127, 
+        "affecting": 0.0024937655860349127, 
+        "all": 0.0024937655860349127, 
+        "ambulating.": 0.0024937655860349127, 
+        "and": 0.007481296758104738, 
+        "as": 0.0024937655860349127, 
+        "benadryl": 0.0024937655860349127, 
+        "but": 0.0024937655860349127, 
+        "bypass": 0.0199501246882793, 
+        "care": 0.0024937655860349127, 
+        "complication.": 0.0024937655860349127, 
+        "controlled": 0.0024937655860349127, 
+        "course": 0.0024937655860349127, 
+        "develop": 0.0024937655860349127, 
+        "dictated": 0.0024937655860349127, 
+        "diet": 0.004987531172069825, 
+        "diet.": 0.0024937655860349127, 
+        "difficulty": 0.0024937655860349127, 
+        "difficulty.": 0.004987531172069825, 
+        "discharge": 0.007481296758104738, 
+        "drive": 0.0024937655860349127, 
+        "during": 0.0024937655860349127, 
+        "elixir": 0.0024937655860349127, 
+        "en": 0.0024937655860349127, 
+        "fever>101": 0.0024937655860349127, 
+        "fioricet": 0.0024937655860349127, 
+        "for": 0.007481296758104738, 
+        "from": 0.0024937655860349127, 
+        "gastric": 0.0199501246882793, 
+        "gi": 0.0024937655860349127, 
+        "go": 0.0024937655860349127, 
+        "hospital": 0.0024937655860349127, 
+        "house.": 0.0024937655860349127, 
+        "if": 0.0024937655860349127, 
+        "in": 0.0024937655860349127, 
+        "incision": 0.0024937655860349127, 
+        "increased": 0.0024937655860349127, 
+        "initially": 0.0024937655860349127, 
+        "is": 0.007481296758104738, 
+        "issues": 0.0024937655860349127, 
+        "lap": 0.007481296758104738, 
+        "leak": 0.0024937655860349127, 
+        "local": 0.0024937655860349127, 
+        "male": 0.0024937655860349127, 
+        "medication.": 0.004987531172069825, 
+        "morbid": 0.00997506234413965, 
+        "narcotic": 0.0024937655860349127, 
+        "nausea/vomiting.": 0.0024937655860349127, 
+        "negative": 0.0024937655860349127, 
+        "not": 0.0024937655860349127, 
+        "obstruction": 0.0024937655860349127, 
+        "of": 0.004987531172069825, 
+        "on": 0.00997506234413965, 
+        "onset": 0.0024937655860349127, 
+        "or": 0.00997506234413965, 
+        "over": 0.0024937655860349127, 
+        "pain": 0.007481296758104738, 
+        "patient": 0.00997506234413965, 
+        "per": 0.0024937655860349127, 
+        "physician": 0.0024937655860349127, 
+        "po's.": 0.0024937655860349127, 
+        "prophylaxis": 0.0024937655860349127, 
+        "protocol.": 0.0024937655860349127, 
+        "redness/discharge": 0.0024937655860349127, 
+        "removed": 0.0024937655860349127, 
+        "roux-en-y": 0.0024937655860349127, 
+        "s/p": 0.004987531172069825, 
+        "service": 0.0024937655860349127, 
+        "site": 0.0024937655860349127, 
+        "stable": 0.0024937655860349127, 
+        "stage": 0.004987531172069825, 
+        "started": 0.0024937655860349127, 
+        "stay.": 0.0024937655860349127, 
+        "sudden": 0.0024937655860349127, 
+        "summary": 0.0024937655860349127, 
+        "surgical": 0.0024937655860349127, 
+        "swelling": 0.0024937655860349127, 
+        "taking": 0.004987531172069825, 
+        "time": 0.0024937655860349127, 
+        "to": 0.007481296758104738, 
+        "tolerated": 0.0024937655860349127, 
+        "tolerating": 0.004987531172069825, 
+        "transitioned": 0.0024937655860349127, 
+        "underwent": 0.0024937655860349127, 
+        "uneventful.": 0.0024937655860349127, 
+        "upon": 0.0024937655860349127, 
+        "upper": 0.0024937655860349127, 
+        "vitals": 0.0024937655860349127, 
+        "voiding": 0.0024937655860349127, 
+        "w/": 0.0024937655860349127, 
+        "was": 0.004987531172069825, 
+        "week": 0.0024937655860349127, 
+        "weeks": 0.0024937655860349127, 
+        "when": 0.0024937655860349127, 
+        "while": 0.004987531172069825, 
+        "with": 0.004987531172069825, 
+        "without": 0.00997506234413965, 
+        "yo": 0.0024937655860349127, 
+        "you": 0.0024937655860349127, 
+        "|": 0.022443890274314215
+    }
+}

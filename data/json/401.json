@@ -1,0 +1,2296 @@
+{
+    "bi": {
+        "#obese#": {
+            "Morbid": 0.8, 
+            "morbid": 0.2
+        }, 
+        "(": {
+            "ELIXIR": 0.25, 
+            "M.D.": 0.25, 
+            "TREATMENTS/PROCEDURES": 0.25, 
+            "apnea": 0.25
+        }, 
+        ")": {
+            "Admission": 0.2, 
+            "LIQUID": 0.2, 
+            "O.R.": 0.2, 
+            "QJ375": 0.2, 
+            "night": 0.2
+        }, 
+        "):": {
+            "S": 1.0
+        }, 
+        "******": {
+            "6/4/2003": 0.3333333333333333, 
+            "AM": 0.3333333333333333, 
+            "ORDERS": 0.3333333333333333
+        }, 
+        ",": {
+            "#obese#": 0.034482758620689655, 
+            ")": 0.034482758620689655, 
+            "5": 0.034482758620689655, 
+            "B.": 0.034482758620689655, 
+            "BURLINGAME": 0.034482758620689655, 
+            "BYPASS": 0.034482758620689655, 
+            "CAPEHART": 0.034482758620689655, 
+            "Complications": 0.034482758620689655, 
+            "DECASTRO": 0.034482758620689655, 
+            "DIAGNOSIS;Conditions": 0.034482758620689655, 
+            "G.": 0.034482758620689655, 
+            "H.": 0.034482758620689655, 
+            "Infections": 0.034482758620689655, 
+            "Konarski": 0.034482758620689655, 
+            "SLAPPY": 0.034482758620689655, 
+            "ambulation": 0.034482758620689655, 
+            "apnea": 0.034482758620689655, 
+            "carnation": 0.06896551724137931, 
+            "chills": 0.034482758620689655, 
+            "control": 0.034482758620689655, 
+            "diet": 0.034482758620689655, 
+            "distention": 0.034482758620689655, 
+            "fever": 0.034482758620689655, 
+            "light": 0.034482758620689655, 
+            "nausea": 0.034482758620689655, 
+            "pain": 0.034482758620689655, 
+            "vomiting": 0.034482758620689655, 
+            "wks": 0.034482758620689655
+        }, 
+        "/": {
+            "Bypass": 1.0
+        }, 
+        "008836360": {
+            "": 1.0
+        }, 
+        "019-62-49-0": {
+            "GUILLERMO": 1.0
+        }, 
+        "08:22": {
+            "@": 1.0
+        }, 
+        "1": {
+            "day": 1.0
+        }, 
+        "1-2": {
+            "858-839-5872": 0.5, 
+            "in": 0.5
+        }, 
+        "10/28": {
+            "on": 1.0
+        }, 
+        "10/28/03": {
+            "PROCEDURES:": 1.0
+        }, 
+        "10:00": {
+            "AT": 1.0
+        }, 
+        "11/8/2003": {
+            "|": 1.0
+        }, 
+        "12:00:00": {
+            "11/8/2003": 1.0
+        }, 
+        "2": {
+            "stage": 1.0
+        }, 
+        "2wks.": {
+            "in": 1.0
+        }, 
+        "32oz": {
+            "diet:": 1.0
+        }, 
+        "35610340": {
+            "|": 1.0
+        }, 
+        "4-6wks": {
+            "lifting": 1.0
+        }, 
+        "4/4/03": {
+            ")": 0.5, 
+            "ON:": 0.5
+        }, 
+        "4oz": {
+            ",": 0.3333333333333333, 
+            "and": 0.6666666666666666
+        }, 
+        "5": {
+            ")": 0.5, 
+            "day": 0.5
+        }, 
+        "50": {
+            "COURSE:": 1.0
+        }, 
+        "6/4/2003": {
+            "Date:": 1.0
+        }, 
+        "7/15/2003": {
+            "Date:": 1.0
+        }, 
+        "7230329": {
+            "|": 1.0
+        }, 
+        "858-839-5872": {
+            ",": 1.0
+        }, 
+        "8oz": {
+            ",": 1.0
+        }, 
+        ";Responsible": {
+            "DIAGNOSIS": 1.0
+        }, 
+        "@": {
+            "4/4/03": 1.0
+        }, 
+        "ACTIVITY:": {
+            "carnation": 1.0
+        }, 
+        "ADDITIONAL": {
+            "2wks.": 1.0
+        }, 
+        "ADMIT": {
+            "Allergies": 1.0
+        }, 
+        "AH": {
+            "to": 1.0
+        }, 
+        "AM": {
+            "08:22": 0.3333333333333333, 
+            "10:00": 0.3333333333333333, 
+            "12:00:00": 0.3333333333333333
+        }, 
+        "AND": {
+            "OPERATIONS": 1.0
+        }, 
+        "APPOINTMENT(": {
+            "UP": 1.0
+        }, 
+        "AS": {
+            "USED": 1.0
+        }, 
+        "AT": {
+            "4/4/03": 1.0
+        }, 
+        "Admission": {
+            "Causing": 0.5, 
+            "|": 0.5
+        }, 
+        "After": {
+            ";Responsible": 1.0
+        }, 
+        "Allergies": {
+            "Known": 1.0
+        }, 
+        "Applicable": {
+            "Not": 1.0
+        }, 
+        "Attending:": {
+            "YES": 1.0
+        }, 
+        "Avoid": {
+            "tolerated": 1.0
+        }, 
+        "B.": {
+            "DERICK": 1.0
+        }, 
+        "BE": {
+            "ORDER": 1.0
+        }, 
+        "BRIEF": {
+            "None": 1.0
+        }, 
+        "BURLINGAME": {
+            "Attending:": 1.0
+        }, 
+        "BY:": {
+            "ENTERED": 1.0
+        }, 
+        "BYPASS": {
+            "GASTRIC": 1.0
+        }, 
+        "Bypass": {
+            "Gastric": 1.0
+        }, 
+        "CAPEHART": {
+            "BY:": 1.0
+        }, 
+        "CHOLECYSTECTOMY": {
+            ",": 1.0
+        }, 
+        "CLETUS": {
+            ",": 1.0
+        }, 
+        "CLMCO": {
+            "|": 1.0
+        }, 
+        "COMMENTS:": {
+            "ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            "DISCHARGE": 1.0
+        }, 
+        "CONTINGENT": {
+            "AM": 1.0
+        }, 
+        "COURSE:": {
+            "HOSPITAL": 1.0
+        }, 
+        "CPAP": {
+            "on": 1.0
+        }, 
+        "Call": {
+            "medications.": 1.0
+        }, 
+        "Causing": {
+            "for": 1.0
+        }, 
+        "Complications": {
+            ",": 1.0
+        }, 
+        "Cowgill": {
+            "Dr.": 1.0
+        }, 
+        "D/C": {
+            "THE": 0.5, 
+            "WILL": 0.5
+        }, 
+        "DECASTRO": {
+            "10/28/03": 1.0
+        }, 
+        "DERICK": {
+            ",": 1.0
+        }, 
+        "DIAGNOSIS": {
+            "DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "OTHER": 1.0
+        }, 
+        "DIET:": {
+            "PAIN": 1.0
+        }, 
+        "DIS": {
+            "|": 1.0
+        }, 
+        "DISCHARGE": {
+            "******": 0.16666666666666666, 
+            "GGI": 0.16666666666666666, 
+            "OF": 0.16666666666666666, 
+            "PRINCIPAL": 0.16666666666666666, 
+            "Rehabilitation": 0.16666666666666666, 
+            "sorbet.": 0.16666666666666666
+        }, 
+        "DISPOSITION:": {
+            "M.D.": 1.0
+        }, 
+        "DO/PLAN:": {
+            "TO": 1.0
+        }, 
+        "Date:": {
+            "Admission": 0.5, 
+            "Discharge": 0.5
+        }, 
+        "Discharge": {
+            "Status:": 1.0
+        }, 
+        "Do": {
+            "needed.": 1.0
+        }, 
+        "Dr.": {
+            "):": 0.3333333333333333, 
+            "f/u": 0.3333333333333333, 
+            "with": 0.3333333333333333
+        }, 
+        "ELIXIR": {
+            "ROXICET": 1.0
+        }, 
+        "END": {
+            "******": 1.0
+        }, 
+        "ENTERED": {
+            "summary": 1.0
+        }, 
+        "FOLLOW": {
+            "4-6wks": 1.0
+        }, 
+        "Fausnaught": {
+            "Dr.": 1.0
+        }, 
+        "Follow": {
+            "wound.": 1.0
+        }, 
+        "G.": {
+            "CLETUS": 1.0
+        }, 
+        "GASTRIC": {
+            "ROUX-EN-Y": 1.0
+        }, 
+        "GGI": {
+            "Service:": 1.0
+        }, 
+        "GUILLERMO": {
+            ",": 1.0
+        }, 
+        "Gastric": {
+            "II": 1.0
+        }, 
+        "H.": {
+            "MIKE": 1.0
+        }, 
+        "HOSPITAL": {
+            "OF": 1.0
+        }, 
+        "Harris": {
+            "Dr.": 1.0
+        }, 
+        "He": {
+            "complications.": 1.0
+        }, 
+        "His": {
+            "ambulation.": 0.5, 
+            "apnea.": 0.5
+        }, 
+        "Hypothyroidism": {
+            "bypass": 1.0
+        }, 
+        "II": {
+            "Stage": 0.5, 
+            "stage": 0.5
+        }, 
+        "IN": {
+            "NOT": 1.0
+        }, 
+        "Infections": {
+            ",": 1.0
+        }, 
+        "Known": {
+            "No": 1.0
+        }, 
+        "Konarski": {
+            "Harris": 1.0
+        }, 
+        "LIQUID": {
+            "OXYCODONE+APAP": 1.0
+        }, 
+        "M.D.": {
+            ",": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "DISCHARGE": 1.0
+        }, 
+        "MIKE": {
+            ",": 1.0
+        }, 
+        "ML": {
+            "5": 1.0
+        }, 
+        "Monitor": {
+            "ambulation.": 1.0
+        }, 
+        "Morbid": {
+            ")": 0.25, 
+            "DIAGNOSIS:": 0.25, 
+            "Treatment/Stay": 0.25, 
+            "|": 0.25
+        }, 
+        "NGT": {
+            "His": 1.0
+        }, 
+        "NOT": {
+            "(": 1.0
+        }, 
+        "No": {
+            ",": 0.5, 
+            "Rehabilitate.": 0.5
+        }, 
+        "None": {
+            ")": 1.0
+        }, 
+        "Not": {
+            "UPON": 1.0
+        }, 
+        "O.R.": {
+            "IN": 1.0
+        }, 
+        "OF": {
+            "END": 0.5, 
+            "RESUME": 0.5
+        }, 
+        "ON:": {
+            "PATIENT": 1.0
+        }, 
+        "OPERATIONS": {
+            "mask": 1.0
+        }, 
+        "ORDER": {
+            "D/C": 1.0
+        }, 
+        "ORDERS": {
+            "DISCHARGE": 1.0
+        }, 
+        "OTHER": {
+            "CHOLECYSTECTOMY": 0.5, 
+            "bypass": 0.5
+        }, 
+        "OXYCODONE+APAP": {
+            "(": 1.0
+        }, 
+        "Obstructive": {
+            "Hypothyroidism": 1.0
+        }, 
+        "On": {
+            "protocol.": 1.0
+        }, 
+        "PACU": {
+            "the": 1.0
+        }, 
+        "PAIN": {
+            "PRN": 1.0
+        }, 
+        "PATIENT": {
+            "DISCHARGE": 1.0
+        }, 
+        "PO": {
+            "ML": 1.0
+        }, 
+        "PRINCIPAL": {
+            "#obese#": 1.0
+        }, 
+        "PRN": {
+            "Q3-4H": 1.0
+        }, 
+        "PROCEDURES:": {
+            "AND": 1.0
+        }, 
+        "PT": {
+            "per": 1.0
+        }, 
+        "Please": {
+            "COMMENTS:": 0.5, 
+            "DO/PLAN:": 0.5
+        }, 
+        "Q3-4H": {
+            "PO": 1.0
+        }, 
+        "QJ375": {
+            "(": 1.0
+        }, 
+        "RESUME": {
+            "BRIEF": 1.0
+        }, 
+        "ROUX-EN-Y": {
+            "M.D.": 1.0
+        }, 
+        "ROXICET": {
+            "MEDICATIONS:": 1.0
+        }, 
+        "Rehabilitate.": {
+            "status.": 1.0
+        }, 
+        "Rehabilitation": {
+            "DISPOSITION:": 1.0
+        }, 
+        "Report": {
+            "7/15/2003": 1.0
+        }, 
+        "Roux-en-Y": {
+            "s/p": 0.75, 
+            "underwent": 0.25
+        }, 
+        "S": {
+            "APPOINTMENT(": 1.0
+        }, 
+        "SLAPPY": {
+            "******": 1.0
+        }, 
+        "SUMMARY:": {
+            "D/C": 1.0
+        }, 
+        "Service:": {
+            "Virginia": 1.0
+        }, 
+        "Stable": {
+            "CONDITION:": 1.0
+        }, 
+        "Stage": {
+            "DIET:": 1.0
+        }, 
+        "Status:": {
+            "Report": 1.0
+        }, 
+        "Study": {
+            "After": 1.0
+        }, 
+        "THE": {
+            "AS": 1.0
+        }, 
+        "TO": {
+            "Stable": 1.0
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "OTHER": 1.0
+        }, 
+        "Take": {
+            "possible.": 1.0
+        }, 
+        "Treatment/Stay": {
+            "affecting": 1.0
+        }, 
+        "UP": {
+            "FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "CONTINGENT": 1.0
+        }, 
+        "USED": {
+            "BE": 1.0
+        }, 
+        "Virginia": {
+            "019-62-49-0": 1.0
+        }, 
+        "WILL": {
+            "Applicable": 1.0
+        }, 
+        "Walking": {
+            "ACTIVITY:": 1.0
+        }, 
+        "Will": {
+            "rehab.": 1.0
+        }, 
+        "YES": {
+            "SUMMARY:": 1.0
+        }, 
+        "abdominal": {
+            ",": 1.0
+        }, 
+        "adequate": {
+            "with": 1.0
+        }, 
+        "admitted": {
+            ",": 1.0
+        }, 
+        "advanced": {
+            "was": 1.0
+        }, 
+        "affecting": {
+            ",": 1.0
+        }, 
+        "ambulate": {
+            "Please": 1.0
+        }, 
+        "ambulation": {
+            "for": 1.0
+        }, 
+        "ambulation.": {
+            "encourage": 0.5, 
+            "with": 0.5
+        }, 
+        "and": {
+            ",": 0.125, 
+            "1": 0.125, 
+            "10/28": 0.125, 
+            "PACU": 0.125, 
+            "breakfast": 0.125, 
+            "broth": 0.125, 
+            "hypothyroidism": 0.125, 
+            "light": 0.125
+        }, 
+        "apnea": {
+            "sleep": 1.0
+        }, 
+        "apnea.": {
+            "sleep": 1.0
+        }, 
+        "as": {
+            "Walking": 0.2, 
+            "advanced": 0.2, 
+            "ambulate": 0.2, 
+            "medications": 0.2, 
+            "much": 0.2
+        }, 
+        "assistance": {
+            "require": 1.0
+        }, 
+        "at": {
+            "CPAP": 1.0
+        }, 
+        "be": {
+            "Will": 0.5, 
+            "will": 0.5
+        }, 
+        "breakfast": {
+            "day:": 1.0
+        }, 
+        "broth": {
+            "clear": 1.0
+        }, 
+        "bypass": {
+            "Roux-en-Y": 0.6, 
+            "gastric": 0.4
+        }, 
+        "care": {
+            "transitional": 1.0
+        }, 
+        "carnation": {
+            "dinner-8oz": 0.25, 
+            "fee": 0.25, 
+            "free": 0.25, 
+            "lunch-8oz": 0.25
+        }, 
+        "chills": {
+            ",": 1.0
+        }, 
+        "clear": {
+            "4oz": 1.0
+        }, 
+        "clinical": {
+            "Monitor": 1.0
+        }, 
+        "complications.": {
+            "without": 1.0
+        }, 
+        "condition": {
+            "stable": 1.0
+        }, 
+        "continued": {
+            "for": 0.5, 
+            "he": 0.5
+        }, 
+        "control": {
+            "pain": 1.0
+        }, 
+        "course": {
+            "postoperative": 1.0
+        }, 
+        "crystal": {
+            "8oz": 1.0
+        }, 
+        "d/c'ed": {
+            "be": 1.0
+        }, 
+        "day": {
+            "postoperative": 1.0
+        }, 
+        "day:": {
+            "per": 1.0
+        }, 
+        "dependent": {
+            ",": 1.0
+        }, 
+        "dictated": {
+            "No": 1.0
+        }, 
+        "diet": {
+            "4oz": 0.3333333333333333, 
+            "II": 0.3333333333333333, 
+            "his": 0.3333333333333333
+        }, 
+        "diet--32oz": {
+            "2": 1.0
+        }, 
+        "diet:": {
+            "wks.": 1.0
+        }, 
+        "dinner-8oz": {
+            "jello.": 1.0
+        }, 
+        "distention": {
+            "abdominal": 1.0
+        }, 
+        "drainage": {
+            "or": 1.0
+        }, 
+        "drive": {
+            "not": 1.0
+        }, 
+        "encourage": {
+            "Please": 1.0
+        }, 
+        "except": {
+            "unremarkable": 1.0
+        }, 
+        "f/u": {
+            "with": 1.0
+        }, 
+        "fee": {
+            "sugar": 1.0
+        }, 
+        "fever": {
+            "if": 1.0
+        }, 
+        "for": {
+            "AH": 0.25, 
+            "Study": 0.25, 
+            "assistance": 0.25, 
+            "except": 0.25
+        }, 
+        "free": {
+            "sugar": 1.0
+        }, 
+        "from": {
+            "drainage": 1.0
+        }, 
+        "gastric": {
+            "Roux-en-Y": 0.5, 
+            "tolerating": 0.5
+        }, 
+        "given": {
+            "overnight": 1.0
+        }, 
+        "he": {
+            ",": 0.5, 
+            "PT": 0.5
+        }, 
+        "heavy": {
+            "Avoid": 1.0
+        }, 
+        "his": {
+            "and": 0.5, 
+            "given": 0.5
+        }, 
+        "history": {
+            "his": 1.0
+        }, 
+        "hx": {
+            ",": 1.0
+        }, 
+        "hypothyroidism": {
+            "hx": 1.0
+        }, 
+        "if": {
+            "Call": 1.0
+        }, 
+        "improved": {
+            "that": 1.0
+        }, 
+        "in": {
+            "Cowgill": 0.3333333333333333, 
+            "Fausnaught": 0.3333333333333333, 
+            "transferred": 0.3333333333333333
+        }, 
+        "jello.": {
+            "free": 1.0
+        }, 
+        "lifting": {
+            "heavy": 1.0
+        }, 
+        "light": {
+            "crystal": 1.0
+        }, 
+        "lunch-8oz": {
+            "and": 1.0
+        }, 
+        "male": {
+            "y.o.": 1.0
+        }, 
+        "mask": {
+            "CPAP": 1.0
+        }, 
+        "medications": {
+            "pain": 1.0
+        }, 
+        "medications.": {
+            "pain": 1.0
+        }, 
+        "morbid": {
+            "with": 1.0
+        }, 
+        "much": {
+            "as": 1.0
+        }, 
+        "nausea": {
+            ",": 1.0
+        }, 
+        "needed.": {
+            "as": 1.0
+        }, 
+        "night": {
+            "at": 1.0
+        }, 
+        "not": {
+            "Do": 1.0
+        }, 
+        "of": {
+            "history": 1.0
+        }, 
+        "on": {
+            "(": 0.25, 
+            "admitted": 0.25, 
+            "dependent": 0.25, 
+            "removed": 0.25
+        }, 
+        "or": {
+            "redness": 1.0
+        }, 
+        "overnight": {
+            "unit": 1.0
+        }, 
+        "oxygen": {
+            "some": 1.0
+        }, 
+        "pain": {
+            "Take": 0.25, 
+            "abdominal": 0.25, 
+            "adequate": 0.25, 
+            "taking": 0.25
+        }, 
+        "per": {
+            "and": 0.3333333333333333, 
+            "as": 0.3333333333333333, 
+            "carnation": 0.3333333333333333
+        }, 
+        "possible.": {
+            "as": 1.0
+        }, 
+        "postoperative": {
+            "His": 0.3333333333333333, 
+            "On": 0.3333333333333333, 
+            "on": 0.3333333333333333
+        }, 
+        "protocol.": {
+            "per": 1.0
+        }, 
+        "redness": {
+            ",": 1.0
+        }, 
+        "rehab.": {
+            "continued": 1.0
+        }, 
+        "relatively": {
+            "was": 1.0
+        }, 
+        "removed": {
+            "was": 1.0
+        }, 
+        "require": {
+            "to": 1.0
+        }, 
+        "requirement": {
+            "oxygen": 1.0
+        }, 
+        "s/p": {
+            "#obese#": 1.0
+        }, 
+        "sleep": {
+            "Obstructive": 0.3333333333333333, 
+            "and": 0.3333333333333333, 
+            "of": 0.3333333333333333
+        }, 
+        "some": {
+            "for": 1.0
+        }, 
+        "sorbet.": {
+            "diet": 1.0
+        }, 
+        "stable": {
+            "in": 1.0
+        }, 
+        "stage": {
+            "/": 0.5, 
+            "bypass": 0.5
+        }, 
+        "status.": {
+            "clinical": 1.0
+        }, 
+        "sugar": {
+            "32oz": 0.3333333333333333, 
+            "4oz": 0.3333333333333333, 
+            "diet--32oz": 0.3333333333333333
+        }, 
+        "summary": {
+            "dictated": 1.0
+        }, 
+        "taking": {
+            "while": 1.0
+        }, 
+        "that": {
+            "requirement": 1.0
+        }, 
+        "the": {
+            "to": 1.0
+        }, 
+        "then": {
+            "and": 1.0
+        }, 
+        "to": {
+            "condition": 0.25, 
+            "continued": 0.25, 
+            "then": 0.25, 
+            "transferred": 0.25
+        }, 
+        "tolerated": {
+            "as": 1.0
+        }, 
+        "tolerating": {
+            ",": 1.0
+        }, 
+        "transferred": {
+            "be": 0.5, 
+            "was": 0.5
+        }, 
+        "transitional": {
+            "the": 1.0
+        }, 
+        "underwent": {
+            "and": 1.0
+        }, 
+        "unit": {
+            "care": 1.0
+        }, 
+        "unremarkable": {
+            "relatively": 1.0
+        }, 
+        "up": {
+            "Follow": 1.0
+        }, 
+        "vomiting": {
+            ",": 1.0
+        }, 
+        "was": {
+            "He": 0.25, 
+            "NGT": 0.25, 
+            "course": 0.25, 
+            "diet": 0.25
+        }, 
+        "while": {
+            "drive": 1.0
+        }, 
+        "will": {
+            "he": 1.0
+        }, 
+        "with": {
+            ",": 0.2, 
+            "d/c'ed": 0.2, 
+            "improved": 0.2, 
+            "male": 0.2, 
+            "up": 0.2
+        }, 
+        "without": {
+            "bypass": 1.0
+        }, 
+        "wks": {
+            "1-2": 1.0
+        }, 
+        "wks.": {
+            "1-2": 1.0
+        }, 
+        "wound.": {
+            "from": 1.0
+        }, 
+        "y.o.": {
+            "50": 1.0
+        }, 
+        "|": {
+            "008836360": 0.1111111111111111, 
+            "35610340": 0.1111111111111111, 
+            "7230329": 0.1111111111111111, 
+            "AM": 0.1111111111111111, 
+            "CLMCO": 0.1111111111111111, 
+            "DIS": 0.1111111111111111, 
+            "bypass": 0.1111111111111111, 
+            "|": 0.2222222222222222
+        }
+    }, 
+    "id": "401", 
+    "text": " 008836360 | CLMCO | 35610340 | | 7230329 | 11/8/2003 12:00:00 AM | Morbid #obese# s/p Roux-en-Y bypass | | DIS | Admission Date: 7/15/2003 Report Status: Discharge Date: 6/4/2003 ****** DISCHARGE ORDERS ****** SLAPPY , GUILLERMO 019-62-49-0 Virginia Service: GGI DISCHARGE PATIENT ON: 4/4/03 AT 10:00 AM CONTINGENT UPON Not Applicable WILL D/C ORDER BE USED AS THE D/C SUMMARY: YES Attending: BURLINGAME , MIKE H. , M.D. DISPOSITION: Rehabilitation DISCHARGE MEDICATIONS: ROXICET ELIXIR ( OXYCODONE+APAP LIQUID ) 5 ML PO Q3-4H PRN PAIN DIET: Stage II Gastric Bypass / stage 2 diet--32oz sugar fee carnation ACTIVITY: Walking as tolerated Avoid heavy lifting 4-6wks FOLLOW UP APPOINTMENT( S ): Dr. Harris Konarski , 858-839-5872 1-2 wks , No Known Allergies ADMIT DIAGNOSIS: Morbid #obese# PRINCIPAL DISCHARGE DIAGNOSIS ;Responsible After Study for Causing Admission ) Morbid #obese# s/p Roux-en-Y bypass OTHER DIAGNOSIS;Conditions , Infections , Complications , affecting Treatment/Stay Morbid #obese# s/p Roux-en-Y bypass Hypothyroidism Obstructive sleep apnea , dependent on CPAP mask OPERATIONS AND PROCEDURES: 10/28/03 DECASTRO , CLETUS G. , M.D. ROUX-EN-Y GASTRIC BYPASS , CHOLECYSTECTOMY OTHER TREATMENTS/PROCEDURES ( NOT IN O.R. ) None BRIEF RESUME OF HOSPITAL COURSE: 50 y.o. male with morbid #obese# , hx hypothyroidism and sleep apnea ( on CPAP at night ) , admitted on 10/28 and underwent Roux-en-Y gastric bypass without complications. He was transferred in stable condition to the PACU and then to the transitional care unit overnight given his history of sleep apnea. His postoperative course was relatively unremarkable except for some oxygen requirement that improved with ambulation. His NGT was removed on postoperative day 1 and his diet was advanced as per protocol. On postoperative day 5 , he continued to require assistance for ambulation , and per PT he will be transferred to AH for continued rehab. Will be d/c'ed with adequate pain control , tolerating gastric bypass stage II diet , with f/u Dr. Fausnaught in 2wks. ADDITIONAL COMMENTS: Please ambulate as much as possible. Take pain medications as needed. Do not drive while taking pain medications. Call if fever , chills , nausea , vomiting , abdominal pain , abdominal distention , redness or drainage from wound. Follow up with Dr. Cowgill in 1-2 wks. diet: 32oz sugar free carnation per day: breakfast and lunch-8oz carnation , 8oz crystal light and 4oz sugar free jello. dinner-8oz carnation , 8oz crystal light , 4oz clear broth and 4oz diet sorbet. DISCHARGE CONDITION: Stable TO DO/PLAN: Please encourage ambulation. Monitor clinical status. Rehabilitate. No dictated summary ENTERED BY: CAPEHART , DERICK B. , M.D. ( QJ375 ) 4/4/03 @ 08:22 AM ****** END OF DISCHARGE ORDERS ******", 
+    "tri": {
+        "#obese#": {
+            ")~Morbid": 0.2, 
+            "DIAGNOSIS:~Morbid": 0.2, 
+            "Treatment/Stay~Morbid": 0.2, 
+            "with~morbid": 0.2, 
+            "|~Morbid": 0.2
+        }, 
+        "(": {
+            ",~M.D.": 0.25, 
+            "OTHER~TREATMENTS/PROCEDURES": 0.25, 
+            "ROXICET~ELIXIR": 0.25, 
+            "sleep~apnea": 0.25
+        }, 
+        ")": {
+            "(~QJ375": 0.2, 
+            "Causing~Admission": 0.2, 
+            "IN~O.R.": 0.2, 
+            "OXYCODONE+APAP~LIQUID": 0.2, 
+            "at~night": 0.2
+        }, 
+        "):": {
+            "APPOINTMENT(~S": 1.0
+        }, 
+        "******": {
+            "08:22~AM": 0.25, 
+            "DISCHARGE~ORDERS": 0.5, 
+            "Date:~6/4/2003": 0.25
+        }, 
+        ",": {
+            "******~SLAPPY": 0.034482758620689655, 
+            ",~Complications": 0.034482758620689655, 
+            ",~Infections": 0.034482758620689655, 
+            ",~chills": 0.034482758620689655, 
+            ",~nausea": 0.034482758620689655, 
+            ",~vomiting": 0.034482758620689655, 
+            "1-2~wks": 0.034482758620689655, 
+            "10/28/03~DECASTRO": 0.034482758620689655, 
+            "Attending:~BURLINGAME": 0.034482758620689655, 
+            "BY:~CAPEHART": 0.034482758620689655, 
+            "CLETUS~G.": 0.034482758620689655, 
+            "DERICK~B.": 0.034482758620689655, 
+            "GASTRIC~BYPASS": 0.034482758620689655, 
+            "Harris~Konarski": 0.034482758620689655, 
+            "II~diet": 0.034482758620689655, 
+            "MIKE~H.": 0.034482758620689655, 
+            "OTHER~DIAGNOSIS;Conditions": 0.034482758620689655, 
+            "abdominal~distention": 0.034482758620689655, 
+            "abdominal~pain": 0.034482758620689655, 
+            "crystal~light": 0.034482758620689655, 
+            "day~5": 0.034482758620689655, 
+            "dinner-8oz~carnation": 0.034482758620689655, 
+            "for~ambulation": 0.034482758620689655, 
+            "if~fever": 0.034482758620689655, 
+            "lunch-8oz~carnation": 0.034482758620689655, 
+            "morbid~#obese#": 0.034482758620689655, 
+            "night~)": 0.034482758620689655, 
+            "pain~control": 0.034482758620689655, 
+            "sleep~apnea": 0.034482758620689655
+        }, 
+        "/": {
+            "Gastric~Bypass": 1.0
+        }, 
+        "019-62-49-0": {
+            ",~GUILLERMO": 1.0
+        }, 
+        "08:22": {
+            "4/4/03~@": 1.0
+        }, 
+        "1": {
+            "postoperative~day": 1.0
+        }, 
+        "1-2": {
+            ",~858-839-5872": 0.5, 
+            "Cowgill~in": 0.5
+        }, 
+        "10/28": {
+            "admitted~on": 1.0
+        }, 
+        "10/28/03": {
+            "AND~PROCEDURES:": 1.0
+        }, 
+        "10:00": {
+            "4/4/03~AT": 1.0
+        }, 
+        "11/8/2003": {
+            "7230329~|": 1.0
+        }, 
+        "12:00:00": {
+            "|~11/8/2003": 1.0
+        }, 
+        "2": {
+            "/~stage": 1.0
+        }, 
+        "2wks.": {
+            "Fausnaught~in": 1.0
+        }, 
+        "32oz": {
+            "wks.~diet:": 1.0
+        }, 
+        "35610340": {
+            "CLMCO~|": 1.0
+        }, 
+        "4-6wks": {
+            "heavy~lifting": 1.0
+        }, 
+        "4/4/03": {
+            "PATIENT~ON:": 0.5, 
+            "QJ375~)": 0.5
+        }, 
+        "4oz": {
+            "broth~and": 0.3333333333333333, 
+            "light~,": 0.3333333333333333, 
+            "light~and": 0.3333333333333333
+        }, 
+        "5": {
+            "LIQUID~)": 0.5, 
+            "postoperative~day": 0.5
+        }, 
+        "50": {
+            "HOSPITAL~COURSE:": 1.0
+        }, 
+        "6/4/2003": {
+            "Discharge~Date:": 1.0
+        }, 
+        "7/15/2003": {
+            "Admission~Date:": 1.0
+        }, 
+        "7230329": {
+            "|~|": 1.0
+        }, 
+        "858-839-5872": {
+            "Konarski~,": 1.0
+        }, 
+        "8oz": {
+            "carnation~,": 1.0
+        }, 
+        ";Responsible": {
+            "DISCHARGE~DIAGNOSIS": 1.0
+        }, 
+        "@": {
+            ")~4/4/03": 1.0
+        }, 
+        "ACTIVITY:": {
+            "fee~carnation": 1.0
+        }, 
+        "ADDITIONAL": {
+            "in~2wks.": 1.0
+        }, 
+        "ADMIT": {
+            "Known~Allergies": 1.0
+        }, 
+        "AH": {
+            "transferred~to": 1.0
+        }, 
+        "AM": {
+            "11/8/2003~12:00:00": 0.3333333333333333, 
+            "@~08:22": 0.3333333333333333, 
+            "AT~10:00": 0.3333333333333333
+        }, 
+        "AND": {
+            "mask~OPERATIONS": 1.0
+        }, 
+        "APPOINTMENT(": {
+            "FOLLOW~UP": 1.0
+        }, 
+        "AS": {
+            "BE~USED": 1.0
+        }, 
+        "AT": {
+            "ON:~4/4/03": 1.0
+        }, 
+        "Admission": {
+            "DIS~|": 0.5, 
+            "for~Causing": 0.5
+        }, 
+        "After": {
+            "DIAGNOSIS~;Responsible": 1.0
+        }, 
+        "Allergies": {
+            "No~Known": 1.0
+        }, 
+        "Applicable": {
+            "UPON~Not": 1.0
+        }, 
+        "Attending:": {
+            "SUMMARY:~YES": 1.0
+        }, 
+        "Avoid": {
+            "as~tolerated": 1.0
+        }, 
+        "B.": {
+            ",~DERICK": 1.0
+        }, 
+        "BE": {
+            "D/C~ORDER": 1.0
+        }, 
+        "BRIEF": {
+            ")~None": 1.0
+        }, 
+        "BURLINGAME": {
+            "YES~Attending:": 1.0
+        }, 
+        "BY:": {
+            "summary~ENTERED": 1.0
+        }, 
+        "BYPASS": {
+            "ROUX-EN-Y~GASTRIC": 1.0
+        }, 
+        "Bypass": {
+            "II~Gastric": 1.0
+        }, 
+        "CAPEHART": {
+            "ENTERED~BY:": 1.0
+        }, 
+        "CHOLECYSTECTOMY": {
+            "BYPASS~,": 1.0
+        }, 
+        "CLETUS": {
+            "DECASTRO~,": 1.0
+        }, 
+        "CLMCO": {
+            "008836360~|": 1.0
+        }, 
+        "COMMENTS:": {
+            "2wks.~ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            "sorbet.~DISCHARGE": 1.0
+        }, 
+        "CONTINGENT": {
+            "10:00~AM": 1.0
+        }, 
+        "COURSE:": {
+            "OF~HOSPITAL": 1.0
+        }, 
+        "CPAP": {
+            "(~on": 0.5, 
+            "dependent~on": 0.5
+        }, 
+        "Call": {
+            "pain~medications.": 1.0
+        }, 
+        "Causing": {
+            "Study~for": 1.0
+        }, 
+        "Complications": {
+            "Infections~,": 1.0
+        }, 
+        "Cowgill": {
+            "with~Dr.": 1.0
+        }, 
+        "D/C": {
+            "AS~THE": 0.5, 
+            "Applicable~WILL": 0.5
+        }, 
+        "DECASTRO": {
+            "PROCEDURES:~10/28/03": 1.0
+        }, 
+        "DERICK": {
+            "CAPEHART~,": 1.0
+        }, 
+        "DIAGNOSIS": {
+            "PRINCIPAL~DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "Allergies~ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "bypass~OTHER": 1.0
+        }, 
+        "DIET:": {
+            "PRN~PAIN": 1.0
+        }, 
+        "DIS": {
+            "|~|": 1.0
+        }, 
+        "DISCHARGE": {
+            "#obese#~PRINCIPAL": 0.16666666666666666, 
+            "6/4/2003~******": 0.16666666666666666, 
+            "DISPOSITION:~Rehabilitation": 0.16666666666666666, 
+            "END~OF": 0.16666666666666666, 
+            "Service:~GGI": 0.16666666666666666, 
+            "diet~sorbet.": 0.16666666666666666
+        }, 
+        "DISPOSITION:": {
+            ",~M.D.": 1.0
+        }, 
+        "DO/PLAN:": {
+            "Stable~TO": 1.0
+        }, 
+        "Date:": {
+            "Status:~Discharge": 0.5, 
+            "|~Admission": 0.5
+        }, 
+        "Discharge": {
+            "Report~Status:": 1.0
+        }, 
+        "Do": {
+            "as~needed.": 1.0
+        }, 
+        "Dr.": {
+            "S~):": 0.3333333333333333, 
+            "up~with": 0.3333333333333333, 
+            "with~f/u": 0.3333333333333333
+        }, 
+        "ELIXIR": {
+            "MEDICATIONS:~ROXICET": 1.0
+        }, 
+        "END": {
+            "AM~******": 1.0
+        }, 
+        "ENTERED": {
+            "dictated~summary": 1.0
+        }, 
+        "FOLLOW": {
+            "lifting~4-6wks": 1.0
+        }, 
+        "Fausnaught": {
+            "f/u~Dr.": 1.0
+        }, 
+        "Follow": {
+            "from~wound.": 1.0
+        }, 
+        "G.": {
+            ",~CLETUS": 1.0
+        }, 
+        "GASTRIC": {
+            "M.D.~ROUX-EN-Y": 1.0
+        }, 
+        "GGI": {
+            "Virginia~Service:": 1.0
+        }, 
+        "GUILLERMO": {
+            "SLAPPY~,": 1.0
+        }, 
+        "Gastric": {
+            "Stage~II": 1.0
+        }, 
+        "H.": {
+            ",~MIKE": 1.0
+        }, 
+        "HOSPITAL": {
+            "RESUME~OF": 1.0
+        }, 
+        "Harris": {
+            "):~Dr.": 1.0
+        }, 
+        "He": {
+            "without~complications.": 1.0
+        }, 
+        "His": {
+            "sleep~apnea.": 0.5, 
+            "with~ambulation.": 0.5
+        }, 
+        "Hypothyroidism": {
+            "Roux-en-Y~bypass": 1.0
+        }, 
+        "II": {
+            "DIET:~Stage": 0.5, 
+            "bypass~stage": 0.5
+        }, 
+        "IN": {
+            "(~NOT": 1.0
+        }, 
+        "Infections": {
+            "DIAGNOSIS;Conditions~,": 1.0
+        }, 
+        "Known": {
+            ",~No": 1.0
+        }, 
+        "Konarski": {
+            "Dr.~Harris": 1.0
+        }, 
+        "LIQUID": {
+            "(~OXYCODONE+APAP": 1.0
+        }, 
+        "M.D.": {
+            "B.~,": 0.3333333333333333, 
+            "G.~,": 0.3333333333333333, 
+            "H.~,": 0.3333333333333333
+        }, 
+        "MEDICATIONS:": {
+            "Rehabilitation~DISCHARGE": 1.0
+        }, 
+        "MIKE": {
+            "BURLINGAME~,": 1.0
+        }, 
+        "ML": {
+            ")~5": 1.0
+        }, 
+        "Monitor": {
+            "encourage~ambulation.": 1.0
+        }, 
+        "Morbid": {
+            "ADMIT~DIAGNOSIS:": 0.25, 
+            "AM~|": 0.25, 
+            "Admission~)": 0.25, 
+            "affecting~Treatment/Stay": 0.25
+        }, 
+        "NGT": {
+            "ambulation.~His": 1.0
+        }, 
+        "NOT": {
+            "TREATMENTS/PROCEDURES~(": 1.0
+        }, 
+        "No": {
+            "status.~Rehabilitate.": 0.5, 
+            "wks~,": 0.5
+        }, 
+        "None": {
+            "O.R.~)": 1.0
+        }, 
+        "Not": {
+            "CONTINGENT~UPON": 1.0
+        }, 
+        "O.R.": {
+            "NOT~IN": 1.0
+        }, 
+        "OF": {
+            "******~END": 0.5, 
+            "BRIEF~RESUME": 0.5
+        }, 
+        "ON:": {
+            "DISCHARGE~PATIENT": 1.0
+        }, 
+        "OPERATIONS": {
+            "CPAP~mask": 1.0
+        }, 
+        "ORDER": {
+            "WILL~D/C": 1.0
+        }, 
+        "ORDERS": {
+            "******~DISCHARGE": 0.5, 
+            "OF~DISCHARGE": 0.5
+        }, 
+        "OTHER": {
+            ",~CHOLECYSTECTOMY": 0.5, 
+            "Roux-en-Y~bypass": 0.5
+        }, 
+        "OXYCODONE+APAP": {
+            "ELIXIR~(": 1.0
+        }, 
+        "Obstructive": {
+            "bypass~Hypothyroidism": 1.0
+        }, 
+        "On": {
+            "per~protocol.": 1.0
+        }, 
+        "PACU": {
+            "to~the": 1.0
+        }, 
+        "PAIN": {
+            "Q3-4H~PRN": 1.0
+        }, 
+        "PATIENT": {
+            "GGI~DISCHARGE": 1.0
+        }, 
+        "PO": {
+            "5~ML": 1.0
+        }, 
+        "PRINCIPAL": {
+            "Morbid~#obese#": 1.0
+        }, 
+        "PRN": {
+            "PO~Q3-4H": 1.0
+        }, 
+        "PROCEDURES:": {
+            "OPERATIONS~AND": 1.0
+        }, 
+        "PT": {
+            "and~per": 1.0
+        }, 
+        "Please": {
+            "ADDITIONAL~COMMENTS:": 0.5, 
+            "TO~DO/PLAN:": 0.5
+        }, 
+        "Q3-4H": {
+            "ML~PO": 1.0
+        }, 
+        "QJ375": {
+            "M.D.~(": 1.0
+        }, 
+        "RESUME": {
+            "None~BRIEF": 1.0
+        }, 
+        "ROUX-EN-Y": {
+            ",~M.D.": 1.0
+        }, 
+        "ROXICET": {
+            "DISCHARGE~MEDICATIONS:": 1.0
+        }, 
+        "Rehabilitate.": {
+            "clinical~status.": 1.0
+        }, 
+        "Rehabilitation": {
+            "M.D.~DISPOSITION:": 1.0
+        }, 
+        "Report": {
+            "Date:~7/15/2003": 1.0
+        }, 
+        "Roux-en-Y": {
+            "#obese#~s/p": 0.75, 
+            "and~underwent": 0.25
+        }, 
+        "S": {
+            "UP~APPOINTMENT(": 1.0
+        }, 
+        "SLAPPY": {
+            "ORDERS~******": 1.0
+        }, 
+        "SUMMARY:": {
+            "THE~D/C": 1.0
+        }, 
+        "Service:": {
+            "019-62-49-0~Virginia": 1.0
+        }, 
+        "Stable": {
+            "DISCHARGE~CONDITION:": 1.0
+        }, 
+        "Stage": {
+            "PAIN~DIET:": 1.0
+        }, 
+        "Status:": {
+            "7/15/2003~Report": 1.0
+        }, 
+        "Study": {
+            ";Responsible~After": 1.0
+        }, 
+        "THE": {
+            "USED~AS": 1.0
+        }, 
+        "TO": {
+            "CONDITION:~Stable": 1.0
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "CHOLECYSTECTOMY~OTHER": 1.0
+        }, 
+        "Take": {
+            "as~possible.": 1.0
+        }, 
+        "Treatment/Stay": {
+            ",~affecting": 1.0
+        }, 
+        "UP": {
+            "4-6wks~FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "AM~CONTINGENT": 1.0
+        }, 
+        "USED": {
+            "ORDER~BE": 1.0
+        }, 
+        "Virginia": {
+            "GUILLERMO~019-62-49-0": 1.0
+        }, 
+        "WILL": {
+            "Not~Applicable": 1.0
+        }, 
+        "Walking": {
+            "carnation~ACTIVITY:": 1.0
+        }, 
+        "Will": {
+            "continued~rehab.": 1.0
+        }, 
+        "YES": {
+            "D/C~SUMMARY:": 1.0
+        }, 
+        "abdominal": {
+            "pain~,": 0.5, 
+            "vomiting~,": 0.5
+        }, 
+        "adequate": {
+            "d/c'ed~with": 1.0
+        }, 
+        "admitted": {
+            ")~,": 1.0
+        }, 
+        "advanced": {
+            "diet~was": 1.0
+        }, 
+        "affecting": {
+            "Complications~,": 1.0
+        }, 
+        "ambulate": {
+            "COMMENTS:~Please": 1.0
+        }, 
+        "ambulation": {
+            "assistance~for": 1.0
+        }, 
+        "ambulation.": {
+            "Please~encourage": 0.5, 
+            "improved~with": 0.5
+        }, 
+        "and": {
+            "ambulation~,": 0.125, 
+            "clear~broth": 0.125, 
+            "crystal~light": 0.125, 
+            "day:~breakfast": 0.125, 
+            "day~1": 0.125, 
+            "hx~hypothyroidism": 0.125, 
+            "on~10/28": 0.125, 
+            "the~PACU": 0.125
+        }, 
+        "apnea": {
+            "Obstructive~sleep": 0.5, 
+            "and~sleep": 0.5
+        }, 
+        "apnea.": {
+            "of~sleep": 1.0
+        }, 
+        "as": {
+            "ACTIVITY:~Walking": 0.2, 
+            "Please~ambulate": 0.2, 
+            "as~much": 0.2, 
+            "pain~medications": 0.2, 
+            "was~advanced": 0.2
+        }, 
+        "assistance": {
+            "to~require": 1.0
+        }, 
+        "at": {
+            "on~CPAP": 1.0
+        }, 
+        "be": {
+            "he~will": 0.5, 
+            "rehab.~Will": 0.5
+        }, 
+        "breakfast": {
+            "per~day:": 1.0
+        }, 
+        "broth": {
+            "4oz~clear": 1.0
+        }, 
+        "bypass": {
+            "Roux-en-Y~gastric": 0.2, 
+            "s/p~Roux-en-Y": 0.6, 
+            "tolerating~gastric": 0.2
+        }, 
+        "care": {
+            "the~transitional": 1.0
+        }, 
+        "carnation": {
+            "and~lunch-8oz": 0.25, 
+            "jello.~dinner-8oz": 0.25, 
+            "sugar~fee": 0.25, 
+            "sugar~free": 0.25
+        }, 
+        "chills": {
+            "fever~,": 1.0
+        }, 
+        "clear": {
+            ",~4oz": 1.0
+        }, 
+        "clinical": {
+            "ambulation.~Monitor": 1.0
+        }, 
+        "complications.": {
+            "bypass~without": 1.0
+        }, 
+        "condition": {
+            "in~stable": 1.0
+        }, 
+        "continued": {
+            ",~he": 0.5, 
+            "AH~for": 0.5
+        }, 
+        "control": {
+            "adequate~pain": 1.0
+        }, 
+        "course": {
+            "His~postoperative": 1.0
+        }, 
+        "crystal": {
+            ",~8oz": 1.0
+        }, 
+        "d/c'ed": {
+            "Will~be": 1.0
+        }, 
+        "day": {
+            "On~postoperative": 0.5, 
+            "on~postoperative": 0.5
+        }, 
+        "day:": {
+            "carnation~per": 1.0
+        }, 
+        "dependent": {
+            "apnea~,": 1.0
+        }, 
+        "dictated": {
+            "Rehabilitate.~No": 1.0
+        }, 
+        "diet": {
+            "and~4oz": 0.3333333333333333, 
+            "and~his": 0.3333333333333333, 
+            "stage~II": 0.3333333333333333
+        }, 
+        "diet--32oz": {
+            "stage~2": 1.0
+        }, 
+        "diet:": {
+            "1-2~wks.": 1.0
+        }, 
+        "dinner-8oz": {
+            "free~jello.": 1.0
+        }, 
+        "distention": {
+            ",~abdominal": 1.0
+        }, 
+        "drainage": {
+            "redness~or": 1.0
+        }, 
+        "drive": {
+            "Do~not": 1.0
+        }, 
+        "encourage": {
+            "DO/PLAN:~Please": 1.0
+        }, 
+        "except": {
+            "relatively~unremarkable": 1.0
+        }, 
+        "f/u": {
+            ",~with": 1.0
+        }, 
+        "fee": {
+            "diet--32oz~sugar": 1.0
+        }, 
+        "fever": {
+            "Call~if": 1.0
+        }, 
+        "for": {
+            "After~Study": 0.25, 
+            "require~assistance": 0.25, 
+            "to~AH": 0.25, 
+            "unremarkable~except": 0.25
+        }, 
+        "free": {
+            "32oz~sugar": 0.5, 
+            "4oz~sugar": 0.5
+        }, 
+        "from": {
+            "or~drainage": 1.0
+        }, 
+        "gastric": {
+            ",~tolerating": 0.5, 
+            "underwent~Roux-en-Y": 0.5
+        }, 
+        "given": {
+            "unit~overnight": 1.0
+        }, 
+        "he": {
+            "5~,": 0.5, 
+            "per~PT": 0.5
+        }, 
+        "heavy": {
+            "tolerated~Avoid": 1.0
+        }, 
+        "his": {
+            "1~and": 0.5, 
+            "overnight~given": 0.5
+        }, 
+        "history": {
+            "given~his": 1.0
+        }, 
+        "hx": {
+            "#obese#~,": 1.0
+        }, 
+        "hypothyroidism": {
+            ",~hx": 1.0
+        }, 
+        "if": {
+            "medications.~Call": 1.0
+        }, 
+        "improved": {
+            "requirement~that": 1.0
+        }, 
+        "in": {
+            "Dr.~Cowgill": 0.3333333333333333, 
+            "Dr.~Fausnaught": 0.3333333333333333, 
+            "was~transferred": 0.3333333333333333
+        }, 
+        "jello.": {
+            "sugar~free": 1.0
+        }, 
+        "lifting": {
+            "Avoid~heavy": 1.0
+        }, 
+        "light": {
+            "8oz~crystal": 1.0
+        }, 
+        "lunch-8oz": {
+            "breakfast~and": 1.0
+        }, 
+        "male": {
+            "50~y.o.": 1.0
+        }, 
+        "mask": {
+            "on~CPAP": 1.0
+        }, 
+        "medications": {
+            "Take~pain": 1.0
+        }, 
+        "medications.": {
+            "taking~pain": 1.0
+        }, 
+        "morbid": {
+            "male~with": 1.0
+        }, 
+        "much": {
+            "ambulate~as": 1.0
+        }, 
+        "nausea": {
+            "chills~,": 1.0
+        }, 
+        "needed.": {
+            "medications~as": 1.0
+        }, 
+        "night": {
+            "CPAP~at": 1.0
+        }, 
+        "not": {
+            "needed.~Do": 1.0
+        }, 
+        "of": {
+            "his~history": 1.0
+        }, 
+        "on": {
+            ",~admitted": 0.25, 
+            ",~dependent": 0.25, 
+            "apnea~(": 0.25, 
+            "was~removed": 0.25
+        }, 
+        "or": {
+            ",~redness": 1.0
+        }, 
+        "overnight": {
+            "care~unit": 1.0
+        }, 
+        "oxygen": {
+            "for~some": 1.0
+        }, 
+        "pain": {
+            ",~abdominal": 0.25, 
+            "possible.~Take": 0.25, 
+            "while~taking": 0.25, 
+            "with~adequate": 0.25
+        }, 
+        "per": {
+            ",~and": 0.3333333333333333, 
+            "advanced~as": 0.3333333333333333, 
+            "free~carnation": 0.3333333333333333
+        }, 
+        "possible.": {
+            "much~as": 1.0
+        }, 
+        "postoperative": {
+            "apnea.~His": 0.3333333333333333, 
+            "protocol.~On": 0.3333333333333333, 
+            "removed~on": 0.3333333333333333
+        }, 
+        "protocol.": {
+            "as~per": 1.0
+        }, 
+        "redness": {
+            "distention~,": 1.0
+        }, 
+        "rehab.": {
+            "for~continued": 1.0
+        }, 
+        "relatively": {
+            "course~was": 1.0
+        }, 
+        "removed": {
+            "NGT~was": 1.0
+        }, 
+        "require": {
+            "continued~to": 1.0
+        }, 
+        "requirement": {
+            "some~oxygen": 1.0
+        }, 
+        "s/p": {
+            "Morbid~#obese#": 1.0
+        }, 
+        "sleep": {
+            "Hypothyroidism~Obstructive": 0.3333333333333333, 
+            "history~of": 0.3333333333333333, 
+            "hypothyroidism~and": 0.3333333333333333
+        }, 
+        "some": {
+            "except~for": 1.0
+        }, 
+        "sorbet.": {
+            "4oz~diet": 1.0
+        }, 
+        "stable": {
+            "transferred~in": 1.0
+        }, 
+        "stage": {
+            "Bypass~/": 0.5, 
+            "gastric~bypass": 0.5
+        }, 
+        "status.": {
+            "Monitor~clinical": 1.0
+        }, 
+        "sugar": {
+            "2~diet--32oz": 0.3333333333333333, 
+            "and~4oz": 0.3333333333333333, 
+            "diet:~32oz": 0.3333333333333333
+        }, 
+        "summary": {
+            "No~dictated": 1.0
+        }, 
+        "taking": {
+            "drive~while": 1.0
+        }, 
+        "that": {
+            "oxygen~requirement": 1.0
+        }, 
+        "the": {
+            "condition~to": 0.5, 
+            "then~to": 0.5
+        }, 
+        "then": {
+            "PACU~and": 1.0
+        }, 
+        "to": {
+            "and~then": 0.25, 
+            "be~transferred": 0.25, 
+            "he~continued": 0.25, 
+            "stable~condition": 0.25
+        }, 
+        "tolerated": {
+            "Walking~as": 1.0
+        }, 
+        "tolerating": {
+            "control~,": 1.0
+        }, 
+        "transferred": {
+            "He~was": 0.5, 
+            "will~be": 0.5
+        }, 
+        "transitional": {
+            "to~the": 1.0
+        }, 
+        "underwent": {
+            "10/28~and": 1.0
+        }, 
+        "unit": {
+            "transitional~care": 1.0
+        }, 
+        "unremarkable": {
+            "was~relatively": 1.0
+        }, 
+        "up": {
+            "wound.~Follow": 1.0
+        }, 
+        "vomiting": {
+            "nausea~,": 1.0
+        }, 
+        "was": {
+            "His~NGT": 0.25, 
+            "complications.~He": 0.25, 
+            "his~diet": 0.25, 
+            "postoperative~course": 0.25
+        }, 
+        "while": {
+            "not~drive": 1.0
+        }, 
+        "will": {
+            "PT~he": 1.0
+        }, 
+        "with": {
+            "Follow~up": 0.2, 
+            "be~d/c'ed": 0.2, 
+            "diet~,": 0.2, 
+            "that~improved": 0.2, 
+            "y.o.~male": 0.2
+        }, 
+        "without": {
+            "gastric~bypass": 1.0
+        }, 
+        "wks": {
+            "858-839-5872~1-2": 1.0
+        }, 
+        "wks.": {
+            "in~1-2": 1.0
+        }, 
+        "wound.": {
+            "drainage~from": 1.0
+        }, 
+        "y.o.": {
+            "COURSE:~50": 1.0
+        }, 
+        "|": {
+            "12:00:00~AM": 0.1111111111111111, 
+            "35610340~|": 0.1111111111111111, 
+            "Roux-en-Y~bypass": 0.1111111111111111, 
+            "bypass~|": 0.1111111111111111, 
+            "|~35610340": 0.1111111111111111, 
+            "|~7230329": 0.1111111111111111, 
+            "|~CLMCO": 0.1111111111111111, 
+            "|~DIS": 0.1111111111111111, 
+            "~008836360": 0.1111111111111111
+        }
+    }, 
+    "type": "data/test", 
+    "uni": {
+        "": 0.00228310502283105, 
+        "#obese#": 0.01141552511415525, 
+        "(": 0.0091324200913242, 
+        ")": 0.01141552511415525, 
+        "):": 0.00228310502283105, 
+        "******": 0.00684931506849315, 
+        ",": 0.06621004566210045, 
+        "/": 0.00228310502283105, 
+        "008836360": 0.00228310502283105, 
+        "019-62-49-0": 0.00228310502283105, 
+        "08:22": 0.00228310502283105, 
+        "1": 0.00228310502283105, 
+        "1-2": 0.0045662100456621, 
+        "10/28": 0.00228310502283105, 
+        "10/28/03": 0.00228310502283105, 
+        "10:00": 0.00228310502283105, 
+        "11/8/2003": 0.00228310502283105, 
+        "12:00:00": 0.00228310502283105, 
+        "2": 0.00228310502283105, 
+        "2wks.": 0.00228310502283105, 
+        "32oz": 0.00228310502283105, 
+        "35610340": 0.00228310502283105, 
+        "4-6wks": 0.00228310502283105, 
+        "4/4/03": 0.0045662100456621, 
+        "4oz": 0.00684931506849315, 
+        "5": 0.0045662100456621, 
+        "50": 0.00228310502283105, 
+        "6/4/2003": 0.00228310502283105, 
+        "7/15/2003": 0.00228310502283105, 
+        "7230329": 0.00228310502283105, 
+        "858-839-5872": 0.00228310502283105, 
+        "8oz": 0.0045662100456621, 
+        ";Responsible": 0.00228310502283105, 
+        "@": 0.00228310502283105, 
+        "ACTIVITY:": 0.00228310502283105, 
+        "ADDITIONAL": 0.00228310502283105, 
+        "ADMIT": 0.00228310502283105, 
+        "AH": 0.00228310502283105, 
+        "AM": 0.00684931506849315, 
+        "AND": 0.00228310502283105, 
+        "APPOINTMENT(": 0.00228310502283105, 
+        "AS": 0.00228310502283105, 
+        "AT": 0.00228310502283105, 
+        "Admission": 0.0045662100456621, 
+        "After": 0.00228310502283105, 
+        "Allergies": 0.00228310502283105, 
+        "Applicable": 0.00228310502283105, 
+        "Attending:": 0.00228310502283105, 
+        "Avoid": 0.00228310502283105, 
+        "B.": 0.00228310502283105, 
+        "BE": 0.00228310502283105, 
+        "BRIEF": 0.00228310502283105, 
+        "BURLINGAME": 0.00228310502283105, 
+        "BY:": 0.00228310502283105, 
+        "BYPASS": 0.00228310502283105, 
+        "Bypass": 0.00228310502283105, 
+        "CAPEHART": 0.00228310502283105, 
+        "CHOLECYSTECTOMY": 0.00228310502283105, 
+        "CLETUS": 0.00228310502283105, 
+        "CLMCO": 0.00228310502283105, 
+        "COMMENTS:": 0.00228310502283105, 
+        "CONDITION:": 0.00228310502283105, 
+        "CONTINGENT": 0.00228310502283105, 
+        "COURSE:": 0.00228310502283105, 
+        "CPAP": 0.0045662100456621, 
+        "Call": 0.00228310502283105, 
+        "Causing": 0.00228310502283105, 
+        "Complications": 0.00228310502283105, 
+        "Cowgill": 0.00228310502283105, 
+        "D/C": 0.0045662100456621, 
+        "DECASTRO": 0.00228310502283105, 
+        "DERICK": 0.00228310502283105, 
+        "DIAGNOSIS": 0.00228310502283105, 
+        "DIAGNOSIS:": 0.00228310502283105, 
+        "DIAGNOSIS;Conditions": 0.00228310502283105, 
+        "DIET:": 0.00228310502283105, 
+        "DIS": 0.00228310502283105, 
+        "DISCHARGE": 0.0136986301369863, 
+        "DISPOSITION:": 0.00228310502283105, 
+        "DO/PLAN:": 0.00228310502283105, 
+        "Date:": 0.0045662100456621, 
+        "Discharge": 0.00228310502283105, 
+        "Do": 0.00228310502283105, 
+        "Dr.": 0.00684931506849315, 
+        "ELIXIR": 0.00228310502283105, 
+        "END": 0.00228310502283105, 
+        "ENTERED": 0.00228310502283105, 
+        "FOLLOW": 0.00228310502283105, 
+        "Fausnaught": 0.00228310502283105, 
+        "Follow": 0.00228310502283105, 
+        "G.": 0.00228310502283105, 
+        "GASTRIC": 0.00228310502283105, 
+        "GGI": 0.00228310502283105, 
+        "GUILLERMO": 0.00228310502283105, 
+        "Gastric": 0.00228310502283105, 
+        "H.": 0.00228310502283105, 
+        "HOSPITAL": 0.00228310502283105, 
+        "Harris": 0.00228310502283105, 
+        "He": 0.00228310502283105, 
+        "His": 0.0045662100456621, 
+        "Hypothyroidism": 0.00228310502283105, 
+        "II": 0.0045662100456621, 
+        "IN": 0.00228310502283105, 
+        "Infections": 0.00228310502283105, 
+        "Known": 0.00228310502283105, 
+        "Konarski": 0.00228310502283105, 
+        "LIQUID": 0.00228310502283105, 
+        "M.D.": 0.00684931506849315, 
+        "MEDICATIONS:": 0.00228310502283105, 
+        "MIKE": 0.00228310502283105, 
+        "ML": 0.00228310502283105, 
+        "Monitor": 0.00228310502283105, 
+        "Morbid": 0.0091324200913242, 
+        "NGT": 0.00228310502283105, 
+        "NOT": 0.00228310502283105, 
+        "No": 0.0045662100456621, 
+        "None": 0.00228310502283105, 
+        "Not": 0.00228310502283105, 
+        "O.R.": 0.00228310502283105, 
+        "OF": 0.0045662100456621, 
+        "ON:": 0.00228310502283105, 
+        "OPERATIONS": 0.00228310502283105, 
+        "ORDER": 0.00228310502283105, 
+        "ORDERS": 0.00228310502283105, 
+        "OTHER": 0.0045662100456621, 
+        "OXYCODONE+APAP": 0.00228310502283105, 
+        "Obstructive": 0.00228310502283105, 
+        "On": 0.00228310502283105, 
+        "PACU": 0.00228310502283105, 
+        "PAIN": 0.00228310502283105, 
+        "PATIENT": 0.00228310502283105, 
+        "PO": 0.00228310502283105, 
+        "PRINCIPAL": 0.00228310502283105, 
+        "PRN": 0.00228310502283105, 
+        "PROCEDURES:": 0.00228310502283105, 
+        "PT": 0.00228310502283105, 
+        "Please": 0.0045662100456621, 
+        "Q3-4H": 0.00228310502283105, 
+        "QJ375": 0.00228310502283105, 
+        "RESUME": 0.00228310502283105, 
+        "ROUX-EN-Y": 0.00228310502283105, 
+        "ROXICET": 0.00228310502283105, 
+        "Rehabilitate.": 0.00228310502283105, 
+        "Rehabilitation": 0.00228310502283105, 
+        "Report": 0.00228310502283105, 
+        "Roux-en-Y": 0.0091324200913242, 
+        "S": 0.00228310502283105, 
+        "SLAPPY": 0.00228310502283105, 
+        "SUMMARY:": 0.00228310502283105, 
+        "Service:": 0.00228310502283105, 
+        "Stable": 0.00228310502283105, 
+        "Stage": 0.00228310502283105, 
+        "Status:": 0.00228310502283105, 
+        "Study": 0.00228310502283105, 
+        "THE": 0.00228310502283105, 
+        "TO": 0.00228310502283105, 
+        "TREATMENTS/PROCEDURES": 0.00228310502283105, 
+        "Take": 0.00228310502283105, 
+        "Treatment/Stay": 0.00228310502283105, 
+        "UP": 0.00228310502283105, 
+        "UPON": 0.00228310502283105, 
+        "USED": 0.00228310502283105, 
+        "Virginia": 0.00228310502283105, 
+        "WILL": 0.00228310502283105, 
+        "Walking": 0.00228310502283105, 
+        "Will": 0.00228310502283105, 
+        "YES": 0.00228310502283105, 
+        "abdominal": 0.0045662100456621, 
+        "adequate": 0.00228310502283105, 
+        "admitted": 0.00228310502283105, 
+        "advanced": 0.00228310502283105, 
+        "affecting": 0.00228310502283105, 
+        "ambulate": 0.00228310502283105, 
+        "ambulation": 0.00228310502283105, 
+        "ambulation.": 0.0045662100456621, 
+        "and": 0.0182648401826484, 
+        "apnea": 0.0045662100456621, 
+        "apnea.": 0.00228310502283105, 
+        "as": 0.01141552511415525, 
+        "assistance": 0.00228310502283105, 
+        "at": 0.00228310502283105, 
+        "be": 0.0045662100456621, 
+        "breakfast": 0.00228310502283105, 
+        "broth": 0.00228310502283105, 
+        "bypass": 0.01141552511415525, 
+        "care": 0.00228310502283105, 
+        "carnation": 0.0091324200913242, 
+        "chills": 0.00228310502283105, 
+        "clear": 0.00228310502283105, 
+        "clinical": 0.00228310502283105, 
+        "complications.": 0.00228310502283105, 
+        "condition": 0.00228310502283105, 
+        "continued": 0.0045662100456621, 
+        "control": 0.00228310502283105, 
+        "course": 0.00228310502283105, 
+        "crystal": 0.0045662100456621, 
+        "d/c'ed": 0.00228310502283105, 
+        "day": 0.0045662100456621, 
+        "day:": 0.00228310502283105, 
+        "dependent": 0.00228310502283105, 
+        "dictated": 0.00228310502283105, 
+        "diet": 0.00684931506849315, 
+        "diet--32oz": 0.00228310502283105, 
+        "diet:": 0.00228310502283105, 
+        "dinner-8oz": 0.00228310502283105, 
+        "distention": 0.00228310502283105, 
+        "drainage": 0.00228310502283105, 
+        "drive": 0.00228310502283105, 
+        "encourage": 0.00228310502283105, 
+        "except": 0.00228310502283105, 
+        "f/u": 0.00228310502283105, 
+        "fee": 0.00228310502283105, 
+        "fever": 0.00228310502283105, 
+        "for": 0.0091324200913242, 
+        "free": 0.0045662100456621, 
+        "from": 0.00228310502283105, 
+        "gastric": 0.0045662100456621, 
+        "given": 0.00228310502283105, 
+        "he": 0.0045662100456621, 
+        "heavy": 0.00228310502283105, 
+        "his": 0.0045662100456621, 
+        "history": 0.00228310502283105, 
+        "hx": 0.00228310502283105, 
+        "hypothyroidism": 0.00228310502283105, 
+        "if": 0.00228310502283105, 
+        "improved": 0.00228310502283105, 
+        "in": 0.00684931506849315, 
+        "jello.": 0.00228310502283105, 
+        "lifting": 0.00228310502283105, 
+        "light": 0.0045662100456621, 
+        "lunch-8oz": 0.00228310502283105, 
+        "male": 0.00228310502283105, 
+        "mask": 0.00228310502283105, 
+        "medications": 0.00228310502283105, 
+        "medications.": 0.00228310502283105, 
+        "morbid": 0.00228310502283105, 
+        "much": 0.00228310502283105, 
+        "nausea": 0.00228310502283105, 
+        "needed.": 0.00228310502283105, 
+        "night": 0.00228310502283105, 
+        "not": 0.00228310502283105, 
+        "of": 0.00228310502283105, 
+        "on": 0.0091324200913242, 
+        "or": 0.00228310502283105, 
+        "overnight": 0.00228310502283105, 
+        "oxygen": 0.00228310502283105, 
+        "pain": 0.0091324200913242, 
+        "per": 0.00684931506849315, 
+        "possible.": 0.00228310502283105, 
+        "postoperative": 0.00684931506849315, 
+        "protocol.": 0.00228310502283105, 
+        "redness": 0.00228310502283105, 
+        "rehab.": 0.00228310502283105, 
+        "relatively": 0.00228310502283105, 
+        "removed": 0.00228310502283105, 
+        "require": 0.00228310502283105, 
+        "requirement": 0.00228310502283105, 
+        "s/p": 0.00684931506849315, 
+        "sleep": 0.00684931506849315, 
+        "some": 0.00228310502283105, 
+        "sorbet.": 0.00228310502283105, 
+        "stable": 0.00228310502283105, 
+        "stage": 0.0045662100456621, 
+        "status.": 0.00228310502283105, 
+        "sugar": 0.00684931506849315, 
+        "summary": 0.00228310502283105, 
+        "taking": 0.00228310502283105, 
+        "that": 0.00228310502283105, 
+        "the": 0.0045662100456621, 
+        "then": 0.00228310502283105, 
+        "to": 0.0091324200913242, 
+        "tolerated": 0.00228310502283105, 
+        "tolerating": 0.00228310502283105, 
+        "transferred": 0.0045662100456621, 
+        "transitional": 0.00228310502283105, 
+        "underwent": 0.00228310502283105, 
+        "unit": 0.00228310502283105, 
+        "unremarkable": 0.00228310502283105, 
+        "up": 0.00228310502283105, 
+        "vomiting": 0.00228310502283105, 
+        "was": 0.0091324200913242, 
+        "while": 0.00228310502283105, 
+        "will": 0.00228310502283105, 
+        "with": 0.01141552511415525, 
+        "without": 0.00228310502283105, 
+        "wks": 0.00228310502283105, 
+        "wks.": 0.00228310502283105, 
+        "wound.": 0.00228310502283105, 
+        "y.o.": 0.00228310502283105, 
+        "|": 0.02054794520547945
+    }
+}

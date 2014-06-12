@@ -1,0 +1,3911 @@
+{
+    "bi": {
+        "#": {
+            "ref": 1.0
+        }, 
+        "&": {
+            "ASPIRIN": 0.3333333333333333, 
+            "LEVOFLOXACIN": 0.3333333333333333, 
+            "SIMVASTATIN": 0.16666666666666666, 
+            "WARFARIN": 0.16666666666666666
+        }, 
+        "(": {
+            "70/30": 0.02857142857142857, 
+            "AICD": 0.02857142857142857, 
+            "ALLEGRA": 0.02857142857142857, 
+            "AM": 0.02857142857142857, 
+            "ASA": 0.02857142857142857, 
+            "ATIVAN": 0.02857142857142857, 
+            "AVAPRO": 0.02857142857142857, 
+            "CAD": 0.02857142857142857, 
+            "COUMADIN": 0.02857142857142857, 
+            "ED": 0.02857142857142857, 
+            "IDDM": 0.02857142857142857, 
+            "IMDUR": 0.02857142857142857, 
+            "LASIX": 0.02857142857142857, 
+            "LIPITOR": 0.02857142857142857, 
+            "LOPRESSOR": 0.02857142857142857, 
+            "M.D.": 0.02857142857142857, 
+            "MI": 0.02857142857142857, 
+            "PO": 0.05714285714285714, 
+            "Required": 0.05714285714285714, 
+            "Rocephin": 0.02857142857142857, 
+            "THIAMINE": 0.02857142857142857, 
+            "TREATMENTS/PROCEDURES": 0.02857142857142857, 
+            "anemia": 0.02857142857142857, 
+            "cardioverted": 0.02857142857142857, 
+            "cycle": 0.02857142857142857, 
+            "diurese": 0.02857142857142857, 
+            "dyslipidemia": 0.02857142857142857, 
+            "fibrillation": 0.02857142857142857, 
+            "infection": 0.02857142857142857, 
+            "levofloxacin": 0.02857142857142857, 
+            "rhythm": 0.02857142857142857, 
+            "stomach": 0.02857142857142857, 
+            "x4": 0.02857142857142857
+        }, 
+        ")": {
+            ")": 0.03333333333333333, 
+            "11/3": 0.03333333333333333, 
+            "79189197": 0.06666666666666667, 
+            "ACID": 0.03333333333333333, 
+            "ATORVASTATIN": 0.03333333333333333, 
+            "Admission": 0.03333333333333333, 
+            "FUROSEMIDE": 0.03333333333333333, 
+            "HCL": 0.06666666666666667, 
+            "HUMAN": 0.03333333333333333, 
+            "IRBESARTAN": 0.03333333333333333, 
+            "LORAZEPAM": 0.03333333333333333, 
+            "O.R.": 0.03333333333333333, 
+            "PA12": 0.03333333333333333, 
+            "SODIUM": 0.03333333333333333, 
+            "SR": 0.03333333333333333, 
+            "TARTRATE": 0.03333333333333333, 
+            "after": 0.03333333333333333, 
+            "anemia": 0.03333333333333333, 
+            "defibrillator": 0.03333333333333333, 
+            "disease": 0.03333333333333333, 
+            "dyslipidemia": 0.03333333333333333, 
+            "fibrillation": 0.03333333333333333, 
+            "food": 0.03333333333333333, 
+            "infarction": 0.03333333333333333, 
+            "infection": 0.03333333333333333, 
+            "mellitus": 0.03333333333333333, 
+            "perfused": 0.03333333333333333, 
+            "surgery": 0.03333333333333333
+        }, 
+        ").": {
+            "AFib": 0.2, 
+            "AICD": 0.2, 
+            "CXR": 0.2, 
+            "PNA": 0.2, 
+            "RI": 0.2
+        }, 
+        "):": {
+            "S": 0.3333333333333333, 
+            "approximate": 0.6666666666666666
+        }, 
+        "******": {
+            "09": 0.3333333333333333, 
+            "10/5/2001": 0.3333333333333333, 
+            "ORDERS": 0.3333333333333333
+        }, 
+        ",": {
+            "12.2": 0.029411764705882353, 
+            "?aspiration": 0.029411764705882353, 
+            "CZAPLINSKI": 0.029411764705882353, 
+            "Complications": 0.029411764705882353, 
+            "D.": 0.029411764705882353, 
+            "DIAGNOSIS;Conditions": 0.029411764705882353, 
+            "GREANY": 0.029411764705882353, 
+            "Here": 0.029411764705882353, 
+            "Infections": 0.029411764705882353, 
+            "KAZEE": 0.029411764705882353, 
+            "LLANES": 0.029411764705882353, 
+            "M.": 0.029411764705882353, 
+            "NORBERT": 0.029411764705882353, 
+            "PECCIA": 0.029411764705882353, 
+            "R.": 0.029411764705882353, 
+            "SOB": 0.029411764705882353, 
+            "SWEERE": 0.029411764705882353, 
+            "Today": 0.029411764705882353, 
+            "Tues": 0.029411764705882353, 
+            "W.": 0.029411764705882353, 
+            "base": 0.029411764705882353, 
+            "breath": 0.029411764705882353, 
+            "chills": 0.029411764705882353, 
+            "feeds": 0.029411764705882353, 
+            "fever": 0.029411764705882353, 
+            "lightheadedness": 0.029411764705882353, 
+            "night": 0.029411764705882353, 
+            "paced": 0.029411764705882353, 
+            "pain": 0.029411764705882353, 
+            "palpitations": 0.029411764705882353, 
+            "sbp<90": 0.029411764705882353, 
+            "scheduled": 0.029411764705882353, 
+            "then": 0.029411764705882353, 
+            "weeks": 0.029411764705882353
+        }, 
+        "-": {
+            "Activity": 1.0
+        }, 
+        ".": {
+            "SNESUHC": 1.0
+        }, 
+        "/": {
+            "House": 1.0
+        }, 
+        "0.25": {
+            "DIGOXIN": 1.0
+        }, 
+        "059749018": {
+            "": 1.0
+        }, 
+        "09": {
+            "@": 1.0
+        }, 
+        "1": {
+            ")": 0.2, 
+            "ACID": 0.2, 
+            "Gaines": 0.2, 
+            "X": 0.2, 
+            "hold": 0.2
+        }, 
+        "1/10/2001": {
+            "Date:": 0.5, 
+            "|": 0.5
+        }, 
+        "1/24/01": {
+            ")": 0.3333333333333333, 
+            "ON:": 0.3333333333333333, 
+            "on": 0.3333333333333333
+        }, 
+        "10": {
+            "):": 1.0
+        }, 
+        "10/18": {
+            ".": 1.0
+        }, 
+        "10/18/01": {
+            "Shorr": 1.0
+        }, 
+        "10/5/2001": {
+            "Date:": 1.0
+        }, 
+        "100": {
+            ")": 1.0
+        }, 
+        "102.4": {
+            "to": 1.0
+        }, 
+        "10:00": {
+            "AT": 1.0
+        }, 
+        "11/3": {
+            "(": 1.0
+        }, 
+        "12.2": {
+            "at": 1.0
+        }, 
+        "12.5": {
+            ")": 1.0
+        }, 
+        "12:00:00": {
+            "1/10/2001": 1.0
+        }, 
+        "14": {
+            "and": 1.0
+        }, 
+        "1hr": {
+            "give": 1.0
+        }, 
+        "2": {
+            "Take": 0.3333333333333333, 
+            "or": 0.3333333333333333, 
+            "to": 0.3333333333333333
+        }, 
+        "20": {
+            ")": 0.3333333333333333, 
+            "REL.": 0.3333333333333333, 
+            "each": 0.3333333333333333
+        }, 
+        "250": {
+            "LEVOFLOXACIN": 1.0
+        }, 
+        "2hr": {
+            "or": 1.0
+        }, 
+        "3": {
+            "at": 1.0
+        }, 
+        "30": {
+            ")": 1.0
+        }, 
+        "300": {
+            ")": 0.5, 
+            "ALLOPURINOL": 0.5
+        }, 
+        "377097": {
+            "|": 1.0
+        }, 
+        "4": {
+            "with": 1.0
+        }, 
+        "5": {
+            ")": 0.3333333333333333, 
+            "):": 0.3333333333333333, 
+            "dx": 0.3333333333333333
+        }, 
+        "586-37-67-7": {
+            "LOGAN": 1.0
+        }, 
+        "6/25/01": {
+            "on": 1.0
+        }, 
+        "60": {
+            ")": 0.6666666666666666, 
+            "COURSE:": 0.3333333333333333
+        }, 
+        "61377777": {
+            "|": 1.0
+        }, 
+        "70/30": {
+            "INSULIN": 1.0
+        }, 
+        "79189197": {
+            "#": 1.0
+        }, 
+        "80": {
+            ")": 1.0
+        }, 
+        "81": {
+            ")": 1.0
+        }, 
+        ":": {
+            "by": 1.0
+        }, 
+        ";Responsible": {
+            "DIAGNOSIS": 1.0
+        }, 
+        "?": {
+            "and": 1.0
+        }, 
+        "?amiodarone": {
+            ")": 1.0
+        }, 
+        "?aspiration": {
+            "(": 1.0
+        }, 
+        "?comm": {
+            ",": 1.0
+        }, 
+        "@": {
+            "1/24/01": 1.0
+        }, 
+        "ACETYLSALICYLIC": {
+            "(": 1.0
+        }, 
+        "ACID": {
+            "ACETYLSALICYLIC": 0.5, 
+            "FOLIC": 0.5
+        }, 
+        "ADDITIONAL": {
+            "discharge.": 1.0
+        }, 
+        "ADMIT": {
+            "Allergies": 1.0
+        }, 
+        "AFib": {
+            "and": 0.5, 
+            "in": 0.5
+        }, 
+        "AICD": {
+            "s/p": 0.5, 
+            "the": 0.5
+        }, 
+        "ALLEGRA": {
+            "fluid": 1.0
+        }, 
+        "ALLOPURINOL": {
+            "monitor": 1.0
+        }, 
+        "AM": {
+            "10:00": 0.3333333333333333, 
+            "12:00:00": 0.3333333333333333, 
+            "IN": 0.3333333333333333
+        }, 
+        "AND": {
+            "OPERATIONS": 1.0
+        }, 
+        "APPOINTMENT(": {
+            "UP": 1.0
+        }, 
+        "AS": {
+            "USED": 1.0
+        }, 
+        "ASA": {
+            "MEDICATIONS:": 1.0
+        }, 
+        "ASPIRIN": {
+            "INTERACTION:": 1.0
+        }, 
+        "AT": {
+            "1/24/01": 1.0
+        }, 
+        "ATIVAN": {
+            "BID": 1.0
+        }, 
+        "ATORVASTATIN": {
+            "&": 0.5, 
+            "(": 0.5
+        }, 
+        "AVAPRO": {
+            "monitor": 1.0
+        }, 
+        "Activity": {
+            "fat": 1.0
+        }, 
+        "Admission": {
+            "Causing": 0.5, 
+            "|": 0.5
+        }, 
+        "After": {
+            ";Responsible": 0.5, 
+            "WORK:": 0.5
+        }, 
+        "Alert": {
+            "QD": 0.5, 
+            "foods": 0.5
+        }, 
+        "Allergies": {
+            "Known": 1.0
+        }, 
+        "Appt": {
+            "After": 1.0
+        }, 
+        "As": {
+            "-": 0.5, 
+            "BID": 0.5
+        }, 
+        "Attending:": {
+            "YES": 1.0
+        }, 
+        "Avoid": {
+            "Instruction": 1.0
+        }, 
+        "BCxs": {
+            "improvement.": 1.0
+        }, 
+        "BE": {
+            "ORDER": 1.0
+        }, 
+        "BID": {
+            "PO": 0.8, 
+            "SC": 0.2
+        }, 
+        "BRIEF": {
+            "none": 1.0
+        }, 
+        "BY:": {
+            "ENTERED": 1.0
+        }, 
+        "Bcx's": {
+            ",": 1.0
+        }, 
+        "CABG": {
+            "s/p": 1.0
+        }, 
+        "CAD": {
+            "VT/VFIB": 1.0
+        }, 
+        "CALCIUM": {
+            "ATORVASTATIN": 1.0
+        }, 
+        "CAR": {
+            "Service:": 1.0
+        }, 
+        "CMP": {
+            "w/ischemic": 1.0
+        }, 
+        "COMMENTS:": {
+            "ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            "DISCHARGE": 1.0
+        }, 
+        "CONTINGENT": {
+            "AM": 1.0
+        }, 
+        "COUMADIN": {
+            "QD": 0.3333333333333333, 
+            "for": 0.6666666666666666
+        }, 
+        "COURSE:": {
+            "HOSPITAL": 1.0
+        }, 
+        "CXR": {
+            "NGTD.": 0.3333333333333333, 
+            "Repeat": 0.3333333333333333, 
+            "on": 0.3333333333333333
+        }, 
+        "CZAPLINSKI": {
+            "******": 1.0
+        }, 
+        "Causing": {
+            "for": 1.0
+        }, 
+        "Chloride": {
+            "Potassium": 1.0
+        }, 
+        "Complications": {
+            ",": 1.0
+        }, 
+        "D.": {
+            "GARLAND": 1.0
+        }, 
+        "D/C": {
+            "THE": 0.5, 
+            "WILL": 0.5
+        }, 
+        "DANE": {
+            ",": 1.0
+        }, 
+        "DIAGNOSIS": {
+            "DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "OTHER": 1.0
+        }, 
+        "DIET:": {
+            "known": 1.0
+        }, 
+        "DIGOXIN": {
+            "QD": 1.0
+        }, 
+        "DIS": {
+            "|": 1.0
+        }, 
+        "DISCHARGE": {
+            "******": 0.16666666666666666, 
+            "CAR": 0.16666666666666666, 
+            "Home": 0.16666666666666666, 
+            "OF": 0.16666666666666666, 
+            "PRINCIPAL": 0.16666666666666666, 
+            "falls.": 0.16666666666666666
+        }, 
+        "DISPOSITION:": {
+            "M.D.": 1.0
+        }, 
+        "DO/PLAN:": {
+            "TO": 1.0
+        }, 
+        "Date:": {
+            "Admission": 0.5, 
+            "Discharge": 0.5
+        }, 
+        "Discharge": {
+            "Status:": 1.0
+        }, 
+        "Doses": {
+            "of": 1.0
+        }, 
+        "Dr.": {
+            "):": 0.5, 
+            ",": 0.5
+        }, 
+        "ECHO": {
+            "and": 1.0
+        }, 
+        "ED": {
+            "local": 1.0
+        }, 
+        "END": {
+            "******": 1.0
+        }, 
+        "ENTERED": {
+            "summary": 1.0
+        }, 
+        "F/U": {
+            "and": 1.0
+        }, 
+        "FEXOFENADINE": {
+            "(": 1.0
+        }, 
+        "FHC": {
+            "|": 1.0
+        }, 
+        "FM": {
+            "requires": 1.0
+        }, 
+        "FOLIC": {
+            "QD": 1.0
+        }, 
+        "FOLLOW": {
+            "physician": 1.0
+        }, 
+        "FUROSEMIDE": {
+            "(": 1.0
+        }, 
+        "Food/Drug": {
+            ")": 0.2, 
+            "QD": 0.2, 
+            "QHS": 0.2, 
+            "hr<55": 0.2, 
+            "sbp<90": 0.2
+        }, 
+        "GARLAND": {
+            ",": 1.0
+        }, 
+        "GREANY": {
+            "Attending:": 1.0
+        }, 
+        "Gaines": {
+            "Dr.": 1.0
+        }, 
+        "Give": {
+            "Instruction": 1.0
+        }, 
+        "Got": {
+            ").": 1.0
+        }, 
+        "HCL": {
+            "FEXOFENADINE": 0.5, 
+            "THIAMINE": 0.5
+        }, 
+        "HO": {
+            "UPON": 1.0
+        }, 
+        "HOLD": {
+            "BID": 0.5, 
+            "QD": 0.5
+        }, 
+        "HOSPITAL": {
+            "OF": 1.0
+        }, 
+        "HUMAN": {
+            "(": 1.0
+        }, 
+        "He": {
+            "ago.": 1.0
+        }, 
+        "Here": {
+            "request.": 1.0
+        }, 
+        "Home": {
+            "DISPOSITION:": 1.0
+        }, 
+        "House": {
+            "DIET:": 1.0
+        }, 
+        "IAN": {
+            ",": 1.0
+        }, 
+        "IDDM": {
+            "resection": 1.0
+        }, 
+        "IF:": {
+            "HOLD": 1.0
+        }, 
+        "IMDUR": {
+            "10": 1.0
+        }, 
+        "IN": {
+            "NOT": 0.5, 
+            "Starting": 0.5
+        }, 
+        "INSULIN": {
+            "monitor": 1.0
+        }, 
+        "INTERACTION:": {
+            "SERIOUS": 1.0
+        }, 
+        "IRBESARTAN": {
+            "(": 1.0
+        }, 
+        "ISOSORBIDE": {
+            "(": 1.0
+        }, 
+        "If": {
+            "Instruction": 1.0
+        }, 
+        "Infections": {
+            ",": 1.0
+        }, 
+        "Instruction": {
+            "Interaction": 1.0
+        }, 
+        "Interaction": {
+            "Food/Drug": 1.0
+        }, 
+        "KAZEE": {
+            "by": 1.0
+        }, 
+        "KCL": {
+            ")": 1.0
+        }, 
+        "KENT": {
+            ",": 1.0
+        }, 
+        "Known": {
+            "No": 1.0
+        }, 
+        "LASIX": {
+            "QD": 1.0
+        }, 
+        "LEVOFLOXACIN": {
+            "INTERACTION:": 0.6666666666666666, 
+            "otherwise.": 0.3333333333333333
+        }, 
+        "LGRH": {
+            "per": 1.0
+        }, 
+        "LIPITOR": {
+            "5": 1.0
+        }, 
+        "LLANES": {
+            "by": 1.0
+        }, 
+        "LMH": {
+            "to": 1.0
+        }, 
+        "LOGAN": {
+            ",": 1.0
+        }, 
+        "LOPRESSOR": {
+            "insomnia": 1.0
+        }, 
+        "LORAZEPAM": {
+            "(": 1.0
+        }, 
+        "LWMH": {
+            "from": 1.0
+        }, 
+        "Later": {
+            ").": 1.0
+        }, 
+        "Low": {
+            "/": 1.0
+        }, 
+        "M": {
+            "yo": 1.0
+        }, 
+        "M.": {
+            "IAN": 1.0
+        }, 
+        "M.D.": {
+            ",": 1.0
+        }, 
+        "MD": {
+            "unless": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "DISCHARGE": 1.0
+        }, 
+        "MEQ": {
+            "20": 1.0
+        }, 
+        "METOPROLOL": {
+            "(": 1.0
+        }, 
+        "MG": {
+            "0.25": 0.07142857142857142, 
+            "1": 0.14285714285714285, 
+            "100": 0.07142857142857142, 
+            "12.5": 0.07142857142857142, 
+            "20": 0.07142857142857142, 
+            "250": 0.07142857142857142, 
+            "300": 0.14285714285714285, 
+            "5": 0.07142857142857142, 
+            "60": 0.14285714285714285, 
+            "80": 0.07142857142857142, 
+            "81": 0.07142857142857142
+        }, 
+        "MI": {
+            "s/p": 1.0
+        }, 
+        "MONONIT.(": {
+            "ISOSORBIDE": 1.0
+        }, 
+        "NGTD.": {
+            "SMH": 1.0
+        }, 
+        "NORBERT": {
+            "QUINTON": 1.0
+        }, 
+        "NOT": {
+            "(": 1.0
+        }, 
+        "No": {
+            ",": 0.3333333333333333, 
+            "DO/PLAN:": 0.3333333333333333, 
+            "Instruction": 0.3333333333333333
+        }, 
+        "Notice:": {
+            "Override": 1.0
+        }, 
+        "Number": {
+            "fsg<60": 0.5, 
+            "sbp<90": 0.5
+        }, 
+        "O.R.": {
+            "IN": 1.0
+        }, 
+        "O2;": {
+            "FM": 1.0
+        }, 
+        "OF": {
+            "END": 0.5, 
+            "RESUME": 0.5
+        }, 
+        "ON:": {
+            "PATIENT": 1.0
+        }, 
+        "OPERATIONS": {
+            "toxicity": 1.0
+        }, 
+        "ORDER": {
+            "D/C": 1.0
+        }, 
+        "ORDERS": {
+            "DISCHARGE": 1.0
+        }, 
+        "OTHER": {
+            "PROCEDURES:": 0.5, 
+            "chf": 0.5
+        }, 
+        "Override": {
+            "Notice:": 0.3333333333333333, 
+            "QD": 0.16666666666666666, 
+            "overridden:": 0.3333333333333333, 
+            "products.": 0.16666666666666666
+        }, 
+        "PA12": {
+            "(": 1.0
+        }, 
+        "PATIENT": {
+            "DISCHARGE": 1.0
+        }, 
+        "PECCIA": {
+            "by": 1.0
+        }, 
+        "PNA": {
+            "acq": 1.0
+        }, 
+        "PO": {
+            "1": 0.058823529411764705, 
+            "COUMADIN": 0.11764705882352941, 
+            "MG": 0.8235294117647058
+        }, 
+        "POTENTIALLY": {
+            ")": 0.3333333333333333, 
+            ":": 0.16666666666666666, 
+            "M.D.": 0.16666666666666666, 
+            "WARFARIN": 0.3333333333333333
+        }, 
+        "PRINCIPAL": {
+            "chf": 1.0
+        }, 
+        "PRN": {
+            "BID": 1.0
+        }, 
+        "PROCEDURES:": {
+            "AND": 1.0
+        }, 
+        "Patient": {
+            "COMMENTS:": 1.0
+        }, 
+        "Perv": {
+            "Ville": 1.0
+        }, 
+        "Policy:": {
+            "Chloride": 1.0
+        }, 
+        "Potassium": {
+            "LGRH": 1.0
+        }, 
+        "Pt": {
+            "pending.": 1.0
+        }, 
+        "QD": {
+            "PO": 1.0
+        }, 
+        "QHS": {
+            "PO": 1.0
+        }, 
+        "QUINTON": {
+            ",": 1.0
+        }, 
+        "R.": {
+            "KENT": 1.0
+        }, 
+        "RA": {
+            "on": 1.0
+        }, 
+        "RECURRENT": {
+            "Treatment/Stay": 1.0
+        }, 
+        "REL.": {
+            "SLOW": 1.0
+        }, 
+        "RESUME": {
+            "BRIEF": 1.0
+        }, 
+        "RETURN": {
+            "tolerated": 1.0
+        }, 
+        "RI": {
+            "in": 1.0
+        }, 
+        "Reason": {
+            "CALCIUM": 0.25, 
+            "WARFARIN": 0.75
+        }, 
+        "Repeat": {
+            ").": 1.0
+        }, 
+        "Report": {
+            "1/10/2001": 1.0
+        }, 
+        "Required": {
+            "Doses": 1.0
+        }, 
+        "Rocephin": {
+            "and": 1.0
+        }, 
+        "S": {
+            "APPOINTMENT(": 1.0
+        }, 
+        "S/P": {
+            "(": 1.0
+        }, 
+        "SC": {
+            "UNITS": 1.0
+        }, 
+        "SERIOUS": {
+            "POTENTIALLY": 1.0
+        }, 
+        "SIMVASTATIN": {
+            "INTERACTION:": 1.0
+        }, 
+        "SLOW": {
+            "KCL": 1.0
+        }, 
+        "SMH": {
+            "from": 1.0
+        }, 
+        "SNESUHC": {
+            "from": 1.0
+        }, 
+        "SOB": {
+            "developed": 1.0
+        }, 
+        "SODIUM": {
+            "WARFARIN": 1.0
+        }, 
+        "SR": {
+            "MONONIT.(": 1.0
+        }, 
+        "SUMMARY:": {
+            "D/C": 1.0
+        }, 
+        "SWEERE": {
+            "BY:": 1.0
+        }, 
+        "Service:": {
+            "Perv": 1.0
+        }, 
+        "Shorr": {
+            "Dr.": 1.0
+        }, 
+        "Stable": {
+            "CONDITION:": 1.0
+        }, 
+        "Starting": {
+            "QD": 1.0
+        }, 
+        "Status:": {
+            "Report": 1.0
+        }, 
+        "Ster": {
+            "586-37-67-7": 1.0
+        }, 
+        "Study": {
+            "After": 1.0
+        }, 
+        "TARTRATE": {
+            "METOPROLOL": 1.0
+        }, 
+        "THE": {
+            "AS": 1.0
+        }, 
+        "THIAMINE": {
+            "(": 0.5, 
+            "stomach.": 0.5
+        }, 
+        "TO": {
+            "RETURN": 0.5, 
+            "Stable": 0.5
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "OTHER": 1.0
+        }, 
+        "Take": {
+            ")": 0.5, 
+            "Instruction": 0.5
+        }, 
+        "Today": {
+            "yesterday.": 1.0
+        }, 
+        "Treatment/Stay": {
+            "affecting": 1.0
+        }, 
+        "Tues": {
+            "last": 1.0
+        }, 
+        "UNITS": {
+            "30": 1.0
+        }, 
+        "UP": {
+            "FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "CONTINGENT": 1.0
+        }, 
+        "USED": {
+            "BE": 1.0
+        }, 
+        "VT/VFIB": {
+            "RECURRENT": 1.0
+        }, 
+        "Ville": {
+            "Ster": 1.0
+        }, 
+        "Vitamin-K": {
+            "high": 1.0
+        }, 
+        "W.": {
+            "DANE": 1.0
+        }, 
+        "WARFARIN": {
+            "&": 0.7142857142857143, 
+            "(": 0.14285714285714285, 
+            "INTERACTION:": 0.14285714285714285
+        }, 
+        "WBC": {
+            ").": 1.0
+        }, 
+        "WILL": {
+            "evaluation": 1.0
+        }, 
+        "WORK:": {
+            "TO": 1.0
+        }, 
+        "Will": {
+            ").": 0.5, 
+            "overload.": 0.5
+        }, 
+        "X": {
+            "MEQ": 1.0
+        }, 
+        "YES": {
+            "SUMMARY:": 1.0
+        }, 
+        "acq": {
+            "?comm": 1.0
+        }, 
+        "added": {
+            "Override": 1.0
+        }, 
+        "affecting": {
+            ",": 1.0
+        }, 
+        "after": {
+            "2hr": 0.3333333333333333, 
+            "hours": 0.3333333333333333, 
+            "hr": 0.3333333333333333
+        }, 
+        "ago.": {
+            "weeks": 1.0
+        }, 
+        "all": {
+            "not": 1.0
+        }, 
+        "an": {
+            "on": 1.0
+        }, 
+        "and": {
+            ")": 0.1111111111111111, 
+            ",": 0.1111111111111111, 
+            "CMP": 0.1111111111111111, 
+            "CXR": 0.1111111111111111, 
+            "days": 0.1111111111111111, 
+            "diuretics": 0.1111111111111111, 
+            "lasix": 0.1111111111111111, 
+            "severe": 0.1111111111111111, 
+            "stable": 0.1111111111111111
+        }, 
+        "anemia": {
+            "(": 0.5, 
+            "chronic": 0.5
+        }, 
+        "anxiety": {
+            "PRN": 1.0
+        }, 
+        "approximate": {
+            "(": 1.0
+        }, 
+        "are": {
+            "LWMH": 0.5, 
+            "that": 0.5
+        }, 
+        "artery": {
+            "coronary": 1.0
+        }, 
+        "aspiration": {
+            "?": 1.0
+        }, 
+        "assess": {
+            "to": 1.0
+        }, 
+        "assoc": {
+            "and": 1.0
+        }, 
+        "at": {
+            "LMH": 0.2, 
+            "RA": 0.2, 
+            "elevated": 0.2, 
+            "neg": 0.2, 
+            "pending": 0.2
+        }, 
+        "atrial": {
+            "(": 0.5, 
+            ")": 0.5
+        }, 
+        "attention": {
+            "medical": 1.0
+        }, 
+        "back": {
+            "if": 1.0
+        }, 
+        "base": {
+            "right": 1.0
+        }, 
+        "be": {
+            "to": 1.0
+        }, 
+        "beats": {
+            "all": 1.0
+        }, 
+        "became": {
+            "this": 1.0
+        }, 
+        "before": {
+            "1hr": 0.3333333333333333, 
+            "hours": 0.3333333333333333, 
+            "hr": 0.3333333333333333
+        }, 
+        "bibasilar": {
+            "to": 1.0
+        }, 
+        "bilateral": {
+            "has": 1.0
+        }, 
+        "breath": {
+            "of": 1.0
+        }, 
+        "but": {
+            ",": 1.0
+        }, 
+        "by": {
+            "1/24/01": 0.25, 
+            "6/25/01": 0.75
+        }, 
+        "bypass": {
+            "cardiac": 1.0
+        }, 
+        "cardiac": {
+            "S/P": 0.5, 
+            "implanted": 0.5
+        }, 
+        "cardioverted": {
+            "was": 1.0
+        }, 
+        "chest": {
+            "develops": 1.0
+        }, 
+        "chf": {
+            ")": 0.3333333333333333, 
+            "DIAGNOSIS:": 0.3333333333333333, 
+            "|": 0.3333333333333333
+        }, 
+        "chills": {
+            ",": 1.0
+        }, 
+        "chol/low": {
+            "Low": 1.0
+        }, 
+        "chronic": {
+            ")": 1.0
+        }, 
+        "consistently": {
+            "Take": 1.0
+        }, 
+        "containing": {
+            "Vitamin-K": 1.0
+        }, 
+        "coronary": {
+            "(": 1.0
+        }, 
+        "coumadin": {
+            "on": 1.0
+        }, 
+        "course": {
+            "day": 1.0
+        }, 
+        "cx's": {
+            "10/18": 0.5, 
+            "on": 0.5
+        }, 
+        "cycle": {
+            "please": 1.0
+        }, 
+        "dairy": {
+            "after": 1.0
+        }, 
+        "day": {
+            "14": 1.0
+        }, 
+        "days": {
+            "3": 1.0
+        }, 
+        "defibrillator": {
+            "cardiac": 1.0
+        }, 
+        "developed": {
+            "he": 1.0
+        }, 
+        "develops": {
+            "he": 1.0
+        }, 
+        "diabetes": {
+            "(": 1.0
+        }, 
+        "dictated": {
+            "No": 1.0
+        }, 
+        "discharge.": {
+            "of": 1.0
+        }, 
+        "discharged": {
+            "discharge.": 1.0
+        }, 
+        "disease": {
+            "artery": 1.0
+        }, 
+        "diurese": {
+            "Will": 1.0
+        }, 
+        "diuretics": {
+            "po": 1.0
+        }, 
+        "dose": {
+            "mEq": 1.0
+        }, 
+        "due": {
+            "(": 1.0
+        }, 
+        "dx": {
+            "AFib": 1.0
+        }, 
+        "dyslipidemia": {
+            "(": 0.5, 
+            ")": 0.5
+        }, 
+        "each": {
+            "Policy:": 1.0
+        }, 
+        "effusions": {
+            "small": 1.0
+        }, 
+        "elevated": {
+            "WBC": 1.0
+        }, 
+        "empirically": {
+            "treat": 1.0
+        }, 
+        "empty": {
+            "an": 0.5, 
+            "on": 0.5
+        }, 
+        "evaluation": {
+            "HO": 1.0
+        }, 
+        "falls.": {
+            "or": 1.0
+        }, 
+        "fat": {
+            "sat.": 1.0
+        }, 
+        "feeds": {
+            "tube": 1.0
+        }, 
+        "fever": {
+            ",": 0.5, 
+            "w/": 0.5
+        }, 
+        "fever;": {
+            "grade": 1.0
+        }, 
+        "fibrillation": {
+            "atrial": 1.0
+        }, 
+        "films.": {
+            "past": 1.0
+        }, 
+        "finally": {
+            "and": 1.0
+        }, 
+        "fluid": {
+            "mild-mod": 0.5, 
+            "of": 0.5
+        }, 
+        "food": {
+            "after": 1.0
+        }, 
+        "foods": {
+            "containing": 1.0
+        }, 
+        "for": {
+            "Reason": 0.5714285714285714, 
+            "Study": 0.14285714285714285, 
+            "order": 0.2857142857142857
+        }, 
+        "from": {
+            "BCxs": 0.25, 
+            "cx's": 0.5, 
+            "improvement": 0.25
+        }, 
+        "fsg<60": {
+            "IF:": 1.0
+        }, 
+        "give": {
+            "(": 1.0
+        }, 
+        "given": {
+            "be": 1.0
+        }, 
+        "grade": {
+            "low": 1.0
+        }, 
+        "graft": {
+            "bypass": 1.0
+        }, 
+        "grapefruit": {
+            "Avoid": 1.0
+        }, 
+        "has": {
+            "films.": 1.0
+        }, 
+        "he": {
+            ",": 0.5, 
+            "if": 0.5
+        }, 
+        "high": {
+            "No": 1.0
+        }, 
+        "his": {
+            "at": 1.0
+        }, 
+        "hold": {
+            "(": 1.0
+        }, 
+        "hours": {
+            "2": 1.0
+        }, 
+        "hr": {
+            "1": 0.5, 
+            "2": 0.5
+        }, 
+        "hr<55": {
+            ",": 1.0
+        }, 
+        "if": {
+            "attention": 0.5, 
+            "see": 0.5
+        }, 
+        "immediate": {
+            "seek": 1.0
+        }, 
+        "implanted": {
+            "S/P": 1.0
+        }, 
+        "improvement": {
+            "interval": 1.0
+        }, 
+        "improvement.": {
+            "interval": 1.0
+        }, 
+        "in": {
+            "(": 0.3333333333333333, 
+            "aspiration": 0.3333333333333333, 
+            "back": 0.3333333333333333
+        }, 
+        "infarction": {
+            "myocardial": 1.0
+        }, 
+        "infection": {
+            "wound": 1.0
+        }, 
+        "infiltrates": {
+            "bibasilar": 1.0
+        }, 
+        "insomnia": {
+            "or": 1.0
+        }, 
+        "instructs": {
+            "MD": 1.0
+        }, 
+        "interval": {
+            "overall": 0.5, 
+            "showed": 0.5
+        }, 
+        "is": {
+            "ECHO": 1.0
+        }, 
+        "known": {
+            "override:": 1.0
+        }, 
+        "lasix": {
+            "Got": 1.0
+        }, 
+        "last": {
+            "and": 1.0
+        }, 
+        "levoflox.": {
+            "of": 1.0
+        }, 
+        "levofloxacin": {
+            "with": 1.0
+        }, 
+        "lightheadedness": {
+            ",": 1.0
+        }, 
+        "local": {
+            "to": 0.5, 
+            "with": 0.5
+        }, 
+        "low": {
+            ",": 1.0
+        }, 
+        "mEq": {
+            "20": 1.0
+        }, 
+        "meals": {
+            "with": 1.0
+        }, 
+        "medical": {
+            "immediate": 1.0
+        }, 
+        "mellitus": {
+            "diabetes": 1.0
+        }, 
+        "mild-mod": {
+            "stable;": 1.0
+        }, 
+        "monitor": {
+            "will": 1.0
+        }, 
+        "myocardial": {
+            "S/P": 1.0
+        }, 
+        "need": {
+            ",": 0.5, 
+            "will": 0.5
+        }, 
+        "neg": {
+            "are": 1.0
+        }, 
+        "night": {
+            "that": 1.0
+        }, 
+        "none": {
+            ")": 1.0
+        }, 
+        "not": {
+            "(": 1.0
+        }, 
+        "of": {
+            "Number": 0.2857142857142857, 
+            "course": 0.14285714285714285, 
+            "oz": 0.14285714285714285, 
+            "shortness": 0.14285714285714285, 
+            "time": 0.2857142857142857
+        }, 
+        "on": {
+            "F/U": 0.07142857142857142, 
+            "Give": 0.07142857142857142, 
+            "If": 0.07142857142857142, 
+            "M.D.": 0.14285714285714285, 
+            "added": 0.2857142857142857, 
+            "discharged": 0.07142857142857142, 
+            "infiltrates": 0.07142857142857142, 
+            "or": 0.07142857142857142, 
+            "started": 0.07142857142857142, 
+            "well": 0.07142857142857142
+        }, 
+        "or": {
+            ",": 0.2, 
+            "anxiety": 0.2, 
+            "before": 0.4, 
+            "meals": 0.2
+        }, 
+        "order": {
+            "on": 1.0
+        }, 
+        "otherwise.": {
+            "instructs": 1.0
+        }, 
+        "overall": {
+            "but": 1.0
+        }, 
+        "overload.": {
+            "fluid": 1.0
+        }, 
+        "overridden:": {
+            "Alert": 1.0
+        }, 
+        "override:": {
+            "for": 1.0
+        }, 
+        "oz": {
+            "4": 1.0
+        }, 
+        "paced": {
+            "beats": 1.0
+        }, 
+        "pain": {
+            "chest": 1.0
+        }, 
+        "palpitations": {
+            ",": 1.0
+        }, 
+        "past": {
+            "from": 1.0
+        }, 
+        "pending": {
+            "is": 1.0
+        }, 
+        "pending.": {
+            "Bcx's": 1.0
+        }, 
+        "per": {
+            "As": 1.0
+        }, 
+        "perfused": {
+            "well": 1.0
+        }, 
+        "physician": {
+            "local": 1.0
+        }, 
+        "please": {
+            ",": 1.0
+        }, 
+        "po": {
+            "on": 1.0
+        }, 
+        "products.": {
+            "dairy": 1.0
+        }, 
+        "ref": {
+            "(": 1.0
+        }, 
+        "request.": {
+            "his": 1.0
+        }, 
+        "requires": {
+            "fever;": 1.0
+        }, 
+        "resection": {
+            "sternum": 1.0
+        }, 
+        "rhythm": {
+            "underlying": 1.0
+        }, 
+        "right": {
+            "in": 1.0
+        }, 
+        "s/p": {
+            ")": 1.0
+        }, 
+        "sat.": {
+            "chol/low": 1.0
+        }, 
+        "sating": {
+            "levoflox.": 1.0
+        }, 
+        "sbp<90": {
+            "IF:": 1.0
+        }, 
+        "scheduled": {
+            "10/18/01": 1.0
+        }, 
+        "see": {
+            "to": 1.0
+        }, 
+        "seek": {
+            "should": 1.0
+        }, 
+        "sent": {
+            "was": 1.0
+        }, 
+        "severe": {
+            "became": 1.0
+        }, 
+        "shortness": {
+            ",": 1.0
+        }, 
+        "should": {
+            "Patient": 1.0
+        }, 
+        "showed": {
+            "CXR": 1.0
+        }, 
+        "small": {
+            "bilateral": 1.0
+        }, 
+        "stable": {
+            "are": 1.0
+        }, 
+        "stable;": {
+            "vitals": 1.0
+        }, 
+        "started": {
+            "was": 1.0
+        }, 
+        "sternal": {
+            "s/p": 1.0
+        }, 
+        "sternum": {
+            "s/p": 1.0
+        }, 
+        "stomach": {
+            "empty": 1.0
+        }, 
+        "stomach.": {
+            "empty": 1.0
+        }, 
+        "summary": {
+            "dictated": 1.0
+        }, 
+        "surgery": {
+            "graft": 1.0
+        }, 
+        "that": {
+            "Later": 0.5, 
+            "effusions": 0.5
+        }, 
+        "the": {
+            "via": 1.0
+        }, 
+        "then": {
+            "coumadin": 1.0
+        }, 
+        "this": {
+            ",": 1.0
+        }, 
+        "time": {
+            "at": 1.0
+        }, 
+        "to": {
+            "before": 0.125, 
+            "dose": 0.125, 
+            "due": 0.125, 
+            "fever": 0.125, 
+            "need": 0.25, 
+            "sent": 0.125, 
+            "went": 0.125
+        }, 
+        "tolerated": {
+            "As": 1.0
+        }, 
+        "toxicity": {
+            "?amiodarone": 1.0
+        }, 
+        "treat": {
+            "Will": 1.0
+        }, 
+        "tube": {
+            "on": 1.0
+        }, 
+        "underlying": {
+            "assess": 1.0
+        }, 
+        "unless": {
+            "grapefruit": 1.0
+        }, 
+        "via": {
+            "(": 1.0
+        }, 
+        "vitals": {
+            "O2;": 1.0
+        }, 
+        "w/": {
+            "assoc": 1.0
+        }, 
+        "w/ischemic": {
+            "M": 1.0
+        }, 
+        "was": {
+            ",": 0.3333333333333333, 
+            "He": 0.3333333333333333, 
+            "Pt": 0.3333333333333333
+        }, 
+        "weeks": {
+            "1": 0.5, 
+            "5": 0.5
+        }, 
+        "well": {
+            "(": 0.5, 
+            "sating": 0.5
+        }, 
+        "went": {
+            ",": 1.0
+        }, 
+        "will": {
+            "finally": 0.25, 
+            "override:": 0.75
+        }, 
+        "with": {
+            "Appt": 0.25, 
+            "consistently": 0.25, 
+            "empirically": 0.25, 
+            "given": 0.25
+        }, 
+        "wound": {
+            "S/P": 0.5, 
+            "sternal": 0.5
+        }, 
+        "x4": {
+            "CABG": 1.0
+        }, 
+        "yesterday.": {
+            "102.4": 1.0
+        }, 
+        "yo": {
+            "60": 1.0
+        }, 
+        "|": {
+            "059749018": 0.1111111111111111, 
+            "377097": 0.1111111111111111, 
+            "61377777": 0.1111111111111111, 
+            "AM": 0.1111111111111111, 
+            "DIS": 0.1111111111111111, 
+            "FHC": 0.1111111111111111, 
+            "chf": 0.1111111111111111, 
+            "|": 0.2222222222222222
+        }
+    }, 
+    "id": "897", 
+    "text": " 059749018 | FHC | 61377777 | | 377097 | 1/10/2001 12:00:00 AM | chf | | DIS | Admission Date: 1/10/2001 Report Status: Discharge Date: 10/5/2001 ****** DISCHARGE ORDERS ****** CZAPLINSKI , LOGAN 586-37-67-7 Ster Ville Perv Service: CAR DISCHARGE PATIENT ON: 1/24/01 AT 10:00 AM CONTINGENT UPON HO evaluation WILL D/C ORDER BE USED AS THE D/C SUMMARY: YES Attending: GREANY , QUINTON NORBERT , M.D. DISPOSITION: Home DISCHARGE MEDICATIONS: ASA ( ACETYLSALICYLIC ACID ) 81 MG PO QD Override Notice: Override added on 6/25/01 by LLANES , GARLAND D. , M.D. on order for COUMADIN PO ( ref # 79189197 ) POTENTIALLY SERIOUS INTERACTION: ASPIRIN & WARFARIN Reason for override: will monitor ALLOPURINOL 300 MG PO QD DIGOXIN 0.25 MG PO QD FOLIC ACID 1 MG PO QD LASIX ( FUROSEMIDE ) 80 MG PO BID ATIVAN ( LORAZEPAM ) 1 MG PO BID PRN anxiety or insomnia LOPRESSOR ( METOPROLOL TARTRATE ) 12.5 MG PO BID HOLD IF: sbp<90 , hr<55 Food/Drug Interaction Instruction Take consistently with meals or on empty stomach. THIAMINE ( THIAMINE HCL ) 100 MG PO QD COUMADIN ( WARFARIN SODIUM ) 5 MG PO QHS Food/Drug Interaction Instruction No high Vitamin-K containing foods Alert overridden: Override added on 6/25/01 by PECCIA , IAN M. , M.D. POTENTIALLY SERIOUS INTERACTION: ASPIRIN & WARFARIN POTENTIALLY SERIOUS INTERACTION: SIMVASTATIN & WARFARIN POTENTIALLY SERIOUS INTERACTION: LEVOFLOXACIN & WARFARIN Reason for override: will monitor INSULIN 70/30 ( HUMAN ) 30 UNITS SC BID HOLD IF: fsg<60 Number of Doses Required ( approximate ): 10 IMDUR ( ISOSORBIDE MONONIT.( SR ) ) 60 MG PO QD HOLD IF: sbp<90 Food/Drug Interaction Instruction Give on an empty stomach ( give 1hr before or 2hr after food ) KCL SLOW REL. 20 MEQ X 1 PO BID As per LGRH Potassium Chloride Policy: each 20 mEq dose to be given with 4 oz of fluid ALLEGRA ( FEXOFENADINE HCL ) 60 MG PO QD Food/Drug Interaction Instruction Avoid grapefruit unless MD instructs otherwise. LEVOFLOXACIN 250 MG PO QD Starting IN AM ( 11/3 ) Food/Drug Interaction Instruction If on tube feeds , please cycle ( hold 1 hr before to 2 hr after ) Take 2 hours before or 2 hours after dairy products. Override Notice: Override added on 6/25/01 by KAZEE , KENT R. , M.D. on order for COUMADIN PO ( ref # 79189197 ) POTENTIALLY SERIOUS INTERACTION: LEVOFLOXACIN & WARFARIN Reason for override: will monitor AVAPRO ( IRBESARTAN ) 300 MG PO QD HOLD IF: sbp<90 Number of Doses Required ( approximate ): 5 LIPITOR ( ATORVASTATIN ) 20 MG PO QD Alert overridden: Override added on 1/24/01 by : POTENTIALLY SERIOUS INTERACTION: WARFARIN & ATORVASTATIN CALCIUM Reason for override: known DIET: House / Low chol/low sat. fat Activity - As tolerated RETURN TO WORK: After Appt with local physician FOLLOW UP APPOINTMENT( S ): Dr. Gaines 1 weeks , Dr. Shorr 10/18/01 scheduled , No Known Allergies ADMIT DIAGNOSIS: chf PRINCIPAL DISCHARGE DIAGNOSIS ;Responsible After Study for Causing Admission ) chf OTHER DIAGNOSIS;Conditions , Infections , Complications , affecting Treatment/Stay RECURRENT VT/VFIB CAD ( coronary artery disease ) s/p MI ( S/P myocardial infarction ) s/p CABG x4 ( S/P cardiac bypass graft surgery ) s/p AICD ( S/P implanted cardiac defibrillator ) s/p sternal wound infection ( S/P wound infection ) s/p sternum resection IDDM ( diabetes mellitus ) chronic anemia ( anemia ) atrial fibrillation ( atrial fibrillation ) dyslipidemia ( dyslipidemia ) ?amiodarone toxicity OPERATIONS AND PROCEDURES: OTHER TREATMENTS/PROCEDURES ( NOT IN O.R. ) none BRIEF RESUME OF HOSPITAL COURSE: 60 yo M w/ischemic CMP and AFib dx 5 weeks ago. He was started on coumadin then , and last Tues , was cardioverted ( via the AICD ). Later that night , he developed SOB , this became severe and assoc w/ fever to 102.4 yesterday. Today , went to local ED ( in RI ). Got lasix and Rocephin ( due to bibasilar infiltrates on CXR ). WBC elevated at 12.2 , Bcx's pending. Pt was sent to LMH at his request. Here , low grade fever; requires FM O2; vitals stable; mild-mod fluid overload. Will treat empirically with levofloxacin ( ?aspiration , ?comm acq PNA ). Will diurese ( well perfused ) and finally will need to assess underlying rhythm ( not all beats paced , need to see if back in AFib ). Repeat CXR and F/U on cx's from SNESUHC . 10/18 cx's from SMH NGTD. CXR showed interval improvement from past films. has bilateral small effusions that are stable and ? aspiration in right base , but overall interval improvement. BCxs from LWMH are neg at 3 days and ECHO is pending at time of discharge. discharged on po diuretics and 14 day course of levoflox. sating well on RA at time of discharge. ADDITIONAL COMMENTS: Patient should seek immediate medical attention if he develops chest pain , shortness of breath , lightheadedness , fever , chills , palpitations , or falls. DISCHARGE CONDITION: Stable TO DO/PLAN: No dictated summary ENTERED BY: SWEERE , DANE W. , M.D. ( PA12 ) 1/24/01 @ 09 ****** END OF DISCHARGE ORDERS ******", 
+    "tri": {
+        "#": {
+            "(~ref": 1.0
+        }, 
+        "&": {
+            "INTERACTION:~ASPIRIN": 0.3333333333333333, 
+            "INTERACTION:~LEVOFLOXACIN": 0.3333333333333333, 
+            "INTERACTION:~SIMVASTATIN": 0.16666666666666666, 
+            "INTERACTION:~WARFARIN": 0.16666666666666666
+        }, 
+        "(": {
+            ")~dyslipidemia": 0.02857142857142857, 
+            ",~M.D.": 0.02857142857142857, 
+            "10~IMDUR": 0.02857142857142857, 
+            "5~LIPITOR": 0.02857142857142857, 
+            "BID~ATIVAN": 0.02857142857142857, 
+            "CABG~x4": 0.02857142857142857, 
+            "COUMADIN~PO": 0.05714285714285714, 
+            "Doses~Required": 0.05714285714285714, 
+            "INSULIN~70/30": 0.02857142857142857, 
+            "IN~AM": 0.02857142857142857, 
+            "MEDICATIONS:~ASA": 0.02857142857142857, 
+            "OTHER~TREATMENTS/PROCEDURES": 0.02857142857142857, 
+            "QD~COUMADIN": 0.02857142857142857, 
+            "QD~LASIX": 0.02857142857142857, 
+            "VT/VFIB~CAD": 0.02857142857142857, 
+            "Will~diurese": 0.02857142857142857, 
+            "and~Rocephin": 0.02857142857142857, 
+            "atrial~fibrillation": 0.02857142857142857, 
+            "chronic~anemia": 0.02857142857142857, 
+            "empty~stomach": 0.02857142857142857, 
+            "fluid~ALLEGRA": 0.02857142857142857, 
+            "insomnia~LOPRESSOR": 0.02857142857142857, 
+            "local~ED": 0.02857142857142857, 
+            "monitor~AVAPRO": 0.02857142857142857, 
+            "please~cycle": 0.02857142857142857, 
+            "resection~IDDM": 0.02857142857142857, 
+            "s/p~AICD": 0.02857142857142857, 
+            "s/p~MI": 0.02857142857142857, 
+            "stomach.~THIAMINE": 0.02857142857142857, 
+            "underlying~rhythm": 0.02857142857142857, 
+            "was~cardioverted": 0.02857142857142857, 
+            "with~levofloxacin": 0.02857142857142857, 
+            "wound~infection": 0.02857142857142857
+        }, 
+        ")": {
+            "#~79189197": 0.06666666666666667, 
+            "(~11/3": 0.03333333333333333, 
+            "(~ATORVASTATIN": 0.03333333333333333, 
+            "(~FUROSEMIDE": 0.03333333333333333, 
+            "(~HUMAN": 0.03333333333333333, 
+            "(~IRBESARTAN": 0.03333333333333333, 
+            "(~LORAZEPAM": 0.03333333333333333, 
+            "(~PA12": 0.03333333333333333, 
+            "(~anemia": 0.03333333333333333, 
+            "(~dyslipidemia": 0.03333333333333333, 
+            "ACETYLSALICYLIC~ACID": 0.03333333333333333, 
+            "Causing~Admission": 0.03333333333333333, 
+            "FEXOFENADINE~HCL": 0.03333333333333333, 
+            "IN~O.R.": 0.03333333333333333, 
+            "METOPROLOL~TARTRATE": 0.03333333333333333, 
+            "MONONIT.(~SR": 0.03333333333333333, 
+            "SR~)": 0.03333333333333333, 
+            "THIAMINE~HCL": 0.03333333333333333, 
+            "WARFARIN~SODIUM": 0.03333333333333333, 
+            "after~food": 0.03333333333333333, 
+            "artery~disease": 0.03333333333333333, 
+            "atrial~fibrillation": 0.03333333333333333, 
+            "cardiac~defibrillator": 0.03333333333333333, 
+            "diabetes~mellitus": 0.03333333333333333, 
+            "graft~surgery": 0.03333333333333333, 
+            "hr~after": 0.03333333333333333, 
+            "myocardial~infarction": 0.03333333333333333, 
+            "well~perfused": 0.03333333333333333, 
+            "wound~infection": 0.03333333333333333
+        }, 
+        ").": {
+            "acq~PNA": 0.2, 
+            "in~AFib": 0.2, 
+            "in~RI": 0.2, 
+            "on~CXR": 0.2, 
+            "the~AICD": 0.2
+        }, 
+        "):": {
+            "(~approximate": 0.6666666666666666, 
+            "APPOINTMENT(~S": 0.3333333333333333
+        }, 
+        "******": {
+            "@~09": 0.25, 
+            "DISCHARGE~ORDERS": 0.5, 
+            "Date:~10/5/2001": 0.25
+        }, 
+        ",": {
+            "(~?aspiration": 0.029411764705882353, 
+            "******~CZAPLINSKI": 0.029411764705882353, 
+            ",~Complications": 0.029411764705882353, 
+            ",~Infections": 0.029411764705882353, 
+            ",~chills": 0.029411764705882353, 
+            ",~fever": 0.029411764705882353, 
+            ",~lightheadedness": 0.029411764705882353, 
+            ",~palpitations": 0.029411764705882353, 
+            "10/18/01~scheduled": 0.029411764705882353, 
+            "1~weeks": 0.029411764705882353, 
+            "Attending:~GREANY": 0.029411764705882353, 
+            "BY:~SWEERE": 0.029411764705882353, 
+            "DANE~W.": 0.029411764705882353, 
+            "GARLAND~D.": 0.029411764705882353, 
+            "IAN~M.": 0.029411764705882353, 
+            "IF:~sbp<90": 0.029411764705882353, 
+            "KENT~R.": 0.029411764705882353, 
+            "OTHER~DIAGNOSIS;Conditions": 0.029411764705882353, 
+            "QUINTON~NORBERT": 0.029411764705882353, 
+            "at~12.2": 0.029411764705882353, 
+            "beats~paced": 0.029411764705882353, 
+            "by~KAZEE": 0.029411764705882353, 
+            "by~LLANES": 0.029411764705882353, 
+            "by~PECCIA": 0.029411764705882353, 
+            "chest~pain": 0.029411764705882353, 
+            "coumadin~then": 0.029411764705882353, 
+            "developed~SOB": 0.029411764705882353, 
+            "last~Tues": 0.029411764705882353, 
+            "of~breath": 0.029411764705882353, 
+            "request.~Here": 0.029411764705882353, 
+            "right~base": 0.029411764705882353, 
+            "that~night": 0.029411764705882353, 
+            "tube~feeds": 0.029411764705882353, 
+            "yesterday.~Today": 0.029411764705882353
+        }, 
+        "-": {
+            "fat~Activity": 1.0
+        }, 
+        ".": {
+            "from~SNESUHC": 1.0
+        }, 
+        "/": {
+            "DIET:~House": 1.0
+        }, 
+        "0.25": {
+            "QD~DIGOXIN": 1.0
+        }, 
+        "09": {
+            "1/24/01~@": 1.0
+        }, 
+        "1": {
+            "(~hold": 0.2, 
+            "Dr.~Gaines": 0.2, 
+            "FOLIC~ACID": 0.2, 
+            "LORAZEPAM~)": 0.2, 
+            "MEQ~X": 0.2
+        }, 
+        "1/10/2001": {
+            "377097~|": 0.5, 
+            "Admission~Date:": 0.5
+        }, 
+        "1/24/01": {
+            "PA12~)": 0.3333333333333333, 
+            "PATIENT~ON:": 0.3333333333333333, 
+            "added~on": 0.3333333333333333
+        }, 
+        "10": {
+            "approximate~):": 1.0
+        }, 
+        "10/18": {
+            "SNESUHC~.": 1.0
+        }, 
+        "10/18/01": {
+            "Dr.~Shorr": 1.0
+        }, 
+        "10/5/2001": {
+            "Discharge~Date:": 1.0
+        }, 
+        "100": {
+            "HCL~)": 1.0
+        }, 
+        "102.4": {
+            "fever~to": 1.0
+        }, 
+        "10:00": {
+            "1/24/01~AT": 1.0
+        }, 
+        "11/3": {
+            "AM~(": 1.0
+        }, 
+        "12.2": {
+            "elevated~at": 1.0
+        }, 
+        "12.5": {
+            "TARTRATE~)": 1.0
+        }, 
+        "12:00:00": {
+            "|~1/10/2001": 1.0
+        }, 
+        "14": {
+            "diuretics~and": 1.0
+        }, 
+        "1hr": {
+            "(~give": 1.0
+        }, 
+        "2": {
+            ")~Take": 0.3333333333333333, 
+            "before~or": 0.3333333333333333, 
+            "before~to": 0.3333333333333333
+        }, 
+        "20": {
+            "ATORVASTATIN~)": 0.3333333333333333, 
+            "Policy:~each": 0.3333333333333333, 
+            "SLOW~REL.": 0.3333333333333333
+        }, 
+        "250": {
+            "otherwise.~LEVOFLOXACIN": 1.0
+        }, 
+        "2hr": {
+            "before~or": 1.0
+        }, 
+        "3": {
+            "neg~at": 1.0
+        }, 
+        "30": {
+            "HUMAN~)": 1.0
+        }, 
+        "300": {
+            "IRBESARTAN~)": 0.5, 
+            "monitor~ALLOPURINOL": 0.5
+        }, 
+        "377097": {
+            "|~|": 1.0
+        }, 
+        "4": {
+            "given~with": 1.0
+        }, 
+        "5": {
+            "AFib~dx": 0.3333333333333333, 
+            "SODIUM~)": 0.3333333333333333, 
+            "approximate~):": 0.3333333333333333
+        }, 
+        "586-37-67-7": {
+            ",~LOGAN": 1.0
+        }, 
+        "6/25/01": {
+            "added~on": 1.0
+        }, 
+        "60": {
+            ")~)": 0.3333333333333333, 
+            "HCL~)": 0.3333333333333333, 
+            "HOSPITAL~COURSE:": 0.3333333333333333
+        }, 
+        "61377777": {
+            "FHC~|": 1.0
+        }, 
+        "70/30": {
+            "monitor~INSULIN": 1.0
+        }, 
+        "79189197": {
+            "ref~#": 1.0
+        }, 
+        "80": {
+            "FUROSEMIDE~)": 1.0
+        }, 
+        "81": {
+            "ACID~)": 1.0
+        }, 
+        ":": {
+            "1/24/01~by": 1.0
+        }, 
+        ";Responsible": {
+            "DISCHARGE~DIAGNOSIS": 1.0
+        }, 
+        "?": {
+            "stable~and": 1.0
+        }, 
+        "?amiodarone": {
+            "dyslipidemia~)": 1.0
+        }, 
+        "?aspiration": {
+            "levofloxacin~(": 1.0
+        }, 
+        "?comm": {
+            "?aspiration~,": 1.0
+        }, 
+        "@": {
+            ")~1/24/01": 1.0
+        }, 
+        "ACETYLSALICYLIC": {
+            "ASA~(": 1.0
+        }, 
+        "ACID": {
+            "(~ACETYLSALICYLIC": 0.5, 
+            "QD~FOLIC": 0.5
+        }, 
+        "ADDITIONAL": {
+            "of~discharge.": 1.0
+        }, 
+        "ADMIT": {
+            "Known~Allergies": 1.0
+        }, 
+        "AFib": {
+            "CMP~and": 0.5, 
+            "back~in": 0.5
+        }, 
+        "AICD": {
+            ")~s/p": 0.5, 
+            "via~the": 0.5
+        }, 
+        "ALLEGRA": {
+            "of~fluid": 1.0
+        }, 
+        "ALLOPURINOL": {
+            "will~monitor": 1.0
+        }, 
+        "AM": {
+            "1/10/2001~12:00:00": 0.3333333333333333, 
+            "AT~10:00": 0.3333333333333333, 
+            "Starting~IN": 0.3333333333333333
+        }, 
+        "AND": {
+            "toxicity~OPERATIONS": 1.0
+        }, 
+        "APPOINTMENT(": {
+            "FOLLOW~UP": 1.0
+        }, 
+        "AS": {
+            "BE~USED": 1.0
+        }, 
+        "ASA": {
+            "DISCHARGE~MEDICATIONS:": 1.0
+        }, 
+        "ASPIRIN": {
+            "SERIOUS~INTERACTION:": 1.0
+        }, 
+        "AT": {
+            "ON:~1/24/01": 1.0
+        }, 
+        "ATIVAN": {
+            "PO~BID": 1.0
+        }, 
+        "ATORVASTATIN": {
+            "LIPITOR~(": 0.5, 
+            "WARFARIN~&": 0.5
+        }, 
+        "AVAPRO": {
+            "will~monitor": 1.0
+        }, 
+        "Activity": {
+            "sat.~fat": 1.0
+        }, 
+        "Admission": {
+            "DIS~|": 0.5, 
+            "for~Causing": 0.5
+        }, 
+        "After": {
+            "DIAGNOSIS~;Responsible": 0.5, 
+            "TO~WORK:": 0.5
+        }, 
+        "Alert": {
+            "PO~QD": 0.5, 
+            "containing~foods": 0.5
+        }, 
+        "Allergies": {
+            "No~Known": 1.0
+        }, 
+        "Appt": {
+            "WORK:~After": 1.0
+        }, 
+        "As": {
+            "Activity~-": 0.5, 
+            "PO~BID": 0.5
+        }, 
+        "Attending:": {
+            "SUMMARY:~YES": 1.0
+        }, 
+        "Avoid": {
+            "Interaction~Instruction": 1.0
+        }, 
+        "BCxs": {
+            "interval~improvement.": 1.0
+        }, 
+        "BE": {
+            "D/C~ORDER": 1.0
+        }, 
+        "BID": {
+            "1~PO": 0.2, 
+            "MG~PO": 0.6, 
+            "UNITS~SC": 0.2
+        }, 
+        "BRIEF": {
+            ")~none": 1.0
+        }, 
+        "BY:": {
+            "summary~ENTERED": 1.0
+        }, 
+        "Bcx's": {
+            "12.2~,": 1.0
+        }, 
+        "CABG": {
+            ")~s/p": 1.0
+        }, 
+        "CAD": {
+            "RECURRENT~VT/VFIB": 1.0
+        }, 
+        "CALCIUM": {
+            "&~ATORVASTATIN": 1.0
+        }, 
+        "CAR": {
+            "Perv~Service:": 1.0
+        }, 
+        "CMP": {
+            "M~w/ischemic": 1.0
+        }, 
+        "COMMENTS:": {
+            "discharge.~ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            "falls.~DISCHARGE": 1.0
+        }, 
+        "CONTINGENT": {
+            "10:00~AM": 1.0
+        }, 
+        "COUMADIN": {
+            "PO~QD": 0.3333333333333333, 
+            "order~for": 0.6666666666666666
+        }, 
+        "COURSE:": {
+            "OF~HOSPITAL": 1.0
+        }, 
+        "CXR": {
+            ").~Repeat": 0.3333333333333333, 
+            "SMH~NGTD.": 0.3333333333333333, 
+            "infiltrates~on": 0.3333333333333333
+        }, 
+        "CZAPLINSKI": {
+            "ORDERS~******": 1.0
+        }, 
+        "Causing": {
+            "Study~for": 1.0
+        }, 
+        "Chloride": {
+            "LGRH~Potassium": 1.0
+        }, 
+        "Complications": {
+            "Infections~,": 1.0
+        }, 
+        "D.": {
+            ",~GARLAND": 1.0
+        }, 
+        "D/C": {
+            "AS~THE": 0.5, 
+            "evaluation~WILL": 0.5
+        }, 
+        "DANE": {
+            "SWEERE~,": 1.0
+        }, 
+        "DIAGNOSIS": {
+            "PRINCIPAL~DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "Allergies~ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "chf~OTHER": 1.0
+        }, 
+        "DIET:": {
+            "override:~known": 1.0
+        }, 
+        "DIGOXIN": {
+            "PO~QD": 1.0
+        }, 
+        "DIS": {
+            "|~|": 1.0
+        }, 
+        "DISCHARGE": {
+            "10/5/2001~******": 0.16666666666666666, 
+            "DISPOSITION:~Home": 0.16666666666666666, 
+            "END~OF": 0.16666666666666666, 
+            "Service:~CAR": 0.16666666666666666, 
+            "chf~PRINCIPAL": 0.16666666666666666, 
+            "or~falls.": 0.16666666666666666
+        }, 
+        "DISPOSITION:": {
+            ",~M.D.": 1.0
+        }, 
+        "DO/PLAN:": {
+            "Stable~TO": 1.0
+        }, 
+        "Date:": {
+            "Status:~Discharge": 0.5, 
+            "|~Admission": 0.5
+        }, 
+        "Discharge": {
+            "Report~Status:": 1.0
+        }, 
+        "Doses": {
+            "Number~of": 1.0
+        }, 
+        "Dr.": {
+            "S~):": 0.5, 
+            "weeks~,": 0.5
+        }, 
+        "ECHO": {
+            "days~and": 1.0
+        }, 
+        "ED": {
+            "to~local": 1.0
+        }, 
+        "END": {
+            "09~******": 1.0
+        }, 
+        "ENTERED": {
+            "dictated~summary": 1.0
+        }, 
+        "F/U": {
+            "CXR~and": 1.0
+        }, 
+        "FEXOFENADINE": {
+            "ALLEGRA~(": 1.0
+        }, 
+        "FHC": {
+            "059749018~|": 1.0
+        }, 
+        "FM": {
+            "fever;~requires": 1.0
+        }, 
+        "FOLIC": {
+            "PO~QD": 1.0
+        }, 
+        "FOLLOW": {
+            "local~physician": 1.0
+        }, 
+        "FUROSEMIDE": {
+            "LASIX~(": 1.0
+        }, 
+        "Food/Drug": {
+            ",~hr<55": 0.2, 
+            "11/3~)": 0.2, 
+            "IF:~sbp<90": 0.2, 
+            "PO~QD": 0.2, 
+            "PO~QHS": 0.2
+        }, 
+        "GARLAND": {
+            "LLANES~,": 1.0
+        }, 
+        "GREANY": {
+            "YES~Attending:": 1.0
+        }, 
+        "Gaines": {
+            "):~Dr.": 1.0
+        }, 
+        "Give": {
+            "Interaction~Instruction": 1.0
+        }, 
+        "Got": {
+            "RI~).": 1.0
+        }, 
+        "HCL": {
+            "(~FEXOFENADINE": 0.5, 
+            "(~THIAMINE": 0.5
+        }, 
+        "HO": {
+            "CONTINGENT~UPON": 1.0
+        }, 
+        "HOLD": {
+            "PO~BID": 0.25, 
+            "PO~QD": 0.5, 
+            "SC~BID": 0.25
+        }, 
+        "HOSPITAL": {
+            "RESUME~OF": 1.0
+        }, 
+        "HUMAN": {
+            "70/30~(": 1.0
+        }, 
+        "He": {
+            "weeks~ago.": 1.0
+        }, 
+        "Here": {
+            "his~request.": 1.0
+        }, 
+        "Home": {
+            "M.D.~DISPOSITION:": 1.0
+        }, 
+        "House": {
+            "known~DIET:": 1.0
+        }, 
+        "IAN": {
+            "PECCIA~,": 1.0
+        }, 
+        "IDDM": {
+            "sternum~resection": 1.0
+        }, 
+        "IF:": {
+            "BID~HOLD": 0.5, 
+            "QD~HOLD": 0.5
+        }, 
+        "IMDUR": {
+            "):~10": 1.0
+        }, 
+        "IN": {
+            "(~NOT": 0.5, 
+            "QD~Starting": 0.5
+        }, 
+        "INSULIN": {
+            "will~monitor": 1.0
+        }, 
+        "INTERACTION:": {
+            "POTENTIALLY~SERIOUS": 1.0
+        }, 
+        "IRBESARTAN": {
+            "AVAPRO~(": 1.0
+        }, 
+        "ISOSORBIDE": {
+            "IMDUR~(": 1.0
+        }, 
+        "If": {
+            "Interaction~Instruction": 1.0
+        }, 
+        "Infections": {
+            "DIAGNOSIS;Conditions~,": 1.0
+        }, 
+        "Instruction": {
+            "Food/Drug~Interaction": 1.0
+        }, 
+        "Interaction": {
+            ")~Food/Drug": 0.2, 
+            "QD~Food/Drug": 0.2, 
+            "QHS~Food/Drug": 0.2, 
+            "hr<55~Food/Drug": 0.2, 
+            "sbp<90~Food/Drug": 0.2
+        }, 
+        "KAZEE": {
+            "6/25/01~by": 1.0
+        }, 
+        "KCL": {
+            "food~)": 1.0
+        }, 
+        "KENT": {
+            "KAZEE~,": 1.0
+        }, 
+        "Known": {
+            ",~No": 1.0
+        }, 
+        "LASIX": {
+            "PO~QD": 1.0
+        }, 
+        "LEVOFLOXACIN": {
+            "SERIOUS~INTERACTION:": 0.6666666666666666, 
+            "instructs~otherwise.": 0.3333333333333333
+        }, 
+        "LGRH": {
+            "As~per": 1.0
+        }, 
+        "LIPITOR": {
+            "):~5": 1.0
+        }, 
+        "LLANES": {
+            "6/25/01~by": 1.0
+        }, 
+        "LMH": {
+            "sent~to": 1.0
+        }, 
+        "LOGAN": {
+            "CZAPLINSKI~,": 1.0
+        }, 
+        "LOPRESSOR": {
+            "or~insomnia": 1.0
+        }, 
+        "LORAZEPAM": {
+            "ATIVAN~(": 1.0
+        }, 
+        "LWMH": {
+            "BCxs~from": 1.0
+        }, 
+        "Later": {
+            "AICD~).": 1.0
+        }, 
+        "Low": {
+            "House~/": 1.0
+        }, 
+        "M": {
+            "60~yo": 1.0
+        }, 
+        "M.": {
+            ",~IAN": 1.0
+        }, 
+        "M.D.": {
+            "D.~,": 0.2, 
+            "M.~,": 0.2, 
+            "NORBERT~,": 0.2, 
+            "R.~,": 0.2, 
+            "W.~,": 0.2
+        }, 
+        "MD": {
+            "grapefruit~unless": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "Home~DISCHARGE": 1.0
+        }, 
+        "MEQ": {
+            "REL.~20": 1.0
+        }, 
+        "METOPROLOL": {
+            "LOPRESSOR~(": 1.0
+        }, 
+        "MG": {
+            ")~1": 0.07142857142857142, 
+            ")~100": 0.07142857142857142, 
+            ")~12.5": 0.07142857142857142, 
+            ")~20": 0.07142857142857142, 
+            ")~300": 0.07142857142857142, 
+            ")~5": 0.07142857142857142, 
+            ")~60": 0.14285714285714285, 
+            ")~80": 0.07142857142857142, 
+            ")~81": 0.07142857142857142, 
+            "ACID~1": 0.07142857142857142, 
+            "ALLOPURINOL~300": 0.07142857142857142, 
+            "DIGOXIN~0.25": 0.07142857142857142, 
+            "LEVOFLOXACIN~250": 0.07142857142857142
+        }, 
+        "MI": {
+            ")~s/p": 1.0
+        }, 
+        "MONONIT.(": {
+            "(~ISOSORBIDE": 1.0
+        }, 
+        "NGTD.": {
+            "from~SMH": 1.0
+        }, 
+        "NORBERT": {
+            ",~QUINTON": 1.0
+        }, 
+        "NOT": {
+            "TREATMENTS/PROCEDURES~(": 1.0
+        }, 
+        "No": {
+            "Interaction~Instruction": 0.3333333333333333, 
+            "TO~DO/PLAN:": 0.3333333333333333, 
+            "scheduled~,": 0.3333333333333333
+        }, 
+        "Notice:": {
+            "QD~Override": 0.5, 
+            "products.~Override": 0.5
+        }, 
+        "Number": {
+            "IF:~fsg<60": 0.5, 
+            "IF:~sbp<90": 0.5
+        }, 
+        "O.R.": {
+            "NOT~IN": 1.0
+        }, 
+        "O2;": {
+            "requires~FM": 1.0
+        }, 
+        "OF": {
+            "******~END": 0.5, 
+            "BRIEF~RESUME": 0.5
+        }, 
+        "ON:": {
+            "DISCHARGE~PATIENT": 1.0
+        }, 
+        "OPERATIONS": {
+            "?amiodarone~toxicity": 1.0
+        }, 
+        "ORDER": {
+            "WILL~D/C": 1.0
+        }, 
+        "ORDERS": {
+            "******~DISCHARGE": 0.5, 
+            "OF~DISCHARGE": 0.5
+        }, 
+        "OTHER": {
+            ")~chf": 0.5, 
+            "AND~PROCEDURES:": 0.5
+        }, 
+        "Override": {
+            "Alert~overridden:": 0.3333333333333333, 
+            "Override~Notice:": 0.3333333333333333, 
+            "PO~QD": 0.16666666666666666, 
+            "dairy~products.": 0.16666666666666666
+        }, 
+        "PA12": {
+            "M.D.~(": 1.0
+        }, 
+        "PATIENT": {
+            "CAR~DISCHARGE": 1.0
+        }, 
+        "PECCIA": {
+            "6/25/01~by": 1.0
+        }, 
+        "PNA": {
+            "?comm~acq": 1.0
+        }, 
+        "PO": {
+            "0.25~MG": 0.058823529411764705, 
+            "100~MG": 0.058823529411764705, 
+            "12.5~MG": 0.058823529411764705, 
+            "1~MG": 0.11764705882352941, 
+            "20~MG": 0.058823529411764705, 
+            "250~MG": 0.058823529411764705, 
+            "300~MG": 0.11764705882352941, 
+            "5~MG": 0.058823529411764705, 
+            "60~MG": 0.11764705882352941, 
+            "80~MG": 0.058823529411764705, 
+            "81~MG": 0.058823529411764705, 
+            "X~1": 0.058823529411764705, 
+            "for~COUMADIN": 0.11764705882352941
+        }, 
+        "POTENTIALLY": {
+            "&~WARFARIN": 0.3333333333333333, 
+            ",~M.D.": 0.16666666666666666, 
+            "79189197~)": 0.3333333333333333, 
+            "by~:": 0.16666666666666666
+        }, 
+        "PRINCIPAL": {
+            "DIAGNOSIS:~chf": 1.0
+        }, 
+        "PRN": {
+            "PO~BID": 1.0
+        }, 
+        "PROCEDURES:": {
+            "OPERATIONS~AND": 1.0
+        }, 
+        "Patient": {
+            "ADDITIONAL~COMMENTS:": 1.0
+        }, 
+        "Perv": {
+            "Ster~Ville": 1.0
+        }, 
+        "Policy:": {
+            "Potassium~Chloride": 1.0
+        }, 
+        "Potassium": {
+            "per~LGRH": 1.0
+        }, 
+        "Pt": {
+            "Bcx's~pending.": 1.0
+        }, 
+        "QD": {
+            "MG~PO": 1.0
+        }, 
+        "QHS": {
+            "MG~PO": 1.0
+        }, 
+        "QUINTON": {
+            "GREANY~,": 1.0
+        }, 
+        "R.": {
+            ",~KENT": 1.0
+        }, 
+        "RA": {
+            "well~on": 1.0
+        }, 
+        "RECURRENT": {
+            "affecting~Treatment/Stay": 1.0
+        }, 
+        "REL.": {
+            "KCL~SLOW": 1.0
+        }, 
+        "RESUME": {
+            "none~BRIEF": 1.0
+        }, 
+        "RETURN": {
+            "As~tolerated": 1.0
+        }, 
+        "RI": {
+            "(~in": 1.0
+        }, 
+        "Reason": {
+            "&~WARFARIN": 0.75, 
+            "ATORVASTATIN~CALCIUM": 0.25
+        }, 
+        "Repeat": {
+            "AFib~).": 1.0
+        }, 
+        "Report": {
+            "Date:~1/10/2001": 1.0
+        }, 
+        "Required": {
+            "of~Doses": 1.0
+        }, 
+        "Rocephin": {
+            "lasix~and": 1.0
+        }, 
+        "S": {
+            "UP~APPOINTMENT(": 1.0
+        }, 
+        "S/P": {
+            "AICD~(": 0.25, 
+            "MI~(": 0.25, 
+            "infection~(": 0.25, 
+            "x4~(": 0.25
+        }, 
+        "SC": {
+            "30~UNITS": 1.0
+        }, 
+        "SERIOUS": {
+            ")~POTENTIALLY": 0.3333333333333333, 
+            ":~POTENTIALLY": 0.16666666666666666, 
+            "M.D.~POTENTIALLY": 0.16666666666666666, 
+            "WARFARIN~POTENTIALLY": 0.3333333333333333
+        }, 
+        "SIMVASTATIN": {
+            "SERIOUS~INTERACTION:": 1.0
+        }, 
+        "SLOW": {
+            ")~KCL": 1.0
+        }, 
+        "SMH": {
+            "cx's~from": 1.0
+        }, 
+        "SNESUHC": {
+            "cx's~from": 1.0
+        }, 
+        "SOB": {
+            "he~developed": 1.0
+        }, 
+        "SODIUM": {
+            "(~WARFARIN": 1.0
+        }, 
+        "SR": {
+            "ISOSORBIDE~MONONIT.(": 1.0
+        }, 
+        "SUMMARY:": {
+            "THE~D/C": 1.0
+        }, 
+        "SWEERE": {
+            "ENTERED~BY:": 1.0
+        }, 
+        "Service:": {
+            "Ville~Perv": 1.0
+        }, 
+        "Shorr": {
+            ",~Dr.": 1.0
+        }, 
+        "Stable": {
+            "DISCHARGE~CONDITION:": 1.0
+        }, 
+        "Starting": {
+            "PO~QD": 1.0
+        }, 
+        "Status:": {
+            "1/10/2001~Report": 1.0
+        }, 
+        "Ster": {
+            "LOGAN~586-37-67-7": 1.0
+        }, 
+        "Study": {
+            ";Responsible~After": 1.0
+        }, 
+        "TARTRATE": {
+            "(~METOPROLOL": 1.0
+        }, 
+        "THE": {
+            "USED~AS": 1.0
+        }, 
+        "THIAMINE": {
+            "THIAMINE~(": 0.5, 
+            "empty~stomach.": 0.5
+        }, 
+        "TO": {
+            "CONDITION:~Stable": 0.5, 
+            "tolerated~RETURN": 0.5
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "PROCEDURES:~OTHER": 1.0
+        }, 
+        "Take": {
+            "Interaction~Instruction": 0.5, 
+            "after~)": 0.5
+        }, 
+        "Today": {
+            "102.4~yesterday.": 1.0
+        }, 
+        "Treatment/Stay": {
+            ",~affecting": 1.0
+        }, 
+        "Tues": {
+            "and~last": 1.0
+        }, 
+        "UNITS": {
+            ")~30": 1.0
+        }, 
+        "UP": {
+            "physician~FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "AM~CONTINGENT": 1.0
+        }, 
+        "USED": {
+            "ORDER~BE": 1.0
+        }, 
+        "VT/VFIB": {
+            "Treatment/Stay~RECURRENT": 1.0
+        }, 
+        "Ville": {
+            "586-37-67-7~Ster": 1.0
+        }, 
+        "Vitamin-K": {
+            "No~high": 1.0
+        }, 
+        "W.": {
+            ",~DANE": 1.0
+        }, 
+        "WARFARIN": {
+            "ASPIRIN~&": 0.2857142857142857, 
+            "COUMADIN~(": 0.14285714285714285, 
+            "LEVOFLOXACIN~&": 0.2857142857142857, 
+            "SERIOUS~INTERACTION:": 0.14285714285714285, 
+            "SIMVASTATIN~&": 0.14285714285714285
+        }, 
+        "WBC": {
+            "CXR~).": 1.0
+        }, 
+        "WILL": {
+            "HO~evaluation": 1.0
+        }, 
+        "WORK:": {
+            "RETURN~TO": 1.0
+        }, 
+        "Will": {
+            "PNA~).": 0.5, 
+            "fluid~overload.": 0.5
+        }, 
+        "X": {
+            "20~MEQ": 1.0
+        }, 
+        "YES": {
+            "D/C~SUMMARY:": 1.0
+        }, 
+        "acq": {
+            ",~?comm": 1.0
+        }, 
+        "added": {
+            "Notice:~Override": 0.5, 
+            "overridden:~Override": 0.5
+        }, 
+        "affecting": {
+            "Complications~,": 1.0
+        }, 
+        "after": {
+            "2~hours": 0.3333333333333333, 
+            "2~hr": 0.3333333333333333, 
+            "or~2hr": 0.3333333333333333
+        }, 
+        "ago.": {
+            "5~weeks": 1.0
+        }, 
+        "all": {
+            "(~not": 1.0
+        }, 
+        "an": {
+            "Give~on": 1.0
+        }, 
+        "and": {
+            "3~days": 0.1111111111111111, 
+            "Got~lasix": 0.1111111111111111, 
+            "Repeat~CXR": 0.1111111111111111, 
+            "are~stable": 0.1111111111111111, 
+            "became~severe": 0.1111111111111111, 
+            "perfused~)": 0.1111111111111111, 
+            "po~diuretics": 0.1111111111111111, 
+            "then~,": 0.1111111111111111, 
+            "w/ischemic~CMP": 0.1111111111111111
+        }, 
+        "anemia": {
+            ")~chronic": 0.5, 
+            "anemia~(": 0.5
+        }, 
+        "anxiety": {
+            "BID~PRN": 1.0
+        }, 
+        "approximate": {
+            "Required~(": 1.0
+        }, 
+        "are": {
+            "effusions~that": 0.5, 
+            "from~LWMH": 0.5
+        }, 
+        "artery": {
+            "(~coronary": 1.0
+        }, 
+        "aspiration": {
+            "and~?": 1.0
+        }, 
+        "assess": {
+            "need~to": 1.0
+        }, 
+        "assoc": {
+            "severe~and": 1.0
+        }, 
+        "at": {
+            "WBC~elevated": 0.2, 
+            "are~neg": 0.2, 
+            "is~pending": 0.2, 
+            "on~RA": 0.2, 
+            "to~LMH": 0.2
+        }, 
+        "atrial": {
+            "anemia~)": 0.5, 
+            "fibrillation~(": 0.5
+        }, 
+        "attention": {
+            "immediate~medical": 1.0
+        }, 
+        "back": {
+            "see~if": 1.0
+        }, 
+        "base": {
+            "in~right": 1.0
+        }, 
+        "be": {
+            "dose~to": 1.0
+        }, 
+        "beats": {
+            "not~all": 1.0
+        }, 
+        "became": {
+            ",~this": 1.0
+        }, 
+        "before": {
+            "1~hr": 0.3333333333333333, 
+            "2~hours": 0.3333333333333333, 
+            "give~1hr": 0.3333333333333333
+        }, 
+        "bibasilar": {
+            "due~to": 1.0
+        }, 
+        "bilateral": {
+            "films.~has": 1.0
+        }, 
+        "breath": {
+            "shortness~of": 1.0
+        }, 
+        "but": {
+            "base~,": 1.0
+        }, 
+        "by": {
+            "on~1/24/01": 0.25, 
+            "on~6/25/01": 0.75
+        }, 
+        "bypass": {
+            "S/P~cardiac": 1.0
+        }, 
+        "cardiac": {
+            "(~S/P": 0.5, 
+            "S/P~implanted": 0.5
+        }, 
+        "cardioverted": {
+            ",~was": 1.0
+        }, 
+        "chest": {
+            "he~develops": 1.0
+        }, 
+        "chf": {
+            "ADMIT~DIAGNOSIS:": 0.3333333333333333, 
+            "AM~|": 0.3333333333333333, 
+            "Admission~)": 0.3333333333333333
+        }, 
+        "chills": {
+            "fever~,": 1.0
+        }, 
+        "chol/low": {
+            "/~Low": 1.0
+        }, 
+        "chronic": {
+            "mellitus~)": 1.0
+        }, 
+        "consistently": {
+            "Instruction~Take": 1.0
+        }, 
+        "containing": {
+            "high~Vitamin-K": 1.0
+        }, 
+        "coronary": {
+            "CAD~(": 1.0
+        }, 
+        "coumadin": {
+            "started~on": 1.0
+        }, 
+        "course": {
+            "14~day": 1.0
+        }, 
+        "cx's": {
+            ".~10/18": 0.5, 
+            "F/U~on": 0.5
+        }, 
+        "cycle": {
+            ",~please": 1.0
+        }, 
+        "dairy": {
+            "hours~after": 1.0
+        }, 
+        "day": {
+            "and~14": 1.0
+        }, 
+        "days": {
+            "at~3": 1.0
+        }, 
+        "defibrillator": {
+            "implanted~cardiac": 1.0
+        }, 
+        "developed": {
+            ",~he": 1.0
+        }, 
+        "develops": {
+            "if~he": 1.0
+        }, 
+        "diabetes": {
+            "IDDM~(": 1.0
+        }, 
+        "dictated": {
+            "DO/PLAN:~No": 1.0
+        }, 
+        "discharge.": {
+            "time~of": 1.0
+        }, 
+        "discharged": {
+            "of~discharge.": 1.0
+        }, 
+        "disease": {
+            "coronary~artery": 1.0
+        }, 
+        "diurese": {
+            ").~Will": 1.0
+        }, 
+        "diuretics": {
+            "on~po": 1.0
+        }, 
+        "dose": {
+            "20~mEq": 1.0
+        }, 
+        "due": {
+            "Rocephin~(": 1.0
+        }, 
+        "dx": {
+            "and~AFib": 1.0
+        }, 
+        "dyslipidemia": {
+            "dyslipidemia~(": 0.5, 
+            "fibrillation~)": 0.5
+        }, 
+        "each": {
+            "Chloride~Policy:": 1.0
+        }, 
+        "effusions": {
+            "bilateral~small": 1.0
+        }, 
+        "elevated": {
+            ").~WBC": 1.0
+        }, 
+        "empirically": {
+            "Will~treat": 1.0
+        }, 
+        "empty": {
+            "on~an": 0.5, 
+            "or~on": 0.5
+        }, 
+        "evaluation": {
+            "UPON~HO": 1.0
+        }, 
+        "falls.": {
+            ",~or": 1.0
+        }, 
+        "fat": {
+            "chol/low~sat.": 1.0
+        }, 
+        "feeds": {
+            "on~tube": 1.0
+        }, 
+        "fever": {
+            "assoc~w/": 0.5, 
+            "lightheadedness~,": 0.5
+        }, 
+        "fever;": {
+            "low~grade": 1.0
+        }, 
+        "fibrillation": {
+            "(~atrial": 0.5, 
+            ")~atrial": 0.5
+        }, 
+        "films.": {
+            "from~past": 1.0
+        }, 
+        "finally": {
+            ")~and": 1.0
+        }, 
+        "fluid": {
+            "oz~of": 0.5, 
+            "stable;~mild-mod": 0.5
+        }, 
+        "food": {
+            "2hr~after": 1.0
+        }, 
+        "foods": {
+            "Vitamin-K~containing": 1.0
+        }, 
+        "for": {
+            "After~Study": 0.14285714285714285, 
+            "CALCIUM~Reason": 0.14285714285714285, 
+            "WARFARIN~Reason": 0.42857142857142855, 
+            "on~order": 0.2857142857142857
+        }, 
+        "from": {
+            "10/18~cx's": 0.25, 
+            "improvement.~BCxs": 0.25, 
+            "interval~improvement": 0.25, 
+            "on~cx's": 0.25
+        }, 
+        "fsg<60": {
+            "HOLD~IF:": 1.0
+        }, 
+        "give": {
+            "stomach~(": 1.0
+        }, 
+        "given": {
+            "to~be": 1.0
+        }, 
+        "grade": {
+            ",~low": 1.0
+        }, 
+        "graft": {
+            "cardiac~bypass": 1.0
+        }, 
+        "grapefruit": {
+            "Instruction~Avoid": 1.0
+        }, 
+        "has": {
+            "past~films.": 1.0
+        }, 
+        "he": {
+            "attention~if": 0.5, 
+            "night~,": 0.5
+        }, 
+        "high": {
+            "Instruction~No": 1.0
+        }, 
+        "his": {
+            "LMH~at": 1.0
+        }, 
+        "hold": {
+            "cycle~(": 1.0
+        }, 
+        "hours": {
+            "Take~2": 0.5, 
+            "or~2": 0.5
+        }, 
+        "hr": {
+            "hold~1": 0.5, 
+            "to~2": 0.5
+        }, 
+        "hr<55": {
+            "sbp<90~,": 1.0
+        }, 
+        "if": {
+            "medical~attention": 0.5, 
+            "to~see": 0.5
+        }, 
+        "immediate": {
+            "should~seek": 1.0
+        }, 
+        "implanted": {
+            "(~S/P": 1.0
+        }, 
+        "improvement": {
+            "showed~interval": 1.0
+        }, 
+        "improvement.": {
+            "overall~interval": 1.0
+        }, 
+        "in": {
+            "?~aspiration": 0.3333333333333333, 
+            "ED~(": 0.3333333333333333, 
+            "if~back": 0.3333333333333333
+        }, 
+        "infarction": {
+            "S/P~myocardial": 1.0
+        }, 
+        "infection": {
+            "S/P~wound": 0.5, 
+            "sternal~wound": 0.5
+        }, 
+        "infiltrates": {
+            "to~bibasilar": 1.0
+        }, 
+        "insomnia": {
+            "anxiety~or": 1.0
+        }, 
+        "instructs": {
+            "unless~MD": 1.0
+        }, 
+        "interval": {
+            "CXR~showed": 0.5, 
+            "but~overall": 0.5
+        }, 
+        "is": {
+            "and~ECHO": 1.0
+        }, 
+        "known": {
+            "for~override:": 1.0
+        }, 
+        "lasix": {
+            ").~Got": 1.0
+        }, 
+        "last": {
+            ",~and": 1.0
+        }, 
+        "levoflox.": {
+            "course~of": 1.0
+        }, 
+        "levofloxacin": {
+            "empirically~with": 1.0
+        }, 
+        "lightheadedness": {
+            "breath~,": 1.0
+        }, 
+        "local": {
+            "Appt~with": 0.5, 
+            "went~to": 0.5
+        }, 
+        "low": {
+            "Here~,": 1.0
+        }, 
+        "mEq": {
+            "each~20": 1.0
+        }, 
+        "meals": {
+            "consistently~with": 1.0
+        }, 
+        "medical": {
+            "seek~immediate": 1.0
+        }, 
+        "mellitus": {
+            "(~diabetes": 1.0
+        }, 
+        "mild-mod": {
+            "vitals~stable;": 1.0
+        }, 
+        "monitor": {
+            "override:~will": 1.0
+        }, 
+        "myocardial": {
+            "(~S/P": 1.0
+        }, 
+        "need": {
+            "finally~will": 0.5, 
+            "paced~,": 0.5
+        }, 
+        "neg": {
+            "LWMH~are": 1.0
+        }, 
+        "night": {
+            "Later~that": 1.0
+        }, 
+        "none": {
+            "O.R.~)": 1.0
+        }, 
+        "not": {
+            "rhythm~(": 1.0
+        }, 
+        "of": {
+            ",~shortness": 0.14285714285714285, 
+            "4~oz": 0.14285714285714285, 
+            "at~time": 0.2857142857142857, 
+            "day~course": 0.14285714285714285, 
+            "fsg<60~Number": 0.14285714285714285, 
+            "sbp<90~Number": 0.14285714285714285
+        }, 
+        "on": {
+            ",~M.D.": 0.14285714285714285, 
+            "Instruction~Give": 0.07142857142857142, 
+            "Instruction~If": 0.07142857142857142, 
+            "Override~added": 0.2857142857142857, 
+            "and~F/U": 0.07142857142857142, 
+            "bibasilar~infiltrates": 0.07142857142857142, 
+            "discharge.~discharged": 0.07142857142857142, 
+            "meals~or": 0.07142857142857142, 
+            "sating~well": 0.07142857142857142, 
+            "was~started": 0.07142857142857142
+        }, 
+        "or": {
+            "1hr~before": 0.2, 
+            "PRN~anxiety": 0.2, 
+            "hours~before": 0.2, 
+            "palpitations~,": 0.2, 
+            "with~meals": 0.2
+        }, 
+        "order": {
+            "M.D.~on": 1.0
+        }, 
+        "otherwise.": {
+            "MD~instructs": 1.0
+        }, 
+        "overall": {
+            ",~but": 1.0
+        }, 
+        "overload.": {
+            "mild-mod~fluid": 1.0
+        }, 
+        "overridden:": {
+            "QD~Alert": 0.5, 
+            "foods~Alert": 0.5
+        }, 
+        "override:": {
+            "Reason~for": 1.0
+        }, 
+        "oz": {
+            "with~4": 1.0
+        }, 
+        "paced": {
+            "all~beats": 1.0
+        }, 
+        "pain": {
+            "develops~chest": 1.0
+        }, 
+        "palpitations": {
+            "chills~,": 1.0
+        }, 
+        "past": {
+            "improvement~from": 1.0
+        }, 
+        "pending": {
+            "ECHO~is": 1.0
+        }, 
+        "pending.": {
+            ",~Bcx's": 1.0
+        }, 
+        "per": {
+            "BID~As": 1.0
+        }, 
+        "perfused": {
+            "(~well": 1.0
+        }, 
+        "physician": {
+            "with~local": 1.0
+        }, 
+        "please": {
+            "feeds~,": 1.0
+        }, 
+        "po": {
+            "discharged~on": 1.0
+        }, 
+        "products.": {
+            "after~dairy": 1.0
+        }, 
+        "ref": {
+            "PO~(": 1.0
+        }, 
+        "request.": {
+            "at~his": 1.0
+        }, 
+        "requires": {
+            "grade~fever;": 1.0
+        }, 
+        "resection": {
+            "s/p~sternum": 1.0
+        }, 
+        "rhythm": {
+            "assess~underlying": 1.0
+        }, 
+        "right": {
+            "aspiration~in": 1.0
+        }, 
+        "s/p": {
+            "defibrillator~)": 0.2, 
+            "disease~)": 0.2, 
+            "infarction~)": 0.2, 
+            "infection~)": 0.2, 
+            "surgery~)": 0.2
+        }, 
+        "sat.": {
+            "Low~chol/low": 1.0
+        }, 
+        "sating": {
+            "of~levoflox.": 1.0
+        }, 
+        "sbp<90": {
+            "HOLD~IF:": 1.0
+        }, 
+        "scheduled": {
+            "Shorr~10/18/01": 1.0
+        }, 
+        "see": {
+            "need~to": 1.0
+        }, 
+        "seek": {
+            "Patient~should": 1.0
+        }, 
+        "sent": {
+            "Pt~was": 1.0
+        }, 
+        "severe": {
+            "this~became": 1.0
+        }, 
+        "shortness": {
+            "pain~,": 1.0
+        }, 
+        "should": {
+            "COMMENTS:~Patient": 1.0
+        }, 
+        "showed": {
+            "NGTD.~CXR": 1.0
+        }, 
+        "small": {
+            "has~bilateral": 1.0
+        }, 
+        "stable": {
+            "that~are": 1.0
+        }, 
+        "stable;": {
+            "O2;~vitals": 1.0
+        }, 
+        "started": {
+            "He~was": 1.0
+        }, 
+        "sternal": {
+            ")~s/p": 1.0
+        }, 
+        "sternum": {
+            ")~s/p": 1.0
+        }, 
+        "stomach": {
+            "an~empty": 1.0
+        }, 
+        "stomach.": {
+            "on~empty": 1.0
+        }, 
+        "summary": {
+            "No~dictated": 1.0
+        }, 
+        "surgery": {
+            "bypass~graft": 1.0
+        }, 
+        "that": {
+            ").~Later": 0.5, 
+            "small~effusions": 0.5
+        }, 
+        "the": {
+            "(~via": 1.0
+        }, 
+        "then": {
+            "on~coumadin": 1.0
+        }, 
+        "this": {
+            "SOB~,": 1.0
+        }, 
+        "time": {
+            "RA~at": 0.5, 
+            "pending~at": 0.5
+        }, 
+        "to": {
+            "(~due": 0.125, 
+            ",~need": 0.125, 
+            ",~went": 0.125, 
+            "hr~before": 0.125, 
+            "mEq~dose": 0.125, 
+            "w/~fever": 0.125, 
+            "was~sent": 0.125, 
+            "will~need": 0.125
+        }, 
+        "tolerated": {
+            "-~As": 1.0
+        }, 
+        "toxicity": {
+            ")~?amiodarone": 1.0
+        }, 
+        "treat": {
+            "overload.~Will": 1.0
+        }, 
+        "tube": {
+            "If~on": 1.0
+        }, 
+        "underlying": {
+            "to~assess": 1.0
+        }, 
+        "unless": {
+            "Avoid~grapefruit": 1.0
+        }, 
+        "via": {
+            "cardioverted~(": 1.0
+        }, 
+        "vitals": {
+            "FM~O2;": 1.0
+        }, 
+        "w/": {
+            "and~assoc": 1.0
+        }, 
+        "w/ischemic": {
+            "yo~M": 1.0
+        }, 
+        "was": {
+            "Tues~,": 0.3333333333333333, 
+            "ago.~He": 0.3333333333333333, 
+            "pending.~Pt": 0.3333333333333333
+        }, 
+        "weeks": {
+            "Gaines~1": 0.5, 
+            "dx~5": 0.5
+        }, 
+        "well": {
+            "diurese~(": 0.5, 
+            "levoflox.~sating": 0.5
+        }, 
+        "went": {
+            "Today~,": 1.0
+        }, 
+        "will": {
+            "and~finally": 0.25, 
+            "for~override:": 0.75
+        }, 
+        "with": {
+            "After~Appt": 0.25, 
+            "Take~consistently": 0.25, 
+            "be~given": 0.25, 
+            "treat~empirically": 0.25
+        }, 
+        "wound": {
+            "(~S/P": 0.5, 
+            "s/p~sternal": 0.5
+        }, 
+        "x4": {
+            "s/p~CABG": 1.0
+        }, 
+        "yesterday.": {
+            "to~102.4": 1.0
+        }, 
+        "yo": {
+            "COURSE:~60": 1.0
+        }, 
+        "|": {
+            "12:00:00~AM": 0.1111111111111111, 
+            "61377777~|": 0.1111111111111111, 
+            "chf~|": 0.1111111111111111, 
+            "|~377097": 0.1111111111111111, 
+            "|~61377777": 0.1111111111111111, 
+            "|~DIS": 0.1111111111111111, 
+            "|~FHC": 0.1111111111111111, 
+            "|~chf": 0.1111111111111111, 
+            "~059749018": 0.1111111111111111
+        }
+    }, 
+    "type": "data/train", 
+    "uni": {
+        "": 0.001160092807424594, 
+        "#": 0.002320185614849188, 
+        "&": 0.0069605568445475635, 
+        "(": 0.04060324825986079, 
+        ")": 0.03480278422273782, 
+        ").": 0.00580046403712297, 
+        "):": 0.0034802784222737818, 
+        "******": 0.0034802784222737818, 
+        ",": 0.03944315545243619, 
+        "-": 0.001160092807424594, 
+        ".": 0.001160092807424594, 
+        "/": 0.001160092807424594, 
+        "0.25": 0.001160092807424594, 
+        "059749018": 0.001160092807424594, 
+        "09": 0.001160092807424594, 
+        "1": 0.00580046403712297, 
+        "1/10/2001": 0.002320185614849188, 
+        "1/24/01": 0.0034802784222737818, 
+        "10": 0.001160092807424594, 
+        "10/18": 0.001160092807424594, 
+        "10/18/01": 0.001160092807424594, 
+        "10/5/2001": 0.001160092807424594, 
+        "100": 0.001160092807424594, 
+        "102.4": 0.001160092807424594, 
+        "10:00": 0.001160092807424594, 
+        "11/3": 0.001160092807424594, 
+        "12.2": 0.001160092807424594, 
+        "12.5": 0.001160092807424594, 
+        "12:00:00": 0.001160092807424594, 
+        "14": 0.001160092807424594, 
+        "1hr": 0.001160092807424594, 
+        "2": 0.0034802784222737818, 
+        "20": 0.0034802784222737818, 
+        "250": 0.001160092807424594, 
+        "2hr": 0.001160092807424594, 
+        "3": 0.001160092807424594, 
+        "30": 0.001160092807424594, 
+        "300": 0.002320185614849188, 
+        "377097": 0.001160092807424594, 
+        "4": 0.001160092807424594, 
+        "5": 0.0034802784222737818, 
+        "586-37-67-7": 0.001160092807424594, 
+        "6/25/01": 0.0034802784222737818, 
+        "60": 0.0034802784222737818, 
+        "61377777": 0.001160092807424594, 
+        "70/30": 0.001160092807424594, 
+        "79189197": 0.002320185614849188, 
+        "80": 0.001160092807424594, 
+        "81": 0.001160092807424594, 
+        ":": 0.001160092807424594, 
+        ";Responsible": 0.001160092807424594, 
+        "?": 0.001160092807424594, 
+        "?amiodarone": 0.001160092807424594, 
+        "?aspiration": 0.001160092807424594, 
+        "?comm": 0.001160092807424594, 
+        "@": 0.001160092807424594, 
+        "ACETYLSALICYLIC": 0.001160092807424594, 
+        "ACID": 0.002320185614849188, 
+        "ADDITIONAL": 0.001160092807424594, 
+        "ADMIT": 0.001160092807424594, 
+        "AFib": 0.002320185614849188, 
+        "AICD": 0.002320185614849188, 
+        "ALLEGRA": 0.001160092807424594, 
+        "ALLOPURINOL": 0.001160092807424594, 
+        "AM": 0.0034802784222737818, 
+        "AND": 0.001160092807424594, 
+        "APPOINTMENT(": 0.001160092807424594, 
+        "AS": 0.001160092807424594, 
+        "ASA": 0.001160092807424594, 
+        "ASPIRIN": 0.002320185614849188, 
+        "AT": 0.001160092807424594, 
+        "ATIVAN": 0.001160092807424594, 
+        "ATORVASTATIN": 0.002320185614849188, 
+        "AVAPRO": 0.001160092807424594, 
+        "Activity": 0.001160092807424594, 
+        "Admission": 0.002320185614849188, 
+        "After": 0.002320185614849188, 
+        "Alert": 0.002320185614849188, 
+        "Allergies": 0.001160092807424594, 
+        "Appt": 0.001160092807424594, 
+        "As": 0.002320185614849188, 
+        "Attending:": 0.001160092807424594, 
+        "Avoid": 0.001160092807424594, 
+        "BCxs": 0.001160092807424594, 
+        "BE": 0.001160092807424594, 
+        "BID": 0.00580046403712297, 
+        "BRIEF": 0.001160092807424594, 
+        "BY:": 0.001160092807424594, 
+        "Bcx's": 0.001160092807424594, 
+        "CABG": 0.001160092807424594, 
+        "CAD": 0.001160092807424594, 
+        "CALCIUM": 0.001160092807424594, 
+        "CAR": 0.001160092807424594, 
+        "CMP": 0.001160092807424594, 
+        "COMMENTS:": 0.001160092807424594, 
+        "CONDITION:": 0.001160092807424594, 
+        "CONTINGENT": 0.001160092807424594, 
+        "COUMADIN": 0.0034802784222737818, 
+        "COURSE:": 0.001160092807424594, 
+        "CXR": 0.0034802784222737818, 
+        "CZAPLINSKI": 0.001160092807424594, 
+        "Causing": 0.001160092807424594, 
+        "Chloride": 0.001160092807424594, 
+        "Complications": 0.001160092807424594, 
+        "D.": 0.001160092807424594, 
+        "D/C": 0.002320185614849188, 
+        "DANE": 0.001160092807424594, 
+        "DIAGNOSIS": 0.001160092807424594, 
+        "DIAGNOSIS:": 0.001160092807424594, 
+        "DIAGNOSIS;Conditions": 0.001160092807424594, 
+        "DIET:": 0.001160092807424594, 
+        "DIGOXIN": 0.001160092807424594, 
+        "DIS": 0.001160092807424594, 
+        "DISCHARGE": 0.0069605568445475635, 
+        "DISPOSITION:": 0.001160092807424594, 
+        "DO/PLAN:": 0.001160092807424594, 
+        "Date:": 0.002320185614849188, 
+        "Discharge": 0.001160092807424594, 
+        "Doses": 0.002320185614849188, 
+        "Dr.": 0.002320185614849188, 
+        "ECHO": 0.001160092807424594, 
+        "ED": 0.001160092807424594, 
+        "END": 0.001160092807424594, 
+        "ENTERED": 0.001160092807424594, 
+        "F/U": 0.001160092807424594, 
+        "FEXOFENADINE": 0.001160092807424594, 
+        "FHC": 0.001160092807424594, 
+        "FM": 0.001160092807424594, 
+        "FOLIC": 0.001160092807424594, 
+        "FOLLOW": 0.001160092807424594, 
+        "FUROSEMIDE": 0.001160092807424594, 
+        "Food/Drug": 0.00580046403712297, 
+        "GARLAND": 0.001160092807424594, 
+        "GREANY": 0.001160092807424594, 
+        "Gaines": 0.001160092807424594, 
+        "Give": 0.001160092807424594, 
+        "Got": 0.001160092807424594, 
+        "HCL": 0.002320185614849188, 
+        "HO": 0.001160092807424594, 
+        "HOLD": 0.004640371229698376, 
+        "HOSPITAL": 0.001160092807424594, 
+        "HUMAN": 0.001160092807424594, 
+        "He": 0.001160092807424594, 
+        "Here": 0.001160092807424594, 
+        "Home": 0.001160092807424594, 
+        "House": 0.001160092807424594, 
+        "IAN": 0.001160092807424594, 
+        "IDDM": 0.001160092807424594, 
+        "IF:": 0.004640371229698376, 
+        "IMDUR": 0.001160092807424594, 
+        "IN": 0.002320185614849188, 
+        "INSULIN": 0.001160092807424594, 
+        "INTERACTION:": 0.0069605568445475635, 
+        "IRBESARTAN": 0.001160092807424594, 
+        "ISOSORBIDE": 0.001160092807424594, 
+        "If": 0.001160092807424594, 
+        "Infections": 0.001160092807424594, 
+        "Instruction": 0.00580046403712297, 
+        "Interaction": 0.00580046403712297, 
+        "KAZEE": 0.001160092807424594, 
+        "KCL": 0.001160092807424594, 
+        "KENT": 0.001160092807424594, 
+        "Known": 0.001160092807424594, 
+        "LASIX": 0.001160092807424594, 
+        "LEVOFLOXACIN": 0.0034802784222737818, 
+        "LGRH": 0.001160092807424594, 
+        "LIPITOR": 0.001160092807424594, 
+        "LLANES": 0.001160092807424594, 
+        "LMH": 0.001160092807424594, 
+        "LOGAN": 0.001160092807424594, 
+        "LOPRESSOR": 0.001160092807424594, 
+        "LORAZEPAM": 0.001160092807424594, 
+        "LWMH": 0.001160092807424594, 
+        "Later": 0.001160092807424594, 
+        "Low": 0.001160092807424594, 
+        "M": 0.001160092807424594, 
+        "M.": 0.001160092807424594, 
+        "M.D.": 0.00580046403712297, 
+        "MD": 0.001160092807424594, 
+        "MEDICATIONS:": 0.001160092807424594, 
+        "MEQ": 0.001160092807424594, 
+        "METOPROLOL": 0.001160092807424594, 
+        "MG": 0.016241299303944315, 
+        "MI": 0.001160092807424594, 
+        "MONONIT.(": 0.001160092807424594, 
+        "NGTD.": 0.001160092807424594, 
+        "NORBERT": 0.001160092807424594, 
+        "NOT": 0.001160092807424594, 
+        "No": 0.0034802784222737818, 
+        "Notice:": 0.002320185614849188, 
+        "Number": 0.002320185614849188, 
+        "O.R.": 0.001160092807424594, 
+        "O2;": 0.001160092807424594, 
+        "OF": 0.002320185614849188, 
+        "ON:": 0.001160092807424594, 
+        "OPERATIONS": 0.001160092807424594, 
+        "ORDER": 0.001160092807424594, 
+        "ORDERS": 0.001160092807424594, 
+        "OTHER": 0.002320185614849188, 
+        "Override": 0.0069605568445475635, 
+        "PA12": 0.001160092807424594, 
+        "PATIENT": 0.001160092807424594, 
+        "PECCIA": 0.001160092807424594, 
+        "PNA": 0.001160092807424594, 
+        "PO": 0.019721577726218097, 
+        "POTENTIALLY": 0.0069605568445475635, 
+        "PRINCIPAL": 0.001160092807424594, 
+        "PRN": 0.001160092807424594, 
+        "PROCEDURES:": 0.001160092807424594, 
+        "Patient": 0.001160092807424594, 
+        "Perv": 0.001160092807424594, 
+        "Policy:": 0.001160092807424594, 
+        "Potassium": 0.001160092807424594, 
+        "Pt": 0.001160092807424594, 
+        "QD": 0.01160092807424594, 
+        "QHS": 0.001160092807424594, 
+        "QUINTON": 0.001160092807424594, 
+        "R.": 0.001160092807424594, 
+        "RA": 0.001160092807424594, 
+        "RECURRENT": 0.001160092807424594, 
+        "REL.": 0.001160092807424594, 
+        "RESUME": 0.001160092807424594, 
+        "RETURN": 0.001160092807424594, 
+        "RI": 0.001160092807424594, 
+        "Reason": 0.004640371229698376, 
+        "Repeat": 0.001160092807424594, 
+        "Report": 0.001160092807424594, 
+        "Required": 0.002320185614849188, 
+        "Rocephin": 0.001160092807424594, 
+        "S": 0.001160092807424594, 
+        "S/P": 0.004640371229698376, 
+        "SC": 0.001160092807424594, 
+        "SERIOUS": 0.0069605568445475635, 
+        "SIMVASTATIN": 0.001160092807424594, 
+        "SLOW": 0.001160092807424594, 
+        "SMH": 0.001160092807424594, 
+        "SNESUHC": 0.001160092807424594, 
+        "SOB": 0.001160092807424594, 
+        "SODIUM": 0.001160092807424594, 
+        "SR": 0.001160092807424594, 
+        "SUMMARY:": 0.001160092807424594, 
+        "SWEERE": 0.001160092807424594, 
+        "Service:": 0.001160092807424594, 
+        "Shorr": 0.001160092807424594, 
+        "Stable": 0.001160092807424594, 
+        "Starting": 0.001160092807424594, 
+        "Status:": 0.001160092807424594, 
+        "Ster": 0.001160092807424594, 
+        "Study": 0.001160092807424594, 
+        "TARTRATE": 0.001160092807424594, 
+        "THE": 0.001160092807424594, 
+        "THIAMINE": 0.002320185614849188, 
+        "TO": 0.002320185614849188, 
+        "TREATMENTS/PROCEDURES": 0.001160092807424594, 
+        "Take": 0.002320185614849188, 
+        "Today": 0.001160092807424594, 
+        "Treatment/Stay": 0.001160092807424594, 
+        "Tues": 0.001160092807424594, 
+        "UNITS": 0.001160092807424594, 
+        "UP": 0.001160092807424594, 
+        "UPON": 0.001160092807424594, 
+        "USED": 0.001160092807424594, 
+        "VT/VFIB": 0.001160092807424594, 
+        "Ville": 0.001160092807424594, 
+        "Vitamin-K": 0.001160092807424594, 
+        "W.": 0.001160092807424594, 
+        "WARFARIN": 0.008120649651972157, 
+        "WBC": 0.001160092807424594, 
+        "WILL": 0.001160092807424594, 
+        "WORK:": 0.001160092807424594, 
+        "Will": 0.002320185614849188, 
+        "X": 0.001160092807424594, 
+        "YES": 0.001160092807424594, 
+        "acq": 0.001160092807424594, 
+        "added": 0.004640371229698376, 
+        "affecting": 0.001160092807424594, 
+        "after": 0.0034802784222737818, 
+        "ago.": 0.001160092807424594, 
+        "all": 0.001160092807424594, 
+        "an": 0.001160092807424594, 
+        "and": 0.010440835266821345, 
+        "anemia": 0.002320185614849188, 
+        "anxiety": 0.001160092807424594, 
+        "approximate": 0.002320185614849188, 
+        "are": 0.002320185614849188, 
+        "artery": 0.001160092807424594, 
+        "aspiration": 0.001160092807424594, 
+        "assess": 0.001160092807424594, 
+        "assoc": 0.001160092807424594, 
+        "at": 0.00580046403712297, 
+        "atrial": 0.002320185614849188, 
+        "attention": 0.001160092807424594, 
+        "back": 0.001160092807424594, 
+        "base": 0.001160092807424594, 
+        "be": 0.001160092807424594, 
+        "beats": 0.001160092807424594, 
+        "became": 0.001160092807424594, 
+        "before": 0.0034802784222737818, 
+        "bibasilar": 0.001160092807424594, 
+        "bilateral": 0.001160092807424594, 
+        "breath": 0.001160092807424594, 
+        "but": 0.001160092807424594, 
+        "by": 0.004640371229698376, 
+        "bypass": 0.001160092807424594, 
+        "cardiac": 0.002320185614849188, 
+        "cardioverted": 0.001160092807424594, 
+        "chest": 0.001160092807424594, 
+        "chf": 0.0034802784222737818, 
+        "chills": 0.001160092807424594, 
+        "chol/low": 0.001160092807424594, 
+        "chronic": 0.001160092807424594, 
+        "consistently": 0.001160092807424594, 
+        "containing": 0.001160092807424594, 
+        "coronary": 0.001160092807424594, 
+        "coumadin": 0.001160092807424594, 
+        "course": 0.001160092807424594, 
+        "cx's": 0.002320185614849188, 
+        "cycle": 0.001160092807424594, 
+        "dairy": 0.001160092807424594, 
+        "day": 0.001160092807424594, 
+        "days": 0.001160092807424594, 
+        "defibrillator": 0.001160092807424594, 
+        "developed": 0.001160092807424594, 
+        "develops": 0.001160092807424594, 
+        "diabetes": 0.001160092807424594, 
+        "dictated": 0.001160092807424594, 
+        "discharge.": 0.002320185614849188, 
+        "discharged": 0.001160092807424594, 
+        "disease": 0.001160092807424594, 
+        "diurese": 0.001160092807424594, 
+        "diuretics": 0.001160092807424594, 
+        "dose": 0.001160092807424594, 
+        "due": 0.001160092807424594, 
+        "dx": 0.001160092807424594, 
+        "dyslipidemia": 0.002320185614849188, 
+        "each": 0.001160092807424594, 
+        "effusions": 0.001160092807424594, 
+        "elevated": 0.001160092807424594, 
+        "empirically": 0.001160092807424594, 
+        "empty": 0.002320185614849188, 
+        "evaluation": 0.001160092807424594, 
+        "falls.": 0.001160092807424594, 
+        "fat": 0.001160092807424594, 
+        "feeds": 0.001160092807424594, 
+        "fever": 0.002320185614849188, 
+        "fever;": 0.001160092807424594, 
+        "fibrillation": 0.002320185614849188, 
+        "films.": 0.001160092807424594, 
+        "finally": 0.001160092807424594, 
+        "fluid": 0.002320185614849188, 
+        "food": 0.001160092807424594, 
+        "foods": 0.001160092807424594, 
+        "for": 0.008120649651972157, 
+        "from": 0.004640371229698376, 
+        "fsg<60": 0.001160092807424594, 
+        "give": 0.001160092807424594, 
+        "given": 0.001160092807424594, 
+        "grade": 0.001160092807424594, 
+        "graft": 0.001160092807424594, 
+        "grapefruit": 0.001160092807424594, 
+        "has": 0.001160092807424594, 
+        "he": 0.002320185614849188, 
+        "high": 0.001160092807424594, 
+        "his": 0.001160092807424594, 
+        "hold": 0.001160092807424594, 
+        "hours": 0.002320185614849188, 
+        "hr": 0.002320185614849188, 
+        "hr<55": 0.001160092807424594, 
+        "if": 0.002320185614849188, 
+        "immediate": 0.001160092807424594, 
+        "implanted": 0.001160092807424594, 
+        "improvement": 0.001160092807424594, 
+        "improvement.": 0.001160092807424594, 
+        "in": 0.0034802784222737818, 
+        "infarction": 0.001160092807424594, 
+        "infection": 0.002320185614849188, 
+        "infiltrates": 0.001160092807424594, 
+        "insomnia": 0.001160092807424594, 
+        "instructs": 0.001160092807424594, 
+        "interval": 0.002320185614849188, 
+        "is": 0.001160092807424594, 
+        "known": 0.001160092807424594, 
+        "lasix": 0.001160092807424594, 
+        "last": 0.001160092807424594, 
+        "levoflox.": 0.001160092807424594, 
+        "levofloxacin": 0.001160092807424594, 
+        "lightheadedness": 0.001160092807424594, 
+        "local": 0.002320185614849188, 
+        "low": 0.001160092807424594, 
+        "mEq": 0.001160092807424594, 
+        "meals": 0.001160092807424594, 
+        "medical": 0.001160092807424594, 
+        "mellitus": 0.001160092807424594, 
+        "mild-mod": 0.001160092807424594, 
+        "monitor": 0.0034802784222737818, 
+        "myocardial": 0.001160092807424594, 
+        "need": 0.002320185614849188, 
+        "neg": 0.001160092807424594, 
+        "night": 0.001160092807424594, 
+        "none": 0.001160092807424594, 
+        "not": 0.001160092807424594, 
+        "of": 0.008120649651972157, 
+        "on": 0.016241299303944315, 
+        "or": 0.00580046403712297, 
+        "order": 0.002320185614849188, 
+        "otherwise.": 0.001160092807424594, 
+        "overall": 0.001160092807424594, 
+        "overload.": 0.001160092807424594, 
+        "overridden:": 0.002320185614849188, 
+        "override:": 0.004640371229698376, 
+        "oz": 0.001160092807424594, 
+        "paced": 0.001160092807424594, 
+        "pain": 0.001160092807424594, 
+        "palpitations": 0.001160092807424594, 
+        "past": 0.001160092807424594, 
+        "pending": 0.001160092807424594, 
+        "pending.": 0.001160092807424594, 
+        "per": 0.001160092807424594, 
+        "perfused": 0.001160092807424594, 
+        "physician": 0.001160092807424594, 
+        "please": 0.001160092807424594, 
+        "po": 0.001160092807424594, 
+        "products.": 0.001160092807424594, 
+        "ref": 0.002320185614849188, 
+        "request.": 0.001160092807424594, 
+        "requires": 0.001160092807424594, 
+        "resection": 0.001160092807424594, 
+        "rhythm": 0.001160092807424594, 
+        "right": 0.001160092807424594, 
+        "s/p": 0.00580046403712297, 
+        "sat.": 0.001160092807424594, 
+        "sating": 0.001160092807424594, 
+        "sbp<90": 0.0034802784222737818, 
+        "scheduled": 0.001160092807424594, 
+        "see": 0.001160092807424594, 
+        "seek": 0.001160092807424594, 
+        "sent": 0.001160092807424594, 
+        "severe": 0.001160092807424594, 
+        "shortness": 0.001160092807424594, 
+        "should": 0.001160092807424594, 
+        "showed": 0.001160092807424594, 
+        "small": 0.001160092807424594, 
+        "stable": 0.001160092807424594, 
+        "stable;": 0.001160092807424594, 
+        "started": 0.001160092807424594, 
+        "sternal": 0.001160092807424594, 
+        "sternum": 0.001160092807424594, 
+        "stomach": 0.001160092807424594, 
+        "stomach.": 0.001160092807424594, 
+        "summary": 0.001160092807424594, 
+        "surgery": 0.001160092807424594, 
+        "that": 0.002320185614849188, 
+        "the": 0.001160092807424594, 
+        "then": 0.001160092807424594, 
+        "this": 0.001160092807424594, 
+        "time": 0.002320185614849188, 
+        "to": 0.009280742459396751, 
+        "tolerated": 0.001160092807424594, 
+        "toxicity": 0.001160092807424594, 
+        "treat": 0.001160092807424594, 
+        "tube": 0.001160092807424594, 
+        "underlying": 0.001160092807424594, 
+        "unless": 0.001160092807424594, 
+        "via": 0.001160092807424594, 
+        "vitals": 0.001160092807424594, 
+        "w/": 0.001160092807424594, 
+        "w/ischemic": 0.001160092807424594, 
+        "was": 0.0034802784222737818, 
+        "weeks": 0.002320185614849188, 
+        "well": 0.002320185614849188, 
+        "went": 0.001160092807424594, 
+        "will": 0.004640371229698376, 
+        "with": 0.004640371229698376, 
+        "wound": 0.002320185614849188, 
+        "x4": 0.001160092807424594, 
+        "yesterday.": 0.001160092807424594, 
+        "yo": 0.001160092807424594, 
+        "|": 0.010440835266821345
+    }
+}

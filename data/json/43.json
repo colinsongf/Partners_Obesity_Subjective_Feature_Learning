@@ -1,0 +1,3256 @@
+{
+    "bi": {
+        "#asthma#": {
+            "(": 0.2, 
+            ",": 0.2, 
+            "Pulm:": 0.2, 
+            "TAPERS": 0.2, 
+            "her": 0.2
+        }, 
+        "#obese#": {
+            "Treatment/Stay": 0.5, 
+            "with": 0.5
+        }, 
+        "(": {
+            "#asthma#": 0.0625, 
+            "1/150": 0.0625, 
+            "250/50": 0.0625, 
+            "?diabetes": 0.0625, 
+            "ASA": 0.0625, 
+            "Domke": 0.0625, 
+            "M.D.": 0.0625, 
+            "OSA": 0.0625, 
+            "PLAVIX": 0.0625, 
+            "TREATMENTS/PROCEDURES": 0.0625, 
+            "Today": 0.0625, 
+            "ZOCOR": 0.0625, 
+            "ZOLOFT": 0.0625, 
+            "pain": 0.0625, 
+            "prescription": 0.0625, 
+            "weeks": 0.0625
+        }, 
+        ")": {
+            "#asthma#": 0.05263157894736842, 
+            "1": 0.05263157894736842, 
+            "2": 0.05263157894736842, 
+            "3": 0.05263157894736842, 
+            "3/7": 0.05263157894736842, 
+            "Admission": 0.05263157894736842, 
+            "CLOPIDOGREL": 0.05263157894736842, 
+            "COATED": 0.05263157894736842, 
+            "FW96": 0.05263157894736842, 
+            "MG": 0.05263157894736842, 
+            "O.R.": 0.05263157894736842, 
+            "PROPIONATE/...": 0.05263157894736842, 
+            "SERTRALINE": 0.05263157894736842, 
+            "SIMVASTATIN": 0.05263157894736842, 
+            "apnea": 0.05263157894736842, 
+            "cardiology": 0.05263157894736842, 
+            "mellitus": 0.05263157894736842, 
+            "office": 0.05263157894736842, 
+            "physician": 0.05263157894736842
+        }, 
+        ").": {
+            "prescription": 1.0
+        }, 
+        "):": {
+            "S": 1.0
+        }, 
+        "******": {
+            "9/22/2004": 0.3333333333333333, 
+            "ORDERS": 0.3333333333333333, 
+            "PM": 0.3333333333333333
+        }, 
+        "+++++++++++++++++++++++++++++++++++++++++++++++++": {
+            "stent.": 1.0
+        }, 
+        ",": {
+            "#asthma#": 0.038461538461538464, 
+            "#obese#": 0.038461538461538464, 
+            ")": 0.038461538461538464, 
+            "CAPPO": 0.038461538461538464, 
+            "Complications": 0.038461538461538464, 
+            "DIAGNOSIS;Conditions": 0.038461538461538464, 
+            "FENISON": 0.038461538461538464, 
+            "Infections": 0.038461538461538464, 
+            "K.": 0.038461538461538464, 
+            "R.": 0.038461538461538464, 
+            "TREVOR": 0.038461538461538464, 
+            "asa": 0.038461538461538464, 
+            "bb": 0.038461538461538464, 
+            "breath": 0.038461538461538464, 
+            "day": 0.11538461538461539, 
+            "exacerbation": 0.038461538461538464, 
+            "htn": 0.038461538461538464, 
+            "n/v": 0.038461538461538464, 
+            "obs": 0.038461538461538464, 
+            "pains": 0.038461538461538464, 
+            "set": 0.038461538461538464, 
+            "statin": 0.038461538461538464, 
+            "weeks": 0.038461538461538464, 
+            "zoloft": 0.038461538461538464
+        }, 
+        "-cont": {
+            "NSTEMI": 0.5, 
+            "d/c": 0.5
+        }, 
+        "-held": {
+            "plavix": 1.0
+        }, 
+        "-initially": {
+            "outpt.": 1.0
+        }, 
+        "-on": {
+            "#asthma#": 1.0
+        }, 
+        "-pt": {
+            "stopped": 1.0
+        }, 
+        "/": {
+            "House": 1.0
+        }, 
+        "0.4": {
+            "(": 1.0
+        }, 
+        "02022883": {
+            "|": 1.0
+        }, 
+        "02:33": {
+            "@": 1.0
+        }, 
+        "04:00": {
+            "AT": 1.0
+        }, 
+        "1": {
+            ")": 0.6666666666666666, 
+            "SYTEMS": 0.3333333333333333
+        }, 
+        "1-2": {
+            "in": 0.5, 
+            "physician": 0.5
+        }, 
+        "1/150": {
+            "NITROGLYCERIN": 1.0
+        }, 
+        "10/22/04": {
+            ")": 0.5, 
+            "ON:": 0.5
+        }, 
+        "100": {
+            "than": 1.0
+        }, 
+        "120": {
+            "CD": 0.5, 
+            "SR": 0.5
+        }, 
+        "12:00:00": {
+            "2/28/2004": 1.0
+        }, 
+        "1885239": {
+            "|": 1.0
+        }, 
+        "18h": {
+            "x": 1.0
+        }, 
+        "2": {
+            "X": 0.5, 
+            "cath": 0.5
+        }, 
+        "2-4": {
+            "Alliance": 0.5, 
+            "in": 0.5
+        }, 
+        "2/28/2004": {
+            "Date:": 0.5, 
+            "|": 0.5
+        }, 
+        "25": {
+            "HYDROCHLOROTHIAZIDE": 1.0
+        }, 
+        "250/50": {
+            "DISKUS": 1.0
+        }, 
+        "254723124": {
+            "": 1.0
+        }, 
+        "3": {
+            "inhalers": 1.0
+        }, 
+        "3/7": {
+            "(": 1.0
+        }, 
+        "325": {
+            ")": 0.5, 
+            "aspirin": 0.5
+        }, 
+        "399-30-62-7": {
+            "CARMELO": 1.0
+        }, 
+        "40": {
+            ")": 0.5, 
+            "zocor": 0.5
+        }, 
+        "45yoF": {
+            "COURSE:": 1.0
+        }, 
+        "50": {
+            ")": 0.5, 
+            "TRAZODONE": 0.5
+        }, 
+        "60": {
+            "PREDNISONE": 0.5, 
+            "prednisone": 0.5
+        }, 
+        "75": {
+            ")": 0.5, 
+            "plavix": 0.5
+        }, 
+        "9/22/2004": {
+            "Date:": 1.0
+        }, 
+        ";Responsible": {
+            "DIAGNOSIS": 1.0
+        }, 
+        "?": {
+            "(": 1.0
+        }, 
+        "?diabetes": {
+            ")": 1.0
+        }, 
+        "@": {
+            "10/22/04": 1.0
+        }, 
+        "ACTIVITY:": {
+            "fat": 1.0
+        }, 
+        "ADDITIONAL": {
+            "cardiologist.": 1.0
+        }, 
+        "ADMIT": {
+            "Penicillins": 1.0
+        }, 
+        "ADVAIR": {
+            "procedure.": 1.0
+        }, 
+        "ALLERGY:": {
+            ",": 1.0
+        }, 
+        "AM": {
+            "12:00:00": 1.0
+        }, 
+        "AND": {
+            "OPERATIONS": 1.0
+        }, 
+        "APPOINTMENT(": {
+            "UP": 1.0
+        }, 
+        "AS": {
+            "USED": 1.0
+        }, 
+        "ASA": {
+            "COATED": 1.0
+        }, 
+        "ASPIRIN": {
+            "(": 1.0
+        }, 
+        "AT": {
+            "10/22/04": 1.0
+        }, 
+        "Admission": {
+            "Causing": 0.5, 
+            "|": 0.5
+        }, 
+        "After": {
+            ";Responsible": 1.0
+        }, 
+        "Alliance": {
+            "Dr": 1.0
+        }, 
+        "Applicable": {
+            "Not": 1.0
+        }, 
+        "Attending:": {
+            "YES": 1.0
+        }, 
+        "Avoid": {
+            "Instruction": 1.0
+        }, 
+        "BE": {
+            "ORDER": 1.0
+        }, 
+        "BHAMC": {
+            "Service:": 1.0
+        }, 
+        "BID": {
+            "INH": 1.0
+        }, 
+        "BRIEF": {
+            "LAD.": 1.0
+        }, 
+        "BY": {
+            "COURSE": 1.0
+        }, 
+        "BY:": {
+            "ENTERED": 1.0
+        }, 
+        "Begin": {
+            "Instructions:": 1.0
+        }, 
+        "CAPPO": {
+            "******": 1.0
+        }, 
+        "CARMELO": {
+            ",": 1.0
+        }, 
+        "CD": {
+            "DILTIAZEM": 1.0
+        }, 
+        "CLOPIDOGREL": {
+            "(": 1.0
+        }, 
+        "COATED": {
+            "ENTERIC": 1.0
+        }, 
+        "CODE": {
+            "M.D.": 1.0
+        }, 
+        "COMMENTS:": {
+            "ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            "DISCHARGE": 1.0
+        }, 
+        "CONTINGENT": {
+            "PM": 1.0
+        }, 
+        "COURSE": {
+            "HOSP": 1.0
+        }, 
+        "COURSE:": {
+            "HOSPITAL": 1.0
+        }, 
+        "CV:": {
+            ")": 1.0
+        }, 
+        "Cardiac": {
+            ")": 1.0
+        }, 
+        "Causing": {
+            "for": 1.0
+        }, 
+        "Chest": {
+            "PRN": 1.0
+        }, 
+        "Complications": {
+            ",": 1.0
+        }, 
+        "Continue": {
+            "day.": 1.0
+        }, 
+        "D/C": {
+            "THE": 0.5, 
+            "WILL": 0.5
+        }, 
+        "DIAGNOSIS": {
+            "DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "OTHER": 1.0
+        }, 
+        "DIET:": {
+            "QD": 1.0
+        }, 
+        "DILTIAZEM": {
+            "BID": 1.0
+        }, 
+        "DIS": {
+            "|": 1.0
+        }, 
+        "DISCHARGE": {
+            ")": 0.16666666666666666, 
+            "******": 0.16666666666666666, 
+            "BHAMC": 0.16666666666666666, 
+            "Home": 0.16666666666666666, 
+            "OF": 0.16666666666666666, 
+            "PRINCIPAL": 0.16666666666666666
+        }, 
+        "DISKUS": {
+            "ADVAIR": 1.0
+        }, 
+        "DISPOSITION:": {
+            "code": 1.0
+        }, 
+        "DO/PLAN:": {
+            "TO": 1.0
+        }, 
+        "Date:": {
+            "Admission": 0.5, 
+            "Discharge": 0.5
+        }, 
+        "Discharge": {
+            "Status:": 1.0
+        }, 
+        "Do": {
+            "Instructions:": 1.0
+        }, 
+        "Domke": {
+            "Dr": 1.0
+        }, 
+        "Dr": {
+            "):": 0.3333333333333333, 
+            "from": 0.3333333333333333, 
+            "with": 0.3333333333333333
+        }, 
+        "ECG": {
+            "set=2.": 1.0
+        }, 
+        "ED": {
+            "to": 1.0
+        }, 
+        "END": {
+            "******": 1.0
+        }, 
+        "ENTERED": {
+            "summary": 1.0
+        }, 
+        "ENTERIC": {
+            "ASPIRIN": 0.5, 
+            "MEDICATIONS:": 0.5
+        }, 
+        "FENISON": {
+            "Attending:": 1.0
+        }, 
+        "FLUTICASONE": {
+            "(": 1.0
+        }, 
+        "FOLLOW": {
+            "tolerated": 1.0
+        }, 
+        "FW96": {
+            "(": 1.0
+        }, 
+        "Follow": {
+            "DO/PLAN:": 0.5, 
+            "weeks.": 0.5
+        }, 
+        "Food/Drug": {
+            ")": 0.5, 
+            "QD": 0.5
+        }, 
+        "Full": {
+            "STATUS:": 1.0
+        }, 
+        "HOLD": {
+            "Pain": 1.0
+        }, 
+        "HOSP": {
+            "+++++++++++++++++++++++++++++++++++++++++++++++++": 1.0
+        }, 
+        "HOSPITAL": {
+            "OF": 1.0
+        }, 
+        "HS": {
+            "PO": 1.0
+        }, 
+        "HYDROCHLOROTHIAZIDE": {
+            "otherwise.": 1.0
+        }, 
+        "Home": {
+            "DISPOSITION:": 1.0
+        }, 
+        "House": {
+            "DIET:": 1.0
+        }, 
+        "IF:": {
+            "HOLD": 1.0
+        }, 
+        "IN": {
+            "NOT": 1.0
+        }, 
+        "INH": {
+            "PUFF": 1.0
+        }, 
+        "IV": {
+            "receiving": 1.0
+        }, 
+        "If": {
+            ").": 0.5, 
+            "norvasc.": 0.5
+        }, 
+        "Infections": {
+            ",": 1.0
+        }, 
+        "Insomnia": {
+            "PRN": 1.0
+        }, 
+        "Instruction": {
+            "Interaction": 1.0
+        }, 
+        "Instructions:": {
+            "QD": 0.5, 
+            "mmHg": 0.5
+        }, 
+        "Interaction": {
+            "Food/Drug": 1.0
+        }, 
+        "K.": {
+            "RAFAEL": 1.0
+        }, 
+        "LAD": {
+            "to": 1.0
+        }, 
+        "LAD.": {
+            "the": 1.0
+        }, 
+        "Langanke": {
+            "Dr": 1.0
+        }, 
+        "Low": {
+            "/": 1.0
+        }, 
+        "M.D.": {
+            ",": 1.0
+        }, 
+        "MD": {
+            "unless": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "DISCHARGE": 1.0
+        }, 
+        "MG": {
+            "0.4": 0.1111111111111111, 
+            "120": 0.1111111111111111, 
+            "25": 0.1111111111111111, 
+            "325": 0.1111111111111111, 
+            "40": 0.1111111111111111, 
+            "50": 0.2222222222222222, 
+            "60": 0.1111111111111111, 
+            "75": 0.1111111111111111
+        }, 
+        "MULT": {
+            "RAD": 1.0
+        }, 
+        "NITROGLYCERIN": {
+            "QD": 1.0
+        }, 
+        "NMC": {
+            "|": 1.0
+        }, 
+        "NOT": {
+            "(": 1.0
+        }, 
+        "NSTEMI": {
+            ")": 0.25, 
+            "DIAGNOSIS:": 0.25, 
+            "for": 0.25, 
+            "|": 0.25
+        }, 
+        "No": {
+            "weeks.": 1.0
+        }, 
+        "None": {
+            "PROCEDURES:": 1.0
+        }, 
+        "Norvasc": {
+            "diltiazem.": 1.0
+        }, 
+        "Not": {
+            "UPON": 1.0
+        }, 
+        "O.R.": {
+            "IN": 1.0
+        }, 
+        "OF": {
+            "END": 0.5, 
+            "RESUME": 0.5
+        }, 
+        "ON:": {
+            "PATIENT": 1.0
+        }, 
+        "OPERATIONS": {
+            ")": 1.0
+        }, 
+        "ORDER": {
+            "D/C": 1.0
+        }, 
+        "ORDERS": {
+            "DISCHARGE": 1.0
+        }, 
+        "OSA": {
+            ")": 1.0
+        }, 
+        "OTHER": {
+            "NSTEMI": 0.5, 
+            "None": 0.5
+        }, 
+        "PATIENT": {
+            "DISCHARGE": 1.0
+        }, 
+        "PLAVIX": {
+            "otherwise.": 1.0
+        }, 
+        "PM": {
+            "02:33": 0.5, 
+            "04:00": 0.5
+        }, 
+        "PO": {
+            "MG": 1.0
+        }, 
+        "PREDNISONE": {
+            "nitroglycerin.": 1.0
+        }, 
+        "PRINCIPAL": {
+            "NSTEMI": 1.0
+        }, 
+        "PRN": {
+            "HS": 0.5, 
+            "doses": 0.5
+        }, 
+        "PROCEDURES:": {
+            "AND": 1.0
+        }, 
+        "PROPIONATE/...": {
+            "FLUTICASONE": 1.0
+        }, 
+        "PUFF": {
+            "1": 1.0
+        }, 
+        "Pain": {
+            "Chest": 1.0
+        }, 
+        "Penicillins": {
+            "ALLERGY:": 1.0
+        }, 
+        "Plavix": {
+            "Begin": 1.0
+        }, 
+        "Primary": {
+            ",": 1.0
+        }, 
+        "Psych:": {
+            ")": 1.0
+        }, 
+        "Pt": {
+            "ativan": 0.5, 
+            "leads.": 0.5
+        }, 
+        "Pulm:": {
+            ")": 1.0
+        }, 
+        "Q5MIN": {
+            "SL": 1.0
+        }, 
+        "QAM": {
+            "PO": 1.0
+        }, 
+        "QD": {
+            "PO": 1.0
+        }, 
+        "QHS": {
+            "PO": 1.0
+        }, 
+        "R.": {
+            "RUSS": 1.0
+        }, 
+        "RAD": {
+            "#obese#": 1.0
+        }, 
+        "RAFAEL": {
+            ",": 1.0
+        }, 
+        "RESUME": {
+            "BRIEF": 1.0
+        }, 
+        "RUSS": {
+            ",": 1.0
+        }, 
+        "Report": {
+            "2/28/2004": 1.0
+        }, 
+        "Rillmong": {
+            "399-30-62-7": 1.0
+        }, 
+        "S": {
+            "APPOINTMENT(": 1.0
+        }, 
+        "SERTRALINE": {
+            "(": 1.0
+        }, 
+        "SIMVASTATIN": {
+            "(": 1.0
+        }, 
+        "SL": {
+            "TAB": 1.0
+        }, 
+        "SR": {
+            "diltiazem": 1.0
+        }, 
+        "STATUS:": {
+            "CODE": 1.0
+        }, 
+        "SUMMARY:": {
+            "D/C": 1.0
+        }, 
+        "SYTEMS": {
+            "BY": 1.0
+        }, 
+        "Service:": {
+            "Rillmong": 1.0
+        }, 
+        "Stable": {
+            "CONDITION:": 1.0
+        }, 
+        "Starting": {
+            "QHS": 1.0
+        }, 
+        "Status:": {
+            "Report": 1.0
+        }, 
+        "Stop": {
+            "hydrochlorothiazide.": 1.0
+        }, 
+        "Study": {
+            "After": 1.0
+        }, 
+        "TAB": {
+            "1": 1.0
+        }, 
+        "TAPERS": {
+            "MULT": 1.0
+        }, 
+        "THE": {
+            "AS": 1.0
+        }, 
+        "TO": {
+            "Stable": 1.0
+        }, 
+        "TRAZODONE": {
+            "QAM": 1.0
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "OTHER": 1.0
+        }, 
+        "TREVOR": {
+            "BY:": 1.0
+        }, 
+        "Taper": {
+            "room.": 1.0
+        }, 
+        "Today": {
+            "Starting": 1.0
+        }, 
+        "Treatment/Stay": {
+            "affecting": 1.0
+        }, 
+        "UP": {
+            "FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "CONTINGENT": 1.0
+        }, 
+        "USED": {
+            "BE": 1.0
+        }, 
+        "WILL": {
+            "Applicable": 1.0
+        }, 
+        "Walking": {
+            "ACTIVITY:": 1.0
+        }, 
+        "Was": {
+            "diaphoresis.": 0.5, 
+            "today.": 0.5
+        }, 
+        "X": {
+            "Q5MIN": 1.0
+        }, 
+        "YES": {
+            "SUMMARY:": 1.0
+        }, 
+        "You": {
+            "COMMENTS:": 1.0
+        }, 
+        "ZOCOR": {
+            "QD": 1.0
+        }, 
+        "ZOLOFT": {
+            "Insomnia": 1.0
+        }, 
+        "a": {
+            "if": 0.14285714285714285, 
+            "mg": 0.5714285714285714, 
+            "negative": 0.14285714285714285, 
+            "receive": 0.14285714285714285
+        }, 
+        "administer": {
+            "not": 1.0
+        }, 
+        "administered": {
+            "was": 1.0
+        }, 
+        "admitted": {
+            "Was": 1.0
+        }, 
+        "affecting": {
+            ",": 1.0
+        }, 
+        "after": {
+            "taper": 1.0
+        }, 
+        "and": {
+            "(": 0.25, 
+            ",": 0.25, 
+            "pcp": 0.25, 
+            "sob": 0.25
+        }, 
+        "any": {
+            "or": 1.0
+        }, 
+        "apnea": {
+            "sleep": 1.0
+        }, 
+        "as": {
+            "Walking": 0.3333333333333333, 
+            "prednisone": 0.3333333333333333, 
+            "this": 0.3333333333333333
+        }, 
+        "asa": {
+            "-cont": 1.0
+        }, 
+        "aspirin": {
+            ",": 1.0
+        }, 
+        "assoc": {
+            "Was": 0.5, 
+            "floor": 0.5
+        }, 
+        "ativan": {
+            ",": 1.0
+        }, 
+        "b": {
+            "on": 1.0
+        }, 
+        "bb": {
+            "w/": 1.0
+        }, 
+        "be": {
+            "will": 1.0
+        }, 
+        "breath": {
+            "of": 1.0
+        }, 
+        "but": {
+            ",": 0.5, 
+            "change": 0.25, 
+            "hctz": 0.25
+        }, 
+        "call": {
+            "phone": 0.5, 
+            "please": 0.5
+        }, 
+        "cardiologist.": {
+            "her": 1.0
+        }, 
+        "cardiology": {
+            "(": 1.0
+        }, 
+        "care": {
+            "Primary": 0.3333333333333333, 
+            "primary": 0.6666666666666666
+        }, 
+        "cath": {
+            "emergent": 0.5, 
+            "post": 0.5
+        }, 
+        "catheterization": {
+            "Cardiac": 1.0
+        }, 
+        "change": {
+            "without": 1.0
+        }, 
+        "chest": {
+            "for": 0.25, 
+            "have": 0.25, 
+            "p/w": 0.25, 
+            "renewed": 0.25
+        }, 
+        "chol/low": {
+            "Low": 1.0
+        }, 
+        "class": {
+            "teaching": 1.0
+        }, 
+        "code": {
+            "Full": 1.0
+        }, 
+        "come": {
+            "or": 1.0
+        }, 
+        "concerns": {
+            "other": 1.0
+        }, 
+        "condition": {
+            "stable": 1.0
+        }, 
+        "cont": {
+            "Psych:": 1.0
+        }, 
+        "d/c": {
+            "after": 1.0
+        }, 
+        "day": {
+            "a": 0.75, 
+            "the": 0.25
+        }, 
+        "day.": {
+            "a": 1.0
+        }, 
+        "developed": {
+            "Pt": 1.0
+        }, 
+        "diabetes": {
+            "?": 1.0
+        }, 
+        "diaphoresis.": {
+            "and": 1.0
+        }, 
+        "dictated": {
+            "No": 1.0
+        }, 
+        "did": {
+            "but": 1.0
+        }, 
+        "diltiazem": {
+            "medicines:": 1.0
+        }, 
+        "diltiazem.": {
+            "to": 1.0
+        }, 
+        "directions": {
+            "follow": 1.0
+        }, 
+        "discharged": {
+            "be": 1.0
+        }, 
+        "discuss": {
+            "and": 1.0
+        }, 
+        "doctor": {
+            "your": 1.0
+        }, 
+        "dose": {
+            "loading": 1.0
+        }, 
+        "doses": {
+            "2": 1.0
+        }, 
+        "drug-eluting": {
+            "with": 1.0
+        }, 
+        "emergency": {
+            "the": 1.0
+        }, 
+        "emergent": {
+            "had": 1.0
+        }, 
+        "exacerbate": {
+            "to": 1.0
+        }, 
+        "exacerbation": {
+            "recent": 1.0
+        }, 
+        "fact": {
+            "in": 1.0
+        }, 
+        "fat": {
+            "sat.": 1.0
+        }, 
+        "floor": {
+            "on": 1.0
+        }, 
+        "follow": {
+            "(": 0.5, 
+            "to": 0.5
+        }, 
+        "for": {
+            "60": 0.25, 
+            "LAD": 0.25, 
+            "Study": 0.25, 
+            "tongue": 0.25
+        }, 
+        "from": {
+            "time": 1.0
+        }, 
+        "grapefruit": {
+            "Avoid": 1.0
+        }, 
+        "had": {
+            ",": 0.5, 
+            "and": 0.5
+        }, 
+        "have": {
+            "You": 0.3333333333333333, 
+            "fact": 0.3333333333333333, 
+            "you": 0.3333333333333333
+        }, 
+        "hctz": {
+            "-held": 1.0
+        }, 
+        "her": {
+            "and": 0.3333333333333333, 
+            "exacerbate": 0.3333333333333333, 
+            "with": 0.3333333333333333
+        }, 
+        "home": {
+            "to": 1.0
+        }, 
+        "htn": {
+            ",": 1.0
+        }, 
+        "hydrochlorothiazide.": {
+            "your": 1.0
+        }, 
+        "if": {
+            "administer": 0.5, 
+            "tomorrow": 0.5
+        }, 
+        "in": {
+            ")": 0.2, 
+            "did": 0.2, 
+            "home": 0.2, 
+            "physician": 0.2, 
+            "twi": 0.2
+        }, 
+        "inhalers": {
+            "-cont": 1.0
+        }, 
+        "instructed": {
+            "as": 0.5, 
+            "but": 0.5
+        }, 
+        "instructs": {
+            "MD": 1.0
+        }, 
+        "integrilin": {
+            "received": 1.0
+        }, 
+        "isch-s/p": {
+            "CV:": 1.0
+        }, 
+        "lad": {
+            "revealed": 1.0
+        }, 
+        "leads.": {
+            "precordial": 1.0
+        }, 
+        "lesion": {
+            "lad": 1.0
+        }, 
+        "less": {
+            "sbp": 1.0
+        }, 
+        "loading": {
+            "a": 1.0
+        }, 
+        "medicines:": {
+            "new": 1.0
+        }, 
+        "mellitus": {
+            "diabetes": 1.0
+        }, 
+        "mg": {
+            "120": 0.25, 
+            "325": 0.25, 
+            "40": 0.25, 
+            "75": 0.25
+        }, 
+        "mmHg": {
+            "100": 1.0
+        }, 
+        "n/v": {
+            "with": 1.0
+        }, 
+        "needed": {
+            "If": 1.0
+        }, 
+        "negative": {
+            "had": 1.0
+        }, 
+        "new": {
+            "have": 0.5, 
+            "of": 0.5
+        }, 
+        "nitroglycerin": {
+            "take": 1.0
+        }, 
+        "nitroglycerin.": {
+            "IV": 1.0
+        }, 
+        "norvasc.": {
+            "taking": 1.0
+        }, 
+        "not": {
+            "Do": 1.0
+        }, 
+        "obs": {
+            "ED": 1.0
+        }, 
+        "of": {
+            "day": 0.3333333333333333, 
+            "pressure": 0.3333333333333333, 
+            "shortness": 0.3333333333333333
+        }, 
+        "office": {
+            "Langanke": 1.0
+        }, 
+        "on": {
+            "administered": 0.2, 
+            "directions": 0.2, 
+            "instructed": 0.2, 
+            "pain": 0.2, 
+            "tni": 0.2
+        }, 
+        "onset": {
+            "new": 1.0
+        }, 
+        "or": {
+            ",": 0.5, 
+            "doctor": 0.5
+        }, 
+        "other": {
+            "any": 1.0
+        }, 
+        "otherwise.": {
+            "instructs": 1.0
+        }, 
+        "outpt.": {
+            "as": 1.0
+        }, 
+        "p/w": {
+            "#asthma#": 1.0
+        }, 
+        "pain": {
+            "chest": 1.0
+        }, 
+        "pains": {
+            "chest": 1.0
+        }, 
+        "pcp": {
+            "her": 1.0
+        }, 
+        "phone": {
+            "a": 1.0
+        }, 
+        "physician": {
+            "care": 1.0
+        }, 
+        "placement": {
+            "stent": 1.0
+        }, 
+        "plavix": {
+            ",": 1.0
+        }, 
+        "please": {
+            "concerns": 1.0
+        }, 
+        "post": {
+            "18h": 1.0
+        }, 
+        "precordial": {
+            "in": 1.0
+        }, 
+        "prednisone": {
+            "-on": 0.5, 
+            "your": 0.5
+        }, 
+        "prescription": {
+            "on": 1.0
+        }, 
+        "pressure": {
+            "chest": 1.0
+        }, 
+        "primary": {
+            "your": 1.0
+        }, 
+        "procedure.": {
+            "the": 1.0
+        }, 
+        "pt": {
+            "instructed": 0.5, 
+            "tx": 0.5
+        }, 
+        "re-start": {
+            "to": 1.0
+        }, 
+        "receive": {
+            "will": 1.0
+        }, 
+        "received": {
+            "-pt": 1.0
+        }, 
+        "receiving": {
+            "if": 1.0
+        }, 
+        "recent": {
+            "for": 1.0
+        }, 
+        "renewed": {
+            "developed": 1.0
+        }, 
+        "reportedly": {
+            "ECG": 1.0
+        }, 
+        "revealed": {
+            "which": 1.0
+        }, 
+        "room.": {
+            "emergency": 1.0
+        }, 
+        "sat.": {
+            "chol/low": 1.0
+        }, 
+        "sbp": {
+            "IF:": 1.0
+        }, 
+        "seemed": {
+            "this": 1.0
+        }, 
+        "set": {
+            "a": 1.0
+        }, 
+        "set=2.": {
+            "b": 1.0
+        }, 
+        "shortness": {
+            ",": 1.0
+        }, 
+        "sleep": {
+            "(": 1.0
+        }, 
+        "so": {
+            ",": 1.0
+        }, 
+        "sob": {
+            "with": 1.0
+        }, 
+        "stable": {
+            "in": 1.0
+        }, 
+        "statin": {
+            ",": 1.0
+        }, 
+        "stent": {
+            "with": 1.0
+        }, 
+        "stent.": {
+            "drug-eluting": 1.0
+        }, 
+        "stented": {
+            "was": 1.0
+        }, 
+        "stenting": {
+            "isch-s/p": 1.0
+        }, 
+        "stopped": {
+            "was": 1.0
+        }, 
+        "summary": {
+            "dictated": 1.0
+        }, 
+        "switched": {
+            "was": 1.0
+        }, 
+        "tablets": {
+            "nitroglycerin": 1.0
+        }, 
+        "take": {
+            "needed": 1.0
+        }, 
+        "taking": {
+            "Stop": 1.0
+        }, 
+        "taper": {
+            "will": 1.0
+        }, 
+        "teaching": {
+            "while": 1.0
+        }, 
+        "than": {
+            "less": 1.0
+        }, 
+        "the": {
+            "of": 0.25, 
+            "on": 0.25, 
+            "to": 0.5
+        }, 
+        "this": {
+            "but": 0.25, 
+            "discuss": 0.25, 
+            "re-start": 0.25, 
+            "so": 0.25
+        }, 
+        "time": {
+            "with": 1.0
+        }, 
+        "tni": {
+            "but": 1.0
+        }, 
+        "to": {
+            "admitted": 0.1111111111111111, 
+            "come": 0.1111111111111111, 
+            "condition": 0.1111111111111111, 
+            "discharged": 0.1111111111111111, 
+            "placement": 0.1111111111111111, 
+            "pt": 0.1111111111111111, 
+            "seemed": 0.1111111111111111, 
+            "stenting": 0.1111111111111111, 
+            "switched": 0.1111111111111111
+        }, 
+        "today.": {
+            "class": 1.0
+        }, 
+        "tolerated": {
+            "as": 1.0
+        }, 
+        "tomorrow": {
+            "Plavix": 1.0
+        }, 
+        "tongue": {
+            "your": 1.0
+        }, 
+        "twi": {
+            "have": 1.0
+        }, 
+        "tx": {
+            "-initially": 1.0
+        }, 
+        "under": {
+            "tablets": 1.0
+        }, 
+        "unless": {
+            "grapefruit": 1.0
+        }, 
+        "up": {
+            "Follow": 0.6666666666666666, 
+            "follow": 0.3333333333333333
+        }, 
+        "w/": {
+            "pt": 1.0
+        }, 
+        "was": {
+            "Norvasc": 0.25, 
+            "dose": 0.25, 
+            "this": 0.25, 
+            "which": 0.25
+        }, 
+        "weeks": {
+            "1-2": 0.5, 
+            "2-4": 0.5
+        }, 
+        "weeks.": {
+            "1-2": 0.5, 
+            "2-4": 0.5
+        }, 
+        "which": {
+            "cath": 0.5, 
+            "lesion": 0.5
+        }, 
+        "while": {
+            "onset": 1.0
+        }, 
+        "will": {
+            ",": 0.3333333333333333, 
+            "Pt": 0.3333333333333333, 
+            "you": 0.3333333333333333
+        }, 
+        "with": {
+            "45yoF": 0.1, 
+            "assoc": 0.2, 
+            "call": 0.1, 
+            "catheterization": 0.1, 
+            "stented": 0.1, 
+            "this": 0.1, 
+            "up": 0.3
+        }, 
+        "without": {
+            "reportedly": 1.0
+        }, 
+        "x": {
+            "integrilin": 1.0
+        }, 
+        "you": {
+            "(": 0.5, 
+            "If": 0.5
+        }, 
+        "your": {
+            "Continue": 0.16666666666666666, 
+            "Taper": 0.16666666666666666, 
+            "call": 0.16666666666666666, 
+            "under": 0.16666666666666666, 
+            "with": 0.3333333333333333
+        }, 
+        "zocor": {
+            ",": 1.0
+        }, 
+        "zoloft": {
+            "cont": 1.0
+        }, 
+        "|": {
+            "02022883": 0.1111111111111111, 
+            "1885239": 0.1111111111111111, 
+            "254723124": 0.1111111111111111, 
+            "AM": 0.1111111111111111, 
+            "DIS": 0.1111111111111111, 
+            "NMC": 0.1111111111111111, 
+            "NSTEMI": 0.1111111111111111, 
+            "|": 0.2222222222222222
+        }
+    }, 
+    "id": "43", 
+    "text": " 254723124 | NMC | 02022883 | | 1885239 | 2/28/2004 12:00:00 AM | NSTEMI | | DIS | Admission Date: 2/28/2004 Report Status: Discharge Date: 9/22/2004 ****** DISCHARGE ORDERS ****** CAPPO , CARMELO 399-30-62-7 Rillmong Service: BHAMC DISCHARGE PATIENT ON: 10/22/04 AT 04:00 PM CONTINGENT UPON Not Applicable WILL D/C ORDER BE USED AS THE D/C SUMMARY: YES Attending: FENISON , RAFAEL K. , M.D. CODE STATUS: Full code DISPOSITION: Home DISCHARGE MEDICATIONS: ENTERIC COATED ASA ( ASPIRIN ENTERIC COATED ) 325 MG PO QD NITROGLYCERIN 1/150 ( 0.4 MG ) 1 TAB SL Q5MIN X 2 doses PRN Chest Pain HOLD IF: sbp less than 100 mmHg Instructions: Do not administer if receiving IV nitroglycerin. PREDNISONE 60 MG PO QAM TRAZODONE 50 MG PO HS PRN Insomnia ZOLOFT ( SERTRALINE ) 50 MG PO QD ZOCOR ( SIMVASTATIN ) 40 MG PO QHS Starting Today ( 3/7 ) Food/Drug Interaction Instruction Avoid grapefruit unless MD instructs otherwise. PLAVIX ( CLOPIDOGREL ) 75 MG PO QD Instructions: Begin Plavix tomorrow if a loading dose was administered on the day of the procedure. ADVAIR DISKUS 250/50 ( FLUTICASONE PROPIONATE/... ) 1 PUFF INH BID DILTIAZEM CD 120 MG PO QD Food/Drug Interaction Instruction Avoid grapefruit unless MD instructs otherwise. HYDROCHLOROTHIAZIDE 25 MG PO QD DIET: House / Low chol/low sat. fat ACTIVITY: Walking as tolerated FOLLOW UP APPOINTMENT( S ): Dr Alliance 2-4 weeks ( you will receive a phone call with time from Dr Langanke office ) , Primary care physician 1-2 weeks , ALLERGY: Penicillins ADMIT DIAGNOSIS: NSTEMI PRINCIPAL DISCHARGE DIAGNOSIS ;Responsible After Study for Causing Admission ) NSTEMI OTHER DIAGNOSIS;Conditions , Infections , Complications , affecting Treatment/Stay #obese# RAD MULT TAPERS #asthma# ( #asthma# ) OSA ( sleep apnea ) ?diabetes ( ? diabetes mellitus ) OPERATIONS AND PROCEDURES: None OTHER TREATMENTS/PROCEDURES ( NOT IN O.R. ) Cardiac catheterization with stent placement to the LAD. BRIEF RESUME OF HOSPITAL COURSE: 45yoF with #obese# , htn , #asthma# p/w chest pressure of new onset while teaching class today. Was assoc with sob and diaphoresis. Was admitted to ED obs , had negative a set , but tni on b set=2. ECG reportedly without change but did in fact have twi in precordial leads. Pt developed renewed chest pain on floor assoc with n/v , and had emergent cath which revealed lad lesion which was stented with drug-eluting stent. +++++++++++++++++++++++++++++++++++++++++++++++++ HOSP COURSE BY SYTEMS 1 ) CV: isch-s/p stenting to LAD for NSTEMI -cont asa , statin , plavix -held hctz but instructed pt to re-start this as outpt. -initially tx pt w/ bb , but this seemed to exacerbate her #asthma# , so this was switched to diltiazem. Norvasc was stopped -pt received integrilin x 18h post cath 2 ) Pulm: #asthma# -on prednisone 60 for recent exacerbation , will taper after d/c -cont inhalers 3 ) Psych: cont zoloft , ativan Pt will be discharged to home in stable condition to follow up with her pcp and her cardiologist. ADDITIONAL COMMENTS: You have new medicines: diltiazem SR 120 mg a day , plavix 75 mg a day , zocor 40 mg a day , aspirin 325 mg a day. Continue your hydrochlorothiazide. Stop taking norvasc. If needed take nitroglycerin tablets under your tongue for chest pain ( follow directions on prescription ). If you have chest pains , shortness of breath , or any other concerns please call your doctor or come to the emergency room. Taper your prednisone as instructed on prescription ( and discuss this with your primary care physician ) DISCHARGE CONDITION: Stable TO DO/PLAN: Follow up with your primary care physician in 1-2 weeks. Follow up with Dr Domke ( cardiology ) in 2-4 weeks. No dictated summary ENTERED BY: TREVOR , RUSS R. , M.D. ( FW96 ) 10/22/04 @ 02:33 PM ****** END OF DISCHARGE ORDERS ******", 
+    "tri": {
+        "#asthma#": {
+            "#asthma#~(": 0.2, 
+            ")~Pulm:": 0.2, 
+            "MULT~TAPERS": 0.2, 
+            "exacerbate~her": 0.2, 
+            "htn~,": 0.2
+        }, 
+        "#obese#": {
+            "45yoF~with": 0.5, 
+            "affecting~Treatment/Stay": 0.5
+        }, 
+        "(": {
+            ")~?diabetes": 0.0625, 
+            ")~OSA": 0.0625, 
+            ",~M.D.": 0.0625, 
+            "2-4~weeks": 0.0625, 
+            "COATED~ASA": 0.0625, 
+            "DISKUS~250/50": 0.0625, 
+            "Dr~Domke": 0.0625, 
+            "Insomnia~ZOLOFT": 0.0625, 
+            "NITROGLYCERIN~1/150": 0.0625, 
+            "OTHER~TREATMENTS/PROCEDURES": 0.0625, 
+            "QD~ZOCOR": 0.0625, 
+            "Starting~Today": 0.0625, 
+            "TAPERS~#asthma#": 0.0625, 
+            "chest~pain": 0.0625, 
+            "on~prescription": 0.0625, 
+            "otherwise.~PLAVIX": 0.0625
+        }, 
+        ")": {
+            "(~#asthma#": 0.05263157894736842, 
+            "(~3/7": 0.05263157894736842, 
+            "(~CLOPIDOGREL": 0.05263157894736842, 
+            "(~FW96": 0.05263157894736842, 
+            "(~SERTRALINE": 0.05263157894736842, 
+            "(~SIMVASTATIN": 0.05263157894736842, 
+            "(~cardiology": 0.05263157894736842, 
+            "0.4~MG": 0.05263157894736842, 
+            "Causing~Admission": 0.05263157894736842, 
+            "ENTERIC~COATED": 0.05263157894736842, 
+            "FLUTICASONE~PROPIONATE/...": 0.05263157894736842, 
+            "IN~O.R.": 0.05263157894736842, 
+            "Langanke~office": 0.05263157894736842, 
+            "SYTEMS~1": 0.05263157894736842, 
+            "care~physician": 0.05263157894736842, 
+            "cath~2": 0.05263157894736842, 
+            "diabetes~mellitus": 0.05263157894736842, 
+            "inhalers~3": 0.05263157894736842, 
+            "sleep~apnea": 0.05263157894736842
+        }, 
+        ").": {
+            "on~prescription": 1.0
+        }, 
+        "):": {
+            "APPOINTMENT(~S": 1.0
+        }, 
+        "******": {
+            "02:33~PM": 0.25, 
+            "DISCHARGE~ORDERS": 0.5, 
+            "Date:~9/22/2004": 0.25
+        }, 
+        "+++++++++++++++++++++++++++++++++++++++++++++++++": {
+            "drug-eluting~stent.": 1.0
+        }, 
+        ",": {
+            "******~CAPPO": 0.038461538461538464, 
+            ",~Complications": 0.038461538461538464, 
+            ",~Infections": 0.038461538461538464, 
+            ",~htn": 0.038461538461538464, 
+            ",~statin": 0.038461538461538464, 
+            "-cont~asa": 0.038461538461538464, 
+            "1-2~weeks": 0.038461538461538464, 
+            "Attending:~FENISON": 0.038461538461538464, 
+            "BY:~TREVOR": 0.038461538461538464, 
+            "ED~obs": 0.038461538461538464, 
+            "OTHER~DIAGNOSIS;Conditions": 0.038461538461538464, 
+            "RAFAEL~K.": 0.038461538461538464, 
+            "RUSS~R.": 0.038461538461538464, 
+            "a~day": 0.11538461538461539, 
+            "a~set": 0.038461538461538464, 
+            "chest~pains": 0.038461538461538464, 
+            "cont~zoloft": 0.038461538461538464, 
+            "her~#asthma#": 0.038461538461538464, 
+            "office~)": 0.038461538461538464, 
+            "of~breath": 0.038461538461538464, 
+            "recent~exacerbation": 0.038461538461538464, 
+            "w/~bb": 0.038461538461538464, 
+            "with~#obese#": 0.038461538461538464, 
+            "with~n/v": 0.038461538461538464
+        }, 
+        "-cont": {
+            "after~d/c": 0.5, 
+            "for~NSTEMI": 0.5
+        }, 
+        "-held": {
+            ",~plavix": 1.0
+        }, 
+        "-initially": {
+            "as~outpt.": 1.0
+        }, 
+        "-on": {
+            "Pulm:~#asthma#": 1.0
+        }, 
+        "-pt": {
+            "was~stopped": 1.0
+        }, 
+        "/": {
+            "DIET:~House": 1.0
+        }, 
+        "0.4": {
+            "1/150~(": 1.0
+        }, 
+        "02022883": {
+            "NMC~|": 1.0
+        }, 
+        "02:33": {
+            "10/22/04~@": 1.0
+        }, 
+        "04:00": {
+            "10/22/04~AT": 1.0
+        }, 
+        "1": {
+            "BY~SYTEMS": 0.3333333333333333, 
+            "MG~)": 0.3333333333333333, 
+            "PROPIONATE/...~)": 0.3333333333333333
+        }, 
+        "1-2": {
+            "care~physician": 0.5, 
+            "physician~in": 0.5
+        }, 
+        "1/150": {
+            "QD~NITROGLYCERIN": 1.0
+        }, 
+        "10/22/04": {
+            "FW96~)": 0.5, 
+            "PATIENT~ON:": 0.5
+        }, 
+        "100": {
+            "less~than": 1.0
+        }, 
+        "120": {
+            "DILTIAZEM~CD": 0.5, 
+            "diltiazem~SR": 0.5
+        }, 
+        "12:00:00": {
+            "|~2/28/2004": 1.0
+        }, 
+        "1885239": {
+            "|~|": 1.0
+        }, 
+        "18h": {
+            "integrilin~x": 1.0
+        }, 
+        "2": {
+            "Q5MIN~X": 0.5, 
+            "post~cath": 0.5
+        }, 
+        "2-4": {
+            ")~in": 0.5, 
+            "Dr~Alliance": 0.5
+        }, 
+        "2/28/2004": {
+            "1885239~|": 0.5, 
+            "Admission~Date:": 0.5
+        }, 
+        "25": {
+            "otherwise.~HYDROCHLOROTHIAZIDE": 1.0
+        }, 
+        "250/50": {
+            "ADVAIR~DISKUS": 1.0
+        }, 
+        "3": {
+            "-cont~inhalers": 1.0
+        }, 
+        "3/7": {
+            "Today~(": 1.0
+        }, 
+        "325": {
+            ",~aspirin": 0.5, 
+            "COATED~)": 0.5
+        }, 
+        "399-30-62-7": {
+            ",~CARMELO": 1.0
+        }, 
+        "40": {
+            ",~zocor": 0.5, 
+            "SIMVASTATIN~)": 0.5
+        }, 
+        "45yoF": {
+            "HOSPITAL~COURSE:": 1.0
+        }, 
+        "50": {
+            "QAM~TRAZODONE": 0.5, 
+            "SERTRALINE~)": 0.5
+        }, 
+        "60": {
+            "-on~prednisone": 0.5, 
+            "nitroglycerin.~PREDNISONE": 0.5
+        }, 
+        "75": {
+            ",~plavix": 0.5, 
+            "CLOPIDOGREL~)": 0.5
+        }, 
+        "9/22/2004": {
+            "Discharge~Date:": 1.0
+        }, 
+        ";Responsible": {
+            "DISCHARGE~DIAGNOSIS": 1.0
+        }, 
+        "?": {
+            "?diabetes~(": 1.0
+        }, 
+        "?diabetes": {
+            "apnea~)": 1.0
+        }, 
+        "@": {
+            ")~10/22/04": 1.0
+        }, 
+        "ACTIVITY:": {
+            "sat.~fat": 1.0
+        }, 
+        "ADDITIONAL": {
+            "her~cardiologist.": 1.0
+        }, 
+        "ADMIT": {
+            "ALLERGY:~Penicillins": 1.0
+        }, 
+        "ADVAIR": {
+            "the~procedure.": 1.0
+        }, 
+        "ALLERGY:": {
+            "weeks~,": 1.0
+        }, 
+        "AM": {
+            "2/28/2004~12:00:00": 1.0
+        }, 
+        "AND": {
+            ")~OPERATIONS": 1.0
+        }, 
+        "APPOINTMENT(": {
+            "FOLLOW~UP": 1.0
+        }, 
+        "AS": {
+            "BE~USED": 1.0
+        }, 
+        "ASA": {
+            "ENTERIC~COATED": 1.0
+        }, 
+        "ASPIRIN": {
+            "ASA~(": 1.0
+        }, 
+        "AT": {
+            "ON:~10/22/04": 1.0
+        }, 
+        "Admission": {
+            "DIS~|": 0.5, 
+            "for~Causing": 0.5
+        }, 
+        "After": {
+            "DIAGNOSIS~;Responsible": 1.0
+        }, 
+        "Alliance": {
+            "):~Dr": 1.0
+        }, 
+        "Applicable": {
+            "UPON~Not": 1.0
+        }, 
+        "Attending:": {
+            "SUMMARY:~YES": 1.0
+        }, 
+        "Avoid": {
+            "Interaction~Instruction": 1.0
+        }, 
+        "BE": {
+            "D/C~ORDER": 1.0
+        }, 
+        "BHAMC": {
+            "Rillmong~Service:": 1.0
+        }, 
+        "BID": {
+            "PUFF~INH": 1.0
+        }, 
+        "BRIEF": {
+            "the~LAD.": 1.0
+        }, 
+        "BY": {
+            "HOSP~COURSE": 1.0
+        }, 
+        "BY:": {
+            "summary~ENTERED": 1.0
+        }, 
+        "Begin": {
+            "QD~Instructions:": 1.0
+        }, 
+        "CAPPO": {
+            "ORDERS~******": 1.0
+        }, 
+        "CARMELO": {
+            "CAPPO~,": 1.0
+        }, 
+        "CD": {
+            "BID~DILTIAZEM": 1.0
+        }, 
+        "CLOPIDOGREL": {
+            "PLAVIX~(": 1.0
+        }, 
+        "COATED": {
+            "ASPIRIN~ENTERIC": 0.5, 
+            "MEDICATIONS:~ENTERIC": 0.5
+        }, 
+        "CODE": {
+            ",~M.D.": 1.0
+        }, 
+        "COMMENTS:": {
+            "cardiologist.~ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            ")~DISCHARGE": 1.0
+        }, 
+        "CONTINGENT": {
+            "04:00~PM": 1.0
+        }, 
+        "COURSE": {
+            "+++++++++++++++++++++++++++++++++++++++++++++++++~HOSP": 1.0
+        }, 
+        "COURSE:": {
+            "OF~HOSPITAL": 1.0
+        }, 
+        "CV:": {
+            "1~)": 1.0
+        }, 
+        "Cardiac": {
+            "O.R.~)": 1.0
+        }, 
+        "Causing": {
+            "Study~for": 1.0
+        }, 
+        "Chest": {
+            "doses~PRN": 1.0
+        }, 
+        "Complications": {
+            "Infections~,": 1.0
+        }, 
+        "Continue": {
+            "a~day.": 1.0
+        }, 
+        "D/C": {
+            "AS~THE": 0.5, 
+            "Applicable~WILL": 0.5
+        }, 
+        "DIAGNOSIS": {
+            "PRINCIPAL~DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "Penicillins~ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "NSTEMI~OTHER": 1.0
+        }, 
+        "DIET:": {
+            "PO~QD": 1.0
+        }, 
+        "DILTIAZEM": {
+            "INH~BID": 1.0
+        }, 
+        "DIS": {
+            "|~|": 1.0
+        }, 
+        "DISCHARGE": {
+            "9/22/2004~******": 0.16666666666666666, 
+            "DISPOSITION:~Home": 0.16666666666666666, 
+            "END~OF": 0.16666666666666666, 
+            "NSTEMI~PRINCIPAL": 0.16666666666666666, 
+            "Service:~BHAMC": 0.16666666666666666, 
+            "physician~)": 0.16666666666666666
+        }, 
+        "DISKUS": {
+            "procedure.~ADVAIR": 1.0
+        }, 
+        "DISPOSITION:": {
+            "Full~code": 1.0
+        }, 
+        "DO/PLAN:": {
+            "Stable~TO": 1.0
+        }, 
+        "Date:": {
+            "Status:~Discharge": 0.5, 
+            "|~Admission": 0.5
+        }, 
+        "Discharge": {
+            "Report~Status:": 1.0
+        }, 
+        "Do": {
+            "mmHg~Instructions:": 1.0
+        }, 
+        "Domke": {
+            "with~Dr": 1.0
+        }, 
+        "Dr": {
+            "S~):": 0.3333333333333333, 
+            "time~from": 0.3333333333333333, 
+            "up~with": 0.3333333333333333
+        }, 
+        "ECG": {
+            "b~set=2.": 1.0
+        }, 
+        "ED": {
+            "admitted~to": 1.0
+        }, 
+        "END": {
+            "PM~******": 1.0
+        }, 
+        "ENTERED": {
+            "dictated~summary": 1.0
+        }, 
+        "ENTERIC": {
+            "(~ASPIRIN": 0.5, 
+            "DISCHARGE~MEDICATIONS:": 0.5
+        }, 
+        "FENISON": {
+            "YES~Attending:": 1.0
+        }, 
+        "FLUTICASONE": {
+            "250/50~(": 1.0
+        }, 
+        "FOLLOW": {
+            "as~tolerated": 1.0
+        }, 
+        "FW96": {
+            "M.D.~(": 1.0
+        }, 
+        "Follow": {
+            "1-2~weeks.": 0.5, 
+            "TO~DO/PLAN:": 0.5
+        }, 
+        "Food/Drug": {
+            "3/7~)": 0.5, 
+            "PO~QD": 0.5
+        }, 
+        "Full": {
+            "CODE~STATUS:": 1.0
+        }, 
+        "HOLD": {
+            "Chest~Pain": 1.0
+        }, 
+        "HOSP": {
+            "stent.~+++++++++++++++++++++++++++++++++++++++++++++++++": 1.0
+        }, 
+        "HOSPITAL": {
+            "RESUME~OF": 1.0
+        }, 
+        "HS": {
+            "MG~PO": 1.0
+        }, 
+        "HYDROCHLOROTHIAZIDE": {
+            "instructs~otherwise.": 1.0
+        }, 
+        "Home": {
+            "code~DISPOSITION:": 1.0
+        }, 
+        "House": {
+            "QD~DIET:": 1.0
+        }, 
+        "IF:": {
+            "Pain~HOLD": 1.0
+        }, 
+        "IN": {
+            "(~NOT": 1.0
+        }, 
+        "INH": {
+            "1~PUFF": 1.0
+        }, 
+        "IV": {
+            "if~receiving": 1.0
+        }, 
+        "If": {
+            "prescription~).": 0.5, 
+            "taking~norvasc.": 0.5
+        }, 
+        "Infections": {
+            "DIAGNOSIS;Conditions~,": 1.0
+        }, 
+        "Insomnia": {
+            "HS~PRN": 1.0
+        }, 
+        "Instruction": {
+            "Food/Drug~Interaction": 1.0
+        }, 
+        "Instructions:": {
+            "100~mmHg": 0.5, 
+            "PO~QD": 0.5
+        }, 
+        "Interaction": {
+            ")~Food/Drug": 0.5, 
+            "QD~Food/Drug": 0.5
+        }, 
+        "K.": {
+            ",~RAFAEL": 1.0
+        }, 
+        "LAD": {
+            "stenting~to": 1.0
+        }, 
+        "LAD.": {
+            "to~the": 1.0
+        }, 
+        "Langanke": {
+            "from~Dr": 1.0
+        }, 
+        "Low": {
+            "House~/": 1.0
+        }, 
+        "M.D.": {
+            "K.~,": 0.5, 
+            "R.~,": 0.5
+        }, 
+        "MD": {
+            "grapefruit~unless": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "Home~DISCHARGE": 1.0
+        }, 
+        "MG": {
+            "(~0.4": 0.1111111111111111, 
+            ")~325": 0.1111111111111111, 
+            ")~40": 0.1111111111111111, 
+            ")~50": 0.1111111111111111, 
+            ")~75": 0.1111111111111111, 
+            "CD~120": 0.1111111111111111, 
+            "HYDROCHLOROTHIAZIDE~25": 0.1111111111111111, 
+            "PREDNISONE~60": 0.1111111111111111, 
+            "TRAZODONE~50": 0.1111111111111111
+        }, 
+        "MULT": {
+            "#obese#~RAD": 1.0
+        }, 
+        "NITROGLYCERIN": {
+            "PO~QD": 1.0
+        }, 
+        "NMC": {
+            "254723124~|": 1.0
+        }, 
+        "NOT": {
+            "TREATMENTS/PROCEDURES~(": 1.0
+        }, 
+        "NSTEMI": {
+            "ADMIT~DIAGNOSIS:": 0.25, 
+            "AM~|": 0.25, 
+            "Admission~)": 0.25, 
+            "LAD~for": 0.25
+        }, 
+        "No": {
+            "2-4~weeks.": 1.0
+        }, 
+        "None": {
+            "AND~PROCEDURES:": 1.0
+        }, 
+        "Norvasc": {
+            "to~diltiazem.": 1.0
+        }, 
+        "Not": {
+            "CONTINGENT~UPON": 1.0
+        }, 
+        "O.R.": {
+            "NOT~IN": 1.0
+        }, 
+        "OF": {
+            "******~END": 0.5, 
+            "BRIEF~RESUME": 0.5
+        }, 
+        "ON:": {
+            "DISCHARGE~PATIENT": 1.0
+        }, 
+        "OPERATIONS": {
+            "mellitus~)": 1.0
+        }, 
+        "ORDER": {
+            "WILL~D/C": 1.0
+        }, 
+        "ORDERS": {
+            "******~DISCHARGE": 0.5, 
+            "OF~DISCHARGE": 0.5
+        }, 
+        "OSA": {
+            "#asthma#~)": 1.0
+        }, 
+        "OTHER": {
+            ")~NSTEMI": 0.5, 
+            "PROCEDURES:~None": 0.5
+        }, 
+        "PATIENT": {
+            "BHAMC~DISCHARGE": 1.0
+        }, 
+        "PLAVIX": {
+            "instructs~otherwise.": 1.0
+        }, 
+        "PM": {
+            "@~02:33": 0.5, 
+            "AT~04:00": 0.5
+        }, 
+        "PO": {
+            "120~MG": 0.125, 
+            "25~MG": 0.125, 
+            "325~MG": 0.125, 
+            "40~MG": 0.125, 
+            "50~MG": 0.25, 
+            "60~MG": 0.125, 
+            "75~MG": 0.125
+        }, 
+        "PREDNISONE": {
+            "IV~nitroglycerin.": 1.0
+        }, 
+        "PRINCIPAL": {
+            "DIAGNOSIS:~NSTEMI": 1.0
+        }, 
+        "PRN": {
+            "2~doses": 0.5, 
+            "PO~HS": 0.5
+        }, 
+        "PROCEDURES:": {
+            "OPERATIONS~AND": 1.0
+        }, 
+        "PROPIONATE/...": {
+            "(~FLUTICASONE": 1.0
+        }, 
+        "PUFF": {
+            ")~1": 1.0
+        }, 
+        "Pain": {
+            "PRN~Chest": 1.0
+        }, 
+        "Penicillins": {
+            ",~ALLERGY:": 1.0
+        }, 
+        "Plavix": {
+            "Instructions:~Begin": 1.0
+        }, 
+        "Primary": {
+            ")~,": 1.0
+        }, 
+        "Psych:": {
+            "3~)": 1.0
+        }, 
+        "Pt": {
+            ",~ativan": 0.5, 
+            "precordial~leads.": 0.5
+        }, 
+        "Pulm:": {
+            "2~)": 1.0
+        }, 
+        "Q5MIN": {
+            "TAB~SL": 1.0
+        }, 
+        "QAM": {
+            "MG~PO": 1.0
+        }, 
+        "QD": {
+            "MG~PO": 1.0
+        }, 
+        "QHS": {
+            "MG~PO": 1.0
+        }, 
+        "R.": {
+            ",~RUSS": 1.0
+        }, 
+        "RAD": {
+            "Treatment/Stay~#obese#": 1.0
+        }, 
+        "RAFAEL": {
+            "FENISON~,": 1.0
+        }, 
+        "RESUME": {
+            "LAD.~BRIEF": 1.0
+        }, 
+        "RUSS": {
+            "TREVOR~,": 1.0
+        }, 
+        "Report": {
+            "Date:~2/28/2004": 1.0
+        }, 
+        "Rillmong": {
+            "CARMELO~399-30-62-7": 1.0
+        }, 
+        "S": {
+            "UP~APPOINTMENT(": 1.0
+        }, 
+        "SERTRALINE": {
+            "ZOLOFT~(": 1.0
+        }, 
+        "SIMVASTATIN": {
+            "ZOCOR~(": 1.0
+        }, 
+        "SL": {
+            "1~TAB": 1.0
+        }, 
+        "SR": {
+            "medicines:~diltiazem": 1.0
+        }, 
+        "STATUS:": {
+            "M.D.~CODE": 1.0
+        }, 
+        "SUMMARY:": {
+            "THE~D/C": 1.0
+        }, 
+        "SYTEMS": {
+            "COURSE~BY": 1.0
+        }, 
+        "Service:": {
+            "399-30-62-7~Rillmong": 1.0
+        }, 
+        "Stable": {
+            "DISCHARGE~CONDITION:": 1.0
+        }, 
+        "Starting": {
+            "PO~QHS": 1.0
+        }, 
+        "Status:": {
+            "2/28/2004~Report": 1.0
+        }, 
+        "Stop": {
+            "your~hydrochlorothiazide.": 1.0
+        }, 
+        "Study": {
+            ";Responsible~After": 1.0
+        }, 
+        "TAB": {
+            ")~1": 1.0
+        }, 
+        "TAPERS": {
+            "RAD~MULT": 1.0
+        }, 
+        "THE": {
+            "USED~AS": 1.0
+        }, 
+        "TO": {
+            "CONDITION:~Stable": 1.0
+        }, 
+        "TRAZODONE": {
+            "PO~QAM": 1.0
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "None~OTHER": 1.0
+        }, 
+        "TREVOR": {
+            "ENTERED~BY:": 1.0
+        }, 
+        "Taper": {
+            "emergency~room.": 1.0
+        }, 
+        "Today": {
+            "QHS~Starting": 1.0
+        }, 
+        "Treatment/Stay": {
+            ",~affecting": 1.0
+        }, 
+        "UP": {
+            "tolerated~FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "PM~CONTINGENT": 1.0
+        }, 
+        "USED": {
+            "ORDER~BE": 1.0
+        }, 
+        "WILL": {
+            "Not~Applicable": 1.0
+        }, 
+        "Walking": {
+            "fat~ACTIVITY:": 1.0
+        }, 
+        "Was": {
+            "and~diaphoresis.": 0.5, 
+            "class~today.": 0.5
+        }, 
+        "X": {
+            "SL~Q5MIN": 1.0
+        }, 
+        "YES": {
+            "D/C~SUMMARY:": 1.0
+        }, 
+        "You": {
+            "ADDITIONAL~COMMENTS:": 1.0
+        }, 
+        "ZOCOR": {
+            "PO~QD": 1.0
+        }, 
+        "ZOLOFT": {
+            "PRN~Insomnia": 1.0
+        }, 
+        "a": {
+            "120~mg": 0.14285714285714285, 
+            "325~mg": 0.14285714285714285, 
+            "40~mg": 0.14285714285714285, 
+            "75~mg": 0.14285714285714285, 
+            "had~negative": 0.14285714285714285, 
+            "tomorrow~if": 0.14285714285714285, 
+            "will~receive": 0.14285714285714285
+        }, 
+        "administer": {
+            "Do~not": 1.0
+        }, 
+        "administered": {
+            "dose~was": 1.0
+        }, 
+        "admitted": {
+            "diaphoresis.~Was": 1.0
+        }, 
+        "affecting": {
+            "Complications~,": 1.0
+        }, 
+        "after": {
+            "will~taper": 1.0
+        }, 
+        "and": {
+            "her~pcp": 0.25, 
+            "n/v~,": 0.25, 
+            "prescription~(": 0.25, 
+            "with~sob": 0.25
+        }, 
+        "any": {
+            ",~or": 1.0
+        }, 
+        "apnea": {
+            "(~sleep": 1.0
+        }, 
+        "as": {
+            "ACTIVITY:~Walking": 0.3333333333333333, 
+            "re-start~this": 0.3333333333333333, 
+            "your~prednisone": 0.3333333333333333
+        }, 
+        "asa": {
+            "NSTEMI~-cont": 1.0
+        }, 
+        "aspirin": {
+            "day~,": 1.0
+        }, 
+        "assoc": {
+            "on~floor": 0.5, 
+            "today.~Was": 0.5
+        }, 
+        "ativan": {
+            "zoloft~,": 1.0
+        }, 
+        "b": {
+            "tni~on": 1.0
+        }, 
+        "bb": {
+            "pt~w/": 1.0
+        }, 
+        "be": {
+            "Pt~will": 1.0
+        }, 
+        "breath": {
+            "shortness~of": 1.0
+        }, 
+        "but": {
+            "-held~hctz": 0.25, 
+            "bb~,": 0.25, 
+            "set~,": 0.25, 
+            "without~change": 0.25
+        }, 
+        "call": {
+            "a~phone": 0.5, 
+            "concerns~please": 0.5
+        }, 
+        "cardiologist.": {
+            "and~her": 1.0
+        }, 
+        "cardiology": {
+            "Domke~(": 1.0
+        }, 
+        "care": {
+            ",~Primary": 0.3333333333333333, 
+            "your~primary": 0.6666666666666666
+        }, 
+        "cath": {
+            "18h~post": 0.5, 
+            "had~emergent": 0.5
+        }, 
+        "catheterization": {
+            ")~Cardiac": 1.0
+        }, 
+        "change": {
+            "reportedly~without": 1.0
+        }, 
+        "chest": {
+            "#asthma#~p/w": 0.25, 
+            "developed~renewed": 0.25, 
+            "tongue~for": 0.25, 
+            "you~have": 0.25
+        }, 
+        "chol/low": {
+            "/~Low": 1.0
+        }, 
+        "class": {
+            "while~teaching": 1.0
+        }, 
+        "code": {
+            "STATUS:~Full": 1.0
+        }, 
+        "come": {
+            "doctor~or": 1.0
+        }, 
+        "concerns": {
+            "any~other": 1.0
+        }, 
+        "condition": {
+            "in~stable": 1.0
+        }, 
+        "cont": {
+            ")~Psych:": 1.0
+        }, 
+        "d/c": {
+            "taper~after": 1.0
+        }, 
+        "day": {
+            "mg~a": 0.75, 
+            "on~the": 0.25
+        }, 
+        "day.": {
+            "mg~a": 1.0
+        }, 
+        "developed": {
+            "leads.~Pt": 1.0
+        }, 
+        "diabetes": {
+            "(~?": 1.0
+        }, 
+        "diaphoresis.": {
+            "sob~and": 1.0
+        }, 
+        "dictated": {
+            "weeks.~No": 1.0
+        }, 
+        "did": {
+            "change~but": 1.0
+        }, 
+        "diltiazem": {
+            "new~medicines:": 1.0
+        }, 
+        "diltiazem.": {
+            "switched~to": 1.0
+        }, 
+        "directions": {
+            "(~follow": 1.0
+        }, 
+        "discharged": {
+            "will~be": 1.0
+        }, 
+        "discuss": {
+            "(~and": 1.0
+        }, 
+        "doctor": {
+            "call~your": 1.0
+        }, 
+        "dose": {
+            "a~loading": 1.0
+        }, 
+        "doses": {
+            "X~2": 1.0
+        }, 
+        "drug-eluting": {
+            "stented~with": 1.0
+        }, 
+        "emergency": {
+            "to~the": 1.0
+        }, 
+        "emergent": {
+            "and~had": 1.0
+        }, 
+        "exacerbate": {
+            "seemed~to": 1.0
+        }, 
+        "exacerbation": {
+            "for~recent": 1.0
+        }, 
+        "fact": {
+            "did~in": 1.0
+        }, 
+        "fat": {
+            "chol/low~sat.": 1.0
+        }, 
+        "floor": {
+            "pain~on": 1.0
+        }, 
+        "follow": {
+            "condition~to": 0.5, 
+            "pain~(": 0.5
+        }, 
+        "for": {
+            "After~Study": 0.25, 
+            "prednisone~60": 0.25, 
+            "to~LAD": 0.25, 
+            "your~tongue": 0.25
+        }, 
+        "from": {
+            "with~time": 1.0
+        }, 
+        "grapefruit": {
+            "Instruction~Avoid": 1.0
+        }, 
+        "had": {
+            ",~and": 0.5, 
+            "obs~,": 0.5
+        }, 
+        "have": {
+            "COMMENTS:~You": 0.3333333333333333, 
+            "If~you": 0.3333333333333333, 
+            "in~fact": 0.3333333333333333
+        }, 
+        "hctz": {
+            "plavix~-held": 1.0
+        }, 
+        "her": {
+            "pcp~and": 0.3333333333333333, 
+            "to~exacerbate": 0.3333333333333333, 
+            "up~with": 0.3333333333333333
+        }, 
+        "home": {
+            "discharged~to": 1.0
+        }, 
+        "htn": {
+            "#obese#~,": 1.0
+        }, 
+        "hydrochlorothiazide.": {
+            "Continue~your": 1.0
+        }, 
+        "if": {
+            "Plavix~tomorrow": 0.5, 
+            "not~administer": 0.5
+        }, 
+        "in": {
+            "but~did": 0.2, 
+            "cardiology~)": 0.2, 
+            "care~physician": 0.2, 
+            "have~twi": 0.2, 
+            "to~home": 0.2
+        }, 
+        "inhalers": {
+            "d/c~-cont": 1.0
+        }, 
+        "instructed": {
+            "hctz~but": 0.5, 
+            "prednisone~as": 0.5
+        }, 
+        "instructs": {
+            "unless~MD": 1.0
+        }, 
+        "integrilin": {
+            "-pt~received": 1.0
+        }, 
+        "isch-s/p": {
+            ")~CV:": 1.0
+        }, 
+        "lad": {
+            "which~revealed": 1.0
+        }, 
+        "leads.": {
+            "in~precordial": 1.0
+        }, 
+        "lesion": {
+            "revealed~lad": 1.0
+        }, 
+        "less": {
+            "IF:~sbp": 1.0
+        }, 
+        "loading": {
+            "if~a": 1.0
+        }, 
+        "medicines:": {
+            "have~new": 1.0
+        }, 
+        "mellitus": {
+            "?~diabetes": 1.0
+        }, 
+        "mg": {
+            "SR~120": 0.25, 
+            "aspirin~325": 0.25, 
+            "plavix~75": 0.25, 
+            "zocor~40": 0.25
+        }, 
+        "mmHg": {
+            "than~100": 1.0
+        }, 
+        "n/v": {
+            "assoc~with": 1.0
+        }, 
+        "needed": {
+            "norvasc.~If": 1.0
+        }, 
+        "negative": {
+            ",~had": 1.0
+        }, 
+        "new": {
+            "You~have": 0.5, 
+            "pressure~of": 0.5
+        }, 
+        "nitroglycerin": {
+            "needed~take": 1.0
+        }, 
+        "nitroglycerin.": {
+            "receiving~IV": 1.0
+        }, 
+        "norvasc.": {
+            "Stop~taking": 1.0
+        }, 
+        "not": {
+            "Instructions:~Do": 1.0
+        }, 
+        "obs": {
+            "to~ED": 1.0
+        }, 
+        "of": {
+            ",~shortness": 0.3333333333333333, 
+            "chest~pressure": 0.3333333333333333, 
+            "the~day": 0.3333333333333333
+        }, 
+        "office": {
+            "Dr~Langanke": 1.0
+        }, 
+        "on": {
+            "as~instructed": 0.2, 
+            "but~tni": 0.2, 
+            "chest~pain": 0.2, 
+            "follow~directions": 0.2, 
+            "was~administered": 0.2
+        }, 
+        "onset": {
+            "of~new": 1.0
+        }, 
+        "or": {
+            "breath~,": 0.5, 
+            "your~doctor": 0.5
+        }, 
+        "other": {
+            "or~any": 1.0
+        }, 
+        "otherwise.": {
+            "MD~instructs": 1.0
+        }, 
+        "outpt.": {
+            "this~as": 1.0
+        }, 
+        "p/w": {
+            ",~#asthma#": 1.0
+        }, 
+        "pain": {
+            "for~chest": 0.5, 
+            "renewed~chest": 0.5
+        }, 
+        "pains": {
+            "have~chest": 1.0
+        }, 
+        "pcp": {
+            "with~her": 1.0
+        }, 
+        "phone": {
+            "receive~a": 1.0
+        }, 
+        "physician": {
+            "Primary~care": 0.3333333333333333, 
+            "primary~care": 0.6666666666666666
+        }, 
+        "placement": {
+            "with~stent": 1.0
+        }, 
+        "plavix": {
+            "day~,": 0.5, 
+            "statin~,": 0.5
+        }, 
+        "please": {
+            "other~concerns": 1.0
+        }, 
+        "post": {
+            "x~18h": 1.0
+        }, 
+        "precordial": {
+            "twi~in": 1.0
+        }, 
+        "prednisone": {
+            "#asthma#~-on": 0.5, 
+            "Taper~your": 0.5
+        }, 
+        "prescription": {
+            "directions~on": 0.5, 
+            "instructed~on": 0.5
+        }, 
+        "pressure": {
+            "p/w~chest": 1.0
+        }, 
+        "primary": {
+            "with~your": 1.0
+        }, 
+        "procedure.": {
+            "of~the": 1.0
+        }, 
+        "pt": {
+            "-initially~tx": 0.5, 
+            "but~instructed": 0.5
+        }, 
+        "re-start": {
+            "pt~to": 1.0
+        }, 
+        "receive": {
+            "you~will": 1.0
+        }, 
+        "received": {
+            "stopped~-pt": 1.0
+        }, 
+        "receiving": {
+            "administer~if": 1.0
+        }, 
+        "recent": {
+            "60~for": 1.0
+        }, 
+        "renewed": {
+            "Pt~developed": 1.0
+        }, 
+        "reportedly": {
+            "set=2.~ECG": 1.0
+        }, 
+        "revealed": {
+            "cath~which": 1.0
+        }, 
+        "room.": {
+            "the~emergency": 1.0
+        }, 
+        "sat.": {
+            "Low~chol/low": 1.0
+        }, 
+        "sbp": {
+            "HOLD~IF:": 1.0
+        }, 
+        "seemed": {
+            "but~this": 1.0
+        }, 
+        "set": {
+            "negative~a": 1.0
+        }, 
+        "set=2.": {
+            "on~b": 1.0
+        }, 
+        "shortness": {
+            "pains~,": 1.0
+        }, 
+        "sleep": {
+            "OSA~(": 1.0
+        }, 
+        "so": {
+            "#asthma#~,": 1.0
+        }, 
+        "sob": {
+            "assoc~with": 1.0
+        }, 
+        "stable": {
+            "home~in": 1.0
+        }, 
+        "statin": {
+            "asa~,": 1.0
+        }, 
+        "stent": {
+            "catheterization~with": 1.0
+        }, 
+        "stent.": {
+            "with~drug-eluting": 1.0
+        }, 
+        "stented": {
+            "which~was": 1.0
+        }, 
+        "stenting": {
+            "CV:~isch-s/p": 1.0
+        }, 
+        "stopped": {
+            "Norvasc~was": 1.0
+        }, 
+        "summary": {
+            "No~dictated": 1.0
+        }, 
+        "switched": {
+            "this~was": 1.0
+        }, 
+        "tablets": {
+            "take~nitroglycerin": 1.0
+        }, 
+        "take": {
+            "If~needed": 1.0
+        }, 
+        "taking": {
+            "hydrochlorothiazide.~Stop": 1.0
+        }, 
+        "taper": {
+            ",~will": 1.0
+        }, 
+        "teaching": {
+            "onset~while": 1.0
+        }, 
+        "than": {
+            "sbp~less": 1.0
+        }, 
+        "the": {
+            "administered~on": 0.25, 
+            "come~to": 0.25, 
+            "day~of": 0.25, 
+            "placement~to": 0.25
+        }, 
+        "this": {
+            ",~but": 0.25, 
+            ",~so": 0.25, 
+            "and~discuss": 0.25, 
+            "to~re-start": 0.25
+        }, 
+        "time": {
+            "call~with": 1.0
+        }, 
+        "tni": {
+            ",~but": 1.0
+        }, 
+        "to": {
+            "Was~admitted": 0.1111111111111111, 
+            "be~discharged": 0.1111111111111111, 
+            "instructed~pt": 0.1111111111111111, 
+            "isch-s/p~stenting": 0.1111111111111111, 
+            "or~come": 0.1111111111111111, 
+            "stable~condition": 0.1111111111111111, 
+            "stent~placement": 0.1111111111111111, 
+            "this~seemed": 0.1111111111111111, 
+            "was~switched": 0.1111111111111111
+        }, 
+        "today.": {
+            "teaching~class": 1.0
+        }, 
+        "tolerated": {
+            "Walking~as": 1.0
+        }, 
+        "tomorrow": {
+            "Begin~Plavix": 1.0
+        }, 
+        "tongue": {
+            "under~your": 1.0
+        }, 
+        "twi": {
+            "fact~have": 1.0
+        }, 
+        "tx": {
+            "outpt.~-initially": 1.0
+        }, 
+        "under": {
+            "nitroglycerin~tablets": 1.0
+        }, 
+        "unless": {
+            "Avoid~grapefruit": 1.0
+        }, 
+        "up": {
+            "DO/PLAN:~Follow": 0.3333333333333333, 
+            "to~follow": 0.3333333333333333, 
+            "weeks.~Follow": 0.3333333333333333
+        }, 
+        "w/": {
+            "tx~pt": 1.0
+        }, 
+        "was": {
+            "diltiazem.~Norvasc": 0.25, 
+            "lesion~which": 0.25, 
+            "loading~dose": 0.25, 
+            "so~this": 0.25
+        }, 
+        "weeks": {
+            "Alliance~2-4": 0.5, 
+            "physician~1-2": 0.5
+        }, 
+        "weeks.": {
+            "in~1-2": 0.5, 
+            "in~2-4": 0.5
+        }, 
+        "which": {
+            "emergent~cath": 0.5, 
+            "lad~lesion": 0.5
+        }, 
+        "while": {
+            "new~onset": 1.0
+        }, 
+        "will": {
+            "(~you": 0.3333333333333333, 
+            "ativan~Pt": 0.3333333333333333, 
+            "exacerbation~,": 0.3333333333333333
+        }, 
+        "with": {
+            "COURSE:~45yoF": 0.1, 
+            "Cardiac~catheterization": 0.1, 
+            "Follow~up": 0.2, 
+            "Was~assoc": 0.1, 
+            "discuss~this": 0.1, 
+            "floor~assoc": 0.1, 
+            "follow~up": 0.1, 
+            "phone~call": 0.1, 
+            "was~stented": 0.1
+        }, 
+        "without": {
+            "ECG~reportedly": 1.0
+        }, 
+        "x": {
+            "received~integrilin": 1.0
+        }, 
+        "you": {
+            ").~If": 0.5, 
+            "weeks~(": 0.5
+        }, 
+        "your": {
+            "day.~Continue": 0.16666666666666666, 
+            "please~call": 0.16666666666666666, 
+            "room.~Taper": 0.16666666666666666, 
+            "tablets~under": 0.16666666666666666, 
+            "this~with": 0.16666666666666666, 
+            "up~with": 0.16666666666666666
+        }, 
+        "zocor": {
+            "day~,": 1.0
+        }, 
+        "zoloft": {
+            "Psych:~cont": 1.0
+        }, 
+        "|": {
+            "02022883~|": 0.1111111111111111, 
+            "12:00:00~AM": 0.1111111111111111, 
+            "NSTEMI~|": 0.1111111111111111, 
+            "|~02022883": 0.1111111111111111, 
+            "|~1885239": 0.1111111111111111, 
+            "|~DIS": 0.1111111111111111, 
+            "|~NMC": 0.1111111111111111, 
+            "|~NSTEMI": 0.1111111111111111, 
+            "~254723124": 0.1111111111111111
+        }
+    }, 
+    "type": "data/test", 
+    "uni": {
+        "": 0.0015527950310559005, 
+        "#asthma#": 0.007763975155279503, 
+        "#obese#": 0.003105590062111801, 
+        "(": 0.024844720496894408, 
+        ")": 0.029503105590062112, 
+        ").": 0.0015527950310559005, 
+        "):": 0.0015527950310559005, 
+        "******": 0.004658385093167702, 
+        "+++++++++++++++++++++++++++++++++++++++++++++++++": 0.0015527950310559005, 
+        ",": 0.040372670807453416, 
+        "-cont": 0.003105590062111801, 
+        "-held": 0.0015527950310559005, 
+        "-initially": 0.0015527950310559005, 
+        "-on": 0.0015527950310559005, 
+        "-pt": 0.0015527950310559005, 
+        "/": 0.0015527950310559005, 
+        "0.4": 0.0015527950310559005, 
+        "02022883": 0.0015527950310559005, 
+        "02:33": 0.0015527950310559005, 
+        "04:00": 0.0015527950310559005, 
+        "1": 0.004658385093167702, 
+        "1-2": 0.003105590062111801, 
+        "1/150": 0.0015527950310559005, 
+        "10/22/04": 0.003105590062111801, 
+        "100": 0.0015527950310559005, 
+        "120": 0.003105590062111801, 
+        "12:00:00": 0.0015527950310559005, 
+        "1885239": 0.0015527950310559005, 
+        "18h": 0.0015527950310559005, 
+        "2": 0.003105590062111801, 
+        "2-4": 0.003105590062111801, 
+        "2/28/2004": 0.003105590062111801, 
+        "25": 0.0015527950310559005, 
+        "250/50": 0.0015527950310559005, 
+        "254723124": 0.0015527950310559005, 
+        "3": 0.0015527950310559005, 
+        "3/7": 0.0015527950310559005, 
+        "325": 0.003105590062111801, 
+        "399-30-62-7": 0.0015527950310559005, 
+        "40": 0.003105590062111801, 
+        "45yoF": 0.0015527950310559005, 
+        "50": 0.003105590062111801, 
+        "60": 0.003105590062111801, 
+        "75": 0.003105590062111801, 
+        "9/22/2004": 0.0015527950310559005, 
+        ";Responsible": 0.0015527950310559005, 
+        "?": 0.0015527950310559005, 
+        "?diabetes": 0.0015527950310559005, 
+        "@": 0.0015527950310559005, 
+        "ACTIVITY:": 0.0015527950310559005, 
+        "ADDITIONAL": 0.0015527950310559005, 
+        "ADMIT": 0.0015527950310559005, 
+        "ADVAIR": 0.0015527950310559005, 
+        "ALLERGY:": 0.0015527950310559005, 
+        "AM": 0.0015527950310559005, 
+        "AND": 0.0015527950310559005, 
+        "APPOINTMENT(": 0.0015527950310559005, 
+        "AS": 0.0015527950310559005, 
+        "ASA": 0.0015527950310559005, 
+        "ASPIRIN": 0.0015527950310559005, 
+        "AT": 0.0015527950310559005, 
+        "Admission": 0.003105590062111801, 
+        "After": 0.0015527950310559005, 
+        "Alliance": 0.0015527950310559005, 
+        "Applicable": 0.0015527950310559005, 
+        "Attending:": 0.0015527950310559005, 
+        "Avoid": 0.003105590062111801, 
+        "BE": 0.0015527950310559005, 
+        "BHAMC": 0.0015527950310559005, 
+        "BID": 0.0015527950310559005, 
+        "BRIEF": 0.0015527950310559005, 
+        "BY": 0.0015527950310559005, 
+        "BY:": 0.0015527950310559005, 
+        "Begin": 0.0015527950310559005, 
+        "CAPPO": 0.0015527950310559005, 
+        "CARMELO": 0.0015527950310559005, 
+        "CD": 0.0015527950310559005, 
+        "CLOPIDOGREL": 0.0015527950310559005, 
+        "COATED": 0.003105590062111801, 
+        "CODE": 0.0015527950310559005, 
+        "COMMENTS:": 0.0015527950310559005, 
+        "CONDITION:": 0.0015527950310559005, 
+        "CONTINGENT": 0.0015527950310559005, 
+        "COURSE": 0.0015527950310559005, 
+        "COURSE:": 0.0015527950310559005, 
+        "CV:": 0.0015527950310559005, 
+        "Cardiac": 0.0015527950310559005, 
+        "Causing": 0.0015527950310559005, 
+        "Chest": 0.0015527950310559005, 
+        "Complications": 0.0015527950310559005, 
+        "Continue": 0.0015527950310559005, 
+        "D/C": 0.003105590062111801, 
+        "DIAGNOSIS": 0.0015527950310559005, 
+        "DIAGNOSIS:": 0.0015527950310559005, 
+        "DIAGNOSIS;Conditions": 0.0015527950310559005, 
+        "DIET:": 0.0015527950310559005, 
+        "DILTIAZEM": 0.0015527950310559005, 
+        "DIS": 0.0015527950310559005, 
+        "DISCHARGE": 0.009316770186335404, 
+        "DISKUS": 0.0015527950310559005, 
+        "DISPOSITION:": 0.0015527950310559005, 
+        "DO/PLAN:": 0.0015527950310559005, 
+        "Date:": 0.003105590062111801, 
+        "Discharge": 0.0015527950310559005, 
+        "Do": 0.0015527950310559005, 
+        "Domke": 0.0015527950310559005, 
+        "Dr": 0.004658385093167702, 
+        "ECG": 0.0015527950310559005, 
+        "ED": 0.0015527950310559005, 
+        "END": 0.0015527950310559005, 
+        "ENTERED": 0.0015527950310559005, 
+        "ENTERIC": 0.003105590062111801, 
+        "FENISON": 0.0015527950310559005, 
+        "FLUTICASONE": 0.0015527950310559005, 
+        "FOLLOW": 0.0015527950310559005, 
+        "FW96": 0.0015527950310559005, 
+        "Follow": 0.003105590062111801, 
+        "Food/Drug": 0.003105590062111801, 
+        "Full": 0.0015527950310559005, 
+        "HOLD": 0.0015527950310559005, 
+        "HOSP": 0.0015527950310559005, 
+        "HOSPITAL": 0.0015527950310559005, 
+        "HS": 0.0015527950310559005, 
+        "HYDROCHLOROTHIAZIDE": 0.0015527950310559005, 
+        "Home": 0.0015527950310559005, 
+        "House": 0.0015527950310559005, 
+        "IF:": 0.0015527950310559005, 
+        "IN": 0.0015527950310559005, 
+        "INH": 0.0015527950310559005, 
+        "IV": 0.0015527950310559005, 
+        "If": 0.003105590062111801, 
+        "Infections": 0.0015527950310559005, 
+        "Insomnia": 0.0015527950310559005, 
+        "Instruction": 0.003105590062111801, 
+        "Instructions:": 0.003105590062111801, 
+        "Interaction": 0.003105590062111801, 
+        "K.": 0.0015527950310559005, 
+        "LAD": 0.0015527950310559005, 
+        "LAD.": 0.0015527950310559005, 
+        "Langanke": 0.0015527950310559005, 
+        "Low": 0.0015527950310559005, 
+        "M.D.": 0.003105590062111801, 
+        "MD": 0.003105590062111801, 
+        "MEDICATIONS:": 0.0015527950310559005, 
+        "MG": 0.013975155279503106, 
+        "MULT": 0.0015527950310559005, 
+        "NITROGLYCERIN": 0.0015527950310559005, 
+        "NMC": 0.0015527950310559005, 
+        "NOT": 0.0015527950310559005, 
+        "NSTEMI": 0.006211180124223602, 
+        "No": 0.0015527950310559005, 
+        "None": 0.0015527950310559005, 
+        "Norvasc": 0.0015527950310559005, 
+        "Not": 0.0015527950310559005, 
+        "O.R.": 0.0015527950310559005, 
+        "OF": 0.003105590062111801, 
+        "ON:": 0.0015527950310559005, 
+        "OPERATIONS": 0.0015527950310559005, 
+        "ORDER": 0.0015527950310559005, 
+        "ORDERS": 0.0015527950310559005, 
+        "OSA": 0.0015527950310559005, 
+        "OTHER": 0.003105590062111801, 
+        "PATIENT": 0.0015527950310559005, 
+        "PLAVIX": 0.0015527950310559005, 
+        "PM": 0.003105590062111801, 
+        "PO": 0.012422360248447204, 
+        "PREDNISONE": 0.0015527950310559005, 
+        "PRINCIPAL": 0.0015527950310559005, 
+        "PRN": 0.003105590062111801, 
+        "PROCEDURES:": 0.0015527950310559005, 
+        "PROPIONATE/...": 0.0015527950310559005, 
+        "PUFF": 0.0015527950310559005, 
+        "Pain": 0.0015527950310559005, 
+        "Penicillins": 0.0015527950310559005, 
+        "Plavix": 0.0015527950310559005, 
+        "Primary": 0.0015527950310559005, 
+        "Psych:": 0.0015527950310559005, 
+        "Pt": 0.003105590062111801, 
+        "Pulm:": 0.0015527950310559005, 
+        "Q5MIN": 0.0015527950310559005, 
+        "QAM": 0.0015527950310559005, 
+        "QD": 0.007763975155279503, 
+        "QHS": 0.0015527950310559005, 
+        "R.": 0.0015527950310559005, 
+        "RAD": 0.0015527950310559005, 
+        "RAFAEL": 0.0015527950310559005, 
+        "RESUME": 0.0015527950310559005, 
+        "RUSS": 0.0015527950310559005, 
+        "Report": 0.0015527950310559005, 
+        "Rillmong": 0.0015527950310559005, 
+        "S": 0.0015527950310559005, 
+        "SERTRALINE": 0.0015527950310559005, 
+        "SIMVASTATIN": 0.0015527950310559005, 
+        "SL": 0.0015527950310559005, 
+        "SR": 0.0015527950310559005, 
+        "STATUS:": 0.0015527950310559005, 
+        "SUMMARY:": 0.0015527950310559005, 
+        "SYTEMS": 0.0015527950310559005, 
+        "Service:": 0.0015527950310559005, 
+        "Stable": 0.0015527950310559005, 
+        "Starting": 0.0015527950310559005, 
+        "Status:": 0.0015527950310559005, 
+        "Stop": 0.0015527950310559005, 
+        "Study": 0.0015527950310559005, 
+        "TAB": 0.0015527950310559005, 
+        "TAPERS": 0.0015527950310559005, 
+        "THE": 0.0015527950310559005, 
+        "TO": 0.0015527950310559005, 
+        "TRAZODONE": 0.0015527950310559005, 
+        "TREATMENTS/PROCEDURES": 0.0015527950310559005, 
+        "TREVOR": 0.0015527950310559005, 
+        "Taper": 0.0015527950310559005, 
+        "Today": 0.0015527950310559005, 
+        "Treatment/Stay": 0.0015527950310559005, 
+        "UP": 0.0015527950310559005, 
+        "UPON": 0.0015527950310559005, 
+        "USED": 0.0015527950310559005, 
+        "WILL": 0.0015527950310559005, 
+        "Walking": 0.0015527950310559005, 
+        "Was": 0.003105590062111801, 
+        "X": 0.0015527950310559005, 
+        "YES": 0.0015527950310559005, 
+        "You": 0.0015527950310559005, 
+        "ZOCOR": 0.0015527950310559005, 
+        "ZOLOFT": 0.0015527950310559005, 
+        "a": 0.010869565217391304, 
+        "administer": 0.0015527950310559005, 
+        "administered": 0.0015527950310559005, 
+        "admitted": 0.0015527950310559005, 
+        "affecting": 0.0015527950310559005, 
+        "after": 0.0015527950310559005, 
+        "and": 0.006211180124223602, 
+        "any": 0.0015527950310559005, 
+        "apnea": 0.0015527950310559005, 
+        "as": 0.004658385093167702, 
+        "asa": 0.0015527950310559005, 
+        "aspirin": 0.0015527950310559005, 
+        "assoc": 0.003105590062111801, 
+        "ativan": 0.0015527950310559005, 
+        "b": 0.0015527950310559005, 
+        "bb": 0.0015527950310559005, 
+        "be": 0.0015527950310559005, 
+        "breath": 0.0015527950310559005, 
+        "but": 0.006211180124223602, 
+        "call": 0.003105590062111801, 
+        "cardiologist.": 0.0015527950310559005, 
+        "cardiology": 0.0015527950310559005, 
+        "care": 0.004658385093167702, 
+        "cath": 0.003105590062111801, 
+        "catheterization": 0.0015527950310559005, 
+        "change": 0.0015527950310559005, 
+        "chest": 0.006211180124223602, 
+        "chol/low": 0.0015527950310559005, 
+        "class": 0.0015527950310559005, 
+        "code": 0.0015527950310559005, 
+        "come": 0.0015527950310559005, 
+        "concerns": 0.0015527950310559005, 
+        "condition": 0.0015527950310559005, 
+        "cont": 0.0015527950310559005, 
+        "d/c": 0.0015527950310559005, 
+        "day": 0.006211180124223602, 
+        "day.": 0.0015527950310559005, 
+        "developed": 0.0015527950310559005, 
+        "diabetes": 0.0015527950310559005, 
+        "diaphoresis.": 0.0015527950310559005, 
+        "dictated": 0.0015527950310559005, 
+        "did": 0.0015527950310559005, 
+        "diltiazem": 0.0015527950310559005, 
+        "diltiazem.": 0.0015527950310559005, 
+        "directions": 0.0015527950310559005, 
+        "discharged": 0.0015527950310559005, 
+        "discuss": 0.0015527950310559005, 
+        "doctor": 0.0015527950310559005, 
+        "dose": 0.0015527950310559005, 
+        "doses": 0.0015527950310559005, 
+        "drug-eluting": 0.0015527950310559005, 
+        "emergency": 0.0015527950310559005, 
+        "emergent": 0.0015527950310559005, 
+        "exacerbate": 0.0015527950310559005, 
+        "exacerbation": 0.0015527950310559005, 
+        "fact": 0.0015527950310559005, 
+        "fat": 0.0015527950310559005, 
+        "floor": 0.0015527950310559005, 
+        "follow": 0.003105590062111801, 
+        "for": 0.006211180124223602, 
+        "from": 0.0015527950310559005, 
+        "grapefruit": 0.003105590062111801, 
+        "had": 0.003105590062111801, 
+        "have": 0.004658385093167702, 
+        "hctz": 0.0015527950310559005, 
+        "her": 0.004658385093167702, 
+        "home": 0.0015527950310559005, 
+        "htn": 0.0015527950310559005, 
+        "hydrochlorothiazide.": 0.0015527950310559005, 
+        "if": 0.003105590062111801, 
+        "in": 0.007763975155279503, 
+        "inhalers": 0.0015527950310559005, 
+        "instructed": 0.003105590062111801, 
+        "instructs": 0.003105590062111801, 
+        "integrilin": 0.0015527950310559005, 
+        "isch-s/p": 0.0015527950310559005, 
+        "lad": 0.0015527950310559005, 
+        "leads.": 0.0015527950310559005, 
+        "lesion": 0.0015527950310559005, 
+        "less": 0.0015527950310559005, 
+        "loading": 0.0015527950310559005, 
+        "medicines:": 0.0015527950310559005, 
+        "mellitus": 0.0015527950310559005, 
+        "mg": 0.006211180124223602, 
+        "mmHg": 0.0015527950310559005, 
+        "n/v": 0.0015527950310559005, 
+        "needed": 0.0015527950310559005, 
+        "negative": 0.0015527950310559005, 
+        "new": 0.003105590062111801, 
+        "nitroglycerin": 0.0015527950310559005, 
+        "nitroglycerin.": 0.0015527950310559005, 
+        "norvasc.": 0.0015527950310559005, 
+        "not": 0.0015527950310559005, 
+        "obs": 0.0015527950310559005, 
+        "of": 0.004658385093167702, 
+        "office": 0.0015527950310559005, 
+        "on": 0.007763975155279503, 
+        "onset": 0.0015527950310559005, 
+        "or": 0.003105590062111801, 
+        "other": 0.0015527950310559005, 
+        "otherwise.": 0.003105590062111801, 
+        "outpt.": 0.0015527950310559005, 
+        "p/w": 0.0015527950310559005, 
+        "pain": 0.003105590062111801, 
+        "pains": 0.0015527950310559005, 
+        "pcp": 0.0015527950310559005, 
+        "phone": 0.0015527950310559005, 
+        "physician": 0.004658385093167702, 
+        "placement": 0.0015527950310559005, 
+        "plavix": 0.003105590062111801, 
+        "please": 0.0015527950310559005, 
+        "post": 0.0015527950310559005, 
+        "precordial": 0.0015527950310559005, 
+        "prednisone": 0.003105590062111801, 
+        "prescription": 0.003105590062111801, 
+        "pressure": 0.0015527950310559005, 
+        "primary": 0.003105590062111801, 
+        "procedure.": 0.0015527950310559005, 
+        "pt": 0.003105590062111801, 
+        "re-start": 0.0015527950310559005, 
+        "receive": 0.0015527950310559005, 
+        "received": 0.0015527950310559005, 
+        "receiving": 0.0015527950310559005, 
+        "recent": 0.0015527950310559005, 
+        "renewed": 0.0015527950310559005, 
+        "reportedly": 0.0015527950310559005, 
+        "revealed": 0.0015527950310559005, 
+        "room.": 0.0015527950310559005, 
+        "sat.": 0.0015527950310559005, 
+        "sbp": 0.0015527950310559005, 
+        "seemed": 0.0015527950310559005, 
+        "set": 0.0015527950310559005, 
+        "set=2.": 0.0015527950310559005, 
+        "shortness": 0.0015527950310559005, 
+        "sleep": 0.0015527950310559005, 
+        "so": 0.0015527950310559005, 
+        "sob": 0.0015527950310559005, 
+        "stable": 0.0015527950310559005, 
+        "statin": 0.0015527950310559005, 
+        "stent": 0.0015527950310559005, 
+        "stent.": 0.0015527950310559005, 
+        "stented": 0.0015527950310559005, 
+        "stenting": 0.0015527950310559005, 
+        "stopped": 0.0015527950310559005, 
+        "summary": 0.0015527950310559005, 
+        "switched": 0.0015527950310559005, 
+        "tablets": 0.0015527950310559005, 
+        "take": 0.0015527950310559005, 
+        "taking": 0.0015527950310559005, 
+        "taper": 0.0015527950310559005, 
+        "teaching": 0.0015527950310559005, 
+        "than": 0.0015527950310559005, 
+        "the": 0.006211180124223602, 
+        "this": 0.006211180124223602, 
+        "time": 0.0015527950310559005, 
+        "tni": 0.0015527950310559005, 
+        "to": 0.013975155279503106, 
+        "today.": 0.0015527950310559005, 
+        "tolerated": 0.0015527950310559005, 
+        "tomorrow": 0.0015527950310559005, 
+        "tongue": 0.0015527950310559005, 
+        "twi": 0.0015527950310559005, 
+        "tx": 0.0015527950310559005, 
+        "under": 0.0015527950310559005, 
+        "unless": 0.003105590062111801, 
+        "up": 0.004658385093167702, 
+        "w/": 0.0015527950310559005, 
+        "was": 0.006211180124223602, 
+        "weeks": 0.003105590062111801, 
+        "weeks.": 0.003105590062111801, 
+        "which": 0.003105590062111801, 
+        "while": 0.0015527950310559005, 
+        "will": 0.004658385093167702, 
+        "with": 0.015527950310559006, 
+        "without": 0.0015527950310559005, 
+        "x": 0.0015527950310559005, 
+        "you": 0.003105590062111801, 
+        "your": 0.009316770186335404, 
+        "zocor": 0.0015527950310559005, 
+        "zoloft": 0.0015527950310559005, 
+        "|": 0.013975155279503106
+    }
+}

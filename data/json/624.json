@@ -1,0 +1,4643 @@
+{
+    "bi": {
+        "#asthma#": {
+            ")": 0.5, 
+            "mild": 0.5
+        }, 
+        "#obese#": {
+            ",": 1.0
+        }, 
+        ")": {
+            "1": 0.3333333333333333, 
+            "2": 0.3333333333333333, 
+            "3": 0.3333333333333333
+        }, 
+        ",": {
+            "#obese#": 0.01282051282051282, 
+            "000": 0.01282051282051282, 
+            "1.7": 0.01282051282051282, 
+            "110": 0.01282051282051282, 
+            "112": 0.01282051282051282, 
+            "13.6": 0.01282051282051282, 
+            "137": 0.01282051282051282, 
+            "14": 0.01282051282051282, 
+            "140": 0.01282051282051282, 
+            "154/82": 0.01282051282051282, 
+            "195/95": 0.01282051282051282, 
+            "28": 0.01282051282051282, 
+            "28/6": 0.01282051282051282, 
+            "4.4": 0.01282051282051282, 
+            "47.6": 0.01282051282051282, 
+            "56": 0.01282051282051282, 
+            "6": 0.01282051282051282, 
+            "6.4": 0.01282051282051282, 
+            "74": 0.01282051282051282, 
+            "85": 0.01282051282051282, 
+            "AMASS": 0.01282051282051282, 
+            "CATINO": 0.01282051282051282, 
+            "Center": 0.01282051282051282, 
+            "EKG": 0.01282051282051282, 
+            "F": 0.01282051282051282, 
+            "However": 0.01282051282051282, 
+            "Moreover": 0.01282051282051282, 
+            "Normocephalic": 0.01282051282051282, 
+            "accommodation": 0.01282051282051282, 
+            "addition": 0.01282051282051282, 
+            "atraumatic": 0.01282051282051282, 
+            "b.i.d.": 0.05128205128205128, 
+            "beats": 0.02564102564102564, 
+            "bilaterally": 0.01282051282051282, 
+            "bruit": 0.01282051282051282, 
+            "bruits": 0.01282051282051282, 
+            "changes": 0.01282051282051282, 
+            "clubbing": 0.01282051282051282, 
+            "cyanosis": 0.01282051282051282, 
+            "delay": 0.01282051282051282, 
+            "disease": 0.01282051282051282, 
+            "diverticulosis": 0.01282051282051282, 
+            "dyspnea": 0.01282051282051282, 
+            "exercise": 0.01282051282051282, 
+            "fatigue": 0.01282051282051282, 
+            "fissure": 0.01282051282051282, 
+            "gallops": 0.01282051282051282, 
+            "gender": 0.01282051282051282, 
+            "hospitalization": 0.01282051282051282, 
+            "however": 0.01282051282051282, 
+            "hypertension": 0.01282051282051282, 
+            "imaging": 0.01282051282051282, 
+            "infiltrates": 0.01282051282051282, 
+            "information": 0.01282051282051282, 
+            "intact": 0.01282051282051282, 
+            "lesion": 0.038461538461538464, 
+            "minute": 0.01282051282051282, 
+            "murmurs": 0.01282051282051282, 
+            "nausea": 0.01282051282051282, 
+            "obstruction": 0.01282051282051282, 
+            "orthopnea": 0.01282051282051282, 
+            "pain": 0.01282051282051282, 
+            "point": 0.01282051282051282, 
+            "q.d.": 0.038461538461538464, 
+            "q.i.d.": 0.038461538461538464, 
+            "t.i.d.": 0.01282051282051282, 
+            "test": 0.01282051282051282, 
+            "work-up": 0.01282051282051282
+        }, 
+        "000": {
+            ",": 1.0
+        }, 
+        "088585": {
+            "|": 1.0
+        }, 
+        "1": {
+            "INCLUDES:": 1.0
+        }, 
+        "1+": {
+            "pulses": 1.0
+        }, 
+        "1.7": {
+            "creatinine": 1.0
+        }, 
+        "1/6": {
+            "on": 1.0
+        }, 
+        "10/10/94": {
+            "D:": 1.0
+        }, 
+        "10/11/1994": {
+            "Date:": 1.0
+        }, 
+        "10/16/94": {
+            "on": 1.0
+        }, 
+        "11/10/1994": {
+            "|": 1.0
+        }, 
+        "110": {
+            "of": 1.0
+        }, 
+        "112": {
+            "was": 1.0
+        }, 
+        "12:00:00": {
+            "11/10/1994": 1.0
+        }, 
+        "13.6": {
+            "was": 1.0
+        }, 
+        "137": {
+            "were": 1.0
+        }, 
+        "14": {
+            "had": 0.5, 
+            "of": 0.5
+        }, 
+        "14.": {
+            "respirations": 1.0
+        }, 
+        "140": {
+            "of": 1.0
+        }, 
+        "154/82": {
+            "of": 1.0
+        }, 
+        "180": {
+            "SR": 1.0
+        }, 
+        "195/95": {
+            "was": 1.0
+        }, 
+        "2": {
+            "HYPERTENSION.": 1.0
+        }, 
+        "2+": {
+            "pulses": 1.0
+        }, 
+        "20": {
+            "Feldene": 1.0
+        }, 
+        "24": {
+            "the": 1.0
+        }, 
+        "240": {
+            "SR": 1.0
+        }, 
+        "25": {
+            "Captopril": 1.0
+        }, 
+        "28": {
+            "of": 1.0
+        }, 
+        "28/6": {
+            "of": 1.0
+        }, 
+        "3": {
+            "#asthma#": 1.0
+        }, 
+        "3/6/94": {
+            "from": 1.0
+        }, 
+        "3/7/1994": {
+            "Date:": 1.0
+        }, 
+        "325": {
+            "Ecotrin": 1.0
+        }, 
+        "3607": {
+            "Batch:": 1.0
+        }, 
+        "4.4": {
+            "of": 1.0
+        }, 
+        "40": {
+            "between": 1.0
+        }, 
+        "47.3.": {
+            "was": 1.0
+        }, 
+        "47.6": {
+            "was": 1.0
+        }, 
+        "56": {
+            "at": 1.0
+        }, 
+        "6": {
+            "of": 1.0
+        }, 
+        "6.4": {
+            "was": 1.0
+        }, 
+        "70%": {
+            "a": 1.0
+        }, 
+        "73": {
+            "a": 1.0
+        }, 
+        "74": {
+            "rate": 1.0
+        }, 
+        "85": {
+            "and": 1.0
+        }, 
+        "9/1/94": {
+            "on": 1.0
+        }, 
+        "903526414": {
+            "": 1.0
+        }, 
+        "99212698": {
+            "|": 1.0
+        }, 
+        "ALLERGIES:": {
+            "age.": 1.0
+        }, 
+        "AM": {
+            "12:00:00": 1.0
+        }, 
+        "AMASS": {
+            "H.": 1.0
+        }, 
+        "AND": {
+            "OPERATIONS": 1.0
+        }, 
+        "ARTERY": {
+            "CORONARY": 1.0
+        }, 
+        "Admission": {
+            "|": 1.0
+        }, 
+        "Andsi": {
+            "at": 1.0
+        }, 
+        "Arl": {
+            "in": 1.0
+        }, 
+        "Aspirin": {
+            "and": 1.0
+        }, 
+        "At": {
+            "pacer.": 1.0
+        }, 
+        "Attending:": {
+            "XR88": 1.0
+        }, 
+        "Azmacort": {
+            ",": 0.5, 
+            "and": 0.5
+        }, 
+        "BUN": {
+            ",": 1.0
+        }, 
+        "Batch:": {
+            "PL540/4580": 1.0
+        }, 
+        "Because": {
+            "diaphoresis.": 0.5, 
+            "improvement.": 0.5
+        }, 
+        "Beconase": {
+            ",": 1.0
+        }, 
+        "Berke": {
+            "on": 1.0
+        }, 
+        "Brethaire": {
+            ",": 1.0
+        }, 
+        "Bruce": {
+            "modified": 1.0
+        }, 
+        "Burch": {
+            "Dr.": 1.0
+        }, 
+        "By:": {
+            "Dictated": 1.0
+        }, 
+        "CARDIAC:": {
+            "bilaterally.": 1.0
+        }, 
+        "CATINO": {
+            "JOSEF": 1.0
+        }, 
+        "CONDITION": {
+            "b.i.d.": 1.0
+        }, 
+        "CORONARY": {
+            "DIAGNOSIS:": 1.0
+        }, 
+        "COURSE:": {
+            "HOSPITAL": 1.0
+        }, 
+        "CURRENT": {
+            "None.": 1.0
+        }, 
+        "Calan": {
+            "MEDICATIONS:": 1.0
+        }, 
+        "Captopril": {
+            "MEDICATIONS:": 0.5, 
+            "of": 0.5
+        }, 
+        "Cardiac": {
+            "PROCEDURES:": 1.0
+        }, 
+        "Care": {
+            "Losblan": 1.0
+        }, 
+        "Center": {
+            "Medical": 1.0
+        }, 
+        "Clear": {
+            "LUNGS:": 1.0
+        }, 
+        "Collstate": {
+            "the": 1.0
+        }, 
+        "County": {
+            "Massbarre": 1.0
+        }, 
+        "D:": {
+            "FNRJSX2VD5": 1.0
+        }, 
+        "DEGENERATIVE": {
+            ")": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "DISCHARGE": 1.0
+        }, 
+        "DIS": {
+            "|": 1.0
+        }, 
+        "DISCHARGE": {
+            "10/11/1994": 0.5, 
+            "DISPOSITION:": 0.5
+        }, 
+        "DISCHARGE:": {
+            "ON": 1.0
+        }, 
+        "DISEASE.": {
+            "ARTERY": 0.5, 
+            "JOINT": 0.5
+        }, 
+        "DISPOSITION:": {
+            "none.": 1.0
+        }, 
+        "Date:": {
+            "Admission": 0.5, 
+            "Discharge": 0.5
+        }, 
+        "Dictated": {
+            "time.": 1.0
+        }, 
+        "Discharge": {
+            "Signed": 0.5, 
+            "|": 0.5
+        }, 
+        "Dr.": {
+            "to": 0.5, 
+            "with": 0.5
+        }, 
+        "EDWARDO": {
+            "Attending:": 1.0
+        }, 
+        "EKG": {
+            "His": 0.16666666666666666, 
+            "baseline": 0.16666666666666666, 
+            "his": 0.3333333333333333, 
+            "patient's": 0.16666666666666666, 
+            "this": 0.16666666666666666
+        }, 
+        "EXAMINATION:": {
+            "LABORATORY": 0.5, 
+            "PHYSICAL": 0.5
+        }, 
+        "EXTREMITIES:": {
+            "rubs.": 1.0
+        }, 
+        "Ecotrin": {
+            ",": 1.0
+        }, 
+        "Examination": {
+            "CARDIAC:": 1.0
+        }, 
+        "F": {
+            "and": 1.0
+        }, 
+        "FNRJSX2VD5": {
+            "No.": 1.0
+        }, 
+        "Feldene": {
+            ",": 1.0
+        }, 
+        "G": {
+            "Patricia": 1.0
+        }, 
+        "Given": {
+            "septum.": 1.0
+        }, 
+        "H.": {
+            "EDWARDO": 1.0
+        }, 
+        "HEENT:": {
+            "14.": 1.0
+        }, 
+        "HISTORY": {
+            "DISEASE.": 1.0
+        }, 
+        "HISTORY:": {
+            "MEDICAL": 1.0
+        }, 
+        "HOSPITAL": {
+            "hemi-block.": 1.0
+        }, 
+        "HU5": {
+            "M.D.": 1.0
+        }, 
+        "HYPERTENSION.": {
+            ")": 1.0
+        }, 
+        "Hanghab": {
+            "at": 1.0
+        }, 
+        "He": {
+            "delay.": 0.14285714285714285, 
+            "edema.": 0.14285714285714285, 
+            "hemorrhoids.": 0.14285714285714285, 
+            "monitoring.": 0.14285714285714285, 
+            "precordium.": 0.14285714285714285, 
+            "pressure.": 0.14285714285714285, 
+            "whatsoever.": 0.14285714285714285
+        }, 
+        "Hend": {
+            "the": 1.0
+        }, 
+        "His": {
+            "#asthma#": 0.2, 
+            "47.3.": 0.2, 
+            "arrhythmias.": 0.2, 
+            "lesion.": 0.2, 
+            "precipitant.": 0.2
+        }, 
+        "Holter": {
+            "disease.": 0.3333333333333333, 
+            "of": 0.3333333333333333, 
+            "with": 0.3333333333333333
+        }, 
+        "Hospital": {
+            "Memorial": 0.5, 
+            "Rexas&": 0.5
+        }, 
+        "However": {
+            "thallium.": 1.0
+        }, 
+        "III": {
+            "in": 1.0
+        }, 
+        "ILLNESS:": {
+            "PRESENT": 1.0
+        }, 
+        "INCLUDES:": {
+            "LIST": 1.0
+        }, 
+        "In": {
+            "hemi-block.": 1.0
+        }, 
+        "Index": {
+            "3607": 1.0
+        }, 
+        "It": {
+            "control.": 0.5, 
+            "hemi-block.": 0.5
+        }, 
+        "JOINT": {
+            "DEGENERATIVE": 1.0
+        }, 
+        "JOSEF": {
+            "By:": 1.0
+        }, 
+        "LABORATORY": {
+            "edema.": 1.0
+        }, 
+        "LIST": {
+            "PROBLEM": 1.0
+        }, 
+        "LMC": {
+            "|": 1.0
+        }, 
+        "LUNGS:": {
+            "normal.": 1.0
+        }, 
+        "Losblan": {
+            "Hend": 1.0
+        }, 
+        "M.D.": {
+            ",": 1.0
+        }, 
+        "MEDICAL": {
+            "PAST": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "CURRENT": 0.5, 
+            "DISCHARGE": 0.5
+        }, 
+        "MIBI": {
+            "His": 0.25, 
+            "by": 0.25, 
+            "stress": 0.25, 
+            "test": 0.25
+        }, 
+        "Massbarre": {
+            "the": 1.0
+        }, 
+        "Medical": {
+            "Andsi": 0.5, 
+            "Hanghab": 0.5
+        }, 
+        "Memorial": {
+            "County": 1.0
+        }, 
+        "Moreover": {
+            "time.": 1.0
+        }, 
+        "NECK:": {
+            "benign.": 1.0
+        }, 
+        "No.": {
+            "Index": 1.0
+        }, 
+        "None.": {
+            "ALLERGIES:": 1.0
+        }, 
+        "Normocephalic": {
+            "HEENT:": 1.0
+        }, 
+        "OF": {
+            "HISTORY": 1.0
+        }, 
+        "OM1": {
+            "occluded": 1.0
+        }, 
+        "ON": {
+            "CONDITION": 1.0
+        }, 
+        "OPERATIONS": {
+            "home.": 1.0
+        }, 
+        "Ocean": {
+            ",": 1.0
+        }, 
+        "On": {
+            "hypokinesis.": 1.0
+        }, 
+        "PAST": {
+            "tolerance.": 1.0
+        }, 
+        "PHYSICAL": {
+            "q.d.": 1.0
+        }, 
+        "PL540/4580": {
+            "HU5": 1.0
+        }, 
+        "PRESENT": {
+            "OF": 1.0
+        }, 
+        "PROBLEM": {
+            "DISEASE.": 1.0
+        }, 
+        "PROCEDURES:": {
+            "AND": 1.0
+        }, 
+        "PT": {
+            "his": 1.0
+        }, 
+        "PTT": {
+            "his": 1.0
+        }, 
+        "Palenzuela": {
+            "G": 1.0
+        }, 
+        "Patricia": {
+            "Dr.": 1.0
+        }, 
+        "Pringcori": {
+            "Arl": 1.0
+        }, 
+        "R": {
+            "poor": 1.0
+        }, 
+        "Report": {
+            "3/7/1994": 1.0
+        }, 
+        "Revealed": {
+            "EXTREMITIES:": 1.0
+        }, 
+        "Rexas&": {
+            "the": 1.0
+        }, 
+        "SR": {
+            "Calan": 0.5, 
+            "Verapamil": 0.5
+        }, 
+        "ST": {
+            "no": 1.0
+        }, 
+        "Signed": {
+            "Status:": 0.5, 
+            "|": 0.5
+        }, 
+        "Significant": {
+            "EXAMINATION:": 0.5, 
+            "HISTORY:": 0.5
+        }, 
+        "Spray": {
+            "Ocean": 1.0
+        }, 
+        "Stable.": {
+            "DISCHARGE:": 1.0
+        }, 
+        "Status:": {
+            "Report": 1.0
+        }, 
+        "Summary": {
+            "Discharge": 1.0
+        }, 
+        "Supple": {
+            "NECK:": 1.0
+        }, 
+        "T": {
+            "deep": 0.5, 
+            "new": 0.5
+        }, 
+        "T:": {
+            "10/10/94": 1.0
+        }, 
+        "The": {
+            "COURSE:": 0.25, 
+            "Stable.": 0.25, 
+            "catheterization.": 0.25, 
+            "unnecessary.": 0.25
+        }, 
+        "This": {
+            "EXAMINATION:": 0.5, 
+            "ILLNESS:": 0.5
+        }, 
+        "Ton": {
+            "Pringcori": 1.0
+        }, 
+        "Ventolin": {
+            ",": 1.0
+        }, 
+        "Verapamil": {
+            ",": 1.0
+        }, 
+        "While": {
+            "infarction.": 1.0
+        }, 
+        "X-Ray": {
+            "chest": 1.0
+        }, 
+        "XR88": {
+            "M.D.": 1.0
+        }, 
+        "a": {
+            ",": 0.1935483870967742, 
+            "after": 0.03225806451612903, 
+            "and": 0.06451612903225806, 
+            "for": 0.0967741935483871, 
+            "had": 0.06451612903225806, 
+            "has": 0.03225806451612903, 
+            "is": 0.03225806451612903, 
+            "justify": 0.03225806451612903, 
+            "of": 0.03225806451612903, 
+            "perform": 0.03225806451612903, 
+            "revealed": 0.0967741935483871, 
+            "than": 0.03225806451612903, 
+            "that": 0.03225806451612903, 
+            "undergo": 0.03225806451612903, 
+            "underwent": 0.03225806451612903, 
+            "was": 0.03225806451612903, 
+            "with": 0.12903225806451613
+        }, 
+        "above": {
+            "the": 1.0
+        }, 
+        "accommodation": {
+            "and": 1.0
+        }, 
+        "achieved": {
+            "was": 1.0
+        }, 
+        "across": {
+            "progression": 1.0
+        }, 
+        "addition": {
+            "In": 0.5, 
+            "the": 0.5
+        }, 
+        "adequate": {
+            "an": 0.5, 
+            "with": 0.5
+        }, 
+        "admitted": {
+            "was": 1.0
+        }, 
+        "advanced": {
+            "more": 1.0
+        }, 
+        "after": {
+            "9/1/94": 1.0
+        }, 
+        "age.": {
+            "and": 1.0
+        }, 
+        "also": {
+            "He": 0.6666666666666666, 
+            "was": 0.3333333333333333
+        }, 
+        "alternated": {
+            "EKG": 0.5, 
+            "he": 0.5
+        }, 
+        "alternating": {
+            "of": 0.5, 
+            "with": 0.5
+        }, 
+        "ambulating": {
+            "is": 1.0
+        }, 
+        "an": {
+            ",": 0.25, 
+            "be": 0.125, 
+            "despite": 0.125, 
+            "for": 0.125, 
+            "on": 0.125, 
+            "revealed": 0.125, 
+            "with": 0.125
+        }, 
+        "analysis": {
+            "further": 1.0
+        }, 
+        "and": {
+            ",": 0.36666666666666664, 
+            "40": 0.03333333333333333, 
+            "III": 0.03333333333333333, 
+            "anterior": 0.03333333333333333, 
+            "diaphoresis": 0.03333333333333333, 
+            "diaphoretic": 0.03333333333333333, 
+            "discharge": 0.03333333333333333, 
+            "disease": 0.03333333333333333, 
+            "distention": 0.03333333333333333, 
+            "evaluation": 0.03333333333333333, 
+            "hemi-block": 0.06666666666666667, 
+            "leads": 0.03333333333333333, 
+            "light": 0.03333333333333333, 
+            "monitoring": 0.03333333333333333, 
+            "nausea": 0.03333333333333333, 
+            "pedis": 0.03333333333333333, 
+            "performed": 0.03333333333333333, 
+            "rate": 0.03333333333333333, 
+            "round": 0.03333333333333333
+        }, 
+        "anterior": {
+            "left": 1.0
+        }, 
+        "anteroapical": {
+            "revealed": 1.0
+        }, 
+        "any": {
+            "denied": 0.6666666666666666, 
+            "without": 0.3333333333333333
+        }, 
+        "apparent": {
+            "no": 1.0
+        }, 
+        "arrhythmias.": {
+            "no": 1.0
+        }, 
+        "artery": {
+            "coronary": 1.0
+        }, 
+        "as": {
+            ",": 0.25, 
+            "EKG": 0.25, 
+            "well": 0.5
+        }, 
+        "assess": {
+            "to": 1.0
+        }, 
+        "assistance": {
+            "without": 1.0
+        }, 
+        "at": {
+            "3/6/94": 0.16666666666666666, 
+            "Burch": 0.16666666666666666, 
+            "While": 0.16666666666666666, 
+            "X-Ray": 0.16666666666666666, 
+            "bradycardia": 0.16666666666666666, 
+            "necessary": 0.16666666666666666
+        }, 
+        "atraumatic": {
+            ",": 1.0
+        }, 
+        "atrial": {
+            "occasional": 0.5, 
+            "right": 0.5
+        }, 
+        "auscultation": {
+            "to": 1.0
+        }, 
+        "b.i.d.": {
+            "inhaler": 0.4, 
+            "p.o.": 0.2, 
+            "puffs": 0.4
+        }, 
+        "baseline": {
+            "his": 1.0
+        }, 
+        "be": {
+            "may": 0.25, 
+            "not": 0.5, 
+            "to": 0.25
+        }, 
+        "beats": {
+            "premature": 1.0
+        }, 
+        "became": {
+            "patient": 1.0
+        }, 
+        "being": {
+            "is": 1.0
+        }, 
+        "benign.": {
+            "was": 1.0
+        }, 
+        "between": {
+            "alternated": 0.6666666666666666, 
+            "rhythm": 0.3333333333333333
+        }, 
+        "bilaterally": {
+            "1+": 1.0
+        }, 
+        "bilaterally.": {
+            "auscultation": 1.0
+        }, 
+        "blood": {
+            "a": 0.25, 
+            "adequate": 0.25, 
+            "maximum": 0.25, 
+            "non-palpable": 0.25
+        }, 
+        "bolus": {
+            "fluid": 1.0
+        }, 
+        "bowel": {
+            "small": 1.0
+        }, 
+        "bradycardia": {
+            "sinus": 1.0
+        }, 
+        "bruit": {
+            "carotid": 1.0
+        }, 
+        "bruits": {
+            "without": 1.0
+        }, 
+        "by": {
+            "ischemia": 1.0
+        }, 
+        "capillary": {
+            "pulmonary": 1.0
+        }, 
+        "cardiac": {
+            "a": 0.5, 
+            "undergo": 0.5
+        }, 
+        "carotid": {
+            "his": 0.5, 
+            "left": 0.5
+        }, 
+        "catheterization": {
+            "Cardiac": 0.5, 
+            "cardiac": 0.5
+        }, 
+        "catheterization.": {
+            "cardiac": 1.0
+        }, 
+        "change": {
+            "no": 0.5, 
+            "recent": 0.5
+        }, 
+        "changes": {
+            "ST": 1.0
+        }, 
+        "chest": {
+            "His": 0.5, 
+            "no": 0.5
+        }, 
+        "clubbing": {
+            "no": 1.0
+        }, 
+        "complications": {
+            "with": 1.0
+        }, 
+        "conduction": {
+            "advanced": 0.14285714285714285, 
+            "alternating": 0.14285714285714285, 
+            "baseline": 0.14285714285714285, 
+            "intraventricular": 0.2857142857142857, 
+            "severe": 0.2857142857142857
+        }, 
+        "control.": {
+            "pressure": 1.0
+        }, 
+        "coronary": {
+            "His": 0.5, 
+            "right": 0.5
+        }, 
+        "could": {
+            "test": 1.0
+        }, 
+        "count": {
+            "white": 1.0
+        }, 
+        "couple": {
+            "a": 1.0
+        }, 
+        "course": {
+            "hospital": 1.0
+        }, 
+        "creatinine": {
+            ",": 1.0
+        }, 
+        "cyanosis": {
+            ",": 1.0
+        }, 
+        "decision": {
+            "The": 0.5, 
+            "the": 0.5
+        }, 
+        "deep": {
+            "had": 1.0
+        }, 
+        "defect": {
+            "inferior": 1.0
+        }, 
+        "degenerate": {
+            "not": 1.0
+        }, 
+        "degenerated": {
+            "he": 1.0
+        }, 
+        "degenerative": {
+            "of": 1.0
+        }, 
+        "delay": {
+            "conduction": 1.0
+        }, 
+        "delay.": {
+            "conduction": 1.0
+        }, 
+        "denied": {
+            "also": 0.5, 
+            "patient": 0.5
+        }, 
+        "descending": {
+            "anterior": 1.0
+        }, 
+        "despite": {
+            "etiology": 1.0
+        }, 
+        "diagonal": {
+            "second": 1.0
+        }, 
+        "diaphoresis": {
+            "heavy": 0.5, 
+            "or": 0.5
+        }, 
+        "diaphoresis.": {
+            "and": 1.0
+        }, 
+        "diaphoretic": {
+            "became": 1.0
+        }, 
+        "did": {
+            "patient": 1.0
+        }, 
+        "discharge": {
+            "for": 1.0
+        }, 
+        "discharged": {
+            "being": 1.0
+        }, 
+        "disease": {
+            "joint": 0.25, 
+            "system": 0.75
+        }, 
+        "disease.": {
+            "conduction": 1.0
+        }, 
+        "distal": {
+            "70%": 1.0
+        }, 
+        "distention": {
+            "venous": 1.0
+        }, 
+        "distress": {
+            "apparent": 1.0
+        }, 
+        "diverticulosis": {
+            ",": 1.0
+        }, 
+        "dorsalis": {
+            ",": 1.0
+        }, 
+        "during": {
+            "achieved": 0.3333333333333333, 
+            "diaphoresis": 0.3333333333333333, 
+            "symptoms": 0.3333333333333333
+        }, 
+        "dyspnea": {
+            "nocturnal": 1.0
+        }, 
+        "each": {
+            ",": 1.0
+        }, 
+        "edema.": {
+            "or": 0.5, 
+            "peripheral": 0.5
+        }, 
+        "enlarged": {
+            "an": 1.0
+        }, 
+        "episodes": {
+            "further": 0.3333333333333333, 
+            "no": 0.3333333333333333, 
+            "of": 0.3333333333333333
+        }, 
+        "equally": {
+            "pupils": 1.0
+        }, 
+        "etiology": {
+            "uncertain": 1.0
+        }, 
+        "evaluation": {
+            "MIBI": 1.0
+        }, 
+        "examination": {
+            "MIBI": 1.0
+        }, 
+        "exercise": {
+            "He": 0.2, 
+            "an": 0.4, 
+            "in": 0.2, 
+            "with": 0.2
+        }, 
+        "extending": {
+            "defect": 1.0
+        }, 
+        "extensive": {
+            "an": 1.0
+        }, 
+        "extraocular": {
+            ",": 1.0
+        }, 
+        "fact": {
+            "the": 1.0
+        }, 
+        "factors": {
+            "risk": 1.0
+        }, 
+        "fatigue": {
+            "leg": 1.0
+        }, 
+        "felt": {
+            "therefore": 0.16666666666666666, 
+            "was": 0.8333333333333334
+        }, 
+        "femoral": {
+            "Revealed": 1.0
+        }, 
+        "fissure": {
+            "rectal": 1.0
+        }, 
+        "fixed": {
+            "a": 1.0
+        }, 
+        "fluid": {
+            "intravenous": 1.0
+        }, 
+        "follow-up": {
+            "for": 1.0
+        }, 
+        "for": {
+            "Significant": 0.2857142857142857, 
+            "home": 0.14285714285714285, 
+            "notable": 0.14285714285714285, 
+            "out": 0.14285714285714285, 
+            "sent": 0.14285714285714285, 
+            "stable": 0.14285714285714285
+        }, 
+        "four": {
+            "Azmacort": 1.0
+        }, 
+        "from": {
+            "EKG": 1.0
+        }, 
+        "further": {
+            "On": 0.5, 
+            "had": 0.5
+        }, 
+        "gallops": {
+            ",": 1.0
+        }, 
+        "gender": {
+            ",": 1.0
+        }, 
+        "gentleman": {
+            "old": 1.0
+        }, 
+        "glucose": {
+            ",": 1.0
+        }, 
+        "had": {
+            "He": 0.18181818181818182, 
+            "he": 0.6363636363636364, 
+            "patient": 0.18181818181818182
+        }, 
+        "has": {
+            "also": 1.0
+        }, 
+        "he": {
+            ",": 0.42857142857142855, 
+            "Because": 0.07142857142857142, 
+            "and": 0.21428571428571427, 
+            "if": 0.07142857142857142, 
+            "that": 0.07142857142857142, 
+            "where": 0.07142857142857142, 
+            "which": 0.07142857142857142
+        }, 
+        "heart": {
+            ",": 0.3333333333333333, 
+            "enlarged": 0.3333333333333333, 
+            "maximum": 0.3333333333333333
+        }, 
+        "heavy": {
+            "of": 1.0
+        }, 
+        "hematocrit": {
+            ",": 1.0
+        }, 
+        "hemi-block": {
+            "anterior": 0.6666666666666666, 
+            "posterior": 0.3333333333333333
+        }, 
+        "hemi-block.": {
+            "posterior": 1.0
+        }, 
+        "hemodynamics": {
+            "revealed": 1.0
+        }, 
+        "hemorrhoids.": {
+            "and": 1.0
+        }, 
+        "him": {
+            "provide": 1.0
+        }, 
+        "his": {
+            ",": 0.42857142857142855, 
+            "across": 0.07142857142857142, 
+            "and": 0.07142857142857142, 
+            "during": 0.14285714285714285, 
+            "in": 0.07142857142857142, 
+            "of": 0.07142857142857142, 
+            "that": 0.07142857142857142, 
+            "to": 0.07142857142857142
+        }, 
+        "history": {
+            "a": 0.75, 
+            "medical": 0.25
+        }, 
+        "home": {
+            "patient": 0.5, 
+            "to": 0.5
+        }, 
+        "home.": {
+            "to": 1.0
+        }, 
+        "hospital": {
+            "his": 1.0
+        }, 
+        "hospitalization": {
+            "his": 1.0
+        }, 
+        "hours": {
+            "14": 0.3333333333333333, 
+            "24": 0.3333333333333333, 
+            "two": 0.3333333333333333
+        }, 
+        "however": {
+            ",": 1.0
+        }, 
+        "hypertension": {
+            "include": 0.5, 
+            "of": 0.5
+        }, 
+        "hypokinesis.": {
+            "anteroapical": 1.0
+        }, 
+        "identifiable": {
+            "an": 1.0
+        }, 
+        "if": {
+            "assess": 1.0
+        }, 
+        "imaging": {
+            "nuclear": 1.0
+        }, 
+        "improvement.": {
+            "subsequent": 1.0
+        }, 
+        "in": {
+            "Berke": 0.14285714285714285, 
+            "Ton": 0.14285714285714285, 
+            "change": 0.2857142857142857, 
+            "inversion": 0.14285714285714285, 
+            "inversions": 0.14285714285714285, 
+            "male": 0.14285714285714285
+        }, 
+        "include": {
+            "factors": 1.0
+        }, 
+        "indication": {
+            "an": 1.0
+        }, 
+        "infarction.": {
+            "myocardial": 1.0
+        }, 
+        "inferior": {
+            "fixed": 0.5, 
+            "the": 0.5
+        }, 
+        "infiltrates": {
+            "pulmonary": 1.0
+        }, 
+        "information": {
+            "above": 1.0
+        }, 
+        "inhaler": {
+            "puffs": 1.0
+        }, 
+        "intact": {
+            "movements": 1.0
+        }, 
+        "intermittent": {
+            "as": 1.0
+        }, 
+        "intravenous": {
+            "an": 1.0
+        }, 
+        "intraventricular": {
+            "intermittent": 0.5, 
+            "non-specific": 0.5
+        }, 
+        "inversion": {
+            "wave": 1.0
+        }, 
+        "inversions": {
+            "wave": 1.0
+        }, 
+        "is": {
+            "He": 0.16666666666666666, 
+            "It": 0.16666666666666666, 
+            "This": 0.16666666666666666, 
+            "and": 0.16666666666666666, 
+            "patient": 0.16666666666666666, 
+            "that": 0.16666666666666666
+        }, 
+        "ischemia": {
+            "provokeable": 1.0
+        }, 
+        "it": {
+            ",": 0.6666666666666666, 
+            "and": 0.3333333333333333
+        }, 
+        "joint": {
+            "degenerative": 1.0
+        }, 
+        "jugular": {
+            "no": 1.0
+        }, 
+        "justify": {
+            "possibly": 1.0
+        }, 
+        "lasting": {
+            "each": 1.0
+        }, 
+        "leads": {
+            "inferior": 1.0
+        }, 
+        "left": {
+            ",": 0.1, 
+            "His": 0.1, 
+            "a": 0.1, 
+            "and": 0.3, 
+            "between": 0.2, 
+            "mid": 0.1, 
+            "of": 0.1
+        }, 
+        "leg": {
+            "to": 1.0
+        }, 
+        "lesion": {
+            "OM1": 0.3333333333333333, 
+            "descending": 0.3333333333333333, 
+            "diagonal": 0.3333333333333333
+        }, 
+        "lesion.": {
+            "artery": 1.0
+        }, 
+        "less": {
+            "lasting": 1.0
+        }, 
+        "light": {
+            "to": 1.0
+        }, 
+        "male": {
+            "pleasant": 1.0
+        }, 
+        "maximum": {
+            "his": 1.0
+        }, 
+        "may": {
+            "symptoms": 1.0
+        }, 
+        "mean": {
+            "atrial": 0.5, 
+            "capillary": 0.5
+        }, 
+        "medical": {
+            "adequate": 0.3333333333333333, 
+            "his": 0.3333333333333333, 
+            "past": 0.3333333333333333
+        }, 
+        "mg": {
+            "180": 0.25, 
+            "20": 0.25, 
+            "25": 0.25, 
+            "325": 0.25
+        }, 
+        "microhematuria": {
+            ",": 1.0
+        }, 
+        "mid": {
+            "occluded": 1.0
+        }, 
+        "mild": {
+            "of": 1.0
+        }, 
+        "minute": {
+            "a": 1.0
+        }, 
+        "minutes": {
+            "twelve": 1.0
+        }, 
+        "modified": {
+            "a": 1.0
+        }, 
+        "monitor": {
+            "to": 1.0
+        }, 
+        "monitoring": {
+            "Holter": 1.0
+        }, 
+        "monitoring.": {
+            "Holter": 1.0
+        }, 
+        "more": {
+            "of": 0.3333333333333333, 
+            "to": 0.6666666666666666
+        }, 
+        "movements": {
+            "extraocular": 1.0
+        }, 
+        "murmurs": {
+            "any": 1.0
+        }, 
+        "myocardial": {
+            "for": 1.0
+        }, 
+        "nausea": {
+            "and": 0.3333333333333333, 
+            "of": 0.6666666666666666
+        }, 
+        "nauseous": {
+            "and": 1.0
+        }, 
+        "necessary": {
+            "be": 1.0
+        }, 
+        "new": {
+            "revealed": 1.0
+        }, 
+        "no": {
+            "and": 0.08333333333333333, 
+            "as": 0.08333333333333333, 
+            "had": 0.5, 
+            "in": 0.08333333333333333, 
+            "with": 0.25
+        }, 
+        "nocturnal": {
+            "paroxysmal": 1.0
+        }, 
+        "non-palpable": {
+            "a": 1.0
+        }, 
+        "non-specific": {
+            "with": 1.0
+        }, 
+        "none.": {
+            "complications": 1.0
+        }, 
+        "normal.": {
+            "were": 1.0
+        }, 
+        "not": {
+            "could": 0.3333333333333333, 
+            "did": 0.3333333333333333, 
+            "would": 0.3333333333333333
+        }, 
+        "notable": {
+            "also": 1.0
+        }, 
+        "noteworthy": {
+            "is": 1.0
+        }, 
+        "nuclear": {
+            "a": 1.0
+        }, 
+        "obstruction": {
+            "bowel": 1.0
+        }, 
+        "occasional": {
+            "of": 1.0
+        }, 
+        "occluded": {
+            "totally": 1.0
+        }, 
+        "of": {
+            "BUN": 0.037037037037037035, 
+            "Because": 0.037037037037037035, 
+            "addition": 0.037037037037037035, 
+            "analysis": 0.037037037037037035, 
+            "couple": 0.037037037037037035, 
+            "episodes": 0.1111111111111111, 
+            "glucose": 0.037037037037037035, 
+            "hemodynamics": 0.037037037037037035, 
+            "history": 0.14814814814814814, 
+            "hours": 0.1111111111111111, 
+            "indication": 0.037037037037037035, 
+            "mean": 0.037037037037037035, 
+            "microhematuria": 0.037037037037037035, 
+            "pattern": 0.07407407407407407, 
+            "potassium": 0.037037037037037035, 
+            "pressure": 0.1111111111111111, 
+            "sodium": 0.037037037037037035
+        }, 
+        "old": {
+            "year": 1.0
+        }, 
+        "on": {
+            "Collstate": 0.14285714285714285, 
+            "Palenzuela": 0.14285714285714285, 
+            "catheterization": 0.2857142857142857, 
+            "home": 0.14285714285714285, 
+            "monitoring": 0.14285714285714285, 
+            "protocol": 0.14285714285714285
+        }, 
+        "one": {
+            "Aspirin": 0.5, 
+            "in": 0.5
+        }, 
+        "or": {
+            ",": 0.75, 
+            "nausea": 0.25
+        }, 
+        "oropharynx": {
+            "and": 1.0
+        }, 
+        "orthopnea": {
+            ",": 1.0
+        }, 
+        "out": {
+            "ruled": 1.0
+        }, 
+        "p.o.": {
+            "240": 0.16666666666666666, 
+            "mg": 0.6666666666666666, 
+            "one": 0.16666666666666666
+        }, 
+        "pacer": {
+            "a": 1.0
+        }, 
+        "pacer.": {
+            "a": 1.0
+        }, 
+        "pain": {
+            "chest": 1.0
+        }, 
+        "paroxysmal": {
+            "any": 1.0
+        }, 
+        "particularly": {
+            ",": 1.0
+        }, 
+        "past": {
+            "a": 1.0
+        }, 
+        "patient": {
+            "The": 0.3, 
+            "the": 0.7
+        }, 
+        "patient's": {
+            "the": 1.0
+        }, 
+        "pattern": {
+            "a": 0.5, 
+            "alternating": 0.5
+        }, 
+        "pedis": {
+            "dorsalis": 1.0
+        }, 
+        "perform": {
+            "to": 1.0
+        }, 
+        "performed": {
+            "be": 1.0
+        }, 
+        "peripheral": {
+            "or": 1.0
+        }, 
+        "platelets": {
+            ",": 1.0
+        }, 
+        "pleasant": {
+            "well-developed": 1.0
+        }, 
+        "point": {
+            "this": 1.0
+        }, 
+        "poor": {
+            "and": 1.0
+        }, 
+        "possibly": {
+            "would": 1.0
+        }, 
+        "posterior": {
+            "and": 0.16666666666666666, 
+            "left": 0.6666666666666666, 
+            "the": 0.16666666666666666
+        }, 
+        "potassium": {
+            "a": 1.0
+        }, 
+        "precipitant.": {
+            "identifiable": 1.0
+        }, 
+        "precordium": {
+            "quiet": 1.0
+        }, 
+        "precordium.": {
+            "his": 1.0
+        }, 
+        "premature": {
+            "atrial": 0.5, 
+            "ventricular": 0.5
+        }, 
+        "presented": {
+            "who": 1.0
+        }, 
+        "pressure": {
+            "blood": 0.6, 
+            "mean": 0.2, 
+            "ventricular": 0.2
+        }, 
+        "pressure.": {
+            "blood": 1.0
+        }, 
+        "prior": {
+            ",": 1.0
+        }, 
+        "progression": {
+            "wave": 1.0
+        }, 
+        "protocol": {
+            "Bruce": 1.0
+        }, 
+        "provide": {
+            "to": 1.0
+        }, 
+        "provokeable": {
+            "no": 1.0
+        }, 
+        "puffs": {
+            "four": 0.2857142857142857, 
+            "two": 0.7142857142857143
+        }, 
+        "pulmonary": {
+            "a": 0.5, 
+            "no": 0.5
+        }, 
+        "pulses": {
+            "femoral": 0.5, 
+            "tibial": 0.5
+        }, 
+        "pupils": {
+            ",": 1.0
+        }, 
+        "q.d.": {
+            "p.o.": 1.0
+        }, 
+        "q.i.d.": {
+            "inhaler": 0.6666666666666666, 
+            "puffs": 0.3333333333333333
+        }, 
+        "quiet": {
+            "very": 1.0
+        }, 
+        "rate": {
+            "heart": 0.6666666666666666, 
+            "regular": 0.3333333333333333
+        }, 
+        "reactive": {
+            "and": 1.0
+        }, 
+        "recent": {
+            "any": 1.0
+        }, 
+        "rectal": {
+            "of": 1.0
+        }, 
+        "regimen": {
+            "medical": 1.0
+        }, 
+        "regular": {
+            "a": 1.0
+        }, 
+        "respirations": {
+            "and": 1.0
+        }, 
+        "revascularization": {
+            "that": 1.0
+        }, 
+        "revealed": {
+            "1/6": 0.1111111111111111, 
+            "Center": 0.1111111111111111, 
+            "Examination": 0.1111111111111111, 
+            "Hospital": 0.1111111111111111, 
+            "evaluation": 0.1111111111111111, 
+            "examination": 0.1111111111111111, 
+            "there": 0.1111111111111111, 
+            "ventriculogram": 0.1111111111111111, 
+            "which": 0.1111111111111111
+        }, 
+        "rhythm": {
+            "and": 0.5, 
+            "sinus": 0.5
+        }, 
+        "right": {
+            "a": 0.6666666666666666, 
+            "distal": 0.3333333333333333
+        }, 
+        "risk": {
+            "coronary": 1.0
+        }, 
+        "round": {
+            "equally": 1.0
+        }, 
+        "rubs.": {
+            "or": 1.0
+        }, 
+        "ruled": {
+            "he": 1.0
+        }, 
+        "second": {
+            "tight": 1.0
+        }, 
+        "secondary": {
+            "stopping": 1.0
+        }, 
+        "send": {
+            "to": 1.0
+        }, 
+        "sent": {
+            "was": 1.0
+        }, 
+        "septum.": {
+            "posterior": 1.0
+        }, 
+        "severe": {
+            "more": 1.0
+        }, 
+        "sinus": {
+            "revealed": 1.0
+        }, 
+        "small": {
+            "a": 1.0
+        }, 
+        "sodium": {
+            "a": 1.0
+        }, 
+        "stable": {
+            "be": 1.0
+        }, 
+        "stopping": {
+            "minutes": 1.0
+        }, 
+        "stress": {
+            "a": 1.0
+        }, 
+        "subsequent": {
+            "with": 1.0
+        }, 
+        "symptoms": {
+            "his": 0.3333333333333333, 
+            "no": 0.6666666666666666
+        }, 
+        "system": {
+            "conduction": 1.0
+        }, 
+        "t.i.d.": {
+            "p.o.": 1.0
+        }, 
+        "test": {
+            "the": 0.25, 
+            "tolerance": 0.75
+        }, 
+        "thallium.": {
+            "test": 1.0
+        }, 
+        "than": {
+            "less": 1.0
+        }, 
+        "that": {
+            ",": 0.125, 
+            "disease": 0.125, 
+            "fact": 0.125, 
+            "felt": 0.5, 
+            "noteworthy": 0.125
+        }, 
+        "the": {
+            ",": 0.15, 
+            "Given": 0.05, 
+            "and": 0.05, 
+            "at": 0.1, 
+            "during": 0.05, 
+            "in": 0.05, 
+            "monitor": 0.05, 
+            "of": 0.05, 
+            "particularly": 0.05, 
+            "send": 0.05, 
+            "that": 0.1, 
+            "to": 0.2, 
+            "via": 0.05
+        }, 
+        "then": {
+            "decision": 1.0
+        }, 
+        "there": {
+            "EKG": 1.0
+        }, 
+        "therefore": {
+            "is": 1.0
+        }, 
+        "this": {
+            ",": 0.3333333333333333, 
+            "At": 0.3333333333333333, 
+            "at": 0.3333333333333333
+        }, 
+        "tibial": {
+            "posterior": 1.0
+        }, 
+        "tight": {
+            "a": 1.0
+        }, 
+        "time.": {
+            "this": 0.5, 
+            "week's": 0.5
+        }, 
+        "to": {
+            "Captopril": 0.047619047619047616, 
+            "Care": 0.047619047619047616, 
+            "Clear": 0.047619047619047616, 
+            "admitted": 0.047619047619047616, 
+            "and": 0.047619047619047616, 
+            "degenerate": 0.047619047619047616, 
+            "degenerated": 0.047619047619047616, 
+            "discharged": 0.09523809523809523, 
+            "examination": 0.047619047619047616, 
+            "extending": 0.047619047619047616, 
+            "felt": 0.047619047619047616, 
+            "presented": 0.047619047619047616, 
+            "prior": 0.047619047619047616, 
+            "reactive": 0.047619047619047616, 
+            "regimen": 0.047619047619047616, 
+            "secondary": 0.047619047619047616, 
+            "transferred": 0.047619047619047616, 
+            "unstable": 0.047619047619047616, 
+            "was": 0.09523809523809523
+        }, 
+        "tolerance": {
+            "exercise": 1.0
+        }, 
+        "tolerance.": {
+            "exercise": 1.0
+        }, 
+        "too": {
+            "felt": 1.0
+        }, 
+        "totally": {
+            "a": 1.0
+        }, 
+        "transferred": {
+            "was": 1.0
+        }, 
+        "treated": {
+            "was": 1.0
+        }, 
+        "twelve": {
+            "went": 1.0
+        }, 
+        "two": {
+            ",": 0.16666666666666666, 
+            "Beconase": 0.3333333333333333, 
+            "Brethaire": 0.16666666666666666, 
+            "Spray": 0.16666666666666666, 
+            "Ventolin": 0.16666666666666666
+        }, 
+        "uncertain": {
+            "of": 1.0
+        }, 
+        "undergo": {
+            "to": 1.0
+        }, 
+        "underwent": {
+            "patient": 1.0
+        }, 
+        "unnecessary.": {
+            "was": 1.0
+        }, 
+        "unstable": {
+            "too": 1.0
+        }, 
+        "upstrokes": {
+            "carotid": 1.0
+        }, 
+        "venous": {
+            "jugular": 1.0
+        }, 
+        "ventricular": {
+            "occasional": 0.5, 
+            "right": 0.5
+        }, 
+        "ventriculogram": {
+            "left": 1.0
+        }, 
+        "very": {
+            "a": 1.0
+        }, 
+        "via": {
+            "course": 1.0
+        }, 
+        "was": {
+            "EKG": 0.045454545454545456, 
+            "He": 0.045454545454545456, 
+            "It": 0.045454545454545456, 
+            "PT": 0.045454545454545456, 
+            "PTT": 0.045454545454545456, 
+            "This": 0.045454545454545456, 
+            "count": 0.045454545454545456, 
+            "decision": 0.045454545454545456, 
+            "he": 0.13636363636363635, 
+            "hematocrit": 0.045454545454545456, 
+            "it": 0.13636363636363635, 
+            "oropharynx": 0.045454545454545456, 
+            "patient": 0.045454545454545456, 
+            "pressure": 0.045454545454545456, 
+            "rate": 0.045454545454545456, 
+            "revascularization": 0.045454545454545456, 
+            "then": 0.045454545454545456, 
+            "which": 0.045454545454545456
+        }, 
+        "wave": {
+            "R": 0.3333333333333333, 
+            "T": 0.6666666666666666
+        }, 
+        "week's": {
+            "one": 1.0
+        }, 
+        "well": {
+            "as": 1.0
+        }, 
+        "well-developed": {
+            "a": 1.0
+        }, 
+        "went": {
+            "he": 1.0
+        }, 
+        "were": {
+            "platelets": 0.5, 
+            "upstrokes": 0.5
+        }, 
+        "whatsoever.": {
+            "symptoms": 1.0
+        }, 
+        "where": {
+            "Hospital": 1.0
+        }, 
+        "which": {
+            "10/16/94": 0.3333333333333333, 
+            "on": 0.3333333333333333, 
+            "regimen": 0.3333333333333333
+        }, 
+        "white": {
+            ",": 1.0
+        }, 
+        "who": {
+            "hypertension": 1.0
+        }, 
+        "with": {
+            "10/16/94": 0.0625, 
+            "Supple": 0.0625, 
+            "assistance": 0.0625, 
+            "bolus": 0.0625, 
+            "delay": 0.0625, 
+            "disease": 0.0625, 
+            "distress": 0.0625, 
+            "follow-up": 0.0625, 
+            "gentleman": 0.0625, 
+            "heart": 0.0625, 
+            "hemi-block": 0.0625, 
+            "him": 0.0625, 
+            "nauseous": 0.0625, 
+            "patient": 0.0625, 
+            "precordium": 0.0625, 
+            "treated": 0.0625
+        }, 
+        "without": {
+            "2+": 0.3333333333333333, 
+            "ambulating": 0.3333333333333333, 
+            "rhythm": 0.3333333333333333
+        }, 
+        "work-up": {
+            "extensive": 1.0
+        }, 
+        "would": {
+            "pacer": 0.5, 
+            "that": 0.5
+        }, 
+        "year": {
+            "73": 1.0
+        }, 
+        "|": {
+            "088585": 0.1111111111111111, 
+            "903526414": 0.1111111111111111, 
+            "99212698": 0.1111111111111111, 
+            "AM": 0.1111111111111111, 
+            "DIS": 0.1111111111111111, 
+            "LMC": 0.1111111111111111, 
+            "Signed": 0.1111111111111111, 
+            "Summary": 0.1111111111111111, 
+            "|": 0.1111111111111111
+        }
+    }, 
+    "id": "624", 
+    "text": " 903526414 | LMC | 99212698 | | 088585 | 11/10/1994 12:00:00 AM | Discharge Summary | Signed | DIS | Admission Date: 3/7/1994 Report Status: Signed Discharge Date: 10/11/1994 DISCHARGE DIAGNOSIS: CORONARY ARTERY DISEASE. PROBLEM LIST INCLUDES: 1 ) HYPERTENSION. 2 ) #asthma# 3 ) DEGENERATIVE JOINT DISEASE. HISTORY OF PRESENT ILLNESS: This is a 73 year old gentleman with a past medical history of hypertension who presented to Dr. Burch at the Collstate on 9/1/94 after a couple of episodes of heavy diaphoresis and nausea , an identifiable precipitant. His EKG there revealed new T wave inversions in the inferior leads and he was admitted to the Rexas& Hospital where he ruled out for myocardial infarction. While at Hanghab Medical Center , his EKG alternated between left anterior hemi-block and left posterior hemi-block. In addition , he had further episodes of nausea and diaphoresis. Because of his baseline conduction system disease , an exercise tolerance test could not be performed and the patient was sent for an exercise tolerance test thallium. However , prior to the test , the patient became diaphoretic and nauseous with a non-palpable blood pressure. He was treated with an intravenous fluid bolus with subsequent improvement. Because he was felt too unstable to undergo a nuclear imaging , he was transferred to the Hend Losblan Care to undergo cardiac catheterization. The patient denied any paroxysmal nocturnal dyspnea , orthopnea , or peripheral edema. He also denied any recent change in exercise tolerance. PAST MEDICAL HISTORY: Significant for a history of rectal fissure , a small bowel obstruction , microhematuria of uncertain etiology despite an extensive work-up , diverticulosis , and hemorrhoids. He also has a history of degenerative joint disease and a history of mild #asthma# His coronary risk factors include hypertension , #obese# , gender , and age. ALLERGIES: None. CURRENT MEDICATIONS: Calan SR 240 p.o. q.d. , Beconase two puffs b.i.d. , Brethaire two puffs q.i.d. , Azmacort four puffs b.i.d. , Feldene 20 mg p.o. q.d. , and Aspirin one p.o. q.d. PHYSICAL EXAMINATION: This was a well-developed pleasant male in no apparent distress with a blood pressure of 154/82 , heart rate 74 , and respirations 14. HEENT: Normocephalic , atraumatic , pupils equally round and reactive to light and accommodation , extraocular movements intact , and oropharynx was benign. NECK: Supple with no jugular venous distention and he had a left carotid bruit , however , his carotid upstrokes were normal. LUNGS: Clear to auscultation bilaterally. CARDIAC: Examination revealed a very quiet precordium with a regular rate and rhythm without any murmurs , gallops , or rubs. EXTREMITIES: Revealed femoral pulses 2+ without bruits , dorsalis pedis and posterior tibial pulses 1+ bilaterally , and he had no clubbing , cyanosis , or edema. LABORATORY EXAMINATION: Significant for a sodium of 140 , a potassium of 4.4 , BUN of 28 , creatinine 1.7 , glucose of 110 , white count was 6.4 , hematocrit was 47.6 , platelets were 137 , 000 , his PT was 13.6 , and his PTT was 47.3. His chest X-Ray at Andsi Medical Center revealed an enlarged heart with no pulmonary infiltrates , his EKG from 3/6/94 at the Massbarre County Memorial Hospital revealed sinus bradycardia at 56 , left posterior hemi-block with non-specific intraventricular conduction delay , and poor R wave progression across his precordium. He had deep T wave inversion in III and F , this EKG was also notable for a pattern of alternating conduction delay with alternating pattern of left anterior and left posterior hemi-block. HOSPITAL COURSE: The patient underwent a cardiac catheterization on 10/16/94 which revealed hemodynamics of a right atrial mean of 6 , a right ventricular pressure of 28/6 , a pulmonary capillary mean pressure of 14 , he had a totally occluded mid left anterior descending lesion , a tight second diagonal lesion , a totally occluded OM1 lesion , and a 70% distal right coronary artery lesion. His left ventriculogram revealed anteroapical hypokinesis. On further analysis of the patient's EKG , it was felt that he alternated between left anterior hemi-block and left posterior hemi-block. It was felt that his symptoms may be an indication of more advanced conduction system disease that would possibly justify a pacer. At this point , the decision was to monitor the patient with Holter monitoring and to perform a stress MIBI examination to assess if he degenerated to more severe conduction disease. Holter monitoring on 1/6 revealed sinus rhythm between 40 and 85 , he had 14 hours of occasional atrial premature beats , two hours of occasional ventricular premature beats , each lasting less than a minute , as well as intermittent intraventricular conduction delay. He had no symptoms during the 24 hours of Holter monitoring. He exercise tolerance test MIBI examination revealed a modified Bruce protocol on which he went twelve minutes stopping secondary to leg fatigue , he had no chest pain , his maximum heart rate was 112 , his maximum blood pressure was 195/95 , he had no change in his baseline EKG as well as no ST changes , and no arrhythmias. His MIBI evaluation revealed a fixed inferior defect extending to the posterior septum. Given the above information , particularly the fact that the patient did not degenerate to more severe conduction system disease with exercise , it was felt that a pacer would not be necessary at this time. Moreover , the patient had no provokeable ischemia by MIBI evaluation and it was felt that revascularization was unnecessary. The decision then was to send the patient home on an adequate medical regimen which was achieved during his hospital course via the addition of Captopril to his medical regimen to provide him with adequate blood pressure control. It is noteworthy that the patient had no episodes of nausea or diaphoresis during his hospitalization , that is ambulating without assistance with no symptoms whatsoever. He is therefore felt to be stable for discharge and is being discharged to home. OPERATIONS AND PROCEDURES: Cardiac catheterization on 10/16/94 with complications none. DISPOSITION: DISCHARGE MEDICATIONS: Captopril 25 mg p.o. t.i.d. , Verapamil SR 180 mg p.o. b.i.d. , Ocean Spray two puffs inhaler b.i.d. , Ecotrin 325 mg p.o. q.d. , Beconase two puffs inhaler q.i.d. , Ventolin two puffs inhaler q.i.d. , and Azmacort four puffs inhaler b.i.d. CONDITION ON DISCHARGE: Stable. The patient is being discharged to home for follow-up with Dr. Patricia G Palenzuela on Berke in Arl Pringcori Ton in one week's time. Dictated By: JOSEF CATINO , M.D. XR88 Attending: EDWARDO H. AMASS , M.D. HU5 PL540/4580 Batch: 3607 Index No. FNRJSX2VD5 D: 10/10/94 T: 11/14/94", 
+    "tri": {
+        "#asthma#": {
+            "2~)": 0.5, 
+            "of~mild": 0.5
+        }, 
+        "#obese#": {
+            "hypertension~,": 1.0
+        }, 
+        ")": {
+            "#asthma#~3": 0.3333333333333333, 
+            "HYPERTENSION.~2": 0.3333333333333333, 
+            "INCLUDES:~1": 0.3333333333333333
+        }, 
+        ",": {
+            ",~#obese#": 0.01282051282051282, 
+            ",~000": 0.01282051282051282, 
+            ",~atraumatic": 0.01282051282051282, 
+            ",~cyanosis": 0.01282051282051282, 
+            ",~diverticulosis": 0.01282051282051282, 
+            ",~gallops": 0.01282051282051282, 
+            ",~gender": 0.01282051282051282, 
+            ",~however": 0.01282051282051282, 
+            ",~orthopnea": 0.01282051282051282, 
+            "1+~bilaterally": 0.01282051282051282, 
+            "H.~AMASS": 0.01282051282051282, 
+            "HEENT:~Normocephalic": 0.01282051282051282, 
+            "In~addition": 0.01282051282051282, 
+            "JOSEF~CATINO": 0.01282051282051282, 
+            "Medical~Center": 0.01282051282051282, 
+            "OM1~lesion": 0.01282051282051282, 
+            "ST~changes": 0.01282051282051282, 
+            "above~information": 0.01282051282051282, 
+            "and~85": 0.01282051282051282, 
+            "and~F": 0.01282051282051282, 
+            "and~accommodation": 0.01282051282051282, 
+            "and~nausea": 0.01282051282051282, 
+            "any~murmurs": 0.01282051282051282, 
+            "at~56": 0.01282051282051282, 
+            "a~minute": 0.01282051282051282, 
+            "bowel~obstruction": 0.01282051282051282, 
+            "carotid~bruit": 0.01282051282051282, 
+            "chest~pain": 0.01282051282051282, 
+            "conduction~delay": 0.01282051282051282, 
+            "creatinine~1.7": 0.01282051282051282, 
+            "descending~lesion": 0.01282051282051282, 
+            "diagonal~lesion": 0.01282051282051282, 
+            "extensive~work-up": 0.01282051282051282, 
+            "his~hospitalization": 0.01282051282051282, 
+            "include~hypertension": 0.01282051282051282, 
+            "inhaler~b.i.d.": 0.01282051282051282, 
+            "inhaler~q.i.d.": 0.02564102564102564, 
+            "leg~fatigue": 0.01282051282051282, 
+            "movements~intact": 0.01282051282051282, 
+            "nocturnal~dyspnea": 0.01282051282051282, 
+            "no~clubbing": 0.01282051282051282, 
+            "nuclear~imaging": 0.01282051282051282, 
+            "of~110": 0.01282051282051282, 
+            "of~14": 0.01282051282051282, 
+            "of~140": 0.01282051282051282, 
+            "of~154/82": 0.01282051282051282, 
+            "of~28": 0.01282051282051282, 
+            "of~28/6": 0.01282051282051282, 
+            "of~4.4": 0.01282051282051282, 
+            "of~6": 0.01282051282051282, 
+            "p.o.~b.i.d.": 0.01282051282051282, 
+            "p.o.~q.d.": 0.038461538461538464, 
+            "p.o.~t.i.d.": 0.01282051282051282, 
+            "patient's~EKG": 0.01282051282051282, 
+            "premature~beats": 0.02564102564102564, 
+            "puffs~b.i.d.": 0.02564102564102564, 
+            "puffs~q.i.d.": 0.01282051282051282, 
+            "pulmonary~infiltrates": 0.01282051282051282, 
+            "rate~74": 0.01282051282051282, 
+            "rectal~fissure": 0.01282051282051282, 
+            "system~disease": 0.01282051282051282, 
+            "thallium.~However": 0.01282051282051282, 
+            "the~test": 0.01282051282051282, 
+            "this~point": 0.01282051282051282, 
+            "time.~Moreover": 0.01282051282051282, 
+            "was~112": 0.01282051282051282, 
+            "was~13.6": 0.01282051282051282, 
+            "was~195/95": 0.01282051282051282, 
+            "was~47.6": 0.01282051282051282, 
+            "was~6.4": 0.01282051282051282, 
+            "were~137": 0.01282051282051282, 
+            "without~bruits": 0.01282051282051282, 
+            "with~exercise": 0.01282051282051282
+        }, 
+        "000": {
+            "137~,": 1.0
+        }, 
+        "088585": {
+            "|~|": 1.0
+        }, 
+        "1": {
+            "LIST~INCLUDES:": 1.0
+        }, 
+        "1+": {
+            "tibial~pulses": 1.0
+        }, 
+        "1.7": {
+            ",~creatinine": 1.0
+        }, 
+        "1/6": {
+            "monitoring~on": 1.0
+        }, 
+        "10/10/94": {
+            "FNRJSX2VD5~D:": 1.0
+        }, 
+        "10/11/1994": {
+            "Discharge~Date:": 1.0
+        }, 
+        "10/16/94": {
+            "catheterization~on": 1.0
+        }, 
+        "11/10/1994": {
+            "088585~|": 1.0
+        }, 
+        "11/14/94": {
+            "10/10/94~T:": 1.0
+        }, 
+        "110": {
+            "glucose~of": 1.0
+        }, 
+        "112": {
+            "rate~was": 1.0
+        }, 
+        "12:00:00": {
+            "|~11/10/1994": 1.0
+        }, 
+        "13.6": {
+            "PT~was": 1.0
+        }, 
+        "137": {
+            "platelets~were": 1.0
+        }, 
+        "14": {
+            "he~had": 0.5, 
+            "pressure~of": 0.5
+        }, 
+        "14.": {
+            "and~respirations": 1.0
+        }, 
+        "140": {
+            "sodium~of": 1.0
+        }, 
+        "154/82": {
+            "pressure~of": 1.0
+        }, 
+        "180": {
+            "Verapamil~SR": 1.0
+        }, 
+        "195/95": {
+            "pressure~was": 1.0
+        }, 
+        "2": {
+            ")~HYPERTENSION.": 1.0
+        }, 
+        "2+": {
+            "femoral~pulses": 1.0
+        }, 
+        "20": {
+            ",~Feldene": 1.0
+        }, 
+        "24": {
+            "during~the": 1.0
+        }, 
+        "240": {
+            "Calan~SR": 1.0
+        }, 
+        "25": {
+            "MEDICATIONS:~Captopril": 1.0
+        }, 
+        "28": {
+            "BUN~of": 1.0
+        }, 
+        "28/6": {
+            "pressure~of": 1.0
+        }, 
+        "3": {
+            ")~#asthma#": 1.0
+        }, 
+        "3/6/94": {
+            "EKG~from": 1.0
+        }, 
+        "3/7/1994": {
+            "Admission~Date:": 1.0
+        }, 
+        "325": {
+            ",~Ecotrin": 1.0
+        }, 
+        "3607": {
+            "PL540/4580~Batch:": 1.0
+        }, 
+        "4.4": {
+            "potassium~of": 1.0
+        }, 
+        "40": {
+            "rhythm~between": 1.0
+        }, 
+        "47.3.": {
+            "PTT~was": 1.0
+        }, 
+        "47.6": {
+            "hematocrit~was": 1.0
+        }, 
+        "56": {
+            "bradycardia~at": 1.0
+        }, 
+        "6": {
+            "mean~of": 1.0
+        }, 
+        "6.4": {
+            "count~was": 1.0
+        }, 
+        "70%": {
+            "and~a": 1.0
+        }, 
+        "73": {
+            "is~a": 1.0
+        }, 
+        "74": {
+            "heart~rate": 1.0
+        }, 
+        "85": {
+            "40~and": 1.0
+        }, 
+        "9/1/94": {
+            "Collstate~on": 1.0
+        }, 
+        "99212698": {
+            "LMC~|": 1.0
+        }, 
+        "ALLERGIES:": {
+            "and~age.": 1.0
+        }, 
+        "AM": {
+            "11/10/1994~12:00:00": 1.0
+        }, 
+        "AMASS": {
+            "EDWARDO~H.": 1.0
+        }, 
+        "AND": {
+            "home.~OPERATIONS": 1.0
+        }, 
+        "ARTERY": {
+            "DIAGNOSIS:~CORONARY": 1.0
+        }, 
+        "Admission": {
+            "DIS~|": 1.0
+        }, 
+        "Andsi": {
+            "X-Ray~at": 1.0
+        }, 
+        "Arl": {
+            "Berke~in": 1.0
+        }, 
+        "Aspirin": {
+            ",~and": 1.0
+        }, 
+        "At": {
+            "a~pacer.": 1.0
+        }, 
+        "Attending:": {
+            "M.D.~XR88": 1.0
+        }, 
+        "Azmacort": {
+            ",~and": 0.5, 
+            "q.i.d.~,": 0.5
+        }, 
+        "BUN": {
+            "4.4~,": 1.0
+        }, 
+        "Batch:": {
+            "HU5~PL540/4580": 1.0
+        }, 
+        "Because": {
+            "and~diaphoresis.": 0.5, 
+            "subsequent~improvement.": 0.5
+        }, 
+        "Beconase": {
+            "q.d.~,": 1.0
+        }, 
+        "Berke": {
+            "Palenzuela~on": 1.0
+        }, 
+        "Brethaire": {
+            "b.i.d.~,": 1.0
+        }, 
+        "Bruce": {
+            "a~modified": 1.0
+        }, 
+        "Burch": {
+            "to~Dr.": 1.0
+        }, 
+        "By:": {
+            "time.~Dictated": 1.0
+        }, 
+        "CARDIAC:": {
+            "auscultation~bilaterally.": 1.0
+        }, 
+        "CATINO": {
+            "By:~JOSEF": 1.0
+        }, 
+        "CONDITION": {
+            "inhaler~b.i.d.": 1.0
+        }, 
+        "CORONARY": {
+            "DISCHARGE~DIAGNOSIS:": 1.0
+        }, 
+        "COURSE:": {
+            "hemi-block.~HOSPITAL": 1.0
+        }, 
+        "CURRENT": {
+            "ALLERGIES:~None.": 1.0
+        }, 
+        "Calan": {
+            "CURRENT~MEDICATIONS:": 1.0
+        }, 
+        "Captopril": {
+            "DISCHARGE~MEDICATIONS:": 0.5, 
+            "addition~of": 0.5
+        }, 
+        "Cardiac": {
+            "AND~PROCEDURES:": 1.0
+        }, 
+        "Care": {
+            "Hend~Losblan": 1.0
+        }, 
+        "Center": {
+            "Andsi~Medical": 0.5, 
+            "Hanghab~Medical": 0.5
+        }, 
+        "Clear": {
+            "normal.~LUNGS:": 1.0
+        }, 
+        "Collstate": {
+            "at~the": 1.0
+        }, 
+        "County": {
+            "the~Massbarre": 1.0
+        }, 
+        "D:": {
+            "No.~FNRJSX2VD5": 1.0
+        }, 
+        "DEGENERATIVE": {
+            "3~)": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "10/11/1994~DISCHARGE": 1.0
+        }, 
+        "DIS": {
+            "Signed~|": 1.0
+        }, 
+        "DISCHARGE": {
+            "Date:~10/11/1994": 0.5, 
+            "none.~DISPOSITION:": 0.5
+        }, 
+        "DISCHARGE:": {
+            "CONDITION~ON": 1.0
+        }, 
+        "DISEASE.": {
+            "CORONARY~ARTERY": 0.5, 
+            "DEGENERATIVE~JOINT": 0.5
+        }, 
+        "DISPOSITION:": {
+            "complications~none.": 1.0
+        }, 
+        "Date:": {
+            "Signed~Discharge": 0.5, 
+            "|~Admission": 0.5
+        }, 
+        "Dictated": {
+            "week's~time.": 1.0
+        }, 
+        "Discharge": {
+            "AM~|": 0.5, 
+            "Status:~Signed": 0.5
+        }, 
+        "Dr.": {
+            "follow-up~with": 0.5, 
+            "presented~to": 0.5
+        }, 
+        "EDWARDO": {
+            "XR88~Attending:": 1.0
+        }, 
+        "EKG": {
+            ",~his": 0.3333333333333333, 
+            ",~this": 0.16666666666666666, 
+            "his~baseline": 0.16666666666666666, 
+            "precipitant.~His": 0.16666666666666666, 
+            "the~patient's": 0.16666666666666666
+        }, 
+        "EXAMINATION:": {
+            "edema.~LABORATORY": 0.5, 
+            "q.d.~PHYSICAL": 0.5
+        }, 
+        "EXTREMITIES:": {
+            "or~rubs.": 1.0
+        }, 
+        "Ecotrin": {
+            "b.i.d.~,": 1.0
+        }, 
+        "Examination": {
+            "bilaterally.~CARDIAC:": 1.0
+        }, 
+        "F": {
+            "III~and": 1.0
+        }, 
+        "FNRJSX2VD5": {
+            "Index~No.": 1.0
+        }, 
+        "Feldene": {
+            "b.i.d.~,": 1.0
+        }, 
+        "G": {
+            "Dr.~Patricia": 1.0
+        }, 
+        "Given": {
+            "posterior~septum.": 1.0
+        }, 
+        "H.": {
+            "Attending:~EDWARDO": 1.0
+        }, 
+        "HEENT:": {
+            "respirations~14.": 1.0
+        }, 
+        "HISTORY": {
+            "JOINT~DISEASE.": 1.0
+        }, 
+        "HISTORY:": {
+            "PAST~MEDICAL": 1.0
+        }, 
+        "HOSPITAL": {
+            "posterior~hemi-block.": 1.0
+        }, 
+        "HU5": {
+            ",~M.D.": 1.0
+        }, 
+        "HYPERTENSION.": {
+            "1~)": 1.0
+        }, 
+        "Hanghab": {
+            "While~at": 1.0
+        }, 
+        "He": {
+            "Holter~monitoring.": 0.14285714285714285, 
+            "and~hemorrhoids.": 0.14285714285714285, 
+            "blood~pressure.": 0.14285714285714285, 
+            "conduction~delay.": 0.14285714285714285, 
+            "his~precordium.": 0.14285714285714285, 
+            "peripheral~edema.": 0.14285714285714285, 
+            "symptoms~whatsoever.": 0.14285714285714285
+        }, 
+        "Hend": {
+            "to~the": 1.0
+        }, 
+        "His": {
+            "artery~lesion.": 0.2, 
+            "identifiable~precipitant.": 0.2, 
+            "mild~#asthma#": 0.2, 
+            "no~arrhythmias.": 0.2, 
+            "was~47.3.": 0.2
+        }, 
+        "Holter": {
+            "conduction~disease.": 0.3333333333333333, 
+            "hours~of": 0.3333333333333333, 
+            "patient~with": 0.3333333333333333
+        }, 
+        "Hospital": {
+            "County~Memorial": 0.5, 
+            "the~Rexas&": 0.5
+        }, 
+        "However": {
+            "test~thallium.": 1.0
+        }, 
+        "III": {
+            "inversion~in": 1.0
+        }, 
+        "ILLNESS:": {
+            "OF~PRESENT": 1.0
+        }, 
+        "INCLUDES:": {
+            "PROBLEM~LIST": 1.0
+        }, 
+        "In": {
+            "posterior~hemi-block.": 1.0
+        }, 
+        "Index": {
+            "Batch:~3607": 1.0
+        }, 
+        "It": {
+            "posterior~hemi-block.": 0.5, 
+            "pressure~control.": 0.5
+        }, 
+        "JOINT": {
+            ")~DEGENERATIVE": 1.0
+        }, 
+        "JOSEF": {
+            "Dictated~By:": 1.0
+        }, 
+        "LABORATORY": {
+            "or~edema.": 1.0
+        }, 
+        "LIST": {
+            "DISEASE.~PROBLEM": 1.0
+        }, 
+        "LMC": {
+            "903526414~|": 1.0
+        }, 
+        "LUNGS:": {
+            "were~normal.": 1.0
+        }, 
+        "Losblan": {
+            "the~Hend": 1.0
+        }, 
+        "M.D.": {
+            "AMASS~,": 0.5, 
+            "CATINO~,": 0.5
+        }, 
+        "MEDICAL": {
+            "tolerance.~PAST": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "DISPOSITION:~DISCHARGE": 0.5, 
+            "None.~CURRENT": 0.5
+        }, 
+        "MIBI": {
+            "arrhythmias.~His": 0.25, 
+            "a~stress": 0.25, 
+            "ischemia~by": 0.25, 
+            "tolerance~test": 0.25
+        }, 
+        "Massbarre": {
+            "at~the": 1.0
+        }, 
+        "Medical": {
+            "at~Andsi": 0.5, 
+            "at~Hanghab": 0.5
+        }, 
+        "Memorial": {
+            "Massbarre~County": 1.0
+        }, 
+        "Moreover": {
+            "this~time.": 1.0
+        }, 
+        "NECK:": {
+            "was~benign.": 1.0
+        }, 
+        "No.": {
+            "3607~Index": 1.0
+        }, 
+        "None.": {
+            "age.~ALLERGIES:": 1.0
+        }, 
+        "Normocephalic": {
+            "14.~HEENT:": 1.0
+        }, 
+        "OF": {
+            "DISEASE.~HISTORY": 1.0
+        }, 
+        "OM1": {
+            "totally~occluded": 1.0
+        }, 
+        "ON": {
+            "b.i.d.~CONDITION": 1.0
+        }, 
+        "OPERATIONS": {
+            "to~home.": 1.0
+        }, 
+        "Ocean": {
+            "b.i.d.~,": 1.0
+        }, 
+        "On": {
+            "anteroapical~hypokinesis.": 1.0
+        }, 
+        "PAST": {
+            "exercise~tolerance.": 1.0
+        }, 
+        "PHYSICAL": {
+            "p.o.~q.d.": 1.0
+        }, 
+        "PL540/4580": {
+            "M.D.~HU5": 1.0
+        }, 
+        "PRESENT": {
+            "HISTORY~OF": 1.0
+        }, 
+        "PROBLEM": {
+            "ARTERY~DISEASE.": 1.0
+        }, 
+        "PROCEDURES:": {
+            "OPERATIONS~AND": 1.0
+        }, 
+        "PT": {
+            ",~his": 1.0
+        }, 
+        "PTT": {
+            "and~his": 1.0
+        }, 
+        "Palenzuela": {
+            "Patricia~G": 1.0
+        }, 
+        "Patricia": {
+            "with~Dr.": 1.0
+        }, 
+        "Pringcori": {
+            "in~Arl": 1.0
+        }, 
+        "R": {
+            "and~poor": 1.0
+        }, 
+        "Report": {
+            "Date:~3/7/1994": 1.0
+        }, 
+        "Revealed": {
+            "rubs.~EXTREMITIES:": 1.0
+        }, 
+        "Rexas&": {
+            "to~the": 1.0
+        }, 
+        "SR": {
+            ",~Verapamil": 0.5, 
+            "MEDICATIONS:~Calan": 0.5
+        }, 
+        "ST": {
+            "as~no": 1.0
+        }, 
+        "Signed": {
+            "Report~Status:": 0.5, 
+            "Summary~|": 0.5
+        }, 
+        "Significant": {
+            "LABORATORY~EXAMINATION:": 0.5, 
+            "MEDICAL~HISTORY:": 0.5
+        }, 
+        "Spray": {
+            ",~Ocean": 1.0
+        }, 
+        "Stable.": {
+            "ON~DISCHARGE:": 1.0
+        }, 
+        "Status:": {
+            "3/7/1994~Report": 1.0
+        }, 
+        "Summary": {
+            "|~Discharge": 1.0
+        }, 
+        "Supple": {
+            "benign.~NECK:": 1.0
+        }, 
+        "T": {
+            "had~deep": 0.5, 
+            "revealed~new": 0.5
+        }, 
+        "T:": {
+            "D:~10/10/94": 1.0
+        }, 
+        "The": {
+            "DISCHARGE:~Stable.": 0.25, 
+            "HOSPITAL~COURSE:": 0.25, 
+            "cardiac~catheterization.": 0.25, 
+            "was~unnecessary.": 0.25
+        }, 
+        "This": {
+            "PHYSICAL~EXAMINATION:": 0.5, 
+            "PRESENT~ILLNESS:": 0.5
+        }, 
+        "Ton": {
+            "Arl~Pringcori": 1.0
+        }, 
+        "Ventolin": {
+            "q.i.d.~,": 1.0
+        }, 
+        "Verapamil": {
+            "t.i.d.~,": 1.0
+        }, 
+        "While": {
+            "myocardial~infarction.": 1.0
+        }, 
+        "X-Ray": {
+            "His~chest": 1.0
+        }, 
+        "XR88": {
+            ",~M.D.": 1.0
+        }, 
+        "a": {
+            ",~and": 0.03225806451612903, 
+            "140~,": 0.03225806451612903, 
+            "28/6~,": 0.03225806451612903, 
+            "6~,": 0.03225806451612903, 
+            "9/1/94~after": 0.03225806451612903, 
+            "Examination~revealed": 0.03225806451612903, 
+            "Significant~for": 0.06451612903225806, 
+            "This~is": 0.03225806451612903, 
+            "This~was": 0.03225806451612903, 
+            "also~has": 0.03225806451612903, 
+            "disease~and": 0.03225806451612903, 
+            "distress~with": 0.03225806451612903, 
+            "evaluation~revealed": 0.03225806451612903, 
+            "examination~revealed": 0.03225806451612903, 
+            "felt~that": 0.03225806451612903, 
+            "fissure~,": 0.03225806451612903, 
+            "gentleman~with": 0.03225806451612903, 
+            "hemodynamics~of": 0.03225806451612903, 
+            "he~had": 0.06451612903225806, 
+            "lesion~,": 0.06451612903225806, 
+            "less~than": 0.03225806451612903, 
+            "nauseous~with": 0.03225806451612903, 
+            "notable~for": 0.03225806451612903, 
+            "patient~underwent": 0.03225806451612903, 
+            "possibly~justify": 0.03225806451612903, 
+            "precordium~with": 0.03225806451612903, 
+            "to~perform": 0.03225806451612903, 
+            "to~undergo": 0.03225806451612903
+        }, 
+        "above": {
+            "Given~the": 1.0
+        }, 
+        "accommodation": {
+            "light~and": 1.0
+        }, 
+        "achieved": {
+            "which~was": 1.0
+        }, 
+        "across": {
+            "wave~progression": 1.0
+        }, 
+        "addition": {
+            "hemi-block.~In": 0.5, 
+            "via~the": 0.5
+        }, 
+        "adequate": {
+            "him~with": 0.5, 
+            "on~an": 0.5
+        }, 
+        "admitted": {
+            "he~was": 1.0
+        }, 
+        "advanced": {
+            "of~more": 1.0
+        }, 
+        "after": {
+            "on~9/1/94": 1.0
+        }, 
+        "age.": {
+            ",~and": 1.0
+        }, 
+        "also": {
+            "EKG~was": 0.3333333333333333, 
+            "edema.~He": 0.3333333333333333, 
+            "hemorrhoids.~He": 0.3333333333333333
+        }, 
+        "alternated": {
+            "his~EKG": 0.5, 
+            "that~he": 0.5
+        }, 
+        "alternating": {
+            "delay~with": 0.5, 
+            "pattern~of": 0.5
+        }, 
+        "ambulating": {
+            "that~is": 1.0
+        }, 
+        "an": {
+            "Center~revealed": 0.125, 
+            "disease~,": 0.125, 
+            "etiology~despite": 0.125, 
+            "home~on": 0.125, 
+            "may~be": 0.125, 
+            "nausea~,": 0.125, 
+            "sent~for": 0.125, 
+            "treated~with": 0.125
+        }, 
+        "analysis": {
+            "On~further": 1.0
+        }, 
+        "and": {
+            "13.6~,": 0.03333333333333333, 
+            "74~,": 0.03333333333333333, 
+            "Holter~monitoring": 0.03333333333333333, 
+            "MIBI~evaluation": 0.03333333333333333, 
+            "anterior~hemi-block": 0.06666666666666667, 
+            "became~diaphoretic": 0.03333333333333333, 
+            "between~40": 0.03333333333333333, 
+            "be~performed": 0.03333333333333333, 
+            "bilaterally~,": 0.03333333333333333, 
+            "changes~,": 0.03333333333333333, 
+            "delay~,": 0.03333333333333333, 
+            "diverticulosis~,": 0.03333333333333333, 
+            "dorsalis~pedis": 0.03333333333333333, 
+            "equally~round": 0.03333333333333333, 
+            "for~discharge": 0.03333333333333333, 
+            "gender~,": 0.03333333333333333, 
+            "heavy~diaphoresis": 0.03333333333333333, 
+            "inferior~leads": 0.03333333333333333, 
+            "intact~,": 0.03333333333333333, 
+            "in~III": 0.03333333333333333, 
+            "joint~disease": 0.03333333333333333, 
+            "left~anterior": 0.03333333333333333, 
+            "lesion~,": 0.03333333333333333, 
+            "of~nausea": 0.03333333333333333, 
+            "q.d.~,": 0.03333333333333333, 
+            "q.i.d.~,": 0.03333333333333333, 
+            "regular~rate": 0.03333333333333333, 
+            "to~light": 0.03333333333333333, 
+            "venous~distention": 0.03333333333333333
+        }, 
+        "anterior": {
+            "between~left": 0.5, 
+            "mid~left": 0.25, 
+            "of~left": 0.25
+        }, 
+        "anteroapical": {
+            "ventriculogram~revealed": 1.0
+        }, 
+        "any": {
+            "also~denied": 0.3333333333333333, 
+            "patient~denied": 0.3333333333333333, 
+            "rhythm~without": 0.3333333333333333
+        }, 
+        "apparent": {
+            "in~no": 1.0
+        }, 
+        "arrhythmias.": {
+            "and~no": 1.0
+        }, 
+        "artery": {
+            "right~coronary": 1.0
+        }, 
+        "as": {
+            "as~well": 0.5, 
+            "baseline~EKG": 0.25, 
+            "minute~,": 0.25
+        }, 
+        "assess": {
+            "examination~to": 1.0
+        }, 
+        "assistance": {
+            "ambulating~without": 1.0
+        }, 
+        "at": {
+            "Dr.~Burch": 0.16666666666666666, 
+            "be~necessary": 0.16666666666666666, 
+            "chest~X-Ray": 0.16666666666666666, 
+            "from~3/6/94": 0.16666666666666666, 
+            "infarction.~While": 0.16666666666666666, 
+            "sinus~bradycardia": 0.16666666666666666
+        }, 
+        "atraumatic": {
+            "Normocephalic~,": 1.0
+        }, 
+        "atrial": {
+            "a~right": 0.5, 
+            "of~occasional": 0.5
+        }, 
+        "auscultation": {
+            "Clear~to": 1.0
+        }, 
+        "b.i.d.": {
+            "four~puffs": 0.2, 
+            "mg~p.o.": 0.2, 
+            "puffs~inhaler": 0.4, 
+            "two~puffs": 0.2
+        }, 
+        "baseline": {
+            "in~his": 0.5, 
+            "of~his": 0.5
+        }, 
+        "be": {
+            "could~not": 0.25, 
+            "felt~to": 0.25, 
+            "symptoms~may": 0.25, 
+            "would~not": 0.25
+        }, 
+        "beats": {
+            "atrial~premature": 0.5, 
+            "ventricular~premature": 0.5
+        }, 
+        "became": {
+            "the~patient": 1.0
+        }, 
+        "being": {
+            "and~is": 0.5, 
+            "patient~is": 0.5
+        }, 
+        "benign.": {
+            "oropharynx~was": 1.0
+        }, 
+        "between": {
+            "EKG~alternated": 0.3333333333333333, 
+            "he~alternated": 0.3333333333333333, 
+            "sinus~rhythm": 0.3333333333333333
+        }, 
+        "bilaterally": {
+            "pulses~1+": 1.0
+        }, 
+        "bilaterally.": {
+            "to~auscultation": 1.0
+        }, 
+        "blood": {
+            "a~non-palpable": 0.25, 
+            "his~maximum": 0.25, 
+            "with~a": 0.25, 
+            "with~adequate": 0.25
+        }, 
+        "bolus": {
+            "intravenous~fluid": 1.0
+        }, 
+        "bowel": {
+            "a~small": 1.0
+        }, 
+        "bradycardia": {
+            "revealed~sinus": 1.0
+        }, 
+        "bruit": {
+            "left~carotid": 1.0
+        }, 
+        "bruits": {
+            "2+~without": 1.0
+        }, 
+        "by": {
+            "provokeable~ischemia": 1.0
+        }, 
+        "capillary": {
+            "a~pulmonary": 1.0
+        }, 
+        "cardiac": {
+            "to~undergo": 0.5, 
+            "underwent~a": 0.5
+        }, 
+        "carotid": {
+            ",~his": 0.5, 
+            "a~left": 0.5
+        }, 
+        "catheterization": {
+            "PROCEDURES:~Cardiac": 0.5, 
+            "a~cardiac": 0.5
+        }, 
+        "catheterization.": {
+            "undergo~cardiac": 1.0
+        }, 
+        "change": {
+            "any~recent": 0.5, 
+            "had~no": 0.5
+        }, 
+        "changes": {
+            "no~ST": 1.0
+        }, 
+        "chest": {
+            "47.3.~His": 0.5, 
+            "had~no": 0.5
+        }, 
+        "clubbing": {
+            "had~no": 1.0
+        }, 
+        "complications": {
+            "10/16/94~with": 1.0
+        }, 
+        "conduction": {
+            "his~baseline": 0.14285714285714285, 
+            "intermittent~intraventricular": 0.14285714285714285, 
+            "more~advanced": 0.14285714285714285, 
+            "more~severe": 0.2857142857142857, 
+            "non-specific~intraventricular": 0.14285714285714285, 
+            "of~alternating": 0.14285714285714285
+        }, 
+        "control.": {
+            "blood~pressure": 1.0
+        }, 
+        "coronary": {
+            "#asthma#~His": 0.5, 
+            "distal~right": 0.5
+        }, 
+        "could": {
+            "tolerance~test": 1.0
+        }, 
+        "count": {
+            ",~white": 1.0
+        }, 
+        "couple": {
+            "after~a": 1.0
+        }, 
+        "course": {
+            "his~hospital": 1.0
+        }, 
+        "creatinine": {
+            "28~,": 1.0
+        }, 
+        "cyanosis": {
+            "clubbing~,": 1.0
+        }, 
+        "decision": {
+            ",~the": 0.5, 
+            "unnecessary.~The": 0.5
+        }, 
+        "deep": {
+            "He~had": 1.0
+        }, 
+        "defect": {
+            "fixed~inferior": 1.0
+        }, 
+        "degenerate": {
+            "did~not": 1.0
+        }, 
+        "degenerated": {
+            "if~he": 1.0
+        }, 
+        "degenerative": {
+            "history~of": 1.0
+        }, 
+        "delay": {
+            "alternating~conduction": 0.5, 
+            "intraventricular~conduction": 0.5
+        }, 
+        "delay.": {
+            "intraventricular~conduction": 1.0
+        }, 
+        "denied": {
+            "He~also": 0.5, 
+            "The~patient": 0.5
+        }, 
+        "descending": {
+            "left~anterior": 1.0
+        }, 
+        "despite": {
+            "uncertain~etiology": 1.0
+        }, 
+        "diagonal": {
+            "tight~second": 1.0
+        }, 
+        "diaphoresis": {
+            "nausea~or": 0.5, 
+            "of~heavy": 0.5
+        }, 
+        "diaphoresis.": {
+            "nausea~and": 1.0
+        }, 
+        "diaphoretic": {
+            "patient~became": 1.0
+        }, 
+        "did": {
+            "the~patient": 1.0
+        }, 
+        "discharge": {
+            "stable~for": 1.0
+        }, 
+        "discharged": {
+            "is~being": 1.0
+        }, 
+        "disease": {
+            "conduction~system": 0.75, 
+            "degenerative~joint": 0.25
+        }, 
+        "disease.": {
+            "severe~conduction": 1.0
+        }, 
+        "distal": {
+            "a~70%": 1.0
+        }, 
+        "distention": {
+            "jugular~venous": 1.0
+        }, 
+        "distress": {
+            "no~apparent": 1.0
+        }, 
+        "diverticulosis": {
+            "work-up~,": 1.0
+        }, 
+        "dorsalis": {
+            "bruits~,": 1.0
+        }, 
+        "during": {
+            "no~symptoms": 0.3333333333333333, 
+            "or~diaphoresis": 0.3333333333333333, 
+            "was~achieved": 0.3333333333333333
+        }, 
+        "dyspnea": {
+            "paroxysmal~nocturnal": 1.0
+        }, 
+        "each": {
+            "beats~,": 1.0
+        }, 
+        "edema.": {
+            ",~or": 0.5, 
+            "or~peripheral": 0.5
+        }, 
+        "enlarged": {
+            "revealed~an": 1.0
+        }, 
+        "episodes": {
+            "couple~of": 0.3333333333333333, 
+            "had~further": 0.3333333333333333, 
+            "had~no": 0.3333333333333333
+        }, 
+        "equally": {
+            ",~pupils": 1.0
+        }, 
+        "etiology": {
+            "of~uncertain": 1.0
+        }, 
+        "evaluation": {
+            "His~MIBI": 0.5, 
+            "by~MIBI": 0.5
+        }, 
+        "examination": {
+            "stress~MIBI": 0.5, 
+            "test~MIBI": 0.5
+        }, 
+        "exercise": {
+            ",~an": 0.2, 
+            "change~in": 0.2, 
+            "disease~with": 0.2, 
+            "for~an": 0.2, 
+            "monitoring.~He": 0.2
+        }, 
+        "extending": {
+            "inferior~defect": 1.0
+        }, 
+        "extensive": {
+            "despite~an": 1.0
+        }, 
+        "extraocular": {
+            "accommodation~,": 1.0
+        }, 
+        "fact": {
+            "particularly~the": 1.0
+        }, 
+        "factors": {
+            "coronary~risk": 1.0
+        }, 
+        "fatigue": {
+            "to~leg": 1.0
+        }, 
+        "felt": {
+            "It~was": 0.16666666666666666, 
+            "he~was": 0.16666666666666666, 
+            "is~therefore": 0.16666666666666666, 
+            "it~was": 0.5
+        }, 
+        "femoral": {
+            "EXTREMITIES:~Revealed": 1.0
+        }, 
+        "fissure": {
+            "of~rectal": 1.0
+        }, 
+        "fixed": {
+            "revealed~a": 1.0
+        }, 
+        "fluid": {
+            "an~intravenous": 1.0
+        }, 
+        "follow-up": {
+            "home~for": 1.0
+        }, 
+        "for": {
+            "EXAMINATION:~Significant": 0.14285714285714285, 
+            "HISTORY:~Significant": 0.14285714285714285, 
+            "also~notable": 0.14285714285714285, 
+            "be~stable": 0.14285714285714285, 
+            "ruled~out": 0.14285714285714285, 
+            "to~home": 0.14285714285714285, 
+            "was~sent": 0.14285714285714285
+        }, 
+        "four": {
+            ",~Azmacort": 0.5, 
+            "and~Azmacort": 0.5
+        }, 
+        "from": {
+            "his~EKG": 1.0
+        }, 
+        "further": {
+            "he~had": 0.5, 
+            "hypokinesis.~On": 0.5
+        }, 
+        "gallops": {
+            "murmurs~,": 1.0
+        }, 
+        "gender": {
+            "#obese#~,": 1.0
+        }, 
+        "gentleman": {
+            "year~old": 1.0
+        }, 
+        "glucose": {
+            "1.7~,": 1.0
+        }, 
+        "had": {
+            ",~he": 0.45454545454545453, 
+            "and~he": 0.18181818181818182, 
+            "delay.~He": 0.09090909090909091, 
+            "precordium.~He": 0.09090909090909091, 
+            "the~patient": 0.18181818181818182
+        }, 
+        "has": {
+            "He~also": 1.0
+        }, 
+        "he": {
+            ",~and": 0.07142857142857142, 
+            "14~,": 0.07142857142857142, 
+            "195/95~,": 0.07142857142857142, 
+            "85~,": 0.07142857142857142, 
+            "Hospital~where": 0.07142857142857142, 
+            "addition~,": 0.07142857142857142, 
+            "assess~if": 0.07142857142857142, 
+            "distention~and": 0.07142857142857142, 
+            "fatigue~,": 0.07142857142857142, 
+            "felt~that": 0.07142857142857142, 
+            "imaging~,": 0.07142857142857142, 
+            "improvement.~Because": 0.07142857142857142, 
+            "leads~and": 0.07142857142857142, 
+            "on~which": 0.07142857142857142
+        }, 
+        "heart": {
+            "154/82~,": 0.3333333333333333, 
+            "an~enlarged": 0.3333333333333333, 
+            "his~maximum": 0.3333333333333333
+        }, 
+        "heavy": {
+            "episodes~of": 1.0
+        }, 
+        "hematocrit": {
+            "6.4~,": 1.0
+        }, 
+        "hemi-block": {
+            "left~anterior": 0.6666666666666666, 
+            "left~posterior": 0.3333333333333333
+        }, 
+        "hemi-block.": {
+            "left~posterior": 1.0
+        }, 
+        "hemodynamics": {
+            "which~revealed": 1.0
+        }, 
+        "hemorrhoids.": {
+            ",~and": 1.0
+        }, 
+        "him": {
+            "to~provide": 1.0
+        }, 
+        "his": {
+            ",~and": 0.07142857142857142, 
+            "000~,": 0.07142857142857142, 
+            "112~,": 0.07142857142857142, 
+            "Because~of": 0.07142857142857142, 
+            "Captopril~to": 0.07142857142857142, 
+            "Center~,": 0.07142857142857142, 
+            "achieved~during": 0.07142857142857142, 
+            "change~in": 0.07142857142857142, 
+            "diaphoresis~during": 0.07142857142857142, 
+            "felt~that": 0.07142857142857142, 
+            "however~,": 0.07142857142857142, 
+            "infiltrates~,": 0.07142857142857142, 
+            "pain~,": 0.07142857142857142, 
+            "progression~across": 0.07142857142857142
+        }, 
+        "history": {
+            "and~a": 0.25, 
+            "for~a": 0.25, 
+            "has~a": 0.25, 
+            "past~medical": 0.25
+        }, 
+        "home": {
+            "discharged~to": 0.5, 
+            "the~patient": 0.5
+        }, 
+        "home.": {
+            "discharged~to": 1.0
+        }, 
+        "hospital": {
+            "during~his": 1.0
+        }, 
+        "hospitalization": {
+            "during~his": 1.0
+        }, 
+        "hours": {
+            ",~two": 0.3333333333333333, 
+            "had~14": 0.3333333333333333, 
+            "the~24": 0.3333333333333333
+        }, 
+        "however": {
+            "bruit~,": 1.0
+        }, 
+        "hypertension": {
+            "factors~include": 0.5, 
+            "history~of": 0.5
+        }, 
+        "hypokinesis.": {
+            "revealed~anteroapical": 1.0
+        }, 
+        "identifiable": {
+            ",~an": 1.0
+        }, 
+        "if": {
+            "to~assess": 1.0
+        }, 
+        "imaging": {
+            "a~nuclear": 1.0
+        }, 
+        "improvement.": {
+            "with~subsequent": 1.0
+        }, 
+        "in": {
+            "Pringcori~Ton": 0.14285714285714285, 
+            "no~change": 0.14285714285714285, 
+            "on~Berke": 0.14285714285714285, 
+            "pleasant~male": 0.14285714285714285, 
+            "recent~change": 0.14285714285714285, 
+            "wave~inversion": 0.14285714285714285, 
+            "wave~inversions": 0.14285714285714285
+        }, 
+        "include": {
+            "risk~factors": 1.0
+        }, 
+        "indication": {
+            "be~an": 1.0
+        }, 
+        "infarction.": {
+            "for~myocardial": 1.0
+        }, 
+        "inferior": {
+            "a~fixed": 0.5, 
+            "in~the": 0.5
+        }, 
+        "infiltrates": {
+            "no~pulmonary": 1.0
+        }, 
+        "information": {
+            "the~above": 1.0
+        }, 
+        "inhaler": {
+            "four~puffs": 0.25, 
+            "two~puffs": 0.75
+        }, 
+        "intact": {
+            "extraocular~movements": 1.0
+        }, 
+        "intermittent": {
+            "well~as": 1.0
+        }, 
+        "intravenous": {
+            "with~an": 1.0
+        }, 
+        "intraventricular": {
+            "as~intermittent": 0.5, 
+            "with~non-specific": 0.5
+        }, 
+        "inversion": {
+            "T~wave": 1.0
+        }, 
+        "inversions": {
+            "T~wave": 1.0
+        }, 
+        "is": {
+            ",~that": 0.16666666666666666, 
+            "ILLNESS:~This": 0.16666666666666666, 
+            "The~patient": 0.16666666666666666, 
+            "control.~It": 0.16666666666666666, 
+            "discharge~and": 0.16666666666666666, 
+            "whatsoever.~He": 0.16666666666666666
+        }, 
+        "ischemia": {
+            "no~provokeable": 1.0
+        }, 
+        "it": {
+            "EKG~,": 0.3333333333333333, 
+            "evaluation~and": 0.3333333333333333, 
+            "exercise~,": 0.3333333333333333
+        }, 
+        "joint": {
+            "of~degenerative": 1.0
+        }, 
+        "jugular": {
+            "with~no": 1.0
+        }, 
+        "justify": {
+            "would~possibly": 1.0
+        }, 
+        "lasting": {
+            ",~each": 1.0
+        }, 
+        "leads": {
+            "the~inferior": 1.0
+        }, 
+        "left": {
+            "56~,": 0.1, 
+            "alternated~between": 0.2, 
+            "anterior~and": 0.1, 
+            "had~a": 0.1, 
+            "hemi-block~and": 0.2, 
+            "lesion.~His": 0.1, 
+            "occluded~mid": 0.1, 
+            "pattern~of": 0.1
+        }, 
+        "leg": {
+            "secondary~to": 1.0
+        }, 
+        "lesion": {
+            "anterior~descending": 0.3333333333333333, 
+            "occluded~OM1": 0.3333333333333333, 
+            "second~diagonal": 0.3333333333333333
+        }, 
+        "lesion.": {
+            "coronary~artery": 1.0
+        }, 
+        "less": {
+            "each~lasting": 1.0
+        }, 
+        "light": {
+            "reactive~to": 1.0
+        }, 
+        "male": {
+            "well-developed~pleasant": 1.0
+        }, 
+        "maximum": {
+            ",~his": 1.0
+        }, 
+        "may": {
+            "his~symptoms": 1.0
+        }, 
+        "mean": {
+            "pulmonary~capillary": 0.5, 
+            "right~atrial": 0.5
+        }, 
+        "medical": {
+            "an~adequate": 0.3333333333333333, 
+            "a~past": 0.3333333333333333, 
+            "to~his": 0.3333333333333333
+        }, 
+        "mg": {
+            "Captopril~25": 0.25, 
+            "Ecotrin~325": 0.25, 
+            "Feldene~20": 0.25, 
+            "SR~180": 0.25
+        }, 
+        "microhematuria": {
+            "obstruction~,": 1.0
+        }, 
+        "mid": {
+            "totally~occluded": 1.0
+        }, 
+        "mild": {
+            "history~of": 1.0
+        }, 
+        "minute": {
+            "than~a": 1.0
+        }, 
+        "minutes": {
+            "went~twelve": 1.0
+        }, 
+        "modified": {
+            "revealed~a": 1.0
+        }, 
+        "monitor": {
+            "was~to": 1.0
+        }, 
+        "monitoring": {
+            "disease.~Holter": 0.5, 
+            "with~Holter": 0.5
+        }, 
+        "monitoring.": {
+            "of~Holter": 1.0
+        }, 
+        "more": {
+            "degenerated~to": 0.3333333333333333, 
+            "degenerate~to": 0.3333333333333333, 
+            "indication~of": 0.3333333333333333
+        }, 
+        "movements": {
+            ",~extraocular": 1.0
+        }, 
+        "murmurs": {
+            "without~any": 1.0
+        }, 
+        "myocardial": {
+            "out~for": 1.0
+        }, 
+        "nausea": {
+            "diaphoresis~and": 0.3333333333333333, 
+            "episodes~of": 0.6666666666666666
+        }, 
+        "nauseous": {
+            "diaphoretic~and": 1.0
+        }, 
+        "necessary": {
+            "not~be": 1.0
+        }, 
+        "new": {
+            "there~revealed": 1.0
+        }, 
+        "no": {
+            ",~and": 0.08333333333333333, 
+            "He~had": 0.08333333333333333, 
+            "Supple~with": 0.08333333333333333, 
+            "assistance~with": 0.08333333333333333, 
+            "heart~with": 0.08333333333333333, 
+            "he~had": 0.25, 
+            "male~in": 0.08333333333333333, 
+            "patient~had": 0.16666666666666666, 
+            "well~as": 0.08333333333333333
+        }, 
+        "nocturnal": {
+            "any~paroxysmal": 1.0
+        }, 
+        "non-palpable": {
+            "with~a": 1.0
+        }, 
+        "non-specific": {
+            "hemi-block~with": 1.0
+        }, 
+        "none.": {
+            "with~complications": 1.0
+        }, 
+        "normal.": {
+            "upstrokes~were": 1.0
+        }, 
+        "not": {
+            "pacer~would": 0.3333333333333333, 
+            "patient~did": 0.3333333333333333, 
+            "test~could": 0.3333333333333333
+        }, 
+        "notable": {
+            "was~also": 1.0
+        }, 
+        "noteworthy": {
+            "It~is": 1.0
+        }, 
+        "nuclear": {
+            "undergo~a": 1.0
+        }, 
+        "obstruction": {
+            "small~bowel": 1.0
+        }, 
+        "occasional": {
+            "hours~of": 1.0
+        }, 
+        "occluded": {
+            "a~totally": 1.0
+        }, 
+        "of": {
+            ",~BUN": 0.037037037037037035, 
+            ",~glucose": 0.037037037037037035, 
+            ",~microhematuria": 0.037037037037037035, 
+            "14~hours": 0.037037037037037035, 
+            "24~hours": 0.037037037037037035, 
+            "alternating~pattern": 0.037037037037037035, 
+            "an~indication": 0.037037037037037035, 
+            "atrial~mean": 0.037037037037037035, 
+            "a~couple": 0.037037037037037035, 
+            "a~history": 0.1111111111111111, 
+            "a~pattern": 0.037037037037037035, 
+            "a~potassium": 0.037037037037037035, 
+            "a~sodium": 0.037037037037037035, 
+            "blood~pressure": 0.037037037037037035, 
+            "diaphoresis.~Because": 0.037037037037037035, 
+            "further~analysis": 0.037037037037037035, 
+            "further~episodes": 0.037037037037037035, 
+            "mean~pressure": 0.037037037037037035, 
+            "medical~history": 0.037037037037037035, 
+            "no~episodes": 0.037037037037037035, 
+            "of~episodes": 0.037037037037037035, 
+            "revealed~hemodynamics": 0.037037037037037035, 
+            "the~addition": 0.037037037037037035, 
+            "two~hours": 0.037037037037037035, 
+            "ventricular~pressure": 0.037037037037037035
+        }, 
+        "old": {
+            "73~year": 1.0
+        }, 
+        "on": {
+            "Bruce~protocol": 0.14285714285714285, 
+            "Cardiac~catheterization": 0.14285714285714285, 
+            "G~Palenzuela": 0.14285714285714285, 
+            "Holter~monitoring": 0.14285714285714285, 
+            "cardiac~catheterization": 0.14285714285714285, 
+            "patient~home": 0.14285714285714285, 
+            "the~Collstate": 0.14285714285714285
+        }, 
+        "one": {
+            "Ton~in": 0.5, 
+            "and~Aspirin": 0.5
+        }, 
+        "or": {
+            "cyanosis~,": 0.25, 
+            "gallops~,": 0.25, 
+            "of~nausea": 0.25, 
+            "orthopnea~,": 0.25
+        }, 
+        "oropharynx": {
+            ",~and": 1.0
+        }, 
+        "orthopnea": {
+            "dyspnea~,": 1.0
+        }, 
+        "out": {
+            "he~ruled": 1.0
+        }, 
+        "p.o.": {
+            "180~mg": 0.16666666666666666, 
+            "20~mg": 0.16666666666666666, 
+            "25~mg": 0.16666666666666666, 
+            "325~mg": 0.16666666666666666, 
+            "Aspirin~one": 0.16666666666666666, 
+            "SR~240": 0.16666666666666666
+        }, 
+        "pacer": {
+            "that~a": 1.0
+        }, 
+        "pacer.": {
+            "justify~a": 1.0
+        }, 
+        "pain": {
+            "no~chest": 1.0
+        }, 
+        "paroxysmal": {
+            "denied~any": 1.0
+        }, 
+        "particularly": {
+            "information~,": 1.0
+        }, 
+        "past": {
+            "with~a": 1.0
+        }, 
+        "patient": {
+            ",~the": 0.2, 
+            "COURSE:~The": 0.1, 
+            "Stable.~The": 0.1, 
+            "and~the": 0.1, 
+            "catheterization.~The": 0.1, 
+            "monitor~the": 0.1, 
+            "send~the": 0.1, 
+            "that~the": 0.2
+        }, 
+        "patient's": {
+            "of~the": 1.0
+        }, 
+        "pattern": {
+            "for~a": 0.5, 
+            "with~alternating": 0.5
+        }, 
+        "pedis": {
+            ",~dorsalis": 1.0
+        }, 
+        "perform": {
+            "and~to": 1.0
+        }, 
+        "performed": {
+            "not~be": 1.0
+        }, 
+        "peripheral": {
+            ",~or": 1.0
+        }, 
+        "platelets": {
+            "47.6~,": 1.0
+        }, 
+        "pleasant": {
+            "a~well-developed": 1.0
+        }, 
+        "point": {
+            "At~this": 1.0
+        }, 
+        "poor": {
+            ",~and": 1.0
+        }, 
+        "possibly": {
+            "that~would": 1.0
+        }, 
+        "posterior": {
+            ",~left": 0.16666666666666666, 
+            "and~left": 0.5, 
+            "pedis~and": 0.16666666666666666, 
+            "to~the": 0.16666666666666666
+        }, 
+        "potassium": {
+            ",~a": 1.0
+        }, 
+        "precipitant.": {
+            "an~identifiable": 1.0
+        }, 
+        "precordium": {
+            "very~quiet": 1.0
+        }, 
+        "precordium.": {
+            "across~his": 1.0
+        }, 
+        "premature": {
+            "occasional~atrial": 0.5, 
+            "occasional~ventricular": 0.5
+        }, 
+        "presented": {
+            "hypertension~who": 1.0
+        }, 
+        "pressure": {
+            "adequate~blood": 0.2, 
+            "a~blood": 0.2, 
+            "capillary~mean": 0.2, 
+            "maximum~blood": 0.2, 
+            "right~ventricular": 0.2
+        }, 
+        "pressure.": {
+            "non-palpable~blood": 1.0
+        }, 
+        "prior": {
+            "However~,": 1.0
+        }, 
+        "progression": {
+            "R~wave": 1.0
+        }, 
+        "protocol": {
+            "modified~Bruce": 1.0
+        }, 
+        "provide": {
+            "regimen~to": 1.0
+        }, 
+        "provokeable": {
+            "had~no": 1.0
+        }, 
+        "puffs": {
+            "Azmacort~four": 0.2857142857142857, 
+            "Beconase~two": 0.2857142857142857, 
+            "Brethaire~two": 0.14285714285714285, 
+            "Spray~two": 0.14285714285714285, 
+            "Ventolin~two": 0.14285714285714285
+        }, 
+        "pulmonary": {
+            ",~a": 0.5, 
+            "with~no": 0.5
+        }, 
+        "pulses": {
+            "Revealed~femoral": 0.5, 
+            "posterior~tibial": 0.5
+        }, 
+        "pupils": {
+            "atraumatic~,": 1.0
+        }, 
+        "q.d.": {
+            "240~p.o.": 0.25, 
+            "mg~p.o.": 0.5, 
+            "one~p.o.": 0.25
+        }, 
+        "q.i.d.": {
+            "puffs~inhaler": 0.6666666666666666, 
+            "two~puffs": 0.3333333333333333
+        }, 
+        "quiet": {
+            "a~very": 1.0
+        }, 
+        "rate": {
+            ",~heart": 0.3333333333333333, 
+            "a~regular": 0.3333333333333333, 
+            "maximum~heart": 0.3333333333333333
+        }, 
+        "reactive": {
+            "round~and": 1.0
+        }, 
+        "recent": {
+            "denied~any": 1.0
+        }, 
+        "rectal": {
+            "history~of": 1.0
+        }, 
+        "regimen": {
+            "adequate~medical": 0.5, 
+            "his~medical": 0.5
+        }, 
+        "regular": {
+            "with~a": 1.0
+        }, 
+        "respirations": {
+            ",~and": 1.0
+        }, 
+        "revascularization": {
+            "felt~that": 1.0
+        }, 
+        "revealed": {
+            "10/16/94~which": 0.1111111111111111, 
+            "CARDIAC:~Examination": 0.1111111111111111, 
+            "EKG~there": 0.1111111111111111, 
+            "MIBI~evaluation": 0.1111111111111111, 
+            "MIBI~examination": 0.1111111111111111, 
+            "Medical~Center": 0.1111111111111111, 
+            "Memorial~Hospital": 0.1111111111111111, 
+            "left~ventriculogram": 0.1111111111111111, 
+            "on~1/6": 0.1111111111111111
+        }, 
+        "rhythm": {
+            "rate~and": 0.5, 
+            "revealed~sinus": 0.5
+        }, 
+        "right": {
+            ",~a": 0.3333333333333333, 
+            "70%~distal": 0.3333333333333333, 
+            "of~a": 0.3333333333333333
+        }, 
+        "risk": {
+            "His~coronary": 1.0
+        }, 
+        "round": {
+            "pupils~equally": 1.0
+        }, 
+        "rubs.": {
+            ",~or": 1.0
+        }, 
+        "ruled": {
+            "where~he": 1.0
+        }, 
+        "second": {
+            "a~tight": 1.0
+        }, 
+        "secondary": {
+            "minutes~stopping": 1.0
+        }, 
+        "send": {
+            "was~to": 1.0
+        }, 
+        "sent": {
+            "patient~was": 1.0
+        }, 
+        "septum.": {
+            "the~posterior": 1.0
+        }, 
+        "severe": {
+            "to~more": 1.0
+        }, 
+        "sinus": {
+            "1/6~revealed": 0.5, 
+            "Hospital~revealed": 0.5
+        }, 
+        "small": {
+            ",~a": 1.0
+        }, 
+        "sodium": {
+            "for~a": 1.0
+        }, 
+        "stable": {
+            "to~be": 1.0
+        }, 
+        "stopping": {
+            "twelve~minutes": 1.0
+        }, 
+        "stress": {
+            "perform~a": 1.0
+        }, 
+        "subsequent": {
+            "bolus~with": 1.0
+        }, 
+        "symptoms": {
+            "had~no": 0.3333333333333333, 
+            "that~his": 0.3333333333333333, 
+            "with~no": 0.3333333333333333
+        }, 
+        "system": {
+            "advanced~conduction": 0.3333333333333333, 
+            "baseline~conduction": 0.3333333333333333, 
+            "severe~conduction": 0.3333333333333333
+        }, 
+        "t.i.d.": {
+            "mg~p.o.": 1.0
+        }, 
+        "test": {
+            "exercise~tolerance": 0.75, 
+            "to~the": 0.25
+        }, 
+        "thallium.": {
+            "tolerance~test": 1.0
+        }, 
+        "than": {
+            "lasting~less": 1.0
+        }, 
+        "that": {
+            "hospitalization~,": 0.125, 
+            "is~noteworthy": 0.125, 
+            "system~disease": 0.125, 
+            "the~fact": 0.125, 
+            "was~felt": 0.5
+        }, 
+        "the": {
+            ",~particularly": 0.05, 
+            "3/6/94~at": 0.05, 
+            "Burch~at": 0.05, 
+            "Moreover~,": 0.05, 
+            "admitted~to": 0.05, 
+            "analysis~of": 0.05, 
+            "course~via": 0.05, 
+            "extending~to": 0.05, 
+            "fact~that": 0.05, 
+            "inversions~in": 0.05, 
+            "noteworthy~that": 0.05, 
+            "performed~and": 0.05, 
+            "point~,": 0.05, 
+            "prior~to": 0.05, 
+            "septum.~Given": 0.05, 
+            "symptoms~during": 0.05, 
+            "test~,": 0.05, 
+            "to~monitor": 0.05, 
+            "to~send": 0.05, 
+            "transferred~to": 0.05
+        }, 
+        "then": {
+            "The~decision": 1.0
+        }, 
+        "there": {
+            "His~EKG": 1.0
+        }, 
+        "therefore": {
+            "He~is": 1.0
+        }, 
+        "this": {
+            "F~,": 0.3333333333333333, 
+            "necessary~at": 0.3333333333333333, 
+            "pacer.~At": 0.3333333333333333
+        }, 
+        "tibial": {
+            "and~posterior": 1.0
+        }, 
+        "tight": {
+            ",~a": 1.0
+        }, 
+        "time.": {
+            "at~this": 0.5, 
+            "one~week's": 0.5
+        }, 
+        "to": {
+            ",~prior": 0.047619047619047616, 
+            "LUNGS:~Clear": 0.047619047619047616, 
+            "Losblan~Care": 0.047619047619047616, 
+            "MIBI~examination": 0.047619047619047616, 
+            "and~reactive": 0.047619047619047616, 
+            "being~discharged": 0.09523809523809523, 
+            "decision~was": 0.047619047619047616, 
+            "defect~extending": 0.047619047619047616, 
+            "he~degenerated": 0.047619047619047616, 
+            "medical~regimen": 0.047619047619047616, 
+            "monitoring~and": 0.047619047619047616, 
+            "not~degenerate": 0.047619047619047616, 
+            "of~Captopril": 0.047619047619047616, 
+            "stopping~secondary": 0.047619047619047616, 
+            "then~was": 0.047619047619047616, 
+            "therefore~felt": 0.047619047619047616, 
+            "too~unstable": 0.047619047619047616, 
+            "was~admitted": 0.047619047619047616, 
+            "was~transferred": 0.047619047619047616, 
+            "who~presented": 0.047619047619047616
+        }, 
+        "tolerance": {
+            "He~exercise": 0.3333333333333333, 
+            "an~exercise": 0.6666666666666666
+        }, 
+        "tolerance.": {
+            "in~exercise": 1.0
+        }, 
+        "too": {
+            "was~felt": 1.0
+        }, 
+        "totally": {
+            ",~a": 0.5, 
+            "had~a": 0.5
+        }, 
+        "transferred": {
+            "he~was": 1.0
+        }, 
+        "treated": {
+            "He~was": 1.0
+        }, 
+        "twelve": {
+            "he~went": 1.0
+        }, 
+        "two": {
+            ",~Beconase": 0.3333333333333333, 
+            ",~Brethaire": 0.16666666666666666, 
+            ",~Ventolin": 0.16666666666666666, 
+            "Ocean~Spray": 0.16666666666666666, 
+            "beats~,": 0.16666666666666666
+        }, 
+        "uncertain": {
+            "microhematuria~of": 1.0
+        }, 
+        "undergo": {
+            "Care~to": 0.5, 
+            "unstable~to": 0.5
+        }, 
+        "underwent": {
+            "The~patient": 1.0
+        }, 
+        "unnecessary.": {
+            "revascularization~was": 1.0
+        }, 
+        "unstable": {
+            "felt~too": 1.0
+        }, 
+        "upstrokes": {
+            "his~carotid": 1.0
+        }, 
+        "venous": {
+            "no~jugular": 1.0
+        }, 
+        "ventricular": {
+            "a~right": 0.5, 
+            "of~occasional": 0.5
+        }, 
+        "ventriculogram": {
+            "His~left": 1.0
+        }, 
+        "very": {
+            "revealed~a": 1.0
+        }, 
+        "via": {
+            "hospital~course": 1.0
+        }, 
+        "was": {
+            ",~he": 0.045454545454545456, 
+            ",~hematocrit": 0.045454545454545456, 
+            ",~it": 0.09090909090909091, 
+            "Because~he": 0.045454545454545456, 
+            "EXAMINATION:~This": 0.045454545454545456, 
+            "and~he": 0.045454545454545456, 
+            "and~it": 0.045454545454545456, 
+            "and~oropharynx": 0.045454545454545456, 
+            "blood~pressure": 0.045454545454545456, 
+            "decision~then": 0.045454545454545456, 
+            "heart~rate": 0.045454545454545456, 
+            "hemi-block.~It": 0.045454545454545456, 
+            "his~PT": 0.045454545454545456, 
+            "his~PTT": 0.045454545454545456, 
+            "pressure.~He": 0.045454545454545456, 
+            "regimen~which": 0.045454545454545456, 
+            "that~revascularization": 0.045454545454545456, 
+            "the~decision": 0.045454545454545456, 
+            "the~patient": 0.045454545454545456, 
+            "this~EKG": 0.045454545454545456, 
+            "white~count": 0.045454545454545456
+        }, 
+        "wave": {
+            "deep~T": 0.3333333333333333, 
+            "new~T": 0.3333333333333333, 
+            "poor~R": 0.3333333333333333
+        }, 
+        "week's": {
+            "in~one": 1.0
+        }, 
+        "well": {
+            ",~as": 0.5, 
+            "EKG~as": 0.5
+        }, 
+        "well-developed": {
+            "was~a": 1.0
+        }, 
+        "went": {
+            "which~he": 1.0
+        }, 
+        "were": {
+            ",~platelets": 0.5, 
+            "carotid~upstrokes": 0.5
+        }, 
+        "whatsoever.": {
+            "no~symptoms": 1.0
+        }, 
+        "where": {
+            "Rexas&~Hospital": 1.0
+        }, 
+        "which": {
+            "medical~regimen": 0.3333333333333333, 
+            "on~10/16/94": 0.3333333333333333, 
+            "protocol~on": 0.3333333333333333
+        }, 
+        "white": {
+            "110~,": 1.0
+        }, 
+        "who": {
+            "of~hypertension": 1.0
+        }, 
+        "with": {
+            "NECK:~Supple": 0.0625, 
+            "and~nauseous": 0.0625, 
+            "apparent~distress": 0.0625, 
+            "conduction~delay": 0.0625, 
+            "enlarged~heart": 0.0625, 
+            "fluid~bolus": 0.0625, 
+            "for~follow-up": 0.0625, 
+            "old~gentleman": 0.0625, 
+            "on~10/16/94": 0.0625, 
+            "posterior~hemi-block": 0.0625, 
+            "provide~him": 0.0625, 
+            "quiet~precordium": 0.0625, 
+            "system~disease": 0.0625, 
+            "the~patient": 0.0625, 
+            "was~treated": 0.0625, 
+            "without~assistance": 0.0625
+        }, 
+        "without": {
+            "and~rhythm": 0.3333333333333333, 
+            "is~ambulating": 0.3333333333333333, 
+            "pulses~2+": 0.3333333333333333
+        }, 
+        "work-up": {
+            "an~extensive": 1.0
+        }, 
+        "would": {
+            "a~pacer": 0.5, 
+            "disease~that": 0.5
+        }, 
+        "year": {
+            "a~73": 1.0
+        }, 
+        "|": {
+            "12:00:00~AM": 0.1111111111111111, 
+            "99212698~|": 0.1111111111111111, 
+            "Discharge~Summary": 0.1111111111111111, 
+            "|~088585": 0.1111111111111111, 
+            "|~99212698": 0.1111111111111111, 
+            "|~DIS": 0.1111111111111111, 
+            "|~LMC": 0.1111111111111111, 
+            "|~Signed": 0.1111111111111111, 
+            "~903526414": 0.1111111111111111
+        }
+    }, 
+    "type": "data/train", 
+    "uni": {
+        "": 0.0008968609865470852, 
+        "#asthma#": 0.0017937219730941704, 
+        "#obese#": 0.0008968609865470852, 
+        ")": 0.0026905829596412557, 
+        ",": 0.06995515695067264, 
+        "000": 0.0008968609865470852, 
+        "088585": 0.0008968609865470852, 
+        "1": 0.0008968609865470852, 
+        "1+": 0.0008968609865470852, 
+        "1.7": 0.0008968609865470852, 
+        "1/6": 0.0008968609865470852, 
+        "10/10/94": 0.0008968609865470852, 
+        "10/11/1994": 0.0008968609865470852, 
+        "10/16/94": 0.0017937219730941704, 
+        "11/10/1994": 0.0008968609865470852, 
+        "110": 0.0008968609865470852, 
+        "112": 0.0008968609865470852, 
+        "12:00:00": 0.0008968609865470852, 
+        "13.6": 0.0008968609865470852, 
+        "137": 0.0008968609865470852, 
+        "14": 0.0017937219730941704, 
+        "14.": 0.0008968609865470852, 
+        "140": 0.0008968609865470852, 
+        "154/82": 0.0008968609865470852, 
+        "180": 0.0008968609865470852, 
+        "195/95": 0.0008968609865470852, 
+        "2": 0.0008968609865470852, 
+        "2+": 0.0008968609865470852, 
+        "20": 0.0008968609865470852, 
+        "24": 0.0008968609865470852, 
+        "240": 0.0008968609865470852, 
+        "25": 0.0008968609865470852, 
+        "28": 0.0008968609865470852, 
+        "28/6": 0.0008968609865470852, 
+        "3": 0.0008968609865470852, 
+        "3/6/94": 0.0008968609865470852, 
+        "3/7/1994": 0.0008968609865470852, 
+        "325": 0.0008968609865470852, 
+        "3607": 0.0008968609865470852, 
+        "4.4": 0.0008968609865470852, 
+        "40": 0.0008968609865470852, 
+        "47.3.": 0.0008968609865470852, 
+        "47.6": 0.0008968609865470852, 
+        "56": 0.0008968609865470852, 
+        "6": 0.0008968609865470852, 
+        "6.4": 0.0008968609865470852, 
+        "70%": 0.0008968609865470852, 
+        "73": 0.0008968609865470852, 
+        "74": 0.0008968609865470852, 
+        "85": 0.0008968609865470852, 
+        "9/1/94": 0.0008968609865470852, 
+        "903526414": 0.0008968609865470852, 
+        "99212698": 0.0008968609865470852, 
+        "ALLERGIES:": 0.0008968609865470852, 
+        "AM": 0.0008968609865470852, 
+        "AMASS": 0.0008968609865470852, 
+        "AND": 0.0008968609865470852, 
+        "ARTERY": 0.0008968609865470852, 
+        "Admission": 0.0008968609865470852, 
+        "Andsi": 0.0008968609865470852, 
+        "Arl": 0.0008968609865470852, 
+        "Aspirin": 0.0008968609865470852, 
+        "At": 0.0008968609865470852, 
+        "Attending:": 0.0008968609865470852, 
+        "Azmacort": 0.0017937219730941704, 
+        "BUN": 0.0008968609865470852, 
+        "Batch:": 0.0008968609865470852, 
+        "Because": 0.0017937219730941704, 
+        "Beconase": 0.0017937219730941704, 
+        "Berke": 0.0008968609865470852, 
+        "Brethaire": 0.0008968609865470852, 
+        "Bruce": 0.0008968609865470852, 
+        "Burch": 0.0008968609865470852, 
+        "By:": 0.0008968609865470852, 
+        "CARDIAC:": 0.0008968609865470852, 
+        "CATINO": 0.0008968609865470852, 
+        "CONDITION": 0.0008968609865470852, 
+        "CORONARY": 0.0008968609865470852, 
+        "COURSE:": 0.0008968609865470852, 
+        "CURRENT": 0.0008968609865470852, 
+        "Calan": 0.0008968609865470852, 
+        "Captopril": 0.0017937219730941704, 
+        "Cardiac": 0.0008968609865470852, 
+        "Care": 0.0008968609865470852, 
+        "Center": 0.0017937219730941704, 
+        "Clear": 0.0008968609865470852, 
+        "Collstate": 0.0008968609865470852, 
+        "County": 0.0008968609865470852, 
+        "D:": 0.0008968609865470852, 
+        "DEGENERATIVE": 0.0008968609865470852, 
+        "DIAGNOSIS:": 0.0008968609865470852, 
+        "DIS": 0.0008968609865470852, 
+        "DISCHARGE": 0.0017937219730941704, 
+        "DISCHARGE:": 0.0008968609865470852, 
+        "DISEASE.": 0.0017937219730941704, 
+        "DISPOSITION:": 0.0008968609865470852, 
+        "Date:": 0.0017937219730941704, 
+        "Dictated": 0.0008968609865470852, 
+        "Discharge": 0.0017937219730941704, 
+        "Dr.": 0.0017937219730941704, 
+        "EDWARDO": 0.0008968609865470852, 
+        "EKG": 0.0053811659192825115, 
+        "EXAMINATION:": 0.0017937219730941704, 
+        "EXTREMITIES:": 0.0008968609865470852, 
+        "Ecotrin": 0.0008968609865470852, 
+        "Examination": 0.0008968609865470852, 
+        "F": 0.0008968609865470852, 
+        "FNRJSX2VD5": 0.0008968609865470852, 
+        "Feldene": 0.0008968609865470852, 
+        "G": 0.0008968609865470852, 
+        "Given": 0.0008968609865470852, 
+        "H.": 0.0008968609865470852, 
+        "HEENT:": 0.0008968609865470852, 
+        "HISTORY": 0.0008968609865470852, 
+        "HISTORY:": 0.0008968609865470852, 
+        "HOSPITAL": 0.0008968609865470852, 
+        "HU5": 0.0008968609865470852, 
+        "HYPERTENSION.": 0.0008968609865470852, 
+        "Hanghab": 0.0008968609865470852, 
+        "He": 0.006278026905829596, 
+        "Hend": 0.0008968609865470852, 
+        "His": 0.004484304932735426, 
+        "Holter": 0.0026905829596412557, 
+        "Hospital": 0.0017937219730941704, 
+        "However": 0.0008968609865470852, 
+        "III": 0.0008968609865470852, 
+        "ILLNESS:": 0.0008968609865470852, 
+        "INCLUDES:": 0.0008968609865470852, 
+        "In": 0.0008968609865470852, 
+        "Index": 0.0008968609865470852, 
+        "It": 0.0017937219730941704, 
+        "JOINT": 0.0008968609865470852, 
+        "JOSEF": 0.0008968609865470852, 
+        "LABORATORY": 0.0008968609865470852, 
+        "LIST": 0.0008968609865470852, 
+        "LMC": 0.0008968609865470852, 
+        "LUNGS:": 0.0008968609865470852, 
+        "Losblan": 0.0008968609865470852, 
+        "M.D.": 0.0017937219730941704, 
+        "MEDICAL": 0.0008968609865470852, 
+        "MEDICATIONS:": 0.0017937219730941704, 
+        "MIBI": 0.003587443946188341, 
+        "Massbarre": 0.0008968609865470852, 
+        "Medical": 0.0017937219730941704, 
+        "Memorial": 0.0008968609865470852, 
+        "Moreover": 0.0008968609865470852, 
+        "NECK:": 0.0008968609865470852, 
+        "No.": 0.0008968609865470852, 
+        "None.": 0.0008968609865470852, 
+        "Normocephalic": 0.0008968609865470852, 
+        "OF": 0.0008968609865470852, 
+        "OM1": 0.0008968609865470852, 
+        "ON": 0.0008968609865470852, 
+        "OPERATIONS": 0.0008968609865470852, 
+        "Ocean": 0.0008968609865470852, 
+        "On": 0.0008968609865470852, 
+        "PAST": 0.0008968609865470852, 
+        "PHYSICAL": 0.0008968609865470852, 
+        "PL540/4580": 0.0008968609865470852, 
+        "PRESENT": 0.0008968609865470852, 
+        "PROBLEM": 0.0008968609865470852, 
+        "PROCEDURES:": 0.0008968609865470852, 
+        "PT": 0.0008968609865470852, 
+        "PTT": 0.0008968609865470852, 
+        "Palenzuela": 0.0008968609865470852, 
+        "Patricia": 0.0008968609865470852, 
+        "Pringcori": 0.0008968609865470852, 
+        "R": 0.0008968609865470852, 
+        "Report": 0.0008968609865470852, 
+        "Revealed": 0.0008968609865470852, 
+        "Rexas&": 0.0008968609865470852, 
+        "SR": 0.0017937219730941704, 
+        "ST": 0.0008968609865470852, 
+        "Signed": 0.0017937219730941704, 
+        "Significant": 0.0017937219730941704, 
+        "Spray": 0.0008968609865470852, 
+        "Stable.": 0.0008968609865470852, 
+        "Status:": 0.0008968609865470852, 
+        "Summary": 0.0008968609865470852, 
+        "Supple": 0.0008968609865470852, 
+        "T": 0.0017937219730941704, 
+        "The": 0.003587443946188341, 
+        "This": 0.0017937219730941704, 
+        "Ton": 0.0008968609865470852, 
+        "Ventolin": 0.0008968609865470852, 
+        "Verapamil": 0.0008968609865470852, 
+        "While": 0.0008968609865470852, 
+        "X-Ray": 0.0008968609865470852, 
+        "XR88": 0.0008968609865470852, 
+        "a": 0.02780269058295964, 
+        "above": 0.0008968609865470852, 
+        "accommodation": 0.0008968609865470852, 
+        "achieved": 0.0008968609865470852, 
+        "across": 0.0008968609865470852, 
+        "addition": 0.0017937219730941704, 
+        "adequate": 0.0017937219730941704, 
+        "admitted": 0.0008968609865470852, 
+        "advanced": 0.0008968609865470852, 
+        "after": 0.0008968609865470852, 
+        "age.": 0.0008968609865470852, 
+        "also": 0.0026905829596412557, 
+        "alternated": 0.0017937219730941704, 
+        "alternating": 0.0017937219730941704, 
+        "ambulating": 0.0008968609865470852, 
+        "an": 0.007174887892376682, 
+        "analysis": 0.0008968609865470852, 
+        "and": 0.026905829596412557, 
+        "anterior": 0.003587443946188341, 
+        "anteroapical": 0.0008968609865470852, 
+        "any": 0.0026905829596412557, 
+        "apparent": 0.0008968609865470852, 
+        "arrhythmias.": 0.0008968609865470852, 
+        "artery": 0.0008968609865470852, 
+        "as": 0.003587443946188341, 
+        "assess": 0.0008968609865470852, 
+        "assistance": 0.0008968609865470852, 
+        "at": 0.0053811659192825115, 
+        "atraumatic": 0.0008968609865470852, 
+        "atrial": 0.0017937219730941704, 
+        "auscultation": 0.0008968609865470852, 
+        "b.i.d.": 0.004484304932735426, 
+        "baseline": 0.0017937219730941704, 
+        "be": 0.003587443946188341, 
+        "beats": 0.0017937219730941704, 
+        "became": 0.0008968609865470852, 
+        "being": 0.0017937219730941704, 
+        "benign.": 0.0008968609865470852, 
+        "between": 0.0026905829596412557, 
+        "bilaterally": 0.0008968609865470852, 
+        "bilaterally.": 0.0008968609865470852, 
+        "blood": 0.003587443946188341, 
+        "bolus": 0.0008968609865470852, 
+        "bowel": 0.0008968609865470852, 
+        "bradycardia": 0.0008968609865470852, 
+        "bruit": 0.0008968609865470852, 
+        "bruits": 0.0008968609865470852, 
+        "by": 0.0008968609865470852, 
+        "capillary": 0.0008968609865470852, 
+        "cardiac": 0.0017937219730941704, 
+        "carotid": 0.0017937219730941704, 
+        "catheterization": 0.0017937219730941704, 
+        "catheterization.": 0.0008968609865470852, 
+        "change": 0.0017937219730941704, 
+        "changes": 0.0008968609865470852, 
+        "chest": 0.0017937219730941704, 
+        "clubbing": 0.0008968609865470852, 
+        "complications": 0.0008968609865470852, 
+        "conduction": 0.006278026905829596, 
+        "control.": 0.0008968609865470852, 
+        "coronary": 0.0017937219730941704, 
+        "could": 0.0008968609865470852, 
+        "count": 0.0008968609865470852, 
+        "couple": 0.0008968609865470852, 
+        "course": 0.0008968609865470852, 
+        "creatinine": 0.0008968609865470852, 
+        "cyanosis": 0.0008968609865470852, 
+        "decision": 0.0017937219730941704, 
+        "deep": 0.0008968609865470852, 
+        "defect": 0.0008968609865470852, 
+        "degenerate": 0.0008968609865470852, 
+        "degenerated": 0.0008968609865470852, 
+        "degenerative": 0.0008968609865470852, 
+        "delay": 0.0017937219730941704, 
+        "delay.": 0.0008968609865470852, 
+        "denied": 0.0017937219730941704, 
+        "descending": 0.0008968609865470852, 
+        "despite": 0.0008968609865470852, 
+        "diagonal": 0.0008968609865470852, 
+        "diaphoresis": 0.0017937219730941704, 
+        "diaphoresis.": 0.0008968609865470852, 
+        "diaphoretic": 0.0008968609865470852, 
+        "did": 0.0008968609865470852, 
+        "discharge": 0.0008968609865470852, 
+        "discharged": 0.0017937219730941704, 
+        "disease": 0.003587443946188341, 
+        "disease.": 0.0008968609865470852, 
+        "distal": 0.0008968609865470852, 
+        "distention": 0.0008968609865470852, 
+        "distress": 0.0008968609865470852, 
+        "diverticulosis": 0.0008968609865470852, 
+        "dorsalis": 0.0008968609865470852, 
+        "during": 0.0026905829596412557, 
+        "dyspnea": 0.0008968609865470852, 
+        "each": 0.0008968609865470852, 
+        "edema.": 0.0017937219730941704, 
+        "enlarged": 0.0008968609865470852, 
+        "episodes": 0.0026905829596412557, 
+        "equally": 0.0008968609865470852, 
+        "etiology": 0.0008968609865470852, 
+        "evaluation": 0.0017937219730941704, 
+        "examination": 0.0017937219730941704, 
+        "exercise": 0.004484304932735426, 
+        "extending": 0.0008968609865470852, 
+        "extensive": 0.0008968609865470852, 
+        "extraocular": 0.0008968609865470852, 
+        "fact": 0.0008968609865470852, 
+        "factors": 0.0008968609865470852, 
+        "fatigue": 0.0008968609865470852, 
+        "felt": 0.0053811659192825115, 
+        "femoral": 0.0008968609865470852, 
+        "fissure": 0.0008968609865470852, 
+        "fixed": 0.0008968609865470852, 
+        "fluid": 0.0008968609865470852, 
+        "follow-up": 0.0008968609865470852, 
+        "for": 0.006278026905829596, 
+        "four": 0.0017937219730941704, 
+        "from": 0.0008968609865470852, 
+        "further": 0.0017937219730941704, 
+        "gallops": 0.0008968609865470852, 
+        "gender": 0.0008968609865470852, 
+        "gentleman": 0.0008968609865470852, 
+        "glucose": 0.0008968609865470852, 
+        "had": 0.009865470852017937, 
+        "has": 0.0008968609865470852, 
+        "he": 0.012556053811659192, 
+        "heart": 0.0026905829596412557, 
+        "heavy": 0.0008968609865470852, 
+        "hematocrit": 0.0008968609865470852, 
+        "hemi-block": 0.0026905829596412557, 
+        "hemi-block.": 0.0026905829596412557, 
+        "hemodynamics": 0.0008968609865470852, 
+        "hemorrhoids.": 0.0008968609865470852, 
+        "him": 0.0008968609865470852, 
+        "his": 0.012556053811659192, 
+        "history": 0.003587443946188341, 
+        "home": 0.0017937219730941704, 
+        "home.": 0.0008968609865470852, 
+        "hospital": 0.0008968609865470852, 
+        "hospitalization": 0.0008968609865470852, 
+        "hours": 0.0026905829596412557, 
+        "however": 0.0008968609865470852, 
+        "hypertension": 0.0017937219730941704, 
+        "hypokinesis.": 0.0008968609865470852, 
+        "identifiable": 0.0008968609865470852, 
+        "if": 0.0008968609865470852, 
+        "imaging": 0.0008968609865470852, 
+        "improvement.": 0.0008968609865470852, 
+        "in": 0.006278026905829596, 
+        "include": 0.0008968609865470852, 
+        "indication": 0.0008968609865470852, 
+        "infarction.": 0.0008968609865470852, 
+        "inferior": 0.0017937219730941704, 
+        "infiltrates": 0.0008968609865470852, 
+        "information": 0.0008968609865470852, 
+        "inhaler": 0.003587443946188341, 
+        "intact": 0.0008968609865470852, 
+        "intermittent": 0.0008968609865470852, 
+        "intravenous": 0.0008968609865470852, 
+        "intraventricular": 0.0017937219730941704, 
+        "inversion": 0.0008968609865470852, 
+        "inversions": 0.0008968609865470852, 
+        "is": 0.0053811659192825115, 
+        "ischemia": 0.0008968609865470852, 
+        "it": 0.0026905829596412557, 
+        "joint": 0.0008968609865470852, 
+        "jugular": 0.0008968609865470852, 
+        "justify": 0.0008968609865470852, 
+        "lasting": 0.0008968609865470852, 
+        "leads": 0.0008968609865470852, 
+        "left": 0.008968609865470852, 
+        "leg": 0.0008968609865470852, 
+        "lesion": 0.0026905829596412557, 
+        "lesion.": 0.0008968609865470852, 
+        "less": 0.0008968609865470852, 
+        "light": 0.0008968609865470852, 
+        "male": 0.0008968609865470852, 
+        "maximum": 0.0017937219730941704, 
+        "may": 0.0008968609865470852, 
+        "mean": 0.0017937219730941704, 
+        "medical": 0.0026905829596412557, 
+        "mg": 0.003587443946188341, 
+        "microhematuria": 0.0008968609865470852, 
+        "mid": 0.0008968609865470852, 
+        "mild": 0.0008968609865470852, 
+        "minute": 0.0008968609865470852, 
+        "minutes": 0.0008968609865470852, 
+        "modified": 0.0008968609865470852, 
+        "monitor": 0.0008968609865470852, 
+        "monitoring": 0.0017937219730941704, 
+        "monitoring.": 0.0008968609865470852, 
+        "more": 0.0026905829596412557, 
+        "movements": 0.0008968609865470852, 
+        "murmurs": 0.0008968609865470852, 
+        "myocardial": 0.0008968609865470852, 
+        "nausea": 0.0026905829596412557, 
+        "nauseous": 0.0008968609865470852, 
+        "necessary": 0.0008968609865470852, 
+        "new": 0.0008968609865470852, 
+        "no": 0.010762331838565023, 
+        "nocturnal": 0.0008968609865470852, 
+        "non-palpable": 0.0008968609865470852, 
+        "non-specific": 0.0008968609865470852, 
+        "none.": 0.0008968609865470852, 
+        "normal.": 0.0008968609865470852, 
+        "not": 0.0026905829596412557, 
+        "notable": 0.0008968609865470852, 
+        "noteworthy": 0.0008968609865470852, 
+        "nuclear": 0.0008968609865470852, 
+        "obstruction": 0.0008968609865470852, 
+        "occasional": 0.0017937219730941704, 
+        "occluded": 0.0017937219730941704, 
+        "of": 0.0242152466367713, 
+        "old": 0.0008968609865470852, 
+        "on": 0.006278026905829596, 
+        "one": 0.0017937219730941704, 
+        "or": 0.003587443946188341, 
+        "oropharynx": 0.0008968609865470852, 
+        "orthopnea": 0.0008968609865470852, 
+        "out": 0.0008968609865470852, 
+        "p.o.": 0.0053811659192825115, 
+        "pacer": 0.0008968609865470852, 
+        "pacer.": 0.0008968609865470852, 
+        "pain": 0.0008968609865470852, 
+        "paroxysmal": 0.0008968609865470852, 
+        "particularly": 0.0008968609865470852, 
+        "past": 0.0008968609865470852, 
+        "patient": 0.008968609865470852, 
+        "patient's": 0.0008968609865470852, 
+        "pattern": 0.0017937219730941704, 
+        "pedis": 0.0008968609865470852, 
+        "perform": 0.0008968609865470852, 
+        "performed": 0.0008968609865470852, 
+        "peripheral": 0.0008968609865470852, 
+        "platelets": 0.0008968609865470852, 
+        "pleasant": 0.0008968609865470852, 
+        "point": 0.0008968609865470852, 
+        "poor": 0.0008968609865470852, 
+        "possibly": 0.0008968609865470852, 
+        "posterior": 0.0053811659192825115, 
+        "potassium": 0.0008968609865470852, 
+        "precipitant.": 0.0008968609865470852, 
+        "precordium": 0.0008968609865470852, 
+        "precordium.": 0.0008968609865470852, 
+        "premature": 0.0017937219730941704, 
+        "presented": 0.0008968609865470852, 
+        "pressure": 0.004484304932735426, 
+        "pressure.": 0.0008968609865470852, 
+        "prior": 0.0008968609865470852, 
+        "progression": 0.0008968609865470852, 
+        "protocol": 0.0008968609865470852, 
+        "provide": 0.0008968609865470852, 
+        "provokeable": 0.0008968609865470852, 
+        "puffs": 0.006278026905829596, 
+        "pulmonary": 0.0017937219730941704, 
+        "pulses": 0.0017937219730941704, 
+        "pupils": 0.0008968609865470852, 
+        "q.d.": 0.003587443946188341, 
+        "q.i.d.": 0.0026905829596412557, 
+        "quiet": 0.0008968609865470852, 
+        "rate": 0.0026905829596412557, 
+        "reactive": 0.0008968609865470852, 
+        "recent": 0.0008968609865470852, 
+        "rectal": 0.0008968609865470852, 
+        "regimen": 0.0017937219730941704, 
+        "regular": 0.0008968609865470852, 
+        "respirations": 0.0008968609865470852, 
+        "revascularization": 0.0008968609865470852, 
+        "revealed": 0.008071748878923767, 
+        "rhythm": 0.0017937219730941704, 
+        "right": 0.0026905829596412557, 
+        "risk": 0.0008968609865470852, 
+        "round": 0.0008968609865470852, 
+        "rubs.": 0.0008968609865470852, 
+        "ruled": 0.0008968609865470852, 
+        "second": 0.0008968609865470852, 
+        "secondary": 0.0008968609865470852, 
+        "send": 0.0008968609865470852, 
+        "sent": 0.0008968609865470852, 
+        "septum.": 0.0008968609865470852, 
+        "severe": 0.0017937219730941704, 
+        "sinus": 0.0017937219730941704, 
+        "small": 0.0008968609865470852, 
+        "sodium": 0.0008968609865470852, 
+        "stable": 0.0008968609865470852, 
+        "stopping": 0.0008968609865470852, 
+        "stress": 0.0008968609865470852, 
+        "subsequent": 0.0008968609865470852, 
+        "symptoms": 0.0026905829596412557, 
+        "system": 0.0026905829596412557, 
+        "t.i.d.": 0.0008968609865470852, 
+        "test": 0.003587443946188341, 
+        "thallium.": 0.0008968609865470852, 
+        "than": 0.0008968609865470852, 
+        "that": 0.007174887892376682, 
+        "the": 0.017937219730941704, 
+        "then": 0.0008968609865470852, 
+        "there": 0.0008968609865470852, 
+        "therefore": 0.0008968609865470852, 
+        "this": 0.0026905829596412557, 
+        "tibial": 0.0008968609865470852, 
+        "tight": 0.0008968609865470852, 
+        "time.": 0.0017937219730941704, 
+        "to": 0.01883408071748879, 
+        "tolerance": 0.0026905829596412557, 
+        "tolerance.": 0.0008968609865470852, 
+        "too": 0.0008968609865470852, 
+        "totally": 0.0017937219730941704, 
+        "transferred": 0.0008968609865470852, 
+        "treated": 0.0008968609865470852, 
+        "twelve": 0.0008968609865470852, 
+        "two": 0.0053811659192825115, 
+        "uncertain": 0.0008968609865470852, 
+        "undergo": 0.0017937219730941704, 
+        "underwent": 0.0008968609865470852, 
+        "unnecessary.": 0.0008968609865470852, 
+        "unstable": 0.0008968609865470852, 
+        "upstrokes": 0.0008968609865470852, 
+        "venous": 0.0008968609865470852, 
+        "ventricular": 0.0017937219730941704, 
+        "ventriculogram": 0.0008968609865470852, 
+        "very": 0.0008968609865470852, 
+        "via": 0.0008968609865470852, 
+        "was": 0.019730941704035873, 
+        "wave": 0.0026905829596412557, 
+        "week's": 0.0008968609865470852, 
+        "well": 0.0017937219730941704, 
+        "well-developed": 0.0008968609865470852, 
+        "went": 0.0008968609865470852, 
+        "were": 0.0017937219730941704, 
+        "whatsoever.": 0.0008968609865470852, 
+        "where": 0.0008968609865470852, 
+        "which": 0.0026905829596412557, 
+        "white": 0.0008968609865470852, 
+        "who": 0.0008968609865470852, 
+        "with": 0.014349775784753363, 
+        "without": 0.0026905829596412557, 
+        "work-up": 0.0008968609865470852, 
+        "would": 0.0017937219730941704, 
+        "year": 0.0008968609865470852, 
+        "|": 0.008071748878923767
+    }
+}

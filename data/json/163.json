@@ -1,0 +1,3180 @@
+{
+    "bi": {
+        "\"Anxiety": {
+            "CC:": 1.0
+        }, 
+        "#obese#": {
+            ",": 0.5, 
+            "morbid": 0.25, 
+            "to": 0.25
+        }, 
+        "(": {
+            "M.D.": 0.3333333333333333, 
+            "TREATMENTS/PROCEDURES": 0.3333333333333333, 
+            "production": 0.3333333333333333
+        }, 
+        ")": {
+            "#obese#": 0.2, 
+            "2993": 0.2, 
+            "Admission": 0.2, 
+            "JT53": 0.2, 
+            "O.R.": 0.2
+        }, 
+        "):": {
+            "S": 1.0
+        }, 
+        "**": {
+            "HPI": 0.3333333333333333, 
+            "exam": 0.3333333333333333, 
+            "rash": 0.3333333333333333
+        }, 
+        "***": {
+            "normal.": 0.5, 
+            "vasospasm.": 0.5
+        }, 
+        "******": {
+            "8/28/2006": 0.3333333333333333, 
+            "AM": 0.3333333333333333, 
+            "ORDERS": 0.3333333333333333
+        }, 
+        ",": {
+            "#obese#": 0.0967741935483871, 
+            "1": 0.06451612903225806, 
+            "1.0": 0.03225806451612903, 
+            "ASA": 0.03225806451612903, 
+            "Complications": 0.03225806451612903, 
+            "D.": 0.03225806451612903, 
+            "DAVIDS": 0.03225806451612903, 
+            "DIAGNOSIS;Conditions": 0.03225806451612903, 
+            "DM2": 0.03225806451612903, 
+            "E.": 0.03225806451612903, 
+            "EKG": 0.03225806451612903, 
+            "Infections": 0.03225806451612903, 
+            "JUSTINGER": 0.03225806451612903, 
+            "MIBI": 0.03225806451612903, 
+            "Mellitus": 0.03225806451612903, 
+            "NORBERG": 0.03225806451612903, 
+            "NPH": 0.03225806451612903, 
+            "PM": 0.03225806451612903, 
+            "anxiety": 0.03225806451612903, 
+            "deficit": 0.03225806451612903, 
+            "diaphoresis": 0.03225806451612903, 
+            "however": 0.06451612903225806, 
+            "hyperthyroidism": 0.03225806451612903, 
+            "insulin": 0.03225806451612903, 
+            "meal": 0.03225806451612903, 
+            "night": 0.03225806451612903, 
+            "pain": 0.03225806451612903
+        }, 
+        "-": {
+            "CXR": 0.5, 
+            "describe": 0.5
+        }, 
+        "-->": {
+            "Bactrim": 1.0
+        }, 
+        "000": {
+            ",": 1.0
+        }, 
+        "016-5045": {
+            ")": 1.0
+        }, 
+        "01:00": {
+            "AT": 1.0
+        }, 
+        "05980849": {
+            "|": 1.0
+        }, 
+        "086-23-20-9": {
+            "FRITZ": 1.0
+        }, 
+        "08:34": {
+            "@": 1.0
+        }, 
+        "1": {
+            "METFORMIN": 1.0
+        }, 
+        "1.0": {
+            "Cr": 1.0
+        }, 
+        "1/15/06": {
+            ")": 0.5, 
+            "ON:": 0.5
+        }, 
+        "100": {
+            "HUMAN": 1.0
+        }, 
+        "100%": {
+            "O2sat:": 1.0
+        }, 
+        "100U": {
+            "on": 1.0
+        }, 
+        "12:00:00": {
+            "8/13/2006": 1.0
+        }, 
+        "12:10": {
+            "@": 1.0
+        }, 
+        "135/80": {
+            "BP:": 1.0
+        }, 
+        "149726591": {
+            "": 1.0
+        }, 
+        "16": {
+            "RR": 1.0
+        }, 
+        "2": {
+            "x": 1.0
+        }, 
+        "2363748": {
+            "|": 1.0
+        }, 
+        "2993": {
+            "EDENHOLM": 1.0
+        }, 
+        "3.": {
+            "x": 1.0
+        }, 
+        "3/15/2006": {
+            "Date:": 1.0
+        }, 
+        "300": {
+            "HCL": 1.0
+        }, 
+        "325": {
+            "ECASA": 1.0
+        }, 
+        "44": {
+            "a": 1.0
+        }, 
+        "44F": {
+            "Impression:": 1.0
+        }, 
+        "50": {
+            "ATENOLOL": 1.0
+        }, 
+        "500": {
+            ",": 1.0
+        }, 
+        "6/18": {
+            "hold": 1.0
+        }, 
+        "7/6/06": {
+            "016-5045": 1.0
+        }, 
+        "76.": {
+            "eGFR": 1.0
+        }, 
+        "8/13/2006": {
+            "|": 1.0
+        }, 
+        "8/28/2006": {
+            "Date:": 1.0
+        }, 
+        "80-90": {
+            "HR:": 1.0
+        }, 
+        ";Responsible": {
+            "DIAGNOSIS": 1.0
+        }, 
+        "@": {
+            "1/15/06": 0.5, 
+            "7/6/06": 0.5
+        }, 
+        "A&O": {
+            "NEURO:": 1.0
+        }, 
+        "ACTIVITY:": {
+            "Restrictions": 1.0
+        }, 
+        "ADDITIONAL": {
+            "weeks.": 1.0
+        }, 
+        "ADMIT": {
+            "TRIMETHOPRIM/SULFAMETHOXAZOLE": 1.0
+        }, 
+        "AF": {
+            "VS:": 1.0
+        }, 
+        "ALLERGIES:": {
+            "**": 1.0
+        }, 
+        "ALLERGY:": {
+            ",": 1.0
+        }, 
+        "AM": {
+            "08:34": 0.5, 
+            "12:00:00": 0.5
+        }, 
+        "AND": {
+            "OPERATIONS": 1.0
+        }, 
+        "APPOINTMENT(": {
+            "UP": 1.0
+        }, 
+        "AS": {
+            "USED": 1.0
+        }, 
+        "ASA": {
+            "with": 1.0
+        }, 
+        "AT": {
+            "1/15/06": 1.0
+        }, 
+        "ATENOLOL": {
+            "MEDICATIONS:": 1.0
+        }, 
+        "Admission": {
+            "Causing": 0.5, 
+            "|": 0.5
+        }, 
+        "After": {
+            ";Responsible": 1.0
+        }, 
+        "Also": {
+            "above.": 1.0
+        }, 
+        "Applicable": {
+            "Not": 1.0
+        }, 
+        "As": {
+            "PMHX": 1.0
+        }, 
+        "Attending:": {
+            "YES": 1.0
+        }, 
+        "BBlocker.": {
+            ",": 1.0
+        }, 
+        "BE": {
+            "ORDER": 1.0
+        }, 
+        "BP:": {
+            "AF": 1.0
+        }, 
+        "BRIEF": {
+            "catheterization": 1.0
+        }, 
+        "BY:": {
+            "ENTERED": 1.0
+        }, 
+        "Bactrim": {
+            "ALLERGIES:": 1.0
+        }, 
+        "Baseline": {
+            "Resp-": 1.0
+        }, 
+        "CC:": {
+            "COURSE:": 1.0
+        }, 
+        "CODE": {
+            "M.D.": 1.0
+        }, 
+        "COMMENTS:": {
+            "ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            "DISCHARGE": 1.0
+        }, 
+        "CONTINGENT": {
+            "PM": 1.0
+        }, 
+        "COURSE:": {
+            "HOSPITAL": 1.0
+        }, 
+        "CTAB.": {
+            "PULM:": 1.0
+        }, 
+        "CV-": {
+            "symptoms.": 1.0
+        }, 
+        "CV:": {
+            "nl": 1.0
+        }, 
+        "CXR": {
+            "Baseline": 0.3333333333333333, 
+            "CTAB.": 0.3333333333333333, 
+            "and": 0.3333333333333333
+        }, 
+        "Cardiac": {
+            ",": 1.0
+        }, 
+        "Causing": {
+            "for": 1.0
+        }, 
+        "Complications": {
+            ",": 1.0
+        }, 
+        "Course": {
+            "Hospital": 1.0
+        }, 
+        "Cr": {
+            "RENAL:": 0.3333333333333333, 
+            "Renal-": 0.3333333333333333, 
+            "elevated": 0.3333333333333333
+        }, 
+        "D.": {
+            "JONATHAN": 1.0
+        }, 
+        "D/C": {
+            "THE": 0.3333333333333333, 
+            "WILL": 0.3333333333333333, 
+            "size.": 0.3333333333333333
+        }, 
+        "DAILY": {
+            "PO": 1.0
+        }, 
+        "DAVIDS": {
+            "Attending:": 1.0
+        }, 
+        "DIAGNOSIS": {
+            "DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "OTHER": 1.0
+        }, 
+        "DIET:": {
+            "DAILY": 1.0
+        }, 
+        "DIS": {
+            "|": 1.0
+        }, 
+        "DISCHARGE": {
+            "FINAL": 0.16666666666666666, 
+            "Home": 0.16666666666666666, 
+            "MED": 0.16666666666666666, 
+            "OF": 0.16666666666666666, 
+            "PRINCIPAL": 0.16666666666666666, 
+            "breath.": 0.16666666666666666
+        }, 
+        "DISPOSITION:": {
+            "code": 1.0
+        }, 
+        "DM": {
+            "II": 1.0
+        }, 
+        "DM2": {
+            "h/o": 1.0
+        }, 
+        "DO/PLAN:": {
+            "TO": 1.0
+        }, 
+        "DR": {
+            "PCP": 1.0
+        }, 
+        "Date:": {
+            "Admission": 0.5, 
+            "Discharge": 0.5
+        }, 
+        "Denies": {
+            "radiation.": 1.0
+        }, 
+        "Diabetes": {
+            "Endo-": 0.5, 
+            "Treatment/Stay": 0.5
+        }, 
+        "Discharge": {
+            "Status:": 1.0
+        }, 
+        "Disease": {
+            "Reflux": 1.0
+        }, 
+        "Dr.": {
+            "with": 1.0
+        }, 
+        "E.": {
+            "REYES": 1.0
+        }, 
+        "EBAMH": {
+            "her": 1.0
+        }, 
+        "ECASA": {
+            "DAILY": 1.0
+        }, 
+        "EDENHOLM": {
+            "DR": 1.0
+        }, 
+        "EKG": {
+            "No": 0.25, 
+            "ischemic": 0.25, 
+            "sensation.": 0.25, 
+            "this.": 0.25
+        }, 
+        "END": {
+            "******": 1.0
+        }, 
+        "ENTERED": {
+            "summary": 1.0
+        }, 
+        "Eans": {
+            "086-23-20-9": 1.0
+        }, 
+        "Endo-": {
+            "insufficiency.": 1.0
+        }, 
+        "FINAL": {
+            "******": 1.0
+        }, 
+        "FOLLOW": {
+            "exercise": 1.0
+        }, 
+        "FRITZ": {
+            ",": 1.0
+        }, 
+        "Fischhaber": {
+            "Dr.": 1.0
+        }, 
+        "Full": {
+            "STATUS:": 1.0
+        }, 
+        "GERD": {
+            "by": 1.0
+        }, 
+        "GI/FEN-": {
+            "system": 1.0
+        }, 
+        "Gastroesophageal": {
+            ")": 0.5, 
+            "|": 0.5
+        }, 
+        "H2": {
+            "on": 0.5, 
+            "with": 0.5
+        }, 
+        "HCL": {
+            "RANITIDINE": 1.0
+        }, 
+        "HOLD": {
+            "QAM": 1.0
+        }, 
+        "HOSPITAL": {
+            "OF": 1.0
+        }, 
+        "HPI": {
+            "in": 1.0
+        }, 
+        "HR:": {
+            "135/80": 1.0
+        }, 
+        "HUMAN": {
+            "NPH": 1.0
+        }, 
+        "Her": {
+            "76.": 0.5, 
+            "coronaries.": 0.5
+        }, 
+        "Home": {
+            "DISPOSITION:": 1.0
+        }, 
+        "Hospital": {
+            "***": 1.0
+        }, 
+        "ID/Dx:": {
+            "chest\"": 1.0
+        }, 
+        "IF:": {
+            "HOLD": 1.0
+        }, 
+        "II": {
+            "type": 1.0
+        }, 
+        "IN": {
+            "NOT": 1.0
+        }, 
+        "INSULIN": {
+            "DAILY": 1.0
+        }, 
+        "Impression:": {
+            "**": 1.0
+        }, 
+        "Infarction": {
+            "Myocardial": 1.0
+        }, 
+        "Infections": {
+            ",": 1.0
+        }, 
+        "JONATHAN": {
+            ",": 1.0
+        }, 
+        "JT53": {
+            "(": 1.0
+        }, 
+        "JUSTINGER": {
+            "******": 1.0
+        }, 
+        "M.D.": {
+            ",": 1.0
+        }, 
+        "MED": {
+            "Service:": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "DISCHARGE": 1.0
+        }, 
+        "METFORMIN": {
+            "QPM": 0.5, 
+            "dinner": 0.5
+        }, 
+        "MG": {
+            "000": 0.2, 
+            "300": 0.2, 
+            "325": 0.2, 
+            "50": 0.2, 
+            "500": 0.2
+        }, 
+        "MIBI": {
+            "Stress": 0.6666666666666666, 
+            "normal.": 0.3333333333333333
+        }, 
+        "Mellitus": {
+            "Diabetes": 1.0
+        }, 
+        "Myocardial": {
+            "R/O": 1.0
+        }, 
+        "NEURO:": {
+            "1.0": 1.0
+        }, 
+        "NORBERG": {
+            "BY:": 1.0
+        }, 
+        "NOT": {
+            "(": 1.0
+        }, 
+        "NPH": {
+            "100U": 0.5, 
+            "INSULIN": 0.5
+        }, 
+        "No": {
+            "DIET:": 0.2, 
+            "DO/PLAN:": 0.2, 
+            "clear.": 0.2, 
+            "m/r/g.": 0.2, 
+            "nausea.": 0.2
+        }, 
+        "Not": {
+            "UPON": 1.0
+        }, 
+        "O.R.": {
+            "IN": 1.0
+        }, 
+        "O2sat:": {
+            "16": 1.0
+        }, 
+        "OF": {
+            "END": 0.5, 
+            "RESUME": 0.5
+        }, 
+        "ON:": {
+            "PATIENT": 1.0
+        }, 
+        "OPERATIONS": {
+            "anxiety": 1.0
+        }, 
+        "ORDER": {
+            "D/C": 1.0
+        }, 
+        "ORDERS": {
+            "DISCHARGE": 1.0
+        }, 
+        "OTHER": {
+            "Disease": 0.5, 
+            "PROCEDURES:": 0.5
+        }, 
+        "PATIENT": {
+            "DISCHARGE": 1.0
+        }, 
+        "PCP": {
+            "):": 1.0
+        }, 
+        "PM": {
+            "01:00": 0.5, 
+            "12:10": 0.5
+        }, 
+        "PMHX": {
+            "RELEVANT": 1.0
+        }, 
+        "PO": {
+            "MG": 1.0
+        }, 
+        "PRINCIPAL": {
+            "Infarction": 1.0
+        }, 
+        "PROCEDURES:": {
+            "AND": 1.0
+        }, 
+        "PULM:": {
+            "RA": 1.0
+        }, 
+        "Plan": {
+            "and": 1.0
+        }, 
+        "Please": {
+            "COMMENTS:": 1.0
+        }, 
+        "Pt": {
+            "GI/FEN-": 0.25, 
+            "ID/Dx:": 0.25, 
+            "SOB.": 0.25, 
+            "normal.": 0.25
+        }, 
+        "QAM": {
+            "PO": 1.0
+        }, 
+        "QPM": {
+            "PO": 1.0
+        }, 
+        "R/O": {
+            "DIAGNOSIS:": 1.0
+        }, 
+        "RA": {
+            "100%": 1.0
+        }, 
+        "RANITIDINE": {
+            "dose": 1.0
+        }, 
+        "RELEVANT": {
+            "**": 1.0
+        }, 
+        "RENAL:": {
+            "changes": 1.0
+        }, 
+        "RESUME": {
+            "BRIEF": 1.0
+        }, 
+        "REYES": {
+            ",": 1.0
+        }, 
+        "RR": {
+            "80-90": 1.0
+        }, 
+        "RRR": {
+            "CV:": 1.0
+        }, 
+        "RWGH": {
+            "|": 1.0
+        }, 
+        "Reflux": {
+            "Gastroesophageal": 1.0
+        }, 
+        "Renal-": {
+            "stay.": 1.0
+        }, 
+        "Report": {
+            "3/15/2006": 1.0
+        }, 
+        "Resp-": {
+            "BBlocker.": 1.0
+        }, 
+        "Restrictions": {
+            "No": 1.0
+        }, 
+        "Resume": {
+            "ACTIVITY:": 1.0
+        }, 
+        "Return": {
+            "weeks.": 1.0
+        }, 
+        "S": {
+            "APPOINTMENT(": 1.0
+        }, 
+        "SC": {
+            "UNITS": 1.0
+        }, 
+        "SOB.": {
+            "and": 1.0
+        }, 
+        "SS": {
+            "lispro": 1.0
+        }, 
+        "STATUS:": {
+            "CODE": 1.0
+        }, 
+        "SUMMARY:": {
+            "D/C": 1.0
+        }, 
+        "Service:": {
+            "Eans": 1.0
+        }, 
+        "She": {
+            "blocker.": 0.5, 
+            "meals.": 0.5
+        }, 
+        "Stable": {
+            "CONDITION:": 1.0
+        }, 
+        "Status": {
+            "***": 1.0
+        }, 
+        "Status:": {
+            "Report": 1.0
+        }, 
+        "Stress": {
+            ")": 0.5, 
+            "changes.": 0.5
+        }, 
+        "Study": {
+            "After": 1.0
+        }, 
+        "T4": {
+            "free": 1.0
+        }, 
+        "THE": {
+            "AS": 1.0
+        }, 
+        "TO": {
+            "Stable": 1.0
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "OTHER": 1.0
+        }, 
+        "TRIMETHOPRIM/SULFAMETHOXAZOLE": {
+            "ALLERGY:": 1.0
+        }, 
+        "TSH": {
+            ",": 1.0
+        }, 
+        "The": {
+            "above.": 1.0
+        }, 
+        "To": {
+            "condition.": 1.0
+        }, 
+        "Treatment/Stay": {
+            "affecting": 1.0
+        }, 
+        "UNITS": {
+            "100": 1.0
+        }, 
+        "UP": {
+            "FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "CONTINGENT": 1.0
+        }, 
+        "USED": {
+            "BE": 1.0
+        }, 
+        "VS:": {
+            "discharge": 1.0
+        }, 
+        "WILL": {
+            "Applicable": 1.0
+        }, 
+        "YES": {
+            "SUMMARY:": 1.0
+        }, 
+        "a": {
+            "after": 0.3333333333333333, 
+            "is": 0.3333333333333333, 
+            "with": 0.3333333333333333
+        }, 
+        "aa": {
+            "either": 1.0
+        }, 
+        "above.": {
+            "as": 1.0
+        }, 
+        "affecting": {
+            ",": 1.0
+        }, 
+        "after": {
+            "when": 1.0
+        }, 
+        "air": {
+            "some": 1.0
+        }, 
+        "am": {
+            "6/18": 1.0
+        }, 
+        "and": {
+            ",": 0.2857142857142857, 
+            "Course": 0.14285714285714285, 
+            "EKG": 0.14285714285714285, 
+            "TSH": 0.14285714285714285, 
+            "hunger": 0.14285714285714285, 
+            "tingling": 0.14285714285714285
+        }, 
+        "anxiety": {
+            ",": 0.25, 
+            "and": 0.5, 
+            "or": 0.25
+        }, 
+        "as": {
+            "Diabetes": 0.3333333333333333, 
+            "performed": 0.3333333333333333, 
+            "results": 0.3333333333333333
+        }, 
+        "associated": {
+            "was": 1.0
+        }, 
+        "at": {
+            "Status": 0.3333333333333333, 
+            "blocker": 0.3333333333333333, 
+            "late": 0.3333333333333333
+        }, 
+        "awoke": {
+            "she": 1.0
+        }, 
+        "be": {
+            "still": 1.0
+        }, 
+        "before": {
+            "SC": 1.0
+        }, 
+        "blocker": {
+            "H2": 1.0
+        }, 
+        "blocker.": {
+            "H2": 1.0
+        }, 
+        "breath": {
+            "of": 1.0
+        }, 
+        "breath.": {
+            "of": 1.0
+        }, 
+        "by": {
+            "Plan": 0.3333333333333333, 
+            "caused": 0.3333333333333333, 
+            "explained": 0.3333333333333333
+        }, 
+        "byproduct": {
+            "aa": 1.0
+        }, 
+        "cardiac": {
+            ",": 0.5, 
+            "CV-": 0.5
+        }, 
+        "care": {
+            "primary": 1.0
+        }, 
+        "cath": {
+            "cardiac": 1.0
+        }, 
+        "catheterization": {
+            "Cardiac": 1.0
+        }, 
+        "caused": {
+            "or": 1.0
+        }, 
+        "changes": {
+            "EKG": 1.0
+        }, 
+        "changes.": {
+            "EKG": 1.0
+        }, 
+        "chest": {
+            "her": 0.25, 
+            "severe": 0.25, 
+            "strange": 0.25, 
+            "with": 0.25
+        }, 
+        "chest\"": {
+            "my": 1.0
+        }, 
+        "clean": {
+            "showed": 1.0
+        }, 
+        "clear.": {
+            "-": 1.0
+        }, 
+        "code": {
+            "Full": 1.0
+        }, 
+        "condition.": {
+            "stable": 1.0
+        }, 
+        "continue": {
+            "should": 1.0
+        }, 
+        "coronaries.": {
+            "clean": 1.0
+        }, 
+        "could": {
+            "she": 0.5, 
+            "symptoms": 0.5
+        }, 
+        "creatinine": {
+            "increased": 1.0
+        }, 
+        "d/o": {
+            "anxiety": 1.0
+        }, 
+        "deficit": {
+            "perfusion": 1.0
+        }, 
+        "department": {
+            "emergency": 1.0
+        }, 
+        "describe": {
+            "not": 1.0
+        }, 
+        "diaphoresis": {
+            "No": 1.0
+        }, 
+        "dictated": {
+            "No": 1.0
+        }, 
+        "dinner": {
+            "before": 1.0
+        }, 
+        "discharge": {
+            "at": 1.0
+        }, 
+        "discharged": {
+            "was": 1.0
+        }, 
+        "discomfort": {
+            "chest": 1.0
+        }, 
+        "dose": {
+            "am": 1.0
+        }, 
+        "due": {
+            "(": 0.5, 
+            "limited": 0.5
+        }, 
+        "eGFR": {
+            ",": 1.0
+        }, 
+        "either": {
+            "deficit": 1.0
+        }, 
+        "elevated": {
+            "Her": 1.0
+        }, 
+        "emergency": {
+            "the": 1.0
+        }, 
+        "enzymes": {
+            ",": 0.5, 
+            "cardiac": 0.5
+        }, 
+        "exam": {
+            "nonfocal": 1.0
+        }, 
+        "exercise": {
+            "regular": 1.0
+        }, 
+        "explained": {
+            "be": 1.0
+        }, 
+        "feel": {
+            "you": 1.0
+        }, 
+        "feeling": {
+            "strange": 0.5, 
+            "this": 0.5
+        }, 
+        "follow-up": {
+            "Please": 0.5, 
+            "To": 0.5
+        }, 
+        "for": {
+            "SS": 0.3333333333333333, 
+            "Study": 0.3333333333333333, 
+            "home": 0.3333333333333333
+        }, 
+        "free": {
+            "and": 1.0
+        }, 
+        "from": {
+            "discharged": 1.0
+        }, 
+        "h/o": {
+            "44F": 0.3333333333333333, 
+            "Also": 0.3333333333333333, 
+            "with": 0.3333333333333333
+        }, 
+        "had": {
+            "She": 1.0
+        }, 
+        "helped": {
+            "were": 1.0
+        }, 
+        "her": {
+            "in": 0.6666666666666666, 
+            "throughout": 0.3333333333333333
+        }, 
+        "hold": {
+            "IF:": 1.0
+        }, 
+        "home": {
+            "at": 1.0
+        }, 
+        "hospital": {
+            "her": 0.5, 
+            "the": 0.5
+        }, 
+        "however": {
+            ",": 1.0
+        }, 
+        "hunger": {
+            "air": 1.0
+        }, 
+        "hyperthyroidism": {
+            "of": 1.0
+        }, 
+        "if": {
+            "department": 1.0
+        }, 
+        "in": {
+            "\"Anxiety": 0.14285714285714285, 
+            "As": 0.14285714285714285, 
+            "Fischhaber": 0.14285714285714285, 
+            "feeling": 0.14285714285714285, 
+            "hospital": 0.14285714285714285, 
+            "physician": 0.14285714285714285, 
+            "was": 0.14285714285714285
+        }, 
+        "increased": {
+            "reflect": 1.0
+        }, 
+        "inpatient": {
+            "as": 1.0
+        }, 
+        "insufficiency.": {
+            "renal": 1.0
+        }, 
+        "insulin": {
+            "on": 1.0
+        }, 
+        "intermittent": {
+            "had": 1.0
+        }, 
+        "is": {
+            "Pt": 1.0
+        }, 
+        "ischemic": {
+            "no": 1.0
+        }, 
+        "large": {
+            "a": 1.0
+        }, 
+        "late": {
+            ",": 1.0
+        }, 
+        "like": {
+            "sx": 1.0
+        }, 
+        "limited": {
+            "was": 1.0
+        }, 
+        "lispro": {
+            "with": 1.0
+        }, 
+        "m/r/g.": {
+            "no": 1.0
+        }, 
+        "maintained": {
+            "was": 1.0
+        }, 
+        "may": {
+            "Cr": 1.0
+        }, 
+        "meal": {
+            "large": 1.0
+        }, 
+        "meals.": {
+            "for": 1.0
+        }, 
+        "mild": {
+            "and": 1.0
+        }, 
+        "morbid": {
+            ",": 1.0
+        }, 
+        "my": {
+            "in": 1.0
+        }, 
+        "nausea.": {
+            "mild": 1.0
+        }, 
+        "negative": {
+            "were": 1.0
+        }, 
+        "new": {
+            "or": 1.0
+        }, 
+        "next": {
+            "in": 0.5, 
+            "the": 0.5
+        }, 
+        "night": {
+            "at": 1.0
+        }, 
+        "nl": {
+            "CXR": 0.5, 
+            "RRR": 0.5
+        }, 
+        "no": {
+            "s1/s2.": 0.5, 
+            "with": 0.5
+        }, 
+        "nonfocal": {
+            "3.": 1.0
+        }, 
+        "normal.": {
+            "enzymes": 0.3333333333333333, 
+            "were": 0.6666666666666666
+        }, 
+        "not": {
+            "could": 1.0
+        }, 
+        "of": {
+            "byproduct": 0.2, 
+            "h/o": 0.4, 
+            "shortness": 0.4
+        }, 
+        "on": {
+            "DM": 0.3333333333333333, 
+            "continue": 0.3333333333333333, 
+            "maintained": 0.3333333333333333
+        }, 
+        "or": {
+            ",": 0.25, 
+            "GERD": 0.25, 
+            "discomfort": 0.25, 
+            "size": 0.25
+        }, 
+        "pain": {
+            "Denies": 1.0
+        }, 
+        "pains": {
+            "reflux": 1.0
+        }, 
+        "patient's": {
+            "the": 1.0
+        }, 
+        "performed": {
+            "MIBI": 1.0
+        }, 
+        "perfusion": {
+            "severe": 0.5, 
+            "the": 0.5
+        }, 
+        "physician": {
+            "care": 1.0
+        }, 
+        "presents": {
+            "d/o": 0.5, 
+            "who": 0.5
+        }, 
+        "previos": {
+            "or": 1.0
+        }, 
+        "primary": {
+            "your": 1.0
+        }, 
+        "production": {
+            "creatinine": 1.0
+        }, 
+        "radiation.": {
+            ",": 1.0
+        }, 
+        "rash": {
+            "-->": 1.0
+        }, 
+        "reflect": {
+            "may": 1.0
+        }, 
+        "reflux": {
+            "intermittent": 1.0
+        }, 
+        "regular": {
+            "Resume": 1.0
+        }, 
+        "renal": {
+            "vs.": 1.0
+        }, 
+        "results": {
+            "with": 1.0
+        }, 
+        "s1/s2.": {
+            "nl": 1.0
+        }, 
+        "sensation.": {
+            "chest": 1.0
+        }, 
+        "severe": {
+            "feel": 0.5, 
+            "showed": 0.5
+        }, 
+        "she": {
+            ",": 0.5, 
+            "which": 0.5
+        }, 
+        "shortness": {
+            "No": 0.5, 
+            "new": 0.5
+        }, 
+        "should": {
+            "She": 1.0
+        }, 
+        "showed": {
+            "MIBI": 0.5, 
+            "cath": 0.5
+        }, 
+        "size": {
+            "patient's": 1.0
+        }, 
+        "size.": {
+            "patient's": 1.0
+        }, 
+        "some": {
+            "with": 1.0
+        }, 
+        "stable": {
+            "in": 1.0
+        }, 
+        "stay.": {
+            "hospital": 1.0
+        }, 
+        "still": {
+            "could": 1.0
+        }, 
+        "strange": {
+            "a": 0.5, 
+            "with": 0.5
+        }, 
+        "study": {
+            "The": 1.0
+        }, 
+        "summary": {
+            "dictated": 1.0
+        }, 
+        "sx": {
+            "previos": 1.0
+        }, 
+        "symptoms": {
+            "Her": 1.0
+        }, 
+        "symptoms.": {
+            "these": 1.0
+        }, 
+        "system": {
+            "by": 1.0
+        }, 
+        "the": {
+            "due": 0.16666666666666666, 
+            "from": 0.16666666666666666, 
+            "in": 0.16666666666666666, 
+            "of": 0.16666666666666666, 
+            "to": 0.16666666666666666, 
+            "with": 0.16666666666666666
+        }, 
+        "these": {
+            "for": 1.0
+        }, 
+        "this": {
+            "-": 1.0
+        }, 
+        "this.": {
+            "like": 1.0
+        }, 
+        "throughout": {
+            "breath": 1.0
+        }, 
+        "tingling": {
+            "chest": 1.0
+        }, 
+        "to": {
+            "Return": 0.5, 
+            "due": 0.5
+        }, 
+        "transient": {
+            "by": 1.0
+        }, 
+        "two": {
+            "next": 1.0
+        }, 
+        "type": {
+            "of": 1.0
+        }, 
+        "until": {
+            "EBAMH": 1.0
+        }, 
+        "vasospasm.": {
+            "transient": 1.0
+        }, 
+        "vs.": {
+            ")": 1.0
+        }, 
+        "was": {
+            "Pt": 0.6, 
+            "feeling": 0.2, 
+            "study": 0.2
+        }, 
+        "weeks.": {
+            "two": 1.0
+        }, 
+        "were": {
+            "2": 0.25, 
+            "CXR": 0.25, 
+            "T4": 0.25, 
+            "which": 0.25
+        }, 
+        "when": {
+            "yesterday": 1.0
+        }, 
+        "which": {
+            "chest": 0.5, 
+            "pains": 0.5
+        }, 
+        "who": {
+            "anxiety": 1.0
+        }, 
+        "with": {
+            ",": 0.15384615384615385, 
+            "D/C": 0.07692307692307693, 
+            "associated": 0.07692307692307693, 
+            "awoke": 0.07692307692307693, 
+            "follow-up": 0.15384615384615385, 
+            "helped": 0.07692307692307693, 
+            "inpatient": 0.07692307692307693, 
+            "negative": 0.07692307692307693, 
+            "presents": 0.15384615384615385, 
+            "woman": 0.07692307692307693
+        }, 
+        "woman": {
+            "y.o.": 1.0
+        }, 
+        "x": {
+            "A&O": 0.5, 
+            "enzymes": 0.5
+        }, 
+        "y.o.": {
+            "44": 1.0
+        }, 
+        "yesterday": {
+            "until": 1.0
+        }, 
+        "you": {
+            "if": 1.0
+        }, 
+        "your": {
+            "with": 1.0
+        }, 
+        "|": {
+            "05980849": 0.1111111111111111, 
+            "149726591": 0.1111111111111111, 
+            "2363748": 0.1111111111111111, 
+            "AM": 0.1111111111111111, 
+            "DIS": 0.1111111111111111, 
+            "Disease": 0.1111111111111111, 
+            "RWGH": 0.1111111111111111, 
+            "|": 0.2222222222222222
+        }
+    }, 
+    "id": "163", 
+    "text": " 149726591 | RWGH | 05980849 | | 2363748 | 8/13/2006 12:00:00 AM | Gastroesophageal Reflux Disease | | DIS | Admission Date: 3/15/2006 Report Status: Discharge Date: 8/28/2006 ****** FINAL DISCHARGE ORDERS ****** JUSTINGER , FRITZ 086-23-20-9 Eans Service: MED DISCHARGE PATIENT ON: 1/15/06 AT 01:00 PM CONTINGENT UPON Not Applicable WILL D/C ORDER BE USED AS THE D/C SUMMARY: YES Attending: DAVIDS , JONATHAN D. , M.D. CODE STATUS: Full code DISPOSITION: Home DISCHARGE MEDICATIONS: ATENOLOL 50 MG PO DAILY ECASA 325 MG PO DAILY INSULIN NPH HUMAN 100 UNITS SC before dinner METFORMIN 1 , 500 MG PO QPM METFORMIN 1 , 000 MG PO QAM HOLD IF: hold 6/18 am dose RANITIDINE HCL 300 MG PO DAILY DIET: No Restrictions ACTIVITY: Resume regular exercise FOLLOW UP APPOINTMENT( S ): PCP DR EDENHOLM 2993 ) 016-5045 7/6/06 @ 12:10 PM , ALLERGY: TRIMETHOPRIM/SULFAMETHOXAZOLE ADMIT DIAGNOSIS: R/O Myocardial Infarction PRINCIPAL DISCHARGE DIAGNOSIS ;Responsible After Study for Causing Admission ) Gastroesophageal Reflux Disease OTHER DIAGNOSIS;Conditions , Infections , Complications , affecting Treatment/Stay Diabetes Mellitus , #obese# , anxiety OPERATIONS AND PROCEDURES: OTHER TREATMENTS/PROCEDURES ( NOT IN O.R. ) Stress MIBI , Cardiac catheterization BRIEF RESUME OF HOSPITAL COURSE: CC: \"Anxiety in my chest\" ID/Dx: Pt is a 44 y.o. woman with h/o of type II DM on insulin , morbid #obese# , and anxiety who presents with chest tingling and SOB. Pt was in her EBAMH until yesterday when after a large meal , late at night , she awoke with a strange feeling in her chest which she could not describe - this feeling was associated with some air hunger and mild nausea. No diaphoresis , radiation. Denies pain , or previos sx like this. EKG and CXR were normal. *** Status at discharge VS: AF BP: 135/80 HR: 80-90 RR 16 O2sat: 100% RA PULM: CTAB. CXR nl CV: RRR nl s1/s2. no m/r/g. No EKG changes RENAL: Cr 1.0 NEURO: A&O x 3. nonfocal exam ** RELEVANT PMHX As in HPI ** ALLERGIES: Bactrim --> rash ** Impression: 44F h/o DM2 , #obese# , and anxiety d/o presents with strange chest sensation. EKG , enzymes normal. MIBI showed severe perfusion deficit , however , cardiac cath showed clean coronaries. Her symptoms could still be explained by GERD or anxiety , with the perfusion deficit either aa byproduct of the patient's size or caused by transient vasospasm. *** Hospital Course and Plan by system GI/FEN- Pt was maintained on 100U NPH , with lispro SS for meals. She had intermittent reflux pains which were helped with H2 blocker. She should continue on H2 blocker at home for these symptoms. CV- cardiac enzymes x 2 were negative with no ischemic EKG changes. Stress MIBI performed as inpatient with results as above. The study was limited due the patient's size. D/C with ASA , BBlocker. Resp- Baseline CXR - clear. No shortness of breath throughout her hospital stay. Renal- Cr 1.0 , eGFR 76. Her elevated Cr may reflect increased creatinine production ( due to #obese# ) vs. renal insufficiency. Endo- Diabetes as above. Also h/o of hyperthyroidism , however , TSH and free T4 were normal. Pt was discharged from the hospital in stable condition. To follow-up with Dr. Fischhaber in next two weeks. ADDITIONAL COMMENTS: Please follow-up with your primary care physician in the next two weeks. Return to the emergency department if you feel severe chest discomfort or new shortness of breath. DISCHARGE CONDITION: Stable TO DO/PLAN: No dictated summary ENTERED BY: NORBERG , REYES E. , M.D. ( JT53 ) 1/15/06 @ 08:34 AM ****** END OF DISCHARGE ORDERS ******", 
+    "tri": {
+        "\"Anxiety": {
+            "COURSE:~CC:": 1.0
+        }, 
+        "#obese#": {
+            ",~morbid": 0.25, 
+            "DM2~,": 0.25, 
+            "Mellitus~,": 0.25, 
+            "due~to": 0.25
+        }, 
+        "(": {
+            ",~M.D.": 0.3333333333333333, 
+            "OTHER~TREATMENTS/PROCEDURES": 0.3333333333333333, 
+            "creatinine~production": 0.3333333333333333
+        }, 
+        ")": {
+            "(~JT53": 0.2, 
+            "Causing~Admission": 0.2, 
+            "EDENHOLM~2993": 0.2, 
+            "IN~O.R.": 0.2, 
+            "to~#obese#": 0.2
+        }, 
+        "):": {
+            "APPOINTMENT(~S": 1.0
+        }, 
+        "**": {
+            "-->~rash": 0.3333333333333333, 
+            "in~HPI": 0.3333333333333333, 
+            "nonfocal~exam": 0.3333333333333333
+        }, 
+        "***": {
+            "transient~vasospasm.": 0.5, 
+            "were~normal.": 0.5
+        }, 
+        "******": {
+            "08:34~AM": 0.25, 
+            "DISCHARGE~ORDERS": 0.5, 
+            "Date:~8/28/2006": 0.25
+        }, 
+        ",": {
+            "******~JUSTINGER": 0.03225806451612903, 
+            ",~#obese#": 0.06451612903225806, 
+            ",~Complications": 0.03225806451612903, 
+            ",~Infections": 0.03225806451612903, 
+            ",~however": 0.06451612903225806, 
+            "100U~NPH": 0.03225806451612903, 
+            "12:10~PM": 0.03225806451612903, 
+            "Attending:~DAVIDS": 0.03225806451612903, 
+            "BY:~NORBERG": 0.03225806451612903, 
+            "Cr~1.0": 0.03225806451612903, 
+            "Denies~pain": 0.03225806451612903, 
+            "Diabetes~Mellitus": 0.03225806451612903, 
+            "JONATHAN~D.": 0.03225806451612903, 
+            "METFORMIN~1": 0.06451612903225806, 
+            "No~diaphoresis": 0.03225806451612903, 
+            "OTHER~DIAGNOSIS;Conditions": 0.03225806451612903, 
+            "REYES~E.": 0.03225806451612903, 
+            "Stress~MIBI": 0.03225806451612903, 
+            "at~night": 0.03225806451612903, 
+            "h/o~DM2": 0.03225806451612903, 
+            "large~meal": 0.03225806451612903, 
+            "morbid~#obese#": 0.03225806451612903, 
+            "of~hyperthyroidism": 0.03225806451612903, 
+            "on~insulin": 0.03225806451612903, 
+            "or~anxiety": 0.03225806451612903, 
+            "perfusion~deficit": 0.03225806451612903, 
+            "sensation.~EKG": 0.03225806451612903, 
+            "with~ASA": 0.03225806451612903
+        }, 
+        "-": {
+            "Baseline~CXR": 0.5, 
+            "not~describe": 0.5
+        }, 
+        "-->": {
+            "ALLERGIES:~Bactrim": 1.0
+        }, 
+        "000": {
+            "1~,": 1.0
+        }, 
+        "016-5045": {
+            "2993~)": 1.0
+        }, 
+        "01:00": {
+            "1/15/06~AT": 1.0
+        }, 
+        "05980849": {
+            "RWGH~|": 1.0
+        }, 
+        "086-23-20-9": {
+            ",~FRITZ": 1.0
+        }, 
+        "08:34": {
+            "1/15/06~@": 1.0
+        }, 
+        "1": {
+            "QPM~METFORMIN": 0.5, 
+            "dinner~METFORMIN": 0.5
+        }, 
+        "1.0": {
+            "RENAL:~Cr": 0.5, 
+            "Renal-~Cr": 0.5
+        }, 
+        "1/15/06": {
+            "JT53~)": 0.5, 
+            "PATIENT~ON:": 0.5
+        }, 
+        "100": {
+            "NPH~HUMAN": 1.0
+        }, 
+        "100%": {
+            "16~O2sat:": 1.0
+        }, 
+        "100U": {
+            "maintained~on": 1.0
+        }, 
+        "12:00:00": {
+            "|~8/13/2006": 1.0
+        }, 
+        "12:10": {
+            "7/6/06~@": 1.0
+        }, 
+        "135/80": {
+            "AF~BP:": 1.0
+        }, 
+        "16": {
+            "80-90~RR": 1.0
+        }, 
+        "2": {
+            "enzymes~x": 1.0
+        }, 
+        "2363748": {
+            "|~|": 1.0
+        }, 
+        "2993": {
+            "DR~EDENHOLM": 1.0
+        }, 
+        "3.": {
+            "A&O~x": 1.0
+        }, 
+        "3/15/2006": {
+            "Admission~Date:": 1.0
+        }, 
+        "300": {
+            "RANITIDINE~HCL": 1.0
+        }, 
+        "325": {
+            "DAILY~ECASA": 1.0
+        }, 
+        "44": {
+            "is~a": 1.0
+        }, 
+        "44F": {
+            "**~Impression:": 1.0
+        }, 
+        "50": {
+            "MEDICATIONS:~ATENOLOL": 1.0
+        }, 
+        "500": {
+            "1~,": 1.0
+        }, 
+        "6/18": {
+            "IF:~hold": 1.0
+        }, 
+        "7/6/06": {
+            ")~016-5045": 1.0
+        }, 
+        "76.": {
+            ",~eGFR": 1.0
+        }, 
+        "8/13/2006": {
+            "2363748~|": 1.0
+        }, 
+        "8/28/2006": {
+            "Discharge~Date:": 1.0
+        }, 
+        "80-90": {
+            "135/80~HR:": 1.0
+        }, 
+        ";Responsible": {
+            "DISCHARGE~DIAGNOSIS": 1.0
+        }, 
+        "@": {
+            ")~1/15/06": 0.5, 
+            "016-5045~7/6/06": 0.5
+        }, 
+        "A&O": {
+            "1.0~NEURO:": 1.0
+        }, 
+        "ACTIVITY:": {
+            "No~Restrictions": 1.0
+        }, 
+        "ADDITIONAL": {
+            "two~weeks.": 1.0
+        }, 
+        "ADMIT": {
+            "ALLERGY:~TRIMETHOPRIM/SULFAMETHOXAZOLE": 1.0
+        }, 
+        "AF": {
+            "discharge~VS:": 1.0
+        }, 
+        "ALLERGIES:": {
+            "HPI~**": 1.0
+        }, 
+        "ALLERGY:": {
+            "PM~,": 1.0
+        }, 
+        "AM": {
+            "8/13/2006~12:00:00": 0.5, 
+            "@~08:34": 0.5
+        }, 
+        "AND": {
+            "anxiety~OPERATIONS": 1.0
+        }, 
+        "APPOINTMENT(": {
+            "FOLLOW~UP": 1.0
+        }, 
+        "AS": {
+            "BE~USED": 1.0
+        }, 
+        "ASA": {
+            "D/C~with": 1.0
+        }, 
+        "AT": {
+            "ON:~1/15/06": 1.0
+        }, 
+        "ATENOLOL": {
+            "DISCHARGE~MEDICATIONS:": 1.0
+        }, 
+        "Admission": {
+            "DIS~|": 0.5, 
+            "for~Causing": 0.5
+        }, 
+        "After": {
+            "DIAGNOSIS~;Responsible": 1.0
+        }, 
+        "Also": {
+            "as~above.": 1.0
+        }, 
+        "Applicable": {
+            "UPON~Not": 1.0
+        }, 
+        "As": {
+            "RELEVANT~PMHX": 1.0
+        }, 
+        "Attending:": {
+            "SUMMARY:~YES": 1.0
+        }, 
+        "BBlocker.": {
+            "ASA~,": 1.0
+        }, 
+        "BE": {
+            "D/C~ORDER": 1.0
+        }, 
+        "BP:": {
+            "VS:~AF": 1.0
+        }, 
+        "BRIEF": {
+            "Cardiac~catheterization": 1.0
+        }, 
+        "BY:": {
+            "summary~ENTERED": 1.0
+        }, 
+        "Bactrim": {
+            "**~ALLERGIES:": 1.0
+        }, 
+        "Baseline": {
+            "BBlocker.~Resp-": 1.0
+        }, 
+        "CC:": {
+            "HOSPITAL~COURSE:": 1.0
+        }, 
+        "CODE": {
+            ",~M.D.": 1.0
+        }, 
+        "COMMENTS:": {
+            "weeks.~ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            "breath.~DISCHARGE": 1.0
+        }, 
+        "CONTINGENT": {
+            "01:00~PM": 1.0
+        }, 
+        "COURSE:": {
+            "OF~HOSPITAL": 1.0
+        }, 
+        "CTAB.": {
+            "RA~PULM:": 1.0
+        }, 
+        "CV-": {
+            "these~symptoms.": 1.0
+        }, 
+        "CV:": {
+            "CXR~nl": 1.0
+        }, 
+        "CXR": {
+            "EKG~and": 0.3333333333333333, 
+            "PULM:~CTAB.": 0.3333333333333333, 
+            "Resp-~Baseline": 0.3333333333333333
+        }, 
+        "Cardiac": {
+            "MIBI~,": 1.0
+        }, 
+        "Causing": {
+            "Study~for": 1.0
+        }, 
+        "Complications": {
+            "Infections~,": 1.0
+        }, 
+        "Course": {
+            "***~Hospital": 1.0
+        }, 
+        "Cr": {
+            "Her~elevated": 0.3333333333333333, 
+            "changes~RENAL:": 0.3333333333333333, 
+            "stay.~Renal-": 0.3333333333333333
+        }, 
+        "D.": {
+            ",~JONATHAN": 1.0
+        }, 
+        "D/C": {
+            "AS~THE": 0.3333333333333333, 
+            "Applicable~WILL": 0.3333333333333333, 
+            "patient's~size.": 0.3333333333333333
+        }, 
+        "DAILY": {
+            "MG~PO": 1.0
+        }, 
+        "DAVIDS": {
+            "YES~Attending:": 1.0
+        }, 
+        "DIAGNOSIS": {
+            "PRINCIPAL~DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "TRIMETHOPRIM/SULFAMETHOXAZOLE~ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "Disease~OTHER": 1.0
+        }, 
+        "DIET:": {
+            "PO~DAILY": 1.0
+        }, 
+        "DIS": {
+            "|~|": 1.0
+        }, 
+        "DISCHARGE": {
+            "******~FINAL": 0.16666666666666666, 
+            "DISPOSITION:~Home": 0.16666666666666666, 
+            "END~OF": 0.16666666666666666, 
+            "Infarction~PRINCIPAL": 0.16666666666666666, 
+            "Service:~MED": 0.16666666666666666, 
+            "of~breath.": 0.16666666666666666
+        }, 
+        "DISPOSITION:": {
+            "Full~code": 1.0
+        }, 
+        "DM": {
+            "type~II": 1.0
+        }, 
+        "DM2": {
+            "44F~h/o": 1.0
+        }, 
+        "DO/PLAN:": {
+            "Stable~TO": 1.0
+        }, 
+        "DR": {
+            "):~PCP": 1.0
+        }, 
+        "Date:": {
+            "Status:~Discharge": 0.5, 
+            "|~Admission": 0.5
+        }, 
+        "Denies": {
+            ",~radiation.": 1.0
+        }, 
+        "Diabetes": {
+            "affecting~Treatment/Stay": 0.5, 
+            "insufficiency.~Endo-": 0.5
+        }, 
+        "Discharge": {
+            "Report~Status:": 1.0
+        }, 
+        "Disease": {
+            "Gastroesophageal~Reflux": 1.0
+        }, 
+        "Dr.": {
+            "follow-up~with": 1.0
+        }, 
+        "E.": {
+            ",~REYES": 1.0
+        }, 
+        "EBAMH": {
+            "in~her": 1.0
+        }, 
+        "ECASA": {
+            "PO~DAILY": 1.0
+        }, 
+        "EDENHOLM": {
+            "PCP~DR": 1.0
+        }, 
+        "EKG": {
+            "chest~sensation.": 0.25, 
+            "like~this.": 0.25, 
+            "m/r/g.~No": 0.25, 
+            "no~ischemic": 0.25
+        }, 
+        "END": {
+            "AM~******": 1.0
+        }, 
+        "ENTERED": {
+            "dictated~summary": 1.0
+        }, 
+        "Eans": {
+            "FRITZ~086-23-20-9": 1.0
+        }, 
+        "Endo-": {
+            "renal~insufficiency.": 1.0
+        }, 
+        "FINAL": {
+            "8/28/2006~******": 1.0
+        }, 
+        "FOLLOW": {
+            "regular~exercise": 1.0
+        }, 
+        "FRITZ": {
+            "JUSTINGER~,": 1.0
+        }, 
+        "Fischhaber": {
+            "with~Dr.": 1.0
+        }, 
+        "Full": {
+            "CODE~STATUS:": 1.0
+        }, 
+        "GERD": {
+            "explained~by": 1.0
+        }, 
+        "GI/FEN-": {
+            "by~system": 1.0
+        }, 
+        "Gastroesophageal": {
+            "AM~|": 0.5, 
+            "Admission~)": 0.5
+        }, 
+        "H2": {
+            "continue~on": 0.5, 
+            "helped~with": 0.5
+        }, 
+        "HCL": {
+            "dose~RANITIDINE": 1.0
+        }, 
+        "HOLD": {
+            "PO~QAM": 1.0
+        }, 
+        "HOSPITAL": {
+            "RESUME~OF": 1.0
+        }, 
+        "HPI": {
+            "As~in": 1.0
+        }, 
+        "HR:": {
+            "BP:~135/80": 1.0
+        }, 
+        "HUMAN": {
+            "INSULIN~NPH": 1.0
+        }, 
+        "Her": {
+            "clean~coronaries.": 0.5, 
+            "eGFR~76.": 0.5
+        }, 
+        "Home": {
+            "code~DISPOSITION:": 1.0
+        }, 
+        "Hospital": {
+            "vasospasm.~***": 1.0
+        }, 
+        "ID/Dx:": {
+            "my~chest\"": 1.0
+        }, 
+        "IF:": {
+            "QAM~HOLD": 1.0
+        }, 
+        "II": {
+            "of~type": 1.0
+        }, 
+        "IN": {
+            "(~NOT": 1.0
+        }, 
+        "INSULIN": {
+            "PO~DAILY": 1.0
+        }, 
+        "Impression:": {
+            "rash~**": 1.0
+        }, 
+        "Infarction": {
+            "R/O~Myocardial": 1.0
+        }, 
+        "Infections": {
+            "DIAGNOSIS;Conditions~,": 1.0
+        }, 
+        "JONATHAN": {
+            "DAVIDS~,": 1.0
+        }, 
+        "JT53": {
+            "M.D.~(": 1.0
+        }, 
+        "JUSTINGER": {
+            "ORDERS~******": 1.0
+        }, 
+        "M.D.": {
+            "D.~,": 0.5, 
+            "E.~,": 0.5
+        }, 
+        "MED": {
+            "Eans~Service:": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "Home~DISCHARGE": 1.0
+        }, 
+        "METFORMIN": {
+            "PO~QPM": 0.5, 
+            "before~dinner": 0.5
+        }, 
+        "MG": {
+            ",~000": 0.2, 
+            ",~500": 0.2, 
+            "ATENOLOL~50": 0.2, 
+            "ECASA~325": 0.2, 
+            "HCL~300": 0.2
+        }, 
+        "MIBI": {
+            ")~Stress": 0.3333333333333333, 
+            "changes.~Stress": 0.3333333333333333, 
+            "enzymes~normal.": 0.3333333333333333
+        }, 
+        "Mellitus": {
+            "Treatment/Stay~Diabetes": 1.0
+        }, 
+        "Myocardial": {
+            "DIAGNOSIS:~R/O": 1.0
+        }, 
+        "NEURO:": {
+            "Cr~1.0": 1.0
+        }, 
+        "NORBERG": {
+            "ENTERED~BY:": 1.0
+        }, 
+        "NOT": {
+            "TREATMENTS/PROCEDURES~(": 1.0
+        }, 
+        "NPH": {
+            "DAILY~INSULIN": 0.5, 
+            "on~100U": 0.5
+        }, 
+        "No": {
+            "-~clear.": 0.2, 
+            "DAILY~DIET:": 0.2, 
+            "TO~DO/PLAN:": 0.2, 
+            "mild~nausea.": 0.2, 
+            "no~m/r/g.": 0.2
+        }, 
+        "Not": {
+            "CONTINGENT~UPON": 1.0
+        }, 
+        "O.R.": {
+            "NOT~IN": 1.0
+        }, 
+        "O2sat:": {
+            "RR~16": 1.0
+        }, 
+        "OF": {
+            "******~END": 0.5, 
+            "BRIEF~RESUME": 0.5
+        }, 
+        "ON:": {
+            "DISCHARGE~PATIENT": 1.0
+        }, 
+        "OPERATIONS": {
+            ",~anxiety": 1.0
+        }, 
+        "ORDER": {
+            "WILL~D/C": 1.0
+        }, 
+        "ORDERS": {
+            "FINAL~DISCHARGE": 0.5, 
+            "OF~DISCHARGE": 0.5
+        }, 
+        "OTHER": {
+            "AND~PROCEDURES:": 0.5, 
+            "Reflux~Disease": 0.5
+        }, 
+        "PATIENT": {
+            "MED~DISCHARGE": 1.0
+        }, 
+        "PCP": {
+            "S~):": 1.0
+        }, 
+        "PM": {
+            "@~12:10": 0.5, 
+            "AT~01:00": 0.5
+        }, 
+        "PMHX": {
+            "**~RELEVANT": 1.0
+        }, 
+        "PO": {
+            "000~MG": 0.2, 
+            "300~MG": 0.2, 
+            "325~MG": 0.2, 
+            "500~MG": 0.2, 
+            "50~MG": 0.2
+        }, 
+        "PRINCIPAL": {
+            "Myocardial~Infarction": 1.0
+        }, 
+        "PROCEDURES:": {
+            "OPERATIONS~AND": 1.0
+        }, 
+        "PULM:": {
+            "100%~RA": 1.0
+        }, 
+        "Plan": {
+            "Course~and": 1.0
+        }, 
+        "Please": {
+            "ADDITIONAL~COMMENTS:": 1.0
+        }, 
+        "Pt": {
+            "and~SOB.": 0.25, 
+            "chest\"~ID/Dx:": 0.25, 
+            "system~GI/FEN-": 0.25, 
+            "were~normal.": 0.25
+        }, 
+        "QAM": {
+            "MG~PO": 1.0
+        }, 
+        "QPM": {
+            "MG~PO": 1.0
+        }, 
+        "R/O": {
+            "ADMIT~DIAGNOSIS:": 1.0
+        }, 
+        "RA": {
+            "O2sat:~100%": 1.0
+        }, 
+        "RANITIDINE": {
+            "am~dose": 1.0
+        }, 
+        "RELEVANT": {
+            "exam~**": 1.0
+        }, 
+        "RENAL:": {
+            "EKG~changes": 1.0
+        }, 
+        "RESUME": {
+            "catheterization~BRIEF": 1.0
+        }, 
+        "REYES": {
+            "NORBERG~,": 1.0
+        }, 
+        "RR": {
+            "HR:~80-90": 1.0
+        }, 
+        "RRR": {
+            "nl~CV:": 1.0
+        }, 
+        "RWGH": {
+            "149726591~|": 1.0
+        }, 
+        "Reflux": {
+            ")~Gastroesophageal": 0.5, 
+            "|~Gastroesophageal": 0.5
+        }, 
+        "Renal-": {
+            "hospital~stay.": 1.0
+        }, 
+        "Report": {
+            "Date:~3/15/2006": 1.0
+        }, 
+        "Resp-": {
+            ",~BBlocker.": 1.0
+        }, 
+        "Restrictions": {
+            "DIET:~No": 1.0
+        }, 
+        "Resume": {
+            "Restrictions~ACTIVITY:": 1.0
+        }, 
+        "Return": {
+            "two~weeks.": 1.0
+        }, 
+        "S": {
+            "UP~APPOINTMENT(": 1.0
+        }, 
+        "SC": {
+            "100~UNITS": 1.0
+        }, 
+        "SOB.": {
+            "tingling~and": 1.0
+        }, 
+        "SS": {
+            "with~lispro": 1.0
+        }, 
+        "STATUS:": {
+            "M.D.~CODE": 1.0
+        }, 
+        "SUMMARY:": {
+            "THE~D/C": 1.0
+        }, 
+        "Service:": {
+            "086-23-20-9~Eans": 1.0
+        }, 
+        "She": {
+            "H2~blocker.": 0.5, 
+            "for~meals.": 0.5
+        }, 
+        "Stable": {
+            "DISCHARGE~CONDITION:": 1.0
+        }, 
+        "Status": {
+            "normal.~***": 1.0
+        }, 
+        "Status:": {
+            "3/15/2006~Report": 1.0
+        }, 
+        "Stress": {
+            "EKG~changes.": 0.5, 
+            "O.R.~)": 0.5
+        }, 
+        "Study": {
+            ";Responsible~After": 1.0
+        }, 
+        "T4": {
+            "and~free": 1.0
+        }, 
+        "THE": {
+            "USED~AS": 1.0
+        }, 
+        "TO": {
+            "CONDITION:~Stable": 1.0
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "PROCEDURES:~OTHER": 1.0
+        }, 
+        "TRIMETHOPRIM/SULFAMETHOXAZOLE": {
+            ",~ALLERGY:": 1.0
+        }, 
+        "TSH": {
+            "however~,": 1.0
+        }, 
+        "The": {
+            "as~above.": 1.0
+        }, 
+        "To": {
+            "stable~condition.": 1.0
+        }, 
+        "Treatment/Stay": {
+            ",~affecting": 1.0
+        }, 
+        "UNITS": {
+            "HUMAN~100": 1.0
+        }, 
+        "UP": {
+            "exercise~FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "PM~CONTINGENT": 1.0
+        }, 
+        "USED": {
+            "ORDER~BE": 1.0
+        }, 
+        "VS:": {
+            "at~discharge": 1.0
+        }, 
+        "WILL": {
+            "Not~Applicable": 1.0
+        }, 
+        "YES": {
+            "D/C~SUMMARY:": 1.0
+        }, 
+        "a": {
+            "Pt~is": 0.3333333333333333, 
+            "awoke~with": 0.3333333333333333, 
+            "when~after": 0.3333333333333333
+        }, 
+        "aa": {
+            "deficit~either": 1.0
+        }, 
+        "above.": {
+            "Diabetes~as": 0.5, 
+            "results~as": 0.5
+        }, 
+        "affecting": {
+            "Complications~,": 1.0
+        }, 
+        "after": {
+            "yesterday~when": 1.0
+        }, 
+        "air": {
+            "with~some": 1.0
+        }, 
+        "am": {
+            "hold~6/18": 1.0
+        }, 
+        "and": {
+            "#obese#~,": 0.2857142857142857, 
+            ",~TSH": 0.14285714285714285, 
+            "Hospital~Course": 0.14285714285714285, 
+            "air~hunger": 0.14285714285714285, 
+            "chest~tingling": 0.14285714285714285, 
+            "this.~EKG": 0.14285714285714285
+        }, 
+        "anxiety": {
+            "#obese#~,": 0.25, 
+            ",~and": 0.5, 
+            "GERD~or": 0.25
+        }, 
+        "as": {
+            "Endo-~Diabetes": 0.3333333333333333, 
+            "MIBI~performed": 0.3333333333333333, 
+            "with~results": 0.3333333333333333
+        }, 
+        "associated": {
+            "feeling~was": 1.0
+        }, 
+        "at": {
+            "***~Status": 0.3333333333333333, 
+            ",~late": 0.3333333333333333, 
+            "H2~blocker": 0.3333333333333333
+        }, 
+        "awoke": {
+            ",~she": 1.0
+        }, 
+        "be": {
+            "could~still": 1.0
+        }, 
+        "before": {
+            "UNITS~SC": 1.0
+        }, 
+        "blocker": {
+            "on~H2": 1.0
+        }, 
+        "blocker.": {
+            "with~H2": 1.0
+        }, 
+        "breath": {
+            "shortness~of": 1.0
+        }, 
+        "breath.": {
+            "shortness~of": 1.0
+        }, 
+        "by": {
+            "and~Plan": 0.3333333333333333, 
+            "be~explained": 0.3333333333333333, 
+            "or~caused": 0.3333333333333333
+        }, 
+        "byproduct": {
+            "either~aa": 1.0
+        }, 
+        "cardiac": {
+            "however~,": 0.5, 
+            "symptoms.~CV-": 0.5
+        }, 
+        "care": {
+            "your~primary": 1.0
+        }, 
+        "cath": {
+            ",~cardiac": 1.0
+        }, 
+        "catheterization": {
+            ",~Cardiac": 1.0
+        }, 
+        "caused": {
+            "size~or": 1.0
+        }, 
+        "changes": {
+            "No~EKG": 1.0
+        }, 
+        "changes.": {
+            "ischemic~EKG": 1.0
+        }, 
+        "chest": {
+            "feel~severe": 0.25, 
+            "in~her": 0.25, 
+            "presents~with": 0.25, 
+            "with~strange": 0.25
+        }, 
+        "chest\"": {
+            "in~my": 1.0
+        }, 
+        "clean": {
+            "cath~showed": 1.0
+        }, 
+        "clear.": {
+            "CXR~-": 1.0
+        }, 
+        "code": {
+            "STATUS:~Full": 1.0
+        }, 
+        "condition.": {
+            "in~stable": 1.0
+        }, 
+        "continue": {
+            "She~should": 1.0
+        }, 
+        "coronaries.": {
+            "showed~clean": 1.0
+        }, 
+        "could": {
+            "Her~symptoms": 0.5, 
+            "which~she": 0.5
+        }, 
+        "creatinine": {
+            "reflect~increased": 1.0
+        }, 
+        "d/o": {
+            "and~anxiety": 1.0
+        }, 
+        "deficit": {
+            "severe~perfusion": 0.5, 
+            "the~perfusion": 0.5
+        }, 
+        "department": {
+            "the~emergency": 1.0
+        }, 
+        "describe": {
+            "could~not": 1.0
+        }, 
+        "diaphoresis": {
+            "nausea.~No": 1.0
+        }, 
+        "dictated": {
+            "DO/PLAN:~No": 1.0
+        }, 
+        "dinner": {
+            "SC~before": 1.0
+        }, 
+        "discharge": {
+            "Status~at": 1.0
+        }, 
+        "discharged": {
+            "Pt~was": 1.0
+        }, 
+        "discomfort": {
+            "severe~chest": 1.0
+        }, 
+        "dose": {
+            "6/18~am": 1.0
+        }, 
+        "due": {
+            "production~(": 0.5, 
+            "was~limited": 0.5
+        }, 
+        "eGFR": {
+            "1.0~,": 1.0
+        }, 
+        "either": {
+            "perfusion~deficit": 1.0
+        }, 
+        "elevated": {
+            "76.~Her": 1.0
+        }, 
+        "emergency": {
+            "to~the": 1.0
+        }, 
+        "enzymes": {
+            "CV-~cardiac": 0.5, 
+            "EKG~,": 0.5
+        }, 
+        "exam": {
+            "3.~nonfocal": 1.0
+        }, 
+        "exercise": {
+            "Resume~regular": 1.0
+        }, 
+        "explained": {
+            "still~be": 1.0
+        }, 
+        "feel": {
+            "if~you": 1.0
+        }, 
+        "feeling": {
+            "-~this": 0.5, 
+            "a~strange": 0.5
+        }, 
+        "follow-up": {
+            "COMMENTS:~Please": 0.5, 
+            "condition.~To": 0.5
+        }, 
+        "for": {
+            "After~Study": 0.3333333333333333, 
+            "at~home": 0.3333333333333333, 
+            "lispro~SS": 0.3333333333333333
+        }, 
+        "free": {
+            "TSH~and": 1.0
+        }, 
+        "from": {
+            "was~discharged": 1.0
+        }, 
+        "h/o": {
+            "Impression:~44F": 0.3333333333333333, 
+            "above.~Also": 0.3333333333333333, 
+            "woman~with": 0.3333333333333333
+        }, 
+        "had": {
+            "meals.~She": 1.0
+        }, 
+        "helped": {
+            "which~were": 1.0
+        }, 
+        "her": {
+            "breath~throughout": 0.3333333333333333, 
+            "feeling~in": 0.3333333333333333, 
+            "was~in": 0.3333333333333333
+        }, 
+        "hold": {
+            "HOLD~IF:": 1.0
+        }, 
+        "home": {
+            "blocker~at": 1.0
+        }, 
+        "hospital": {
+            "from~the": 0.5, 
+            "throughout~her": 0.5
+        }, 
+        "however": {
+            "deficit~,": 0.5, 
+            "hyperthyroidism~,": 0.5
+        }, 
+        "hunger": {
+            "some~air": 1.0
+        }, 
+        "hyperthyroidism": {
+            "h/o~of": 1.0
+        }, 
+        "if": {
+            "emergency~department": 1.0
+        }, 
+        "in": {
+            "CC:~\"Anxiety": 0.14285714285714285, 
+            "Dr.~Fischhaber": 0.14285714285714285, 
+            "PMHX~As": 0.14285714285714285, 
+            "Pt~was": 0.14285714285714285, 
+            "care~physician": 0.14285714285714285, 
+            "strange~feeling": 0.14285714285714285, 
+            "the~hospital": 0.14285714285714285
+        }, 
+        "increased": {
+            "may~reflect": 1.0
+        }, 
+        "inpatient": {
+            "performed~as": 1.0
+        }, 
+        "insufficiency.": {
+            "vs.~renal": 1.0
+        }, 
+        "insulin": {
+            "DM~on": 1.0
+        }, 
+        "intermittent": {
+            "She~had": 1.0
+        }, 
+        "is": {
+            "ID/Dx:~Pt": 1.0
+        }, 
+        "ischemic": {
+            "with~no": 1.0
+        }, 
+        "large": {
+            "after~a": 1.0
+        }, 
+        "late": {
+            "meal~,": 1.0
+        }, 
+        "like": {
+            "previos~sx": 1.0
+        }, 
+        "limited": {
+            "study~was": 1.0
+        }, 
+        "lispro": {
+            ",~with": 1.0
+        }, 
+        "m/r/g.": {
+            "s1/s2.~no": 1.0
+        }, 
+        "maintained": {
+            "Pt~was": 1.0
+        }, 
+        "may": {
+            "elevated~Cr": 1.0
+        }, 
+        "meal": {
+            "a~large": 1.0
+        }, 
+        "meals.": {
+            "SS~for": 1.0
+        }, 
+        "mild": {
+            "hunger~and": 1.0
+        }, 
+        "morbid": {
+            "insulin~,": 1.0
+        }, 
+        "my": {
+            "\"Anxiety~in": 1.0
+        }, 
+        "nausea.": {
+            "and~mild": 1.0
+        }, 
+        "negative": {
+            "2~were": 1.0
+        }, 
+        "new": {
+            "discomfort~or": 1.0
+        }, 
+        "next": {
+            "Fischhaber~in": 0.5, 
+            "in~the": 0.5
+        }, 
+        "night": {
+            "late~at": 1.0
+        }, 
+        "nl": {
+            "CTAB.~CXR": 0.5, 
+            "CV:~RRR": 0.5
+        }, 
+        "no": {
+            "negative~with": 0.5, 
+            "nl~s1/s2.": 0.5
+        }, 
+        "nonfocal": {
+            "x~3.": 1.0
+        }, 
+        "normal.": {
+            ",~enzymes": 0.3333333333333333, 
+            "CXR~were": 0.3333333333333333, 
+            "T4~were": 0.3333333333333333
+        }, 
+        "not": {
+            "she~could": 1.0
+        }, 
+        "of": {
+            "Also~h/o": 0.2, 
+            "No~shortness": 0.2, 
+            "aa~byproduct": 0.2, 
+            "new~shortness": 0.2, 
+            "with~h/o": 0.2
+        }, 
+        "on": {
+            "II~DM": 0.3333333333333333, 
+            "should~continue": 0.3333333333333333, 
+            "was~maintained": 0.3333333333333333
+        }, 
+        "or": {
+            "by~GERD": 0.25, 
+            "chest~discomfort": 0.25, 
+            "pain~,": 0.25, 
+            "patient's~size": 0.25
+        }, 
+        "pain": {
+            "radiation.~Denies": 1.0
+        }, 
+        "pains": {
+            "intermittent~reflux": 1.0
+        }, 
+        "patient's": {
+            "due~the": 0.5, 
+            "of~the": 0.5
+        }, 
+        "performed": {
+            "Stress~MIBI": 1.0
+        }, 
+        "perfusion": {
+            "showed~severe": 0.5, 
+            "with~the": 0.5
+        }, 
+        "physician": {
+            "primary~care": 1.0
+        }, 
+        "presents": {
+            "anxiety~d/o": 0.5, 
+            "anxiety~who": 0.5
+        }, 
+        "previos": {
+            ",~or": 1.0
+        }, 
+        "primary": {
+            "with~your": 1.0
+        }, 
+        "production": {
+            "increased~creatinine": 1.0
+        }, 
+        "radiation.": {
+            "diaphoresis~,": 1.0
+        }, 
+        "rash": {
+            "Bactrim~-->": 1.0
+        }, 
+        "reflect": {
+            "Cr~may": 1.0
+        }, 
+        "reflux": {
+            "had~intermittent": 1.0
+        }, 
+        "regular": {
+            "ACTIVITY:~Resume": 1.0
+        }, 
+        "renal": {
+            ")~vs.": 1.0
+        }, 
+        "results": {
+            "inpatient~with": 1.0
+        }, 
+        "s1/s2.": {
+            "RRR~nl": 1.0
+        }, 
+        "sensation.": {
+            "strange~chest": 1.0
+        }, 
+        "severe": {
+            "MIBI~showed": 0.5, 
+            "you~feel": 0.5
+        }, 
+        "she": {
+            "chest~which": 0.5, 
+            "night~,": 0.5
+        }, 
+        "shortness": {
+            "clear.~No": 0.5, 
+            "or~new": 0.5
+        }, 
+        "should": {
+            "blocker.~She": 1.0
+        }, 
+        "showed": {
+            "cardiac~cath": 0.5, 
+            "normal.~MIBI": 0.5
+        }, 
+        "size": {
+            "the~patient's": 1.0
+        }, 
+        "size.": {
+            "the~patient's": 1.0
+        }, 
+        "some": {
+            "associated~with": 1.0
+        }, 
+        "stable": {
+            "hospital~in": 1.0
+        }, 
+        "stay.": {
+            "her~hospital": 1.0
+        }, 
+        "still": {
+            "symptoms~could": 1.0
+        }, 
+        "strange": {
+            "presents~with": 0.5, 
+            "with~a": 0.5
+        }, 
+        "study": {
+            "above.~The": 1.0
+        }, 
+        "summary": {
+            "No~dictated": 1.0
+        }, 
+        "sx": {
+            "or~previos": 1.0
+        }, 
+        "symptoms": {
+            "coronaries.~Her": 1.0
+        }, 
+        "symptoms.": {
+            "for~these": 1.0
+        }, 
+        "system": {
+            "Plan~by": 1.0
+        }, 
+        "the": {
+            ",~with": 0.16666666666666666, 
+            "Return~to": 0.16666666666666666, 
+            "byproduct~of": 0.16666666666666666, 
+            "discharged~from": 0.16666666666666666, 
+            "limited~due": 0.16666666666666666, 
+            "physician~in": 0.16666666666666666
+        }, 
+        "these": {
+            "home~for": 1.0
+        }, 
+        "this": {
+            "describe~-": 1.0
+        }, 
+        "this.": {
+            "sx~like": 1.0
+        }, 
+        "throughout": {
+            "of~breath": 1.0
+        }, 
+        "tingling": {
+            "with~chest": 1.0
+        }, 
+        "to": {
+            "(~due": 0.5, 
+            "weeks.~Return": 0.5
+        }, 
+        "transient": {
+            "caused~by": 1.0
+        }, 
+        "two": {
+            "in~next": 0.5, 
+            "the~next": 0.5
+        }, 
+        "type": {
+            "h/o~of": 1.0
+        }, 
+        "until": {
+            "her~EBAMH": 1.0
+        }, 
+        "vasospasm.": {
+            "by~transient": 1.0
+        }, 
+        "vs.": {
+            "#obese#~)": 1.0
+        }, 
+        "was": {
+            "GI/FEN-~Pt": 0.2, 
+            "SOB.~Pt": 0.2, 
+            "The~study": 0.2, 
+            "normal.~Pt": 0.2, 
+            "this~feeling": 0.2
+        }, 
+        "weeks.": {
+            "next~two": 1.0
+        }, 
+        "were": {
+            "and~CXR": 0.25, 
+            "free~T4": 0.25, 
+            "pains~which": 0.25, 
+            "x~2": 0.25
+        }, 
+        "when": {
+            "until~yesterday": 1.0
+        }, 
+        "which": {
+            "her~chest": 0.5, 
+            "reflux~pains": 0.5
+        }, 
+        "who": {
+            "and~anxiety": 1.0
+        }, 
+        "with": {
+            "NPH~,": 0.07692307692307693, 
+            "Please~follow-up": 0.07692307692307693, 
+            "To~follow-up": 0.07692307692307693, 
+            "anxiety~,": 0.07692307692307693, 
+            "as~inpatient": 0.07692307692307693, 
+            "d/o~presents": 0.07692307692307693, 
+            "she~awoke": 0.07692307692307693, 
+            "size.~D/C": 0.07692307692307693, 
+            "was~associated": 0.07692307692307693, 
+            "were~helped": 0.07692307692307693, 
+            "were~negative": 0.07692307692307693, 
+            "who~presents": 0.07692307692307693, 
+            "y.o.~woman": 0.07692307692307693
+        }, 
+        "woman": {
+            "44~y.o.": 1.0
+        }, 
+        "x": {
+            "NEURO:~A&O": 0.5, 
+            "cardiac~enzymes": 0.5
+        }, 
+        "y.o.": {
+            "a~44": 1.0
+        }, 
+        "yesterday": {
+            "EBAMH~until": 1.0
+        }, 
+        "you": {
+            "department~if": 1.0
+        }, 
+        "your": {
+            "follow-up~with": 1.0
+        }, 
+        "|": {
+            "05980849~|": 0.1111111111111111, 
+            "12:00:00~AM": 0.1111111111111111, 
+            "Disease~|": 0.1111111111111111, 
+            "Reflux~Disease": 0.1111111111111111, 
+            "|~05980849": 0.1111111111111111, 
+            "|~2363748": 0.1111111111111111, 
+            "|~DIS": 0.1111111111111111, 
+            "|~RWGH": 0.1111111111111111, 
+            "~149726591": 0.1111111111111111
+        }
+    }, 
+    "type": "data/train", 
+    "uni": {
+        "": 0.001658374792703151, 
+        "\"Anxiety": 0.001658374792703151, 
+        "#obese#": 0.006633499170812604, 
+        "(": 0.004975124378109453, 
+        ")": 0.008291873963515755, 
+        "):": 0.001658374792703151, 
+        "**": 0.004975124378109453, 
+        "***": 0.003316749585406302, 
+        "******": 0.004975124378109453, 
+        ",": 0.05140961857379768, 
+        "-": 0.003316749585406302, 
+        "-->": 0.001658374792703151, 
+        "000": 0.001658374792703151, 
+        "016-5045": 0.001658374792703151, 
+        "01:00": 0.001658374792703151, 
+        "05980849": 0.001658374792703151, 
+        "086-23-20-9": 0.001658374792703151, 
+        "08:34": 0.001658374792703151, 
+        "1": 0.003316749585406302, 
+        "1.0": 0.003316749585406302, 
+        "1/15/06": 0.003316749585406302, 
+        "100": 0.001658374792703151, 
+        "100%": 0.001658374792703151, 
+        "100U": 0.001658374792703151, 
+        "12:00:00": 0.001658374792703151, 
+        "12:10": 0.001658374792703151, 
+        "135/80": 0.001658374792703151, 
+        "149726591": 0.001658374792703151, 
+        "16": 0.001658374792703151, 
+        "2": 0.001658374792703151, 
+        "2363748": 0.001658374792703151, 
+        "2993": 0.001658374792703151, 
+        "3.": 0.001658374792703151, 
+        "3/15/2006": 0.001658374792703151, 
+        "300": 0.001658374792703151, 
+        "325": 0.001658374792703151, 
+        "44": 0.001658374792703151, 
+        "44F": 0.001658374792703151, 
+        "50": 0.001658374792703151, 
+        "500": 0.001658374792703151, 
+        "6/18": 0.001658374792703151, 
+        "7/6/06": 0.001658374792703151, 
+        "76.": 0.001658374792703151, 
+        "8/13/2006": 0.001658374792703151, 
+        "8/28/2006": 0.001658374792703151, 
+        "80-90": 0.001658374792703151, 
+        ";Responsible": 0.001658374792703151, 
+        "@": 0.003316749585406302, 
+        "A&O": 0.001658374792703151, 
+        "ACTIVITY:": 0.001658374792703151, 
+        "ADDITIONAL": 0.001658374792703151, 
+        "ADMIT": 0.001658374792703151, 
+        "AF": 0.001658374792703151, 
+        "ALLERGIES:": 0.001658374792703151, 
+        "ALLERGY:": 0.001658374792703151, 
+        "AM": 0.003316749585406302, 
+        "AND": 0.001658374792703151, 
+        "APPOINTMENT(": 0.001658374792703151, 
+        "AS": 0.001658374792703151, 
+        "ASA": 0.001658374792703151, 
+        "AT": 0.001658374792703151, 
+        "ATENOLOL": 0.001658374792703151, 
+        "Admission": 0.003316749585406302, 
+        "After": 0.001658374792703151, 
+        "Also": 0.001658374792703151, 
+        "Applicable": 0.001658374792703151, 
+        "As": 0.001658374792703151, 
+        "Attending:": 0.001658374792703151, 
+        "BBlocker.": 0.001658374792703151, 
+        "BE": 0.001658374792703151, 
+        "BP:": 0.001658374792703151, 
+        "BRIEF": 0.001658374792703151, 
+        "BY:": 0.001658374792703151, 
+        "Bactrim": 0.001658374792703151, 
+        "Baseline": 0.001658374792703151, 
+        "CC:": 0.001658374792703151, 
+        "CODE": 0.001658374792703151, 
+        "COMMENTS:": 0.001658374792703151, 
+        "CONDITION:": 0.001658374792703151, 
+        "CONTINGENT": 0.001658374792703151, 
+        "COURSE:": 0.001658374792703151, 
+        "CTAB.": 0.001658374792703151, 
+        "CV-": 0.001658374792703151, 
+        "CV:": 0.001658374792703151, 
+        "CXR": 0.004975124378109453, 
+        "Cardiac": 0.001658374792703151, 
+        "Causing": 0.001658374792703151, 
+        "Complications": 0.001658374792703151, 
+        "Course": 0.001658374792703151, 
+        "Cr": 0.004975124378109453, 
+        "D.": 0.001658374792703151, 
+        "D/C": 0.004975124378109453, 
+        "DAILY": 0.004975124378109453, 
+        "DAVIDS": 0.001658374792703151, 
+        "DIAGNOSIS": 0.001658374792703151, 
+        "DIAGNOSIS:": 0.001658374792703151, 
+        "DIAGNOSIS;Conditions": 0.001658374792703151, 
+        "DIET:": 0.001658374792703151, 
+        "DIS": 0.001658374792703151, 
+        "DISCHARGE": 0.009950248756218905, 
+        "DISPOSITION:": 0.001658374792703151, 
+        "DM": 0.001658374792703151, 
+        "DM2": 0.001658374792703151, 
+        "DO/PLAN:": 0.001658374792703151, 
+        "DR": 0.001658374792703151, 
+        "Date:": 0.003316749585406302, 
+        "Denies": 0.001658374792703151, 
+        "Diabetes": 0.003316749585406302, 
+        "Discharge": 0.001658374792703151, 
+        "Disease": 0.003316749585406302, 
+        "Dr.": 0.001658374792703151, 
+        "E.": 0.001658374792703151, 
+        "EBAMH": 0.001658374792703151, 
+        "ECASA": 0.001658374792703151, 
+        "EDENHOLM": 0.001658374792703151, 
+        "EKG": 0.006633499170812604, 
+        "END": 0.001658374792703151, 
+        "ENTERED": 0.001658374792703151, 
+        "Eans": 0.001658374792703151, 
+        "Endo-": 0.001658374792703151, 
+        "FINAL": 0.001658374792703151, 
+        "FOLLOW": 0.001658374792703151, 
+        "FRITZ": 0.001658374792703151, 
+        "Fischhaber": 0.001658374792703151, 
+        "Full": 0.001658374792703151, 
+        "GERD": 0.001658374792703151, 
+        "GI/FEN-": 0.001658374792703151, 
+        "Gastroesophageal": 0.003316749585406302, 
+        "H2": 0.003316749585406302, 
+        "HCL": 0.001658374792703151, 
+        "HOLD": 0.001658374792703151, 
+        "HOSPITAL": 0.001658374792703151, 
+        "HPI": 0.001658374792703151, 
+        "HR:": 0.001658374792703151, 
+        "HUMAN": 0.001658374792703151, 
+        "Her": 0.003316749585406302, 
+        "Home": 0.001658374792703151, 
+        "Hospital": 0.001658374792703151, 
+        "ID/Dx:": 0.001658374792703151, 
+        "IF:": 0.001658374792703151, 
+        "II": 0.001658374792703151, 
+        "IN": 0.001658374792703151, 
+        "INSULIN": 0.001658374792703151, 
+        "Impression:": 0.001658374792703151, 
+        "Infarction": 0.001658374792703151, 
+        "Infections": 0.001658374792703151, 
+        "JONATHAN": 0.001658374792703151, 
+        "JT53": 0.001658374792703151, 
+        "JUSTINGER": 0.001658374792703151, 
+        "M.D.": 0.003316749585406302, 
+        "MED": 0.001658374792703151, 
+        "MEDICATIONS:": 0.001658374792703151, 
+        "METFORMIN": 0.003316749585406302, 
+        "MG": 0.008291873963515755, 
+        "MIBI": 0.004975124378109453, 
+        "Mellitus": 0.001658374792703151, 
+        "Myocardial": 0.001658374792703151, 
+        "NEURO:": 0.001658374792703151, 
+        "NORBERG": 0.001658374792703151, 
+        "NOT": 0.001658374792703151, 
+        "NPH": 0.003316749585406302, 
+        "No": 0.008291873963515755, 
+        "Not": 0.001658374792703151, 
+        "O.R.": 0.001658374792703151, 
+        "O2sat:": 0.001658374792703151, 
+        "OF": 0.003316749585406302, 
+        "ON:": 0.001658374792703151, 
+        "OPERATIONS": 0.001658374792703151, 
+        "ORDER": 0.001658374792703151, 
+        "ORDERS": 0.001658374792703151, 
+        "OTHER": 0.003316749585406302, 
+        "PATIENT": 0.001658374792703151, 
+        "PCP": 0.001658374792703151, 
+        "PM": 0.003316749585406302, 
+        "PMHX": 0.001658374792703151, 
+        "PO": 0.008291873963515755, 
+        "PRINCIPAL": 0.001658374792703151, 
+        "PROCEDURES:": 0.001658374792703151, 
+        "PULM:": 0.001658374792703151, 
+        "Plan": 0.001658374792703151, 
+        "Please": 0.001658374792703151, 
+        "Pt": 0.006633499170812604, 
+        "QAM": 0.001658374792703151, 
+        "QPM": 0.001658374792703151, 
+        "R/O": 0.001658374792703151, 
+        "RA": 0.001658374792703151, 
+        "RANITIDINE": 0.001658374792703151, 
+        "RELEVANT": 0.001658374792703151, 
+        "RENAL:": 0.001658374792703151, 
+        "RESUME": 0.001658374792703151, 
+        "REYES": 0.001658374792703151, 
+        "RR": 0.001658374792703151, 
+        "RRR": 0.001658374792703151, 
+        "RWGH": 0.001658374792703151, 
+        "Reflux": 0.003316749585406302, 
+        "Renal-": 0.001658374792703151, 
+        "Report": 0.001658374792703151, 
+        "Resp-": 0.001658374792703151, 
+        "Restrictions": 0.001658374792703151, 
+        "Resume": 0.001658374792703151, 
+        "Return": 0.001658374792703151, 
+        "S": 0.001658374792703151, 
+        "SC": 0.001658374792703151, 
+        "SOB.": 0.001658374792703151, 
+        "SS": 0.001658374792703151, 
+        "STATUS:": 0.001658374792703151, 
+        "SUMMARY:": 0.001658374792703151, 
+        "Service:": 0.001658374792703151, 
+        "She": 0.003316749585406302, 
+        "Stable": 0.001658374792703151, 
+        "Status": 0.001658374792703151, 
+        "Status:": 0.001658374792703151, 
+        "Stress": 0.003316749585406302, 
+        "Study": 0.001658374792703151, 
+        "T4": 0.001658374792703151, 
+        "THE": 0.001658374792703151, 
+        "TO": 0.001658374792703151, 
+        "TREATMENTS/PROCEDURES": 0.001658374792703151, 
+        "TRIMETHOPRIM/SULFAMETHOXAZOLE": 0.001658374792703151, 
+        "TSH": 0.001658374792703151, 
+        "The": 0.001658374792703151, 
+        "To": 0.001658374792703151, 
+        "Treatment/Stay": 0.001658374792703151, 
+        "UNITS": 0.001658374792703151, 
+        "UP": 0.001658374792703151, 
+        "UPON": 0.001658374792703151, 
+        "USED": 0.001658374792703151, 
+        "VS:": 0.001658374792703151, 
+        "WILL": 0.001658374792703151, 
+        "YES": 0.001658374792703151, 
+        "a": 0.004975124378109453, 
+        "aa": 0.001658374792703151, 
+        "above.": 0.003316749585406302, 
+        "affecting": 0.001658374792703151, 
+        "after": 0.001658374792703151, 
+        "air": 0.001658374792703151, 
+        "am": 0.001658374792703151, 
+        "and": 0.011608623548922056, 
+        "anxiety": 0.006633499170812604, 
+        "as": 0.004975124378109453, 
+        "associated": 0.001658374792703151, 
+        "at": 0.004975124378109453, 
+        "awoke": 0.001658374792703151, 
+        "be": 0.001658374792703151, 
+        "before": 0.001658374792703151, 
+        "blocker": 0.001658374792703151, 
+        "blocker.": 0.001658374792703151, 
+        "breath": 0.001658374792703151, 
+        "breath.": 0.001658374792703151, 
+        "by": 0.004975124378109453, 
+        "byproduct": 0.001658374792703151, 
+        "cardiac": 0.003316749585406302, 
+        "care": 0.001658374792703151, 
+        "cath": 0.001658374792703151, 
+        "catheterization": 0.001658374792703151, 
+        "caused": 0.001658374792703151, 
+        "changes": 0.001658374792703151, 
+        "changes.": 0.001658374792703151, 
+        "chest": 0.006633499170812604, 
+        "chest\"": 0.001658374792703151, 
+        "clean": 0.001658374792703151, 
+        "clear.": 0.001658374792703151, 
+        "code": 0.001658374792703151, 
+        "condition.": 0.001658374792703151, 
+        "continue": 0.001658374792703151, 
+        "coronaries.": 0.001658374792703151, 
+        "could": 0.003316749585406302, 
+        "creatinine": 0.001658374792703151, 
+        "d/o": 0.001658374792703151, 
+        "deficit": 0.003316749585406302, 
+        "department": 0.001658374792703151, 
+        "describe": 0.001658374792703151, 
+        "diaphoresis": 0.001658374792703151, 
+        "dictated": 0.001658374792703151, 
+        "dinner": 0.001658374792703151, 
+        "discharge": 0.001658374792703151, 
+        "discharged": 0.001658374792703151, 
+        "discomfort": 0.001658374792703151, 
+        "dose": 0.001658374792703151, 
+        "due": 0.003316749585406302, 
+        "eGFR": 0.001658374792703151, 
+        "either": 0.001658374792703151, 
+        "elevated": 0.001658374792703151, 
+        "emergency": 0.001658374792703151, 
+        "enzymes": 0.003316749585406302, 
+        "exam": 0.001658374792703151, 
+        "exercise": 0.001658374792703151, 
+        "explained": 0.001658374792703151, 
+        "feel": 0.001658374792703151, 
+        "feeling": 0.003316749585406302, 
+        "follow-up": 0.003316749585406302, 
+        "for": 0.004975124378109453, 
+        "free": 0.001658374792703151, 
+        "from": 0.001658374792703151, 
+        "h/o": 0.004975124378109453, 
+        "had": 0.001658374792703151, 
+        "helped": 0.001658374792703151, 
+        "her": 0.004975124378109453, 
+        "hold": 0.001658374792703151, 
+        "home": 0.001658374792703151, 
+        "hospital": 0.003316749585406302, 
+        "however": 0.003316749585406302, 
+        "hunger": 0.001658374792703151, 
+        "hyperthyroidism": 0.001658374792703151, 
+        "if": 0.001658374792703151, 
+        "in": 0.011608623548922056, 
+        "increased": 0.001658374792703151, 
+        "inpatient": 0.001658374792703151, 
+        "insufficiency.": 0.001658374792703151, 
+        "insulin": 0.001658374792703151, 
+        "intermittent": 0.001658374792703151, 
+        "is": 0.001658374792703151, 
+        "ischemic": 0.001658374792703151, 
+        "large": 0.001658374792703151, 
+        "late": 0.001658374792703151, 
+        "like": 0.001658374792703151, 
+        "limited": 0.001658374792703151, 
+        "lispro": 0.001658374792703151, 
+        "m/r/g.": 0.001658374792703151, 
+        "maintained": 0.001658374792703151, 
+        "may": 0.001658374792703151, 
+        "meal": 0.001658374792703151, 
+        "meals.": 0.001658374792703151, 
+        "mild": 0.001658374792703151, 
+        "morbid": 0.001658374792703151, 
+        "my": 0.001658374792703151, 
+        "nausea.": 0.001658374792703151, 
+        "negative": 0.001658374792703151, 
+        "new": 0.001658374792703151, 
+        "next": 0.003316749585406302, 
+        "night": 0.001658374792703151, 
+        "nl": 0.003316749585406302, 
+        "no": 0.003316749585406302, 
+        "nonfocal": 0.001658374792703151, 
+        "normal.": 0.004975124378109453, 
+        "not": 0.001658374792703151, 
+        "of": 0.008291873963515755, 
+        "on": 0.004975124378109453, 
+        "or": 0.006633499170812604, 
+        "pain": 0.001658374792703151, 
+        "pains": 0.001658374792703151, 
+        "patient's": 0.003316749585406302, 
+        "performed": 0.001658374792703151, 
+        "perfusion": 0.003316749585406302, 
+        "physician": 0.001658374792703151, 
+        "presents": 0.003316749585406302, 
+        "previos": 0.001658374792703151, 
+        "primary": 0.001658374792703151, 
+        "production": 0.001658374792703151, 
+        "radiation.": 0.001658374792703151, 
+        "rash": 0.001658374792703151, 
+        "reflect": 0.001658374792703151, 
+        "reflux": 0.001658374792703151, 
+        "regular": 0.001658374792703151, 
+        "renal": 0.001658374792703151, 
+        "results": 0.001658374792703151, 
+        "s1/s2.": 0.001658374792703151, 
+        "sensation.": 0.001658374792703151, 
+        "severe": 0.003316749585406302, 
+        "she": 0.003316749585406302, 
+        "shortness": 0.003316749585406302, 
+        "should": 0.001658374792703151, 
+        "showed": 0.003316749585406302, 
+        "size": 0.001658374792703151, 
+        "size.": 0.001658374792703151, 
+        "some": 0.001658374792703151, 
+        "stable": 0.001658374792703151, 
+        "stay.": 0.001658374792703151, 
+        "still": 0.001658374792703151, 
+        "strange": 0.003316749585406302, 
+        "study": 0.001658374792703151, 
+        "summary": 0.001658374792703151, 
+        "sx": 0.001658374792703151, 
+        "symptoms": 0.001658374792703151, 
+        "symptoms.": 0.001658374792703151, 
+        "system": 0.001658374792703151, 
+        "the": 0.009950248756218905, 
+        "these": 0.001658374792703151, 
+        "this": 0.001658374792703151, 
+        "this.": 0.001658374792703151, 
+        "throughout": 0.001658374792703151, 
+        "tingling": 0.001658374792703151, 
+        "to": 0.003316749585406302, 
+        "transient": 0.001658374792703151, 
+        "two": 0.003316749585406302, 
+        "type": 0.001658374792703151, 
+        "until": 0.001658374792703151, 
+        "vasospasm.": 0.001658374792703151, 
+        "vs.": 0.001658374792703151, 
+        "was": 0.008291873963515755, 
+        "weeks.": 0.003316749585406302, 
+        "were": 0.006633499170812604, 
+        "when": 0.001658374792703151, 
+        "which": 0.003316749585406302, 
+        "who": 0.001658374792703151, 
+        "with": 0.02155887230514096, 
+        "woman": 0.001658374792703151, 
+        "x": 0.003316749585406302, 
+        "y.o.": 0.001658374792703151, 
+        "yesterday": 0.001658374792703151, 
+        "you": 0.001658374792703151, 
+        "your": 0.001658374792703151, 
+        "|": 0.014925373134328358
+    }
+}

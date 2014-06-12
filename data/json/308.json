@@ -1,0 +1,3551 @@
+{
+    "bi": {
+        "#asthma#": {
+            "CPAP": 1.0
+        }, 
+        "#obese#": {
+            "morbid": 1.0
+        }, 
+        "&": {
+            "INJ": 1.0
+        }, 
+        "(": {
+            "ACTIGALL": 0.08333333333333333, 
+            "AM": 0.08333333333333333, 
+            "AROMASIN": 0.08333333333333333, 
+            "COLACE": 0.08333333333333333, 
+            "M.D.": 0.08333333333333333, 
+            "Required": 0.08333333333333333, 
+            "SOLUTION": 0.08333333333333333, 
+            "SYRUP": 0.08333333333333333, 
+            "TREATMENTS/PROCEDURES": 0.08333333333333333, 
+            "VOLTAREN": 0.08333333333333333, 
+            "ZOCOR": 0.08333333333333333, 
+            "fevers": 0.08333333333333333
+        }, 
+        ")": {
+            "5/11": 0.08333333333333333, 
+            "Admission": 0.08333333333333333, 
+            "EXEMESTANE": 0.08333333333333333, 
+            "LIQUID": 0.08333333333333333, 
+            "O.R.": 0.08333333333333333, 
+            "RD060": 0.08333333333333333, 
+            "SIMVASTATIN": 0.08333333333333333, 
+            "SODIUM": 0.16666666666666666, 
+            "SYRUP": 0.08333333333333333, 
+            "URSODIOL": 0.08333333333333333, 
+            "temp>101.5": 0.08333333333333333
+        }, 
+        "):": {
+            "S": 0.5, 
+            "approximate": 0.5
+        }, 
+        "******": {
+            "10/29/2006": 0.3333333333333333, 
+            "AM": 0.3333333333333333, 
+            "ORDERS": 0.3333333333333333
+        }, 
+        "***Please": {
+            "medicines.": 1.0
+        }, 
+        ",": {
+            ")": 0.029411764705882353, 
+            "1": 0.029411764705882353, 
+            "BOBLETT": 0.029411764705882353, 
+            "C.": 0.058823529411764705, 
+            "C/D/I": 0.029411764705882353, 
+            "Complications": 0.029411764705882353, 
+            "DIAGNOSIS;Conditions": 0.029411764705882353, 
+            "IMPERATORE": 0.029411764705882353, 
+            "Infections": 0.029411764705882353, 
+            "LLE": 0.029411764705882353, 
+            "PUCKET": 0.029411764705882353, 
+            "TROMETHAMINE": 0.029411764705882353, 
+            "apnea": 0.029411764705882353, 
+            "appointment": 0.029411764705882353, 
+            "bathe": 0.029411764705882353, 
+            "biopsy": 0.058823529411764705, 
+            "breath": 0.029411764705882353, 
+            "chemo": 0.029411764705882353, 
+            "condition": 0.029411764705882353, 
+            "incision": 0.029411764705882353, 
+            "independently": 0.029411764705882353, 
+            "lumpectomy": 0.058823529411764705, 
+            "management": 0.029411764705882353, 
+            "medications": 0.029411764705882353, 
+            "pain": 0.058823529411764705, 
+            "soak": 0.029411764705882353, 
+            "surgery": 0.029411764705882353, 
+            "swim": 0.029411764705882353, 
+            "ulcer": 0.029411764705882353, 
+            "unremarkable": 0.029411764705882353
+        }, 
+        "09:00": {
+            "AT": 1.0
+        }, 
+        "09:26": {
+            "@": 1.0
+        }, 
+        "1": {
+            "POD": 1.0
+        }, 
+        "1-2": {
+            "in": 1.0
+        }, 
+        "10/29/2006": {
+            "Date:": 0.5, 
+            "|": 0.5
+        }, 
+        "100": {
+            ")": 1.0
+        }, 
+        "12:00:00": {
+            "10/29/2006": 1.0
+        }, 
+        "150": {
+            ")": 1.0
+        }, 
+        "2": {
+            "):": 0.25, 
+            "and": 0.25, 
+            "for": 0.25, 
+            "shower": 0.25
+        }, 
+        "2-3": {
+            "in": 1.0
+        }, 
+        "2/24/2006": {
+            "Date:": 1.0
+        }, 
+        "20": {
+            ")": 1.0
+        }, 
+        "2003": {
+            "April": 1.0
+        }, 
+        "2005": {
+            "October": 1.0
+        }, 
+        "25": {
+            ")": 0.5, 
+            "HYDROCHLOROTHIAZIDE": 0.5
+        }, 
+        "3.": {
+            "POD": 1.0
+        }, 
+        "300": {
+            ")": 1.0
+        }, 
+        "357205541": {
+            "": 1.0
+        }, 
+        "46038105": {
+            "|": 1.0
+        }, 
+        "481-96-57-3": {
+            "J": 1.0
+        }, 
+        "5-10": {
+            ")": 1.0
+        }, 
+        "5/11": {
+            "(": 1.0
+        }, 
+        "5/13/06": {
+            ")": 0.3333333333333333, 
+            "ON:": 0.3333333333333333, 
+            "on": 0.3333333333333333
+        }, 
+        "6.": {
+            "POD": 1.0
+        }, 
+        "75": {
+            ")": 1.0
+        }, 
+        "9460792": {
+            "|": 1.0
+        }, 
+        ":": {
+            "by": 1.0
+        }, 
+        ";Responsible": {
+            "DIAGNOSIS": 1.0
+        }, 
+        "@": {
+            "5/13/06": 1.0
+        }, 
+        "ACTIGALL": {
+            "otherwise.": 1.0
+        }, 
+        "ACTIVITY:": {
+            "bypass": 1.0
+        }, 
+        "ADDITIONAL": {
+            "weeks.": 1.0
+        }, 
+        "ADMIT": {
+            "LEVOFLOXACIN": 1.0
+        }, 
+        "ALLERGY:": {
+            ",": 1.0
+        }, 
+        "AM": {
+            "09:00": 0.25, 
+            "09:26": 0.25, 
+            "12:00:00": 0.25, 
+            "IN": 0.25
+        }, 
+        "AMC": {
+            "|": 1.0
+        }, 
+        "AND": {
+            "OPERATIONS": 1.0
+        }, 
+        "APPOINTMENT(": {
+            "UP": 1.0
+        }, 
+        "AROMASIN": {
+            "syrup": 1.0
+        }, 
+        "AS": {
+            "USED": 1.0
+        }, 
+        "AT": {
+            "5/13/06": 1.0
+        }, 
+        "Adenomatous": {
+            "XRT": 1.0
+        }, 
+        "Admission": {
+            "Causing": 0.5, 
+            "|": 0.5
+        }, 
+        "After": {
+            ";Responsible": 1.0
+        }, 
+        "Alert": {
+            "food": 1.0
+        }, 
+        "Applicable": {
+            "Not": 1.0
+        }, 
+        "April": {
+            ",": 1.0
+        }, 
+        "At": {
+            "control.": 1.0
+        }, 
+        "Attending:": {
+            "YES": 1.0
+        }, 
+        "Avoid": {
+            "Instruction": 1.0
+        }, 
+        "BE": {
+            "ORDER": 1.0
+        }, 
+        "BEDTIME": {
+            "PO": 1.0
+        }, 
+        "BID": {
+            "PO": 1.0
+        }, 
+        "BOBLETT": {
+            "******": 1.0
+        }, 
+        "BRIEF": {
+            "none": 1.0
+        }, 
+        "BY:": {
+            "ENTERED": 1.0
+        }, 
+        "Bandage": {
+            "weeks.": 1.0
+        }, 
+        "C.": {
+            "CHESTER": 0.5, 
+            "PETER": 0.5
+        }, 
+        "C/D/I": {
+            "was": 1.0
+        }, 
+        "CHESTER": {
+            ",": 1.0
+        }, 
+        "COLACE": {
+            "aware": 1.0
+        }, 
+        "COMMENTS:": {
+            "ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            "DISCHARGE": 1.0
+        }, 
+        "CONTINGENT": {
+            "AM": 1.0
+        }, 
+        "COURSE:": {
+            "HOSPITAL": 1.0
+        }, 
+        "CPAP": {
+            "uses": 1.0
+        }, 
+        "Causing": {
+            "for": 1.0
+        }, 
+        "Center": {
+            "Medical": 1.0
+        }, 
+        "Complications": {
+            ",": 1.0
+        }, 
+        "Crush": {
+            "nexium.": 1.0
+        }, 
+        "D/C": {
+            "THE": 0.5, 
+            "WILL": 0.5
+        }, 
+        "DAILY": {
+            "PO": 1.0
+        }, 
+        "DIAGNOSIS": {
+            "DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "OTHER": 1.0
+        }, 
+        "DICLOFENAC": {
+            "&": 0.5, 
+            "(": 0.5
+        }, 
+        "DIET:": {
+            "BID": 1.0
+        }, 
+        "DIS": {
+            "|": 1.0
+        }, 
+        "DISCHARGE": {
+            "FINAL": 0.16666666666666666, 
+            "GGI": 0.16666666666666666, 
+            "Home": 0.16666666666666666, 
+            "OF": 0.16666666666666666, 
+            "PRINCIPAL": 0.16666666666666666, 
+            "weeks.": 0.16666666666666666
+        }, 
+        "DISPOSITION:": {
+            "M.D.": 1.0
+        }, 
+        "DO/PLAN:": {
+            "TO": 1.0
+        }, 
+        "DOCUSATE": {
+            "(": 1.0
+        }, 
+        "Date:": {
+            "Admission": 0.5, 
+            "Discharge": 0.5
+        }, 
+        "Debridement": {
+            "2003": 1.0
+        }, 
+        "Discharge": {
+            "Status:": 1.0
+        }, 
+        "Doses": {
+            "of": 1.0
+        }, 
+        "Dr.": {
+            "call": 0.5, 
+            "with": 0.5
+        }, 
+        "END": {
+            "******": 1.0
+        }, 
+        "ENTERED": {
+            "summary": 1.0
+        }, 
+        "EXEMESTANE": {
+            "(": 1.0
+        }, 
+        "FINAL": {
+            "******": 1.0
+        }, 
+        "FOLLOW": {
+            "tolerated": 1.0
+        }, 
+        "Follow": {
+            "concern.": 1.0
+        }, 
+        "Food/Drug": {
+            "crush": 1.0
+        }, 
+        "Foundtah": {
+            "the": 1.0
+        }, 
+        "GERD": {
+            "#asthma#": 1.0
+        }, 
+        "GGI": {
+            "Service:": 1.0
+        }, 
+        "Gallstones": {
+            "OA": 1.0
+        }, 
+        "HCL": {
+            "RANITIDINE": 1.0
+        }, 
+        "HOLD": {
+            ")": 1.0
+        }, 
+        "HOSPITAL": {
+            "OF": 1.0
+        }, 
+        "HTN": {
+            "PMH": 1.0
+        }, 
+        "HYDROCHLOROTHIAZIDE": {
+            "2": 1.0
+        }, 
+        "Hepatic": {
+            "Gallstones": 1.0
+        }, 
+        "Her": {
+            "POD2.": 1.0
+        }, 
+        "Hiatal": {
+            "GERD": 1.0
+        }, 
+        "Home": {
+            "DISPOSITION:": 1.0
+        }, 
+        "Hyperlipidemia": {
+            "HTN": 1.0
+        }, 
+        "Hysterectomy": {
+            "2003": 1.0
+        }, 
+        "I": {
+            "481-96-57-3": 0.5, 
+            "stage": 0.5
+        }, 
+        "IF:": {
+            "HOLD": 1.0
+        }, 
+        "II": {
+            "Stage": 0.5, 
+            "stage": 0.5
+        }, 
+        "IMPERATORE": {
+            "Attending:": 1.0
+        }, 
+        "IN": {
+            "NOT": 0.5, 
+            "Starting": 0.5
+        }, 
+        "INJ": {
+            ",": 1.0
+        }, 
+        "INTERACTION:": {
+            "SERIOUS": 1.0
+        }, 
+        "Infections": {
+            ",": 1.0
+        }, 
+        "Instruction": {
+            "Interaction": 1.0
+        }, 
+        "Instructions:": {
+            "BEDTIME": 0.2, 
+            "BID": 0.2, 
+            "DAILY": 0.2, 
+            "NPO": 0.2, 
+            "Pain": 0.2
+        }, 
+        "Interaction": {
+            "Food/Drug": 1.0
+        }, 
+        "J": {
+            "TORY": 1.0
+        }, 
+        "JP": {
+            "well.": 1.0
+        }, 
+        "Jaffray": {
+            "Dr.": 1.0
+        }, 
+        "Jaw": {
+            "repair": 1.0
+        }, 
+        "KETOROLAC": {
+            "INTERACTION:": 1.0
+        }, 
+        "L": {
+            "Hysterectomy": 1.0
+        }, 
+        "LEVOFLOXACIN": {
+            "ALLERGY:": 1.0
+        }, 
+        "LIQUID": {
+            "OXYCODONE+APAP": 1.0
+        }, 
+        "LLE": {
+            "on": 0.5, 
+            "stasis": 0.5
+        }, 
+        "LN": {
+            "axillary": 1.0
+        }, 
+        "LRYGB.": {
+            "undergoing": 1.0
+        }, 
+        "Left": {
+            "2005": 0.3333333333333333, 
+            "Hyperlipidemia": 0.3333333333333333, 
+            "PSH": 0.3333333333333333
+        }, 
+        "M.D.": {
+            ",": 1.0
+        }, 
+        "MD": {
+            "unless": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "DISCHARGE": 1.0
+        }, 
+        "MG": {
+            "100": 0.14285714285714285, 
+            "150": 0.14285714285714285, 
+            "20": 0.14285714285714285, 
+            "25": 0.2857142857142857, 
+            "300": 0.14285714285714285, 
+            "75": 0.14285714285714285
+        }, 
+        "MILLILITERS": {
+            "5-10": 1.0
+        }, 
+        "Medical": {
+            "Foundtah": 1.0
+        }, 
+        "NOT": {
+            "(": 1.0
+        }, 
+        "NPO": {
+            "IF:": 1.0
+        }, 
+        "No": {
+            "DO/PLAN:": 0.5, 
+            "LRYGB.": 0.5
+        }, 
+        "Not": {
+            "UPON": 1.0
+        }, 
+        "Number": {
+            "giving": 1.0
+        }, 
+        "O.R.": {
+            "IN": 1.0
+        }, 
+        "OA": {
+            "hernia": 1.0
+        }, 
+        "OF": {
+            "END": 0.5, 
+            "RESUME": 0.5
+        }, 
+        "ON:": {
+            "PATIENT": 1.0
+        }, 
+        "OPERATIONS": {
+            "surgery": 1.0
+        }, 
+        "ORAL": {
+            "ROXICET": 1.0
+        }, 
+        "ORDER": {
+            "D/C": 1.0
+        }, 
+        "ORDERS": {
+            "DISCHARGE": 1.0
+        }, 
+        "OTHER": {
+            "#obese#": 0.5, 
+            "bypass": 0.5
+        }, 
+        "OXYCODONE+APAP": {
+            "(": 1.0
+        }, 
+        "Obstructive": {
+            "excision": 1.0
+        }, 
+        "October": {
+            ",": 1.0
+        }, 
+        "Override": {
+            "overridden:": 1.0
+        }, 
+        "PACU": {
+            "the": 1.0
+        }, 
+        "PATIENT": {
+            "DISCHARGE": 1.0
+        }, 
+        "PETER": {
+            ",": 1.0
+        }, 
+        "PMH": {
+            "Treatment/Stay": 1.0
+        }, 
+        "PO": {
+            "MG": 0.875, 
+            "MILLILITERS": 0.125
+        }, 
+        "POD": {
+            "by": 0.3333333333333333, 
+            "removed": 0.3333333333333333, 
+            "vommit": 0.3333333333333333
+        }, 
+        "POD1": {
+            "on": 1.0
+        }, 
+        "POD1.": {
+            "into": 1.0
+        }, 
+        "POD2.": {
+            "on": 1.0
+        }, 
+        "PRINCIPAL": {
+            "#obese#": 1.0
+        }, 
+        "PRN": {
+            "BID": 0.5, 
+            "Q4H": 0.5
+        }, 
+        "PROCEDURES:": {
+            "AND": 1.0
+        }, 
+        "PSH": {
+            "LLE": 1.0
+        }, 
+        "PUCKET": {
+            "BY:": 1.0
+        }, 
+        "Pain": {
+            "PRN": 1.0
+        }, 
+        "Patient": {
+            "COURSE:": 0.3333333333333333, 
+            "condition.": 0.3333333333333333, 
+            "details.": 0.3333333333333333
+        }, 
+        "Please": {
+            "):": 0.3333333333333333, 
+            ",": 0.3333333333333333, 
+            "weeks.": 0.3333333333333333
+        }, 
+        "Q4H": {
+            "PO": 1.0
+        }, 
+        "RANITIDINE": {
+            "(": 1.0
+        }, 
+        "RD060": {
+            "(": 1.0
+        }, 
+        "RESUME": {
+            "BRIEF": 1.0
+        }, 
+        "ROXICET": {
+            "crush": 1.0
+        }, 
+        "Reason": {
+            "DICLOFENAC": 1.0
+        }, 
+        "Report": {
+            "2/24/2006": 1.0
+        }, 
+        "Required": {
+            "Doses": 1.0
+        }, 
+        "Resume": {
+            "medications.": 1.0
+        }, 
+        "S": {
+            "APPOINTMENT(": 1.0
+        }, 
+        "SERIOUS": {
+            ":": 1.0
+        }, 
+        "SIMVASTATIN": {
+            "(": 1.0
+        }, 
+        "SODIUM": {
+            "DICLOFENAC": 0.5, 
+            "DOCUSATE": 0.5
+        }, 
+        "SOLUTION": {
+            "ORAL": 1.0
+        }, 
+        "START": {
+            "note-": 1.0
+        }, 
+        "STSG": {
+            "2005": 1.0
+        }, 
+        "SUMMARY:": {
+            "D/C": 1.0
+        }, 
+        "SYRUP": {
+            "HCL": 0.5, 
+            "ZANTAC": 0.5
+        }, 
+        "Seek": {
+            "time.": 1.0
+        }, 
+        "Service:": {
+            "I": 1.0
+        }, 
+        "She": {
+            "pouch.": 1.0
+        }, 
+        "Stable": {
+            "CONDITION:": 1.0
+        }, 
+        "Stage": {
+            "a": 1.0
+        }, 
+        "Starting": {
+            "BEDTIME": 1.0
+        }, 
+        "Status:": {
+            "Report": 1.0
+        }, 
+        "Study": {
+            "After": 1.0
+        }, 
+        "THE": {
+            "AS": 1.0
+        }, 
+        "TO": {
+            "Stable": 1.0
+        }, 
+        "TORY": {
+            ",": 1.0
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "OTHER": 1.0
+        }, 
+        "TROMETHAMINE": {
+            "KETOROLAC": 1.0
+        }, 
+        "Take": {
+            "Instruction": 1.0
+        }, 
+        "The": {
+            "3.": 0.25, 
+            "6.": 0.25, 
+            "POD1.": 0.25, 
+            "infection.": 0.25
+        }, 
+        "Treatment/Stay": {
+            "affecting": 1.0
+        }, 
+        "UGI": {
+            "an": 1.0
+        }, 
+        "UP": {
+            "FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "CONTINGENT": 1.0
+        }, 
+        "URSODIOL": {
+            "(": 1.0
+        }, 
+        "USED": {
+            "BE": 1.0
+        }, 
+        "Umbilical": {
+            "osteotomy": 1.0
+        }, 
+        "VOLTAREN": {
+            "MEDICATIONS:": 1.0
+        }, 
+        "Venous": {
+            "cyst": 1.0
+        }, 
+        "WILL": {
+            "Applicable": 1.0
+        }, 
+        "Walking": {
+            "ACTIVITY:": 1.0
+        }, 
+        "XRT": {
+            ",": 1.0
+        }, 
+        "YES": {
+            "SUMMARY:": 1.0
+        }, 
+        "You": {
+            "COMMENTS:": 1.0
+        }, 
+        "ZANTAC": {
+            "Pain": 1.0
+        }, 
+        "ZOCOR": {
+            "BID": 1.0
+        }, 
+        "Ziebol": {
+            "Dr.": 1.0
+        }, 
+        "a": {
+            "to": 1.0
+        }, 
+        "able": {
+            "was": 1.0
+        }, 
+        "actigall": {
+            "START": 1.0
+        }, 
+        "added": {
+            "Override": 1.0
+        }, 
+        "adequate": {
+            "had": 0.5, 
+            "with": 0.5
+        }, 
+        "admitted": {
+            "was": 1.0
+        }, 
+        "advanced": {
+            "and": 1.0
+        }, 
+        "affecting": {
+            ",": 1.0
+        }, 
+        "after": {
+            "days": 0.5, 
+            "service": 0.5
+        }, 
+        "alcohol": {
+            "consume": 1.0
+        }, 
+        "all": {
+            "Crush": 1.0
+        }, 
+        "ambulating": {
+            ",": 1.0
+        }, 
+        "an": {
+            "had": 1.0
+        }, 
+        "and": {
+            ",": 0.2857142857142857, 
+            "POD1": 0.14285714285714285, 
+            "ambulating": 0.14285714285714285, 
+            "control": 0.14285714285714285, 
+            "diet": 0.14285714285714285, 
+            "site": 0.14285714285714285
+        }, 
+        "any": {
+            "or": 1.0
+        }, 
+        "apnea": {
+            "sleep": 1.0
+        }, 
+        "appointment": {
+            "follow-up": 1.0
+        }, 
+        "approximate": {
+            "(": 1.0
+        }, 
+        "as": {
+            "Walking": 0.5, 
+            "tolerated": 0.5
+        }, 
+        "at": {
+            "edema": 1.0
+        }, 
+        "attention": {
+            "medical": 1.0
+        }, 
+        "aware": {
+            "override:": 1.0
+        }, 
+        "axillary": {
+            "left": 1.0
+        }, 
+        "bathe": {
+            "tub": 1.0
+        }, 
+        "before": {
+            "crush": 1.0
+        }, 
+        "biopsy": {
+            "LN": 0.5, 
+            "breast": 0.5
+        }, 
+        "bleeding": {
+            "excessive": 1.0
+        }, 
+        "breast": {
+            "Left": 1.0
+        }, 
+        "breath": {
+            "of": 1.0
+        }, 
+        "but": {
+            ",": 0.75, 
+            "leak": 0.25
+        }, 
+        "by": {
+            "5/13/06": 0.5, 
+            "resolved": 0.5
+        }, 
+        "bypass": {
+            "gastric": 1.0
+        }, 
+        "call": {
+            "Please": 1.0
+        }, 
+        "cancer": {
+            "breast": 1.0
+        }, 
+        "care": {
+            "primary": 1.0
+        }, 
+        "chemo": {
+            ",": 1.0
+        }, 
+        "chest": {
+            ",": 1.0
+        }, 
+        "clinic": {
+            "in": 1.0
+        }, 
+        "collection": {
+            "hematoma": 1.0
+        }, 
+        "concern.": {
+            "of": 1.0
+        }, 
+        "concerning": {
+            "No": 1.0
+        }, 
+        "condition": {
+            "stable": 1.0
+        }, 
+        "condition.": {
+            "stable": 1.0
+        }, 
+        "consume": {
+            "or": 1.0
+        }, 
+        "contrast": {
+            "show": 0.5, 
+            "the": 0.5
+        }, 
+        "control": {
+            "pain": 1.0
+        }, 
+        "control.": {
+            "pain": 1.0
+        }, 
+        "course": {
+            "hospital": 1.0
+        }, 
+        "crush": {
+            "Instructions:": 0.25, 
+            "please": 0.75
+        }, 
+        "cyst": {
+            "Hepatic": 1.0
+        }, 
+        "day": {
+            "following": 1.0
+        }, 
+        "days": {
+            "2": 1.0
+        }, 
+        "details.": {
+            "for": 1.0
+        }, 
+        "dictated": {
+            "No": 0.5, 
+            "see": 0.5
+        }, 
+        "did": {
+            "She": 0.5, 
+            "but": 0.5
+        }, 
+        "diet": {
+            "II": 0.5, 
+            "bypass": 0.5
+        }, 
+        "discharge": {
+            "At": 1.0
+        }, 
+        "discharged": {
+            "was": 1.0
+        }, 
+        "do": {
+            "Please": 0.5, 
+            "but": 0.5
+        }, 
+        "doctor": {
+            "care": 1.0
+        }, 
+        "drainage": {
+            ",": 1.0
+        }, 
+        "draion": {
+            "JP": 1.0
+        }, 
+        "drive": {
+            "not": 1.0
+        }, 
+        "edema": {
+            "to": 1.0
+        }, 
+        "empting": {
+            "of": 1.0
+        }, 
+        "events": {
+            "intraoperative": 1.0
+        }, 
+        "evidence": {
+            "no": 1.0
+        }, 
+        "excessive": {
+            "or": 1.0
+        }, 
+        "excision": {
+            "s/p": 1.0
+        }, 
+        "explicit": {
+            "given": 1.0
+        }, 
+        "fall": {
+            "will": 1.0
+        }, 
+        "fevers": {
+            "for": 1.0
+        }, 
+        "floor": {
+            "the": 1.0
+        }, 
+        "follow-up": {
+            "schedule": 0.5, 
+            "to": 0.5
+        }, 
+        "following": {
+            "the": 1.0
+        }, 
+        "food": {
+            "with": 1.0
+        }, 
+        "for": {
+            "Reason": 0.14285714285714285, 
+            "Study": 0.14285714285714285, 
+            "attention": 0.14285714285714285, 
+            "incision": 0.14285714285714285, 
+            "negative": 0.14285714285714285, 
+            "note": 0.14285714285714285, 
+            "weeks": 0.14285714285714285
+        }, 
+        "from": {
+            "bleeding": 0.5, 
+            "floor": 0.5
+        }, 
+        "gastric": {
+            "I": 0.3333333333333333, 
+            "II": 0.3333333333333333, 
+            "roux-en-y": 0.3333333333333333
+        }, 
+        "given": {
+            "was": 1.0
+        }, 
+        "giving": {
+            "before": 1.0
+        }, 
+        "grapefruit": {
+            "Avoid": 1.0
+        }, 
+        "had": {
+            "Patient": 0.5, 
+            "patient": 0.5
+        }, 
+        "hematoma": {
+            "of": 1.0
+        }, 
+        "hernia": {
+            "Hiatal": 0.5, 
+            "Umbilical": 0.5
+        }, 
+        "home": {
+            "Resume": 1.0
+        }, 
+        "hospital": {
+            "the": 1.0
+        }, 
+        "immediately": {
+            "Ziebol": 1.0
+        }, 
+        "in": {
+            "Jaffray": 0.14285714285714285, 
+            "PACU": 0.14285714285714285, 
+            "actigall": 0.14285714285714285, 
+            "discharged": 0.14285714285714285, 
+            "doctor": 0.14285714285714285, 
+            "follow-up": 0.14285714285714285, 
+            "surgeon": 0.14285714285714285
+        }, 
+        "incision": {
+            "from": 0.3333333333333333, 
+            "scrub": 0.3333333333333333, 
+            "the": 0.3333333333333333
+        }, 
+        "independently": {
+            "voiding": 1.0
+        }, 
+        "infection.": {
+            "or": 1.0
+        }, 
+        "instructions": {
+            "explicit": 1.0
+        }, 
+        "instructs": {
+            "MD": 1.0
+        }, 
+        "into": {
+            "overnight": 1.0
+        }, 
+        "intraoperative": {
+            "concerning": 1.0
+        }, 
+        "is": {
+            "syrup": 1.0
+        }, 
+        "issues": {
+            "no": 1.0
+        }, 
+        "it": {
+            "and": 1.0
+        }, 
+        "knee": {
+            "L": 1.0
+        }, 
+        "lack": {
+            "Her": 1.0
+        }, 
+        "laparoscopic": {
+            "PROCEDURES:": 1.0
+        }, 
+        "leak": {
+            "or": 1.0
+        }, 
+        "left": {
+            ",": 0.5, 
+            "Debridement": 0.5
+        }, 
+        "lumpectomy": {
+            "breast": 0.5, 
+            "s/p": 0.5
+        }, 
+        "management": {
+            "medication": 1.0
+        }, 
+        "may": {
+            "You": 1.0
+        }, 
+        "medical": {
+            "Seek": 1.0
+        }, 
+        "medication": {
+            "for": 1.0
+        }, 
+        "medications": {
+            "home": 1.0
+        }, 
+        "medications.": {
+            "pain": 1.0
+        }, 
+        "medicines.": {
+            "all": 1.0
+        }, 
+        "morbid": {
+            ")": 0.3333333333333333, 
+            "DIAGNOSIS:": 0.3333333333333333, 
+            "|": 0.3333333333333333
+        }, 
+        "negative": {
+            "were": 1.0
+        }, 
+        "nexium.": {
+            "replace": 1.0
+        }, 
+        "no": {
+            "and": 0.5, 
+            "with": 0.5
+        }, 
+        "none": {
+            ")": 1.0
+        }, 
+        "not": {
+            "did": 0.3333333333333333, 
+            "do": 0.6666666666666666
+        }, 
+        "note": {
+            "operative": 1.0
+        }, 
+        "note-": {
+            "***Please": 1.0
+        }, 
+        "note:": {
+            "please": 1.0
+        }, 
+        "obstruction": {
+            "for": 1.0
+        }, 
+        "occurred;": {
+            "events": 1.0
+        }, 
+        "of": {
+            "Number": 0.16666666666666666, 
+            "evidence": 0.16666666666666666, 
+            "lack": 0.16666666666666666, 
+            "remainder": 0.16666666666666666, 
+            "shortness": 0.16666666666666666, 
+            "symptoms": 0.16666666666666666
+        }, 
+        "off": {
+            "fall": 1.0
+        }, 
+        "on": {
+            "UGI": 0.2, 
+            "added": 0.2, 
+            "contrast": 0.2, 
+            "started": 0.2, 
+            "ulcer": 0.2
+        }, 
+        "operative": {
+            "dictated": 1.0
+        }, 
+        "or": {
+            ",": 0.3333333333333333, 
+            "collection": 0.16666666666666666, 
+            "drainage": 0.16666666666666666, 
+            "drive": 0.16666666666666666, 
+            "obstruction": 0.16666666666666666
+        }, 
+        "osteotomy": {
+            "tibial": 1.0
+        }, 
+        "other": {
+            "any": 1.0
+        }, 
+        "otherwise.": {
+            "instructs": 1.0
+        }, 
+        "over": {
+            "off": 1.0
+        }, 
+        "overnight": {
+            "issues": 1.0
+        }, 
+        "overridden:": {
+            "Alert": 1.0
+        }, 
+        "override:": {
+            "for": 1.0
+        }, 
+        "pain": {
+            "adequate": 0.4, 
+            "chest": 0.2, 
+            "taking": 0.2, 
+            "worsening": 0.2
+        }, 
+        "past": {
+            "contrast": 1.0
+        }, 
+        "pateint": {
+            "the": 1.0
+        }, 
+        "patient": {
+            "The": 1.0
+        }, 
+        "please": {
+            "Instructions:": 0.6, 
+            "but": 0.2, 
+            "occurred;": 0.2
+        }, 
+        "polyp": {
+            "Adenomatous": 1.0
+        }, 
+        "pouch.": {
+            "the": 1.0
+        }, 
+        "primary": {
+            "see": 1.0
+        }, 
+        "relatively": {
+            "was": 1.0
+        }, 
+        "remainder": {
+            "The": 1.0
+        }, 
+        "removed": {
+            "draion": 1.0
+        }, 
+        "repair": {
+            "hernia": 1.0
+        }, 
+        "replace": {
+            "to": 1.0
+        }, 
+        "resolved": {
+            "it": 1.0
+        }, 
+        "roux-en-y": {
+            "laparoscopic": 1.0
+        }, 
+        "s/p": {
+            "cancer": 0.5, 
+            "polyp": 0.5
+        }, 
+        "schedule": {
+            "to": 1.0
+        }, 
+        "scrub": {
+            "or": 1.0
+        }, 
+        "secondary": {
+            "thought": 1.0
+        }, 
+        "see": {
+            "Please": 0.5, 
+            "please": 0.5
+        }, 
+        "service": {
+            "surgery": 1.0
+        }, 
+        "shortness": {
+            ",": 1.0
+        }, 
+        "show": {
+            "not": 1.0
+        }, 
+        "shower": {
+            "may": 1.0
+        }, 
+        "site": {
+            "surgical": 1.0
+        }, 
+        "sleep": {
+            "Obstructive": 1.0
+        }, 
+        "soak": {
+            ",": 1.0
+        }, 
+        "stable": {
+            "in": 1.0
+        }, 
+        "stage": {
+            "DIET:": 0.5, 
+            "on": 0.5
+        }, 
+        "started": {
+            "then": 1.0
+        }, 
+        "stasis": {
+            "Venous": 0.3333333333333333, 
+            "venous": 0.6666666666666666
+        }, 
+        "strips": {
+            "Bandage": 1.0
+        }, 
+        "summary": {
+            "dictated": 1.0
+        }, 
+        "surgeon": {
+            "your": 1.0
+        }, 
+        "surgery": {
+            "Center": 0.3333333333333333, 
+            "Jaw": 0.3333333333333333, 
+            "after": 0.3333333333333333
+        }, 
+        "surgical": {
+            "at": 1.0
+        }, 
+        "swim": {
+            ",": 1.0
+        }, 
+        "symptoms": {
+            "other": 1.0
+        }, 
+        "syrup": {
+            "Instructions:": 0.5, 
+            "zantac": 0.5
+        }, 
+        "taking": {
+            "while": 1.0
+        }, 
+        "temp>101.5": {
+            "(": 1.0
+        }, 
+        "that": {
+            "2": 0.5, 
+            "diet": 0.5
+        }, 
+        "the": {
+            "advanced": 0.1111111111111111, 
+            "and": 0.1111111111111111, 
+            "discharge": 0.1111111111111111, 
+            "from": 0.1111111111111111, 
+            "of": 0.1111111111111111, 
+            "past": 0.1111111111111111, 
+            "to": 0.2222222222222222, 
+            "tolerate": 0.1111111111111111
+        }, 
+        "then": {
+            "was": 1.0
+        }, 
+        "thought": {
+            "empting": 1.0
+        }, 
+        "tibial": {
+            "knee": 1.0
+        }, 
+        "time.": {
+            "over": 1.0
+        }, 
+        "to": {
+            "able": 0.125, 
+            "admitted": 0.125, 
+            "day": 0.125, 
+            "immediately": 0.125, 
+            "instructions": 0.125, 
+            "is": 0.125, 
+            "secondary": 0.125, 
+            "transferred": 0.125
+        }, 
+        "tolerate": {
+            "to": 1.0
+        }, 
+        "tolerated": {
+            "as": 0.5, 
+            "was": 0.5
+        }, 
+        "transferred": {
+            "was": 1.0
+        }, 
+        "tub": {
+            "not": 1.0
+        }, 
+        "two": {
+            "in": 1.0
+        }, 
+        "ulcer": {
+            "stasis": 1.0
+        }, 
+        "undergoing": {
+            "after": 1.0
+        }, 
+        "unless": {
+            "grapefruit": 1.0
+        }, 
+        "unremarkable": {
+            "relatively": 1.0
+        }, 
+        "up": {
+            "Follow": 1.0
+        }, 
+        "uses": {
+            ",": 1.0
+        }, 
+        "venous": {
+            "STSG": 0.5, 
+            "left": 0.5
+        }, 
+        "voiding": {
+            "and": 1.0
+        }, 
+        "vommit": {
+            "did": 1.0
+        }, 
+        "was": {
+            "Patient": 0.2222222222222222, 
+            "but": 0.1111111111111111, 
+            "course": 0.1111111111111111, 
+            "incision": 0.1111111111111111, 
+            "pateint": 0.1111111111111111, 
+            "patient": 0.2222222222222222, 
+            "that": 0.1111111111111111
+        }, 
+        "weeks": {
+            "2-3": 1.0
+        }, 
+        "weeks.": {
+            "1-2": 0.5, 
+            "2": 0.25, 
+            "two": 0.25
+        }, 
+        "well.": {
+            "as": 1.0
+        }, 
+        "were": {
+            "that": 1.0
+        }, 
+        "while": {
+            "alcohol": 1.0
+        }, 
+        "will": {
+            "strips": 1.0
+        }, 
+        "with": {
+            ",": 0.2, 
+            "Take": 0.2, 
+            "and": 0.2, 
+            "clinic": 0.2, 
+            "up": 0.2
+        }, 
+        "worsening": {
+            ",": 1.0
+        }, 
+        "your": {
+            "with": 1.0
+        }, 
+        "zantac": {
+            "note:": 1.0
+        }, 
+        "|": {
+            "#obese#": 0.1111111111111111, 
+            "357205541": 0.1111111111111111, 
+            "46038105": 0.1111111111111111, 
+            "9460792": 0.1111111111111111, 
+            "AM": 0.1111111111111111, 
+            "AMC": 0.1111111111111111, 
+            "DIS": 0.1111111111111111, 
+            "|": 0.2222222222222222
+        }
+    }, 
+    "id": "308", 
+    "text": " 357205541 | AMC | 46038105 | | 9460792 | 10/29/2006 12:00:00 AM | morbid #obese# | | DIS | Admission Date: 2/24/2006 Report Status: Discharge Date: 10/29/2006 ****** FINAL DISCHARGE ORDERS ****** BOBLETT , TORY J 481-96-57-3 I Service: GGI DISCHARGE PATIENT ON: 5/13/06 AT 09:00 AM CONTINGENT UPON Not Applicable WILL D/C ORDER BE USED AS THE D/C SUMMARY: YES Attending: IMPERATORE , PETER C. , M.D. DISPOSITION: Home DISCHARGE MEDICATIONS: VOLTAREN ( DICLOFENAC SODIUM ) 75 MG PO BID PRN Pain Instructions: please crush Food/Drug Interaction Instruction Take with food Alert overridden: Override added on 5/13/06 by : SERIOUS INTERACTION: KETOROLAC TROMETHAMINE , INJ & DICLOFENAC Reason for override: aware COLACE ( DOCUSATE SODIUM ) 100 MG PO BID Instructions: syrup AROMASIN ( EXEMESTANE ) 25 MG PO BEDTIME Starting IN AM ( 5/11 ) HOLD IF: NPO Instructions: crush before giving Number of Doses Required ( approximate ): 2 HYDROCHLOROTHIAZIDE 25 MG PO DAILY Instructions: please crush ROXICET ORAL SOLUTION ( OXYCODONE+APAP LIQUID ) 5-10 MILLILITERS PO Q4H PRN Pain ZANTAC SYRUP ( RANITIDINE HCL SYRUP ) 150 MG PO BID ZOCOR ( SIMVASTATIN ) 20 MG PO BEDTIME Instructions: please crush Food/Drug Interaction Instruction Avoid grapefruit unless MD instructs otherwise. ACTIGALL ( URSODIOL ) 300 MG PO BID DIET: stage II gastric bypass ACTIVITY: Walking as tolerated FOLLOW UP APPOINTMENT( S ): Please call Dr. Ziebol immediately to schedule follow-up appointment , Please see primary care doctor in 2-3 weeks for medication management , ALLERGY: LEVOFLOXACIN ADMIT DIAGNOSIS: morbid #obese# PRINCIPAL DISCHARGE DIAGNOSIS ;Responsible After Study for Causing Admission ) morbid #obese# OTHER DIAGNOSIS;Conditions , Infections , Complications , affecting Treatment/Stay PMH HTN Hyperlipidemia Left breast cancer s/p lumpectomy , chemo , XRT Adenomatous polyp s/p excision Obstructive sleep apnea , uses CPAP #asthma# GERD Hiatal hernia OA Gallstones Hepatic cyst Venous stasis LLE PSH Left breast lumpectomy , October 2005 Left breast biopsy , left axillary LN biopsy , October 2005 STSG venous stasis ulcer on LLE , April 2003 Debridement left venous stasis ulcer , April 2003 Hysterectomy L knee tibial osteotomy Umbilical hernia repair Jaw surgery OPERATIONS AND PROCEDURES: laparoscopic roux-en-y gastric bypass OTHER TREATMENTS/PROCEDURES ( NOT IN O.R. ) none BRIEF RESUME OF HOSPITAL COURSE: Patient was admitted to the Foundtah Medical Center surgery service after undergoing LRYGB. No concerning intraoperative events occurred; please see dictated operative note for details. Patient was transferred to the floor from the PACU in stable condition. Patient had adequate pain control and no issues overnight into POD1. The patient had an UGI on POD1 and 2 that were negative for obstruction or leak but did not show contrast past the pouch. She did vommit POD 1 , but was able to tolerate the contrast on POD2. Her lack of empting thought secondary to edema at surgical site and it resolved by POD 3. The patient was then started on stage I gastric bypass diet and advanced the following day to a Stage II diet that was tolerated as well. JP draion removed POD 6. The remainder of the hospital course was relatively unremarkable , and the pateint was discharged in stable condition , ambulating and voiding independently , and with adequate pain control. At discharge the incision was C/D/I , with no evidence of hematoma collection or infection. The patient was given explicit instructions to follow-up in clinic with Dr. Jaffray in 1-2 weeks. ADDITIONAL COMMENTS: You may shower 2 days after surgery , but do not tub bathe , swim , soak , or scrub incision for 2 weeks. Bandage strips will fall off over time. Seek medical attention for fevers ( temp>101.5 ) , worsening pain , drainage or excessive bleeding from incision , chest pain , shortness of breath , or any other symptoms of concern. Follow up with your surgeon in 1-2 weeks. Please do not drive or consume alcohol while taking pain medications. Resume home medications , but please note: zantac syrup is to replace nexium. Crush all medicines. ***Please note- START actigall in two weeks. DISCHARGE CONDITION: Stable TO DO/PLAN: No dictated summary ENTERED BY: PUCKET , CHESTER C. , M.D. ( RD060 ) 5/13/06 @ 09:26 AM ****** END OF DISCHARGE ORDERS ******", 
+    "tri": {
+        "#asthma#": {
+            "uses~CPAP": 1.0
+        }, 
+        "#obese#": {
+            ")~morbid": 0.3333333333333333, 
+            "DIAGNOSIS:~morbid": 0.3333333333333333, 
+            "|~morbid": 0.3333333333333333
+        }, 
+        "&": {
+            ",~INJ": 1.0
+        }, 
+        "(": {
+            ",~M.D.": 0.08333333333333333, 
+            "BID~ZOCOR": 0.08333333333333333, 
+            "Doses~Required": 0.08333333333333333, 
+            "IN~AM": 0.08333333333333333, 
+            "MEDICATIONS:~VOLTAREN": 0.08333333333333333, 
+            "ORAL~SOLUTION": 0.08333333333333333, 
+            "OTHER~TREATMENTS/PROCEDURES": 0.08333333333333333, 
+            "ZANTAC~SYRUP": 0.08333333333333333, 
+            "aware~COLACE": 0.08333333333333333, 
+            "for~fevers": 0.08333333333333333, 
+            "otherwise.~ACTIGALL": 0.08333333333333333, 
+            "syrup~AROMASIN": 0.08333333333333333
+        }, 
+        ")": {
+            "(~5/11": 0.08333333333333333, 
+            "(~EXEMESTANE": 0.08333333333333333, 
+            "(~RD060": 0.08333333333333333, 
+            "(~SIMVASTATIN": 0.08333333333333333, 
+            "(~URSODIOL": 0.08333333333333333, 
+            "(~temp>101.5": 0.08333333333333333, 
+            "Causing~Admission": 0.08333333333333333, 
+            "DICLOFENAC~SODIUM": 0.08333333333333333, 
+            "DOCUSATE~SODIUM": 0.08333333333333333, 
+            "HCL~SYRUP": 0.08333333333333333, 
+            "IN~O.R.": 0.08333333333333333, 
+            "OXYCODONE+APAP~LIQUID": 0.08333333333333333
+        }, 
+        "):": {
+            "(~approximate": 0.5, 
+            "APPOINTMENT(~S": 0.5
+        }, 
+        "******": {
+            "09:26~AM": 0.25, 
+            "DISCHARGE~ORDERS": 0.5, 
+            "Date:~10/29/2006": 0.25
+        }, 
+        "***Please": {
+            "all~medicines.": 1.0
+        }, 
+        ",": {
+            "******~BOBLETT": 0.029411764705882353, 
+            ",~Complications": 0.029411764705882353, 
+            ",~Infections": 0.029411764705882353, 
+            ",~chemo": 0.029411764705882353, 
+            ",~soak": 0.029411764705882353, 
+            ",~swim": 0.029411764705882353, 
+            "Attending:~IMPERATORE": 0.029411764705882353, 
+            "BY:~PUCKET": 0.029411764705882353, 
+            "CHESTER~C.": 0.029411764705882353, 
+            "KETOROLAC~TROMETHAMINE": 0.029411764705882353, 
+            "LN~biopsy": 0.029411764705882353, 
+            "OTHER~DIAGNOSIS;Conditions": 0.029411764705882353, 
+            "PETER~C.": 0.029411764705882353, 
+            "POD~1": 0.029411764705882353, 
+            "after~surgery": 0.029411764705882353, 
+            "breast~biopsy": 0.029411764705882353, 
+            "breast~lumpectomy": 0.029411764705882353, 
+            "chest~pain": 0.029411764705882353, 
+            "follow-up~appointment": 0.029411764705882353, 
+            "from~incision": 0.029411764705882353, 
+            "home~medications": 0.029411764705882353, 
+            "medication~management": 0.029411764705882353, 
+            "of~breath": 0.029411764705882353, 
+            "on~LLE": 0.029411764705882353, 
+            "relatively~unremarkable": 0.029411764705882353, 
+            "s/p~lumpectomy": 0.029411764705882353, 
+            "sleep~apnea": 0.029411764705882353, 
+            "stable~condition": 0.029411764705882353, 
+            "stasis~ulcer": 0.029411764705882353, 
+            "temp>101.5~)": 0.029411764705882353, 
+            "tub~bathe": 0.029411764705882353, 
+            "voiding~independently": 0.029411764705882353, 
+            "was~C/D/I": 0.029411764705882353, 
+            "worsening~pain": 0.029411764705882353
+        }, 
+        "09:00": {
+            "5/13/06~AT": 1.0
+        }, 
+        "09:26": {
+            "5/13/06~@": 1.0
+        }, 
+        "1": {
+            "vommit~POD": 1.0
+        }, 
+        "1-2": {
+            "Jaffray~in": 0.5, 
+            "surgeon~in": 0.5
+        }, 
+        "10/29/2006": {
+            "9460792~|": 0.5, 
+            "Discharge~Date:": 0.5
+        }, 
+        "100": {
+            "SODIUM~)": 1.0
+        }, 
+        "12:00:00": {
+            "|~10/29/2006": 1.0
+        }, 
+        "150": {
+            "SYRUP~)": 1.0
+        }, 
+        "2": {
+            "POD1~and": 0.25, 
+            "approximate~):": 0.25, 
+            "incision~for": 0.25, 
+            "may~shower": 0.25
+        }, 
+        "2-3": {
+            "doctor~in": 1.0
+        }, 
+        "2/24/2006": {
+            "Admission~Date:": 1.0
+        }, 
+        "20": {
+            "SIMVASTATIN~)": 1.0
+        }, 
+        "2003": {
+            ",~April": 1.0
+        }, 
+        "2005": {
+            ",~October": 1.0
+        }, 
+        "25": {
+            "2~HYDROCHLOROTHIAZIDE": 0.5, 
+            "EXEMESTANE~)": 0.5
+        }, 
+        "3.": {
+            "by~POD": 1.0
+        }, 
+        "300": {
+            "URSODIOL~)": 1.0
+        }, 
+        "46038105": {
+            "AMC~|": 1.0
+        }, 
+        "481-96-57-3": {
+            "TORY~J": 1.0
+        }, 
+        "5-10": {
+            "LIQUID~)": 1.0
+        }, 
+        "5/11": {
+            "AM~(": 1.0
+        }, 
+        "5/13/06": {
+            "PATIENT~ON:": 0.3333333333333333, 
+            "RD060~)": 0.3333333333333333, 
+            "added~on": 0.3333333333333333
+        }, 
+        "6.": {
+            "removed~POD": 1.0
+        }, 
+        "75": {
+            "SODIUM~)": 1.0
+        }, 
+        "9460792": {
+            "|~|": 1.0
+        }, 
+        ":": {
+            "5/13/06~by": 1.0
+        }, 
+        ";Responsible": {
+            "DISCHARGE~DIAGNOSIS": 1.0
+        }, 
+        "@": {
+            ")~5/13/06": 1.0
+        }, 
+        "ACTIGALL": {
+            "instructs~otherwise.": 1.0
+        }, 
+        "ACTIVITY:": {
+            "gastric~bypass": 1.0
+        }, 
+        "ADDITIONAL": {
+            "1-2~weeks.": 1.0
+        }, 
+        "ADMIT": {
+            "ALLERGY:~LEVOFLOXACIN": 1.0
+        }, 
+        "ALLERGY:": {
+            "management~,": 1.0
+        }, 
+        "AM": {
+            "10/29/2006~12:00:00": 0.25, 
+            "@~09:26": 0.25, 
+            "AT~09:00": 0.25, 
+            "Starting~IN": 0.25
+        }, 
+        "AMC": {
+            "357205541~|": 1.0
+        }, 
+        "AND": {
+            "surgery~OPERATIONS": 1.0
+        }, 
+        "APPOINTMENT(": {
+            "FOLLOW~UP": 1.0
+        }, 
+        "AROMASIN": {
+            "Instructions:~syrup": 1.0
+        }, 
+        "AS": {
+            "BE~USED": 1.0
+        }, 
+        "AT": {
+            "ON:~5/13/06": 1.0
+        }, 
+        "Adenomatous": {
+            ",~XRT": 1.0
+        }, 
+        "Admission": {
+            "DIS~|": 0.5, 
+            "for~Causing": 0.5
+        }, 
+        "After": {
+            "DIAGNOSIS~;Responsible": 1.0
+        }, 
+        "Alert": {
+            "with~food": 1.0
+        }, 
+        "Applicable": {
+            "UPON~Not": 1.0
+        }, 
+        "April": {
+            "LLE~,": 0.5, 
+            "ulcer~,": 0.5
+        }, 
+        "At": {
+            "pain~control.": 1.0
+        }, 
+        "Attending:": {
+            "SUMMARY:~YES": 1.0
+        }, 
+        "Avoid": {
+            "Interaction~Instruction": 1.0
+        }, 
+        "BE": {
+            "D/C~ORDER": 1.0
+        }, 
+        "BEDTIME": {
+            "MG~PO": 1.0
+        }, 
+        "BID": {
+            "MG~PO": 1.0
+        }, 
+        "BOBLETT": {
+            "ORDERS~******": 1.0
+        }, 
+        "BRIEF": {
+            ")~none": 1.0
+        }, 
+        "BY:": {
+            "summary~ENTERED": 1.0
+        }, 
+        "Bandage": {
+            "2~weeks.": 1.0
+        }, 
+        "C.": {
+            ",~CHESTER": 0.5, 
+            ",~PETER": 0.5
+        }, 
+        "C/D/I": {
+            "incision~was": 1.0
+        }, 
+        "CHESTER": {
+            "PUCKET~,": 1.0
+        }, 
+        "COLACE": {
+            "override:~aware": 1.0
+        }, 
+        "COMMENTS:": {
+            "weeks.~ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            "weeks.~DISCHARGE": 1.0
+        }, 
+        "CONTINGENT": {
+            "09:00~AM": 1.0
+        }, 
+        "COURSE:": {
+            "OF~HOSPITAL": 1.0
+        }, 
+        "CPAP": {
+            ",~uses": 1.0
+        }, 
+        "Causing": {
+            "Study~for": 1.0
+        }, 
+        "Center": {
+            "Foundtah~Medical": 1.0
+        }, 
+        "Complications": {
+            "Infections~,": 1.0
+        }, 
+        "Crush": {
+            "replace~nexium.": 1.0
+        }, 
+        "D/C": {
+            "AS~THE": 0.5, 
+            "Applicable~WILL": 0.5
+        }, 
+        "DAILY": {
+            "MG~PO": 1.0
+        }, 
+        "DIAGNOSIS": {
+            "PRINCIPAL~DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "LEVOFLOXACIN~ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "#obese#~OTHER": 1.0
+        }, 
+        "DICLOFENAC": {
+            "INJ~&": 0.5, 
+            "VOLTAREN~(": 0.5
+        }, 
+        "DIET:": {
+            "PO~BID": 1.0
+        }, 
+        "DIS": {
+            "|~|": 1.0
+        }, 
+        "DISCHARGE": {
+            "#obese#~PRINCIPAL": 0.16666666666666666, 
+            "******~FINAL": 0.16666666666666666, 
+            "DISPOSITION:~Home": 0.16666666666666666, 
+            "END~OF": 0.16666666666666666, 
+            "Service:~GGI": 0.16666666666666666, 
+            "two~weeks.": 0.16666666666666666
+        }, 
+        "DISPOSITION:": {
+            ",~M.D.": 1.0
+        }, 
+        "DO/PLAN:": {
+            "Stable~TO": 1.0
+        }, 
+        "DOCUSATE": {
+            "COLACE~(": 1.0
+        }, 
+        "Date:": {
+            "Status:~Discharge": 0.5, 
+            "|~Admission": 0.5
+        }, 
+        "Debridement": {
+            "April~2003": 1.0
+        }, 
+        "Discharge": {
+            "Report~Status:": 1.0
+        }, 
+        "Doses": {
+            "Number~of": 1.0
+        }, 
+        "Dr.": {
+            "Please~call": 0.5, 
+            "clinic~with": 0.5
+        }, 
+        "END": {
+            "AM~******": 1.0
+        }, 
+        "ENTERED": {
+            "dictated~summary": 1.0
+        }, 
+        "EXEMESTANE": {
+            "AROMASIN~(": 1.0
+        }, 
+        "FINAL": {
+            "10/29/2006~******": 1.0
+        }, 
+        "FOLLOW": {
+            "as~tolerated": 1.0
+        }, 
+        "Follow": {
+            "of~concern.": 1.0
+        }, 
+        "Food/Drug": {
+            "please~crush": 1.0
+        }, 
+        "Foundtah": {
+            "to~the": 1.0
+        }, 
+        "GERD": {
+            "CPAP~#asthma#": 1.0
+        }, 
+        "GGI": {
+            "I~Service:": 1.0
+        }, 
+        "Gallstones": {
+            "hernia~OA": 1.0
+        }, 
+        "HCL": {
+            "(~RANITIDINE": 1.0
+        }, 
+        "HOLD": {
+            "5/11~)": 1.0
+        }, 
+        "HOSPITAL": {
+            "RESUME~OF": 1.0
+        }, 
+        "HTN": {
+            "Treatment/Stay~PMH": 1.0
+        }, 
+        "HYDROCHLOROTHIAZIDE": {
+            "):~2": 1.0
+        }, 
+        "Hepatic": {
+            "OA~Gallstones": 1.0
+        }, 
+        "Her": {
+            "on~POD2.": 1.0
+        }, 
+        "Hiatal": {
+            "#asthma#~GERD": 1.0
+        }, 
+        "Home": {
+            "M.D.~DISPOSITION:": 1.0
+        }, 
+        "Hyperlipidemia": {
+            "PMH~HTN": 1.0
+        }, 
+        "Hysterectomy": {
+            "April~2003": 1.0
+        }, 
+        "I": {
+            "J~481-96-57-3": 0.5, 
+            "on~stage": 0.5
+        }, 
+        "IF:": {
+            ")~HOLD": 1.0
+        }, 
+        "II": {
+            "DIET:~stage": 0.5, 
+            "a~Stage": 0.5
+        }, 
+        "IMPERATORE": {
+            "YES~Attending:": 1.0
+        }, 
+        "IN": {
+            "(~NOT": 0.5, 
+            "BEDTIME~Starting": 0.5
+        }, 
+        "INJ": {
+            "TROMETHAMINE~,": 1.0
+        }, 
+        "INTERACTION:": {
+            ":~SERIOUS": 1.0
+        }, 
+        "Infections": {
+            "DIAGNOSIS;Conditions~,": 1.0
+        }, 
+        "Instruction": {
+            "Food/Drug~Interaction": 1.0
+        }, 
+        "Instructions:": {
+            "IF:~NPO": 0.2, 
+            "PO~BEDTIME": 0.2, 
+            "PO~BID": 0.2, 
+            "PO~DAILY": 0.2, 
+            "PRN~Pain": 0.2
+        }, 
+        "Interaction": {
+            "crush~Food/Drug": 1.0
+        }, 
+        "J": {
+            ",~TORY": 1.0
+        }, 
+        "JP": {
+            "as~well.": 1.0
+        }, 
+        "Jaffray": {
+            "with~Dr.": 1.0
+        }, 
+        "Jaw": {
+            "hernia~repair": 1.0
+        }, 
+        "KETOROLAC": {
+            "SERIOUS~INTERACTION:": 1.0
+        }, 
+        "L": {
+            "2003~Hysterectomy": 1.0
+        }, 
+        "LEVOFLOXACIN": {
+            ",~ALLERGY:": 1.0
+        }, 
+        "LIQUID": {
+            "(~OXYCODONE+APAP": 1.0
+        }, 
+        "LLE": {
+            "Venous~stasis": 0.5, 
+            "ulcer~on": 0.5
+        }, 
+        "LN": {
+            "left~axillary": 1.0
+        }, 
+        "LRYGB.": {
+            "after~undergoing": 1.0
+        }, 
+        "Left": {
+            "HTN~Hyperlipidemia": 0.3333333333333333, 
+            "LLE~PSH": 0.3333333333333333, 
+            "October~2005": 0.3333333333333333
+        }, 
+        "M.D.": {
+            "C.~,": 1.0
+        }, 
+        "MD": {
+            "grapefruit~unless": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "Home~DISCHARGE": 1.0
+        }, 
+        "MG": {
+            ")~100": 0.14285714285714285, 
+            ")~150": 0.14285714285714285, 
+            ")~20": 0.14285714285714285, 
+            ")~25": 0.14285714285714285, 
+            ")~300": 0.14285714285714285, 
+            ")~75": 0.14285714285714285, 
+            "HYDROCHLOROTHIAZIDE~25": 0.14285714285714285
+        }, 
+        "MILLILITERS": {
+            ")~5-10": 1.0
+        }, 
+        "Medical": {
+            "the~Foundtah": 1.0
+        }, 
+        "NOT": {
+            "TREATMENTS/PROCEDURES~(": 1.0
+        }, 
+        "NPO": {
+            "HOLD~IF:": 1.0
+        }, 
+        "No": {
+            "TO~DO/PLAN:": 0.5, 
+            "undergoing~LRYGB.": 0.5
+        }, 
+        "Not": {
+            "CONTINGENT~UPON": 1.0
+        }, 
+        "Number": {
+            "before~giving": 1.0
+        }, 
+        "O.R.": {
+            "NOT~IN": 1.0
+        }, 
+        "OA": {
+            "Hiatal~hernia": 1.0
+        }, 
+        "OF": {
+            "******~END": 0.5, 
+            "BRIEF~RESUME": 0.5
+        }, 
+        "ON:": {
+            "DISCHARGE~PATIENT": 1.0
+        }, 
+        "OPERATIONS": {
+            "Jaw~surgery": 1.0
+        }, 
+        "ORAL": {
+            "crush~ROXICET": 1.0
+        }, 
+        "ORDER": {
+            "WILL~D/C": 1.0
+        }, 
+        "ORDERS": {
+            "FINAL~DISCHARGE": 0.5, 
+            "OF~DISCHARGE": 0.5
+        }, 
+        "OTHER": {
+            "gastric~bypass": 0.5, 
+            "morbid~#obese#": 0.5
+        }, 
+        "OXYCODONE+APAP": {
+            "SOLUTION~(": 1.0
+        }, 
+        "Obstructive": {
+            "s/p~excision": 1.0
+        }, 
+        "October": {
+            "biopsy~,": 0.5, 
+            "lumpectomy~,": 0.5
+        }, 
+        "Override": {
+            "Alert~overridden:": 1.0
+        }, 
+        "PACU": {
+            "from~the": 1.0
+        }, 
+        "PATIENT": {
+            "GGI~DISCHARGE": 1.0
+        }, 
+        "PETER": {
+            "IMPERATORE~,": 1.0
+        }, 
+        "PMH": {
+            "affecting~Treatment/Stay": 1.0
+        }, 
+        "PO": {
+            "100~MG": 0.125, 
+            "150~MG": 0.125, 
+            "20~MG": 0.125, 
+            "25~MG": 0.25, 
+            "300~MG": 0.125, 
+            "5-10~MILLILITERS": 0.125, 
+            "75~MG": 0.125
+        }, 
+        "POD": {
+            "did~vommit": 0.3333333333333333, 
+            "draion~removed": 0.3333333333333333, 
+            "resolved~by": 0.3333333333333333
+        }, 
+        "POD1": {
+            "UGI~on": 1.0
+        }, 
+        "POD1.": {
+            "overnight~into": 1.0
+        }, 
+        "POD2.": {
+            "contrast~on": 1.0
+        }, 
+        "PRINCIPAL": {
+            "morbid~#obese#": 1.0
+        }, 
+        "PRN": {
+            "PO~BID": 0.5, 
+            "PO~Q4H": 0.5
+        }, 
+        "PROCEDURES:": {
+            "OPERATIONS~AND": 1.0
+        }, 
+        "PSH": {
+            "stasis~LLE": 1.0
+        }, 
+        "PUCKET": {
+            "ENTERED~BY:": 1.0
+        }, 
+        "Pain": {
+            "BID~PRN": 0.5, 
+            "Q4H~PRN": 0.5
+        }, 
+        "Patient": {
+            "HOSPITAL~COURSE:": 0.3333333333333333, 
+            "for~details.": 0.3333333333333333, 
+            "stable~condition.": 0.3333333333333333
+        }, 
+        "Please": {
+            "1-2~weeks.": 0.3333333333333333, 
+            "S~):": 0.3333333333333333, 
+            "appointment~,": 0.3333333333333333
+        }, 
+        "Q4H": {
+            "MILLILITERS~PO": 1.0
+        }, 
+        "RANITIDINE": {
+            "SYRUP~(": 1.0
+        }, 
+        "RD060": {
+            "M.D.~(": 1.0
+        }, 
+        "RESUME": {
+            "none~BRIEF": 1.0
+        }, 
+        "ROXICET": {
+            "please~crush": 1.0
+        }, 
+        "Reason": {
+            "&~DICLOFENAC": 1.0
+        }, 
+        "Report": {
+            "Date:~2/24/2006": 1.0
+        }, 
+        "Required": {
+            "of~Doses": 1.0
+        }, 
+        "Resume": {
+            "pain~medications.": 1.0
+        }, 
+        "S": {
+            "UP~APPOINTMENT(": 1.0
+        }, 
+        "SERIOUS": {
+            "by~:": 1.0
+        }, 
+        "SIMVASTATIN": {
+            "ZOCOR~(": 1.0
+        }, 
+        "SODIUM": {
+            "(~DICLOFENAC": 0.5, 
+            "(~DOCUSATE": 0.5
+        }, 
+        "SOLUTION": {
+            "ROXICET~ORAL": 1.0
+        }, 
+        "START": {
+            "***Please~note-": 1.0
+        }, 
+        "STSG": {
+            "October~2005": 1.0
+        }, 
+        "SUMMARY:": {
+            "THE~D/C": 1.0
+        }, 
+        "SYRUP": {
+            "Pain~ZANTAC": 0.5, 
+            "RANITIDINE~HCL": 0.5
+        }, 
+        "Seek": {
+            "over~time.": 1.0
+        }, 
+        "Service:": {
+            "481-96-57-3~I": 1.0
+        }, 
+        "She": {
+            "the~pouch.": 1.0
+        }, 
+        "Stable": {
+            "DISCHARGE~CONDITION:": 1.0
+        }, 
+        "Stage": {
+            "to~a": 1.0
+        }, 
+        "Starting": {
+            "PO~BEDTIME": 1.0
+        }, 
+        "Status:": {
+            "2/24/2006~Report": 1.0
+        }, 
+        "Study": {
+            ";Responsible~After": 1.0
+        }, 
+        "THE": {
+            "USED~AS": 1.0
+        }, 
+        "TO": {
+            "CONDITION:~Stable": 1.0
+        }, 
+        "TORY": {
+            "BOBLETT~,": 1.0
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "bypass~OTHER": 1.0
+        }, 
+        "TROMETHAMINE": {
+            "INTERACTION:~KETOROLAC": 1.0
+        }, 
+        "Take": {
+            "Interaction~Instruction": 1.0
+        }, 
+        "The": {
+            "POD~3.": 0.25, 
+            "POD~6.": 0.25, 
+            "into~POD1.": 0.25, 
+            "or~infection.": 0.25
+        }, 
+        "Treatment/Stay": {
+            ",~affecting": 1.0
+        }, 
+        "UGI": {
+            "had~an": 1.0
+        }, 
+        "UP": {
+            "tolerated~FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "AM~CONTINGENT": 1.0
+        }, 
+        "URSODIOL": {
+            "ACTIGALL~(": 1.0
+        }, 
+        "USED": {
+            "ORDER~BE": 1.0
+        }, 
+        "Umbilical": {
+            "tibial~osteotomy": 1.0
+        }, 
+        "VOLTAREN": {
+            "DISCHARGE~MEDICATIONS:": 1.0
+        }, 
+        "Venous": {
+            "Hepatic~cyst": 1.0
+        }, 
+        "WILL": {
+            "Not~Applicable": 1.0
+        }, 
+        "Walking": {
+            "bypass~ACTIVITY:": 1.0
+        }, 
+        "XRT": {
+            "chemo~,": 1.0
+        }, 
+        "YES": {
+            "D/C~SUMMARY:": 1.0
+        }, 
+        "You": {
+            "ADDITIONAL~COMMENTS:": 1.0
+        }, 
+        "ZANTAC": {
+            "PRN~Pain": 1.0
+        }, 
+        "ZOCOR": {
+            "PO~BID": 1.0
+        }, 
+        "Ziebol": {
+            "call~Dr.": 1.0
+        }, 
+        "a": {
+            "day~to": 1.0
+        }, 
+        "able": {
+            "but~was": 1.0
+        }, 
+        "actigall": {
+            "note-~START": 1.0
+        }, 
+        "added": {
+            "overridden:~Override": 1.0
+        }, 
+        "adequate": {
+            "Patient~had": 0.5, 
+            "and~with": 0.5
+        }, 
+        "admitted": {
+            "Patient~was": 1.0
+        }, 
+        "advanced": {
+            "diet~and": 1.0
+        }, 
+        "affecting": {
+            "Complications~,": 1.0
+        }, 
+        "after": {
+            "2~days": 0.5, 
+            "surgery~service": 0.5
+        }, 
+        "alcohol": {
+            "or~consume": 1.0
+        }, 
+        "all": {
+            "nexium.~Crush": 1.0
+        }, 
+        "ambulating": {
+            "condition~,": 1.0
+        }, 
+        "an": {
+            "patient~had": 1.0
+        }, 
+        "and": {
+            ",~ambulating": 0.14285714285714285, 
+            "bypass~diet": 0.14285714285714285, 
+            "independently~,": 0.14285714285714285, 
+            "on~POD1": 0.14285714285714285, 
+            "pain~control": 0.14285714285714285, 
+            "surgical~site": 0.14285714285714285, 
+            "unremarkable~,": 0.14285714285714285
+        }, 
+        "any": {
+            ",~or": 1.0
+        }, 
+        "apnea": {
+            "Obstructive~sleep": 1.0
+        }, 
+        "appointment": {
+            "schedule~follow-up": 1.0
+        }, 
+        "approximate": {
+            "Required~(": 1.0
+        }, 
+        "as": {
+            "ACTIVITY:~Walking": 0.5, 
+            "was~tolerated": 0.5
+        }, 
+        "at": {
+            "to~edema": 1.0
+        }, 
+        "attention": {
+            "Seek~medical": 1.0
+        }, 
+        "aware": {
+            "for~override:": 1.0
+        }, 
+        "axillary": {
+            ",~left": 1.0
+        }, 
+        "bathe": {
+            "not~tub": 1.0
+        }, 
+        "before": {
+            "Instructions:~crush": 1.0
+        }, 
+        "biopsy": {
+            "Left~breast": 0.5, 
+            "axillary~LN": 0.5
+        }, 
+        "bleeding": {
+            "or~excessive": 1.0
+        }, 
+        "breast": {
+            "2005~Left": 0.3333333333333333, 
+            "Hyperlipidemia~Left": 0.3333333333333333, 
+            "PSH~Left": 0.3333333333333333
+        }, 
+        "breath": {
+            "shortness~of": 1.0
+        }, 
+        "but": {
+            "1~,": 0.25, 
+            "medications~,": 0.25, 
+            "or~leak": 0.25, 
+            "surgery~,": 0.25
+        }, 
+        "by": {
+            "it~resolved": 0.5, 
+            "on~5/13/06": 0.5
+        }, 
+        "bypass": {
+            "II~gastric": 0.3333333333333333, 
+            "I~gastric": 0.3333333333333333, 
+            "roux-en-y~gastric": 0.3333333333333333
+        }, 
+        "call": {
+            "):~Please": 1.0
+        }, 
+        "cancer": {
+            "Left~breast": 1.0
+        }, 
+        "care": {
+            "see~primary": 1.0
+        }, 
+        "chemo": {
+            "lumpectomy~,": 1.0
+        }, 
+        "chest": {
+            "incision~,": 1.0
+        }, 
+        "clinic": {
+            "follow-up~in": 1.0
+        }, 
+        "collection": {
+            "of~hematoma": 1.0
+        }, 
+        "concern.": {
+            "symptoms~of": 1.0
+        }, 
+        "concerning": {
+            "LRYGB.~No": 1.0
+        }, 
+        "condition": {
+            "in~stable": 1.0
+        }, 
+        "condition.": {
+            "in~stable": 1.0
+        }, 
+        "consume": {
+            "drive~or": 1.0
+        }, 
+        "contrast": {
+            "not~show": 0.5, 
+            "tolerate~the": 0.5
+        }, 
+        "control": {
+            "adequate~pain": 1.0
+        }, 
+        "control.": {
+            "adequate~pain": 1.0
+        }, 
+        "course": {
+            "the~hospital": 1.0
+        }, 
+        "crush": {
+            "Instructions:~please": 0.75, 
+            "NPO~Instructions:": 0.25
+        }, 
+        "cyst": {
+            "Gallstones~Hepatic": 1.0
+        }, 
+        "day": {
+            "the~following": 1.0
+        }, 
+        "days": {
+            "shower~2": 1.0
+        }, 
+        "details.": {
+            "note~for": 1.0
+        }, 
+        "dictated": {
+            "DO/PLAN:~No": 0.5, 
+            "please~see": 0.5
+        }, 
+        "did": {
+            "leak~but": 0.5, 
+            "pouch.~She": 0.5
+        }, 
+        "diet": {
+            "Stage~II": 0.5, 
+            "gastric~bypass": 0.5
+        }, 
+        "discharge": {
+            "control.~At": 1.0
+        }, 
+        "discharged": {
+            "pateint~was": 1.0
+        }, 
+        "do": {
+            ",~but": 0.5, 
+            "weeks.~Please": 0.5
+        }, 
+        "doctor": {
+            "primary~care": 1.0
+        }, 
+        "drainage": {
+            "pain~,": 1.0
+        }, 
+        "draion": {
+            "well.~JP": 1.0
+        }, 
+        "drive": {
+            "do~not": 1.0
+        }, 
+        "edema": {
+            "secondary~to": 1.0
+        }, 
+        "empting": {
+            "lack~of": 1.0
+        }, 
+        "events": {
+            "concerning~intraoperative": 1.0
+        }, 
+        "evidence": {
+            "with~no": 1.0
+        }, 
+        "excessive": {
+            "drainage~or": 1.0
+        }, 
+        "excision": {
+            "polyp~s/p": 1.0
+        }, 
+        "explicit": {
+            "was~given": 1.0
+        }, 
+        "fall": {
+            "strips~will": 1.0
+        }, 
+        "fevers": {
+            "attention~for": 1.0
+        }, 
+        "floor": {
+            "to~the": 1.0
+        }, 
+        "follow-up": {
+            "instructions~to": 0.5, 
+            "to~schedule": 0.5
+        }, 
+        "following": {
+            "advanced~the": 1.0
+        }, 
+        "food": {
+            "Take~with": 1.0
+        }, 
+        "for": {
+            "2-3~weeks": 0.14285714285714285, 
+            "After~Study": 0.14285714285714285, 
+            "DICLOFENAC~Reason": 0.14285714285714285, 
+            "medical~attention": 0.14285714285714285, 
+            "operative~note": 0.14285714285714285, 
+            "scrub~incision": 0.14285714285714285, 
+            "were~negative": 0.14285714285714285
+        }, 
+        "from": {
+            "excessive~bleeding": 0.5, 
+            "the~floor": 0.5
+        }, 
+        "gastric": {
+            "laparoscopic~roux-en-y": 0.3333333333333333, 
+            "stage~I": 0.3333333333333333, 
+            "stage~II": 0.3333333333333333
+        }, 
+        "given": {
+            "patient~was": 1.0
+        }, 
+        "giving": {
+            "crush~before": 1.0
+        }, 
+        "grapefruit": {
+            "Instruction~Avoid": 1.0
+        }, 
+        "had": {
+            "The~patient": 0.5, 
+            "condition.~Patient": 0.5
+        }, 
+        "hematoma": {
+            "evidence~of": 1.0
+        }, 
+        "hernia": {
+            "GERD~Hiatal": 0.5, 
+            "osteotomy~Umbilical": 0.5
+        }, 
+        "home": {
+            "medications.~Resume": 1.0
+        }, 
+        "hospital": {
+            "of~the": 1.0
+        }, 
+        "immediately": {
+            "Dr.~Ziebol": 1.0
+        }, 
+        "in": {
+            "Dr.~Jaffray": 0.14285714285714285, 
+            "START~actigall": 0.14285714285714285, 
+            "care~doctor": 0.14285714285714285, 
+            "the~PACU": 0.14285714285714285, 
+            "to~follow-up": 0.14285714285714285, 
+            "was~discharged": 0.14285714285714285, 
+            "your~surgeon": 0.14285714285714285
+        }, 
+        "incision": {
+            "bleeding~from": 0.3333333333333333, 
+            "discharge~the": 0.3333333333333333, 
+            "or~scrub": 0.3333333333333333
+        }, 
+        "independently": {
+            "and~voiding": 1.0
+        }, 
+        "infection.": {
+            "collection~or": 1.0
+        }, 
+        "instructions": {
+            "given~explicit": 1.0
+        }, 
+        "instructs": {
+            "unless~MD": 1.0
+        }, 
+        "into": {
+            "issues~overnight": 1.0
+        }, 
+        "intraoperative": {
+            "No~concerning": 1.0
+        }, 
+        "is": {
+            "zantac~syrup": 1.0
+        }, 
+        "issues": {
+            "and~no": 1.0
+        }, 
+        "it": {
+            "site~and": 1.0
+        }, 
+        "knee": {
+            "Hysterectomy~L": 1.0
+        }, 
+        "lack": {
+            "POD2.~Her": 1.0
+        }, 
+        "laparoscopic": {
+            "AND~PROCEDURES:": 1.0
+        }, 
+        "leak": {
+            "obstruction~or": 1.0
+        }, 
+        "left": {
+            "2003~Debridement": 0.5, 
+            "biopsy~,": 0.5
+        }, 
+        "lumpectomy": {
+            "Left~breast": 0.5, 
+            "cancer~s/p": 0.5
+        }, 
+        "management": {
+            "for~medication": 1.0
+        }, 
+        "may": {
+            "COMMENTS:~You": 1.0
+        }, 
+        "medical": {
+            "time.~Seek": 1.0
+        }, 
+        "medication": {
+            "weeks~for": 1.0
+        }, 
+        "medications": {
+            "Resume~home": 1.0
+        }, 
+        "medications.": {
+            "taking~pain": 1.0
+        }, 
+        "medicines.": {
+            "Crush~all": 1.0
+        }, 
+        "morbid": {
+            "ADMIT~DIAGNOSIS:": 0.3333333333333333, 
+            "AM~|": 0.3333333333333333, 
+            "Admission~)": 0.3333333333333333
+        }, 
+        "negative": {
+            "that~were": 1.0
+        }, 
+        "nexium.": {
+            "to~replace": 1.0
+        }, 
+        "no": {
+            ",~with": 0.5, 
+            "control~and": 0.5
+        }, 
+        "none": {
+            "O.R.~)": 1.0
+        }, 
+        "not": {
+            "Please~do": 0.3333333333333333, 
+            "but~did": 0.3333333333333333, 
+            "but~do": 0.3333333333333333
+        }, 
+        "note": {
+            "dictated~operative": 1.0
+        }, 
+        "note-": {
+            "medicines.~***Please": 1.0
+        }, 
+        "note:": {
+            "but~please": 1.0
+        }, 
+        "obstruction": {
+            "negative~for": 1.0
+        }, 
+        "occurred;": {
+            "intraoperative~events": 1.0
+        }, 
+        "of": {
+            ",~shortness": 0.16666666666666666, 
+            "Her~lack": 0.16666666666666666, 
+            "The~remainder": 0.16666666666666666, 
+            "giving~Number": 0.16666666666666666, 
+            "no~evidence": 0.16666666666666666, 
+            "other~symptoms": 0.16666666666666666
+        }, 
+        "off": {
+            "will~fall": 1.0
+        }, 
+        "on": {
+            "Override~added": 0.2, 
+            "an~UGI": 0.2, 
+            "stasis~ulcer": 0.2, 
+            "then~started": 0.2, 
+            "the~contrast": 0.2
+        }, 
+        "operative": {
+            "see~dictated": 1.0
+        }, 
+        "or": {
+            ",~drainage": 0.16666666666666666, 
+            "breath~,": 0.16666666666666666, 
+            "for~obstruction": 0.16666666666666666, 
+            "hematoma~collection": 0.16666666666666666, 
+            "not~drive": 0.16666666666666666, 
+            "soak~,": 0.16666666666666666
+        }, 
+        "osteotomy": {
+            "knee~tibial": 1.0
+        }, 
+        "other": {
+            "or~any": 1.0
+        }, 
+        "otherwise.": {
+            "MD~instructs": 1.0
+        }, 
+        "over": {
+            "fall~off": 1.0
+        }, 
+        "overnight": {
+            "no~issues": 1.0
+        }, 
+        "overridden:": {
+            "food~Alert": 1.0
+        }, 
+        "override:": {
+            "Reason~for": 1.0
+        }, 
+        "pain": {
+            ",~chest": 0.2, 
+            ",~worsening": 0.2, 
+            "had~adequate": 0.2, 
+            "while~taking": 0.2, 
+            "with~adequate": 0.2
+        }, 
+        "past": {
+            "show~contrast": 1.0
+        }, 
+        "pateint": {
+            "and~the": 1.0
+        }, 
+        "patient": {
+            "3.~The": 0.3333333333333333, 
+            "POD1.~The": 0.3333333333333333, 
+            "infection.~The": 0.3333333333333333
+        }, 
+        "please": {
+            ",~but": 0.2, 
+            "BEDTIME~Instructions:": 0.2, 
+            "DAILY~Instructions:": 0.2, 
+            "Pain~Instructions:": 0.2, 
+            "events~occurred;": 0.2
+        }, 
+        "polyp": {
+            "XRT~Adenomatous": 1.0
+        }, 
+        "pouch.": {
+            "past~the": 1.0
+        }, 
+        "primary": {
+            "Please~see": 1.0
+        }, 
+        "relatively": {
+            "course~was": 1.0
+        }, 
+        "remainder": {
+            "6.~The": 1.0
+        }, 
+        "removed": {
+            "JP~draion": 1.0
+        }, 
+        "repair": {
+            "Umbilical~hernia": 1.0
+        }, 
+        "replace": {
+            "is~to": 1.0
+        }, 
+        "resolved": {
+            "and~it": 1.0
+        }, 
+        "roux-en-y": {
+            "PROCEDURES:~laparoscopic": 1.0
+        }, 
+        "s/p": {
+            "Adenomatous~polyp": 0.5, 
+            "breast~cancer": 0.5
+        }, 
+        "schedule": {
+            "immediately~to": 1.0
+        }, 
+        "scrub": {
+            ",~or": 1.0
+        }, 
+        "secondary": {
+            "empting~thought": 1.0
+        }, 
+        "see": {
+            ",~Please": 0.5, 
+            "occurred;~please": 0.5
+        }, 
+        "service": {
+            "Center~surgery": 1.0
+        }, 
+        "shortness": {
+            "pain~,": 1.0
+        }, 
+        "show": {
+            "did~not": 1.0
+        }, 
+        "shower": {
+            "You~may": 1.0
+        }, 
+        "site": {
+            "at~surgical": 1.0
+        }, 
+        "sleep": {
+            "excision~Obstructive": 1.0
+        }, 
+        "soak": {
+            "swim~,": 1.0
+        }, 
+        "stable": {
+            "PACU~in": 0.5, 
+            "discharged~in": 0.5
+        }, 
+        "stage": {
+            "BID~DIET:": 0.5, 
+            "started~on": 0.5
+        }, 
+        "started": {
+            "was~then": 1.0
+        }, 
+        "stasis": {
+            "STSG~venous": 0.3333333333333333, 
+            "cyst~Venous": 0.3333333333333333, 
+            "left~venous": 0.3333333333333333
+        }, 
+        "strips": {
+            "weeks.~Bandage": 1.0
+        }, 
+        "summary": {
+            "No~dictated": 1.0
+        }, 
+        "surgeon": {
+            "with~your": 1.0
+        }, 
+        "surgery": {
+            "Medical~Center": 0.3333333333333333, 
+            "days~after": 0.3333333333333333, 
+            "repair~Jaw": 0.3333333333333333
+        }, 
+        "surgical": {
+            "edema~at": 1.0
+        }, 
+        "swim": {
+            "bathe~,": 1.0
+        }, 
+        "symptoms": {
+            "any~other": 1.0
+        }, 
+        "syrup": {
+            "BID~Instructions:": 0.5, 
+            "note:~zantac": 0.5
+        }, 
+        "taking": {
+            "alcohol~while": 1.0
+        }, 
+        "temp>101.5": {
+            "fevers~(": 1.0
+        }, 
+        "that": {
+            "II~diet": 0.5, 
+            "and~2": 0.5
+        }, 
+        "the": {
+            ",~and": 0.1111111111111111, 
+            "At~discharge": 0.1111111111111111, 
+            "admitted~to": 0.1111111111111111, 
+            "and~advanced": 0.1111111111111111, 
+            "contrast~past": 0.1111111111111111, 
+            "floor~from": 0.1111111111111111, 
+            "remainder~of": 0.1111111111111111, 
+            "to~tolerate": 0.1111111111111111, 
+            "transferred~to": 0.1111111111111111
+        }, 
+        "then": {
+            "patient~was": 1.0
+        }, 
+        "thought": {
+            "of~empting": 1.0
+        }, 
+        "tibial": {
+            "L~knee": 1.0
+        }, 
+        "time.": {
+            "off~over": 1.0
+        }, 
+        "to": {
+            "Ziebol~immediately": 0.125, 
+            "explicit~instructions": 0.125, 
+            "following~day": 0.125, 
+            "syrup~is": 0.125, 
+            "thought~secondary": 0.125, 
+            "was~able": 0.125, 
+            "was~admitted": 0.125, 
+            "was~transferred": 0.125
+        }, 
+        "tolerate": {
+            "able~to": 1.0
+        }, 
+        "tolerated": {
+            "Walking~as": 0.5, 
+            "that~was": 0.5
+        }, 
+        "transferred": {
+            "Patient~was": 1.0
+        }, 
+        "tub": {
+            "do~not": 1.0
+        }, 
+        "two": {
+            "actigall~in": 1.0
+        }, 
+        "ulcer": {
+            "venous~stasis": 1.0
+        }, 
+        "undergoing": {
+            "service~after": 1.0
+        }, 
+        "unless": {
+            "Avoid~grapefruit": 1.0
+        }, 
+        "unremarkable": {
+            "was~relatively": 1.0
+        }, 
+        "up": {
+            "concern.~Follow": 1.0
+        }, 
+        "uses": {
+            "apnea~,": 1.0
+        }, 
+        "venous": {
+            "2005~STSG": 0.5, 
+            "Debridement~left": 0.5
+        }, 
+        "voiding": {
+            "ambulating~and": 1.0
+        }, 
+        "vommit": {
+            "She~did": 1.0
+        }, 
+        "was": {
+            ",~but": 0.1111111111111111, 
+            "COURSE:~Patient": 0.1111111111111111, 
+            "The~patient": 0.2222222222222222, 
+            "details.~Patient": 0.1111111111111111, 
+            "diet~that": 0.1111111111111111, 
+            "hospital~course": 0.1111111111111111, 
+            "the~incision": 0.1111111111111111, 
+            "the~pateint": 0.1111111111111111
+        }, 
+        "weeks": {
+            "in~2-3": 1.0
+        }, 
+        "weeks.": {
+            "for~2": 0.25, 
+            "in~1-2": 0.5, 
+            "in~two": 0.25
+        }, 
+        "well.": {
+            "tolerated~as": 1.0
+        }, 
+        "were": {
+            "2~that": 1.0
+        }, 
+        "while": {
+            "consume~alcohol": 1.0
+        }, 
+        "will": {
+            "Bandage~strips": 1.0
+        }, 
+        "with": {
+            ",~and": 0.2, 
+            "C/D/I~,": 0.2, 
+            "Follow~up": 0.2, 
+            "Instruction~Take": 0.2, 
+            "in~clinic": 0.2
+        }, 
+        "worsening": {
+            ")~,": 1.0
+        }, 
+        "your": {
+            "up~with": 1.0
+        }, 
+        "zantac": {
+            "please~note:": 1.0
+        }, 
+        "|": {
+            "#obese#~|": 0.1111111111111111, 
+            "12:00:00~AM": 0.1111111111111111, 
+            "46038105~|": 0.1111111111111111, 
+            "morbid~#obese#": 0.1111111111111111, 
+            "|~46038105": 0.1111111111111111, 
+            "|~9460792": 0.1111111111111111, 
+            "|~AMC": 0.1111111111111111, 
+            "|~DIS": 0.1111111111111111, 
+            "~357205541": 0.1111111111111111
+        }
+    }, 
+    "type": "data/test", 
+    "uni": {
+        "": 0.001422475106685633, 
+        "#asthma#": 0.001422475106685633, 
+        "#obese#": 0.004267425320056899, 
+        "&": 0.001422475106685633, 
+        "(": 0.017069701280227598, 
+        ")": 0.017069701280227598, 
+        "):": 0.002844950213371266, 
+        "******": 0.004267425320056899, 
+        "***Please": 0.001422475106685633, 
+        ",": 0.04836415362731152, 
+        "09:00": 0.001422475106685633, 
+        "09:26": 0.001422475106685633, 
+        "1": 0.001422475106685633, 
+        "1-2": 0.002844950213371266, 
+        "10/29/2006": 0.002844950213371266, 
+        "100": 0.001422475106685633, 
+        "12:00:00": 0.001422475106685633, 
+        "150": 0.001422475106685633, 
+        "2": 0.005689900426742532, 
+        "2-3": 0.001422475106685633, 
+        "2/24/2006": 0.001422475106685633, 
+        "20": 0.001422475106685633, 
+        "2003": 0.002844950213371266, 
+        "2005": 0.002844950213371266, 
+        "25": 0.002844950213371266, 
+        "3.": 0.001422475106685633, 
+        "300": 0.001422475106685633, 
+        "357205541": 0.001422475106685633, 
+        "46038105": 0.001422475106685633, 
+        "481-96-57-3": 0.001422475106685633, 
+        "5-10": 0.001422475106685633, 
+        "5/11": 0.001422475106685633, 
+        "5/13/06": 0.004267425320056899, 
+        "6.": 0.001422475106685633, 
+        "75": 0.001422475106685633, 
+        "9460792": 0.001422475106685633, 
+        ":": 0.001422475106685633, 
+        ";Responsible": 0.001422475106685633, 
+        "@": 0.001422475106685633, 
+        "ACTIGALL": 0.001422475106685633, 
+        "ACTIVITY:": 0.001422475106685633, 
+        "ADDITIONAL": 0.001422475106685633, 
+        "ADMIT": 0.001422475106685633, 
+        "ALLERGY:": 0.001422475106685633, 
+        "AM": 0.005689900426742532, 
+        "AMC": 0.001422475106685633, 
+        "AND": 0.001422475106685633, 
+        "APPOINTMENT(": 0.001422475106685633, 
+        "AROMASIN": 0.001422475106685633, 
+        "AS": 0.001422475106685633, 
+        "AT": 0.001422475106685633, 
+        "Adenomatous": 0.001422475106685633, 
+        "Admission": 0.002844950213371266, 
+        "After": 0.001422475106685633, 
+        "Alert": 0.001422475106685633, 
+        "Applicable": 0.001422475106685633, 
+        "April": 0.002844950213371266, 
+        "At": 0.001422475106685633, 
+        "Attending:": 0.001422475106685633, 
+        "Avoid": 0.001422475106685633, 
+        "BE": 0.001422475106685633, 
+        "BEDTIME": 0.002844950213371266, 
+        "BID": 0.005689900426742532, 
+        "BOBLETT": 0.001422475106685633, 
+        "BRIEF": 0.001422475106685633, 
+        "BY:": 0.001422475106685633, 
+        "Bandage": 0.001422475106685633, 
+        "C.": 0.002844950213371266, 
+        "C/D/I": 0.001422475106685633, 
+        "CHESTER": 0.001422475106685633, 
+        "COLACE": 0.001422475106685633, 
+        "COMMENTS:": 0.001422475106685633, 
+        "CONDITION:": 0.001422475106685633, 
+        "CONTINGENT": 0.001422475106685633, 
+        "COURSE:": 0.001422475106685633, 
+        "CPAP": 0.001422475106685633, 
+        "Causing": 0.001422475106685633, 
+        "Center": 0.001422475106685633, 
+        "Complications": 0.001422475106685633, 
+        "Crush": 0.001422475106685633, 
+        "D/C": 0.002844950213371266, 
+        "DAILY": 0.001422475106685633, 
+        "DIAGNOSIS": 0.001422475106685633, 
+        "DIAGNOSIS:": 0.001422475106685633, 
+        "DIAGNOSIS;Conditions": 0.001422475106685633, 
+        "DICLOFENAC": 0.002844950213371266, 
+        "DIET:": 0.001422475106685633, 
+        "DIS": 0.001422475106685633, 
+        "DISCHARGE": 0.008534850640113799, 
+        "DISPOSITION:": 0.001422475106685633, 
+        "DO/PLAN:": 0.001422475106685633, 
+        "DOCUSATE": 0.001422475106685633, 
+        "Date:": 0.002844950213371266, 
+        "Debridement": 0.001422475106685633, 
+        "Discharge": 0.001422475106685633, 
+        "Doses": 0.001422475106685633, 
+        "Dr.": 0.002844950213371266, 
+        "END": 0.001422475106685633, 
+        "ENTERED": 0.001422475106685633, 
+        "EXEMESTANE": 0.001422475106685633, 
+        "FINAL": 0.001422475106685633, 
+        "FOLLOW": 0.001422475106685633, 
+        "Follow": 0.001422475106685633, 
+        "Food/Drug": 0.002844950213371266, 
+        "Foundtah": 0.001422475106685633, 
+        "GERD": 0.001422475106685633, 
+        "GGI": 0.001422475106685633, 
+        "Gallstones": 0.001422475106685633, 
+        "HCL": 0.001422475106685633, 
+        "HOLD": 0.001422475106685633, 
+        "HOSPITAL": 0.001422475106685633, 
+        "HTN": 0.001422475106685633, 
+        "HYDROCHLOROTHIAZIDE": 0.001422475106685633, 
+        "Hepatic": 0.001422475106685633, 
+        "Her": 0.001422475106685633, 
+        "Hiatal": 0.001422475106685633, 
+        "Home": 0.001422475106685633, 
+        "Hyperlipidemia": 0.001422475106685633, 
+        "Hysterectomy": 0.001422475106685633, 
+        "I": 0.002844950213371266, 
+        "IF:": 0.001422475106685633, 
+        "II": 0.002844950213371266, 
+        "IMPERATORE": 0.001422475106685633, 
+        "IN": 0.002844950213371266, 
+        "INJ": 0.001422475106685633, 
+        "INTERACTION:": 0.001422475106685633, 
+        "Infections": 0.001422475106685633, 
+        "Instruction": 0.002844950213371266, 
+        "Instructions:": 0.007112375533428165, 
+        "Interaction": 0.002844950213371266, 
+        "J": 0.001422475106685633, 
+        "JP": 0.001422475106685633, 
+        "Jaffray": 0.001422475106685633, 
+        "Jaw": 0.001422475106685633, 
+        "KETOROLAC": 0.001422475106685633, 
+        "L": 0.001422475106685633, 
+        "LEVOFLOXACIN": 0.001422475106685633, 
+        "LIQUID": 0.001422475106685633, 
+        "LLE": 0.002844950213371266, 
+        "LN": 0.001422475106685633, 
+        "LRYGB.": 0.001422475106685633, 
+        "Left": 0.004267425320056899, 
+        "M.D.": 0.002844950213371266, 
+        "MD": 0.001422475106685633, 
+        "MEDICATIONS:": 0.001422475106685633, 
+        "MG": 0.00995732574679943, 
+        "MILLILITERS": 0.001422475106685633, 
+        "Medical": 0.001422475106685633, 
+        "NOT": 0.001422475106685633, 
+        "NPO": 0.001422475106685633, 
+        "No": 0.002844950213371266, 
+        "Not": 0.001422475106685633, 
+        "Number": 0.001422475106685633, 
+        "O.R.": 0.001422475106685633, 
+        "OA": 0.001422475106685633, 
+        "OF": 0.002844950213371266, 
+        "ON:": 0.001422475106685633, 
+        "OPERATIONS": 0.001422475106685633, 
+        "ORAL": 0.001422475106685633, 
+        "ORDER": 0.001422475106685633, 
+        "ORDERS": 0.001422475106685633, 
+        "OTHER": 0.002844950213371266, 
+        "OXYCODONE+APAP": 0.001422475106685633, 
+        "Obstructive": 0.001422475106685633, 
+        "October": 0.002844950213371266, 
+        "Override": 0.001422475106685633, 
+        "PACU": 0.001422475106685633, 
+        "PATIENT": 0.001422475106685633, 
+        "PETER": 0.001422475106685633, 
+        "PMH": 0.001422475106685633, 
+        "PO": 0.011379800853485065, 
+        "POD": 0.004267425320056899, 
+        "POD1": 0.001422475106685633, 
+        "POD1.": 0.001422475106685633, 
+        "POD2.": 0.001422475106685633, 
+        "PRINCIPAL": 0.001422475106685633, 
+        "PRN": 0.002844950213371266, 
+        "PROCEDURES:": 0.001422475106685633, 
+        "PSH": 0.001422475106685633, 
+        "PUCKET": 0.001422475106685633, 
+        "Pain": 0.002844950213371266, 
+        "Patient": 0.004267425320056899, 
+        "Please": 0.004267425320056899, 
+        "Q4H": 0.001422475106685633, 
+        "RANITIDINE": 0.001422475106685633, 
+        "RD060": 0.001422475106685633, 
+        "RESUME": 0.001422475106685633, 
+        "ROXICET": 0.001422475106685633, 
+        "Reason": 0.001422475106685633, 
+        "Report": 0.001422475106685633, 
+        "Required": 0.001422475106685633, 
+        "Resume": 0.001422475106685633, 
+        "S": 0.001422475106685633, 
+        "SERIOUS": 0.001422475106685633, 
+        "SIMVASTATIN": 0.001422475106685633, 
+        "SODIUM": 0.002844950213371266, 
+        "SOLUTION": 0.001422475106685633, 
+        "START": 0.001422475106685633, 
+        "STSG": 0.001422475106685633, 
+        "SUMMARY:": 0.001422475106685633, 
+        "SYRUP": 0.002844950213371266, 
+        "Seek": 0.001422475106685633, 
+        "Service:": 0.001422475106685633, 
+        "She": 0.001422475106685633, 
+        "Stable": 0.001422475106685633, 
+        "Stage": 0.001422475106685633, 
+        "Starting": 0.001422475106685633, 
+        "Status:": 0.001422475106685633, 
+        "Study": 0.001422475106685633, 
+        "THE": 0.001422475106685633, 
+        "TO": 0.001422475106685633, 
+        "TORY": 0.001422475106685633, 
+        "TREATMENTS/PROCEDURES": 0.001422475106685633, 
+        "TROMETHAMINE": 0.001422475106685633, 
+        "Take": 0.001422475106685633, 
+        "The": 0.005689900426742532, 
+        "Treatment/Stay": 0.001422475106685633, 
+        "UGI": 0.001422475106685633, 
+        "UP": 0.001422475106685633, 
+        "UPON": 0.001422475106685633, 
+        "URSODIOL": 0.001422475106685633, 
+        "USED": 0.001422475106685633, 
+        "Umbilical": 0.001422475106685633, 
+        "VOLTAREN": 0.001422475106685633, 
+        "Venous": 0.001422475106685633, 
+        "WILL": 0.001422475106685633, 
+        "Walking": 0.001422475106685633, 
+        "XRT": 0.001422475106685633, 
+        "YES": 0.001422475106685633, 
+        "You": 0.001422475106685633, 
+        "ZANTAC": 0.001422475106685633, 
+        "ZOCOR": 0.001422475106685633, 
+        "Ziebol": 0.001422475106685633, 
+        "a": 0.001422475106685633, 
+        "able": 0.001422475106685633, 
+        "actigall": 0.001422475106685633, 
+        "added": 0.001422475106685633, 
+        "adequate": 0.002844950213371266, 
+        "admitted": 0.001422475106685633, 
+        "advanced": 0.001422475106685633, 
+        "affecting": 0.001422475106685633, 
+        "after": 0.002844950213371266, 
+        "alcohol": 0.001422475106685633, 
+        "all": 0.001422475106685633, 
+        "ambulating": 0.001422475106685633, 
+        "an": 0.001422475106685633, 
+        "and": 0.00995732574679943, 
+        "any": 0.001422475106685633, 
+        "apnea": 0.001422475106685633, 
+        "appointment": 0.001422475106685633, 
+        "approximate": 0.001422475106685633, 
+        "as": 0.002844950213371266, 
+        "at": 0.001422475106685633, 
+        "attention": 0.001422475106685633, 
+        "aware": 0.001422475106685633, 
+        "axillary": 0.001422475106685633, 
+        "bathe": 0.001422475106685633, 
+        "before": 0.001422475106685633, 
+        "biopsy": 0.002844950213371266, 
+        "bleeding": 0.001422475106685633, 
+        "breast": 0.004267425320056899, 
+        "breath": 0.001422475106685633, 
+        "but": 0.005689900426742532, 
+        "by": 0.002844950213371266, 
+        "bypass": 0.004267425320056899, 
+        "call": 0.001422475106685633, 
+        "cancer": 0.001422475106685633, 
+        "care": 0.001422475106685633, 
+        "chemo": 0.001422475106685633, 
+        "chest": 0.001422475106685633, 
+        "clinic": 0.001422475106685633, 
+        "collection": 0.001422475106685633, 
+        "concern.": 0.001422475106685633, 
+        "concerning": 0.001422475106685633, 
+        "condition": 0.001422475106685633, 
+        "condition.": 0.001422475106685633, 
+        "consume": 0.001422475106685633, 
+        "contrast": 0.002844950213371266, 
+        "control": 0.001422475106685633, 
+        "control.": 0.001422475106685633, 
+        "course": 0.001422475106685633, 
+        "crush": 0.005689900426742532, 
+        "cyst": 0.001422475106685633, 
+        "day": 0.001422475106685633, 
+        "days": 0.001422475106685633, 
+        "details.": 0.001422475106685633, 
+        "dictated": 0.002844950213371266, 
+        "did": 0.002844950213371266, 
+        "diet": 0.002844950213371266, 
+        "discharge": 0.001422475106685633, 
+        "discharged": 0.001422475106685633, 
+        "do": 0.002844950213371266, 
+        "doctor": 0.001422475106685633, 
+        "drainage": 0.001422475106685633, 
+        "draion": 0.001422475106685633, 
+        "drive": 0.001422475106685633, 
+        "edema": 0.001422475106685633, 
+        "empting": 0.001422475106685633, 
+        "events": 0.001422475106685633, 
+        "evidence": 0.001422475106685633, 
+        "excessive": 0.001422475106685633, 
+        "excision": 0.001422475106685633, 
+        "explicit": 0.001422475106685633, 
+        "fall": 0.001422475106685633, 
+        "fevers": 0.001422475106685633, 
+        "floor": 0.001422475106685633, 
+        "follow-up": 0.002844950213371266, 
+        "following": 0.001422475106685633, 
+        "food": 0.001422475106685633, 
+        "for": 0.00995732574679943, 
+        "from": 0.002844950213371266, 
+        "gastric": 0.004267425320056899, 
+        "given": 0.001422475106685633, 
+        "giving": 0.001422475106685633, 
+        "grapefruit": 0.001422475106685633, 
+        "had": 0.002844950213371266, 
+        "hematoma": 0.001422475106685633, 
+        "hernia": 0.002844950213371266, 
+        "home": 0.001422475106685633, 
+        "hospital": 0.001422475106685633, 
+        "immediately": 0.001422475106685633, 
+        "in": 0.00995732574679943, 
+        "incision": 0.004267425320056899, 
+        "independently": 0.001422475106685633, 
+        "infection.": 0.001422475106685633, 
+        "instructions": 0.001422475106685633, 
+        "instructs": 0.001422475106685633, 
+        "into": 0.001422475106685633, 
+        "intraoperative": 0.001422475106685633, 
+        "is": 0.001422475106685633, 
+        "issues": 0.001422475106685633, 
+        "it": 0.001422475106685633, 
+        "knee": 0.001422475106685633, 
+        "lack": 0.001422475106685633, 
+        "laparoscopic": 0.001422475106685633, 
+        "leak": 0.001422475106685633, 
+        "left": 0.002844950213371266, 
+        "lumpectomy": 0.002844950213371266, 
+        "management": 0.001422475106685633, 
+        "may": 0.001422475106685633, 
+        "medical": 0.001422475106685633, 
+        "medication": 0.001422475106685633, 
+        "medications": 0.001422475106685633, 
+        "medications.": 0.001422475106685633, 
+        "medicines.": 0.001422475106685633, 
+        "morbid": 0.004267425320056899, 
+        "negative": 0.001422475106685633, 
+        "nexium.": 0.001422475106685633, 
+        "no": 0.002844950213371266, 
+        "none": 0.001422475106685633, 
+        "not": 0.004267425320056899, 
+        "note": 0.001422475106685633, 
+        "note-": 0.001422475106685633, 
+        "note:": 0.001422475106685633, 
+        "obstruction": 0.001422475106685633, 
+        "occurred;": 0.001422475106685633, 
+        "of": 0.008534850640113799, 
+        "off": 0.001422475106685633, 
+        "on": 0.007112375533428165, 
+        "operative": 0.001422475106685633, 
+        "or": 0.008534850640113799, 
+        "osteotomy": 0.001422475106685633, 
+        "other": 0.001422475106685633, 
+        "otherwise.": 0.001422475106685633, 
+        "over": 0.001422475106685633, 
+        "overnight": 0.001422475106685633, 
+        "overridden:": 0.001422475106685633, 
+        "override:": 0.001422475106685633, 
+        "pain": 0.007112375533428165, 
+        "past": 0.001422475106685633, 
+        "pateint": 0.001422475106685633, 
+        "patient": 0.004267425320056899, 
+        "please": 0.007112375533428165, 
+        "polyp": 0.001422475106685633, 
+        "pouch.": 0.001422475106685633, 
+        "primary": 0.001422475106685633, 
+        "relatively": 0.001422475106685633, 
+        "remainder": 0.001422475106685633, 
+        "removed": 0.001422475106685633, 
+        "repair": 0.001422475106685633, 
+        "replace": 0.001422475106685633, 
+        "resolved": 0.001422475106685633, 
+        "roux-en-y": 0.001422475106685633, 
+        "s/p": 0.002844950213371266, 
+        "schedule": 0.001422475106685633, 
+        "scrub": 0.001422475106685633, 
+        "secondary": 0.001422475106685633, 
+        "see": 0.002844950213371266, 
+        "service": 0.001422475106685633, 
+        "shortness": 0.001422475106685633, 
+        "show": 0.001422475106685633, 
+        "shower": 0.001422475106685633, 
+        "site": 0.001422475106685633, 
+        "sleep": 0.001422475106685633, 
+        "soak": 0.001422475106685633, 
+        "stable": 0.002844950213371266, 
+        "stage": 0.002844950213371266, 
+        "started": 0.001422475106685633, 
+        "stasis": 0.004267425320056899, 
+        "strips": 0.001422475106685633, 
+        "summary": 0.001422475106685633, 
+        "surgeon": 0.001422475106685633, 
+        "surgery": 0.004267425320056899, 
+        "surgical": 0.001422475106685633, 
+        "swim": 0.001422475106685633, 
+        "symptoms": 0.001422475106685633, 
+        "syrup": 0.002844950213371266, 
+        "taking": 0.001422475106685633, 
+        "temp>101.5": 0.001422475106685633, 
+        "that": 0.002844950213371266, 
+        "the": 0.012802275960170697, 
+        "then": 0.001422475106685633, 
+        "thought": 0.001422475106685633, 
+        "tibial": 0.001422475106685633, 
+        "time.": 0.001422475106685633, 
+        "to": 0.011379800853485065, 
+        "tolerate": 0.001422475106685633, 
+        "tolerated": 0.002844950213371266, 
+        "transferred": 0.001422475106685633, 
+        "tub": 0.001422475106685633, 
+        "two": 0.001422475106685633, 
+        "ulcer": 0.002844950213371266, 
+        "undergoing": 0.001422475106685633, 
+        "unless": 0.001422475106685633, 
+        "unremarkable": 0.001422475106685633, 
+        "up": 0.001422475106685633, 
+        "uses": 0.001422475106685633, 
+        "venous": 0.002844950213371266, 
+        "voiding": 0.001422475106685633, 
+        "vommit": 0.001422475106685633, 
+        "was": 0.012802275960170697, 
+        "weeks": 0.001422475106685633, 
+        "weeks.": 0.005689900426742532, 
+        "well.": 0.001422475106685633, 
+        "were": 0.001422475106685633, 
+        "while": 0.001422475106685633, 
+        "will": 0.001422475106685633, 
+        "with": 0.007112375533428165, 
+        "worsening": 0.001422475106685633, 
+        "your": 0.001422475106685633, 
+        "zantac": 0.001422475106685633, 
+        "|": 0.012802275960170697
+    }
+}

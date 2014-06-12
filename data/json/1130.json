@@ -1,0 +1,3901 @@
+{
+    "bi": {
+        "#asthma#": {
+            "OF": 1.0
+        }, 
+        "#obese#": {
+            "-": 1.0
+        }, 
+        "(": {
+            ").": 0.07692307692307693, 
+            "1996.": 0.15384615384615385, 
+            "DIAGNOSES:": 0.07692307692307693, 
+            "DISEASE": 0.07692307692307693, 
+            "DISEASE.": 0.07692307692307693, 
+            "FIBROMYALGIA.": 0.07692307692307693, 
+            "GALLSTONES.": 0.07692307692307693, 
+            "GRAFT": 0.07692307692307693, 
+            "HERNIA.": 0.07692307692307693, 
+            "HYPERTENSION.": 0.07692307692307693, 
+            "MIGRAINES.": 0.07692307692307693, 
+            "OSTEOARTHRITIS.": 0.07692307692307693
+        }, 
+        ")": {
+            "1": 0.08333333333333333, 
+            "10": 0.08333333333333333, 
+            "11": 0.08333333333333333, 
+            "2": 0.08333333333333333, 
+            "3": 0.08333333333333333, 
+            "4": 0.08333333333333333, 
+            "5": 0.08333333333333333, 
+            "6": 0.08333333333333333, 
+            "7": 0.08333333333333333, 
+            "8": 0.08333333333333333, 
+            "9": 0.08333333333333333, 
+            "CABG": 0.08333333333333333
+        }, 
+        ").": {
+            "PUD": 1.0
+        }, 
+        ",": {
+            "#obese#": 0.016666666666666666, 
+            "10": 0.016666666666666666, 
+            "140/78": 0.016666666666666666, 
+            "20": 0.016666666666666666, 
+            "220/118": 0.016666666666666666, 
+            "28": 0.016666666666666666, 
+            "4.2": 0.016666666666666666, 
+            "90": 0.016666666666666666, 
+            "94": 0.016666666666666666, 
+            "98.2": 0.016666666666666666, 
+            "CABG": 0.016666666666666666, 
+            "Coumadin": 0.03333333333333333, 
+            "EF": 0.016666666666666666, 
+            "Elavil": 0.016666666666666666, 
+            "Entex": 0.016666666666666666, 
+            "K-Dur": 0.016666666666666666, 
+            "KOSHAR": 0.016666666666666666, 
+            "Lasix": 0.016666666666666666, 
+            "Lopressor": 0.016666666666666666, 
+            "Q-waves": 0.016666666666666666, 
+            "Robitussin": 0.016666666666666666, 
+            "S1": 0.016666666666666666, 
+            "S2": 0.016666666666666666, 
+            "WEIR": 0.016666666666666666, 
+            "Zantac": 0.016666666666666666, 
+            "admission": 0.06666666666666667, 
+            "air": 0.016666666666666666, 
+            "anteriorly": 0.016666666666666666, 
+            "axis": 0.016666666666666666, 
+            "bilaterally": 0.016666666666666666, 
+            "cardiologist": 0.016666666666666666, 
+            "cardiomegaly": 0.016666666666666666, 
+            "cord": 0.016666666666666666, 
+            "discharge": 0.03333333333333333, 
+            "distended": 0.016666666666666666, 
+            "doctor": 0.016666666666666666, 
+            "edema": 0.016666666666666666, 
+            "effusions": 0.016666666666666666, 
+            "fever": 0.016666666666666666, 
+            "function": 0.016666666666666666, 
+            "headache": 0.016666666666666666, 
+            "intervals": 0.016666666666666666, 
+            "left": 0.016666666666666666, 
+            "markings": 0.016666666666666666, 
+            "murmur": 0.016666666666666666, 
+            "myalgias": 0.016666666666666666, 
+            "nebs": 0.016666666666666666, 
+            "pain": 0.016666666666666666, 
+            "rhonchi": 0.016666666666666666, 
+            "rubs": 0.016666666666666666, 
+            "sputum": 0.016666666666666666, 
+            "this": 0.016666666666666666, 
+            "upright": 0.016666666666666666, 
+            "weeks": 0.016666666666666666, 
+            "woman": 0.016666666666666666
+        }, 
+        "-": {
+            "ABDOMEN": 0.1111111111111111, 
+            "EKG": 0.1111111111111111, 
+            "EXTREMITIES": 0.1111111111111111, 
+            "GENERAL": 0.1111111111111111, 
+            "HEART": 0.1111111111111111, 
+            "LUNGS": 0.1111111111111111, 
+            "NEURO": 0.1111111111111111, 
+            "SIGNS": 0.1111111111111111, 
+            "x-ray": 0.1111111111111111
+        }, 
+        "1": {
+            "(": 0.5, 
+            "LA": 0.5
+        }, 
+        "1+": {
+            "-": 1.0
+        }, 
+        "1.25": {
+            "Premarin": 1.0
+        }, 
+        "10": {
+            "(": 0.3333333333333333, 
+            "Coumadin": 0.3333333333333333, 
+            "count": 0.3333333333333333
+        }, 
+        "100": {
+            "Tessalon-Perles": 1.0
+        }, 
+        "11": {
+            "(": 1.0
+        }, 
+        "11/7/98": {
+            "on": 1.0
+        }, 
+        "125": {
+            "nortriptyline": 1.0
+        }, 
+        "12:00:00": {
+            "8/28/1998": 1.0
+        }, 
+        "140/78": {
+            "floor": 1.0
+        }, 
+        "150": {
+            "Axid": 1.0
+        }, 
+        "1996": {
+            "in": 1.0
+        }, 
+        "1996.": {
+            ")": 0.5, 
+            "REPLACEMENT": 0.5
+        }, 
+        "2": {
+            "(": 1.0
+        }, 
+        "2-3": {
+            "in": 1.0
+        }, 
+        "2/10": {
+            "in": 1.0
+        }, 
+        "2/13/98": {
+            "D:": 1.0
+        }, 
+        "20": {
+            "PT": 1.0
+        }, 
+        "220/118": {
+            "ED": 1.0
+        }, 
+        "25": {
+            "Lopressor": 1.0
+        }, 
+        "28": {
+            "rate": 1.0
+        }, 
+        "3": {
+            "(": 1.0
+        }, 
+        "3.": {
+            "INR": 1.0
+        }, 
+        "370.": {
+            "flow": 1.0
+        }, 
+        "4": {
+            "(": 1.0
+        }, 
+        "4.2": {
+            "Albumin": 1.0
+        }, 
+        "4/12/1998": {
+            "Date:": 1.0
+        }, 
+        "40": {
+            "Lasix": 1.0
+        }, 
+        "42.": {
+            "hematocrit": 1.0
+        }, 
+        "431917214": {
+            "": 1.0
+        }, 
+        "5": {
+            "(": 1.0
+        }, 
+        "5-10": {
+            "AC": 1.0
+        }, 
+        "51217568": {
+            "|": 1.0
+        }, 
+        "52-year-old": {
+            "a": 1.0
+        }, 
+        "57783": {
+            "Batch:": 1.0
+        }, 
+        "6": {
+            "(": 0.5, 
+            "JVP": 0.5
+        }, 
+        "6/1/1998": {
+            "Date:": 1.0
+        }, 
+        "7": {
+            "(": 1.0
+        }, 
+        "715754": {
+            "|": 1.0
+        }, 
+        "8": {
+            "(": 1.0
+        }, 
+        "8/28/1998": {
+            "|": 1.0
+        }, 
+        "9": {
+            "(": 1.0
+        }, 
+        "90": {
+            "at": 1.0
+        }, 
+        "94": {
+            "rate": 1.0
+        }, 
+        "94%": {
+            "sat": 1.0
+        }, 
+        "98.2": {
+            "Temp": 1.0
+        }, 
+        "ABDOMEN": {
+            "gallops.": 1.0
+        }, 
+        "ABDOMINAL": {
+            "TOTAL": 1.0
+        }, 
+        "AC": {
+            "Robitussin": 1.0
+        }, 
+        "AHC": {
+            "|": 1.0
+        }, 
+        "ALLERGIES:": {
+            "noncompliance.": 1.0
+        }, 
+        "AM": {
+            "12:00:00": 1.0
+        }, 
+        "ARTERY": {
+            "CORONARY": 1.0
+        }, 
+        "Admission": {
+            "|": 1.0
+        }, 
+        "Albumin": {
+            "LFTs.": 1.0
+        }, 
+        "Approximately": {
+            "relief.": 1.0
+        }, 
+        "Atrovent": {
+            "with": 1.0
+        }, 
+        "Attending:": {
+            "CK29": 1.0
+        }, 
+        "Axid": {
+            "q.d.;": 1.0
+        }, 
+        "BILATERAL": {
+            "HYSTERECTOMY": 1.0
+        }, 
+        "BP": {
+            ",": 1.0
+        }, 
+        "BYPASS": {
+            "ARTERY": 1.0
+        }, 
+        "Batch:": {
+            "GH882/1143": 1.0
+        }, 
+        "By": {
+            "bronchospasm.": 0.5, 
+            "q.d.": 0.5
+        }, 
+        "By:": {
+            "Dictated": 1.0
+        }, 
+        "CABG": {
+            "(": 0.3333333333333333, 
+            "and": 0.3333333333333333, 
+            "her": 0.3333333333333333
+        }, 
+        "CHF/bronchospasm": {
+            "with": 1.0
+        }, 
+        "CK29": {
+            "M.D.": 1.0
+        }, 
+        "CONDITION": {
+            "daily.": 1.0
+        }, 
+        "CONGESTIVE": {
+            "|": 1.0
+        }, 
+        "CORONARY": {
+            "VESSEL": 1.0
+        }, 
+        "COURSE:": {
+            "HOSPITAL": 1.0
+        }, 
+        "Cacace": {
+            "Dr.": 1.0
+        }, 
+        "Cardiology": {
+            "the": 1.0
+        }, 
+        "Chem-7.": {
+            "Normal": 1.0
+        }, 
+        "Chest": {
+            "changes.": 1.0
+        }, 
+        "Codeine": {
+            "ALLERGIES:": 1.0
+        }, 
+        "Coumadin": {
+            "MEDICATIONS:": 0.25, 
+            "h.s.;": 0.25, 
+            "on": 0.25, 
+            "the": 0.25
+        }, 
+        "Crackles": {
+            "-": 1.0
+        }, 
+        "Crisp": {
+            "-": 1.0
+        }, 
+        "D:": {
+            "IUVEE046KI": 1.0
+        }, 
+        "DATA:": {
+            "LABORATORY": 1.0
+        }, 
+        "DIAGNOSES:": {
+            "SECONDARY": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "PRINCIPAL": 1.0
+        }, 
+        "DIS": {
+            "|": 1.0
+        }, 
+        "DISCHARGE": {
+            "azithromycin.": 0.3333333333333333, 
+            "condition.": 0.6666666666666666
+        }, 
+        "DISCHARGE:": {
+            "ON": 1.0
+        }, 
+        "DISEASE": {
+            "PULMONARY": 1.0
+        }, 
+        "DISEASE.": {
+            "PULMONARY": 1.0
+        }, 
+        "DISPOSITION:": {
+            "DISCHARGE": 1.0
+        }, 
+        "Date:": {
+            "Admission": 0.5, 
+            "Discharge": 0.5
+        }, 
+        "Department": {
+            "Emergency": 1.0
+        }, 
+        "Dictated": {
+            "home.": 1.0
+        }, 
+        "Discharge": {
+            "Signed": 1.0
+        }, 
+        "Dr.": {
+            ",": 1.0
+        }, 
+        "During": {
+            "day.": 1.0
+        }, 
+        "ED": {
+            "the": 1.0
+        }, 
+        "EF": {
+            "normal": 1.0
+        }, 
+        "EKG": {
+            "3.": 1.0
+        }, 
+        "EXAMINATION:": {
+            "PHYSICAL": 1.0
+        }, 
+        "EXTREMITIES": {
+            "tenderness.": 1.0
+        }, 
+        "Elavil": {
+            ",": 1.0
+        }, 
+        "Emergency": {
+            "the": 1.0
+        }, 
+        "Entex": {
+            ",": 0.5, 
+            "cough;": 0.5
+        }, 
+        "FAILURE": {
+            "HEART": 1.0
+        }, 
+        "FIBROMYALGIA.": {
+            ")": 1.0
+        }, 
+        "FOLLOW-UP:": {
+            "DISCHARGE": 1.0
+        }, 
+        "For": {
+            "night.": 1.0
+        }, 
+        "GALLSTONES.": {
+            ")": 1.0
+        }, 
+        "GENERAL": {
+            "370.": 1.0
+        }, 
+        "GH882/1143": {
+            "LB7": 1.0
+        }, 
+        "GRAFT": {
+            "BYPASS": 1.0
+        }, 
+        "HEART": {
+            "CONGESTIVE": 0.5, 
+            "cm.": 0.5
+        }, 
+        "HERNIA.": {
+            "HIATAL": 1.0
+        }, 
+        "HIATAL": {
+            ")": 1.0
+        }, 
+        "HISTORY": {
+            ")": 0.5, 
+            "SALPINGO-OOPHORECTOMY.": 0.5
+        }, 
+        "HOSPITAL": {
+            "infiltrates.": 1.0
+        }, 
+        "HYPERTENSION.": {
+            ")": 1.0
+        }, 
+        "HYSTERECTOMY": {
+            "ABDOMINAL": 1.0
+        }, 
+        "Her": {
+            "Tessalon-Perles.": 0.5, 
+            "disease.": 0.5
+        }, 
+        "Homan.": {
+            "negative": 1.0
+        }, 
+        "ILLNESS:": {
+            "PRESENT": 1.0
+        }, 
+        "INR": {
+            ",": 1.0
+        }, 
+        "IUVEE046KI": {
+            "No.": 1.0
+        }, 
+        "In": {
+            "Non-focal.": 1.0
+        }, 
+        "Index": {
+            "57783": 1.0
+        }, 
+        "Iodine": {
+            "vomiting.": 1.0
+        }, 
+        "JUDE'S": {
+            "ST.": 1.0
+        }, 
+        "JVP": {
+            ",": 1.0
+        }, 
+        "Jude's": {
+            "St.": 1.0
+        }, 
+        "K-Dur": {
+            ",": 1.0
+        }, 
+        "KOSHAR": {
+            "V.": 1.0
+        }, 
+        "LA": {
+            "Entex": 1.0
+        }, 
+        "LABORATORY": {
+            "sounds.": 1.0
+        }, 
+        "LB7": {
+            "M.D.": 1.0
+        }, 
+        "LFTs.": {
+            "Normal": 1.0
+        }, 
+        "LUNGS": {
+            "flat.": 1.0
+        }, 
+        "Lasix": {
+            ",": 0.5, 
+            "cough;": 0.5
+        }, 
+        "Lopressor": {
+            ",": 0.3333333333333333, 
+            "cough;": 0.3333333333333333, 
+            "of": 0.3333333333333333
+        }, 
+        "M.D.": {
+            ",": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "DISCHARGE": 0.5, 
+            "distress.": 0.5
+        }, 
+        "MIGRAINES.": {
+            ")": 1.0
+        }, 
+        "MITRAL": {
+            "JUDE'S": 1.0
+        }, 
+        "MVR": {
+            "post": 1.0
+        }, 
+        "Mild": {
+            "-": 1.0
+        }, 
+        "Morphine": {
+            "hives.": 1.0
+        }, 
+        "NEURO": {
+            "Homan.": 1.0
+        }, 
+        "No": {
+            "sounds.": 1.0
+        }, 
+        "No.": {
+            "Index": 1.0
+        }, 
+        "Non-focal.": {
+            "-": 1.0
+        }, 
+        "Normal": {
+            "-": 0.3333333333333333, 
+            "42.": 0.3333333333333333, 
+            "DATA:": 0.3333333333333333
+        }, 
+        "O2": {
+            ",": 1.0
+        }, 
+        "OBSTRUCTIVE": {
+            "#asthma#": 1.0
+        }, 
+        "OF": {
+            "HISTORY": 1.0
+        }, 
+        "ON": {
+            "CONDITION": 1.0
+        }, 
+        "OSTEOARTHRITIS.": {
+            ")": 1.0
+        }, 
+        "PHYSICAL": {
+            "Premarin.": 1.0
+        }, 
+        "POST": {
+            "STATUS": 1.0
+        }, 
+        "PRESENT": {
+            "OF": 1.0
+        }, 
+        "PRINCIPAL": {
+            "4/12/1998": 1.0
+        }, 
+        "PT": {
+            ",": 1.0
+        }, 
+        "PUD": {
+            "(": 1.0
+        }, 
+        "PULMONARY": {
+            ")": 0.5, 
+            "OBSTRUCTIVE": 0.5
+        }, 
+        "Premarin": {
+            "MEDICATIONS:": 1.0
+        }, 
+        "Premarin.": {
+            "and": 1.0
+        }, 
+        "Q-waves": {
+            "no": 1.0
+        }, 
+        "REID": {
+            "By:": 1.0
+        }, 
+        "REPLACEMENT": {
+            "VALVE": 1.0
+        }, 
+        "Report": {
+            "6/1/1998": 1.0
+        }, 
+        "Robitussin": {
+            ",": 0.5, 
+            "q.d.;": 0.5
+        }, 
+        "S1": {
+            "Crisp": 1.0
+        }, 
+        "S2": {
+            ",": 1.0
+        }, 
+        "SAL": {
+            "Attending:": 1.0
+        }, 
+        "SALPINGO-OOPHORECTOMY.": {
+            "BILATERAL": 1.0
+        }, 
+        "SECONDARY": {
+            "TRACHEOBRONCHITIS.": 1.0
+        }, 
+        "SIGNS": {
+            "VITAL": 1.0
+        }, 
+        "ST-T": {
+            "acute": 1.0
+        }, 
+        "ST.": {
+            "POST": 1.0
+        }, 
+        "STATUS": {
+            ")": 1.0
+        }, 
+        "Service.": {
+            "Cardiology": 1.0
+        }, 
+        "She": {
+            "-": 0.05555555555555555, 
+            "2/10": 0.05555555555555555, 
+            "COURSE:": 0.05555555555555555, 
+            "FOLLOW-UP:": 0.05555555555555555, 
+            "Service.": 0.05555555555555555, 
+            "baseline.": 0.05555555555555555, 
+            "coughs.": 0.05555555555555555, 
+            "day.": 0.05555555555555555, 
+            "days.": 0.05555555555555555, 
+            "discharge.": 0.05555555555555555, 
+            "diuresis.": 0.05555555555555555, 
+            "laundry.": 0.05555555555555555, 
+            "motion.": 0.05555555555555555, 
+            "palpitations.": 0.05555555555555555, 
+            "tenderness.": 0.05555555555555555, 
+            "therapy.": 0.05555555555555555, 
+            "week.": 0.05555555555555555, 
+            "wheezing.": 0.05555555555555555
+        }, 
+        "Signed": {
+            "Status:": 0.5, 
+            "|": 0.5
+        }, 
+        "St.": {
+            "after": 1.0
+        }, 
+        "Stable": {
+            "DISCHARGE:": 1.0
+        }, 
+        "Status:": {
+            "Report": 1.0
+        }, 
+        "T:": {
+            "2/13/98": 1.0
+        }, 
+        "TOTAL": {
+            "POST": 1.0
+        }, 
+        "TRACHEOBRONCHITIS.": {
+            "DIAGNOSIS:": 1.0
+        }, 
+        "TWO": {
+            "POST": 1.0
+        }, 
+        "Temp": {
+            "-": 1.0
+        }, 
+        "Tessalon-Perles": {
+            "b.i.d.;": 1.0
+        }, 
+        "Tessalon-Perles.": {
+            "and": 1.0
+        }, 
+        "The": {
+            "DISPOSITION:": 0.5, 
+            "ILLNESS:": 0.5
+        }, 
+        "V.": {
+            "SAL": 1.0
+        }, 
+        "VALVE": {
+            "MITRAL": 1.0
+        }, 
+        "VESSEL": {
+            "TWO": 1.0
+        }, 
+        "VITAL": {
+            "EXAMINATION:": 1.0
+        }, 
+        "Vancooten": {
+            "Dr.": 1.0
+        }, 
+        "WEIR": {
+            "REID": 1.0
+        }, 
+        "White": {
+            "Chem-7.": 1.0
+        }, 
+        "Zantac": {
+            ",": 1.0
+        }, 
+        "a": {
+            "completed": 0.3333333333333333, 
+            "contracted": 0.3333333333333333, 
+            "is": 0.3333333333333333
+        }, 
+        "about": {
+            "diuresed": 1.0
+        }, 
+        "accompanied": {
+            "flat": 1.0
+        }, 
+        "acute": {
+            "no": 1.0
+        }, 
+        "admission": {
+            "before": 0.4, 
+            "her": 0.6
+        }, 
+        "admitted": {
+            "was": 1.0
+        }, 
+        "afebrile": {
+            "was": 1.0
+        }, 
+        "after": {
+            "resolved": 1.0
+        }, 
+        "air": {
+            "room": 1.0
+        }, 
+        "also": {
+            "has": 0.5, 
+            "will": 0.5
+        }, 
+        "amoxicillin": {
+            "prescribed": 1.0
+        }, 
+        "and": {
+            ",": 0.46153846153846156, 
+            "Atrovent": 0.07692307692307693, 
+            "MVR": 0.07692307692307693, 
+            "cough": 0.07692307692307693, 
+            "improved": 0.07692307692307693, 
+            "orthopnea": 0.07692307692307693, 
+            "regurgitation": 0.07692307692307693, 
+            "wheezing": 0.07692307692307693
+        }, 
+        "anteriorly": {
+            "especially": 1.0
+        }, 
+        "antibiotic": {
+            "of": 1.0
+        }, 
+        "approximately": {
+            "until": 1.0
+        }, 
+        "as": {
+            "such": 1.0
+        }, 
+        "ascribed": {
+            "ultimately": 1.0
+        }, 
+        "at": {
+            "especially": 0.25, 
+            "pressure": 0.25, 
+            "rhythm": 0.25, 
+            "soreness": 0.25
+        }, 
+        "axis": {
+            "normal": 1.0
+        }, 
+        "azithromycin.": {
+            "of": 1.0
+        }, 
+        "b.i.d.": {
+            "p.o.": 1.0
+        }, 
+        "b.i.d.;": {
+            "p.o.": 1.0
+        }, 
+        "baseline.": {
+            "her": 1.0
+        }, 
+        "because": {
+            "dose": 1.0
+        }, 
+        "been": {
+            "has": 1.0
+        }, 
+        "before": {
+            "days": 0.5, 
+            "week": 0.5
+        }, 
+        "bilaterally": {
+            "up": 1.0
+        }, 
+        "blood": {
+            "her": 1.0
+        }, 
+        "bowel": {
+            "positive": 1.0
+        }, 
+        "breath": {
+            "of": 1.0
+        }, 
+        "bronchospasm.": {
+            "her": 1.0
+        }, 
+        "but": {
+            ",": 1.0
+        }, 
+        "by": {
+            "accompanied": 0.5, 
+            "amoxicillin": 0.5
+        }, 
+        "calf": {
+            "no": 0.5, 
+            "positive": 0.5
+        }, 
+        "cardiologist": {
+            "her": 1.0
+        }, 
+        "cardiomegaly": {
+            "Mild": 1.0
+        }, 
+        "care": {
+            "primary": 1.0
+        }, 
+        "causes": {
+            "Codeine": 0.3333333333333333, 
+            "Iodine": 0.3333333333333333, 
+            "Morphine": 0.3333333333333333
+        }, 
+        "changes.": {
+            "wave": 1.0
+        }, 
+        "check": {
+            "also": 1.0
+        }, 
+        "chest": {
+            "denies": 1.0
+        }, 
+        "clearing": {
+            "marked": 1.0
+        }, 
+        "cm.": {
+            "6": 1.0
+        }, 
+        "comfortable": {
+            "is": 1.0
+        }, 
+        "compared": {
+            "edema": 1.0
+        }, 
+        "complained": {
+            "but": 1.0
+        }, 
+        "completed": {
+            "had": 1.0
+        }, 
+        "condition.": {
+            "Stable": 0.5, 
+            "stable": 0.5
+        }, 
+        "continued": {
+            "was": 1.0
+        }, 
+        "contracted": {
+            "she": 1.0
+        }, 
+        "cord": {
+            "negative": 1.0
+        }, 
+        "cough": {
+            ",": 0.3333333333333333, 
+            "by": 0.3333333333333333, 
+            "her": 0.3333333333333333
+        }, 
+        "cough;": {
+            "p.r.n.": 1.0
+        }, 
+        "coughing": {
+            "paroxysmal": 1.0
+        }, 
+        "coughs.": {
+            "she": 1.0
+        }, 
+        "count": {
+            "White": 1.0
+        }, 
+        "course": {
+            "day": 0.5, 
+            "the": 0.5
+        }, 
+        "cultures": {
+            "negative": 1.0
+        }, 
+        "daily.": {
+            "home": 1.0
+        }, 
+        "day": {
+            "five": 0.3333333333333333, 
+            "the": 0.6666666666666666
+        }, 
+        "day.": {
+            "one": 0.5, 
+            "per": 0.5
+        }, 
+        "days": {
+            "three": 1.0
+        }, 
+        "days.": {
+            "three": 1.0
+        }, 
+        "denies": {
+            "She": 1.0
+        }, 
+        "describe": {
+            "does": 1.0
+        }, 
+        "dietary": {
+            "significant": 1.0
+        }, 
+        "diffuse": {
+            ",": 0.5, 
+            "and": 0.5
+        }, 
+        "discharge": {
+            "of": 1.0
+        }, 
+        "discharge.": {
+            "postnasal": 1.0
+        }, 
+        "discharged": {
+            "was": 1.0
+        }, 
+        "disease.": {
+            "heart": 1.0
+        }, 
+        "distended": {
+            "mildly": 1.0
+        }, 
+        "distress.": {
+            "respiratory": 1.0
+        }, 
+        "diuresed": {
+            "was": 1.0
+        }, 
+        "diuresis.": {
+            "with": 1.0
+        }, 
+        "doctor": {
+            "care": 1.0
+        }, 
+        "does": {
+            "She": 1.0
+        }, 
+        "doing": {
+            "while": 1.0
+        }, 
+        "done": {
+            "was": 1.0
+        }, 
+        "dose": {
+            "Her": 0.5, 
+            "regular": 0.5
+        }, 
+        "during": {
+            "cultures": 1.0
+        }, 
+        "dyspnea": {
+            "and": 0.5, 
+            "had": 0.5
+        }, 
+        "echocardiogram": {
+            "and": 1.0
+        }, 
+        "edema": {
+            "extremity": 0.5, 
+            "peripheral": 0.5
+        }, 
+        "effusions": {
+            "no": 1.0
+        }, 
+        "especially": {
+            ",": 0.5, 
+            "coughing": 0.5
+        }, 
+        "except": {
+            ",": 1.0
+        }, 
+        "exertion": {
+            "on": 1.0
+        }, 
+        "extremity": {
+            "lower": 1.0
+        }, 
+        "failure": {
+            "heart": 1.0
+        }, 
+        "fever": {
+            "with": 1.0
+        }, 
+        "five": {
+            "a": 1.0
+        }, 
+        "flat": {
+            "lying": 1.0
+        }, 
+        "flat.": {
+            "lying": 1.0
+        }, 
+        "floor": {
+            "the": 1.0
+        }, 
+        "flow": {
+            "peak": 1.0
+        }, 
+        "flu-like": {
+            "a": 1.0
+        }, 
+        "follow-up": {
+            "will": 1.0
+        }, 
+        "for": {
+            "exertion": 1.0
+        }, 
+        "function": {
+            "systolic": 1.0
+        }, 
+        "gallops.": {
+            "or": 1.0
+        }, 
+        "given": {
+            "but": 1.0
+        }, 
+        "h.s.;": {
+            "p.o.": 1.0
+        }, 
+        "had": {
+            "also": 0.5, 
+            "she": 0.5
+        }, 
+        "half": {
+            "given": 0.5, 
+            "was": 0.5
+        }, 
+        "halfway": {
+            "Crackles": 1.0
+        }, 
+        "has": {
+            "She": 0.75, 
+            "but": 0.25
+        }, 
+        "headache": {
+            ",": 1.0
+        }, 
+        "health": {
+            "of": 1.0
+        }, 
+        "heart": {
+            ",": 0.3333333333333333, 
+            "of": 0.3333333333333333, 
+            "rheumatic": 0.3333333333333333
+        }, 
+        "hematocrit": {
+            ",": 1.0
+        }, 
+        "hemodynamically": {
+            "was": 1.0
+        }, 
+        "her": {
+            ",": 0.07142857142857142, 
+            "During": 0.07142857142857142, 
+            "at": 0.07142857142857142, 
+            "by": 0.07142857142857142, 
+            "check": 0.07142857142857142, 
+            "during": 0.07142857142857142, 
+            "half": 0.07142857142857142, 
+            "in": 0.07142857142857142, 
+            "of": 0.14285714285714285, 
+            "relieve": 0.07142857142857142, 
+            "to": 0.07142857142857142, 
+            "with": 0.14285714285714285
+        }, 
+        "hives.": {
+            "causes": 1.0
+        }, 
+        "home": {
+            "at": 0.5, 
+            "discharged": 0.5
+        }, 
+        "home.": {
+            "to": 1.0
+        }, 
+        "illness": {
+            "flu-like": 1.0
+        }, 
+        "improved": {
+            "much": 0.5, 
+            "that": 0.5
+        }, 
+        "in": {
+            "BP": 0.125, 
+            "Cacace": 0.125, 
+            "been": 0.125, 
+            "home": 0.125, 
+            "increase": 0.125, 
+            "nurse": 0.125, 
+            "replacement": 0.125, 
+            "syndrome": 0.125
+        }, 
+        "increase": {
+            "mild": 1.0
+        }, 
+        "increasing": {
+            "describe": 0.5, 
+            "noted": 0.5
+        }, 
+        "indiscretion": {
+            "dietary": 1.0
+        }, 
+        "infiltrates.": {
+            "no": 1.0
+        }, 
+        "interstitial": {
+            "in": 1.0
+        }, 
+        "intervals": {
+            "normal": 1.0
+        }, 
+        "is": {
+            "She": 0.3333333333333333, 
+            "patient": 0.3333333333333333, 
+            "who": 0.3333333333333333
+        }, 
+        "later": {
+            ",": 1.0
+        }, 
+        "laundry.": {
+            "doing": 1.0
+        }, 
+        "left": {
+            "on": 1.0
+        }, 
+        "light-headedness": {
+            "denies": 1.0
+        }, 
+        "liter": {
+            "one": 1.0
+        }, 
+        "loud": {
+            "diffuse": 1.0
+        }, 
+        "lower": {
+            "increasing": 1.0
+        }, 
+        "lung": {
+            "her": 1.0
+        }, 
+        "lying": {
+            "when": 1.0
+        }, 
+        "marked": {
+            "with": 1.0
+        }, 
+        "markings": {
+            "interstitial": 1.0
+        }, 
+        "medical": {
+            "or": 1.0
+        }, 
+        "mg": {
+            "1.25": 0.14285714285714285, 
+            "10": 0.14285714285714285, 
+            "100": 0.14285714285714285, 
+            "125": 0.14285714285714285, 
+            "150": 0.14285714285714285, 
+            "25": 0.14285714285714285, 
+            "40": 0.14285714285714285
+        }, 
+        "mild": {
+            ",": 0.5, 
+            "only": 0.5
+        }, 
+        "mildly": {
+            ",": 1.0
+        }, 
+        "minimal": {
+            "with": 1.0
+        }, 
+        "mitral": {
+            "Jude's": 0.5, 
+            "to": 0.5
+        }, 
+        "ml": {
+            "5-10": 1.0
+        }, 
+        "motion.": {
+            "valve": 1.0
+        }, 
+        "much": {
+            "was": 1.0
+        }, 
+        "murmur": {
+            "no": 1.0
+        }, 
+        "myalgias": {
+            "diffuse": 1.0
+        }, 
+        "nausea": {
+            "causes": 1.0
+        }, 
+        "nebs": {
+            "saline": 1.0
+        }, 
+        "nebulizers": {
+            "with": 1.0
+        }, 
+        "negative": {
+            ",": 0.6666666666666666, 
+            "with": 0.3333333333333333
+        }, 
+        "night.": {
+            "at": 1.0
+        }, 
+        "no": {
+            ",": 0.8333333333333334, 
+            "has": 0.16666666666666666
+        }, 
+        "noncompliance.": {
+            "medical": 1.0
+        }, 
+        "normal": {
+            ",": 0.5, 
+            "and": 0.3333333333333333, 
+            "showed": 0.16666666666666666
+        }, 
+        "nortriptyline": {
+            "b.i.d.;": 1.0
+        }, 
+        "noted": {
+            "she": 1.0
+        }, 
+        "nurse": {
+            "Coumadin": 1.0
+        }, 
+        "of": {
+            "because": 0.08333333333333333, 
+            "clearing": 0.08333333333333333, 
+            "complained": 0.08333333333333333, 
+            "course": 0.16666666666666666, 
+            "day": 0.16666666666666666, 
+            "dose": 0.08333333333333333, 
+            "productive": 0.08333333333333333, 
+            "shortness": 0.08333333333333333, 
+            "state": 0.08333333333333333, 
+            "symptoms": 0.08333333333333333
+        }, 
+        "on": {
+            "94%": 0.14285714285714285, 
+            "continued": 0.14285714285714285, 
+            "done": 0.14285714285714285, 
+            "dyspnea": 0.2857142857142857, 
+            "later": 0.14285714285714285, 
+            "tenderness": 0.14285714285714285
+        }, 
+        "one": {
+            "about": 0.25, 
+            "approximately": 0.25, 
+            "in": 0.25, 
+            "within": 0.25
+        }, 
+        "only": {
+            "showing": 1.0
+        }, 
+        "or": {
+            ",": 0.25, 
+            "indiscretion": 0.25, 
+            "light-headedness": 0.25, 
+            "nausea": 0.25
+        }, 
+        "orthopnea": {
+            "with": 1.0
+        }, 
+        "p.o.": {
+            "mg": 0.7777777777777778, 
+            "ml": 0.1111111111111111, 
+            "tab": 0.1111111111111111
+        }, 
+        "p.r.n.": {
+            "b.i.d.": 0.3333333333333333, 
+            "q.4-6h.": 0.3333333333333333, 
+            "t.i.d.": 0.3333333333333333
+        }, 
+        "pain": {
+            "chest": 1.0
+        }, 
+        "palpitations.": {
+            "or": 1.0
+        }, 
+        "paroxysmal": {
+            "has": 0.5, 
+            "severe": 0.5
+        }, 
+        "patient": {
+            "The": 1.0
+        }, 
+        "peak": {
+            ",": 1.0
+        }, 
+        "per": {
+            "liter": 1.0
+        }, 
+        "peripheral": {
+            "1+": 1.0
+        }, 
+        "positive": {
+            ",": 1.0
+        }, 
+        "post": {
+            "status": 1.0
+        }, 
+        "postnasal": {
+            ",": 1.0
+        }, 
+        "prescribed": {
+            "was": 1.0
+        }, 
+        "presented": {
+            "recently": 0.5, 
+            "who": 0.5
+        }, 
+        "pressure": {
+            "blood": 1.0
+        }, 
+        "primary": {
+            "her": 1.0
+        }, 
+        "productive": {
+            "cough": 1.0
+        }, 
+        "provider": {
+            "care": 1.0
+        }, 
+        "q.4-6h.": {
+            "p.o.": 1.0
+        }, 
+        "q.d.": {
+            "p.o.": 1.0
+        }, 
+        "q.d.;": {
+            "p.o.": 1.0
+        }, 
+        "rate": {
+            "heart": 0.5, 
+            "respiratory": 0.5
+        }, 
+        "recently": {
+            "She": 1.0
+        }, 
+        "regular": {
+            "her": 1.0
+        }, 
+        "regurgitation": {
+            "mitral": 1.0
+        }, 
+        "relief.": {
+            "minimal": 1.0
+        }, 
+        "relieve": {
+            "to": 1.0
+        }, 
+        "replacement": {
+            "valve": 1.0
+        }, 
+        "resolved": {
+            "symptoms": 1.0
+        }, 
+        "respiratory": {
+            ",": 0.5, 
+            "causes": 0.5
+        }, 
+        "rheumatic": {
+            "to": 1.0
+        }, 
+        "rhonchi": {
+            "and": 1.0
+        }, 
+        "rhythm": {
+            "sinus": 1.0
+        }, 
+        "room": {
+            "on": 1.0
+        }, 
+        "rubs": {
+            ",": 1.0
+        }, 
+        "saline": {
+            "normal": 1.0
+        }, 
+        "sat": {
+            "O2": 1.0
+        }, 
+        "scar": {
+            "CABG": 1.0
+        }, 
+        "secondary": {
+            "thought": 1.0
+        }, 
+        "severe": {
+            "of": 1.0
+        }, 
+        "she": {
+            ",": 0.2857142857142857, 
+            "Department": 0.14285714285714285, 
+            "admission": 0.14285714285714285, 
+            "and": 0.14285714285714285, 
+            "when": 0.14285714285714285, 
+            "whenever": 0.14285714285714285
+        }, 
+        "shortness": {
+            "increasing": 1.0
+        }, 
+        "showed": {
+            "that": 1.0
+        }, 
+        "showing": {
+            ",": 1.0
+        }, 
+        "significant": {
+            "denies": 1.0
+        }, 
+        "sinus": {
+            "Normal": 1.0
+        }, 
+        "sitting": {
+            "comfortable": 1.0
+        }, 
+        "some": {
+            "except": 1.0
+        }, 
+        "soreness": {
+            "some": 1.0
+        }, 
+        "sounds.": {
+            "bowel": 0.5, 
+            "lung": 0.5
+        }, 
+        "sputum": {
+            "yellow": 1.0
+        }, 
+        "stable": {
+            "hemodynamically": 0.5, 
+            "in": 0.5
+        }, 
+        "state": {
+            "usual": 1.0
+        }, 
+        "status": {
+            "is": 1.0
+        }, 
+        "such": {
+            "exertion": 1.0
+        }, 
+        "symptoms": {
+            "Her": 0.5, 
+            "mild": 0.5
+        }, 
+        "syndrome": {
+            "CHF/bronchospasm": 1.0
+        }, 
+        "systolic": {
+            "normal": 1.0
+        }, 
+        "t.i.d.": {
+            "p.o.": 1.0
+        }, 
+        "tab": {
+            "1": 1.0
+        }, 
+        "tenderness": {
+            "calf": 1.0
+        }, 
+        "tenderness.": {
+            "No": 0.5, 
+            "calf": 0.5
+        }, 
+        "that": {
+            "11/7/98": 0.3333333333333333, 
+            "1996": 0.3333333333333333, 
+            "failure": 0.3333333333333333
+        }, 
+        "the": {
+            "By": 0.25, 
+            "In": 0.125, 
+            "in": 0.125, 
+            "on": 0.125, 
+            "throughout": 0.125, 
+            "to": 0.125, 
+            "with": 0.125
+        }, 
+        "therapy.": {
+            "antibiotic": 1.0
+        }, 
+        "this": {
+            "For": 1.0
+        }, 
+        "thought": {
+            "and": 1.0
+        }, 
+        "three": {
+            "Approximately": 0.5, 
+            "for": 0.5
+        }, 
+        "throughout": {
+            "stable": 1.0
+        }, 
+        "to": {
+            "admitted": 0.16666666666666666, 
+            "ascribed": 0.16666666666666666, 
+            "compared": 0.16666666666666666, 
+            "discharged": 0.16666666666666666, 
+            "half": 0.16666666666666666, 
+            "secondary": 0.16666666666666666
+        }, 
+        "treated": {
+            "was": 1.0
+        }, 
+        "ultimately": {
+            "was": 1.0
+        }, 
+        "until": {
+            "health": 1.0
+        }, 
+        "up": {
+            "halfway": 1.0
+        }, 
+        "upright": {
+            "sitting": 1.0
+        }, 
+        "usual": {
+            "her": 1.0
+        }, 
+        "valve": {
+            "mitral": 0.5, 
+            "normal": 0.5
+        }, 
+        "vomiting.": {
+            "or": 1.0
+        }, 
+        "was": {
+            "Lopressor": 0.07142857142857142, 
+            "She": 0.42857142857142855, 
+            "cough": 0.07142857142857142, 
+            "echocardiogram": 0.07142857142857142, 
+            "patient": 0.07142857142857142, 
+            "she": 0.21428571428571427, 
+            "that": 0.07142857142857142
+        }, 
+        "wave": {
+            "ST-T": 1.0
+        }, 
+        "week": {
+            "one": 1.0
+        }, 
+        "week.": {
+            "one": 1.0
+        }, 
+        "weeks": {
+            "2-3": 1.0
+        }, 
+        "wheezing": {
+            "loud": 1.0
+        }, 
+        "wheezing.": {
+            "and": 1.0
+        }, 
+        "when": {
+            ",": 0.3333333333333333, 
+            "breath": 0.3333333333333333, 
+            "coughing": 0.3333333333333333
+        }, 
+        "whenever": {
+            "scar": 1.0
+        }, 
+        "while": {
+            "as": 1.0
+        }, 
+        "who": {
+            ",": 1.0
+        }, 
+        "will": {
+            "She": 1.0
+        }, 
+        "with": {
+            "afebrile": 0.08333333333333333, 
+            "and": 0.08333333333333333, 
+            "follow-up": 0.16666666666666666, 
+            "illness": 0.08333333333333333, 
+            "improved": 0.08333333333333333, 
+            "nebulizers": 0.08333333333333333, 
+            "presented": 0.16666666666666666, 
+            "provider": 0.08333333333333333, 
+            "treated": 0.16666666666666666
+        }, 
+        "within": {
+            "Vancooten": 1.0
+        }, 
+        "woman": {
+            "52-year-old": 1.0
+        }, 
+        "x-ray": {
+            "Chest": 1.0
+        }, 
+        "yellow": {
+            "of": 1.0
+        }, 
+        "|": {
+            "431917214": 0.1111111111111111, 
+            "51217568": 0.1111111111111111, 
+            "715754": 0.1111111111111111, 
+            "AHC": 0.1111111111111111, 
+            "AM": 0.1111111111111111, 
+            "DIS": 0.1111111111111111, 
+            "FAILURE": 0.1111111111111111, 
+            "Signed": 0.1111111111111111, 
+            "|": 0.1111111111111111
+        }
+    }, 
+    "id": "1130", 
+    "text": " 431917214 | AHC | 51217568 | | 715754 | 8/28/1998 12:00:00 AM | CONGESTIVE HEART FAILURE | Signed | DIS | Admission Date: 6/1/1998 Report Status: Signed Discharge Date: 4/12/1998 PRINCIPAL DIAGNOSIS: TRACHEOBRONCHITIS. SECONDARY DIAGNOSES: ( 1 ) STATUS POST ST. JUDE'S MITRAL VALVE REPLACEMENT 1996. ( 2 ) STATUS POST TWO VESSEL CORONARY ARTERY BYPASS GRAFT ( CABG ) 1996. ( 3 ) HISTORY OF #asthma# OBSTRUCTIVE PULMONARY DISEASE. ( 4 ) HYPERTENSION. ( 5 ) GALLSTONES. ( 6 ) PULMONARY DISEASE ( PUD ). ( 7 ) HIATAL HERNIA. ( 8 ) MIGRAINES. ( 9 ) FIBROMYALGIA. ( 10 ) OSTEOARTHRITIS. ( 11 ) STATUS POST TOTAL ABDOMINAL HYSTERECTOMY BILATERAL SALPINGO-OOPHORECTOMY. HISTORY OF PRESENT ILLNESS: The patient is a 52-year-old woman , who is status post MVR and CABG , who presented with orthopnea and dyspnea on exertion for three days. She recently presented with CHF/bronchospasm syndrome in 1996 that was ultimately ascribed to mitral regurgitation and thought secondary to rheumatic heart disease. Her symptoms resolved after St. Jude's mitral valve replacement in 2/10 She has been in her usual state of health until approximately one week before admission , when she contracted a flu-like illness with fever , cough productive of yellow sputum , headache , and diffuse myalgias , postnasal discharge. She was prescribed amoxicillin by her primary care provider with minimal relief. Approximately three days before admission she noted increasing shortness of breath when lying flat accompanied by cough and wheezing. She has also had dyspnea on exertion such as while doing laundry. She denies chest pain , except some soreness at her CABG scar whenever she coughs. She denies light-headedness or palpitations. She does describe increasing lower extremity edema compared to her baseline. She has no calf tenderness. She denies significant dietary indiscretion or medical noncompliance. ALLERGIES: Codeine causes nausea or vomiting. Iodine causes hives. Morphine causes respiratory distress. MEDICATIONS: Coumadin , Lopressor , Lasix , Zantac , Elavil , K-Dur , and Premarin. PHYSICAL EXAMINATION: VITAL SIGNS - Temp 98.2 , heart rate 94 , BP in the ED 220/118 , later on the floor 140/78 , respiratory rate 28 , O2 sat 94% on room air , peak flow 370. GENERAL - She is comfortable sitting upright , but has paroxysmal coughing when lying flat. LUNGS - Crackles halfway up bilaterally , diffuse loud wheezing and rhonchi , especially anteriorly , JVP 6 cm. HEART - Crisp S1 , S2 , no murmur , rubs , or gallops. ABDOMEN - #obese# , mildly distended , positive bowel sounds. No tenderness. EXTREMITIES - 1+ peripheral edema , positive calf tenderness on left , negative cord , negative Homan. NEURO - Non-focal. In the Emergency Department she was treated with nebulizers with marked clearing of her lung sounds. LABORATORY DATA: Normal Chem-7. White count 10 , hematocrit 42. Normal LFTs. Albumin 4.2 , PT 20 , INR 3. EKG - Normal sinus rhythm at 90 , normal axis , normal intervals , no Q-waves , no acute ST-T wave changes. Chest x-ray - Mild cardiomegaly , mild increase in interstitial markings , no effusions , no infiltrates. HOSPITAL COURSE: She was admitted to the Cardiology Service. She was diuresed about one liter per day. During her admission , and echocardiogram was done on 11/7/98 that showed normal EF , normal systolic function , and normal valve motion. She was hemodynamically stable throughout the course of her admission , showing only mild symptoms of heart failure that improved with diuresis. She was continued on Coumadin , but given half her regular dose because of antibiotic therapy. She was afebrile with negative cultures during her admission , but complained of severe paroxysmal coughing especially at night. For this , she was treated with Atrovent and normal saline nebs , Robitussin , Entex , and Tessalon-Perles. Her dose of Lopressor was half to relieve her bronchospasm. By the day of discharge , her cough was much improved and she was discharged home in stable condition. DISCHARGE MEDICATIONS: Premarin 1.25 mg p.o. q.d.; Robitussin AC 5-10 ml p.o. q.4-6h. p.r.n. cough; Lopressor 25 mg p.o. b.i.d.; nortriptyline 125 mg p.o. h.s.; Coumadin 10 mg p.o. q.d.; Axid 150 mg p.o. b.i.d.; Tessalon-Perles 100 mg p.o. t.i.d. p.r.n. cough; Entex LA 1 tab p.o. b.i.d. p.r.n. cough; Lasix 40 mg p.o. q.d. By the day of discharge , she had completed a five day course of azithromycin. DISCHARGE FOLLOW-UP: She will follow-up with her primary care doctor , Dr. Vancooten within one week. She will follow-up with her cardiologist , Dr. Cacace in 2-3 weeks , and with the Coumadin nurse in one day. She will also check her blood pressure at home daily. CONDITION ON DISCHARGE: Stable condition. DISCHARGE DISPOSITION: The patient was discharged to home. Dictated By: REID WEIR , M.D. CK29 Attending: SAL V. KOSHAR , M.D. LB7 GH882/1143 Batch: 57783 Index No. IUVEE046KI D: 2/13/98 T: 2/13/98", 
+    "tri": {
+        "#asthma#": {
+            "HISTORY~OF": 1.0
+        }, 
+        "#obese#": {
+            "ABDOMEN~-": 1.0
+        }, 
+        "(": {
+            ")~1996.": 0.07692307692307693, 
+            ")~FIBROMYALGIA.": 0.07692307692307693, 
+            ")~GALLSTONES.": 0.07692307692307693, 
+            ")~HYPERTENSION.": 0.07692307692307693, 
+            ")~MIGRAINES.": 0.07692307692307693, 
+            ")~OSTEOARTHRITIS.": 0.07692307692307693, 
+            "BYPASS~GRAFT": 0.07692307692307693, 
+            "HIATAL~HERNIA.": 0.07692307692307693, 
+            "PUD~).": 0.07692307692307693, 
+            "PULMONARY~DISEASE": 0.07692307692307693, 
+            "PULMONARY~DISEASE.": 0.07692307692307693, 
+            "REPLACEMENT~1996.": 0.07692307692307693, 
+            "SECONDARY~DIAGNOSES:": 0.07692307692307693
+        }, 
+        ")": {
+            "(~1": 0.08333333333333333, 
+            "(~10": 0.08333333333333333, 
+            "(~11": 0.08333333333333333, 
+            "(~2": 0.08333333333333333, 
+            "(~3": 0.08333333333333333, 
+            "(~4": 0.08333333333333333, 
+            "(~5": 0.08333333333333333, 
+            "(~6": 0.08333333333333333, 
+            "(~7": 0.08333333333333333, 
+            "(~8": 0.08333333333333333, 
+            "(~9": 0.08333333333333333, 
+            "(~CABG": 0.08333333333333333
+        }, 
+        ").": {
+            "(~PUD": 1.0
+        }, 
+        ",": {
+            ",~Elavil": 0.016666666666666666, 
+            ",~Entex": 0.016666666666666666, 
+            ",~K-Dur": 0.016666666666666666, 
+            ",~Lasix": 0.016666666666666666, 
+            ",~Lopressor": 0.016666666666666666, 
+            ",~Robitussin": 0.016666666666666666, 
+            ",~S2": 0.016666666666666666, 
+            ",~Zantac": 0.016666666666666666, 
+            ",~headache": 0.016666666666666666, 
+            ",~rubs": 0.016666666666666666, 
+            "-~#obese#": 0.016666666666666666, 
+            "2-3~weeks": 0.016666666666666666, 
+            "52-year-old~woman": 0.016666666666666666, 
+            "Albumin~4.2": 0.016666666666666666, 
+            "Crisp~S1": 0.016666666666666666, 
+            "ED~220/118": 0.016666666666666666, 
+            "For~this": 0.016666666666666666, 
+            "MEDICATIONS:~Coumadin": 0.016666666666666666, 
+            "Mild~cardiomegaly": 0.016666666666666666, 
+            "PT~20": 0.016666666666666666, 
+            "REID~WEIR": 0.016666666666666666, 
+            "Temp~98.2": 0.016666666666666666, 
+            "V.~KOSHAR": 0.016666666666666666, 
+            "and~CABG": 0.016666666666666666, 
+            "and~rhonchi": 0.016666666666666666, 
+            "at~90": 0.016666666666666666, 
+            "before~admission": 0.016666666666666666, 
+            "care~doctor": 0.016666666666666666, 
+            "chest~pain": 0.016666666666666666, 
+            "count~10": 0.016666666666666666, 
+            "diffuse~myalgias": 0.016666666666666666, 
+            "especially~anteriorly": 0.016666666666666666, 
+            "floor~140/78": 0.016666666666666666, 
+            "her~admission": 0.05, 
+            "her~cardiologist": 0.016666666666666666, 
+            "interstitial~markings": 0.016666666666666666, 
+            "mildly~distended": 0.016666666666666666, 
+            "negative~cord": 0.016666666666666666, 
+            "normal~EF": 0.016666666666666666, 
+            "normal~axis": 0.016666666666666666, 
+            "normal~intervals": 0.016666666666666666, 
+            "no~Q-waves": 0.016666666666666666, 
+            "no~effusions": 0.016666666666666666, 
+            "no~murmur": 0.016666666666666666, 
+            "of~discharge": 0.03333333333333333, 
+            "on~Coumadin": 0.016666666666666666, 
+            "on~left": 0.016666666666666666, 
+            "peripheral~edema": 0.016666666666666666, 
+            "rate~28": 0.016666666666666666, 
+            "rate~94": 0.016666666666666666, 
+            "room~air": 0.016666666666666666, 
+            "saline~nebs": 0.016666666666666666, 
+            "sitting~upright": 0.016666666666666666, 
+            "systolic~function": 0.016666666666666666, 
+            "up~bilaterally": 0.016666666666666666, 
+            "with~fever": 0.016666666666666666, 
+            "yellow~sputum": 0.016666666666666666
+        }, 
+        "-": {
+            "3.~EKG": 0.1111111111111111, 
+            "370.~GENERAL": 0.1111111111111111, 
+            "Chest~x-ray": 0.1111111111111111, 
+            "Homan.~NEURO": 0.1111111111111111, 
+            "VITAL~SIGNS": 0.1111111111111111, 
+            "cm.~HEART": 0.1111111111111111, 
+            "flat.~LUNGS": 0.1111111111111111, 
+            "gallops.~ABDOMEN": 0.1111111111111111, 
+            "tenderness.~EXTREMITIES": 0.1111111111111111
+        }, 
+        "1": {
+            "DIAGNOSES:~(": 0.5, 
+            "Entex~LA": 0.5
+        }, 
+        "1+": {
+            "EXTREMITIES~-": 1.0
+        }, 
+        "1.25": {
+            "MEDICATIONS:~Premarin": 1.0
+        }, 
+        "10": {
+            "FIBROMYALGIA.~(": 0.3333333333333333, 
+            "White~count": 0.3333333333333333, 
+            "h.s.;~Coumadin": 0.3333333333333333
+        }, 
+        "100": {
+            "b.i.d.;~Tessalon-Perles": 1.0
+        }, 
+        "11": {
+            "OSTEOARTHRITIS.~(": 1.0
+        }, 
+        "11/7/98": {
+            "done~on": 1.0
+        }, 
+        "125": {
+            "b.i.d.;~nortriptyline": 1.0
+        }, 
+        "12:00:00": {
+            "|~8/28/1998": 1.0
+        }, 
+        "140/78": {
+            "the~floor": 1.0
+        }, 
+        "150": {
+            "q.d.;~Axid": 1.0
+        }, 
+        "1996": {
+            "syndrome~in": 1.0
+        }, 
+        "1996.": {
+            "CABG~)": 0.5, 
+            "VALVE~REPLACEMENT": 0.5
+        }, 
+        "2": {
+            "1996.~(": 1.0
+        }, 
+        "2-3": {
+            "Cacace~in": 1.0
+        }, 
+        "2/10": {
+            "replacement~in": 1.0
+        }, 
+        "2/13/98": {
+            "2/13/98~T:": 0.5, 
+            "IUVEE046KI~D:": 0.5
+        }, 
+        "20": {
+            ",~PT": 1.0
+        }, 
+        "220/118": {
+            "the~ED": 1.0
+        }, 
+        "25": {
+            "cough;~Lopressor": 1.0
+        }, 
+        "28": {
+            "respiratory~rate": 1.0
+        }, 
+        "3": {
+            "1996.~(": 1.0
+        }, 
+        "3.": {
+            ",~INR": 1.0
+        }, 
+        "370.": {
+            "peak~flow": 1.0
+        }, 
+        "4": {
+            "DISEASE.~(": 1.0
+        }, 
+        "4.2": {
+            "LFTs.~Albumin": 1.0
+        }, 
+        "4/12/1998": {
+            "Discharge~Date:": 1.0
+        }, 
+        "40": {
+            "cough;~Lasix": 1.0
+        }, 
+        "42.": {
+            ",~hematocrit": 1.0
+        }, 
+        "5": {
+            "HYPERTENSION.~(": 1.0
+        }, 
+        "5-10": {
+            "Robitussin~AC": 1.0
+        }, 
+        "51217568": {
+            "AHC~|": 1.0
+        }, 
+        "52-year-old": {
+            "is~a": 1.0
+        }, 
+        "57783": {
+            "GH882/1143~Batch:": 1.0
+        }, 
+        "6": {
+            ",~JVP": 0.5, 
+            "GALLSTONES.~(": 0.5
+        }, 
+        "6/1/1998": {
+            "Admission~Date:": 1.0
+        }, 
+        "7": {
+            ").~(": 1.0
+        }, 
+        "715754": {
+            "|~|": 1.0
+        }, 
+        "8": {
+            "HERNIA.~(": 1.0
+        }, 
+        "8/28/1998": {
+            "715754~|": 1.0
+        }, 
+        "9": {
+            "MIGRAINES.~(": 1.0
+        }, 
+        "90": {
+            "rhythm~at": 1.0
+        }, 
+        "94": {
+            "heart~rate": 1.0
+        }, 
+        "94%": {
+            "O2~sat": 1.0
+        }, 
+        "98.2": {
+            "-~Temp": 1.0
+        }, 
+        "ABDOMEN": {
+            "or~gallops.": 1.0
+        }, 
+        "ABDOMINAL": {
+            "POST~TOTAL": 1.0
+        }, 
+        "AC": {
+            "q.d.;~Robitussin": 1.0
+        }, 
+        "AHC": {
+            "431917214~|": 1.0
+        }, 
+        "ALLERGIES:": {
+            "medical~noncompliance.": 1.0
+        }, 
+        "AM": {
+            "8/28/1998~12:00:00": 1.0
+        }, 
+        "ARTERY": {
+            "VESSEL~CORONARY": 1.0
+        }, 
+        "Admission": {
+            "DIS~|": 1.0
+        }, 
+        "Albumin": {
+            "Normal~LFTs.": 1.0
+        }, 
+        "Approximately": {
+            "minimal~relief.": 1.0
+        }, 
+        "Atrovent": {
+            "treated~with": 1.0
+        }, 
+        "Attending:": {
+            "M.D.~CK29": 1.0
+        }, 
+        "Axid": {
+            "p.o.~q.d.;": 1.0
+        }, 
+        "BILATERAL": {
+            "ABDOMINAL~HYSTERECTOMY": 1.0
+        }, 
+        "BP": {
+            "94~,": 1.0
+        }, 
+        "BYPASS": {
+            "CORONARY~ARTERY": 1.0
+        }, 
+        "Batch:": {
+            "LB7~GH882/1143": 1.0
+        }, 
+        "By": {
+            "her~bronchospasm.": 0.5, 
+            "p.o.~q.d.": 0.5
+        }, 
+        "By:": {
+            "home.~Dictated": 1.0
+        }, 
+        "CABG": {
+            "GRAFT~(": 0.3333333333333333, 
+            "MVR~and": 0.3333333333333333, 
+            "at~her": 0.3333333333333333
+        }, 
+        "CHF/bronchospasm": {
+            "presented~with": 1.0
+        }, 
+        "CK29": {
+            ",~M.D.": 1.0
+        }, 
+        "CONDITION": {
+            "home~daily.": 1.0
+        }, 
+        "CONGESTIVE": {
+            "AM~|": 1.0
+        }, 
+        "CORONARY": {
+            "TWO~VESSEL": 1.0
+        }, 
+        "COURSE:": {
+            "infiltrates.~HOSPITAL": 1.0
+        }, 
+        "Cacace": {
+            ",~Dr.": 1.0
+        }, 
+        "Cardiology": {
+            "to~the": 1.0
+        }, 
+        "Chem-7.": {
+            "DATA:~Normal": 1.0
+        }, 
+        "Chest": {
+            "wave~changes.": 1.0
+        }, 
+        "Codeine": {
+            "noncompliance.~ALLERGIES:": 1.0
+        }, 
+        "Coumadin": {
+            "continued~on": 0.25, 
+            "distress.~MEDICATIONS:": 0.25, 
+            "p.o.~h.s.;": 0.25, 
+            "with~the": 0.25
+        }, 
+        "Crackles": {
+            "LUNGS~-": 1.0
+        }, 
+        "Crisp": {
+            "HEART~-": 1.0
+        }, 
+        "D:": {
+            "No.~IUVEE046KI": 1.0
+        }, 
+        "DATA:": {
+            "sounds.~LABORATORY": 1.0
+        }, 
+        "DIAGNOSES:": {
+            "TRACHEOBRONCHITIS.~SECONDARY": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "4/12/1998~PRINCIPAL": 1.0
+        }, 
+        "DIS": {
+            "Signed~|": 1.0
+        }, 
+        "DISCHARGE": {
+            "Stable~condition.": 0.3333333333333333, 
+            "of~azithromycin.": 0.3333333333333333, 
+            "stable~condition.": 0.3333333333333333
+        }, 
+        "DISCHARGE:": {
+            "CONDITION~ON": 1.0
+        }, 
+        "DISEASE": {
+            ")~PULMONARY": 1.0
+        }, 
+        "DISEASE.": {
+            "OBSTRUCTIVE~PULMONARY": 1.0
+        }, 
+        "DISPOSITION:": {
+            "condition.~DISCHARGE": 1.0
+        }, 
+        "Date:": {
+            "Signed~Discharge": 0.5, 
+            "|~Admission": 0.5
+        }, 
+        "Department": {
+            "the~Emergency": 1.0
+        }, 
+        "Dictated": {
+            "to~home.": 1.0
+        }, 
+        "Discharge": {
+            "Status:~Signed": 1.0
+        }, 
+        "Dr.": {
+            "cardiologist~,": 0.5, 
+            "doctor~,": 0.5
+        }, 
+        "During": {
+            "per~day.": 1.0
+        }, 
+        "ED": {
+            "in~the": 1.0
+        }, 
+        "EF": {
+            "showed~normal": 1.0
+        }, 
+        "EKG": {
+            "INR~3.": 1.0
+        }, 
+        "EXAMINATION:": {
+            "Premarin.~PHYSICAL": 1.0
+        }, 
+        "EXTREMITIES": {
+            "No~tenderness.": 1.0
+        }, 
+        "Elavil": {
+            "Zantac~,": 1.0
+        }, 
+        "Emergency": {
+            "In~the": 1.0
+        }, 
+        "Entex": {
+            "Robitussin~,": 0.5, 
+            "p.r.n.~cough;": 0.5
+        }, 
+        "FAILURE": {
+            "CONGESTIVE~HEART": 1.0
+        }, 
+        "FIBROMYALGIA.": {
+            "9~)": 1.0
+        }, 
+        "FOLLOW-UP:": {
+            "azithromycin.~DISCHARGE": 1.0
+        }, 
+        "For": {
+            "at~night.": 1.0
+        }, 
+        "GALLSTONES.": {
+            "5~)": 1.0
+        }, 
+        "GENERAL": {
+            "flow~370.": 1.0
+        }, 
+        "GH882/1143": {
+            "M.D.~LB7": 1.0
+        }, 
+        "GRAFT": {
+            "ARTERY~BYPASS": 1.0
+        }, 
+        "HEART": {
+            "6~cm.": 0.5, 
+            "|~CONGESTIVE": 0.5
+        }, 
+        "HERNIA.": {
+            ")~HIATAL": 1.0
+        }, 
+        "HIATAL": {
+            "7~)": 1.0
+        }, 
+        "HISTORY": {
+            "3~)": 0.5, 
+            "BILATERAL~SALPINGO-OOPHORECTOMY.": 0.5
+        }, 
+        "HOSPITAL": {
+            "no~infiltrates.": 1.0
+        }, 
+        "HYPERTENSION.": {
+            "4~)": 1.0
+        }, 
+        "HYSTERECTOMY": {
+            "TOTAL~ABDOMINAL": 1.0
+        }, 
+        "Her": {
+            "and~Tessalon-Perles.": 0.5, 
+            "heart~disease.": 0.5
+        }, 
+        "Homan.": {
+            ",~negative": 1.0
+        }, 
+        "ILLNESS:": {
+            "OF~PRESENT": 1.0
+        }, 
+        "INR": {
+            "20~,": 1.0
+        }, 
+        "IUVEE046KI": {
+            "Index~No.": 1.0
+        }, 
+        "In": {
+            "-~Non-focal.": 1.0
+        }, 
+        "Index": {
+            "Batch:~57783": 1.0
+        }, 
+        "Iodine": {
+            "or~vomiting.": 1.0
+        }, 
+        "JUDE'S": {
+            "POST~ST.": 1.0
+        }, 
+        "JVP": {
+            "anteriorly~,": 1.0
+        }, 
+        "Jude's": {
+            "after~St.": 1.0
+        }, 
+        "K-Dur": {
+            "Elavil~,": 1.0
+        }, 
+        "KOSHAR": {
+            "SAL~V.": 1.0
+        }, 
+        "LA": {
+            "cough;~Entex": 1.0
+        }, 
+        "LABORATORY": {
+            "lung~sounds.": 1.0
+        }, 
+        "LB7": {
+            ",~M.D.": 1.0
+        }, 
+        "LFTs.": {
+            "42.~Normal": 1.0
+        }, 
+        "LUNGS": {
+            "lying~flat.": 1.0
+        }, 
+        "Lasix": {
+            "Lopressor~,": 0.5, 
+            "p.r.n.~cough;": 0.5
+        }, 
+        "Lopressor": {
+            "Coumadin~,": 0.3333333333333333, 
+            "dose~of": 0.3333333333333333, 
+            "p.r.n.~cough;": 0.3333333333333333
+        }, 
+        "M.D.": {
+            "KOSHAR~,": 0.5, 
+            "WEIR~,": 0.5
+        }, 
+        "MEDICATIONS:": {
+            "condition.~DISCHARGE": 0.5, 
+            "respiratory~distress.": 0.5
+        }, 
+        "MIGRAINES.": {
+            "8~)": 1.0
+        }, 
+        "MITRAL": {
+            "ST.~JUDE'S": 1.0
+        }, 
+        "MVR": {
+            "status~post": 1.0
+        }, 
+        "Mild": {
+            "x-ray~-": 1.0
+        }, 
+        "Morphine": {
+            "causes~hives.": 1.0
+        }, 
+        "NEURO": {
+            "negative~Homan.": 1.0
+        }, 
+        "No": {
+            "bowel~sounds.": 1.0
+        }, 
+        "No.": {
+            "57783~Index": 1.0
+        }, 
+        "Non-focal.": {
+            "NEURO~-": 1.0
+        }, 
+        "Normal": {
+            "EKG~-": 0.3333333333333333, 
+            "LABORATORY~DATA:": 0.3333333333333333, 
+            "hematocrit~42.": 0.3333333333333333
+        }, 
+        "O2": {
+            "28~,": 1.0
+        }, 
+        "OBSTRUCTIVE": {
+            "OF~#asthma#": 1.0
+        }, 
+        "OF": {
+            ")~HISTORY": 0.5, 
+            "SALPINGO-OOPHORECTOMY.~HISTORY": 0.5
+        }, 
+        "ON": {
+            "daily.~CONDITION": 1.0
+        }, 
+        "OSTEOARTHRITIS.": {
+            "10~)": 1.0
+        }, 
+        "PHYSICAL": {
+            "and~Premarin.": 1.0
+        }, 
+        "POST": {
+            ")~STATUS": 1.0
+        }, 
+        "PRESENT": {
+            "HISTORY~OF": 1.0
+        }, 
+        "PRINCIPAL": {
+            "Date:~4/12/1998": 1.0
+        }, 
+        "PT": {
+            "4.2~,": 1.0
+        }, 
+        "PUD": {
+            "DISEASE~(": 1.0
+        }, 
+        "PULMONARY": {
+            "#asthma#~OBSTRUCTIVE": 0.5, 
+            "6~)": 0.5
+        }, 
+        "Premarin": {
+            "DISCHARGE~MEDICATIONS:": 1.0
+        }, 
+        "Premarin.": {
+            ",~and": 1.0
+        }, 
+        "Q-waves": {
+            ",~no": 1.0
+        }, 
+        "REID": {
+            "Dictated~By:": 1.0
+        }, 
+        "REPLACEMENT": {
+            "MITRAL~VALVE": 1.0
+        }, 
+        "Report": {
+            "Date:~6/1/1998": 1.0
+        }, 
+        "Robitussin": {
+            "nebs~,": 0.5, 
+            "p.o.~q.d.;": 0.5
+        }, 
+        "S1": {
+            "-~Crisp": 1.0
+        }, 
+        "S2": {
+            "S1~,": 1.0
+        }, 
+        "SAL": {
+            "CK29~Attending:": 1.0
+        }, 
+        "SALPINGO-OOPHORECTOMY.": {
+            "HYSTERECTOMY~BILATERAL": 1.0
+        }, 
+        "SECONDARY": {
+            "DIAGNOSIS:~TRACHEOBRONCHITIS.": 1.0
+        }, 
+        "SIGNS": {
+            "EXAMINATION:~VITAL": 1.0
+        }, 
+        "ST-T": {
+            "no~acute": 1.0
+        }, 
+        "ST.": {
+            "STATUS~POST": 1.0
+        }, 
+        "STATUS": {
+            "11~)": 0.3333333333333333, 
+            "1~)": 0.3333333333333333, 
+            "2~)": 0.3333333333333333
+        }, 
+        "Service.": {
+            "the~Cardiology": 1.0
+        }, 
+        "She": {
+            "Cardiology~Service.": 0.05555555555555555, 
+            "DISCHARGE~FOLLOW-UP:": 0.05555555555555555, 
+            "GENERAL~-": 0.05555555555555555, 
+            "HOSPITAL~COURSE:": 0.05555555555555555, 
+            "and~wheezing.": 0.05555555555555555, 
+            "antibiotic~therapy.": 0.05555555555555555, 
+            "calf~tenderness.": 0.05555555555555555, 
+            "doing~laundry.": 0.05555555555555555, 
+            "her~baseline.": 0.05555555555555555, 
+            "in~2/10": 0.05555555555555555, 
+            "one~day.": 0.05555555555555555, 
+            "one~week.": 0.05555555555555555, 
+            "or~palpitations.": 0.05555555555555555, 
+            "postnasal~discharge.": 0.05555555555555555, 
+            "she~coughs.": 0.05555555555555555, 
+            "three~days.": 0.05555555555555555, 
+            "valve~motion.": 0.05555555555555555, 
+            "with~diuresis.": 0.05555555555555555
+        }, 
+        "Signed": {
+            "FAILURE~|": 0.5, 
+            "Report~Status:": 0.5
+        }, 
+        "St.": {
+            "resolved~after": 1.0
+        }, 
+        "Stable": {
+            "ON~DISCHARGE:": 1.0
+        }, 
+        "Status:": {
+            "6/1/1998~Report": 1.0
+        }, 
+        "T:": {
+            "D:~2/13/98": 1.0
+        }, 
+        "TOTAL": {
+            "STATUS~POST": 1.0
+        }, 
+        "TRACHEOBRONCHITIS.": {
+            "PRINCIPAL~DIAGNOSIS:": 1.0
+        }, 
+        "TWO": {
+            "STATUS~POST": 1.0
+        }, 
+        "Temp": {
+            "SIGNS~-": 1.0
+        }, 
+        "Tessalon-Perles": {
+            "p.o.~b.i.d.;": 1.0
+        }, 
+        "Tessalon-Perles.": {
+            ",~and": 1.0
+        }, 
+        "The": {
+            "DISCHARGE~DISPOSITION:": 0.5, 
+            "PRESENT~ILLNESS:": 0.5
+        }, 
+        "V.": {
+            "Attending:~SAL": 1.0
+        }, 
+        "VALVE": {
+            "JUDE'S~MITRAL": 1.0
+        }, 
+        "VESSEL": {
+            "POST~TWO": 1.0
+        }, 
+        "VITAL": {
+            "PHYSICAL~EXAMINATION:": 1.0
+        }, 
+        "Vancooten": {
+            ",~Dr.": 1.0
+        }, 
+        "WEIR": {
+            "By:~REID": 1.0
+        }, 
+        "White": {
+            "Normal~Chem-7.": 1.0
+        }, 
+        "Zantac": {
+            "Lasix~,": 1.0
+        }, 
+        "a": {
+            "had~completed": 0.3333333333333333, 
+            "patient~is": 0.3333333333333333, 
+            "she~contracted": 0.3333333333333333
+        }, 
+        "about": {
+            "was~diuresed": 1.0
+        }, 
+        "accompanied": {
+            "lying~flat": 1.0
+        }, 
+        "acute": {
+            ",~no": 1.0
+        }, 
+        "admission": {
+            "During~her": 0.2, 
+            "days~before": 0.2, 
+            "during~her": 0.2, 
+            "of~her": 0.2, 
+            "week~before": 0.2
+        }, 
+        "admitted": {
+            "She~was": 1.0
+        }, 
+        "afebrile": {
+            "She~was": 1.0
+        }, 
+        "after": {
+            "symptoms~resolved": 1.0
+        }, 
+        "air": {
+            "on~room": 1.0
+        }, 
+        "also": {
+            "She~has": 0.5, 
+            "She~will": 0.5
+        }, 
+        "amoxicillin": {
+            "was~prescribed": 1.0
+        }, 
+        "and": {
+            "Entex~,": 0.07692307692307693, 
+            "K-Dur~,": 0.07692307692307693, 
+            "admission~,": 0.07692307692307693, 
+            "by~cough": 0.07692307692307693, 
+            "function~,": 0.07692307692307693, 
+            "headache~,": 0.07692307692307693, 
+            "loud~wheezing": 0.07692307692307693, 
+            "mitral~regurgitation": 0.07692307692307693, 
+            "much~improved": 0.07692307692307693, 
+            "post~MVR": 0.07692307692307693, 
+            "weeks~,": 0.07692307692307693, 
+            "with~Atrovent": 0.07692307692307693, 
+            "with~orthopnea": 0.07692307692307693
+        }, 
+        "anteriorly": {
+            ",~especially": 1.0
+        }, 
+        "antibiotic": {
+            "because~of": 1.0
+        }, 
+        "approximately": {
+            "health~until": 1.0
+        }, 
+        "as": {
+            "exertion~such": 1.0
+        }, 
+        "ascribed": {
+            "was~ultimately": 1.0
+        }, 
+        "at": {
+            "blood~pressure": 0.25, 
+            "coughing~especially": 0.25, 
+            "sinus~rhythm": 0.25, 
+            "some~soreness": 0.25
+        }, 
+        "axis": {
+            ",~normal": 1.0
+        }, 
+        "azithromycin.": {
+            "course~of": 1.0
+        }, 
+        "b.i.d.": {
+            "tab~p.o.": 1.0
+        }, 
+        "b.i.d.;": {
+            "mg~p.o.": 1.0
+        }, 
+        "baseline.": {
+            "to~her": 1.0
+        }, 
+        "because": {
+            "regular~dose": 1.0
+        }, 
+        "been": {
+            "She~has": 1.0
+        }, 
+        "before": {
+            "one~week": 0.5, 
+            "three~days": 0.5
+        }, 
+        "bilaterally": {
+            "halfway~up": 1.0
+        }, 
+        "blood": {
+            "check~her": 1.0
+        }, 
+        "bowel": {
+            ",~positive": 1.0
+        }, 
+        "breath": {
+            "shortness~of": 1.0
+        }, 
+        "bronchospasm.": {
+            "relieve~her": 1.0
+        }, 
+        "but": {
+            "Coumadin~,": 0.3333333333333333, 
+            "admission~,": 0.3333333333333333, 
+            "upright~,": 0.3333333333333333
+        }, 
+        "by": {
+            "flat~accompanied": 0.5, 
+            "prescribed~amoxicillin": 0.5
+        }, 
+        "calf": {
+            ",~positive": 0.5, 
+            "has~no": 0.5
+        }, 
+        "cardiologist": {
+            "with~her": 1.0
+        }, 
+        "cardiomegaly": {
+            "-~Mild": 1.0
+        }, 
+        "care": {
+            "her~primary": 1.0
+        }, 
+        "causes": {
+            "ALLERGIES:~Codeine": 0.3333333333333333, 
+            "hives.~Morphine": 0.3333333333333333, 
+            "vomiting.~Iodine": 0.3333333333333333
+        }, 
+        "changes.": {
+            "ST-T~wave": 1.0
+        }, 
+        "check": {
+            "will~also": 1.0
+        }, 
+        "chest": {
+            "She~denies": 1.0
+        }, 
+        "clearing": {
+            "with~marked": 1.0
+        }, 
+        "cm.": {
+            "JVP~6": 1.0
+        }, 
+        "comfortable": {
+            "She~is": 1.0
+        }, 
+        "compared": {
+            "extremity~edema": 1.0
+        }, 
+        "complained": {
+            ",~but": 1.0
+        }, 
+        "completed": {
+            "she~had": 1.0
+        }, 
+        "condition.": {
+            "DISCHARGE:~Stable": 0.5, 
+            "in~stable": 0.5
+        }, 
+        "continued": {
+            "She~was": 1.0
+        }, 
+        "contracted": {
+            "when~she": 1.0
+        }, 
+        "cord": {
+            ",~negative": 1.0
+        }, 
+        "cough": {
+            ",~her": 0.3333333333333333, 
+            "accompanied~by": 0.3333333333333333, 
+            "fever~,": 0.3333333333333333
+        }, 
+        "cough;": {
+            "b.i.d.~p.r.n.": 0.3333333333333333, 
+            "q.4-6h.~p.r.n.": 0.3333333333333333, 
+            "t.i.d.~p.r.n.": 0.3333333333333333
+        }, 
+        "coughing": {
+            "has~paroxysmal": 0.5, 
+            "severe~paroxysmal": 0.5
+        }, 
+        "coughs.": {
+            "whenever~she": 1.0
+        }, 
+        "count": {
+            "Chem-7.~White": 1.0
+        }, 
+        "course": {
+            "five~day": 0.5, 
+            "throughout~the": 0.5
+        }, 
+        "cultures": {
+            "with~negative": 1.0
+        }, 
+        "daily.": {
+            "at~home": 1.0
+        }, 
+        "day": {
+            "By~the": 0.6666666666666666, 
+            "a~five": 0.3333333333333333
+        }, 
+        "day.": {
+            "in~one": 0.5, 
+            "liter~per": 0.5
+        }, 
+        "days": {
+            "Approximately~three": 1.0
+        }, 
+        "days.": {
+            "for~three": 1.0
+        }, 
+        "denies": {
+            "coughs.~She": 0.3333333333333333, 
+            "laundry.~She": 0.3333333333333333, 
+            "tenderness.~She": 0.3333333333333333
+        }, 
+        "describe": {
+            "She~does": 1.0
+        }, 
+        "dietary": {
+            "denies~significant": 1.0
+        }, 
+        "diffuse": {
+            ",~and": 0.5, 
+            "bilaterally~,": 0.5
+        }, 
+        "discharge": {
+            "day~of": 1.0
+        }, 
+        "discharge.": {
+            ",~postnasal": 1.0
+        }, 
+        "discharged": {
+            "patient~was": 0.5, 
+            "she~was": 0.5
+        }, 
+        "disease.": {
+            "rheumatic~heart": 1.0
+        }, 
+        "distended": {
+            ",~mildly": 1.0
+        }, 
+        "distress.": {
+            "causes~respiratory": 1.0
+        }, 
+        "diuresed": {
+            "She~was": 1.0
+        }, 
+        "diuresis.": {
+            "improved~with": 1.0
+        }, 
+        "doctor": {
+            "primary~care": 1.0
+        }, 
+        "does": {
+            "palpitations.~She": 1.0
+        }, 
+        "doing": {
+            "as~while": 1.0
+        }, 
+        "done": {
+            "echocardiogram~was": 1.0
+        }, 
+        "dose": {
+            "Tessalon-Perles.~Her": 0.5, 
+            "her~regular": 0.5
+        }, 
+        "during": {
+            "negative~cultures": 1.0
+        }, 
+        "dyspnea": {
+            "also~had": 0.5, 
+            "orthopnea~and": 0.5
+        }, 
+        "echocardiogram": {
+            ",~and": 1.0
+        }, 
+        "edema": {
+            "1+~peripheral": 0.5, 
+            "lower~extremity": 0.5
+        }, 
+        "effusions": {
+            ",~no": 1.0
+        }, 
+        "especially": {
+            "paroxysmal~coughing": 0.5, 
+            "rhonchi~,": 0.5
+        }, 
+        "except": {
+            "pain~,": 1.0
+        }, 
+        "exertion": {
+            "dyspnea~on": 1.0
+        }, 
+        "extremity": {
+            "increasing~lower": 1.0
+        }, 
+        "failure": {
+            "of~heart": 1.0
+        }, 
+        "fever": {
+            "illness~with": 1.0
+        }, 
+        "five": {
+            "completed~a": 1.0
+        }, 
+        "flat": {
+            "when~lying": 1.0
+        }, 
+        "flat.": {
+            "when~lying": 1.0
+        }, 
+        "floor": {
+            "on~the": 1.0
+        }, 
+        "flow": {
+            ",~peak": 1.0
+        }, 
+        "flu-like": {
+            "contracted~a": 1.0
+        }, 
+        "follow-up": {
+            "She~will": 1.0
+        }, 
+        "for": {
+            "on~exertion": 1.0
+        }, 
+        "function": {
+            "normal~systolic": 1.0
+        }, 
+        "gallops.": {
+            ",~or": 1.0
+        }, 
+        "given": {
+            ",~but": 1.0
+        }, 
+        "h.s.;": {
+            "mg~p.o.": 1.0
+        }, 
+        "had": {
+            ",~she": 0.5, 
+            "has~also": 0.5
+        }, 
+        "half": {
+            "Lopressor~was": 0.5, 
+            "but~given": 0.5
+        }, 
+        "halfway": {
+            "-~Crackles": 1.0
+        }, 
+        "has": {
+            ",~but": 0.25, 
+            "2/10~She": 0.25, 
+            "baseline.~She": 0.25, 
+            "wheezing.~She": 0.25
+        }, 
+        "headache": {
+            "sputum~,": 1.0
+        }, 
+        "health": {
+            "state~of": 1.0
+        }, 
+        "heart": {
+            "98.2~,": 0.3333333333333333, 
+            "symptoms~of": 0.3333333333333333, 
+            "to~rheumatic": 0.3333333333333333
+        }, 
+        "hematocrit": {
+            "10~,": 1.0
+        }, 
+        "hemodynamically": {
+            "She~was": 1.0
+        }, 
+        "her": {
+            "also~check": 0.07142857142857142, 
+            "amoxicillin~by": 0.07142857142857142, 
+            "been~in": 0.07142857142857142, 
+            "clearing~of": 0.07142857142857142, 
+            "compared~to": 0.07142857142857142, 
+            "course~of": 0.07142857142857142, 
+            "cultures~during": 0.07142857142857142, 
+            "day.~During": 0.07142857142857142, 
+            "discharge~,": 0.07142857142857142, 
+            "follow-up~with": 0.14285714285714285, 
+            "given~half": 0.07142857142857142, 
+            "soreness~at": 0.07142857142857142, 
+            "to~relieve": 0.07142857142857142
+        }, 
+        "hives.": {
+            "Iodine~causes": 1.0
+        }, 
+        "home": {
+            "pressure~at": 0.5, 
+            "was~discharged": 0.5
+        }, 
+        "home.": {
+            "discharged~to": 1.0
+        }, 
+        "illness": {
+            "a~flu-like": 1.0
+        }, 
+        "improved": {
+            "failure~that": 0.5, 
+            "was~much": 0.5
+        }, 
+        "in": {
+            ",~BP": 0.125, 
+            "CHF/bronchospasm~syndrome": 0.125, 
+            "Coumadin~nurse": 0.125, 
+            "Dr.~Cacace": 0.125, 
+            "discharged~home": 0.125, 
+            "has~been": 0.125, 
+            "mild~increase": 0.125, 
+            "valve~replacement": 0.125
+        }, 
+        "increase": {
+            ",~mild": 1.0
+        }, 
+        "increasing": {
+            "does~describe": 0.5, 
+            "she~noted": 0.5
+        }, 
+        "indiscretion": {
+            "significant~dietary": 1.0
+        }, 
+        "infiltrates.": {
+            ",~no": 1.0
+        }, 
+        "interstitial": {
+            "increase~in": 1.0
+        }, 
+        "intervals": {
+            ",~normal": 1.0
+        }, 
+        "is": {
+            ",~who": 0.3333333333333333, 
+            "-~She": 0.3333333333333333, 
+            "The~patient": 0.3333333333333333
+        }, 
+        "later": {
+            "220/118~,": 1.0
+        }, 
+        "laundry.": {
+            "while~doing": 1.0
+        }, 
+        "left": {
+            "tenderness~on": 1.0
+        }, 
+        "light-headedness": {
+            "She~denies": 1.0
+        }, 
+        "liter": {
+            "about~one": 1.0
+        }, 
+        "loud": {
+            ",~diffuse": 1.0
+        }, 
+        "lower": {
+            "describe~increasing": 1.0
+        }, 
+        "lung": {
+            "of~her": 1.0
+        }, 
+        "lying": {
+            "breath~when": 0.5, 
+            "coughing~when": 0.5
+        }, 
+        "marked": {
+            "nebulizers~with": 1.0
+        }, 
+        "markings": {
+            "in~interstitial": 1.0
+        }, 
+        "medical": {
+            "indiscretion~or": 1.0
+        }, 
+        "mg": {
+            "Axid~150": 0.14285714285714285, 
+            "Coumadin~10": 0.14285714285714285, 
+            "Lasix~40": 0.14285714285714285, 
+            "Lopressor~25": 0.14285714285714285, 
+            "Premarin~1.25": 0.14285714285714285, 
+            "Tessalon-Perles~100": 0.14285714285714285, 
+            "nortriptyline~125": 0.14285714285714285
+        }, 
+        "mild": {
+            "cardiomegaly~,": 0.5, 
+            "showing~only": 0.5
+        }, 
+        "mildly": {
+            "#obese#~,": 1.0
+        }, 
+        "minimal": {
+            "provider~with": 1.0
+        }, 
+        "mitral": {
+            "St.~Jude's": 0.5, 
+            "ascribed~to": 0.5
+        }, 
+        "ml": {
+            "AC~5-10": 1.0
+        }, 
+        "motion.": {
+            "normal~valve": 1.0
+        }, 
+        "much": {
+            "cough~was": 1.0
+        }, 
+        "murmur": {
+            ",~no": 1.0
+        }, 
+        "myalgias": {
+            "and~diffuse": 1.0
+        }, 
+        "nausea": {
+            "Codeine~causes": 1.0
+        }, 
+        "nebs": {
+            "normal~saline": 1.0
+        }, 
+        "nebulizers": {
+            "treated~with": 1.0
+        }, 
+        "negative": {
+            "afebrile~with": 0.3333333333333333, 
+            "cord~,": 0.3333333333333333, 
+            "left~,": 0.3333333333333333
+        }, 
+        "night.": {
+            "especially~at": 1.0
+        }, 
+        "no": {
+            "Q-waves~,": 0.16666666666666666, 
+            "S2~,": 0.16666666666666666, 
+            "She~has": 0.16666666666666666, 
+            "effusions~,": 0.16666666666666666, 
+            "intervals~,": 0.16666666666666666, 
+            "markings~,": 0.16666666666666666
+        }, 
+        "noncompliance.": {
+            "or~medical": 1.0
+        }, 
+        "normal": {
+            ",~and": 0.16666666666666666, 
+            "90~,": 0.16666666666666666, 
+            "Atrovent~and": 0.16666666666666666, 
+            "EF~,": 0.16666666666666666, 
+            "axis~,": 0.16666666666666666, 
+            "that~showed": 0.16666666666666666
+        }, 
+        "nortriptyline": {
+            "p.o.~b.i.d.;": 1.0
+        }, 
+        "noted": {
+            "admission~she": 1.0
+        }, 
+        "nurse": {
+            "the~Coumadin": 1.0
+        }, 
+        "of": {
+            "Her~dose": 0.08333333333333333, 
+            "but~complained": 0.08333333333333333, 
+            "cough~productive": 0.08333333333333333, 
+            "day~course": 0.08333333333333333, 
+            "dose~because": 0.08333333333333333, 
+            "increasing~shortness": 0.08333333333333333, 
+            "marked~clearing": 0.08333333333333333, 
+            "mild~symptoms": 0.08333333333333333, 
+            "the~course": 0.08333333333333333, 
+            "the~day": 0.16666666666666666, 
+            "usual~state": 0.08333333333333333
+        }, 
+        "on": {
+            ",~later": 0.14285714285714285, 
+            "and~dyspnea": 0.14285714285714285, 
+            "calf~tenderness": 0.14285714285714285, 
+            "had~dyspnea": 0.14285714285714285, 
+            "sat~94%": 0.14285714285714285, 
+            "was~continued": 0.14285714285714285, 
+            "was~done": 0.14285714285714285
+        }, 
+        "one": {
+            "Vancooten~within": 0.25, 
+            "diuresed~about": 0.25, 
+            "nurse~in": 0.25, 
+            "until~approximately": 0.25
+        }, 
+        "only": {
+            ",~showing": 1.0
+        }, 
+        "or": {
+            "causes~nausea": 0.25, 
+            "denies~light-headedness": 0.25, 
+            "dietary~indiscretion": 0.25, 
+            "rubs~,": 0.25
+        }, 
+        "orthopnea": {
+            "presented~with": 1.0
+        }, 
+        "p.o.": {
+            "1.25~mg": 0.1111111111111111, 
+            "100~mg": 0.1111111111111111, 
+            "10~mg": 0.1111111111111111, 
+            "125~mg": 0.1111111111111111, 
+            "150~mg": 0.1111111111111111, 
+            "1~tab": 0.1111111111111111, 
+            "25~mg": 0.1111111111111111, 
+            "40~mg": 0.1111111111111111, 
+            "5-10~ml": 0.1111111111111111
+        }, 
+        "p.r.n.": {
+            "p.o.~b.i.d.": 0.3333333333333333, 
+            "p.o.~q.4-6h.": 0.3333333333333333, 
+            "p.o.~t.i.d.": 0.3333333333333333
+        }, 
+        "pain": {
+            "denies~chest": 1.0
+        }, 
+        "palpitations.": {
+            "light-headedness~or": 1.0
+        }, 
+        "paroxysmal": {
+            "but~has": 0.5, 
+            "of~severe": 0.5
+        }, 
+        "patient": {
+            "DISPOSITION:~The": 0.5, 
+            "ILLNESS:~The": 0.5
+        }, 
+        "peak": {
+            "air~,": 1.0
+        }, 
+        "per": {
+            "one~liter": 1.0
+        }, 
+        "peripheral": {
+            "-~1+": 1.0
+        }, 
+        "positive": {
+            "distended~,": 0.5, 
+            "edema~,": 0.5
+        }, 
+        "post": {
+            "is~status": 1.0
+        }, 
+        "postnasal": {
+            "myalgias~,": 1.0
+        }, 
+        "prescribed": {
+            "She~was": 1.0
+        }, 
+        "presented": {
+            ",~who": 0.5, 
+            "She~recently": 0.5
+        }, 
+        "pressure": {
+            "her~blood": 1.0
+        }, 
+        "primary": {
+            "by~her": 0.5, 
+            "with~her": 0.5
+        }, 
+        "productive": {
+            ",~cough": 1.0
+        }, 
+        "provider": {
+            "primary~care": 1.0
+        }, 
+        "q.4-6h.": {
+            "ml~p.o.": 1.0
+        }, 
+        "q.d.": {
+            "mg~p.o.": 1.0
+        }, 
+        "q.d.;": {
+            "mg~p.o.": 1.0
+        }, 
+        "rate": {
+            ",~heart": 0.5, 
+            ",~respiratory": 0.5
+        }, 
+        "recently": {
+            "days.~She": 1.0
+        }, 
+        "regular": {
+            "half~her": 1.0
+        }, 
+        "regurgitation": {
+            "to~mitral": 1.0
+        }, 
+        "relief.": {
+            "with~minimal": 1.0
+        }, 
+        "relieve": {
+            "half~to": 1.0
+        }, 
+        "replacement": {
+            "mitral~valve": 1.0
+        }, 
+        "resolved": {
+            "Her~symptoms": 1.0
+        }, 
+        "respiratory": {
+            "140/78~,": 0.5, 
+            "Morphine~causes": 0.5
+        }, 
+        "rheumatic": {
+            "secondary~to": 1.0
+        }, 
+        "rhonchi": {
+            "wheezing~and": 1.0
+        }, 
+        "rhythm": {
+            "Normal~sinus": 1.0
+        }, 
+        "room": {
+            "94%~on": 1.0
+        }, 
+        "rubs": {
+            "murmur~,": 1.0
+        }, 
+        "saline": {
+            "and~normal": 1.0
+        }, 
+        "sat": {
+            ",~O2": 1.0
+        }, 
+        "scar": {
+            "her~CABG": 1.0
+        }, 
+        "secondary": {
+            "and~thought": 1.0
+        }, 
+        "severe": {
+            "complained~of": 1.0
+        }, 
+        "she": {
+            ",~when": 0.14285714285714285, 
+            "Emergency~Department": 0.14285714285714285, 
+            "before~admission": 0.14285714285714285, 
+            "discharge~,": 0.14285714285714285, 
+            "improved~and": 0.14285714285714285, 
+            "scar~whenever": 0.14285714285714285, 
+            "this~,": 0.14285714285714285
+        }, 
+        "shortness": {
+            "noted~increasing": 1.0
+        }, 
+        "showed": {
+            "11/7/98~that": 1.0
+        }, 
+        "showing": {
+            "admission~,": 1.0
+        }, 
+        "significant": {
+            "She~denies": 1.0
+        }, 
+        "sinus": {
+            "-~Normal": 1.0
+        }, 
+        "sitting": {
+            "is~comfortable": 1.0
+        }, 
+        "some": {
+            ",~except": 1.0
+        }, 
+        "soreness": {
+            "except~some": 1.0
+        }, 
+        "sounds.": {
+            "her~lung": 0.5, 
+            "positive~bowel": 0.5
+        }, 
+        "sputum": {
+            "of~yellow": 1.0
+        }, 
+        "stable": {
+            "home~in": 0.5, 
+            "was~hemodynamically": 0.5
+        }, 
+        "state": {
+            "her~usual": 1.0
+        }, 
+        "status": {
+            "who~is": 1.0
+        }, 
+        "such": {
+            "on~exertion": 1.0
+        }, 
+        "symptoms": {
+            "disease.~Her": 0.5, 
+            "only~mild": 0.5
+        }, 
+        "syndrome": {
+            "with~CHF/bronchospasm": 1.0
+        }, 
+        "systolic": {
+            ",~normal": 1.0
+        }, 
+        "t.i.d.": {
+            "mg~p.o.": 1.0
+        }, 
+        "tab": {
+            "LA~1": 1.0
+        }, 
+        "tenderness": {
+            "positive~calf": 1.0
+        }, 
+        "tenderness.": {
+            "no~calf": 0.5, 
+            "sounds.~No": 0.5
+        }, 
+        "that": {
+            "heart~failure": 0.3333333333333333, 
+            "in~1996": 0.3333333333333333, 
+            "on~11/7/98": 0.3333333333333333
+        }, 
+        "the": {
+            "BP~in": 0.125, 
+            "Non-focal.~In": 0.125, 
+            "admitted~to": 0.125, 
+            "and~with": 0.125, 
+            "bronchospasm.~By": 0.125, 
+            "later~on": 0.125, 
+            "q.d.~By": 0.125, 
+            "stable~throughout": 0.125
+        }, 
+        "therapy.": {
+            "of~antibiotic": 1.0
+        }, 
+        "this": {
+            "night.~For": 1.0
+        }, 
+        "thought": {
+            "regurgitation~and": 1.0
+        }, 
+        "three": {
+            "exertion~for": 0.5, 
+            "relief.~Approximately": 0.5
+        }, 
+        "throughout": {
+            "hemodynamically~stable": 1.0
+        }, 
+        "to": {
+            "edema~compared": 0.16666666666666666, 
+            "thought~secondary": 0.16666666666666666, 
+            "ultimately~ascribed": 0.16666666666666666, 
+            "was~admitted": 0.16666666666666666, 
+            "was~discharged": 0.16666666666666666, 
+            "was~half": 0.16666666666666666
+        }, 
+        "treated": {
+            "she~was": 1.0
+        }, 
+        "ultimately": {
+            "that~was": 1.0
+        }, 
+        "until": {
+            "of~health": 1.0
+        }, 
+        "up": {
+            "Crackles~halfway": 1.0
+        }, 
+        "upright": {
+            "comfortable~sitting": 1.0
+        }, 
+        "usual": {
+            "in~her": 1.0
+        }, 
+        "valve": {
+            "Jude's~mitral": 0.5, 
+            "and~normal": 0.5
+        }, 
+        "vomiting.": {
+            "nausea~or": 1.0
+        }, 
+        "was": {
+            ",~she": 0.07142857142857142, 
+            "1996~that": 0.07142857142857142, 
+            "COURSE:~She": 0.07142857142857142, 
+            "Department~she": 0.07142857142857142, 
+            "Service.~She": 0.07142857142857142, 
+            "The~patient": 0.07142857142857142, 
+            "and~echocardiogram": 0.07142857142857142, 
+            "and~she": 0.07142857142857142, 
+            "discharge.~She": 0.07142857142857142, 
+            "diuresis.~She": 0.07142857142857142, 
+            "her~cough": 0.07142857142857142, 
+            "motion.~She": 0.07142857142857142, 
+            "of~Lopressor": 0.07142857142857142, 
+            "therapy.~She": 0.07142857142857142
+        }, 
+        "wave": {
+            "acute~ST-T": 1.0
+        }, 
+        "week": {
+            "approximately~one": 1.0
+        }, 
+        "week.": {
+            "within~one": 1.0
+        }, 
+        "weeks": {
+            "in~2-3": 1.0
+        }, 
+        "wheezing": {
+            "diffuse~loud": 1.0
+        }, 
+        "wheezing.": {
+            "cough~and": 1.0
+        }, 
+        "when": {
+            "admission~,": 0.3333333333333333, 
+            "of~breath": 0.3333333333333333, 
+            "paroxysmal~coughing": 0.3333333333333333
+        }, 
+        "whenever": {
+            "CABG~scar": 1.0
+        }, 
+        "while": {
+            "such~as": 1.0
+        }, 
+        "who": {
+            "CABG~,": 0.5, 
+            "woman~,": 0.5
+        }, 
+        "will": {
+            "FOLLOW-UP:~She": 0.3333333333333333, 
+            "day.~She": 0.3333333333333333, 
+            "week.~She": 0.3333333333333333
+        }, 
+        "with": {
+            ",~and": 0.08333333333333333, 
+            "care~provider": 0.08333333333333333, 
+            "flu-like~illness": 0.08333333333333333, 
+            "recently~presented": 0.08333333333333333, 
+            "that~improved": 0.08333333333333333, 
+            "was~afebrile": 0.08333333333333333, 
+            "was~treated": 0.16666666666666666, 
+            "who~presented": 0.08333333333333333, 
+            "will~follow-up": 0.16666666666666666, 
+            "with~nebulizers": 0.08333333333333333
+        }, 
+        "within": {
+            "Dr.~Vancooten": 1.0
+        }, 
+        "woman": {
+            "a~52-year-old": 1.0
+        }, 
+        "x-ray": {
+            "changes.~Chest": 1.0
+        }, 
+        "yellow": {
+            "productive~of": 1.0
+        }, 
+        "|": {
+            "12:00:00~AM": 0.1111111111111111, 
+            "51217568~|": 0.1111111111111111, 
+            "HEART~FAILURE": 0.1111111111111111, 
+            "|~51217568": 0.1111111111111111, 
+            "|~715754": 0.1111111111111111, 
+            "|~AHC": 0.1111111111111111, 
+            "|~DIS": 0.1111111111111111, 
+            "|~Signed": 0.1111111111111111, 
+            "~431917214": 0.1111111111111111
+        }
+    }, 
+    "type": "data/train", 
+    "uni": {
+        "": 0.001218026796589525, 
+        "#asthma#": 0.001218026796589525, 
+        "#obese#": 0.001218026796589525, 
+        "(": 0.015834348355663823, 
+        ")": 0.014616321559074299, 
+        ").": 0.001218026796589525, 
+        ",": 0.0730816077953715, 
+        "-": 0.010962241169305725, 
+        "1": 0.00243605359317905, 
+        "1+": 0.001218026796589525, 
+        "1.25": 0.001218026796589525, 
+        "10": 0.0036540803897685747, 
+        "100": 0.001218026796589525, 
+        "11": 0.001218026796589525, 
+        "11/7/98": 0.001218026796589525, 
+        "125": 0.001218026796589525, 
+        "12:00:00": 0.001218026796589525, 
+        "140/78": 0.001218026796589525, 
+        "150": 0.001218026796589525, 
+        "1996": 0.001218026796589525, 
+        "1996.": 0.00243605359317905, 
+        "2": 0.001218026796589525, 
+        "2-3": 0.001218026796589525, 
+        "2/10": 0.001218026796589525, 
+        "2/13/98": 0.001218026796589525, 
+        "20": 0.001218026796589525, 
+        "220/118": 0.001218026796589525, 
+        "25": 0.001218026796589525, 
+        "28": 0.001218026796589525, 
+        "3": 0.001218026796589525, 
+        "3.": 0.001218026796589525, 
+        "370.": 0.001218026796589525, 
+        "4": 0.001218026796589525, 
+        "4.2": 0.001218026796589525, 
+        "4/12/1998": 0.001218026796589525, 
+        "40": 0.001218026796589525, 
+        "42.": 0.001218026796589525, 
+        "431917214": 0.001218026796589525, 
+        "5": 0.001218026796589525, 
+        "5-10": 0.001218026796589525, 
+        "51217568": 0.001218026796589525, 
+        "52-year-old": 0.001218026796589525, 
+        "57783": 0.001218026796589525, 
+        "6": 0.00243605359317905, 
+        "6/1/1998": 0.001218026796589525, 
+        "7": 0.001218026796589525, 
+        "715754": 0.001218026796589525, 
+        "8": 0.001218026796589525, 
+        "8/28/1998": 0.001218026796589525, 
+        "9": 0.001218026796589525, 
+        "90": 0.001218026796589525, 
+        "94": 0.001218026796589525, 
+        "94%": 0.001218026796589525, 
+        "98.2": 0.001218026796589525, 
+        "ABDOMEN": 0.001218026796589525, 
+        "ABDOMINAL": 0.001218026796589525, 
+        "AC": 0.001218026796589525, 
+        "AHC": 0.001218026796589525, 
+        "ALLERGIES:": 0.001218026796589525, 
+        "AM": 0.001218026796589525, 
+        "ARTERY": 0.001218026796589525, 
+        "Admission": 0.001218026796589525, 
+        "Albumin": 0.001218026796589525, 
+        "Approximately": 0.001218026796589525, 
+        "Atrovent": 0.001218026796589525, 
+        "Attending:": 0.001218026796589525, 
+        "Axid": 0.001218026796589525, 
+        "BILATERAL": 0.001218026796589525, 
+        "BP": 0.001218026796589525, 
+        "BYPASS": 0.001218026796589525, 
+        "Batch:": 0.001218026796589525, 
+        "By": 0.00243605359317905, 
+        "By:": 0.001218026796589525, 
+        "CABG": 0.0036540803897685747, 
+        "CHF/bronchospasm": 0.001218026796589525, 
+        "CK29": 0.001218026796589525, 
+        "CONDITION": 0.001218026796589525, 
+        "CONGESTIVE": 0.001218026796589525, 
+        "CORONARY": 0.001218026796589525, 
+        "COURSE:": 0.001218026796589525, 
+        "Cacace": 0.001218026796589525, 
+        "Cardiology": 0.001218026796589525, 
+        "Chem-7.": 0.001218026796589525, 
+        "Chest": 0.001218026796589525, 
+        "Codeine": 0.001218026796589525, 
+        "Coumadin": 0.0048721071863581, 
+        "Crackles": 0.001218026796589525, 
+        "Crisp": 0.001218026796589525, 
+        "D:": 0.001218026796589525, 
+        "DATA:": 0.001218026796589525, 
+        "DIAGNOSES:": 0.001218026796589525, 
+        "DIAGNOSIS:": 0.001218026796589525, 
+        "DIS": 0.001218026796589525, 
+        "DISCHARGE": 0.0036540803897685747, 
+        "DISCHARGE:": 0.001218026796589525, 
+        "DISEASE": 0.001218026796589525, 
+        "DISEASE.": 0.001218026796589525, 
+        "DISPOSITION:": 0.001218026796589525, 
+        "Date:": 0.00243605359317905, 
+        "Department": 0.001218026796589525, 
+        "Dictated": 0.001218026796589525, 
+        "Discharge": 0.001218026796589525, 
+        "Dr.": 0.00243605359317905, 
+        "During": 0.001218026796589525, 
+        "ED": 0.001218026796589525, 
+        "EF": 0.001218026796589525, 
+        "EKG": 0.001218026796589525, 
+        "EXAMINATION:": 0.001218026796589525, 
+        "EXTREMITIES": 0.001218026796589525, 
+        "Elavil": 0.001218026796589525, 
+        "Emergency": 0.001218026796589525, 
+        "Entex": 0.00243605359317905, 
+        "FAILURE": 0.001218026796589525, 
+        "FIBROMYALGIA.": 0.001218026796589525, 
+        "FOLLOW-UP:": 0.001218026796589525, 
+        "For": 0.001218026796589525, 
+        "GALLSTONES.": 0.001218026796589525, 
+        "GENERAL": 0.001218026796589525, 
+        "GH882/1143": 0.001218026796589525, 
+        "GRAFT": 0.001218026796589525, 
+        "HEART": 0.00243605359317905, 
+        "HERNIA.": 0.001218026796589525, 
+        "HIATAL": 0.001218026796589525, 
+        "HISTORY": 0.00243605359317905, 
+        "HOSPITAL": 0.001218026796589525, 
+        "HYPERTENSION.": 0.001218026796589525, 
+        "HYSTERECTOMY": 0.001218026796589525, 
+        "Her": 0.00243605359317905, 
+        "Homan.": 0.001218026796589525, 
+        "ILLNESS:": 0.001218026796589525, 
+        "INR": 0.001218026796589525, 
+        "IUVEE046KI": 0.001218026796589525, 
+        "In": 0.001218026796589525, 
+        "Index": 0.001218026796589525, 
+        "Iodine": 0.001218026796589525, 
+        "JUDE'S": 0.001218026796589525, 
+        "JVP": 0.001218026796589525, 
+        "Jude's": 0.001218026796589525, 
+        "K-Dur": 0.001218026796589525, 
+        "KOSHAR": 0.001218026796589525, 
+        "LA": 0.001218026796589525, 
+        "LABORATORY": 0.001218026796589525, 
+        "LB7": 0.001218026796589525, 
+        "LFTs.": 0.001218026796589525, 
+        "LUNGS": 0.001218026796589525, 
+        "Lasix": 0.00243605359317905, 
+        "Lopressor": 0.0036540803897685747, 
+        "M.D.": 0.00243605359317905, 
+        "MEDICATIONS:": 0.00243605359317905, 
+        "MIGRAINES.": 0.001218026796589525, 
+        "MITRAL": 0.001218026796589525, 
+        "MVR": 0.001218026796589525, 
+        "Mild": 0.001218026796589525, 
+        "Morphine": 0.001218026796589525, 
+        "NEURO": 0.001218026796589525, 
+        "No": 0.001218026796589525, 
+        "No.": 0.001218026796589525, 
+        "Non-focal.": 0.001218026796589525, 
+        "Normal": 0.0036540803897685747, 
+        "O2": 0.001218026796589525, 
+        "OBSTRUCTIVE": 0.001218026796589525, 
+        "OF": 0.00243605359317905, 
+        "ON": 0.001218026796589525, 
+        "OSTEOARTHRITIS.": 0.001218026796589525, 
+        "PHYSICAL": 0.001218026796589525, 
+        "POST": 0.0036540803897685747, 
+        "PRESENT": 0.001218026796589525, 
+        "PRINCIPAL": 0.001218026796589525, 
+        "PT": 0.001218026796589525, 
+        "PUD": 0.001218026796589525, 
+        "PULMONARY": 0.00243605359317905, 
+        "Premarin": 0.001218026796589525, 
+        "Premarin.": 0.001218026796589525, 
+        "Q-waves": 0.001218026796589525, 
+        "REID": 0.001218026796589525, 
+        "REPLACEMENT": 0.001218026796589525, 
+        "Report": 0.001218026796589525, 
+        "Robitussin": 0.00243605359317905, 
+        "S1": 0.001218026796589525, 
+        "S2": 0.001218026796589525, 
+        "SAL": 0.001218026796589525, 
+        "SALPINGO-OOPHORECTOMY.": 0.001218026796589525, 
+        "SECONDARY": 0.001218026796589525, 
+        "SIGNS": 0.001218026796589525, 
+        "ST-T": 0.001218026796589525, 
+        "ST.": 0.001218026796589525, 
+        "STATUS": 0.0036540803897685747, 
+        "Service.": 0.001218026796589525, 
+        "She": 0.02192448233861145, 
+        "Signed": 0.00243605359317905, 
+        "St.": 0.001218026796589525, 
+        "Stable": 0.001218026796589525, 
+        "Status:": 0.001218026796589525, 
+        "TOTAL": 0.001218026796589525, 
+        "TRACHEOBRONCHITIS.": 0.001218026796589525, 
+        "TWO": 0.001218026796589525, 
+        "Temp": 0.001218026796589525, 
+        "Tessalon-Perles": 0.001218026796589525, 
+        "Tessalon-Perles.": 0.001218026796589525, 
+        "The": 0.00243605359317905, 
+        "V.": 0.001218026796589525, 
+        "VALVE": 0.001218026796589525, 
+        "VESSEL": 0.001218026796589525, 
+        "VITAL": 0.001218026796589525, 
+        "Vancooten": 0.001218026796589525, 
+        "WEIR": 0.001218026796589525, 
+        "White": 0.001218026796589525, 
+        "Zantac": 0.001218026796589525, 
+        "a": 0.0036540803897685747, 
+        "about": 0.001218026796589525, 
+        "accompanied": 0.001218026796589525, 
+        "acute": 0.001218026796589525, 
+        "admission": 0.0060901339829476245, 
+        "admitted": 0.001218026796589525, 
+        "afebrile": 0.001218026796589525, 
+        "after": 0.001218026796589525, 
+        "air": 0.001218026796589525, 
+        "also": 0.00243605359317905, 
+        "amoxicillin": 0.001218026796589525, 
+        "and": 0.015834348355663823, 
+        "anteriorly": 0.001218026796589525, 
+        "antibiotic": 0.001218026796589525, 
+        "approximately": 0.001218026796589525, 
+        "as": 0.001218026796589525, 
+        "ascribed": 0.001218026796589525, 
+        "at": 0.0048721071863581, 
+        "axis": 0.001218026796589525, 
+        "azithromycin.": 0.001218026796589525, 
+        "b.i.d.": 0.001218026796589525, 
+        "b.i.d.;": 0.00243605359317905, 
+        "baseline.": 0.001218026796589525, 
+        "because": 0.001218026796589525, 
+        "been": 0.001218026796589525, 
+        "before": 0.00243605359317905, 
+        "bilaterally": 0.001218026796589525, 
+        "blood": 0.001218026796589525, 
+        "bowel": 0.001218026796589525, 
+        "breath": 0.001218026796589525, 
+        "bronchospasm.": 0.001218026796589525, 
+        "but": 0.0036540803897685747, 
+        "by": 0.00243605359317905, 
+        "calf": 0.00243605359317905, 
+        "cardiologist": 0.001218026796589525, 
+        "cardiomegaly": 0.001218026796589525, 
+        "care": 0.00243605359317905, 
+        "causes": 0.0036540803897685747, 
+        "changes.": 0.001218026796589525, 
+        "check": 0.001218026796589525, 
+        "chest": 0.001218026796589525, 
+        "clearing": 0.001218026796589525, 
+        "cm.": 0.001218026796589525, 
+        "comfortable": 0.001218026796589525, 
+        "compared": 0.001218026796589525, 
+        "complained": 0.001218026796589525, 
+        "completed": 0.001218026796589525, 
+        "condition.": 0.00243605359317905, 
+        "continued": 0.001218026796589525, 
+        "contracted": 0.001218026796589525, 
+        "cord": 0.001218026796589525, 
+        "cough": 0.0036540803897685747, 
+        "cough;": 0.0036540803897685747, 
+        "coughing": 0.00243605359317905, 
+        "coughs.": 0.001218026796589525, 
+        "count": 0.001218026796589525, 
+        "course": 0.00243605359317905, 
+        "cultures": 0.001218026796589525, 
+        "daily.": 0.001218026796589525, 
+        "day": 0.0036540803897685747, 
+        "day.": 0.00243605359317905, 
+        "days": 0.001218026796589525, 
+        "days.": 0.001218026796589525, 
+        "denies": 0.0036540803897685747, 
+        "describe": 0.001218026796589525, 
+        "dietary": 0.001218026796589525, 
+        "diffuse": 0.00243605359317905, 
+        "discharge": 0.00243605359317905, 
+        "discharge.": 0.001218026796589525, 
+        "discharged": 0.00243605359317905, 
+        "disease.": 0.001218026796589525, 
+        "distended": 0.001218026796589525, 
+        "distress.": 0.001218026796589525, 
+        "diuresed": 0.001218026796589525, 
+        "diuresis.": 0.001218026796589525, 
+        "doctor": 0.001218026796589525, 
+        "does": 0.001218026796589525, 
+        "doing": 0.001218026796589525, 
+        "done": 0.001218026796589525, 
+        "dose": 0.00243605359317905, 
+        "during": 0.001218026796589525, 
+        "dyspnea": 0.00243605359317905, 
+        "echocardiogram": 0.001218026796589525, 
+        "edema": 0.00243605359317905, 
+        "effusions": 0.001218026796589525, 
+        "especially": 0.00243605359317905, 
+        "except": 0.001218026796589525, 
+        "exertion": 0.00243605359317905, 
+        "extremity": 0.001218026796589525, 
+        "failure": 0.001218026796589525, 
+        "fever": 0.001218026796589525, 
+        "five": 0.001218026796589525, 
+        "flat": 0.001218026796589525, 
+        "flat.": 0.001218026796589525, 
+        "floor": 0.001218026796589525, 
+        "flow": 0.001218026796589525, 
+        "flu-like": 0.001218026796589525, 
+        "follow-up": 0.00243605359317905, 
+        "for": 0.001218026796589525, 
+        "function": 0.001218026796589525, 
+        "gallops.": 0.001218026796589525, 
+        "given": 0.001218026796589525, 
+        "h.s.;": 0.001218026796589525, 
+        "had": 0.00243605359317905, 
+        "half": 0.00243605359317905, 
+        "halfway": 0.001218026796589525, 
+        "has": 0.0048721071863581, 
+        "headache": 0.001218026796589525, 
+        "health": 0.001218026796589525, 
+        "heart": 0.0036540803897685747, 
+        "hematocrit": 0.001218026796589525, 
+        "hemodynamically": 0.001218026796589525, 
+        "her": 0.01705237515225335, 
+        "hives.": 0.001218026796589525, 
+        "home": 0.00243605359317905, 
+        "home.": 0.001218026796589525, 
+        "illness": 0.001218026796589525, 
+        "improved": 0.00243605359317905, 
+        "in": 0.0097442143727162, 
+        "increase": 0.001218026796589525, 
+        "increasing": 0.00243605359317905, 
+        "indiscretion": 0.001218026796589525, 
+        "infiltrates.": 0.001218026796589525, 
+        "interstitial": 0.001218026796589525, 
+        "intervals": 0.001218026796589525, 
+        "is": 0.0036540803897685747, 
+        "later": 0.001218026796589525, 
+        "laundry.": 0.001218026796589525, 
+        "left": 0.001218026796589525, 
+        "light-headedness": 0.001218026796589525, 
+        "liter": 0.001218026796589525, 
+        "loud": 0.001218026796589525, 
+        "lower": 0.001218026796589525, 
+        "lung": 0.001218026796589525, 
+        "lying": 0.00243605359317905, 
+        "marked": 0.001218026796589525, 
+        "markings": 0.001218026796589525, 
+        "medical": 0.001218026796589525, 
+        "mg": 0.008526187576126675, 
+        "mild": 0.00243605359317905, 
+        "mildly": 0.001218026796589525, 
+        "minimal": 0.001218026796589525, 
+        "mitral": 0.00243605359317905, 
+        "ml": 0.001218026796589525, 
+        "motion.": 0.001218026796589525, 
+        "much": 0.001218026796589525, 
+        "murmur": 0.001218026796589525, 
+        "myalgias": 0.001218026796589525, 
+        "nausea": 0.001218026796589525, 
+        "nebs": 0.001218026796589525, 
+        "nebulizers": 0.001218026796589525, 
+        "negative": 0.0036540803897685747, 
+        "night.": 0.001218026796589525, 
+        "no": 0.007308160779537149, 
+        "noncompliance.": 0.001218026796589525, 
+        "normal": 0.007308160779537149, 
+        "nortriptyline": 0.001218026796589525, 
+        "noted": 0.001218026796589525, 
+        "nurse": 0.001218026796589525, 
+        "of": 0.014616321559074299, 
+        "on": 0.008526187576126675, 
+        "one": 0.0048721071863581, 
+        "only": 0.001218026796589525, 
+        "or": 0.0048721071863581, 
+        "orthopnea": 0.001218026796589525, 
+        "p.o.": 0.010962241169305725, 
+        "p.r.n.": 0.0036540803897685747, 
+        "pain": 0.001218026796589525, 
+        "palpitations.": 0.001218026796589525, 
+        "paroxysmal": 0.00243605359317905, 
+        "patient": 0.00243605359317905, 
+        "peak": 0.001218026796589525, 
+        "per": 0.001218026796589525, 
+        "peripheral": 0.001218026796589525, 
+        "positive": 0.00243605359317905, 
+        "post": 0.001218026796589525, 
+        "postnasal": 0.001218026796589525, 
+        "prescribed": 0.001218026796589525, 
+        "presented": 0.00243605359317905, 
+        "pressure": 0.001218026796589525, 
+        "primary": 0.00243605359317905, 
+        "productive": 0.001218026796589525, 
+        "provider": 0.001218026796589525, 
+        "q.4-6h.": 0.001218026796589525, 
+        "q.d.": 0.001218026796589525, 
+        "q.d.;": 0.00243605359317905, 
+        "rate": 0.00243605359317905, 
+        "recently": 0.001218026796589525, 
+        "regular": 0.001218026796589525, 
+        "regurgitation": 0.001218026796589525, 
+        "relief.": 0.001218026796589525, 
+        "relieve": 0.001218026796589525, 
+        "replacement": 0.001218026796589525, 
+        "resolved": 0.001218026796589525, 
+        "respiratory": 0.00243605359317905, 
+        "rheumatic": 0.001218026796589525, 
+        "rhonchi": 0.001218026796589525, 
+        "rhythm": 0.001218026796589525, 
+        "room": 0.001218026796589525, 
+        "rubs": 0.001218026796589525, 
+        "saline": 0.001218026796589525, 
+        "sat": 0.001218026796589525, 
+        "scar": 0.001218026796589525, 
+        "secondary": 0.001218026796589525, 
+        "severe": 0.001218026796589525, 
+        "she": 0.008526187576126675, 
+        "shortness": 0.001218026796589525, 
+        "showed": 0.001218026796589525, 
+        "showing": 0.001218026796589525, 
+        "significant": 0.001218026796589525, 
+        "sinus": 0.001218026796589525, 
+        "sitting": 0.001218026796589525, 
+        "some": 0.001218026796589525, 
+        "soreness": 0.001218026796589525, 
+        "sounds.": 0.00243605359317905, 
+        "sputum": 0.001218026796589525, 
+        "stable": 0.00243605359317905, 
+        "state": 0.001218026796589525, 
+        "status": 0.001218026796589525, 
+        "such": 0.001218026796589525, 
+        "symptoms": 0.00243605359317905, 
+        "syndrome": 0.001218026796589525, 
+        "systolic": 0.001218026796589525, 
+        "t.i.d.": 0.001218026796589525, 
+        "tab": 0.001218026796589525, 
+        "tenderness": 0.001218026796589525, 
+        "tenderness.": 0.00243605359317905, 
+        "that": 0.0036540803897685747, 
+        "the": 0.0097442143727162, 
+        "therapy.": 0.001218026796589525, 
+        "this": 0.001218026796589525, 
+        "thought": 0.001218026796589525, 
+        "three": 0.00243605359317905, 
+        "throughout": 0.001218026796589525, 
+        "to": 0.007308160779537149, 
+        "treated": 0.00243605359317905, 
+        "ultimately": 0.001218026796589525, 
+        "until": 0.001218026796589525, 
+        "up": 0.001218026796589525, 
+        "upright": 0.001218026796589525, 
+        "usual": 0.001218026796589525, 
+        "valve": 0.00243605359317905, 
+        "vomiting.": 0.001218026796589525, 
+        "was": 0.01705237515225335, 
+        "wave": 0.001218026796589525, 
+        "week": 0.001218026796589525, 
+        "week.": 0.001218026796589525, 
+        "weeks": 0.001218026796589525, 
+        "wheezing": 0.001218026796589525, 
+        "wheezing.": 0.001218026796589525, 
+        "when": 0.0036540803897685747, 
+        "whenever": 0.001218026796589525, 
+        "while": 0.001218026796589525, 
+        "who": 0.00243605359317905, 
+        "will": 0.0036540803897685747, 
+        "with": 0.014616321559074299, 
+        "within": 0.001218026796589525, 
+        "woman": 0.001218026796589525, 
+        "x-ray": 0.001218026796589525, 
+        "yellow": 0.001218026796589525, 
+        "|": 0.010962241169305725
+    }
+}

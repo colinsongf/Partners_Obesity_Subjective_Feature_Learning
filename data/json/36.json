@@ -1,0 +1,3595 @@
+{
+    "bi": {
+        "&": {
+            "HYDROXIDE": 1.0
+        }, 
+        "(": {
+            "DM": 0.07692307692307693, 
+            "HTN": 0.07692307692307693, 
+            "M.D.": 0.07692307692307693, 
+            "NORVASC": 0.07692307692307693, 
+            "SIADH": 0.07692307692307693, 
+            "TREATMENTS/PROCEDURES": 0.07692307692307693, 
+            "antidepressed": 0.07692307692307693, 
+            "cortisol": 0.07692307692307693, 
+            "depression": 0.15384615384615385, 
+            "diverticulosis": 0.07692307692307693, 
+            "hyponatremia": 0.07692307692307693, 
+            "outpt": 0.07692307692307693
+        }, 
+        ")": {
+            "116": 0.07692307692307693, 
+            "36": 0.07692307692307693, 
+            "AMLODIPINE": 0.07692307692307693, 
+            "Admission": 0.07692307692307693, 
+            "ECT": 0.07692307692307693, 
+            "MK53": 0.07692307692307693, 
+            "O.R.": 0.07692307692307693, 
+            "depression": 0.07692307692307693, 
+            "diverticulosis": 0.07692307692307693, 
+            "hypertension": 0.07692307692307693, 
+            "mellitus": 0.07692307692307693, 
+            "past": 0.15384615384615385
+        }, 
+        ").": {
+            "past": 1.0
+        }, 
+        "):": {
+            "S": 1.0
+        }, 
+        "******": {
+            "10/9/2005": 0.3333333333333333, 
+            "ORDERS": 0.3333333333333333, 
+            "PM": 0.3333333333333333
+        }, 
+        "*************Hospital": {
+            "infiltrates.": 1.0
+        }, 
+        "+BS": {
+            ",": 1.0
+        }, 
+        ",": {
+            ")": 0.03278688524590164, 
+            "+BS": 0.01639344262295082, 
+            "0.8": 0.01639344262295082, 
+            "1.9": 0.01639344262295082, 
+            "126/64": 0.01639344262295082, 
+            "127": 0.01639344262295082, 
+            "132": 0.01639344262295082, 
+            "191": 0.01639344262295082, 
+            "259": 0.01639344262295082, 
+            "3.5": 0.01639344262295082, 
+            "356": 0.01639344262295082, 
+            "4B": 0.01639344262295082, 
+            "63P": 0.01639344262295082, 
+            "6cm": 0.01639344262295082, 
+            "98.6": 0.01639344262295082, 
+            "99": 0.01639344262295082, 
+            "<assay": 0.01639344262295082, 
+            "BROCK": 0.01639344262295082, 
+            "CHASE": 0.01639344262295082, 
+            "CP": 0.01639344262295082, 
+            "CTAB": 0.01639344262295082, 
+            "Complications": 0.01639344262295082, 
+            "DIAGNOSIS;Conditions": 0.01639344262295082, 
+            "DM": 0.03278688524590164, 
+            "ED": 0.01639344262295082, 
+            "IVF": 0.01639344262295082, 
+            "Infections": 0.01639344262295082, 
+            "M.": 0.01639344262295082, 
+            "MARBAN": 0.01639344262295082, 
+            "MIX": 0.01639344262295082, 
+            "MRI": 0.01639344262295082, 
+            "NAD": 0.01639344262295082, 
+            "PPI": 0.01639344262295082, 
+            "RISKA": 0.01639344262295082, 
+            "RRR": 0.01639344262295082, 
+            "SI": 0.01639344262295082, 
+            "SOB": 0.01639344262295082, 
+            "TRUFIN": 0.01639344262295082, 
+            "TSH": 0.01639344262295082, 
+            "day": 0.01639344262295082, 
+            "demeclocycline": 0.01639344262295082, 
+            "depressed": 0.03278688524590164, 
+            "depression": 0.01639344262295082, 
+            "eval": 0.01639344262295082, 
+            "f/u": 0.01639344262295082, 
+            "fevers": 0.01639344262295082, 
+            "flat": 0.01639344262295082, 
+            "hour": 0.01639344262295082, 
+            "murmurs": 0.01639344262295082, 
+            "pt": 0.01639344262295082, 
+            "restrict": 0.01639344262295082, 
+            "soft": 0.01639344262295082, 
+            "suicidal": 0.01639344262295082, 
+            "thirst": 0.01639344262295082, 
+            "treatment": 0.01639344262295082, 
+            "weakness": 0.01639344262295082, 
+            "weeks": 0.01639344262295082, 
+            "work": 0.01639344262295082
+        }, 
+        ".": {
+            "Hospital": 1.0
+        }, 
+        "/": {
+            "CPR": 0.25, 
+            "defib": 0.25, 
+            "intubation": 0.25, 
+            "pressors": 0.25
+        }, 
+        "0.8": {
+            "Cr": 1.0
+        }, 
+        "1": {
+            "CHLORIDE": 0.25, 
+            "Take": 0.25, 
+            "drinking": 0.25, 
+            "x": 0.25
+        }, 
+        "1-2": {
+            "in": 1.0
+        }, 
+        "1.5L": {
+            ",": 0.5, 
+            "restriction:": 0.5
+        }, 
+        "1.9": {
+            "Tbili": 1.0
+        }, 
+        "1/5/05": {
+            ")": 0.5, 
+            "ON:": 0.5
+        }, 
+        "10/9/2005": {
+            "Date:": 1.0
+        }, 
+        "100%": {
+            ",": 1.0
+        }, 
+        "11/10/2005": {
+            "Date:": 1.0
+        }, 
+        "11/28": {
+            "on": 1.0
+        }, 
+        "116": {
+            "Na": 1.0
+        }, 
+        "126/64": {
+            "BP": 1.0
+        }, 
+        "127": {
+            "Na": 1.0
+        }, 
+        "12:00": {
+            "@": 0.5, 
+            "AT": 0.5
+        }, 
+        "12:00:00": {
+            "9/6/2005": 1.0
+        }, 
+        "130": {
+            "Na": 1.0
+        }, 
+        "132": {
+            "of": 1.0
+        }, 
+        "191": {
+            "osm": 1.0
+        }, 
+        "1:1": {
+            "or": 1.0
+        }, 
+        "2": {
+            "or": 1.0
+        }, 
+        "2/23/05": {
+            "on": 1.0
+        }, 
+        "21.4": {
+            "WBC": 1.0
+        }, 
+        "259": {
+            "osm": 1.0
+        }, 
+        "264845089": {
+            "": 1.0
+        }, 
+        "3": {
+            "Take": 0.5, 
+            "or": 0.5
+        }, 
+        "3.5": {
+            "K": 1.0
+        }, 
+        "300": {
+            "DEMECLOCYCLINE": 1.0
+        }, 
+        "328-15-10-3": {
+            "ISAIAH": 1.0
+        }, 
+        "356": {
+            "CK": 1.0
+        }, 
+        "36": {
+            "(": 1.0
+        }, 
+        "36.4.": {
+            "hct": 1.0
+        }, 
+        "4/9/05": {
+            "on": 1.0
+        }, 
+        "4775550": {
+            "|": 1.0
+        }, 
+        "49175654": {
+            "|": 1.0
+        }, 
+        "4B": {
+            ",": 1.0
+        }, 
+        "5": {
+            ")": 0.5, 
+            "GLYBURIDE": 0.5
+        }, 
+        "63P": {
+            "21.4": 1.0
+        }, 
+        "66": {
+            "gluc": 1.0
+        }, 
+        "6cm": {
+            "JVP": 1.0
+        }, 
+        "9/6/2005": {
+            "|": 1.0
+        }, 
+        "98.6": {
+            "VS:": 1.0
+        }, 
+        "99": {
+            "HR": 1.0
+        }, 
+        ";Responsible": {
+            "DIAGNOSIS": 1.0
+        }, 
+        "<assay": {
+            "Na": 1.0
+        }, 
+        "?": {
+            ",": 0.3333333333333333, 
+            "CV:": 0.3333333333333333, 
+            "lonely.": 0.3333333333333333
+        }, 
+        "@": {
+            "1/5/05": 1.0
+        }, 
+        "ACTIVITY:": {
+            "1.5L": 1.0
+        }, 
+        "ADDITIONAL": {
+            "DNR/DNI": 1.0
+        }, 
+        "ADMIT": {
+            "Penicillins": 1.0
+        }, 
+        "ALLERGY:": {
+            ",": 1.0
+        }, 
+        "AM": {
+            "12:00:00": 1.0
+        }, 
+        "AMLODIPINE": {
+            "(": 1.0
+        }, 
+        "AND": {
+            "OPERATIONS": 1.0
+        }, 
+        "APPOINTMENT(": {
+            "UP": 1.0
+        }, 
+        "AS": {
+            "USED": 1.0
+        }, 
+        "AT": {
+            "1/5/05": 1.0
+        }, 
+        "Admission": {
+            "Causing": 0.5, 
+            "|": 0.5
+        }, 
+        "After": {
+            ";Responsible": 1.0
+        }, 
+        "Alert": {
+            "products.": 1.0
+        }, 
+        "Applicable": {
+            "Not": 1.0
+        }, 
+        "Attending:": {
+            "YES": 1.0
+        }, 
+        "Avoid": {
+            "Instruction": 1.0
+        }, 
+        "BE": {
+            "ORDER": 1.0
+        }, 
+        "BID": {
+            "PO": 1.0
+        }, 
+        "BP": {
+            ",": 1.0
+        }, 
+        "BRIEF": {
+            "restriction": 1.0
+        }, 
+        "BROCK": {
+            "L": 1.0
+        }, 
+        "BSDHUO": {
+            "|": 1.0
+        }, 
+        "BY": {
+            "ULCERS": 1.0
+        }, 
+        "BY:": {
+            "ENTERED": 1.0
+        }, 
+        "Bowel": {
+            "constipated.": 1.0
+        }, 
+        "CAD.": {
+            "of": 1.0
+        }, 
+        "CHASE": {
+            "HECTOR": 1.0
+        }, 
+        "CHLORIDE": {
+            "SODIUM": 1.0
+        }, 
+        "CK": {
+            ",": 1.0
+        }, 
+        "CODE": {
+            "M.D.": 1.0
+        }, 
+        "COMMENTS:": {
+            "ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            "DISCHARGE": 1.0
+        }, 
+        "CONTINGENT": {
+            "PM": 1.0
+        }, 
+        "COURSE:": {
+            "HOSPITAL": 1.0
+        }, 
+        "CP": {
+            "dull": 0.5, 
+            "of": 0.5
+        }, 
+        "CPR": {
+            "No": 1.0
+        }, 
+        "CTAB": {
+            ",": 1.0
+        }, 
+        "CV:": {
+            "discharge.": 1.0
+        }, 
+        "CXR:": {
+            "UTI.": 1.0
+        }, 
+        "Causing": {
+            "for": 1.0
+        }, 
+        "Complications": {
+            ",": 1.0
+        }, 
+        "Course****************": {
+            "*************Hospital": 1.0
+        }, 
+        "Cr": {
+            ",": 1.0
+        }, 
+        "D/C": {
+            "THE": 0.5, 
+            "WILL": 0.5
+        }, 
+        "DEMECLOCYCLINE": {
+            "&": 0.5, 
+            "otherwise.": 0.5
+        }, 
+        "DIAGNOSIS": {
+            "DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "OTHER": 1.0
+        }, 
+        "DIET:": {
+            "QD": 1.0
+        }, 
+        "DIS": {
+            "|": 1.0
+        }, 
+        "DISCHARGE": {
+            "******": 0.16666666666666666, 
+            "MED": 0.16666666666666666, 
+            "OF": 0.16666666666666666, 
+            "PRINCIPAL": 0.16666666666666666, 
+            "seizure.": 0.16666666666666666, 
+            "services": 0.16666666666666666
+        }, 
+        "DISPOSITION:": {
+            "/": 1.0
+        }, 
+        "DM": {
+            ")": 0.3333333333333333, 
+            ",": 0.3333333333333333, 
+            "of": 0.3333333333333333
+        }, 
+        "DNR/DNI": {
+            "needed.": 1.0
+        }, 
+        "DO/PLAN:": {
+            "TO": 1.0
+        }, 
+        "DUODENAL": {
+            "H/O": 1.0
+        }, 
+        "Date:": {
+            "Admission": 0.5, 
+            "Discharge": 0.5
+        }, 
+        "Daulton": {
+            "Dr.": 1.0
+        }, 
+        "Discharge": {
+            "Status:": 1.0
+        }, 
+        "Dispo:": {
+            "lovenox": 1.0
+        }, 
+        "Dr.": {
+            "):": 0.5, 
+            "call": 0.5
+        }, 
+        "ECT": {
+            "s/p": 1.0
+        }, 
+        "ED": {
+            "in": 1.0
+        }, 
+        "EKG": {
+            "CAD.": 1.0
+        }, 
+        "ELDEN": {
+            ",": 1.0
+        }, 
+        "END": {
+            "******": 1.0
+        }, 
+        "ENDO:": {
+            "regimen": 1.0
+        }, 
+        "ENTERED": {
+            "summary": 1.0
+        }, 
+        "FEN:": {
+            "Course****************": 1.0
+        }, 
+        "FOLLOW": {
+            "exercise": 1.0
+        }, 
+        "Fluid": {
+            "DIET:": 1.0
+        }, 
+        "Food/Drug": {
+            "BID": 0.5, 
+            "QD": 0.5
+        }, 
+        "GI:": {
+            "medications.": 1.0
+        }, 
+        "GLYBURIDE": {
+            "monitor": 1.0
+        }, 
+        "GM": {
+            "1": 1.0
+        }, 
+        "Gardda": {
+            "in": 1.0
+        }, 
+        "H/O": {
+            "HERNIA": 0.3333333333333333, 
+            "SCIATICA": 0.3333333333333333, 
+            "Treatment/Stay": 0.3333333333333333
+        }, 
+        "HCL": {
+            "DEMECLOCYCLINE": 1.0
+        }, 
+        "HECTOR": {
+            ",": 1.0
+        }, 
+        "HERNIA": {
+            "HIATEL": 1.0
+        }, 
+        "HIATEL": {
+            "H/O": 1.0
+        }, 
+        "HOSPITAL": {
+            "OF": 1.0
+        }, 
+        "HPI:76": {
+            "COURSE:": 1.0
+        }, 
+        "HR": {
+            ",": 1.0
+        }, 
+        "HTN": {
+            ")": 0.5, 
+            ",": 0.5
+        }, 
+        "HYDROXIDE": {
+            "MAGNESIUM": 1.0
+        }, 
+        "Hay": {
+            "328-15-10-3": 1.0
+        }, 
+        "Home": {
+            "DISPOSITION:": 1.0
+        }, 
+        "Hospital": {
+            "Ma": 1.0
+        }, 
+        "IN": {
+            "NOT": 1.0
+        }, 
+        "INTERACTION:": {
+            "SERIOUS": 1.0
+        }, 
+        "ISAIAH": {
+            ",": 1.0
+        }, 
+        "IVF": {
+            ")": 0.5, 
+            "as": 0.5
+        }, 
+        "Infections": {
+            ",": 1.0
+        }, 
+        "Instruction": {
+            "Interaction": 1.0
+        }, 
+        "Interaction": {
+            "Food/Drug": 1.0
+        }, 
+        "Iron": {
+            "after": 1.0
+        }, 
+        "JVP": {
+            ",": 1.0
+        }, 
+        "K": {
+            ",": 1.0
+        }, 
+        "L": {
+            "SAL": 1.0
+        }, 
+        "Labs:": {
+            "edema.": 1.0
+        }, 
+        "Lescondvixand": {
+            "Lience": 1.0
+        }, 
+        "Lience": {
+            "Hay": 1.0
+        }, 
+        "M": {
+            "yo": 1.0
+        }, 
+        "M.": {
+            "ELDEN": 1.0
+        }, 
+        "M.D.": {
+            ",": 1.0
+        }, 
+        "MAGNESIUM": {
+            "INTERACTION:": 1.0
+        }, 
+        "MARBAN": {
+            "Attending:": 1.0
+        }, 
+        "MD": {
+            "unless": 1.0
+        }, 
+        "MED": {
+            "Service:": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "DISCHARGE": 1.0
+        }, 
+        "MG": {
+            "300": 0.3333333333333333, 
+            "5": 0.6666666666666666
+        }, 
+        "MIX": {
+            "******": 1.0
+        }, 
+        "MK53": {
+            "(": 1.0
+        }, 
+        "MRI": {
+            "head": 1.0
+        }, 
+        "Ma": {
+            "at": 1.0
+        }, 
+        "Myslinski": {
+            "Dr.": 1.0
+        }, 
+        "NAD": {
+            "RA.": 1.0
+        }, 
+        "NORVASC": {
+            "QD": 1.0
+        }, 
+        "NOT": {
+            "(": 1.0
+        }, 
+        "NS": {
+            ",": 1.0
+        }, 
+        "Na": {
+            "(": 0.14285714285714285, 
+            "Labs:": 0.14285714285714285, 
+            "check": 0.14285714285714285, 
+            "osm.": 0.14285714285714285, 
+            "urine": 0.2857142857142857, 
+            "w/": 0.14285714285714285
+        }, 
+        "Na.": {
+            "low": 1.0
+        }, 
+        "No": {
+            "/": 0.6, 
+            "STATUS:": 0.2, 
+            "sodium.": 0.2
+        }, 
+        "Not": {
+            "UPON": 1.0
+        }, 
+        "O.R.": {
+            "IN": 1.0
+        }, 
+        "OF": {
+            "END": 0.5, 
+            "RESUME": 0.5
+        }, 
+        "ON:": {
+            "PATIENT": 1.0
+        }, 
+        "OPERATIONS": {
+            ")": 1.0
+        }, 
+        "ORDER": {
+            "D/C": 1.0
+        }, 
+        "ORDERS": {
+            "DISCHARGE": 1.0
+        }, 
+        "OTHER": {
+            "depression": 0.5, 
+            "none": 0.5
+        }, 
+        "Override": {
+            "overridden:": 1.0
+        }, 
+        "PATIENT": {
+            "DISCHARGE": 1.0
+        }, 
+        "PCP": {
+            "see": 1.0
+        }, 
+        "PM": {
+            "12:00": 1.0
+        }, 
+        "PO": {
+            "GM": 0.25, 
+            "MG": 0.75
+        }, 
+        "POTENTIALLY": {
+            "M.D.": 1.0
+        }, 
+        "PPI": {
+            "PPx:": 1.0
+        }, 
+        "PPx:": {
+            "RISS.": 1.0
+        }, 
+        "PRINCIPAL": {
+            "depression": 1.0
+        }, 
+        "PROCEDURES:": {
+            "AND": 1.0
+        }, 
+        "PT": {
+            "Dispo:": 0.5, 
+            "home": 0.5
+        }, 
+        "Penicillins": {
+            "ALLERGY:": 1.0
+        }, 
+        "Per": {
+            "Na.": 1.0
+        }, 
+        "Persist": {
+            "d/c.": 1.0
+        }, 
+        "Psych:": {
+            "norvasc": 1.0
+        }, 
+        "Pt": {
+            "Pu": 0.3333333333333333, 
+            "cough.": 0.3333333333333333, 
+            "demeclocycline.": 0.3333333333333333
+        }, 
+        "Pu": {
+            "Gardda": 1.0
+        }, 
+        "QD": {
+            "PO": 1.0
+        }, 
+        "RA.": {
+            "100%": 1.0
+        }, 
+        "RESUME": {
+            "BRIEF": 1.0
+        }, 
+        "RISKA": {
+            "BY:": 1.0
+        }, 
+        "RISS.": {
+            "day.": 1.0
+        }, 
+        "RRR": {
+            ",": 1.0
+        }, 
+        "Reason": {
+            "HCL": 1.0
+        }, 
+        "Report": {
+            "11/10/2005": 1.0
+        }, 
+        "Resume": {
+            "ACTIVITY:": 1.0
+        }, 
+        "S": {
+            "APPOINTMENT(": 1.0
+        }, 
+        "SAL": {
+            ",": 1.0
+        }, 
+        "SCIATICA": {
+            "H/O": 1.0
+        }, 
+        "SERIOUS": {
+            "POTENTIALLY": 1.0
+        }, 
+        "SI": {
+            "?": 1.0
+        }, 
+        "SIADH": {
+            "UGI": 0.5, 
+            "of": 0.5
+        }, 
+        "SOB": {
+            "increased": 1.0
+        }, 
+        "SODIUM": {
+            "MEDICATIONS:": 1.0
+        }, 
+        "STATUS:": {
+            "CODE": 1.0
+        }, 
+        "SUMMARY:": {
+            "D/C": 1.0
+        }, 
+        "Service:": {
+            "Lescondvixand": 1.0
+        }, 
+        "Stable": {
+            "CONDITION:": 1.0
+        }, 
+        "Status:": {
+            "Report": 1.0
+        }, 
+        "Study": {
+            "After": 1.0
+        }, 
+        "THE": {
+            "AS": 1.0
+        }, 
+        "TO": {
+            "Stable": 1.0
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "OTHER": 1.0
+        }, 
+        "TRUFIN": {
+            "by": 1.0
+        }, 
+        "TSH": {
+            "nl": 1.0
+        }, 
+        "Take": {
+            "Instruction": 0.5, 
+            "products.": 0.5
+        }, 
+        "Tbili": {
+            ",": 1.0
+        }, 
+        "Treatment/Stay": {
+            "affecting": 1.0
+        }, 
+        "U/A": {
+            "36.4.": 1.0
+        }, 
+        "UGI": {
+            "BY": 1.0
+        }, 
+        "ULCERS": {
+            "DUODENAL": 1.0
+        }, 
+        "UP": {
+            "FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "CONTINGENT": 1.0
+        }, 
+        "USED": {
+            "BE": 1.0
+        }, 
+        "UTI.": {
+            "for": 1.0
+        }, 
+        "VNA:": {
+            "for": 1.0
+        }, 
+        "VS:": {
+            "needed.": 1.0
+        }, 
+        "WBC": {
+            ",": 1.0
+        }, 
+        "WILL": {
+            "Applicable": 1.0
+        }, 
+        "YES": {
+            "SUMMARY:": 1.0
+        }, 
+        "abd": {
+            ",": 1.0
+        }, 
+        "able": {
+            "is": 1.0
+        }, 
+        "added": {
+            "Override": 1.0
+        }, 
+        "admision.": {
+            "on": 1.0
+        }, 
+        "admission": {
+            "recent": 1.0
+        }, 
+        "admit": {
+            "psych": 1.0
+        }, 
+        "affecting": {
+            ",": 1.0
+        }, 
+        "after": {
+            "hours": 1.0
+        }, 
+        "also": {
+            "Pt": 0.3333333333333333, 
+            "should": 0.3333333333333333, 
+            "will": 0.3333333333333333
+        }, 
+        "an": {
+            "as": 0.5, 
+            "make": 0.5
+        }, 
+        "and": {
+            ",": 0.16666666666666666, 
+            "Daulton": 0.16666666666666666, 
+            "HTN": 0.16666666666666666, 
+            "Na": 0.16666666666666666, 
+            "hyponatremia": 0.3333333333333333
+        }, 
+        "antidepressant": {
+            "needs": 0.5, 
+            "re:": 0.5
+        }, 
+        "antidepressed": {
+            "on": 1.0
+        }, 
+        "appt": {
+            "an": 1.0
+        }, 
+        "around": {
+            "walk": 1.0
+        }, 
+        "as": {
+            "NS": 0.5, 
+            "antidepressant": 0.5
+        }, 
+        "at": {
+            "workers": 1.0
+        }, 
+        "be": {
+            "also": 0.3333333333333333, 
+            "to": 0.3333333333333333, 
+            "will": 0.3333333333333333
+        }, 
+        "been": {
+            "not": 1.0
+        }, 
+        "before": {
+            "hour": 0.5, 
+            "hours": 0.5
+        }, 
+        "by": {
+            "4/9/05": 0.25, 
+            "contacted": 0.5, 
+            "eval": 0.25
+        }, 
+        "call": {
+            "please": 1.0
+        }, 
+        "cardiac": {
+            ",": 1.0
+        }, 
+        "changes.": {
+            "new": 1.0
+        }, 
+        "check": {
+            ",": 1.0
+        }, 
+        "chills.": {
+            "?": 1.0
+        }, 
+        "constipated.": {
+            "GI:": 1.0
+        }, 
+        "contacted": {
+            "be": 1.0
+        }, 
+        "continue": {
+            "changes.": 0.5, 
+            "significant.": 0.5
+        }, 
+        "cortisol": {
+            "nl": 1.0
+        }, 
+        "cough.": {
+            "no": 1.0
+        }, 
+        "d/c'd": {
+            ")": 0.5, 
+            "self": 0.5
+        }, 
+        "d/c.": {
+            "since": 1.0
+        }, 
+        "dairy": {
+            "after": 1.0
+        }, 
+        "day": {
+            "on": 0.5, 
+            "per": 0.5
+        }, 
+        "day.": {
+            "following": 1.0
+        }, 
+        "defib": {
+            "No": 1.0
+        }, 
+        "demeclocycline": {
+            "continue": 1.0
+        }, 
+        "demeclocycline.": {
+            "including": 1.0
+        }, 
+        "depressed": {
+            "feeling": 0.5, 
+            "quite": 0.5
+        }, 
+        "depression": {
+            "(": 0.125, 
+            ")": 0.125, 
+            "DIAGNOSIS:": 0.125, 
+            "and": 0.375, 
+            "p/w": 0.125, 
+            "pt's": 0.125
+        }, 
+        "develop": {
+            "you": 1.0
+        }, 
+        "diabetes": {
+            "(": 1.0
+        }, 
+        "dictated": {
+            "No": 1.0
+        }, 
+        "did": {
+            ",": 1.0
+        }, 
+        "difficulties.": {
+            "w/o": 1.0
+        }, 
+        "discharge.": {
+            "of": 1.0
+        }, 
+        "diverticulosis": {
+            "(": 0.5, 
+            "syndrome": 0.5
+        }, 
+        "drinking": {
+            ",": 1.0
+        }, 
+        "dull": {
+            "chills.": 1.0
+        }, 
+        "edema.": {
+            "pedal": 1.0
+        }, 
+        "enzymes": {
+            "cardiac": 1.0
+        }, 
+        "eval": {
+            "PT": 0.25, 
+            "Pt": 0.25, 
+            "psych": 0.25, 
+            "safety": 0.25
+        }, 
+        "exercise": {
+            "regular": 1.0
+        }, 
+        "f/u": {
+            "outpt": 1.0
+        }, 
+        "fatigue": {
+            "severe": 1.0
+        }, 
+        "feeling": {
+            "also": 0.5, 
+            "been": 0.5
+        }, 
+        "felt": {
+            ",": 1.0
+        }, 
+        "fevers": {
+            "no": 1.0
+        }, 
+        "flat": {
+            "enzymes": 1.0
+        }, 
+        "fluid": {
+            ",": 0.5, 
+            "1.5L": 0.5
+        }, 
+        "follow": {
+            "please": 1.0
+        }, 
+        "following": {
+            "the": 1.0
+        }, 
+        "for": {
+            "2/23/05": 0.16666666666666666, 
+            "COMMENTS:": 0.16666666666666666, 
+            "Reason": 0.16666666666666666, 
+            "Study": 0.16666666666666666, 
+            "admission": 0.16666666666666666, 
+            "neg": 0.16666666666666666
+        }, 
+        "gallon": {
+            "1": 1.0
+        }, 
+        "gilbert's": {
+            ")": 1.0
+        }, 
+        "given": {
+            "IVF": 1.0
+        }, 
+        "gluc": {
+            ",": 0.5, 
+            "admision.": 0.5
+        }, 
+        "good": {
+            "needs": 1.0
+        }, 
+        "grapefruit": {
+            "Avoid": 1.0
+        }, 
+        "had": {
+            "(": 1.0
+        }, 
+        "has": {
+            "he": 1.0
+        }, 
+        "hct": {
+            ",": 1.0
+        }, 
+        "he": {
+            ",": 1.0
+        }, 
+        "head": {
+            "neg": 1.0
+        }, 
+        "her.": {
+            "see": 1.0
+        }, 
+        "his": {
+            "take": 1.0
+        }, 
+        "home": {
+            "VNA:": 0.3333333333333333, 
+            "d/c'd": 0.3333333333333333, 
+            "no": 0.3333333333333333
+        }, 
+        "hospital": {
+            "the": 1.0
+        }, 
+        "hour": {
+            "1": 1.0
+        }, 
+        "hours": {
+            "2": 0.3333333333333333, 
+            "3": 0.6666666666666666
+        }, 
+        "hx": {
+            "?": 0.25, 
+            "ENDO:": 0.25, 
+            "no": 0.25, 
+            "w/": 0.25
+        }, 
+        "hypertension": {
+            "(": 1.0
+        }, 
+        "hyponatremia": {
+            ")": 0.25, 
+            "FEN:": 0.25, 
+            "for": 0.25, 
+            "|": 0.25
+        }, 
+        "if": {
+            "hospital": 1.0
+        }, 
+        "improved": {
+            "gluc": 1.0
+        }, 
+        "in": {
+            "Myslinski": 0.16666666666666666, 
+            "many": 0.16666666666666666, 
+            "psych": 0.16666666666666666, 
+            "remeron": 0.16666666666666666, 
+            "w/u": 0.16666666666666666, 
+            "workers": 0.16666666666666666
+        }, 
+        "including": {
+            "meds": 1.0
+        }, 
+        "increased": {
+            ",": 1.0
+        }, 
+        "infiltrates.": {
+            "no": 1.0
+        }, 
+        "inpt": {
+            "no": 1.0
+        }, 
+        "instructs": {
+            "MD": 1.0
+        }, 
+        "intubation": {
+            "No": 1.0
+        }, 
+        "is": {
+            "pt": 1.0
+        }, 
+        "likely": {
+            "most": 1.0
+        }, 
+        "lonely.": {
+            ",": 1.0
+        }, 
+        "lovenox": {
+            ",": 1.0
+        }, 
+        "low": {
+            "given": 0.5, 
+            "presumed": 0.5
+        }, 
+        "make": {
+            "and": 1.0
+        }, 
+        "many": {
+            "tried": 1.0
+        }, 
+        "medications.": {
+            "antidepressant": 1.0
+        }, 
+        "meds": {
+            "his": 1.0
+        }, 
+        "mellitus": {
+            "diabetes": 1.0
+        }, 
+        "monitor": {
+            "override:": 1.0
+        }, 
+        "most": {
+            "pt": 1.0
+        }, 
+        "murmurs": {
+            "no": 1.0
+        }, 
+        "needed.": {
+            "PT": 0.5, 
+            "sitter": 0.5
+        }, 
+        "needs": {
+            ",": 0.5, 
+            "likely": 0.5
+        }, 
+        "neg": {
+            "(": 0.3333333333333333, 
+            "U/A": 0.3333333333333333, 
+            "w/": 0.3333333333333333
+        }, 
+        "new": {
+            "no": 1.0
+        }, 
+        "nl": {
+            ",": 1.0
+        }, 
+        "no": {
+            ",": 0.5, 
+            "CXR:": 0.1, 
+            "difficulties.": 0.1, 
+            "plans.": 0.1, 
+            "showed": 0.1, 
+            "spontly.": 0.1
+        }, 
+        "none": {
+            "PROCEDURES:": 1.0
+        }, 
+        "norvasc": {
+            "continue": 1.0
+        }, 
+        "not": {
+            ",": 0.25, 
+            "felt": 0.25, 
+            "has": 0.25, 
+            "hyponatremia": 0.25
+        }, 
+        "of": {
+            "Na": 0.16666666666666666, 
+            "day": 0.16666666666666666, 
+            "hx": 0.6666666666666666
+        }, 
+        "on": {
+            "130": 0.1111111111111111, 
+            "66": 0.1111111111111111, 
+            "Na": 0.1111111111111111, 
+            "added": 0.1111111111111111, 
+            "home": 0.1111111111111111, 
+            "improved": 0.1111111111111111, 
+            "not": 0.1111111111111111, 
+            "up": 0.2222222222222222
+        }, 
+        "or": {
+            "admit": 0.25, 
+            "before": 0.5, 
+            "fatigue": 0.25
+        }, 
+        "osm": {
+            ",": 1.0
+        }, 
+        "osm.": {
+            "and": 1.0
+        }, 
+        "otherwise.": {
+            "instructs": 1.0
+        }, 
+        "outpt": {
+            "an": 0.5, 
+            "good": 0.5
+        }, 
+        "overridden:": {
+            "Alert": 1.0
+        }, 
+        "override:": {
+            "for": 1.0
+        }, 
+        "p/w": {
+            ",": 1.0
+        }, 
+        "past": {
+            "the": 1.0
+        }, 
+        "pedal": {
+            "no": 1.0
+        }, 
+        "per": {
+            "gallon": 1.0
+        }, 
+        "plans.": {
+            "no": 1.0
+        }, 
+        "please": {
+            ",": 0.25, 
+            ".": 0.25, 
+            "DO/PLAN:": 0.25, 
+            "pt:": 0.25
+        }, 
+        "pressors": {
+            "No": 1.0
+        }, 
+        "presumed": {
+            "and": 1.0
+        }, 
+        "products.": {
+            "Iron": 0.5, 
+            "dairy": 0.5
+        }, 
+        "psych": {
+            ",": 0.3333333333333333, 
+            "by": 0.3333333333333333, 
+            "inpt": 0.3333333333333333
+        }, 
+        "pt": {
+            ").": 0.2, 
+            "Per": 0.2, 
+            "Psych:": 0.2, 
+            "that": 0.4
+        }, 
+        "pt's": {
+            "on": 1.0
+        }, 
+        "pt:": {
+            "for": 1.0
+        }, 
+        "quite": {
+            "pt": 1.0
+        }, 
+        "re:": {
+            "PCP": 1.0
+        }, 
+        "recent": {
+            "w/": 1.0
+        }, 
+        "regimen": {
+            "Bowel": 1.0
+        }, 
+        "regular": {
+            "Resume": 1.0
+        }, 
+        "remeron": {
+            "d/c'd": 1.0
+        }, 
+        "resolved": {
+            ",": 1.0
+        }, 
+        "restrict": {
+            "fluid": 1.0
+        }, 
+        "restriction": {
+            "fluid": 1.0
+        }, 
+        "restriction:": {
+            "Fluid": 1.0
+        }, 
+        "return": {
+            "please": 1.0
+        }, 
+        "s/p": {
+            "(": 1.0
+        }, 
+        "safety": {
+            "home": 1.0
+        }, 
+        "said": {
+            "eval": 1.0
+        }, 
+        "see": {
+            "also": 0.5, 
+            "to": 0.5
+        }, 
+        "seizure.": {
+            "or": 1.0
+        }, 
+        "self": {
+            "(": 1.0
+        }, 
+        "services": {
+            "w/": 1.0
+        }, 
+        "severe": {
+            "develop": 1.0
+        }, 
+        "should": {
+            "you": 1.0
+        }, 
+        "showed": {
+            "EKG": 1.0
+        }, 
+        "significant.": {
+            "not": 1.0
+        }, 
+        "since": {
+            "well": 1.0
+        }, 
+        "sitter": {
+            "1:1": 1.0
+        }, 
+        "social": {
+            ",": 0.3333333333333333, 
+            "by": 0.6666666666666666
+        }, 
+        "sodium.": {
+            "pt's": 1.0
+        }, 
+        "soft": {
+            "abd": 1.0
+        }, 
+        "spontly.": {
+            "resolved": 1.0
+        }, 
+        "suicidal": {
+            "be": 1.0
+        }, 
+        "summary": {
+            "dictated": 1.0
+        }, 
+        "syndrome": {
+            "gilbert's": 1.0
+        }, 
+        "take": {
+            "did": 1.0
+        }, 
+        "that": {
+            "said": 1.0
+        }, 
+        "the": {
+            "in": 0.6, 
+            "on": 0.2, 
+            "to": 0.2
+        }, 
+        "thirst": {
+            "Persist": 1.0
+        }, 
+        "to": {
+            "able": 0.25, 
+            "appt": 0.25, 
+            "not": 0.25, 
+            "return": 0.25
+        }, 
+        "treatment": {
+            "depression": 1.0
+        }, 
+        "tried": {
+            "had": 1.0
+        }, 
+        "unless": {
+            "grapefruit": 1.0
+        }, 
+        "up": {
+            "follow": 1.0
+        }, 
+        "urine": {
+            ",": 0.5, 
+            "low": 0.5
+        }, 
+        "w/": {
+            ")": 0.2, 
+            "11/28": 0.2, 
+            "Home": 0.2, 
+            "M": 0.2, 
+            "SIADH": 0.2
+        }, 
+        "w/o": {
+            "around": 1.0
+        }, 
+        "w/u": {
+            "neg": 1.0
+        }, 
+        "walk": {
+            "to": 1.0
+        }, 
+        "weakness": {
+            ",": 1.0
+        }, 
+        "weeks": {
+            "1-2": 1.0
+        }, 
+        "well": {
+            "feeling": 1.0
+        }, 
+        "will": {
+            "Pt": 0.5, 
+            "pt": 0.5
+        }, 
+        "work": {
+            "social": 1.0
+        }, 
+        "workers": {
+            "social": 1.0
+        }, 
+        "x": {
+            "CP": 1.0
+        }, 
+        "yo": {
+            "HPI:76": 1.0
+        }, 
+        "you": {
+            "her.": 0.5, 
+            "if": 0.5
+        }, 
+        "|": {
+            "264845089": 0.1111111111111111, 
+            "4775550": 0.1111111111111111, 
+            "49175654": 0.1111111111111111, 
+            "AM": 0.1111111111111111, 
+            "BSDHUO": 0.1111111111111111, 
+            "DIS": 0.1111111111111111, 
+            "depression": 0.1111111111111111, 
+            "|": 0.2222222222222222
+        }
+    }, 
+    "id": "36", 
+    "text": " 264845089 | BSDHUO | 49175654 | | 4775550 | 9/6/2005 12:00:00 AM | hyponatremia and depression | | DIS | Admission Date: 11/10/2005 Report Status: Discharge Date: 10/9/2005 ****** DISCHARGE ORDERS ****** MIX , ISAIAH 328-15-10-3 Hay Lience Lescondvixand Service: MED DISCHARGE PATIENT ON: 1/5/05 AT 12:00 PM CONTINGENT UPON Not Applicable WILL D/C ORDER BE USED AS THE D/C SUMMARY: YES Attending: MARBAN , ELDEN M. , M.D. CODE STATUS: No CPR / No defib / No intubation / No pressors / DISPOSITION: Home w/ services DISCHARGE MEDICATIONS: SODIUM CHLORIDE 1 GM PO QD NORVASC ( AMLODIPINE ) 5 MG PO QD Food/Drug Interaction Instruction Avoid grapefruit unless MD instructs otherwise. DEMECLOCYCLINE 300 MG PO BID Food/Drug Interaction Instruction Take 1 hour before or 2 hours after dairy products. Take 3 hours before or 3 hours after Iron products. Alert overridden: Override added on 4/9/05 by TRUFIN , SAL L BROCK , M.D. POTENTIALLY SERIOUS INTERACTION: MAGNESIUM HYDROXIDE & DEMECLOCYCLINE HCL Reason for override: monitor GLYBURIDE 5 MG PO QD DIET: Fluid restriction: 1.5L ACTIVITY: Resume regular exercise FOLLOW UP APPOINTMENT( S ): Dr. Myslinski in 1-2 weeks , ALLERGY: Penicillins ADMIT DIAGNOSIS: depression PRINCIPAL DISCHARGE DIAGNOSIS ;Responsible After Study for Causing Admission ) hyponatremia and depression OTHER DIAGNOSIS;Conditions , Infections , Complications , affecting Treatment/Stay H/O SCIATICA H/O HIATEL HERNIA H/O DUODENAL ULCERS BY UGI SIADH w/ neg head MRI , nl TSH , nl cortisol ( 36 ) DM ( diabetes mellitus ) HTN ( hypertension ) depression ( depression ) gilbert's syndrome diverticulosis ( diverticulosis ) OPERATIONS AND PROCEDURES: none OTHER TREATMENTS/PROCEDURES ( NOT IN O.R. ) IVF , fluid restriction BRIEF RESUME OF HOSPITAL COURSE: HPI:76 yo M w/ hx of SIADH ( neg w/u in the past ) , DM , HTN and depression ( s/p ECT ) w/ recent admission for hyponatremia ( Na 116 ) d/c'd home on 11/28 w/ Na of 132 , p/w depression , increased SOB , weakness , and presumed low Na. Per pt , he has not been feeling well since d/c. Persist thirst , drinking 1 gallon per day , did take his meds including demeclocycline. Pt also feeling depressed , lonely. ? SI , no plans. no fevers , ? chills. dull CP x 1 hour , resolved spontly. no cough. Pt eval by psych in ED , felt not to be suicidal , no inpt psych admit or 1:1 sitter needed. VS: 98.6 , HR 99 , BP 126/64 , 100% RA. NAD , JVP 6cm , CTAB , RRR , no murmurs , abd soft , +BS , no pedal edema. Labs: Na 127 , K 3.5 , Cr 0.8 , Tbili 1.9 , CK 356 , cardiac enzymes flat , osm 259 , urine Na <assay , osm 191 , WBC 21.4 63P , 4B , hct 36.4. U/A neg for UTI. CXR: no infiltrates. *************Hospital Course**************** FEN: hyponatremia not significant. continue demeclocycline , 1.5L fluid restrict , NS as IVF given low urine Na and osm. Na 130 on day of discharge. CV: ? hx of CP , no hx of CAD. EKG showed no new changes. continue norvasc Psych: pt quite depressed , not on antidepressed ( self d/c'd remeron in the past ) , social work , psych eval said that pt most likely needs good outpt f/u , needs antidepressant as an outpt ( had tried many in the past ). pt will be contacted by social workers in Gardda Pu Pt will also see PCP re: antidepressant medications. GI: constipated. Bowel regimen ENDO: hx of DM , gluc 66 on admision. gluc improved on the following day. RISS. PPx: PPI , lovenox Dispo: PT eval said that pt is able to walk around w/o difficulties. no home PT needed. DNR/DNI ADDITIONAL COMMENTS: for VNA: home safety eval , check Na on 2/23/05 for pt: please call Dr. Daulton and make an appt to see her. you should also be contacted by social workers at Ma Hospital . please return to the hospital if you develop severe fatigue or seizure. DISCHARGE CONDITION: Stable TO DO/PLAN: please follow up on pt's depression treatment , please follow up on pt's sodium. No dictated summary ENTERED BY: RISKA , HECTOR CHASE , M.D. ( MK53 ) 1/5/05 @ 12:00 PM ****** END OF DISCHARGE ORDERS ******", 
+    "tri": {
+        "&": {
+            "MAGNESIUM~HYDROXIDE": 1.0
+        }, 
+        "(": {
+            ")~DM": 0.07692307692307693, 
+            ")~HTN": 0.07692307692307693, 
+            ")~depression": 0.07692307692307693, 
+            ",~M.D.": 0.07692307692307693, 
+            "OTHER~TREATMENTS/PROCEDURES": 0.07692307692307693, 
+            "QD~NORVASC": 0.07692307692307693, 
+            "and~depression": 0.07692307692307693, 
+            "an~outpt": 0.07692307692307693, 
+            "for~hyponatremia": 0.07692307692307693, 
+            "nl~cortisol": 0.07692307692307693, 
+            "of~SIADH": 0.07692307692307693, 
+            "on~antidepressed": 0.07692307692307693, 
+            "syndrome~diverticulosis": 0.07692307692307693
+        }, 
+        ")": {
+            "(~36": 0.07692307692307693, 
+            "(~AMLODIPINE": 0.07692307692307693, 
+            "(~MK53": 0.07692307692307693, 
+            "(~depression": 0.07692307692307693, 
+            "(~diverticulosis": 0.07692307692307693, 
+            "(~hypertension": 0.07692307692307693, 
+            "Causing~Admission": 0.07692307692307693, 
+            "IN~O.R.": 0.07692307692307693, 
+            "Na~116": 0.07692307692307693, 
+            "diabetes~mellitus": 0.07692307692307693, 
+            "s/p~ECT": 0.07692307692307693, 
+            "the~past": 0.15384615384615385
+        }, 
+        ").": {
+            "the~past": 1.0
+        }, 
+        "):": {
+            "APPOINTMENT(~S": 1.0
+        }, 
+        "******": {
+            "12:00~PM": 0.25, 
+            "DISCHARGE~ORDERS": 0.5, 
+            "Date:~10/9/2005": 0.25
+        }, 
+        "*************Hospital": {
+            "no~infiltrates.": 1.0
+        }, 
+        "+BS": {
+            "soft~,": 1.0
+        }, 
+        ",": {
+            ")~IVF": 0.01639344262295082, 
+            "******~MIX": 0.01639344262295082, 
+            ",~+BS": 0.01639344262295082, 
+            ",~4B": 0.01639344262295082, 
+            ",~CTAB": 0.01639344262295082, 
+            ",~Complications": 0.01639344262295082, 
+            ",~DM": 0.01639344262295082, 
+            ",~Infections": 0.01639344262295082, 
+            ",~RRR": 0.01639344262295082, 
+            ",~weakness": 0.01639344262295082, 
+            "1-2~weeks": 0.01639344262295082, 
+            "1~hour": 0.01639344262295082, 
+            "21.4~63P": 0.01639344262295082, 
+            "?~SI": 0.01639344262295082, 
+            "Attending:~MARBAN": 0.01639344262295082, 
+            "BP~126/64": 0.01639344262295082, 
+            "BY:~RISKA": 0.01639344262295082, 
+            "CK~356": 0.01639344262295082, 
+            "Cr~0.8": 0.01639344262295082, 
+            "ELDEN~M.": 0.01639344262295082, 
+            "HECTOR~CHASE": 0.01639344262295082, 
+            "HR~99": 0.01639344262295082, 
+            "JVP~6cm": 0.01639344262295082, 
+            "K~3.5": 0.01639344262295082, 
+            "L~BROCK": 0.01639344262295082, 
+            "Na~127": 0.01639344262295082, 
+            "Na~<assay": 0.01639344262295082, 
+            "OTHER~DIAGNOSIS;Conditions": 0.01639344262295082, 
+            "PPx:~PPI": 0.01639344262295082, 
+            "Persist~thirst": 0.01639344262295082, 
+            "Per~pt": 0.01639344262295082, 
+            "RA.~NAD": 0.01639344262295082, 
+            "Tbili~1.9": 0.01639344262295082, 
+            "VS:~98.6": 0.01639344262295082, 
+            "abd~soft": 0.01639344262295082, 
+            "be~suicidal": 0.01639344262295082, 
+            "by~TRUFIN": 0.01639344262295082, 
+            "continue~demeclocycline": 0.01639344262295082, 
+            "depression~treatment": 0.01639344262295082, 
+            "enzymes~flat": 0.01639344262295082, 
+            "feeling~depressed": 0.01639344262295082, 
+            "fluid~restrict": 0.01639344262295082, 
+            "head~MRI": 0.01639344262295082, 
+            "increased~SOB": 0.01639344262295082, 
+            "in~ED": 0.01639344262295082, 
+            "nl~TSH": 0.01639344262295082, 
+            "no~fevers": 0.01639344262295082, 
+            "no~murmurs": 0.01639344262295082, 
+            "of~132": 0.01639344262295082, 
+            "of~CP": 0.01639344262295082, 
+            "of~DM": 0.01639344262295082, 
+            "osm~191": 0.01639344262295082, 
+            "osm~259": 0.01639344262295082, 
+            "outpt~f/u": 0.01639344262295082, 
+            "p/w~depression": 0.01639344262295082, 
+            "past~)": 0.03278688524590164, 
+            "per~day": 0.01639344262295082, 
+            "quite~depressed": 0.01639344262295082, 
+            "safety~eval": 0.01639344262295082, 
+            "social~work": 0.01639344262295082
+        }, 
+        ".": {
+            "Ma~Hospital": 1.0
+        }, 
+        "/": {
+            "No~CPR": 0.25, 
+            "No~defib": 0.25, 
+            "No~intubation": 0.25, 
+            "No~pressors": 0.25
+        }, 
+        "0.8": {
+            ",~Cr": 1.0
+        }, 
+        "1": {
+            ",~drinking": 0.25, 
+            "CP~x": 0.25, 
+            "Instruction~Take": 0.25, 
+            "SODIUM~CHLORIDE": 0.25
+        }, 
+        "1-2": {
+            "Myslinski~in": 1.0
+        }, 
+        "1.5L": {
+            "Fluid~restriction:": 0.5, 
+            "demeclocycline~,": 0.5
+        }, 
+        "1.9": {
+            ",~Tbili": 1.0
+        }, 
+        "1/5/05": {
+            "MK53~)": 0.5, 
+            "PATIENT~ON:": 0.5
+        }, 
+        "10/9/2005": {
+            "Discharge~Date:": 1.0
+        }, 
+        "100%": {
+            "126/64~,": 1.0
+        }, 
+        "11/10/2005": {
+            "Admission~Date:": 1.0
+        }, 
+        "11/28": {
+            "home~on": 1.0
+        }, 
+        "116": {
+            "(~Na": 1.0
+        }, 
+        "126/64": {
+            ",~BP": 1.0
+        }, 
+        "127": {
+            "Labs:~Na": 1.0
+        }, 
+        "12:00": {
+            "1/5/05~@": 0.5, 
+            "1/5/05~AT": 0.5
+        }, 
+        "12:00:00": {
+            "|~9/6/2005": 1.0
+        }, 
+        "130": {
+            "osm.~Na": 1.0
+        }, 
+        "132": {
+            "Na~of": 1.0
+        }, 
+        "191": {
+            ",~osm": 1.0
+        }, 
+        "1:1": {
+            "admit~or": 1.0
+        }, 
+        "2": {
+            "before~or": 1.0
+        }, 
+        "2/23/05": {
+            "Na~on": 1.0
+        }, 
+        "21.4": {
+            ",~WBC": 1.0
+        }, 
+        "259": {
+            ",~osm": 1.0
+        }, 
+        "3": {
+            "before~or": 0.5, 
+            "products.~Take": 0.5
+        }, 
+        "3.5": {
+            ",~K": 1.0
+        }, 
+        "300": {
+            "otherwise.~DEMECLOCYCLINE": 1.0
+        }, 
+        "328-15-10-3": {
+            ",~ISAIAH": 1.0
+        }, 
+        "356": {
+            ",~CK": 1.0
+        }, 
+        "36": {
+            "cortisol~(": 1.0
+        }, 
+        "36.4.": {
+            ",~hct": 1.0
+        }, 
+        "4/9/05": {
+            "added~on": 1.0
+        }, 
+        "4775550": {
+            "|~|": 1.0
+        }, 
+        "49175654": {
+            "BSDHUO~|": 1.0
+        }, 
+        "4B": {
+            "63P~,": 1.0
+        }, 
+        "5": {
+            "AMLODIPINE~)": 0.5, 
+            "monitor~GLYBURIDE": 0.5
+        }, 
+        "63P": {
+            "WBC~21.4": 1.0
+        }, 
+        "66": {
+            ",~gluc": 1.0
+        }, 
+        "6cm": {
+            ",~JVP": 1.0
+        }, 
+        "9/6/2005": {
+            "4775550~|": 1.0
+        }, 
+        "98.6": {
+            "needed.~VS:": 1.0
+        }, 
+        "99": {
+            ",~HR": 1.0
+        }, 
+        ";Responsible": {
+            "DISCHARGE~DIAGNOSIS": 1.0
+        }, 
+        "<assay": {
+            "urine~Na": 1.0
+        }, 
+        "?": {
+            ",~lonely.": 0.3333333333333333, 
+            "discharge.~CV:": 0.3333333333333333, 
+            "fevers~,": 0.3333333333333333
+        }, 
+        "@": {
+            ")~1/5/05": 1.0
+        }, 
+        "ACTIVITY:": {
+            "restriction:~1.5L": 1.0
+        }, 
+        "ADDITIONAL": {
+            "needed.~DNR/DNI": 1.0
+        }, 
+        "ADMIT": {
+            "ALLERGY:~Penicillins": 1.0
+        }, 
+        "ALLERGY:": {
+            "weeks~,": 1.0
+        }, 
+        "AM": {
+            "9/6/2005~12:00:00": 1.0
+        }, 
+        "AMLODIPINE": {
+            "NORVASC~(": 1.0
+        }, 
+        "AND": {
+            ")~OPERATIONS": 1.0
+        }, 
+        "APPOINTMENT(": {
+            "FOLLOW~UP": 1.0
+        }, 
+        "AS": {
+            "BE~USED": 1.0
+        }, 
+        "AT": {
+            "ON:~1/5/05": 1.0
+        }, 
+        "Admission": {
+            "DIS~|": 0.5, 
+            "for~Causing": 0.5
+        }, 
+        "After": {
+            "DIAGNOSIS~;Responsible": 1.0
+        }, 
+        "Alert": {
+            "Iron~products.": 1.0
+        }, 
+        "Applicable": {
+            "UPON~Not": 1.0
+        }, 
+        "Attending:": {
+            "SUMMARY:~YES": 1.0
+        }, 
+        "Avoid": {
+            "Interaction~Instruction": 1.0
+        }, 
+        "BE": {
+            "D/C~ORDER": 1.0
+        }, 
+        "BID": {
+            "MG~PO": 1.0
+        }, 
+        "BP": {
+            "99~,": 1.0
+        }, 
+        "BRIEF": {
+            "fluid~restriction": 1.0
+        }, 
+        "BROCK": {
+            "SAL~L": 1.0
+        }, 
+        "BSDHUO": {
+            "264845089~|": 1.0
+        }, 
+        "BY": {
+            "DUODENAL~ULCERS": 1.0
+        }, 
+        "BY:": {
+            "summary~ENTERED": 1.0
+        }, 
+        "Bowel": {
+            "GI:~constipated.": 1.0
+        }, 
+        "CAD.": {
+            "hx~of": 1.0
+        }, 
+        "CHASE": {
+            ",~HECTOR": 1.0
+        }, 
+        "CHLORIDE": {
+            "MEDICATIONS:~SODIUM": 1.0
+        }, 
+        "CK": {
+            "1.9~,": 1.0
+        }, 
+        "CODE": {
+            ",~M.D.": 1.0
+        }, 
+        "COMMENTS:": {
+            "DNR/DNI~ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            "seizure.~DISCHARGE": 1.0
+        }, 
+        "CONTINGENT": {
+            "12:00~PM": 1.0
+        }, 
+        "COURSE:": {
+            "OF~HOSPITAL": 1.0
+        }, 
+        "CP": {
+            "chills.~dull": 0.5, 
+            "hx~of": 0.5
+        }, 
+        "CPR": {
+            "STATUS:~No": 1.0
+        }, 
+        "CTAB": {
+            "6cm~,": 1.0
+        }, 
+        "CV:": {
+            "of~discharge.": 1.0
+        }, 
+        "CXR:": {
+            "for~UTI.": 1.0
+        }, 
+        "Causing": {
+            "Study~for": 1.0
+        }, 
+        "Complications": {
+            "Infections~,": 1.0
+        }, 
+        "Course****************": {
+            "infiltrates.~*************Hospital": 1.0
+        }, 
+        "Cr": {
+            "3.5~,": 1.0
+        }, 
+        "D/C": {
+            "AS~THE": 0.5, 
+            "Applicable~WILL": 0.5
+        }, 
+        "DEMECLOCYCLINE": {
+            "HYDROXIDE~&": 0.5, 
+            "instructs~otherwise.": 0.5
+        }, 
+        "DIAGNOSIS": {
+            "PRINCIPAL~DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "Penicillins~ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "depression~OTHER": 1.0
+        }, 
+        "DIET:": {
+            "PO~QD": 1.0
+        }, 
+        "DIS": {
+            "|~|": 1.0
+        }, 
+        "DISCHARGE": {
+            "10/9/2005~******": 0.16666666666666666, 
+            "END~OF": 0.16666666666666666, 
+            "Service:~MED": 0.16666666666666666, 
+            "depression~PRINCIPAL": 0.16666666666666666, 
+            "or~seizure.": 0.16666666666666666, 
+            "w/~services": 0.16666666666666666
+        }, 
+        "DISPOSITION:": {
+            "pressors~/": 1.0
+        }, 
+        "DM": {
+            ")~,": 0.3333333333333333, 
+            "36~)": 0.3333333333333333, 
+            "hx~of": 0.3333333333333333
+        }, 
+        "DNR/DNI": {
+            "PT~needed.": 1.0
+        }, 
+        "DO/PLAN:": {
+            "Stable~TO": 1.0
+        }, 
+        "DUODENAL": {
+            "HERNIA~H/O": 1.0
+        }, 
+        "Date:": {
+            "Status:~Discharge": 0.5, 
+            "|~Admission": 0.5
+        }, 
+        "Daulton": {
+            "call~Dr.": 1.0
+        }, 
+        "Discharge": {
+            "Report~Status:": 1.0
+        }, 
+        "Dispo:": {
+            ",~lovenox": 1.0
+        }, 
+        "Dr.": {
+            "S~):": 0.5, 
+            "please~call": 0.5
+        }, 
+        "ECT": {
+            "(~s/p": 1.0
+        }, 
+        "ED": {
+            "psych~in": 1.0
+        }, 
+        "EKG": {
+            "of~CAD.": 1.0
+        }, 
+        "ELDEN": {
+            "MARBAN~,": 1.0
+        }, 
+        "END": {
+            "PM~******": 1.0
+        }, 
+        "ENDO:": {
+            "Bowel~regimen": 1.0
+        }, 
+        "ENTERED": {
+            "dictated~summary": 1.0
+        }, 
+        "FEN:": {
+            "*************Hospital~Course****************": 1.0
+        }, 
+        "FOLLOW": {
+            "regular~exercise": 1.0
+        }, 
+        "Fluid": {
+            "QD~DIET:": 1.0
+        }, 
+        "Food/Drug": {
+            "PO~BID": 0.5, 
+            "PO~QD": 0.5
+        }, 
+        "GI:": {
+            "antidepressant~medications.": 1.0
+        }, 
+        "GLYBURIDE": {
+            "override:~monitor": 1.0
+        }, 
+        "GM": {
+            "CHLORIDE~1": 1.0
+        }, 
+        "Gardda": {
+            "workers~in": 1.0
+        }, 
+        "H/O": {
+            "H/O~SCIATICA": 0.3333333333333333, 
+            "HIATEL~HERNIA": 0.3333333333333333, 
+            "affecting~Treatment/Stay": 0.3333333333333333
+        }, 
+        "HCL": {
+            "&~DEMECLOCYCLINE": 1.0
+        }, 
+        "HECTOR": {
+            "RISKA~,": 1.0
+        }, 
+        "HERNIA": {
+            "H/O~HIATEL": 1.0
+        }, 
+        "HIATEL": {
+            "SCIATICA~H/O": 1.0
+        }, 
+        "HOSPITAL": {
+            "RESUME~OF": 1.0
+        }, 
+        "HPI:76": {
+            "HOSPITAL~COURSE:": 1.0
+        }, 
+        "HR": {
+            "98.6~,": 1.0
+        }, 
+        "HTN": {
+            "DM~,": 0.5, 
+            "mellitus~)": 0.5
+        }, 
+        "HYDROXIDE": {
+            "INTERACTION:~MAGNESIUM": 1.0
+        }, 
+        "Hay": {
+            "ISAIAH~328-15-10-3": 1.0
+        }, 
+        "Home": {
+            "/~DISPOSITION:": 1.0
+        }, 
+        "Hospital": {
+            "at~Ma": 1.0
+        }, 
+        "IN": {
+            "(~NOT": 1.0
+        }, 
+        "INTERACTION:": {
+            "POTENTIALLY~SERIOUS": 1.0
+        }, 
+        "ISAIAH": {
+            "MIX~,": 1.0
+        }, 
+        "IVF": {
+            "NS~as": 0.5, 
+            "O.R.~)": 0.5
+        }, 
+        "Infections": {
+            "DIAGNOSIS;Conditions~,": 1.0
+        }, 
+        "Instruction": {
+            "Food/Drug~Interaction": 1.0
+        }, 
+        "Interaction": {
+            "BID~Food/Drug": 0.5, 
+            "QD~Food/Drug": 0.5
+        }, 
+        "Iron": {
+            "hours~after": 1.0
+        }, 
+        "JVP": {
+            "NAD~,": 1.0
+        }, 
+        "K": {
+            "127~,": 1.0
+        }, 
+        "L": {
+            ",~SAL": 1.0
+        }, 
+        "Labs:": {
+            "pedal~edema.": 1.0
+        }, 
+        "Lescondvixand": {
+            "Hay~Lience": 1.0
+        }, 
+        "Lience": {
+            "328-15-10-3~Hay": 1.0
+        }, 
+        "M": {
+            "HPI:76~yo": 1.0
+        }, 
+        "M.": {
+            ",~ELDEN": 1.0
+        }, 
+        "M.D.": {
+            "BROCK~,": 0.3333333333333333, 
+            "CHASE~,": 0.3333333333333333, 
+            "M.~,": 0.3333333333333333
+        }, 
+        "MAGNESIUM": {
+            "SERIOUS~INTERACTION:": 1.0
+        }, 
+        "MARBAN": {
+            "YES~Attending:": 1.0
+        }, 
+        "MD": {
+            "grapefruit~unless": 1.0
+        }, 
+        "MED": {
+            "Lescondvixand~Service:": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "services~DISCHARGE": 1.0
+        }, 
+        "MG": {
+            ")~5": 0.3333333333333333, 
+            "DEMECLOCYCLINE~300": 0.3333333333333333, 
+            "GLYBURIDE~5": 0.3333333333333333
+        }, 
+        "MIX": {
+            "ORDERS~******": 1.0
+        }, 
+        "MK53": {
+            "M.D.~(": 1.0
+        }, 
+        "MRI": {
+            "neg~head": 1.0
+        }, 
+        "Ma": {
+            "workers~at": 1.0
+        }, 
+        "Myslinski": {
+            "):~Dr.": 1.0
+        }, 
+        "NAD": {
+            "100%~RA.": 1.0
+        }, 
+        "NORVASC": {
+            "PO~QD": 1.0
+        }, 
+        "NOT": {
+            "TREATMENTS/PROCEDURES~(": 1.0
+        }, 
+        "NS": {
+            "restrict~,": 1.0
+        }, 
+        "Na": {
+            ",~check": 0.14285714285714285, 
+            ",~urine": 0.14285714285714285, 
+            "11/28~w/": 0.14285714285714285, 
+            "and~osm.": 0.14285714285714285, 
+            "edema.~Labs:": 0.14285714285714285, 
+            "hyponatremia~(": 0.14285714285714285, 
+            "low~urine": 0.14285714285714285
+        }, 
+        "Na.": {
+            "presumed~low": 1.0
+        }, 
+        "No": {
+            "CODE~STATUS:": 0.2, 
+            "CPR~/": 0.2, 
+            "defib~/": 0.2, 
+            "intubation~/": 0.2, 
+            "pt's~sodium.": 0.2
+        }, 
+        "Not": {
+            "CONTINGENT~UPON": 1.0
+        }, 
+        "O.R.": {
+            "NOT~IN": 1.0
+        }, 
+        "OF": {
+            "******~END": 0.5, 
+            "BRIEF~RESUME": 0.5
+        }, 
+        "ON:": {
+            "DISCHARGE~PATIENT": 1.0
+        }, 
+        "OPERATIONS": {
+            "diverticulosis~)": 1.0
+        }, 
+        "ORDER": {
+            "WILL~D/C": 1.0
+        }, 
+        "ORDERS": {
+            "******~DISCHARGE": 0.5, 
+            "OF~DISCHARGE": 0.5
+        }, 
+        "OTHER": {
+            "PROCEDURES:~none": 0.5, 
+            "and~depression": 0.5
+        }, 
+        "Override": {
+            "Alert~overridden:": 1.0
+        }, 
+        "PATIENT": {
+            "MED~DISCHARGE": 1.0
+        }, 
+        "PCP": {
+            "also~see": 1.0
+        }, 
+        "PM": {
+            "@~12:00": 0.5, 
+            "AT~12:00": 0.5
+        }, 
+        "PO": {
+            "1~GM": 0.25, 
+            "300~MG": 0.25, 
+            "5~MG": 0.5
+        }, 
+        "POTENTIALLY": {
+            ",~M.D.": 1.0
+        }, 
+        "PPI": {
+            "RISS.~PPx:": 1.0
+        }, 
+        "PPx:": {
+            "day.~RISS.": 1.0
+        }, 
+        "PRINCIPAL": {
+            "DIAGNOSIS:~depression": 1.0
+        }, 
+        "PROCEDURES:": {
+            "OPERATIONS~AND": 1.0
+        }, 
+        "PT": {
+            "lovenox~Dispo:": 0.5, 
+            "no~home": 0.5
+        }, 
+        "Penicillins": {
+            ",~ALLERGY:": 1.0
+        }, 
+        "Per": {
+            "low~Na.": 1.0
+        }, 
+        "Persist": {
+            "since~d/c.": 1.0
+        }, 
+        "Psych:": {
+            "continue~norvasc": 1.0
+        }, 
+        "Pt": {
+            "Gardda~Pu": 0.3333333333333333, 
+            "including~demeclocycline.": 0.3333333333333333, 
+            "no~cough.": 0.3333333333333333
+        }, 
+        "Pu": {
+            "in~Gardda": 1.0
+        }, 
+        "QD": {
+            "GM~PO": 0.3333333333333333, 
+            "MG~PO": 0.6666666666666666
+        }, 
+        "RA.": {
+            ",~100%": 1.0
+        }, 
+        "RESUME": {
+            "restriction~BRIEF": 1.0
+        }, 
+        "RISKA": {
+            "ENTERED~BY:": 1.0
+        }, 
+        "RISS.": {
+            "following~day.": 1.0
+        }, 
+        "RRR": {
+            "CTAB~,": 1.0
+        }, 
+        "Reason": {
+            "DEMECLOCYCLINE~HCL": 1.0
+        }, 
+        "Report": {
+            "Date:~11/10/2005": 1.0
+        }, 
+        "Resume": {
+            "1.5L~ACTIVITY:": 1.0
+        }, 
+        "S": {
+            "UP~APPOINTMENT(": 1.0
+        }, 
+        "SAL": {
+            "TRUFIN~,": 1.0
+        }, 
+        "SCIATICA": {
+            "Treatment/Stay~H/O": 1.0
+        }, 
+        "SERIOUS": {
+            "M.D.~POTENTIALLY": 1.0
+        }, 
+        "SI": {
+            "lonely.~?": 1.0
+        }, 
+        "SIADH": {
+            "BY~UGI": 0.5, 
+            "hx~of": 0.5
+        }, 
+        "SOB": {
+            ",~increased": 1.0
+        }, 
+        "SODIUM": {
+            "DISCHARGE~MEDICATIONS:": 1.0
+        }, 
+        "STATUS:": {
+            "M.D.~CODE": 1.0
+        }, 
+        "SUMMARY:": {
+            "THE~D/C": 1.0
+        }, 
+        "Service:": {
+            "Lience~Lescondvixand": 1.0
+        }, 
+        "Stable": {
+            "DISCHARGE~CONDITION:": 1.0
+        }, 
+        "Status:": {
+            "11/10/2005~Report": 1.0
+        }, 
+        "Study": {
+            ";Responsible~After": 1.0
+        }, 
+        "THE": {
+            "USED~AS": 1.0
+        }, 
+        "TO": {
+            "CONDITION:~Stable": 1.0
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "none~OTHER": 1.0
+        }, 
+        "TRUFIN": {
+            "4/9/05~by": 1.0
+        }, 
+        "TSH": {
+            ",~nl": 1.0
+        }, 
+        "Take": {
+            "Interaction~Instruction": 0.5, 
+            "dairy~products.": 0.5
+        }, 
+        "Tbili": {
+            "0.8~,": 1.0
+        }, 
+        "Treatment/Stay": {
+            ",~affecting": 1.0
+        }, 
+        "U/A": {
+            "hct~36.4.": 1.0
+        }, 
+        "UGI": {
+            "ULCERS~BY": 1.0
+        }, 
+        "ULCERS": {
+            "H/O~DUODENAL": 1.0
+        }, 
+        "UP": {
+            "exercise~FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "PM~CONTINGENT": 1.0
+        }, 
+        "USED": {
+            "ORDER~BE": 1.0
+        }, 
+        "UTI.": {
+            "neg~for": 1.0
+        }, 
+        "VNA:": {
+            "COMMENTS:~for": 1.0
+        }, 
+        "VS:": {
+            "sitter~needed.": 1.0
+        }, 
+        "WBC": {
+            "191~,": 1.0
+        }, 
+        "WILL": {
+            "Not~Applicable": 1.0
+        }, 
+        "YES": {
+            "D/C~SUMMARY:": 1.0
+        }, 
+        "abd": {
+            "murmurs~,": 1.0
+        }, 
+        "able": {
+            "pt~is": 1.0
+        }, 
+        "added": {
+            "overridden:~Override": 1.0
+        }, 
+        "admision.": {
+            "66~on": 1.0
+        }, 
+        "admission": {
+            "w/~recent": 1.0
+        }, 
+        "admit": {
+            "inpt~psych": 1.0
+        }, 
+        "affecting": {
+            "Complications~,": 1.0
+        }, 
+        "after": {
+            "2~hours": 0.5, 
+            "3~hours": 0.5
+        }, 
+        "also": {
+            "Pt~will": 0.3333333333333333, 
+            "demeclocycline.~Pt": 0.3333333333333333, 
+            "you~should": 0.3333333333333333
+        }, 
+        "an": {
+            "and~make": 0.5, 
+            "antidepressant~as": 0.5
+        }, 
+        "and": {
+            ")~hyponatremia": 0.16666666666666666, 
+            ",~HTN": 0.16666666666666666, 
+            "Dr.~Daulton": 0.16666666666666666, 
+            "urine~Na": 0.16666666666666666, 
+            "weakness~,": 0.16666666666666666, 
+            "|~hyponatremia": 0.16666666666666666
+        }, 
+        "antidepressant": {
+            ",~needs": 0.5, 
+            "PCP~re:": 0.5
+        }, 
+        "antidepressed": {
+            "not~on": 1.0
+        }, 
+        "appt": {
+            "make~an": 1.0
+        }, 
+        "around": {
+            "to~walk": 1.0
+        }, 
+        "as": {
+            ",~NS": 0.5, 
+            "needs~antidepressant": 0.5
+        }, 
+        "at": {
+            "social~workers": 1.0
+        }, 
+        "be": {
+            "not~to": 0.3333333333333333, 
+            "pt~will": 0.3333333333333333, 
+            "should~also": 0.3333333333333333
+        }, 
+        "been": {
+            "has~not": 1.0
+        }, 
+        "before": {
+            "1~hour": 0.5, 
+            "3~hours": 0.5
+        }, 
+        "by": {
+            "Pt~eval": 0.25, 
+            "be~contacted": 0.5, 
+            "on~4/9/05": 0.25
+        }, 
+        "call": {
+            "pt:~please": 1.0
+        }, 
+        "cardiac": {
+            "356~,": 1.0
+        }, 
+        "changes.": {
+            "no~new": 1.0
+        }, 
+        "check": {
+            "eval~,": 1.0
+        }, 
+        "chills.": {
+            ",~?": 1.0
+        }, 
+        "constipated.": {
+            "medications.~GI:": 1.0
+        }, 
+        "contacted": {
+            "also~be": 0.5, 
+            "will~be": 0.5
+        }, 
+        "continue": {
+            "new~changes.": 0.5, 
+            "not~significant.": 0.5
+        }, 
+        "cortisol": {
+            ",~nl": 1.0
+        }, 
+        "cough.": {
+            "spontly.~no": 1.0
+        }, 
+        "d/c'd": {
+            "(~self": 0.5, 
+            "116~)": 0.5
+        }, 
+        "d/c.": {
+            "well~since": 1.0
+        }, 
+        "dairy": {
+            "hours~after": 1.0
+        }, 
+        "day": {
+            "130~on": 0.5, 
+            "gallon~per": 0.5
+        }, 
+        "day.": {
+            "the~following": 1.0
+        }, 
+        "defib": {
+            "/~No": 1.0
+        }, 
+        "demeclocycline": {
+            "significant.~continue": 1.0
+        }, 
+        "demeclocycline.": {
+            "meds~including": 1.0
+        }, 
+        "depressed": {
+            "also~feeling": 0.5, 
+            "pt~quite": 0.5
+        }, 
+        "depression": {
+            ",~p/w": 0.125, 
+            "ADMIT~DIAGNOSIS:": 0.125, 
+            "HTN~and": 0.125, 
+            "depression~(": 0.125, 
+            "hypertension~)": 0.125, 
+            "hyponatremia~and": 0.25, 
+            "on~pt's": 0.125
+        }, 
+        "develop": {
+            "if~you": 1.0
+        }, 
+        "diabetes": {
+            "DM~(": 1.0
+        }, 
+        "dictated": {
+            "sodium.~No": 1.0
+        }, 
+        "did": {
+            "day~,": 1.0
+        }, 
+        "difficulties.": {
+            "around~w/o": 1.0
+        }, 
+        "discharge.": {
+            "day~of": 1.0
+        }, 
+        "diverticulosis": {
+            "diverticulosis~(": 0.5, 
+            "gilbert's~syndrome": 0.5
+        }, 
+        "drinking": {
+            "thirst~,": 1.0
+        }, 
+        "dull": {
+            "?~chills.": 1.0
+        }, 
+        "edema.": {
+            "no~pedal": 1.0
+        }, 
+        "enzymes": {
+            ",~cardiac": 1.0
+        }, 
+        "eval": {
+            ",~psych": 0.25, 
+            "Dispo:~PT": 0.25, 
+            "cough.~Pt": 0.25, 
+            "home~safety": 0.25
+        }, 
+        "exercise": {
+            "Resume~regular": 1.0
+        }, 
+        "f/u": {
+            "good~outpt": 1.0
+        }, 
+        "fatigue": {
+            "develop~severe": 1.0
+        }, 
+        "feeling": {
+            "Pt~also": 0.5, 
+            "not~been": 0.5
+        }, 
+        "felt": {
+            "ED~,": 1.0
+        }, 
+        "fevers": {
+            "plans.~no": 1.0
+        }, 
+        "flat": {
+            "cardiac~enzymes": 1.0
+        }, 
+        "fluid": {
+            ",~1.5L": 0.5, 
+            "IVF~,": 0.5
+        }, 
+        "follow": {
+            ",~please": 0.5, 
+            "DO/PLAN:~please": 0.5
+        }, 
+        "following": {
+            "on~the": 1.0
+        }, 
+        "for": {
+            "ADDITIONAL~COMMENTS:": 0.16666666666666666, 
+            "After~Study": 0.16666666666666666, 
+            "HCL~Reason": 0.16666666666666666, 
+            "U/A~neg": 0.16666666666666666, 
+            "on~2/23/05": 0.16666666666666666, 
+            "recent~admission": 0.16666666666666666
+        }, 
+        "gallon": {
+            "drinking~1": 1.0
+        }, 
+        "gilbert's": {
+            "depression~)": 1.0
+        }, 
+        "given": {
+            "as~IVF": 1.0
+        }, 
+        "gluc": {
+            "DM~,": 0.5, 
+            "on~admision.": 0.5
+        }, 
+        "good": {
+            "likely~needs": 1.0
+        }, 
+        "grapefruit": {
+            "Instruction~Avoid": 1.0
+        }, 
+        "had": {
+            "outpt~(": 1.0
+        }, 
+        "has": {
+            ",~he": 1.0
+        }, 
+        "hct": {
+            "4B~,": 1.0
+        }, 
+        "he": {
+            "pt~,": 1.0
+        }, 
+        "head": {
+            "w/~neg": 1.0
+        }, 
+        "her.": {
+            "to~see": 1.0
+        }, 
+        "his": {
+            "did~take": 1.0
+        }, 
+        "home": {
+            ")~d/c'd": 0.3333333333333333, 
+            "difficulties.~no": 0.3333333333333333, 
+            "for~VNA:": 0.3333333333333333
+        }, 
+        "hospital": {
+            "to~the": 1.0
+        }, 
+        "hour": {
+            "Take~1": 0.5, 
+            "x~1": 0.5
+        }, 
+        "hours": {
+            "Take~3": 0.3333333333333333, 
+            "or~2": 0.3333333333333333, 
+            "or~3": 0.3333333333333333
+        }, 
+        "hx": {
+            ",~no": 0.25, 
+            "CV:~?": 0.25, 
+            "M~w/": 0.25, 
+            "regimen~ENDO:": 0.25
+        }, 
+        "hypertension": {
+            "HTN~(": 1.0
+        }, 
+        "hyponatremia": {
+            "AM~|": 0.25, 
+            "Admission~)": 0.25, 
+            "Course****************~FEN:": 0.25, 
+            "admission~for": 0.25
+        }, 
+        "if": {
+            "the~hospital": 1.0
+        }, 
+        "improved": {
+            "admision.~gluc": 1.0
+        }, 
+        "in": {
+            "Dr.~Myslinski": 0.16666666666666666, 
+            "by~psych": 0.16666666666666666, 
+            "d/c'd~remeron": 0.16666666666666666, 
+            "neg~w/u": 0.16666666666666666, 
+            "social~workers": 0.16666666666666666, 
+            "tried~many": 0.16666666666666666
+        }, 
+        "including": {
+            "his~meds": 1.0
+        }, 
+        "increased": {
+            "depression~,": 1.0
+        }, 
+        "infiltrates.": {
+            "CXR:~no": 1.0
+        }, 
+        "inpt": {
+            ",~no": 1.0
+        }, 
+        "instructs": {
+            "unless~MD": 1.0
+        }, 
+        "intubation": {
+            "/~No": 1.0
+        }, 
+        "is": {
+            "that~pt": 1.0
+        }, 
+        "likely": {
+            "pt~most": 1.0
+        }, 
+        "lonely.": {
+            "depressed~,": 1.0
+        }, 
+        "lovenox": {
+            "PPI~,": 1.0
+        }, 
+        "low": {
+            "IVF~given": 0.5, 
+            "and~presumed": 0.5
+        }, 
+        "make": {
+            "Daulton~and": 1.0
+        }, 
+        "many": {
+            "had~tried": 1.0
+        }, 
+        "medications.": {
+            "re:~antidepressant": 1.0
+        }, 
+        "meds": {
+            "take~his": 1.0
+        }, 
+        "mellitus": {
+            "(~diabetes": 1.0
+        }, 
+        "monitor": {
+            "for~override:": 1.0
+        }, 
+        "most": {
+            "that~pt": 1.0
+        }, 
+        "murmurs": {
+            ",~no": 1.0
+        }, 
+        "needed.": {
+            "1:1~sitter": 0.5, 
+            "home~PT": 0.5
+        }, 
+        "needs": {
+            "f/u~,": 0.5, 
+            "most~likely": 0.5
+        }, 
+        "neg": {
+            "36.4.~U/A": 0.3333333333333333, 
+            "SIADH~(": 0.3333333333333333, 
+            "SIADH~w/": 0.3333333333333333
+        }, 
+        "new": {
+            "showed~no": 1.0
+        }, 
+        "nl": {
+            "MRI~,": 0.5, 
+            "TSH~,": 0.5
+        }, 
+        "no": {
+            "+BS~,": 0.1, 
+            "CP~,": 0.1, 
+            "EKG~showed": 0.1, 
+            "RRR~,": 0.1, 
+            "SI~,": 0.1, 
+            "UTI.~CXR:": 0.1, 
+            "no~plans.": 0.1, 
+            "resolved~spontly.": 0.1, 
+            "suicidal~,": 0.1, 
+            "w/o~difficulties.": 0.1
+        }, 
+        "none": {
+            "AND~PROCEDURES:": 1.0
+        }, 
+        "norvasc": {
+            "changes.~continue": 1.0
+        }, 
+        "not": {
+            ",~felt": 0.25, 
+            "FEN:~hyponatremia": 0.25, 
+            "depressed~,": 0.25, 
+            "he~has": 0.25
+        }, 
+        "of": {
+            "?~hx": 0.16666666666666666, 
+            "ENDO:~hx": 0.16666666666666666, 
+            "no~hx": 0.16666666666666666, 
+            "on~day": 0.16666666666666666, 
+            "w/~Na": 0.16666666666666666, 
+            "w/~hx": 0.16666666666666666
+        }, 
+        "on": {
+            ",~not": 0.1111111111111111, 
+            "Na~130": 0.1111111111111111, 
+            "Override~added": 0.1111111111111111, 
+            "check~Na": 0.1111111111111111, 
+            "d/c'd~home": 0.1111111111111111, 
+            "follow~up": 0.2222222222222222, 
+            "gluc~66": 0.1111111111111111, 
+            "gluc~improved": 0.1111111111111111
+        }, 
+        "or": {
+            "hours~before": 0.25, 
+            "hour~before": 0.25, 
+            "psych~admit": 0.25, 
+            "severe~fatigue": 0.25
+        }, 
+        "osm": {
+            "<assay~,": 0.5, 
+            "flat~,": 0.5
+        }, 
+        "osm.": {
+            "Na~and": 1.0
+        }, 
+        "otherwise.": {
+            "MD~instructs": 1.0
+        }, 
+        "outpt": {
+            "as~an": 0.5, 
+            "needs~good": 0.5
+        }, 
+        "overridden:": {
+            "products.~Alert": 1.0
+        }, 
+        "override:": {
+            "Reason~for": 1.0
+        }, 
+        "p/w": {
+            "132~,": 1.0
+        }, 
+        "past": {
+            "in~the": 1.0
+        }, 
+        "pedal": {
+            ",~no": 1.0
+        }, 
+        "per": {
+            "1~gallon": 1.0
+        }, 
+        "plans.": {
+            ",~no": 1.0
+        }, 
+        "please": {
+            "Hospital~.": 0.25, 
+            "TO~DO/PLAN:": 0.25, 
+            "for~pt:": 0.25, 
+            "treatment~,": 0.25
+        }, 
+        "pressors": {
+            "/~No": 1.0
+        }, 
+        "presumed": {
+            ",~and": 1.0
+        }, 
+        "products.": {
+            "after~Iron": 0.5, 
+            "after~dairy": 0.5
+        }, 
+        "psych": {
+            "eval~by": 0.3333333333333333, 
+            "no~inpt": 0.3333333333333333, 
+            "work~,": 0.3333333333333333
+        }, 
+        "pt": {
+            "Na.~Per": 0.2, 
+            "norvasc~Psych:": 0.2, 
+            "past~).": 0.2, 
+            "said~that": 0.4
+        }, 
+        "pt's": {
+            "up~on": 1.0
+        }, 
+        "pt:": {
+            "2/23/05~for": 1.0
+        }, 
+        "quite": {
+            "Psych:~pt": 1.0
+        }, 
+        "re:": {
+            "see~PCP": 1.0
+        }, 
+        "recent": {
+            ")~w/": 1.0
+        }, 
+        "regimen": {
+            "constipated.~Bowel": 1.0
+        }, 
+        "regular": {
+            "ACTIVITY:~Resume": 1.0
+        }, 
+        "remeron": {
+            "self~d/c'd": 1.0
+        }, 
+        "resolved": {
+            "hour~,": 1.0
+        }, 
+        "restrict": {
+            "1.5L~fluid": 1.0
+        }, 
+        "restriction": {
+            ",~fluid": 1.0
+        }, 
+        "restriction:": {
+            "DIET:~Fluid": 1.0
+        }, 
+        "return": {
+            ".~please": 1.0
+        }, 
+        "s/p": {
+            "depression~(": 1.0
+        }, 
+        "safety": {
+            "VNA:~home": 1.0
+        }, 
+        "said": {
+            "PT~eval": 0.5, 
+            "psych~eval": 0.5
+        }, 
+        "see": {
+            "appt~to": 0.5, 
+            "will~also": 0.5
+        }, 
+        "seizure.": {
+            "fatigue~or": 1.0
+        }, 
+        "self": {
+            "antidepressed~(": 1.0
+        }, 
+        "services": {
+            "Home~w/": 1.0
+        }, 
+        "severe": {
+            "you~develop": 1.0
+        }, 
+        "should": {
+            "her.~you": 1.0
+        }, 
+        "showed": {
+            "CAD.~EKG": 1.0
+        }, 
+        "significant.": {
+            "hyponatremia~not": 1.0
+        }, 
+        "since": {
+            "feeling~well": 1.0
+        }, 
+        "sitter": {
+            "or~1:1": 1.0
+        }, 
+        "social": {
+            ")~,": 0.3333333333333333, 
+            "contacted~by": 0.6666666666666666
+        }, 
+        "sodium.": {
+            "on~pt's": 1.0
+        }, 
+        "soft": {
+            ",~abd": 1.0
+        }, 
+        "spontly.": {
+            ",~resolved": 1.0
+        }, 
+        "suicidal": {
+            "to~be": 1.0
+        }, 
+        "summary": {
+            "No~dictated": 1.0
+        }, 
+        "syndrome": {
+            ")~gilbert's": 1.0
+        }, 
+        "take": {
+            ",~did": 1.0
+        }, 
+        "that": {
+            "eval~said": 1.0
+        }, 
+        "the": {
+            "improved~on": 0.2, 
+            "many~in": 0.2, 
+            "remeron~in": 0.2, 
+            "return~to": 0.2, 
+            "w/u~in": 0.2
+        }, 
+        "thirst": {
+            "d/c.~Persist": 1.0
+        }, 
+        "to": {
+            "an~appt": 0.25, 
+            "felt~not": 0.25, 
+            "is~able": 0.25, 
+            "please~return": 0.25
+        }, 
+        "treatment": {
+            "pt's~depression": 1.0
+        }, 
+        "tried": {
+            "(~had": 1.0
+        }, 
+        "unless": {
+            "Avoid~grapefruit": 1.0
+        }, 
+        "up": {
+            "please~follow": 1.0
+        }, 
+        "urine": {
+            "259~,": 0.5, 
+            "given~low": 0.5
+        }, 
+        "w/": {
+            "DISPOSITION:~Home": 0.2, 
+            "ECT~)": 0.2, 
+            "UGI~SIADH": 0.2, 
+            "on~11/28": 0.2, 
+            "yo~M": 0.2
+        }, 
+        "w/o": {
+            "walk~around": 1.0
+        }, 
+        "w/u": {
+            "(~neg": 1.0
+        }, 
+        "walk": {
+            "able~to": 1.0
+        }, 
+        "weakness": {
+            "SOB~,": 1.0
+        }, 
+        "weeks": {
+            "in~1-2": 1.0
+        }, 
+        "well": {
+            "been~feeling": 1.0
+        }, 
+        "will": {
+            ").~pt": 0.5, 
+            "Pu~Pt": 0.5
+        }, 
+        "work": {
+            ",~social": 1.0
+        }, 
+        "workers": {
+            "by~social": 1.0
+        }, 
+        "x": {
+            "dull~CP": 1.0
+        }, 
+        "yo": {
+            "COURSE:~HPI:76": 1.0
+        }, 
+        "you": {
+            "hospital~if": 0.5, 
+            "see~her.": 0.5
+        }, 
+        "|": {
+            "12:00:00~AM": 0.1111111111111111, 
+            "49175654~|": 0.1111111111111111, 
+            "and~depression": 0.1111111111111111, 
+            "depression~|": 0.1111111111111111, 
+            "|~4775550": 0.1111111111111111, 
+            "|~49175654": 0.1111111111111111, 
+            "|~BSDHUO": 0.1111111111111111, 
+            "|~DIS": 0.1111111111111111, 
+            "~264845089": 0.1111111111111111
+        }
+    }, 
+    "type": "data/train", 
+    "uni": {
+        "": 0.0013812154696132596, 
+        "&": 0.0013812154696132596, 
+        "(": 0.017955801104972375, 
+        ")": 0.017955801104972375, 
+        ").": 0.0013812154696132596, 
+        "):": 0.0013812154696132596, 
+        "******": 0.004143646408839779, 
+        "*************Hospital": 0.0013812154696132596, 
+        "+BS": 0.0013812154696132596, 
+        ",": 0.08425414364640885, 
+        ".": 0.0013812154696132596, 
+        "/": 0.0055248618784530384, 
+        "0.8": 0.0013812154696132596, 
+        "1": 0.0055248618784530384, 
+        "1-2": 0.0013812154696132596, 
+        "1.5L": 0.0027624309392265192, 
+        "1.9": 0.0013812154696132596, 
+        "1/5/05": 0.0027624309392265192, 
+        "10/9/2005": 0.0013812154696132596, 
+        "100%": 0.0013812154696132596, 
+        "11/10/2005": 0.0013812154696132596, 
+        "11/28": 0.0013812154696132596, 
+        "116": 0.0013812154696132596, 
+        "126/64": 0.0013812154696132596, 
+        "127": 0.0013812154696132596, 
+        "12:00": 0.0027624309392265192, 
+        "12:00:00": 0.0013812154696132596, 
+        "130": 0.0013812154696132596, 
+        "132": 0.0013812154696132596, 
+        "191": 0.0013812154696132596, 
+        "1:1": 0.0013812154696132596, 
+        "2": 0.0013812154696132596, 
+        "2/23/05": 0.0013812154696132596, 
+        "21.4": 0.0013812154696132596, 
+        "259": 0.0013812154696132596, 
+        "264845089": 0.0013812154696132596, 
+        "3": 0.0027624309392265192, 
+        "3.5": 0.0013812154696132596, 
+        "300": 0.0013812154696132596, 
+        "328-15-10-3": 0.0013812154696132596, 
+        "356": 0.0013812154696132596, 
+        "36": 0.0013812154696132596, 
+        "36.4.": 0.0013812154696132596, 
+        "4/9/05": 0.0013812154696132596, 
+        "4775550": 0.0013812154696132596, 
+        "49175654": 0.0013812154696132596, 
+        "4B": 0.0013812154696132596, 
+        "5": 0.0027624309392265192, 
+        "63P": 0.0013812154696132596, 
+        "66": 0.0013812154696132596, 
+        "6cm": 0.0013812154696132596, 
+        "9/6/2005": 0.0013812154696132596, 
+        "98.6": 0.0013812154696132596, 
+        "99": 0.0013812154696132596, 
+        ";Responsible": 0.0013812154696132596, 
+        "<assay": 0.0013812154696132596, 
+        "?": 0.004143646408839779, 
+        "@": 0.0013812154696132596, 
+        "ACTIVITY:": 0.0013812154696132596, 
+        "ADDITIONAL": 0.0013812154696132596, 
+        "ADMIT": 0.0013812154696132596, 
+        "ALLERGY:": 0.0013812154696132596, 
+        "AM": 0.0013812154696132596, 
+        "AMLODIPINE": 0.0013812154696132596, 
+        "AND": 0.0013812154696132596, 
+        "APPOINTMENT(": 0.0013812154696132596, 
+        "AS": 0.0013812154696132596, 
+        "AT": 0.0013812154696132596, 
+        "Admission": 0.0027624309392265192, 
+        "After": 0.0013812154696132596, 
+        "Alert": 0.0013812154696132596, 
+        "Applicable": 0.0013812154696132596, 
+        "Attending:": 0.0013812154696132596, 
+        "Avoid": 0.0013812154696132596, 
+        "BE": 0.0013812154696132596, 
+        "BID": 0.0013812154696132596, 
+        "BP": 0.0013812154696132596, 
+        "BRIEF": 0.0013812154696132596, 
+        "BROCK": 0.0013812154696132596, 
+        "BSDHUO": 0.0013812154696132596, 
+        "BY": 0.0013812154696132596, 
+        "BY:": 0.0013812154696132596, 
+        "Bowel": 0.0013812154696132596, 
+        "CAD.": 0.0013812154696132596, 
+        "CHASE": 0.0013812154696132596, 
+        "CHLORIDE": 0.0013812154696132596, 
+        "CK": 0.0013812154696132596, 
+        "CODE": 0.0013812154696132596, 
+        "COMMENTS:": 0.0013812154696132596, 
+        "CONDITION:": 0.0013812154696132596, 
+        "CONTINGENT": 0.0013812154696132596, 
+        "COURSE:": 0.0013812154696132596, 
+        "CP": 0.0027624309392265192, 
+        "CPR": 0.0013812154696132596, 
+        "CTAB": 0.0013812154696132596, 
+        "CV:": 0.0013812154696132596, 
+        "CXR:": 0.0013812154696132596, 
+        "Causing": 0.0013812154696132596, 
+        "Complications": 0.0013812154696132596, 
+        "Course****************": 0.0013812154696132596, 
+        "Cr": 0.0013812154696132596, 
+        "D/C": 0.0027624309392265192, 
+        "DEMECLOCYCLINE": 0.0027624309392265192, 
+        "DIAGNOSIS": 0.0013812154696132596, 
+        "DIAGNOSIS:": 0.0013812154696132596, 
+        "DIAGNOSIS;Conditions": 0.0013812154696132596, 
+        "DIET:": 0.0013812154696132596, 
+        "DIS": 0.0013812154696132596, 
+        "DISCHARGE": 0.008287292817679558, 
+        "DISPOSITION:": 0.0013812154696132596, 
+        "DM": 0.004143646408839779, 
+        "DNR/DNI": 0.0013812154696132596, 
+        "DO/PLAN:": 0.0013812154696132596, 
+        "DUODENAL": 0.0013812154696132596, 
+        "Date:": 0.0027624309392265192, 
+        "Daulton": 0.0013812154696132596, 
+        "Discharge": 0.0013812154696132596, 
+        "Dispo:": 0.0013812154696132596, 
+        "Dr.": 0.0027624309392265192, 
+        "ECT": 0.0013812154696132596, 
+        "ED": 0.0013812154696132596, 
+        "EKG": 0.0013812154696132596, 
+        "ELDEN": 0.0013812154696132596, 
+        "END": 0.0013812154696132596, 
+        "ENDO:": 0.0013812154696132596, 
+        "ENTERED": 0.0013812154696132596, 
+        "FEN:": 0.0013812154696132596, 
+        "FOLLOW": 0.0013812154696132596, 
+        "Fluid": 0.0013812154696132596, 
+        "Food/Drug": 0.0027624309392265192, 
+        "GI:": 0.0013812154696132596, 
+        "GLYBURIDE": 0.0013812154696132596, 
+        "GM": 0.0013812154696132596, 
+        "Gardda": 0.0013812154696132596, 
+        "H/O": 0.004143646408839779, 
+        "HCL": 0.0013812154696132596, 
+        "HECTOR": 0.0013812154696132596, 
+        "HERNIA": 0.0013812154696132596, 
+        "HIATEL": 0.0013812154696132596, 
+        "HOSPITAL": 0.0013812154696132596, 
+        "HPI:76": 0.0013812154696132596, 
+        "HR": 0.0013812154696132596, 
+        "HTN": 0.0027624309392265192, 
+        "HYDROXIDE": 0.0013812154696132596, 
+        "Hay": 0.0013812154696132596, 
+        "Home": 0.0013812154696132596, 
+        "Hospital": 0.0013812154696132596, 
+        "IN": 0.0013812154696132596, 
+        "INTERACTION:": 0.0013812154696132596, 
+        "ISAIAH": 0.0013812154696132596, 
+        "IVF": 0.0027624309392265192, 
+        "Infections": 0.0013812154696132596, 
+        "Instruction": 0.0027624309392265192, 
+        "Interaction": 0.0027624309392265192, 
+        "Iron": 0.0013812154696132596, 
+        "JVP": 0.0013812154696132596, 
+        "K": 0.0013812154696132596, 
+        "L": 0.0013812154696132596, 
+        "Labs:": 0.0013812154696132596, 
+        "Lescondvixand": 0.0013812154696132596, 
+        "Lience": 0.0013812154696132596, 
+        "M": 0.0013812154696132596, 
+        "M.": 0.0013812154696132596, 
+        "M.D.": 0.004143646408839779, 
+        "MAGNESIUM": 0.0013812154696132596, 
+        "MARBAN": 0.0013812154696132596, 
+        "MD": 0.0013812154696132596, 
+        "MED": 0.0013812154696132596, 
+        "MEDICATIONS:": 0.0013812154696132596, 
+        "MG": 0.004143646408839779, 
+        "MIX": 0.0013812154696132596, 
+        "MK53": 0.0013812154696132596, 
+        "MRI": 0.0013812154696132596, 
+        "Ma": 0.0013812154696132596, 
+        "Myslinski": 0.0013812154696132596, 
+        "NAD": 0.0013812154696132596, 
+        "NORVASC": 0.0013812154696132596, 
+        "NOT": 0.0013812154696132596, 
+        "NS": 0.0013812154696132596, 
+        "Na": 0.009668508287292817, 
+        "Na.": 0.0013812154696132596, 
+        "No": 0.006906077348066298, 
+        "Not": 0.0013812154696132596, 
+        "O.R.": 0.0013812154696132596, 
+        "OF": 0.0027624309392265192, 
+        "ON:": 0.0013812154696132596, 
+        "OPERATIONS": 0.0013812154696132596, 
+        "ORDER": 0.0013812154696132596, 
+        "ORDERS": 0.0013812154696132596, 
+        "OTHER": 0.0027624309392265192, 
+        "Override": 0.0013812154696132596, 
+        "PATIENT": 0.0013812154696132596, 
+        "PCP": 0.0013812154696132596, 
+        "PM": 0.0027624309392265192, 
+        "PO": 0.0055248618784530384, 
+        "POTENTIALLY": 0.0013812154696132596, 
+        "PPI": 0.0013812154696132596, 
+        "PPx:": 0.0013812154696132596, 
+        "PRINCIPAL": 0.0013812154696132596, 
+        "PROCEDURES:": 0.0013812154696132596, 
+        "PT": 0.0027624309392265192, 
+        "Penicillins": 0.0013812154696132596, 
+        "Per": 0.0013812154696132596, 
+        "Persist": 0.0013812154696132596, 
+        "Psych:": 0.0013812154696132596, 
+        "Pt": 0.004143646408839779, 
+        "Pu": 0.0013812154696132596, 
+        "QD": 0.004143646408839779, 
+        "RA.": 0.0013812154696132596, 
+        "RESUME": 0.0013812154696132596, 
+        "RISKA": 0.0013812154696132596, 
+        "RISS.": 0.0013812154696132596, 
+        "RRR": 0.0013812154696132596, 
+        "Reason": 0.0013812154696132596, 
+        "Report": 0.0013812154696132596, 
+        "Resume": 0.0013812154696132596, 
+        "S": 0.0013812154696132596, 
+        "SAL": 0.0013812154696132596, 
+        "SCIATICA": 0.0013812154696132596, 
+        "SERIOUS": 0.0013812154696132596, 
+        "SI": 0.0013812154696132596, 
+        "SIADH": 0.0027624309392265192, 
+        "SOB": 0.0013812154696132596, 
+        "SODIUM": 0.0013812154696132596, 
+        "STATUS:": 0.0013812154696132596, 
+        "SUMMARY:": 0.0013812154696132596, 
+        "Service:": 0.0013812154696132596, 
+        "Stable": 0.0013812154696132596, 
+        "Status:": 0.0013812154696132596, 
+        "Study": 0.0013812154696132596, 
+        "THE": 0.0013812154696132596, 
+        "TO": 0.0013812154696132596, 
+        "TREATMENTS/PROCEDURES": 0.0013812154696132596, 
+        "TRUFIN": 0.0013812154696132596, 
+        "TSH": 0.0013812154696132596, 
+        "Take": 0.0027624309392265192, 
+        "Tbili": 0.0013812154696132596, 
+        "Treatment/Stay": 0.0013812154696132596, 
+        "U/A": 0.0013812154696132596, 
+        "UGI": 0.0013812154696132596, 
+        "ULCERS": 0.0013812154696132596, 
+        "UP": 0.0013812154696132596, 
+        "UPON": 0.0013812154696132596, 
+        "USED": 0.0013812154696132596, 
+        "UTI.": 0.0013812154696132596, 
+        "VNA:": 0.0013812154696132596, 
+        "VS:": 0.0013812154696132596, 
+        "WBC": 0.0013812154696132596, 
+        "WILL": 0.0013812154696132596, 
+        "YES": 0.0013812154696132596, 
+        "abd": 0.0013812154696132596, 
+        "able": 0.0013812154696132596, 
+        "added": 0.0013812154696132596, 
+        "admision.": 0.0013812154696132596, 
+        "admission": 0.0013812154696132596, 
+        "admit": 0.0013812154696132596, 
+        "affecting": 0.0013812154696132596, 
+        "after": 0.0027624309392265192, 
+        "also": 0.004143646408839779, 
+        "an": 0.0027624309392265192, 
+        "and": 0.008287292817679558, 
+        "antidepressant": 0.0027624309392265192, 
+        "antidepressed": 0.0013812154696132596, 
+        "appt": 0.0013812154696132596, 
+        "around": 0.0013812154696132596, 
+        "as": 0.0027624309392265192, 
+        "at": 0.0013812154696132596, 
+        "be": 0.004143646408839779, 
+        "been": 0.0013812154696132596, 
+        "before": 0.0027624309392265192, 
+        "by": 0.0055248618784530384, 
+        "call": 0.0013812154696132596, 
+        "cardiac": 0.0013812154696132596, 
+        "changes.": 0.0013812154696132596, 
+        "check": 0.0013812154696132596, 
+        "chills.": 0.0013812154696132596, 
+        "constipated.": 0.0013812154696132596, 
+        "contacted": 0.0027624309392265192, 
+        "continue": 0.0027624309392265192, 
+        "cortisol": 0.0013812154696132596, 
+        "cough.": 0.0013812154696132596, 
+        "d/c'd": 0.0027624309392265192, 
+        "d/c.": 0.0013812154696132596, 
+        "dairy": 0.0013812154696132596, 
+        "day": 0.0027624309392265192, 
+        "day.": 0.0013812154696132596, 
+        "defib": 0.0013812154696132596, 
+        "demeclocycline": 0.0013812154696132596, 
+        "demeclocycline.": 0.0013812154696132596, 
+        "depressed": 0.0027624309392265192, 
+        "depression": 0.011049723756906077, 
+        "develop": 0.0013812154696132596, 
+        "diabetes": 0.0013812154696132596, 
+        "dictated": 0.0013812154696132596, 
+        "did": 0.0013812154696132596, 
+        "difficulties.": 0.0013812154696132596, 
+        "discharge.": 0.0013812154696132596, 
+        "diverticulosis": 0.0027624309392265192, 
+        "drinking": 0.0013812154696132596, 
+        "dull": 0.0013812154696132596, 
+        "edema.": 0.0013812154696132596, 
+        "enzymes": 0.0013812154696132596, 
+        "eval": 0.0055248618784530384, 
+        "exercise": 0.0013812154696132596, 
+        "f/u": 0.0013812154696132596, 
+        "fatigue": 0.0013812154696132596, 
+        "feeling": 0.0027624309392265192, 
+        "felt": 0.0013812154696132596, 
+        "fevers": 0.0013812154696132596, 
+        "flat": 0.0013812154696132596, 
+        "fluid": 0.0027624309392265192, 
+        "follow": 0.0027624309392265192, 
+        "following": 0.0013812154696132596, 
+        "for": 0.008287292817679558, 
+        "gallon": 0.0013812154696132596, 
+        "gilbert's": 0.0013812154696132596, 
+        "given": 0.0013812154696132596, 
+        "gluc": 0.0027624309392265192, 
+        "good": 0.0013812154696132596, 
+        "grapefruit": 0.0013812154696132596, 
+        "had": 0.0013812154696132596, 
+        "has": 0.0013812154696132596, 
+        "hct": 0.0013812154696132596, 
+        "he": 0.0013812154696132596, 
+        "head": 0.0013812154696132596, 
+        "her.": 0.0013812154696132596, 
+        "his": 0.0013812154696132596, 
+        "home": 0.004143646408839779, 
+        "hospital": 0.0013812154696132596, 
+        "hour": 0.0027624309392265192, 
+        "hours": 0.004143646408839779, 
+        "hx": 0.0055248618784530384, 
+        "hypertension": 0.0013812154696132596, 
+        "hyponatremia": 0.0055248618784530384, 
+        "if": 0.0013812154696132596, 
+        "improved": 0.0013812154696132596, 
+        "in": 0.008287292817679558, 
+        "including": 0.0013812154696132596, 
+        "increased": 0.0013812154696132596, 
+        "infiltrates.": 0.0013812154696132596, 
+        "inpt": 0.0013812154696132596, 
+        "instructs": 0.0013812154696132596, 
+        "intubation": 0.0013812154696132596, 
+        "is": 0.0013812154696132596, 
+        "likely": 0.0013812154696132596, 
+        "lonely.": 0.0013812154696132596, 
+        "lovenox": 0.0013812154696132596, 
+        "low": 0.0027624309392265192, 
+        "make": 0.0013812154696132596, 
+        "many": 0.0013812154696132596, 
+        "medications.": 0.0013812154696132596, 
+        "meds": 0.0013812154696132596, 
+        "mellitus": 0.0013812154696132596, 
+        "monitor": 0.0013812154696132596, 
+        "most": 0.0013812154696132596, 
+        "murmurs": 0.0013812154696132596, 
+        "needed.": 0.0027624309392265192, 
+        "needs": 0.0027624309392265192, 
+        "neg": 0.004143646408839779, 
+        "new": 0.0013812154696132596, 
+        "nl": 0.0027624309392265192, 
+        "no": 0.013812154696132596, 
+        "none": 0.0013812154696132596, 
+        "norvasc": 0.0013812154696132596, 
+        "not": 0.0055248618784530384, 
+        "of": 0.008287292817679558, 
+        "on": 0.012430939226519336, 
+        "or": 0.0055248618784530384, 
+        "osm": 0.0027624309392265192, 
+        "osm.": 0.0013812154696132596, 
+        "otherwise.": 0.0013812154696132596, 
+        "outpt": 0.0027624309392265192, 
+        "overridden:": 0.0013812154696132596, 
+        "override:": 0.0013812154696132596, 
+        "p/w": 0.0013812154696132596, 
+        "past": 0.004143646408839779, 
+        "pedal": 0.0013812154696132596, 
+        "per": 0.0013812154696132596, 
+        "plans.": 0.0013812154696132596, 
+        "please": 0.0055248618784530384, 
+        "pressors": 0.0013812154696132596, 
+        "presumed": 0.0013812154696132596, 
+        "products.": 0.0027624309392265192, 
+        "psych": 0.004143646408839779, 
+        "pt": 0.006906077348066298, 
+        "pt's": 0.0027624309392265192, 
+        "pt:": 0.0013812154696132596, 
+        "quite": 0.0013812154696132596, 
+        "re:": 0.0013812154696132596, 
+        "recent": 0.0013812154696132596, 
+        "regimen": 0.0013812154696132596, 
+        "regular": 0.0013812154696132596, 
+        "remeron": 0.0013812154696132596, 
+        "resolved": 0.0013812154696132596, 
+        "restrict": 0.0013812154696132596, 
+        "restriction": 0.0013812154696132596, 
+        "restriction:": 0.0013812154696132596, 
+        "return": 0.0013812154696132596, 
+        "s/p": 0.0013812154696132596, 
+        "safety": 0.0013812154696132596, 
+        "said": 0.0027624309392265192, 
+        "see": 0.0027624309392265192, 
+        "seizure.": 0.0013812154696132596, 
+        "self": 0.0013812154696132596, 
+        "services": 0.0013812154696132596, 
+        "severe": 0.0013812154696132596, 
+        "should": 0.0013812154696132596, 
+        "showed": 0.0013812154696132596, 
+        "significant.": 0.0013812154696132596, 
+        "since": 0.0013812154696132596, 
+        "sitter": 0.0013812154696132596, 
+        "social": 0.004143646408839779, 
+        "sodium.": 0.0013812154696132596, 
+        "soft": 0.0013812154696132596, 
+        "spontly.": 0.0013812154696132596, 
+        "suicidal": 0.0013812154696132596, 
+        "summary": 0.0013812154696132596, 
+        "syndrome": 0.0013812154696132596, 
+        "take": 0.0013812154696132596, 
+        "that": 0.0027624309392265192, 
+        "the": 0.006906077348066298, 
+        "thirst": 0.0013812154696132596, 
+        "to": 0.0055248618784530384, 
+        "treatment": 0.0013812154696132596, 
+        "tried": 0.0013812154696132596, 
+        "unless": 0.0013812154696132596, 
+        "up": 0.0027624309392265192, 
+        "urine": 0.0027624309392265192, 
+        "w/": 0.006906077348066298, 
+        "w/o": 0.0013812154696132596, 
+        "w/u": 0.0013812154696132596, 
+        "walk": 0.0013812154696132596, 
+        "weakness": 0.0013812154696132596, 
+        "weeks": 0.0013812154696132596, 
+        "well": 0.0013812154696132596, 
+        "will": 0.0027624309392265192, 
+        "work": 0.0013812154696132596, 
+        "workers": 0.0027624309392265192, 
+        "x": 0.0013812154696132596, 
+        "yo": 0.0013812154696132596, 
+        "you": 0.0027624309392265192, 
+        "|": 0.012430939226519336
+    }
+}

@@ -1,0 +1,4086 @@
+{
+    "bi": {
+        "#72118": {
+            "pager": 1.0
+        }, 
+        "#asthma#": {
+            "severe": 1.0
+        }, 
+        "#obese#": {
+            "general:": 1.0
+        }, 
+        "(": {
+            ")": 0.08108108108108109, 
+            "250/50": 0.02702702702702703, 
+            "ACID": 0.02702702702702703, 
+            "ALLEGRA": 0.02702702702702703, 
+            "ALLERGY": 0.02702702702702703, 
+            "ATIVAN": 0.02702702702702703, 
+            "COLACE": 0.02702702702702703, 
+            "CONTIN": 0.02702702702702703, 
+            "D": 0.05405405405405406, 
+            "DS": 0.02702702702702703, 
+            "DUONEB": 0.02702702702702703, 
+            "FLEXERIL": 0.02702702702702703, 
+            "HFA": 0.02702702702702703, 
+            "L.A.": 0.02702702702702703, 
+            "M.D.": 0.02702702702702703, 
+            "MIACALCIN": 0.02702702702702703, 
+            "MOM": 0.02702702702702703, 
+            "NEXIUM": 0.02702702702702703, 
+            "PRAVACHOL": 0.02702702702702703, 
+            "PULMICORT": 0.02702702702702703, 
+            "Required": 0.13513513513513514, 
+            "SC": 0.02702702702702703, 
+            "SINGULAIR": 0.02702702702702703, 
+            "TIAZAC": 0.02702702702702703, 
+            "TREATMENTS/PROCEDURES": 0.02702702702702703, 
+            "TYLENOL": 0.02702702702702703, 
+            "copd": 0.02702702702702703, 
+            "gerd": 0.02702702702702703, 
+            "hypertension": 0.02702702702702703, 
+            "pneumonia": 0.02702702702702703
+        }, 
+        ")": {
+            "-08": 0.08571428571428572, 
+            "ACETAMINOPHEN": 0.02857142857142857, 
+            "Admission": 0.02857142857142857, 
+            "CA...": 0.02857142857142857, 
+            "CALCITONIN-SALMON": 0.02857142857142857, 
+            "CHILDREN'S": 0.02857142857142857, 
+            "DO...": 0.02857142857142857, 
+            "ESOMEPRAZOLE": 0.02857142857142857, 
+            "HCL": 0.05714285714285714, 
+            "HFA": 0.02857142857142857, 
+            "HYDROXIDE": 0.02857142857142857, 
+            "INHALER": 0.02857142857142857, 
+            "LORAZEPAM": 0.02857142857142857, 
+            "MONTELUKAST": 0.02857142857142857, 
+            "NEBULIZER": 0.02857142857142857, 
+            "O.R.": 0.02857142857142857, 
+            "PRAVASTATIN": 0.02857142857142857, 
+            "PROPIONATE/...": 0.02857142857142857, 
+            "RELEASE": 0.05714285714285714, 
+            "SENSITIVITY": 0.02857142857142857, 
+            "SM58": 0.02857142857142857, 
+            "SODIUM": 0.02857142857142857, 
+            "TABLET": 0.02857142857142857, 
+            "disease": 0.05714285714285714, 
+            "hypertension": 0.02857142857142857, 
+            "pneumonia": 0.02857142857142857, 
+            "s": 0.08571428571428572, 
+            "subcutaneously": 0.02857142857142857
+        }, 
+        "):": {
+            "S": 0.16666666666666666, 
+            "approximate": 0.8333333333333334
+        }, 
+        "******": {
+            "09": 0.3333333333333333, 
+            "2/3/2003": 0.3333333333333333, 
+            "ORDERS": 0.3333333333333333
+        }, 
+        "+": {
+            "CALTRATE": 0.5, 
+            "CARB": 0.5
+        }, 
+        "+bs": {
+            ",": 1.0
+        }, 
+        ",": {
+            "#obese#": 0.025, 
+            ")": 0.075, 
+            "11/19/03": 0.025, 
+            "2": 0.025, 
+            "200": 0.025, 
+            "201-250": 0.025, 
+            "251-300": 0.025, 
+            "301-350": 0.025, 
+            "351-400": 0.025, 
+            "5": 0.025, 
+            "<100": 0.025, 
+            "ASA": 0.025, 
+            "BECKET": 0.025, 
+            "BS": 0.025, 
+            "Breath": 0.025, 
+            "Complications": 0.025, 
+            "DIAGNOSIS;Conditions": 0.025, 
+            "G.": 0.025, 
+            "HEMPHILL": 0.025, 
+            "Infections": 0.025, 
+            "J.": 0.025, 
+            "LOKHMATOR": 0.025, 
+            "M": 0.025, 
+            "MYRON": 0.025, 
+            "O2": 0.025, 
+            "Penicillins": 0.025, 
+            "RICKE": 0.025, 
+            "S1": 0.025, 
+            "W": 0.025, 
+            "cardizem": 0.025, 
+            "intubated": 0.025, 
+            "pain": 0.025, 
+            "pravachol": 0.025, 
+            "protuberant": 0.025, 
+            "scale": 0.025, 
+            "steroids": 0.025, 
+            "taper": 0.025, 
+            "worsens": 0.025
+        }, 
+        "-": {
+            "Osuch": 0.5, 
+            "ceftz/tobramycin": 0.5
+        }, 
+        "---done": {
+            "then": 1.0
+        }, 
+        "-08": {
+            "11/15/03": 0.3333333333333333, 
+            "3/9/03": 0.3333333333333333, 
+            "8/11/03": 0.3333333333333333
+        }, 
+        "/": {
+            "House": 1.0
+        }, 
+        "/SULFAMETHOXAZOLE": {
+            "TRIMETHOPRIM": 1.0
+        }, 
+        "0": {
+            "give": 1.0
+        }, 
+        "0.5": {
+            ")": 1.0
+        }, 
+        "0.5mg": {
+            "ativan": 1.0
+        }, 
+        "000": {
+            ",": 1.0
+        }, 
+        "09": {
+            "@": 1.0
+        }, 
+        "09908285": {
+            "|": 1.0
+        }, 
+        "1": {
+            ")": 0.8, 
+            "for": 0.2
+        }, 
+        "1.": {
+            "Plan:": 1.0
+        }, 
+        "10": {
+            ")": 0.4, 
+            "):": 0.2, 
+            "X": 0.2, 
+            "give": 0.2
+        }, 
+        "10/21/03": {
+            "placed": 1.0
+        }, 
+        "10/28/2003": {
+            "Date:": 1.0
+        }, 
+        "100": {
+            ")": 1.0
+        }, 
+        "10:15": {
+            "AT": 1.0
+        }, 
+        "11/15/03": {
+            "(": 1.0
+        }, 
+        "11/19/03": {
+            "a.m.": 1.0
+        }, 
+        "12:00:00": {
+            "5/28/2003": 1.0
+        }, 
+        "140": {
+            "SULFATE": 1.0
+        }, 
+        "14d.": {
+            "x": 1.0
+        }, 
+        "15": {
+            ")": 0.5, 
+            "STRENGTH": 0.5
+        }, 
+        "180": {
+            ")": 1.0
+        }, 
+        "2": {
+            ")": 0.6, 
+            "CEFTAZIDIME": 0.2, 
+            "X": 0.2
+        }, 
+        "2.": {
+            "taper.": 1.0
+        }, 
+        "2.5": {
+            "NEBULIZER": 1.0
+        }, 
+        "2/3/2003": {
+            "Date:": 1.0
+        }, 
+        "20": {
+            "Give": 0.5, 
+            "at": 0.5
+        }, 
+        "20/25": {
+            "LISINOPRIL/HYDROCLOROTHIAZIDE": 1.0
+        }, 
+        "200": {
+            "than": 1.0
+        }, 
+        "201-250": {
+            "is": 1.0
+        }, 
+        "20mg": {
+            "3d;": 1.0
+        }, 
+        "25": {
+            "Give": 1.0
+        }, 
+        "250/50": {
+            "DISKUS": 1.0
+        }, 
+        "251-300": {
+            "is": 1.0
+        }, 
+        "25mg": {
+            "3d;": 1.0
+        }, 
+        "3": {
+            "X": 1.0
+        }, 
+        "3.": {
+            "10/21/03": 1.0
+        }, 
+        "3/0.5": {
+            ")": 1.0
+        }, 
+        "3/17/03": {
+            ")": 0.5, 
+            "ON:": 0.5
+        }, 
+        "3/9/03": {
+            "(": 1.0
+        }, 
+        "30": {
+            ")": 0.3333333333333333, 
+            "Give": 0.3333333333333333, 
+            "to": 0.3333333333333333
+        }, 
+        "300": {
+            ")": 1.0
+        }, 
+        "301-350": {
+            "is": 1.0
+        }, 
+        "30mg": {
+            "taper:": 1.0
+        }, 
+        "323958155": {
+            "": 1.0
+        }, 
+        "351-400": {
+            "is": 1.0
+        }, 
+        "3d;": {
+            "x": 1.0
+        }, 
+        "4": {
+            "):": 0.75, 
+            "give": 0.25
+        }, 
+        "4.": {
+            "55%": 1.0
+        }, 
+        "4/19/03": {
+            "on": 1.0
+        }, 
+        "40": {
+            ")": 1.0
+        }, 
+        "400": {
+            "than": 1.0
+        }, 
+        "5": {
+            "):": 0.5, 
+            "HEPARIN": 0.5
+        }, 
+        "5.": {
+            "prevacid": 1.0
+        }, 
+        "5/28/2003": {
+            "|": 1.0
+        }, 
+        "55": {
+            "<": 1.0
+        }, 
+        "55%": {
+            "EF": 1.0
+        }, 
+        "6": {
+            "give": 1.0
+        }, 
+        "6.": {
+            "qpm": 1.0
+        }, 
+        "600MG": {
+            "(": 1.0
+        }, 
+        "650": {
+            ")": 1.0
+        }, 
+        "66": {
+            "COURSE:": 1.0
+        }, 
+        "7.": {
+            "morphine.": 1.0
+        }, 
+        "7/21/03.": {
+            "mg": 1.0
+        }, 
+        "7/6": {
+            "Sat": 1.0
+        }, 
+        "8": {
+            "give": 1.0
+        }, 
+        "8/11/03": {
+            "(": 1.0
+        }, 
+        "80": {
+            ")": 1.0
+        }, 
+        "81": {
+            ")": 1.0
+        }, 
+        "9": {
+            "-": 1.0
+        }, 
+        "9481940": {
+            "|": 1.0
+        }, 
+        "992-69-13-7": {
+            "BRANDON": 1.0
+        }, 
+        ";Responsible": {
+            "DIAGNOSIS": 1.0
+        }, 
+        "<": {
+            "hr": 1.0
+        }, 
+        "<100": {
+            "sbp": 1.0
+        }, 
+        ">92%.": {
+            "sats": 1.0
+        }, 
+        "@": {
+            "3/17/03": 1.0
+        }, 
+        "ACETAMINOPHEN": {
+            "(": 1.0
+        }, 
+        "ACETYLSALICYLIC": {
+            "headache": 1.0
+        }, 
+        "ACID": {
+            "ACETYLSALICYLIC": 1.0
+        }, 
+        "ACTIVITY:": {
+            "fat": 1.0
+        }, 
+        "ADDITIONAL": {
+            "q8": 1.0
+        }, 
+        "ADMIT": {
+            "Shellfish": 1.0
+        }, 
+        "ADVAIR": {
+            "QPM": 1.0
+        }, 
+        "ALBUTEROL": {
+            "(": 0.6666666666666666, 
+            "QD": 0.3333333333333333
+        }, 
+        "ALLEGRA": {
+            "otherwise.": 1.0
+        }, 
+        "ALLERGY": {
+            "POSSIBLE": 1.0
+        }, 
+        "ALLERGY:": {
+            ",": 1.0
+        }, 
+        "AM": {
+            "10:15": 0.5, 
+            "12:00:00": 0.5
+        }, 
+        "AND": {
+            "ALBUTEROL": 0.5, 
+            "OPERATIONS": 0.5
+        }, 
+        "APPOINTMENT(": {
+            "UP": 1.0
+        }, 
+        "ARRON": {
+            ",": 1.0
+        }, 
+        "AS": {
+            "USED": 1.0
+        }, 
+        "ASA": {
+            ",": 1.0
+        }, 
+        "AT": {
+            "3/17/03": 1.0
+        }, 
+        "ATIVAN": {
+            "400": 1.0
+        }, 
+        "Abdomen:": {
+            "S2": 1.0
+        }, 
+        "Admission": {
+            "Causing": 0.5, 
+            "|": 0.5
+        }, 
+        "After": {
+            "---done": 0.5, 
+            ";Responsible": 0.5
+        }, 
+        "Alert": {
+            "Q8H": 1.0
+        }, 
+        "Anxiety": {
+            "PRN": 1.0
+        }, 
+        "Anxiety:": {
+            "7.": 1.0
+        }, 
+        "Applicable": {
+            "Not": 1.0
+        }, 
+        "Attending:": {
+            "YES": 1.0
+        }, 
+        "Avoid": {
+            "Instruction": 1.0
+        }, 
+        "BACTRIM": {
+            "4": 1.0
+        }, 
+        "BE": {
+            "ORDER": 1.0
+        }, 
+        "BECKET": {
+            "******": 1.0
+        }, 
+        "BID": {
+            ")": 0.14285714285714285, 
+            "INH": 0.14285714285714285, 
+            "NEB": 0.14285714285714285, 
+            "PO": 0.42857142857142855, 
+            "SC": 0.14285714285714285
+        }, 
+        "BRANDON": {
+            ",": 1.0
+        }, 
+        "BRIEF": {
+            "none": 1.0
+        }, 
+        "BS": {
+            "If": 0.7142857142857143, 
+            "faint": 0.14285714285714285, 
+            "if": 0.14285714285714285
+        }, 
+        "BUDESONIDE": {
+            "(": 1.0
+        }, 
+        "BY:": {
+            "ENTERED": 1.0
+        }, 
+        "Bolinsky": {
+            "Dr.": 1.0
+        }, 
+        "Breath": {
+            "of": 1.0
+        }, 
+        "CA...": {
+            "ELEM": 1.0
+        }, 
+        "CALCITONIN-SALMON": {
+            "(": 1.0
+        }, 
+        "CALCIUM": {
+            "(": 1.0
+        }, 
+        "CALTRATE": {
+            "BID": 1.0
+        }, 
+        "CARB": {
+            "CALCIUM": 1.0
+        }, 
+        "CEFTAZIDIME": {
+            "4": 1.0
+        }, 
+        "CEPHALOSPORINS": {
+            "to": 1.0
+        }, 
+        "CHILDREN'S": {
+            "(": 1.0
+        }, 
+        "COLACE": {
+            "5": 1.0
+        }, 
+        "COMMENTS:": {
+            "ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            "DISCHARGE": 1.0
+        }, 
+        "CONTIN": {
+            "MS": 1.0
+        }, 
+        "CONTINGENT": {
+            "AM": 1.0
+        }, 
+        "COURSE:": {
+            "HOSPITAL": 1.0
+        }, 
+        "CR": {
+            "GUAIFENESIN": 1.0
+        }, 
+        "CV:": {
+            "3.": 1.0
+        }, 
+        "CVS:": {
+            "wheezes": 1.0
+        }, 
+        "CYCLOBENZAPRINE": {
+            "(": 1.0
+        }, 
+        "Call": {
+            "HO": 1.0
+        }, 
+        "Can": {
+            "indefinitely": 1.0
+        }, 
+        "Causing": {
+            "for": 1.0
+        }, 
+        "Chest:": {
+            "Cushingoid": 1.0
+        }, 
+        "Complications": {
+            ",": 1.0
+        }, 
+        "Constipation": {
+            "PRN": 1.0
+        }, 
+        "Cushingoid": {
+            "HEENT:": 1.0
+        }, 
+        "D": {
+            "+": 1.0
+        }, 
+        "D/C": {
+            "THE": 0.5, 
+            "WILL": 0.5
+        }, 
+        "DIAGNOSIS": {
+            "DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "OTHER": 1.0
+        }, 
+        "DIET:": {
+            "QD": 1.0
+        }, 
+        "DILTIAZEM": {
+            "(": 1.0
+        }, 
+        "DIS": {
+            "|": 1.0
+        }, 
+        "DISCHARGE": {
+            "******": 0.16666666666666666, 
+            "OF": 0.16666666666666666, 
+            "PRINCIPAL": 0.16666666666666666, 
+            "PUL": 0.16666666666666666, 
+            "Rehabilitation": 0.16666666666666666, 
+            "first": 0.16666666666666666
+        }, 
+        "DISKUS": {
+            "ADVAIR": 1.0
+        }, 
+        "DISPOSITION:": {
+            "M.D.": 1.0
+        }, 
+        "DO...": {
+            "/SULFAMETHOXAZOLE": 1.0
+        }, 
+        "DO/PLAN:": {
+            "TO": 1.0
+        }, 
+        "DOCUSATE": {
+            "(": 1.0
+        }, 
+        "DS": {
+            "BACTRIM": 1.0
+        }, 
+        "DUONEB": {
+            "QD": 1.0
+        }, 
+        "Date:": {
+            "Admission": 0.5, 
+            "Discharge": 0.5
+        }, 
+        "Discharge": {
+            "Status:": 1.0
+        }, 
+        "Doses": {
+            "of": 1.0
+        }, 
+        "Dr.": {
+            "):": 0.3333333333333333, 
+            "page": 0.3333333333333333, 
+            "with": 0.3333333333333333
+        }, 
+        "ECHO": {
+            ",": 1.0
+        }, 
+        "EF": {
+            "showed": 1.0
+        }, 
+        "ELEM": {
+            "600MG": 1.0
+        }, 
+        "END": {
+            "******": 1.0
+        }, 
+        "ENTERED": {
+            "summary": 1.0
+        }, 
+        "ESOMEPRAZOLE": {
+            "(": 1.0
+        }, 
+        "EXTENDED": {
+            "DILTIAZEM": 1.0
+        }, 
+        "EXTRA": {
+            "PLUS": 1.0
+        }, 
+        "Endo:": {
+            "5.": 1.0
+        }, 
+        "F": {
+            ",": 1.0
+        }, 
+        "F/u": {
+            "DO/PLAN:": 1.0
+        }, 
+        "FEXOFENADINE": {
+            "(": 1.0
+        }, 
+        "FLEXERIL": {
+            "carefully": 1.0
+        }, 
+        "FLUTICASONE": {
+            "(": 1.0
+        }, 
+        "FOLLOW": {
+            "tolerated": 1.0
+        }, 
+        "Food/Drug": {
+            "55": 0.3333333333333333, 
+            "QD": 0.3333333333333333, 
+            "QHS": 0.3333333333333333
+        }, 
+        "G.": {
+            "GREGORY": 1.0
+        }, 
+        "GI:": {
+            "4.": 1.0
+        }, 
+        "GREGORY": {
+            ",": 1.0
+        }, 
+        "GUAIFENESIN": {
+            "(": 1.0
+        }, 
+        "Give": {
+            "---done": 0.6666666666666666, 
+            "PO": 0.3333333333333333
+        }, 
+        "HCL": {
+            "CYCLOBENZAPRINE": 0.5, 
+            "FEXOFENADINE": 0.5
+        }, 
+        "HEENT:": {
+            "NAD": 1.0
+        }, 
+        "HEMPHILL": {
+            "Attending:": 1.0
+        }, 
+        "HEPARIN": {
+            "BID": 1.0
+        }, 
+        "HFA": {
+            "INHALER": 0.5, 
+            "PROVENTIL": 0.5
+        }, 
+        "HO": {
+            "Call": 0.5, 
+            "call": 0.5
+        }, 
+        "HOLD": {
+            "QD": 1.0
+        }, 
+        "HOSPITAL": {
+            "OF": 1.0
+        }, 
+        "HUMAN": {
+            "REGULAR": 1.0
+        }, 
+        "HUMIBID": {
+            "otherwise.": 1.0
+        }, 
+        "HYDROXIDE": {
+            "MAGNESIUM": 1.0
+        }, 
+        "Histon": {
+            "992-69-13-7": 1.0
+        }, 
+        "House": {
+            "DIET:": 1.0
+        }, 
+        "ID:": {
+            "2.": 1.0
+        }, 
+        "IF:": {
+            "HOLD": 1.0
+        }, 
+        "IN": {
+            "NOT": 1.0
+        }, 
+        "INH": {
+            "MG": 0.3333333333333333, 
+            "PUFF": 0.6666666666666666
+        }, 
+        "INHALER": {
+            "ALBUTEROL": 0.5, 
+            "ORAL": 0.5
+        }, 
+        "INSULIN": {
+            "BID": 1.0
+        }, 
+        "IPRATROPIUM": {
+            "AND": 1.0
+        }, 
+        "IV": {
+            "MG": 0.4, 
+            "continue": 0.4, 
+            "to": 0.2
+        }, 
+        "If": {
+            "nebulizer.": 0.16666666666666666, 
+            "subcutaneously": 0.6666666666666666, 
+            "you": 0.16666666666666666
+        }, 
+        "Indigestion": {
+            "PRN": 1.0
+        }, 
+        "Infections": {
+            ",": 1.0
+        }, 
+        "Instruction": {
+            "Interaction": 1.0
+        }, 
+        "Instructions:": {
+            "BID": 1.0
+        }, 
+        "Interaction": {
+            "Food/Drug": 1.0
+        }, 
+        "J.": {
+            "ARRON": 1.0
+        }, 
+        "Jahn": {
+            "Dr.": 1.0
+        }, 
+        "L.A.": {
+            "HUMIBID": 1.0
+        }, 
+        "LISINOPRIL/HYDROCLOROTHIAZIDE": {
+            "4": 1.0
+        }, 
+        "LOKHMATOR": {
+            "BY:": 1.0
+        }, 
+        "LORAZEPAM": {
+            "(": 1.0
+        }, 
+        "LPDH": {
+            "|": 1.0
+        }, 
+        "Low": {
+            "/": 1.0
+        }, 
+        "M": {
+            "PO": 1.0
+        }, 
+        "M.D.": {
+            ",": 1.0
+        }, 
+        "MAALOX": {
+            "Anxiety": 1.0
+        }, 
+        "MAGNESIUM": {
+            "(": 1.0
+        }, 
+        "MD": {
+            "unless": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "DISCHARGE": 1.0
+        }, 
+        "MG": {
+            "0.5": 0.0625, 
+            "000": 0.0625, 
+            "10": 0.125, 
+            "100": 0.0625, 
+            "140": 0.0625, 
+            "15": 0.0625, 
+            "180": 0.0625, 
+            "2.5": 0.0625, 
+            "20/25": 0.0625, 
+            "3/0.5": 0.0625, 
+            "300": 0.0625, 
+            "40": 0.0625, 
+            "650": 0.0625, 
+            "80": 0.0625, 
+            "81": 0.0625
+        }, 
+        "MIACALCIN": {
+            "Wheezing": 1.0
+        }, 
+        "MOM": {
+            "Indigestion": 1.0
+        }, 
+        "MONTELUKAST": {
+            "(": 1.0
+        }, 
+        "MORPHINE": {
+            "(": 1.0
+        }, 
+        "MS": {
+            "Q8H": 1.0
+        }, 
+        "MSo4": {
+            "also": 1.0
+        }, 
+        "MYRON": {
+            "ROBT": 1.0
+        }, 
+        "Musculoskel:": {
+            "6.": 1.0
+        }, 
+        "NA": {
+            "SPRAY": 1.0
+        }, 
+        "NAD": {
+            ",": 1.0
+        }, 
+        "NC": {
+            "by": 1.0
+        }, 
+        "NEB": {
+            "MG": 0.5, 
+            "PUFF": 0.5
+        }, 
+        "NEBULIZER": {
+            "ALBUTEROL": 0.5, 
+            "IPRATROPIUM": 0.5
+        }, 
+        "NEXIUM": {
+            "BID": 1.0
+        }, 
+        "NOT": {
+            "(": 1.0
+        }, 
+        "No": {
+            "Jahn": 1.0
+        }, 
+        "Not": {
+            "UPON": 1.0
+        }, 
+        "Number": {
+            "<100": 0.2, 
+            "BID": 0.2, 
+            "QD": 0.2, 
+            "QID": 0.2, 
+            "TID": 0.2
+        }, 
+        "O.R.": {
+            "IN": 1.0
+        }, 
+        "O2": {
+            "home": 0.5, 
+            "pulmonary:": 0.5
+        }, 
+        "OF": {
+            "END": 0.5, 
+            "RESUME": 0.5
+        }, 
+        "ON:": {
+            "PATIENT": 1.0
+        }, 
+        "OPERATIONS": {
+            ")": 1.0
+        }, 
+        "OR": {
+            "(": 1.0
+        }, 
+        "ORAL": {
+            "BUDESONIDE": 1.0
+        }, 
+        "ORDER": {
+            "D/C": 1.0
+        }, 
+        "ORDERS": {
+            "DISCHARGE": 1.0
+        }, 
+        "OTHER": {
+            "none": 0.5, 
+            "pneumonia": 0.5
+        }, 
+        "Osuch": {
+            "Dr.": 1.0
+        }, 
+        "Override": {
+            "overridden:": 1.0
+        }, 
+        "PATIENT": {
+            "DISCHARGE": 1.0
+        }, 
+        "PE": {
+            "tobramycin.": 1.0
+        }, 
+        "PLUS": {
+            "MAALOX": 1.0
+        }, 
+        "PO": {
+            "MG": 0.6666666666666666, 
+            "TAB": 0.16666666666666666, 
+            "Taper": 0.05555555555555555, 
+            "milliliters": 0.1111111111111111
+        }, 
+        "POSSIBLE": {
+            "M.D.": 1.0
+        }, 
+        "PRAVACHOL": {
+            "Pain": 1.0
+        }, 
+        "PRAVASTATIN": {
+            "(": 1.0
+        }, 
+        "PREDNISONE": {
+            "Q4H": 0.5, 
+            "continue": 0.5
+        }, 
+        "PRINCIPAL": {
+            "pneumonia": 1.0
+        }, 
+        "PRN": {
+            "Q12H": 0.16666666666666666, 
+            "Q2H": 0.16666666666666666, 
+            "Q4H": 0.16666666666666666, 
+            "Q6-8H": 0.16666666666666666, 
+            "Q6H": 0.16666666666666666, 
+            "QD": 0.16666666666666666
+        }, 
+        "PROCEDURES:": {
+            "AND": 1.0
+        }, 
+        "PROPIONATE/...": {
+            "FLUTICASONE": 1.0
+        }, 
+        "PROVENTIL": {
+            "BID": 1.0
+        }, 
+        "PUFF": {
+            "1": 0.6666666666666666, 
+            "2": 0.3333333333333333
+        }, 
+        "PUL": {
+            "Service:": 1.0
+        }, 
+        "PULMICORT": {
+            "otherwise.": 1.0
+        }, 
+        "Pain": {
+            "#72118": 0.5, 
+            "PRN": 0.5
+        }, 
+        "Penicillins": {
+            "ALLERGY:": 1.0
+        }, 
+        "Persistent": {
+            "Musculoskel:": 1.0
+        }, 
+        "Picc": {
+            "iv.": 1.0
+        }, 
+        "Plan:": {
+            "+bs": 1.0
+        }, 
+        "Please": {
+            "COMMENTS:": 0.5, 
+            "tobramycin.": 0.5
+        }, 
+        "Pred": {
+            "Tapered": 1.0
+        }, 
+        "Prednisone": {
+            "14d.": 1.0
+        }, 
+        "Q12H": {
+            "PO": 1.0
+        }, 
+        "Q2H": {
+            "NEB": 1.0
+        }, 
+        "Q4H": {
+            "INH": 0.5, 
+            "PO": 0.5
+        }, 
+        "Q6-8H": {
+            "PO": 1.0
+        }, 
+        "Q6H": {
+            "PO": 1.0
+        }, 
+        "Q8H": {
+            "IV": 1.0
+        }, 
+        "QD": {
+            "NA": 0.09090909090909091, 
+            "PO": 0.5454545454545454, 
+            "mg": 0.36363636363636365
+        }, 
+        "QHS": {
+            "PO": 1.0
+        }, 
+        "QID": {
+            "INH": 1.0
+        }, 
+        "QPM": {
+            "PO": 1.0
+        }, 
+        "REGULAR": {
+            "INSULIN": 1.0
+        }, 
+        "RELEASE": {
+            "EXTENDED": 0.5, 
+            "SUSTAINED": 0.5
+        }, 
+        "RESUME": {
+            "BRIEF": 1.0
+        }, 
+        "RICKE": {
+            "by": 1.0
+        }, 
+        "ROBT": {
+            ",": 1.0
+        }, 
+        "Reason": {
+            "CEPHALOSPORINS": 1.0
+        }, 
+        "Rehabilitation": {
+            "DISPOSITION:": 1.0
+        }, 
+        "Report": {
+            "10/28/2003": 1.0
+        }, 
+        "Required": {
+            "Doses": 1.0
+        }, 
+        "S": {
+            "APPOINTMENT(": 1.0
+        }, 
+        "S1": {
+            "faint": 1.0
+        }, 
+        "S2": {
+            ",": 1.0
+        }, 
+        "SC": {
+            "Scale": 0.5, 
+            "U": 0.5
+        }, 
+        "SENSITIVITY": {
+            "OR": 1.0
+        }, 
+        "SINGULAIR": {
+            "10": 1.0
+        }, 
+        "SM58": {
+            "(": 1.0
+        }, 
+        "SODIUM": {
+            "DOCUSATE": 1.0
+        }, 
+        "SPRAY": {
+            "1": 1.0
+        }, 
+        "STRENGTH": {
+            "EXTRA": 1.0
+        }, 
+        "SULFATE": {
+            "TOBRAMYCIN": 1.0
+        }, 
+        "SUMMARY:": {
+            "D/C": 1.0
+        }, 
+        "SUSTAINED": {
+            "MORPHINE": 1.0
+        }, 
+        "Sat": {
+            "shoulder": 1.0
+        }, 
+        "Scale": {
+            "Sliding": 1.0
+        }, 
+        "Sensitive": {
+            "pneumonia.": 1.0
+        }, 
+        "Service:": {
+            "Histon": 1.0
+        }, 
+        "Shellfish": {
+            ",": 1.0
+        }, 
+        "Shortness": {
+            "PRN": 1.0
+        }, 
+        "Sliding": {
+            "HUMAN": 1.0
+        }, 
+        "Stable": {
+            "CONDITION:": 1.0
+        }, 
+        "Status:": {
+            "Report": 1.0
+        }, 
+        "Study": {
+            "After": 1.0
+        }, 
+        "TAB": {
+            "1": 0.3333333333333333, 
+            "2": 0.6666666666666666
+        }, 
+        "TABLET": {
+            "CR": 1.0
+        }, 
+        "THE": {
+            "AS": 1.0
+        }, 
+        "TIAZAC": {
+            "F": 1.0
+        }, 
+        "TID": {
+            "PO": 1.0
+        }, 
+        "TO": {
+            "Stable": 1.0
+        }, 
+        "TOBRAMYCIN": {
+            "Constipation": 1.0
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "OTHER": 1.0
+        }, 
+        "TRIMETHOPRIM": {
+            "(": 1.0
+        }, 
+        "TTH": {
+            "at": 1.0
+        }, 
+        "TYLENOL": {
+            "MEDICATIONS:": 1.0
+        }, 
+        "Taper": {
+            "PREDNISONE": 1.0
+        }, 
+        "Tapered": {
+            ">92%.": 1.0
+        }, 
+        "Toby": {
+            "to": 1.0
+        }, 
+        "Treatment/Stay": {
+            "affecting": 1.0
+        }, 
+        "U": {
+            "000": 1.0
+        }, 
+        "UP": {
+            "FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "CONTINGENT": 1.0
+        }, 
+        "USED": {
+            "BE": 1.0
+        }, 
+        "W": {
+            ",": 1.0
+        }, 
+        "WILL": {
+            "Applicable": 1.0
+        }, 
+        "Walking": {
+            "ACTIVITY:": 1.0
+        }, 
+        "Wheezing": {
+            ",": 1.0
+        }, 
+        "Will": {
+            "7/21/03.": 1.0
+        }, 
+        "Would": {
+            "flexeril.": 1.0
+        }, 
+        "X": {
+            "QD": 1.0
+        }, 
+        "YES": {
+            "SUMMARY:": 1.0
+        }, 
+        "a.m.": {
+            "9": 1.0
+        }, 
+        "added": {
+            "Override": 1.0
+        }, 
+        "affecting": {
+            ",": 1.0
+        }, 
+        "also": {
+            "pain.": 1.0
+        }, 
+        "am": {
+            "for": 0.5, 
+            "use": 0.5
+        }, 
+        "and": {
+            "MSo4": 0.25, 
+            "ceftazidime": 0.25, 
+            "subcutaneously": 0.25, 
+            "week": 0.25
+        }, 
+        "approximate": {
+            "(": 1.0
+        }, 
+        "as": {
+            "Walking": 1.0
+        }, 
+        "at": {
+            "Bolinsky": 0.5, 
+            "PREDNISONE": 0.5
+        }, 
+        "ativan": {
+            "Anxiety:": 1.0
+        }, 
+        "attributed": {
+            "likely": 1.0
+        }, 
+        "back": {
+            "Persistent": 1.0
+        }, 
+        "by": {
+            "4/19/03": 0.5, 
+            "O2": 0.5
+        }, 
+        "call": {
+            "and": 1.0
+        }, 
+        "cardizem": {
+            "CV:": 1.0
+        }, 
+        "carefully": {
+            "observe": 1.0
+        }, 
+        "ceftaz": {
+            "IV": 1.0
+        }, 
+        "ceftazidime": {
+            "to": 1.0
+        }, 
+        "ceftz/tobramycin": {
+            "ID:": 1.0
+        }, 
+        "chol/low": {
+            "Low": 1.0
+        }, 
+        "chronic": {
+            "(": 1.0
+        }, 
+        "continue": {
+            ",": 0.3333333333333333, 
+            "Please": 0.6666666666666666
+        }, 
+        "copd": {
+            ")": 1.0
+        }, 
+        "coughing.": {
+            "to": 1.0
+        }, 
+        "day(": {
+            "10": 0.3333333333333333, 
+            "2": 0.3333333333333333, 
+            "3": 0.3333333333333333
+        }, 
+        "dictated": {
+            "No": 1.0
+        }, 
+        "disease": {
+            "pulmonary": 0.5, 
+            "reflux": 0.5
+        }, 
+        "draw": {
+            "lab": 1.0
+        }, 
+        "faint": {
+            "CVS:": 0.5, 
+            "Chest:": 0.5
+        }, 
+        "fat": {
+            "sat.": 1.0
+        }, 
+        "fingerstick": {
+            "please": 1.0
+        }, 
+        "first": {
+            "tylenol": 1.0
+        }, 
+        "flexeril.": {
+            "and": 1.0
+        }, 
+        "for": {
+            "7/6": 0.2, 
+            "Reason": 0.2, 
+            "Study": 0.2, 
+            "results": 0.2, 
+            "tobramycin": 0.2
+        }, 
+        "fs": {
+            "Endo:": 1.0
+        }, 
+        "gastroesophageal": {
+            "(": 1.0
+        }, 
+        "general:": {
+            "PE": 1.0
+        }, 
+        "gerd": {
+            ")": 1.0
+        }, 
+        "give": {
+            "then": 1.0
+        }, 
+        "grapefruit": {
+            "Avoid": 1.0
+        }, 
+        "greater": {
+            "is": 1.0
+        }, 
+        "headache": {
+            "PRN": 1.0
+        }, 
+        "home": {
+            "on": 1.0
+        }, 
+        "hr": {
+            ",": 1.0
+        }, 
+        "hypertension": {
+            "(": 0.5, 
+            "Treatment/Stay": 0.5
+        }, 
+        "if": {
+            "HO": 1.0
+        }, 
+        "in": {
+            "fingerstick": 1.0
+        }, 
+        "indefinitely": {
+            "qd": 1.0
+        }, 
+        "injxn": {
+            "lidocaine": 1.0
+        }, 
+        "instructs": {
+            "MD": 1.0
+        }, 
+        "intubated": {
+            "never": 1.0
+        }, 
+        "is": {
+            "BS": 1.0
+        }, 
+        "iv.": {
+            "-": 1.0
+        }, 
+        "lab": {
+            "am": 1.0
+        }, 
+        "less": {
+            "is": 1.0
+        }, 
+        "lidocaine": {
+            "rec'd": 1.0
+        }, 
+        "like": {
+            "Would": 1.0
+        }, 
+        "likely": {
+            "most": 1.0
+        }, 
+        "management:": {
+            "Pain": 1.0
+        }, 
+        "may": {
+            "Instructions:": 1.0
+        }, 
+        "mg": {
+            "20": 0.4, 
+            "25": 0.2, 
+            "30": 0.4
+        }, 
+        "milliliters": {
+            "15": 0.5, 
+            "30": 0.5
+        }, 
+        "morphine.": {
+            "off": 1.0
+        }, 
+        "most": {
+            ",": 1.0
+        }, 
+        "musculoskel": {
+            "for": 1.0
+        }, 
+        "nebulizer.": {
+            "Toby": 1.0
+        }, 
+        "never": {
+            ",": 1.0
+        }, 
+        "none": {
+            ")": 0.5, 
+            "PROCEDURES:": 0.5
+        }, 
+        "now": {
+            ",": 1.0
+        }, 
+        "observe": {
+            "will": 1.0
+        }, 
+        "obstructive": {
+            "chronic": 1.0
+        }, 
+        "of": {
+            "Number": 0.8333333333333334, 
+            "Shortness": 0.16666666666666666
+        }, 
+        "off": {
+            "pt": 1.0
+        }, 
+        "offer": {
+            "management:": 1.0
+        }, 
+        "on": {
+            "#asthma#": 0.5, 
+            "added": 0.5
+        }, 
+        "otherwise.": {
+            "instructs": 1.0
+        }, 
+        "overridden:": {
+            "Alert": 1.0
+        }, 
+        "override:": {
+            "for": 1.0
+        }, 
+        "page": {
+            "Can": 1.0
+        }, 
+        "pager": {
+            "TTH": 1.0
+        }, 
+        "pain": {
+            "back": 1.0
+        }, 
+        "pain.": {
+            "musculoskel": 1.0
+        }, 
+        "patient": {
+            "If": 1.0
+        }, 
+        "placed": {
+            "Picc": 1.0
+        }, 
+        "please": {
+            ",": 1.0
+        }, 
+        "pm.": {
+            "in": 1.0
+        }, 
+        "pneumonia": {
+            "(": 0.2, 
+            ")": 0.4, 
+            "DIAGNOSIS:": 0.2, 
+            "|": 0.2
+        }, 
+        "pneumonia.": {
+            "pseudomonas": 1.0
+        }, 
+        "pravachol": {
+            ",": 1.0
+        }, 
+        "prednisone": {
+            "with": 1.0
+        }, 
+        "prevacid": {
+            "GI:": 1.0
+        }, 
+        "protuberant": {
+            "soft": 1.0
+        }, 
+        "pseudomonas": {
+            "recurrent": 1.0
+        }, 
+        "pt": {
+            "wean": 1.0
+        }, 
+        "pulmonary": {
+            "obstructive": 1.0
+        }, 
+        "pulmonary:": {
+            "1.": 1.0
+        }, 
+        "q8": {
+            "0.5mg": 1.0
+        }, 
+        "qd": {
+            "20mg": 0.3333333333333333, 
+            "25mg": 0.3333333333333333, 
+            "30mg": 0.3333333333333333
+        }, 
+        "qpm": {
+            "fs": 1.0
+        }, 
+        "rec'd": {
+            "coughing.": 1.0
+        }, 
+        "recurrent": {
+            "w/": 1.0
+        }, 
+        "reflux": {
+            "gastroesophageal": 1.0
+        }, 
+        "results": {
+            "draw": 1.0
+        }, 
+        "return": {
+            "please": 1.0
+        }, 
+        "s": {
+            "day(": 1.0
+        }, 
+        "sat.": {
+            "chol/low": 1.0
+        }, 
+        "sats": {
+            "NC": 1.0
+        }, 
+        "sbp": {
+            "IF:": 1.0
+        }, 
+        "scale": {
+            "sliding": 1.0
+        }, 
+        "scattered": {
+            ",": 1.0
+        }, 
+        "severe": {
+            "w/": 1.0
+        }, 
+        "shoulder": {
+            "to": 1.0
+        }, 
+        "showed": {
+            "ECHO": 1.0
+        }, 
+        "sliding": {
+            "am": 1.0
+        }, 
+        "soft": {
+            "Abdomen:": 1.0
+        }, 
+        "steroids": {
+            ",": 1.0
+        }, 
+        "subcutaneously": {
+            "(": 0.16666666666666666, 
+            "units": 0.8333333333333334
+        }, 
+        "summary": {
+            "dictated": 1.0
+        }, 
+        "switch": {
+            "and": 1.0
+        }, 
+        "taper": {
+            "After": 1.0
+        }, 
+        "taper.": {
+            "prednisone": 1.0
+        }, 
+        "taper:": {
+            "Prednisone": 1.0
+        }, 
+        "than": {
+            "greater": 0.5, 
+            "less": 0.5
+        }, 
+        "thank": {
+            "pm.": 1.0
+        }, 
+        "then": {
+            ",": 1.0
+        }, 
+        "to": {
+            ")": 0.125, 
+            "Pred": 0.125, 
+            "Sensitive": 0.125, 
+            "attributed": 0.125, 
+            "injxn": 0.125, 
+            "like": 0.125, 
+            "return": 0.125, 
+            "switch": 0.125
+        }, 
+        "tobramycin": {
+            "IV": 1.0
+        }, 
+        "tobramycin.": {
+            "IV": 0.5, 
+            "and": 0.5
+        }, 
+        "tolerated": {
+            "as": 1.0
+        }, 
+        "txfr": {
+            "Will": 1.0
+        }, 
+        "tylenol": {
+            "offer": 1.0
+        }, 
+        "units": {
+            "0": 0.2, 
+            "10": 0.2, 
+            "4": 0.2, 
+            "6": 0.2, 
+            "8": 0.2
+        }, 
+        "unless": {
+            "grapefruit": 1.0
+        }, 
+        "use": {
+            "may": 1.0
+        }, 
+        "w/": {
+            "now": 0.5, 
+            "woman": 0.5
+        }, 
+        "wean": {
+            "to": 1.0
+        }, 
+        "week": {
+            "1": 1.0
+        }, 
+        "wheezes": {
+            "scattered": 1.0
+        }, 
+        "will": {
+            "override:": 1.0
+        }, 
+        "with": {
+            "F/u": 0.5, 
+            "txfr": 0.5
+        }, 
+        "woman": {
+            "y/o": 1.0
+        }, 
+        "worsens": {
+            "patient": 1.0
+        }, 
+        "x": {
+            "ceftaz": 0.3333333333333333, 
+            "qd": 0.6666666666666666
+        }, 
+        "y/o": {
+            "66": 1.0
+        }, 
+        "you": {
+            "thank": 1.0
+        }, 
+        "|": {
+            "09908285": 0.1111111111111111, 
+            "323958155": 0.1111111111111111, 
+            "9481940": 0.1111111111111111, 
+            "AM": 0.1111111111111111, 
+            "DIS": 0.1111111111111111, 
+            "LPDH": 0.1111111111111111, 
+            "pneumonia": 0.1111111111111111, 
+            "|": 0.2222222222222222
+        }
+    }, 
+    "id": "1075", 
+    "text": " 323958155 | LPDH | 09908285 | | 9481940 | 5/28/2003 12:00:00 AM | pneumonia | | DIS | Admission Date: 10/28/2003 Report Status: Discharge Date: 2/3/2003 ****** DISCHARGE ORDERS ****** BECKET , BRANDON 992-69-13-7 Histon Service: PUL DISCHARGE PATIENT ON: 3/17/03 AT 10:15 AM CONTINGENT UPON Not Applicable WILL D/C ORDER BE USED AS THE D/C SUMMARY: YES Attending: HEMPHILL , ROBT MYRON , M.D. DISPOSITION: Rehabilitation DISCHARGE MEDICATIONS: TYLENOL ( ACETAMINOPHEN ) 650 MG PO Q4H PRN headache ACETYLSALICYLIC ACID ( CHILDREN'S ) 81 MG PO QD ALBUTEROL NEBULIZER 2.5 MG NEB Q2H PRN Shortness of Breath , Wheezing MIACALCIN ( CALCITONIN-SALMON ) 1 SPRAY NA QD Number of Doses Required ( approximate ): 4 CEFTAZIDIME 2 , 000 MG IV Q8H Alert overridden: Override added on 4/19/03 by RICKE , GREGORY G. , M.D. POSSIBLE ALLERGY ( OR SENSITIVITY ) to CEPHALOSPORINS Reason for override: will observe carefully FLEXERIL ( CYCLOBENZAPRINE HCL ) 10 MG PO TID Number of Doses Required ( approximate ): 5 COLACE ( DOCUSATE SODIUM ) 100 MG PO BID HEPARIN 5 , 000 U SC BID INSULIN REGULAR HUMAN Sliding Scale SC ( subcutaneously ) BID Instructions: may use am lab draw results for am sliding scale , please fingerstick in pm. thank you If BS is less than 200 , then give 0 units subcutaneously If BS is 201-250 , then give 4 units subcutaneously If BS is 251-300 , then give 6 units subcutaneously If BS is 301-350 , then give 8 units subcutaneously If BS is 351-400 , then give 10 units subcutaneously and call HO Call HO if BS is greater than 400 ATIVAN ( LORAZEPAM ) 0.5 MG PO Q6-8H PRN Anxiety MAALOX PLUS EXTRA STRENGTH 15 milliliters PO Q6H PRN Indigestion MOM ( MAGNESIUM HYDROXIDE ) 30 milliliters PO QD PRN Constipation TOBRAMYCIN SULFATE 140 MG IV Q8H MS CONTIN ( MORPHINE SUSTAINED RELEASE ) 15 MG PO Q12H PRN Pain PRAVACHOL ( PRAVASTATIN ) 80 MG PO QHS Food/Drug Interaction Instruction Avoid grapefruit unless MD instructs otherwise. HUMIBID L.A. ( GUAIFENESIN CR TABLET ) 2 TAB PO BID Number of Doses Required ( approximate ): 4 LISINOPRIL/HYDROCLOROTHIAZIDE 20/25 MG PO QD HOLD IF: sbp <100 Number of Doses Required ( approximate ): 4 BACTRIM DS ( TRIMETHOPRIM /SULFAMETHOXAZOLE DO... ) 1 TAB PO M , W , F TIAZAC ( DILTIAZEM EXTENDED RELEASE ) 300 MG PO QD HOLD IF: sbp <100 , hr < 55 Food/Drug Interaction Instruction Avoid grapefruit unless MD instructs otherwise. ALLEGRA ( FEXOFENADINE HCL ) 180 MG PO QD Food/Drug Interaction Instruction Avoid grapefruit unless MD instructs otherwise. PULMICORT ( BUDESONIDE ORAL INHALER ) 1 PUFF NEB BID PROVENTIL HFA ( ALBUTEROL INHALER HFA ) 2 PUFF INH QID Number of Doses Required ( approximate ): 10 SINGULAIR ( MONTELUKAST ) 10 MG PO QPM ADVAIR DISKUS 250/50 ( FLUTICASONE PROPIONATE/... ) 1 PUFF INH BID CALTRATE + D ( CALCIUM CARB + D ( 600MG ELEM CA... ) 2 TAB PO BID NEXIUM ( ESOMEPRAZOLE ) 40 MG PO QD DUONEB ( ALBUTEROL AND IPRATROPIUM NEBULIZER ) 3/0.5 MG INH Q4H PREDNISONE Taper PO Give 30 mg QD X 2 day( s ) ( 8/11/03 -08 ) , then ---done Give 25 mg QD X 3 day( s ) ( 11/15/03 -08 ) , then ---done Give 20 mg QD X 10 day( s ) ( 3/9/03 -08 ) , then ---done After taper , continue PREDNISONE at 20 mg QD DIET: House / Low chol/low sat. fat ACTIVITY: Walking as tolerated FOLLOW UP APPOINTMENT( S ): Dr. Osuch - 9 a.m. 11/19/03 , ALLERGY: Penicillins , Shellfish ADMIT DIAGNOSIS: pneumonia PRINCIPAL DISCHARGE DIAGNOSIS ;Responsible After Study for Causing Admission ) pneumonia OTHER DIAGNOSIS;Conditions , Infections , Complications , affecting Treatment/Stay hypertension ( hypertension ) gerd ( gastroesophageal reflux disease ) copd ( chronic obstructive pulmonary disease ) pneumonia ( pneumonia ) OPERATIONS AND PROCEDURES: none OTHER TREATMENTS/PROCEDURES ( NOT IN O.R. ) none BRIEF RESUME OF HOSPITAL COURSE: 66 y/o woman w/ severe #asthma# on home O2 , steroids , never intubated , now w/ recurrent pseudomonas pneumonia. Sensitive to ceftazidime and tobramycin. PE general: #obese# , NAD HEENT: Cushingoid Chest: faint BS , scattered wheezes CVS: faint S1 , S2 Abdomen: soft protuberant , +bs Plan: 1. pulmonary: O2 by NC sats >92%. Tapered Pred to 30 mg 7/21/03. Will txfr with prednisone taper. 2. ID: ceftz/tobramycin - iv. Picc placed 10/21/03 3. CV: cardizem , pravachol , ASA , ECHO showed EF 55% 4. GI: prevacid 5. Endo: fs qpm 6. Musculoskel: Persistent back pain , most likely attributed to coughing. rec'd lidocaine injxn to shoulder Sat 7/6 for musculoskel pain. also MSo4 and flexeril. Would like to wean pt off morphine. 7. Anxiety: ativan 0.5mg q8 ADDITIONAL COMMENTS: Please continue IV tobramycin for 1 week and switch to Toby nebulizer. If patient worsens , please return to IV tobramycin. Please continue IV ceftaz x 14d. Prednisone taper: 30mg qd x 3d; 25mg qd x 3d; 20mg qd indefinitely Can page Dr. Bolinsky at TTH pager #72118 Pain management: offer tylenol first DISCHARGE CONDITION: Stable TO DO/PLAN: F/u with Dr. Jahn No dictated summary ENTERED BY: LOKHMATOR , ARRON J. , M.D. ( SM58 ) 3/17/03 @ 09 ****** END OF DISCHARGE ORDERS ******", 
+    "tri": {
+        "#72118": {
+            "TTH~pager": 1.0
+        }, 
+        "#asthma#": {
+            "w/~severe": 1.0
+        }, 
+        "#obese#": {
+            "PE~general:": 1.0
+        }, 
+        "(": {
+            ")~copd": 0.02702702702702703, 
+            ")~gerd": 0.02702702702702703, 
+            ")~pneumonia": 0.02702702702702703, 
+            "+~D": 0.05405405405405406, 
+            ",~M.D.": 0.02702702702702703, 
+            "10~SINGULAIR": 0.02702702702702703, 
+            "400~ATIVAN": 0.02702702702702703, 
+            "5~COLACE": 0.02702702702702703, 
+            "ACETYLSALICYLIC~ACID": 0.02702702702702703, 
+            "BACTRIM~DS": 0.02702702702702703, 
+            "BID~NEXIUM": 0.02702702702702703, 
+            "DISKUS~250/50": 0.02702702702702703, 
+            "Doses~Required": 0.13513513513513514, 
+            "F~TIAZAC": 0.02702702702702703, 
+            "HUMIBID~L.A.": 0.02702702702702703, 
+            "Indigestion~MOM": 0.02702702702702703, 
+            "MEDICATIONS:~TYLENOL": 0.02702702702702703, 
+            "MS~CONTIN": 0.02702702702702703, 
+            "OTHER~TREATMENTS/PROCEDURES": 0.02702702702702703, 
+            "POSSIBLE~ALLERGY": 0.02702702702702703, 
+            "PROVENTIL~HFA": 0.02702702702702703, 
+            "Pain~PRAVACHOL": 0.02702702702702703, 
+            "QD~DUONEB": 0.02702702702702703, 
+            "Scale~SC": 0.02702702702702703, 
+            "Treatment/Stay~hypertension": 0.02702702702702703, 
+            "Wheezing~MIACALCIN": 0.02702702702702703, 
+            "carefully~FLEXERIL": 0.02702702702702703, 
+            "otherwise.~ALLEGRA": 0.02702702702702703, 
+            "otherwise.~PULMICORT": 0.02702702702702703, 
+            "s~)": 0.08108108108108109
+        }, 
+        ")": {
+            "(~ACETAMINOPHEN": 0.02857142857142857, 
+            "(~CALCITONIN-SALMON": 0.02857142857142857, 
+            "(~CHILDREN'S": 0.02857142857142857, 
+            "(~ESOMEPRAZOLE": 0.02857142857142857, 
+            "(~LORAZEPAM": 0.02857142857142857, 
+            "(~MONTELUKAST": 0.02857142857142857, 
+            "(~PRAVASTATIN": 0.02857142857142857, 
+            "(~SM58": 0.02857142857142857, 
+            "(~hypertension": 0.02857142857142857, 
+            "(~pneumonia": 0.02857142857142857, 
+            "(~subcutaneously": 0.02857142857142857, 
+            "/SULFAMETHOXAZOLE~DO...": 0.02857142857142857, 
+            "11/15/03~-08": 0.02857142857142857, 
+            "3/9/03~-08": 0.02857142857142857, 
+            "8/11/03~-08": 0.02857142857142857, 
+            "CR~TABLET": 0.02857142857142857, 
+            "CYCLOBENZAPRINE~HCL": 0.02857142857142857, 
+            "Causing~Admission": 0.02857142857142857, 
+            "DOCUSATE~SODIUM": 0.02857142857142857, 
+            "ELEM~CA...": 0.02857142857142857, 
+            "EXTENDED~RELEASE": 0.02857142857142857, 
+            "FEXOFENADINE~HCL": 0.02857142857142857, 
+            "FLUTICASONE~PROPIONATE/...": 0.02857142857142857, 
+            "INHALER~HFA": 0.02857142857142857, 
+            "IN~O.R.": 0.02857142857142857, 
+            "IPRATROPIUM~NEBULIZER": 0.02857142857142857, 
+            "MAGNESIUM~HYDROXIDE": 0.02857142857142857, 
+            "ORAL~INHALER": 0.02857142857142857, 
+            "OR~SENSITIVITY": 0.02857142857142857, 
+            "SUSTAINED~RELEASE": 0.02857142857142857, 
+            "day(~s": 0.08571428571428572, 
+            "pulmonary~disease": 0.02857142857142857, 
+            "reflux~disease": 0.02857142857142857
+        }, 
+        "):": {
+            "(~approximate": 0.8333333333333334, 
+            "APPOINTMENT(~S": 0.16666666666666666
+        }, 
+        "******": {
+            "@~09": 0.25, 
+            "DISCHARGE~ORDERS": 0.5, 
+            "Date:~2/3/2003": 0.25
+        }, 
+        "+": {
+            "BID~CALTRATE": 0.5, 
+            "CALCIUM~CARB": 0.5
+        }, 
+        "+bs": {
+            "protuberant~,": 1.0
+        }, 
+        ",": {
+            "******~BECKET": 0.025, 
+            ",~ASA": 0.025, 
+            ",~Complications": 0.025, 
+            ",~Infections": 0.025, 
+            ",~W": 0.025, 
+            ",~pravachol": 0.025, 
+            ",~steroids": 0.025, 
+            "-08~)": 0.075, 
+            "ALLERGY:~Penicillins": 0.025, 
+            "ARRON~J.": 0.025, 
+            "After~taper": 0.025, 
+            "Attending:~HEMPHILL": 0.025, 
+            "BY:~LOKHMATOR": 0.025, 
+            "CEFTAZIDIME~2": 0.025, 
+            "CV:~cardizem": 0.025, 
+            "GREGORY~G.": 0.025, 
+            "HEPARIN~5": 0.025, 
+            "OTHER~DIAGNOSIS;Conditions": 0.025, 
+            "PO~M": 0.025, 
+            "ROBT~MYRON": 0.025, 
+            "a.m.~11/19/03": 0.025, 
+            "back~pain": 0.025, 
+            "by~RICKE": 0.025, 
+            "faint~BS": 0.025, 
+            "faint~S1": 0.025, 
+            "general:~#obese#": 0.025, 
+            "home~O2": 0.025, 
+            "is~201-250": 0.025, 
+            "is~251-300": 0.025, 
+            "is~301-350": 0.025, 
+            "is~351-400": 0.025, 
+            "never~intubated": 0.025, 
+            "of~Breath": 0.025, 
+            "patient~worsens": 0.025, 
+            "sbp~<100": 0.025, 
+            "sliding~scale": 0.025, 
+            "soft~protuberant": 0.025, 
+            "than~200": 0.025
+        }, 
+        "-": {
+            "Dr.~Osuch": 0.5, 
+            "ID:~ceftz/tobramycin": 0.5
+        }, 
+        "---done": {
+            ",~then": 1.0
+        }, 
+        "-08": {
+            "(~11/15/03": 0.3333333333333333, 
+            "(~3/9/03": 0.3333333333333333, 
+            "(~8/11/03": 0.3333333333333333
+        }, 
+        "/": {
+            "DIET:~House": 1.0
+        }, 
+        "/SULFAMETHOXAZOLE": {
+            "(~TRIMETHOPRIM": 1.0
+        }, 
+        "0": {
+            "then~give": 1.0
+        }, 
+        "0.5": {
+            "LORAZEPAM~)": 1.0
+        }, 
+        "0.5mg": {
+            "Anxiety:~ativan": 1.0
+        }, 
+        "000": {
+            "2~,": 0.5, 
+            "5~,": 0.5
+        }, 
+        "09": {
+            "3/17/03~@": 1.0
+        }, 
+        "09908285": {
+            "LPDH~|": 1.0
+        }, 
+        "1": {
+            "CALCITONIN-SALMON~)": 0.2, 
+            "DO...~)": 0.2, 
+            "INHALER~)": 0.2, 
+            "PROPIONATE/...~)": 0.2, 
+            "tobramycin~for": 0.2
+        }, 
+        "1.": {
+            "+bs~Plan:": 1.0
+        }, 
+        "10": {
+            "HCL~)": 0.2, 
+            "MONTELUKAST~)": 0.2, 
+            "QD~X": 0.2, 
+            "approximate~):": 0.2, 
+            "then~give": 0.2
+        }, 
+        "10/21/03": {
+            "Picc~placed": 1.0
+        }, 
+        "10/28/2003": {
+            "Admission~Date:": 1.0
+        }, 
+        "100": {
+            "SODIUM~)": 1.0
+        }, 
+        "10:15": {
+            "3/17/03~AT": 1.0
+        }, 
+        "11/15/03": {
+            ")~(": 1.0
+        }, 
+        "11/19/03": {
+            "9~a.m.": 1.0
+        }, 
+        "12:00:00": {
+            "|~5/28/2003": 1.0
+        }, 
+        "140": {
+            "TOBRAMYCIN~SULFATE": 1.0
+        }, 
+        "14d.": {
+            "ceftaz~x": 1.0
+        }, 
+        "15": {
+            "EXTRA~STRENGTH": 0.5, 
+            "RELEASE~)": 0.5
+        }, 
+        "180": {
+            "HCL~)": 1.0
+        }, 
+        "2": {
+            "4~CEFTAZIDIME": 0.2, 
+            "CA...~)": 0.2, 
+            "HFA~)": 0.2, 
+            "QD~X": 0.2, 
+            "TABLET~)": 0.2
+        }, 
+        "2.": {
+            "prednisone~taper.": 1.0
+        }, 
+        "2.5": {
+            "ALBUTEROL~NEBULIZER": 1.0
+        }, 
+        "2/3/2003": {
+            "Discharge~Date:": 1.0
+        }, 
+        "20": {
+            "---done~Give": 0.5, 
+            "PREDNISONE~at": 0.5
+        }, 
+        "20/25": {
+            "4~LISINOPRIL/HYDROCLOROTHIAZIDE": 1.0
+        }, 
+        "200": {
+            "less~than": 1.0
+        }, 
+        "201-250": {
+            "BS~is": 1.0
+        }, 
+        "20mg": {
+            "x~3d;": 1.0
+        }, 
+        "25": {
+            "---done~Give": 1.0
+        }, 
+        "250/50": {
+            "ADVAIR~DISKUS": 1.0
+        }, 
+        "251-300": {
+            "BS~is": 1.0
+        }, 
+        "25mg": {
+            "x~3d;": 1.0
+        }, 
+        "3": {
+            "QD~X": 1.0
+        }, 
+        "3.": {
+            "placed~10/21/03": 1.0
+        }, 
+        "3/0.5": {
+            "NEBULIZER~)": 1.0
+        }, 
+        "3/17/03": {
+            "PATIENT~ON:": 0.5, 
+            "SM58~)": 0.5
+        }, 
+        "3/9/03": {
+            ")~(": 1.0
+        }, 
+        "30": {
+            "HYDROXIDE~)": 0.3333333333333333, 
+            "PO~Give": 0.3333333333333333, 
+            "Pred~to": 0.3333333333333333
+        }, 
+        "300": {
+            "RELEASE~)": 1.0
+        }, 
+        "301-350": {
+            "BS~is": 1.0
+        }, 
+        "30mg": {
+            "Prednisone~taper:": 1.0
+        }, 
+        "351-400": {
+            "BS~is": 1.0
+        }, 
+        "3d;": {
+            "qd~x": 1.0
+        }, 
+        "4": {
+            "approximate~):": 0.75, 
+            "then~give": 0.25
+        }, 
+        "4.": {
+            "EF~55%": 1.0
+        }, 
+        "4/19/03": {
+            "added~on": 1.0
+        }, 
+        "40": {
+            "ESOMEPRAZOLE~)": 1.0
+        }, 
+        "400": {
+            "greater~than": 1.0
+        }, 
+        "5": {
+            "BID~HEPARIN": 0.5, 
+            "approximate~):": 0.5
+        }, 
+        "5.": {
+            "GI:~prevacid": 1.0
+        }, 
+        "5/28/2003": {
+            "9481940~|": 1.0
+        }, 
+        "55": {
+            "hr~<": 1.0
+        }, 
+        "55%": {
+            "showed~EF": 1.0
+        }, 
+        "6": {
+            "then~give": 1.0
+        }, 
+        "6.": {
+            "fs~qpm": 1.0
+        }, 
+        "600MG": {
+            "D~(": 1.0
+        }, 
+        "650": {
+            "ACETAMINOPHEN~)": 1.0
+        }, 
+        "66": {
+            "HOSPITAL~COURSE:": 1.0
+        }, 
+        "7.": {
+            "off~morphine.": 1.0
+        }, 
+        "7/21/03.": {
+            "30~mg": 1.0
+        }, 
+        "7/6": {
+            "shoulder~Sat": 1.0
+        }, 
+        "8": {
+            "then~give": 1.0
+        }, 
+        "8/11/03": {
+            ")~(": 1.0
+        }, 
+        "80": {
+            "PRAVASTATIN~)": 1.0
+        }, 
+        "81": {
+            "CHILDREN'S~)": 1.0
+        }, 
+        "9": {
+            "Osuch~-": 1.0
+        }, 
+        "9481940": {
+            "|~|": 1.0
+        }, 
+        "992-69-13-7": {
+            ",~BRANDON": 1.0
+        }, 
+        ";Responsible": {
+            "DISCHARGE~DIAGNOSIS": 1.0
+        }, 
+        "<": {
+            ",~hr": 1.0
+        }, 
+        "<100": {
+            "IF:~sbp": 1.0
+        }, 
+        ">92%.": {
+            "NC~sats": 1.0
+        }, 
+        "@": {
+            ")~3/17/03": 1.0
+        }, 
+        "ACETAMINOPHEN": {
+            "TYLENOL~(": 1.0
+        }, 
+        "ACETYLSALICYLIC": {
+            "PRN~headache": 1.0
+        }, 
+        "ACID": {
+            "headache~ACETYLSALICYLIC": 1.0
+        }, 
+        "ACTIVITY:": {
+            "sat.~fat": 1.0
+        }, 
+        "ADDITIONAL": {
+            "0.5mg~q8": 1.0
+        }, 
+        "ADMIT": {
+            ",~Shellfish": 1.0
+        }, 
+        "ADVAIR": {
+            "PO~QPM": 1.0
+        }, 
+        "ALBUTEROL": {
+            "DUONEB~(": 0.3333333333333333, 
+            "HFA~(": 0.3333333333333333, 
+            "PO~QD": 0.3333333333333333
+        }, 
+        "ALLEGRA": {
+            "instructs~otherwise.": 1.0
+        }, 
+        "ALLERGY": {
+            "M.D.~POSSIBLE": 1.0
+        }, 
+        "ALLERGY:": {
+            "11/19/03~,": 1.0
+        }, 
+        "AM": {
+            "5/28/2003~12:00:00": 0.5, 
+            "AT~10:15": 0.5
+        }, 
+        "AND": {
+            "(~ALBUTEROL": 0.5, 
+            ")~OPERATIONS": 0.5
+        }, 
+        "APPOINTMENT(": {
+            "FOLLOW~UP": 1.0
+        }, 
+        "ARRON": {
+            "LOKHMATOR~,": 1.0
+        }, 
+        "AS": {
+            "BE~USED": 1.0
+        }, 
+        "ASA": {
+            "pravachol~,": 1.0
+        }, 
+        "AT": {
+            "ON:~3/17/03": 1.0
+        }, 
+        "ATIVAN": {
+            "than~400": 1.0
+        }, 
+        "Abdomen:": {
+            ",~S2": 1.0
+        }, 
+        "Admission": {
+            "DIS~|": 0.5, 
+            "for~Causing": 0.5
+        }, 
+        "After": {
+            "DIAGNOSIS~;Responsible": 0.5, 
+            "then~---done": 0.5
+        }, 
+        "Alert": {
+            "IV~Q8H": 1.0
+        }, 
+        "Anxiety": {
+            "Q6-8H~PRN": 1.0
+        }, 
+        "Anxiety:": {
+            "morphine.~7.": 1.0
+        }, 
+        "Applicable": {
+            "UPON~Not": 1.0
+        }, 
+        "Attending:": {
+            "SUMMARY:~YES": 1.0
+        }, 
+        "Avoid": {
+            "Interaction~Instruction": 1.0
+        }, 
+        "BACTRIM": {
+            "):~4": 1.0
+        }, 
+        "BE": {
+            "D/C~ORDER": 1.0
+        }, 
+        "BECKET": {
+            "ORDERS~******": 1.0
+        }, 
+        "BID": {
+            "MG~PO": 0.14285714285714285, 
+            "PUFF~INH": 0.14285714285714285, 
+            "PUFF~NEB": 0.14285714285714285, 
+            "TAB~PO": 0.2857142857142857, 
+            "U~SC": 0.14285714285714285, 
+            "subcutaneously~)": 0.14285714285714285
+        }, 
+        "BRANDON": {
+            "BECKET~,": 1.0
+        }, 
+        "BRIEF": {
+            ")~none": 1.0
+        }, 
+        "BS": {
+            "Chest:~faint": 0.14285714285714285, 
+            "HO~if": 0.14285714285714285, 
+            "subcutaneously~If": 0.5714285714285714, 
+            "you~If": 0.14285714285714285
+        }, 
+        "BUDESONIDE": {
+            "PULMICORT~(": 1.0
+        }, 
+        "BY:": {
+            "summary~ENTERED": 1.0
+        }, 
+        "Bolinsky": {
+            "page~Dr.": 1.0
+        }, 
+        "Breath": {
+            "Shortness~of": 1.0
+        }, 
+        "CA...": {
+            "600MG~ELEM": 1.0
+        }, 
+        "CALCITONIN-SALMON": {
+            "MIACALCIN~(": 1.0
+        }, 
+        "CALCIUM": {
+            "D~(": 1.0
+        }, 
+        "CALTRATE": {
+            "INH~BID": 1.0
+        }, 
+        "CARB": {
+            "(~CALCIUM": 1.0
+        }, 
+        "CEFTAZIDIME": {
+            "):~4": 1.0
+        }, 
+        "CEPHALOSPORINS": {
+            ")~to": 1.0
+        }, 
+        "CHILDREN'S": {
+            "ACID~(": 1.0
+        }, 
+        "COLACE": {
+            "):~5": 1.0
+        }, 
+        "COMMENTS:": {
+            "q8~ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            "first~DISCHARGE": 1.0
+        }, 
+        "CONTIN": {
+            "Q8H~MS": 1.0
+        }, 
+        "CONTINGENT": {
+            "10:15~AM": 1.0
+        }, 
+        "COURSE:": {
+            "OF~HOSPITAL": 1.0
+        }, 
+        "CR": {
+            "(~GUAIFENESIN": 1.0
+        }, 
+        "CV:": {
+            "10/21/03~3.": 1.0
+        }, 
+        "CVS:": {
+            "scattered~wheezes": 1.0
+        }, 
+        "CYCLOBENZAPRINE": {
+            "FLEXERIL~(": 1.0
+        }, 
+        "Call": {
+            "call~HO": 1.0
+        }, 
+        "Can": {
+            "qd~indefinitely": 1.0
+        }, 
+        "Causing": {
+            "Study~for": 1.0
+        }, 
+        "Chest:": {
+            "HEENT:~Cushingoid": 1.0
+        }, 
+        "Complications": {
+            "Infections~,": 1.0
+        }, 
+        "Constipation": {
+            "QD~PRN": 1.0
+        }, 
+        "Cushingoid": {
+            "NAD~HEENT:": 1.0
+        }, 
+        "D": {
+            "CALTRATE~+": 0.5, 
+            "CARB~+": 0.5
+        }, 
+        "D/C": {
+            "AS~THE": 0.5, 
+            "Applicable~WILL": 0.5
+        }, 
+        "DIAGNOSIS": {
+            "PRINCIPAL~DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "Shellfish~ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "pneumonia~OTHER": 1.0
+        }, 
+        "DIET:": {
+            "mg~QD": 1.0
+        }, 
+        "DILTIAZEM": {
+            "TIAZAC~(": 1.0
+        }, 
+        "DIS": {
+            "|~|": 1.0
+        }, 
+        "DISCHARGE": {
+            "2/3/2003~******": 0.16666666666666666, 
+            "DISPOSITION:~Rehabilitation": 0.16666666666666666, 
+            "END~OF": 0.16666666666666666, 
+            "Service:~PUL": 0.16666666666666666, 
+            "pneumonia~PRINCIPAL": 0.16666666666666666, 
+            "tylenol~first": 0.16666666666666666
+        }, 
+        "DISKUS": {
+            "QPM~ADVAIR": 1.0
+        }, 
+        "DISPOSITION:": {
+            ",~M.D.": 1.0
+        }, 
+        "DO...": {
+            "TRIMETHOPRIM~/SULFAMETHOXAZOLE": 1.0
+        }, 
+        "DO/PLAN:": {
+            "Stable~TO": 1.0
+        }, 
+        "DOCUSATE": {
+            "COLACE~(": 1.0
+        }, 
+        "DS": {
+            "4~BACTRIM": 1.0
+        }, 
+        "DUONEB": {
+            "PO~QD": 1.0
+        }, 
+        "Date:": {
+            "Status:~Discharge": 0.5, 
+            "|~Admission": 0.5
+        }, 
+        "Discharge": {
+            "Report~Status:": 1.0
+        }, 
+        "Doses": {
+            "Number~of": 1.0
+        }, 
+        "Dr.": {
+            "Can~page": 0.3333333333333333, 
+            "F/u~with": 0.3333333333333333, 
+            "S~):": 0.3333333333333333
+        }, 
+        "ECHO": {
+            "ASA~,": 1.0
+        }, 
+        "EF": {
+            "ECHO~showed": 1.0
+        }, 
+        "ELEM": {
+            "(~600MG": 1.0
+        }, 
+        "END": {
+            "09~******": 1.0
+        }, 
+        "ENTERED": {
+            "dictated~summary": 1.0
+        }, 
+        "ESOMEPRAZOLE": {
+            "NEXIUM~(": 1.0
+        }, 
+        "EXTENDED": {
+            "(~DILTIAZEM": 1.0
+        }, 
+        "EXTRA": {
+            "MAALOX~PLUS": 1.0
+        }, 
+        "Endo:": {
+            "prevacid~5.": 1.0
+        }, 
+        "F": {
+            "W~,": 1.0
+        }, 
+        "F/u": {
+            "TO~DO/PLAN:": 1.0
+        }, 
+        "FEXOFENADINE": {
+            "ALLEGRA~(": 1.0
+        }, 
+        "FLEXERIL": {
+            "observe~carefully": 1.0
+        }, 
+        "FLUTICASONE": {
+            "250/50~(": 1.0
+        }, 
+        "FOLLOW": {
+            "as~tolerated": 1.0
+        }, 
+        "Food/Drug": {
+            "<~55": 0.3333333333333333, 
+            "PO~QD": 0.3333333333333333, 
+            "PO~QHS": 0.3333333333333333
+        }, 
+        "G.": {
+            ",~GREGORY": 1.0
+        }, 
+        "GI:": {
+            "55%~4.": 1.0
+        }, 
+        "GREGORY": {
+            "RICKE~,": 1.0
+        }, 
+        "GUAIFENESIN": {
+            "L.A.~(": 1.0
+        }, 
+        "Give": {
+            "Taper~PO": 0.3333333333333333, 
+            "then~---done": 0.6666666666666666
+        }, 
+        "HCL": {
+            "(~CYCLOBENZAPRINE": 0.5, 
+            "(~FEXOFENADINE": 0.5
+        }, 
+        "HEENT:": {
+            ",~NAD": 1.0
+        }, 
+        "HEMPHILL": {
+            "YES~Attending:": 1.0
+        }, 
+        "HEPARIN": {
+            "PO~BID": 1.0
+        }, 
+        "HFA": {
+            "ALBUTEROL~INHALER": 0.5, 
+            "BID~PROVENTIL": 0.5
+        }, 
+        "HO": {
+            "HO~Call": 0.5, 
+            "and~call": 0.5
+        }, 
+        "HOLD": {
+            "PO~QD": 1.0
+        }, 
+        "HOSPITAL": {
+            "RESUME~OF": 1.0
+        }, 
+        "HUMAN": {
+            "INSULIN~REGULAR": 1.0
+        }, 
+        "HUMIBID": {
+            "instructs~otherwise.": 1.0
+        }, 
+        "HYDROXIDE": {
+            "(~MAGNESIUM": 1.0
+        }, 
+        "Histon": {
+            "BRANDON~992-69-13-7": 1.0
+        }, 
+        "House": {
+            "QD~DIET:": 1.0
+        }, 
+        "ID:": {
+            "taper.~2.": 1.0
+        }, 
+        "IF:": {
+            "QD~HOLD": 1.0
+        }, 
+        "IN": {
+            "(~NOT": 1.0
+        }, 
+        "INH": {
+            "1~PUFF": 0.3333333333333333, 
+            "2~PUFF": 0.3333333333333333, 
+            "3/0.5~MG": 0.3333333333333333
+        }, 
+        "INHALER": {
+            "(~ALBUTEROL": 0.5, 
+            "BUDESONIDE~ORAL": 0.5
+        }, 
+        "INSULIN": {
+            "SC~BID": 1.0
+        }, 
+        "IPRATROPIUM": {
+            "ALBUTEROL~AND": 1.0
+        }, 
+        "IV": {
+            "000~MG": 0.2, 
+            "140~MG": 0.2, 
+            "Please~continue": 0.4, 
+            "return~to": 0.2
+        }, 
+        "If": {
+            "Toby~nebulizer.": 0.16666666666666666, 
+            "thank~you": 0.16666666666666666, 
+            "units~subcutaneously": 0.6666666666666666
+        }, 
+        "Indigestion": {
+            "Q6H~PRN": 1.0
+        }, 
+        "Infections": {
+            "DIAGNOSIS;Conditions~,": 1.0
+        }, 
+        "Instruction": {
+            "Food/Drug~Interaction": 1.0
+        }, 
+        "Instructions:": {
+            ")~BID": 1.0
+        }, 
+        "Interaction": {
+            "55~Food/Drug": 0.3333333333333333, 
+            "QD~Food/Drug": 0.3333333333333333, 
+            "QHS~Food/Drug": 0.3333333333333333
+        }, 
+        "J.": {
+            ",~ARRON": 1.0
+        }, 
+        "Jahn": {
+            "with~Dr.": 1.0
+        }, 
+        "L.A.": {
+            "otherwise.~HUMIBID": 1.0
+        }, 
+        "LISINOPRIL/HYDROCLOROTHIAZIDE": {
+            "):~4": 1.0
+        }, 
+        "LOKHMATOR": {
+            "ENTERED~BY:": 1.0
+        }, 
+        "LORAZEPAM": {
+            "ATIVAN~(": 1.0
+        }, 
+        "LPDH": {
+            "323958155~|": 1.0
+        }, 
+        "Low": {
+            "House~/": 1.0
+        }, 
+        "M": {
+            "TAB~PO": 1.0
+        }, 
+        "M.D.": {
+            "G.~,": 0.3333333333333333, 
+            "J.~,": 0.3333333333333333, 
+            "MYRON~,": 0.3333333333333333
+        }, 
+        "MAALOX": {
+            "PRN~Anxiety": 1.0
+        }, 
+        "MAGNESIUM": {
+            "MOM~(": 1.0
+        }, 
+        "MD": {
+            "grapefruit~unless": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "Rehabilitation~DISCHARGE": 1.0
+        }, 
+        "MG": {
+            ")~0.5": 0.0625, 
+            ")~10": 0.125, 
+            ")~100": 0.0625, 
+            ")~15": 0.0625, 
+            ")~180": 0.0625, 
+            ")~3/0.5": 0.0625, 
+            ")~300": 0.0625, 
+            ")~40": 0.0625, 
+            ")~650": 0.0625, 
+            ")~80": 0.0625, 
+            ")~81": 0.0625, 
+            ",~000": 0.0625, 
+            "LISINOPRIL/HYDROCLOROTHIAZIDE~20/25": 0.0625, 
+            "NEBULIZER~2.5": 0.0625, 
+            "SULFATE~140": 0.0625
+        }, 
+        "MIACALCIN": {
+            ",~Wheezing": 1.0
+        }, 
+        "MOM": {
+            "PRN~Indigestion": 1.0
+        }, 
+        "MONTELUKAST": {
+            "SINGULAIR~(": 1.0
+        }, 
+        "MORPHINE": {
+            "CONTIN~(": 1.0
+        }, 
+        "MS": {
+            "IV~Q8H": 1.0
+        }, 
+        "MSo4": {
+            "pain.~also": 1.0
+        }, 
+        "MYRON": {
+            ",~ROBT": 1.0
+        }, 
+        "Musculoskel:": {
+            "qpm~6.": 1.0
+        }, 
+        "NA": {
+            "1~SPRAY": 1.0
+        }, 
+        "NAD": {
+            "#obese#~,": 1.0
+        }, 
+        "NC": {
+            "O2~by": 1.0
+        }, 
+        "NEB": {
+            "1~PUFF": 0.5, 
+            "2.5~MG": 0.5
+        }, 
+        "NEBULIZER": {
+            "AND~IPRATROPIUM": 0.5, 
+            "QD~ALBUTEROL": 0.5
+        }, 
+        "NEXIUM": {
+            "PO~BID": 1.0
+        }, 
+        "NOT": {
+            "TREATMENTS/PROCEDURES~(": 1.0
+        }, 
+        "No": {
+            "Dr.~Jahn": 1.0
+        }, 
+        "Not": {
+            "CONTINGENT~UPON": 1.0
+        }, 
+        "Number": {
+            "INH~QID": 0.2, 
+            "NA~QD": 0.2, 
+            "PO~BID": 0.2, 
+            "PO~TID": 0.2, 
+            "sbp~<100": 0.2
+        }, 
+        "O.R.": {
+            "NOT~IN": 1.0
+        }, 
+        "O2": {
+            "1.~pulmonary:": 0.5, 
+            "on~home": 0.5
+        }, 
+        "OF": {
+            "******~END": 0.5, 
+            "BRIEF~RESUME": 0.5
+        }, 
+        "ON:": {
+            "DISCHARGE~PATIENT": 1.0
+        }, 
+        "OPERATIONS": {
+            "pneumonia~)": 1.0
+        }, 
+        "OR": {
+            "ALLERGY~(": 1.0
+        }, 
+        "ORAL": {
+            "(~BUDESONIDE": 1.0
+        }, 
+        "ORDER": {
+            "WILL~D/C": 1.0
+        }, 
+        "ORDERS": {
+            "******~DISCHARGE": 0.5, 
+            "OF~DISCHARGE": 0.5
+        }, 
+        "OTHER": {
+            ")~pneumonia": 0.5, 
+            "PROCEDURES:~none": 0.5
+        }, 
+        "Osuch": {
+            "):~Dr.": 1.0
+        }, 
+        "Override": {
+            "Alert~overridden:": 1.0
+        }, 
+        "PATIENT": {
+            "PUL~DISCHARGE": 1.0
+        }, 
+        "PE": {
+            "and~tobramycin.": 1.0
+        }, 
+        "PLUS": {
+            "Anxiety~MAALOX": 1.0
+        }, 
+        "PO": {
+            "0.5~MG": 0.05555555555555555, 
+            "100~MG": 0.05555555555555555, 
+            "10~MG": 0.1111111111111111, 
+            "15~MG": 0.05555555555555555, 
+            "15~milliliters": 0.05555555555555555, 
+            "180~MG": 0.05555555555555555, 
+            "1~TAB": 0.05555555555555555, 
+            "20/25~MG": 0.05555555555555555, 
+            "2~TAB": 0.1111111111111111, 
+            "300~MG": 0.05555555555555555, 
+            "30~milliliters": 0.05555555555555555, 
+            "40~MG": 0.05555555555555555, 
+            "650~MG": 0.05555555555555555, 
+            "80~MG": 0.05555555555555555, 
+            "81~MG": 0.05555555555555555, 
+            "PREDNISONE~Taper": 0.05555555555555555
+        }, 
+        "POSSIBLE": {
+            ",~M.D.": 1.0
+        }, 
+        "PRAVACHOL": {
+            "PRN~Pain": 1.0
+        }, 
+        "PRAVASTATIN": {
+            "PRAVACHOL~(": 1.0
+        }, 
+        "PREDNISONE": {
+            ",~continue": 0.5, 
+            "INH~Q4H": 0.5
+        }, 
+        "PRINCIPAL": {
+            "DIAGNOSIS:~pneumonia": 1.0
+        }, 
+        "PRN": {
+            "NEB~Q2H": 0.16666666666666666, 
+            "PO~Q12H": 0.16666666666666666, 
+            "PO~Q4H": 0.16666666666666666, 
+            "PO~Q6-8H": 0.16666666666666666, 
+            "PO~Q6H": 0.16666666666666666, 
+            "PO~QD": 0.16666666666666666
+        }, 
+        "PROCEDURES:": {
+            "OPERATIONS~AND": 1.0
+        }, 
+        "PROPIONATE/...": {
+            "(~FLUTICASONE": 1.0
+        }, 
+        "PROVENTIL": {
+            "NEB~BID": 1.0
+        }, 
+        "PUFF": {
+            ")~1": 0.6666666666666666, 
+            ")~2": 0.3333333333333333
+        }, 
+        "PUL": {
+            "Histon~Service:": 1.0
+        }, 
+        "PULMICORT": {
+            "instructs~otherwise.": 1.0
+        }, 
+        "Pain": {
+            "Q12H~PRN": 0.5, 
+            "pager~#72118": 0.5
+        }, 
+        "Penicillins": {
+            ",~ALLERGY:": 1.0
+        }, 
+        "Persistent": {
+            "6.~Musculoskel:": 1.0
+        }, 
+        "Picc": {
+            "-~iv.": 1.0
+        }, 
+        "Plan:": {
+            ",~+bs": 1.0
+        }, 
+        "Please": {
+            "ADDITIONAL~COMMENTS:": 0.5, 
+            "IV~tobramycin.": 0.5
+        }, 
+        "Pred": {
+            ">92%.~Tapered": 1.0
+        }, 
+        "Prednisone": {
+            "x~14d.": 1.0
+        }, 
+        "Q12H": {
+            "MG~PO": 1.0
+        }, 
+        "Q2H": {
+            "MG~NEB": 1.0
+        }, 
+        "Q4H": {
+            "MG~INH": 0.5, 
+            "MG~PO": 0.5
+        }, 
+        "Q6-8H": {
+            "MG~PO": 1.0
+        }, 
+        "Q6H": {
+            "milliliters~PO": 1.0
+        }, 
+        "Q8H": {
+            "MG~IV": 1.0
+        }, 
+        "QD": {
+            "20~mg": 0.18181818181818182, 
+            "25~mg": 0.09090909090909091, 
+            "30~mg": 0.09090909090909091, 
+            "MG~PO": 0.45454545454545453, 
+            "SPRAY~NA": 0.09090909090909091, 
+            "milliliters~PO": 0.09090909090909091
+        }, 
+        "QHS": {
+            "MG~PO": 1.0
+        }, 
+        "QID": {
+            "PUFF~INH": 1.0
+        }, 
+        "QPM": {
+            "MG~PO": 1.0
+        }, 
+        "REGULAR": {
+            "BID~INSULIN": 1.0
+        }, 
+        "RELEASE": {
+            "DILTIAZEM~EXTENDED": 0.5, 
+            "MORPHINE~SUSTAINED": 0.5
+        }, 
+        "RESUME": {
+            "none~BRIEF": 1.0
+        }, 
+        "RICKE": {
+            "4/19/03~by": 1.0
+        }, 
+        "ROBT": {
+            "HEMPHILL~,": 1.0
+        }, 
+        "Reason": {
+            "to~CEPHALOSPORINS": 1.0
+        }, 
+        "Rehabilitation": {
+            "M.D.~DISPOSITION:": 1.0
+        }, 
+        "Report": {
+            "Date:~10/28/2003": 1.0
+        }, 
+        "Required": {
+            "of~Doses": 1.0
+        }, 
+        "S": {
+            "UP~APPOINTMENT(": 1.0
+        }, 
+        "S1": {
+            "CVS:~faint": 1.0
+        }, 
+        "S2": {
+            "S1~,": 1.0
+        }, 
+        "SC": {
+            "000~U": 0.5, 
+            "Sliding~Scale": 0.5
+        }, 
+        "SENSITIVITY": {
+            "(~OR": 1.0
+        }, 
+        "SINGULAIR": {
+            "):~10": 1.0
+        }, 
+        "SM58": {
+            "M.D.~(": 1.0
+        }, 
+        "SODIUM": {
+            "(~DOCUSATE": 1.0
+        }, 
+        "SPRAY": {
+            ")~1": 1.0
+        }, 
+        "STRENGTH": {
+            "PLUS~EXTRA": 1.0
+        }, 
+        "SULFATE": {
+            "Constipation~TOBRAMYCIN": 1.0
+        }, 
+        "SUMMARY:": {
+            "THE~D/C": 1.0
+        }, 
+        "SUSTAINED": {
+            "(~MORPHINE": 1.0
+        }, 
+        "Sat": {
+            "to~shoulder": 1.0
+        }, 
+        "Scale": {
+            "HUMAN~Sliding": 1.0
+        }, 
+        "Sensitive": {
+            "pseudomonas~pneumonia.": 1.0
+        }, 
+        "Service:": {
+            "992-69-13-7~Histon": 1.0
+        }, 
+        "Shellfish": {
+            "Penicillins~,": 1.0
+        }, 
+        "Shortness": {
+            "Q2H~PRN": 1.0
+        }, 
+        "Sliding": {
+            "REGULAR~HUMAN": 1.0
+        }, 
+        "Stable": {
+            "DISCHARGE~CONDITION:": 1.0
+        }, 
+        "Status:": {
+            "10/28/2003~Report": 1.0
+        }, 
+        "Study": {
+            ";Responsible~After": 1.0
+        }, 
+        "TAB": {
+            ")~1": 0.3333333333333333, 
+            ")~2": 0.6666666666666666
+        }, 
+        "TABLET": {
+            "GUAIFENESIN~CR": 1.0
+        }, 
+        "THE": {
+            "USED~AS": 1.0
+        }, 
+        "TIAZAC": {
+            ",~F": 1.0
+        }, 
+        "TID": {
+            "MG~PO": 1.0
+        }, 
+        "TO": {
+            "CONDITION:~Stable": 1.0
+        }, 
+        "TOBRAMYCIN": {
+            "PRN~Constipation": 1.0
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "none~OTHER": 1.0
+        }, 
+        "TRIMETHOPRIM": {
+            "DS~(": 1.0
+        }, 
+        "TTH": {
+            "Bolinsky~at": 1.0
+        }, 
+        "TYLENOL": {
+            "DISCHARGE~MEDICATIONS:": 1.0
+        }, 
+        "Taper": {
+            "Q4H~PREDNISONE": 1.0
+        }, 
+        "Tapered": {
+            "sats~>92%.": 1.0
+        }, 
+        "Toby": {
+            "switch~to": 1.0
+        }, 
+        "Treatment/Stay": {
+            ",~affecting": 1.0
+        }, 
+        "U": {
+            ",~000": 1.0
+        }, 
+        "UP": {
+            "tolerated~FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "AM~CONTINGENT": 1.0
+        }, 
+        "USED": {
+            "ORDER~BE": 1.0
+        }, 
+        "W": {
+            "M~,": 1.0
+        }, 
+        "WILL": {
+            "Not~Applicable": 1.0
+        }, 
+        "Walking": {
+            "fat~ACTIVITY:": 1.0
+        }, 
+        "Wheezing": {
+            "Breath~,": 1.0
+        }, 
+        "Will": {
+            "mg~7/21/03.": 1.0
+        }, 
+        "Would": {
+            "and~flexeril.": 1.0
+        }, 
+        "X": {
+            "mg~QD": 1.0
+        }, 
+        "YES": {
+            "D/C~SUMMARY:": 1.0
+        }, 
+        "a.m.": {
+            "-~9": 1.0
+        }, 
+        "added": {
+            "overridden:~Override": 1.0
+        }, 
+        "affecting": {
+            "Complications~,": 1.0
+        }, 
+        "also": {
+            "musculoskel~pain.": 1.0
+        }, 
+        "am": {
+            "may~use": 0.5, 
+            "results~for": 0.5
+        }, 
+        "and": {
+            "1~week": 0.25, 
+            "also~MSo4": 0.25, 
+            "to~ceftazidime": 0.25, 
+            "units~subcutaneously": 0.25
+        }, 
+        "approximate": {
+            "Required~(": 1.0
+        }, 
+        "as": {
+            "ACTIVITY:~Walking": 1.0
+        }, 
+        "at": {
+            "Dr.~Bolinsky": 0.5, 
+            "continue~PREDNISONE": 0.5
+        }, 
+        "ativan": {
+            "7.~Anxiety:": 1.0
+        }, 
+        "attributed": {
+            "most~likely": 1.0
+        }, 
+        "back": {
+            "Musculoskel:~Persistent": 1.0
+        }, 
+        "by": {
+            "on~4/19/03": 0.5, 
+            "pulmonary:~O2": 0.5
+        }, 
+        "call": {
+            "subcutaneously~and": 1.0
+        }, 
+        "cardizem": {
+            "3.~CV:": 1.0
+        }, 
+        "carefully": {
+            "will~observe": 1.0
+        }, 
+        "ceftaz": {
+            "continue~IV": 1.0
+        }, 
+        "ceftazidime": {
+            "Sensitive~to": 1.0
+        }, 
+        "ceftz/tobramycin": {
+            "2.~ID:": 1.0
+        }, 
+        "chol/low": {
+            "/~Low": 1.0
+        }, 
+        "chronic": {
+            "copd~(": 1.0
+        }, 
+        "continue": {
+            "COMMENTS:~Please": 0.3333333333333333, 
+            "taper~,": 0.3333333333333333, 
+            "tobramycin.~Please": 0.3333333333333333
+        }, 
+        "copd": {
+            "disease~)": 1.0
+        }, 
+        "coughing.": {
+            "attributed~to": 1.0
+        }, 
+        "day(": {
+            "X~10": 0.3333333333333333, 
+            "X~2": 0.3333333333333333, 
+            "X~3": 0.3333333333333333
+        }, 
+        "dictated": {
+            "Jahn~No": 1.0
+        }, 
+        "disease": {
+            "gastroesophageal~reflux": 0.5, 
+            "obstructive~pulmonary": 0.5
+        }, 
+        "draw": {
+            "am~lab": 1.0
+        }, 
+        "faint": {
+            "Cushingoid~Chest:": 0.5, 
+            "wheezes~CVS:": 0.5
+        }, 
+        "fat": {
+            "chol/low~sat.": 1.0
+        }, 
+        "fingerstick": {
+            ",~please": 1.0
+        }, 
+        "first": {
+            "offer~tylenol": 1.0
+        }, 
+        "flexeril.": {
+            "MSo4~and": 1.0
+        }, 
+        "for": {
+            "After~Study": 0.2, 
+            "CEPHALOSPORINS~Reason": 0.2, 
+            "IV~tobramycin": 0.2, 
+            "Sat~7/6": 0.2, 
+            "draw~results": 0.2
+        }, 
+        "fs": {
+            "5.~Endo:": 1.0
+        }, 
+        "gastroesophageal": {
+            "gerd~(": 1.0
+        }, 
+        "general:": {
+            "tobramycin.~PE": 1.0
+        }, 
+        "gerd": {
+            "hypertension~)": 1.0
+        }, 
+        "give": {
+            ",~then": 1.0
+        }, 
+        "grapefruit": {
+            "Instruction~Avoid": 1.0
+        }, 
+        "greater": {
+            "BS~is": 1.0
+        }, 
+        "headache": {
+            "Q4H~PRN": 1.0
+        }, 
+        "home": {
+            "#asthma#~on": 1.0
+        }, 
+        "hr": {
+            "<100~,": 1.0
+        }, 
+        "hypertension": {
+            "affecting~Treatment/Stay": 0.5, 
+            "hypertension~(": 0.5
+        }, 
+        "if": {
+            "Call~HO": 1.0
+        }, 
+        "in": {
+            "please~fingerstick": 1.0
+        }, 
+        "indefinitely": {
+            "20mg~qd": 1.0
+        }, 
+        "injxn": {
+            "rec'd~lidocaine": 1.0
+        }, 
+        "instructs": {
+            "unless~MD": 1.0
+        }, 
+        "intubated": {
+            ",~never": 1.0
+        }, 
+        "is": {
+            "If~BS": 0.8333333333333334, 
+            "if~BS": 0.16666666666666666
+        }, 
+        "iv.": {
+            "ceftz/tobramycin~-": 1.0
+        }, 
+        "lab": {
+            "use~am": 1.0
+        }, 
+        "less": {
+            "BS~is": 1.0
+        }, 
+        "lidocaine": {
+            "coughing.~rec'd": 1.0
+        }, 
+        "like": {
+            "flexeril.~Would": 1.0
+        }, 
+        "likely": {
+            ",~most": 1.0
+        }, 
+        "management:": {
+            "#72118~Pain": 1.0
+        }, 
+        "may": {
+            "BID~Instructions:": 1.0
+        }, 
+        "mg": {
+            "Give~20": 0.2, 
+            "Give~25": 0.2, 
+            "Give~30": 0.2, 
+            "at~20": 0.2, 
+            "to~30": 0.2
+        }, 
+        "milliliters": {
+            ")~30": 0.5, 
+            "STRENGTH~15": 0.5
+        }, 
+        "morphine.": {
+            "pt~off": 1.0
+        }, 
+        "most": {
+            "pain~,": 1.0
+        }, 
+        "musculoskel": {
+            "7/6~for": 1.0
+        }, 
+        "nebulizer.": {
+            "to~Toby": 1.0
+        }, 
+        "never": {
+            "steroids~,": 1.0
+        }, 
+        "none": {
+            "AND~PROCEDURES:": 0.5, 
+            "O.R.~)": 0.5
+        }, 
+        "now": {
+            "intubated~,": 1.0
+        }, 
+        "observe": {
+            "override:~will": 1.0
+        }, 
+        "obstructive": {
+            "(~chronic": 1.0
+        }, 
+        "of": {
+            "<100~Number": 0.16666666666666666, 
+            "BID~Number": 0.16666666666666666, 
+            "PRN~Shortness": 0.16666666666666666, 
+            "QD~Number": 0.16666666666666666, 
+            "QID~Number": 0.16666666666666666, 
+            "TID~Number": 0.16666666666666666
+        }, 
+        "off": {
+            "wean~pt": 1.0
+        }, 
+        "offer": {
+            "Pain~management:": 1.0
+        }, 
+        "on": {
+            "Override~added": 0.5, 
+            "severe~#asthma#": 0.5
+        }, 
+        "otherwise.": {
+            "MD~instructs": 1.0
+        }, 
+        "overridden:": {
+            "Q8H~Alert": 1.0
+        }, 
+        "override:": {
+            "Reason~for": 1.0
+        }, 
+        "page": {
+            "indefinitely~Can": 1.0
+        }, 
+        "pager": {
+            "at~TTH": 1.0
+        }, 
+        "pain": {
+            "Persistent~back": 1.0
+        }, 
+        "pain.": {
+            "for~musculoskel": 1.0
+        }, 
+        "patient": {
+            "nebulizer.~If": 1.0
+        }, 
+        "placed": {
+            "iv.~Picc": 1.0
+        }, 
+        "please": {
+            "scale~,": 0.5, 
+            "worsens~,": 0.5
+        }, 
+        "pm.": {
+            "fingerstick~in": 1.0
+        }, 
+        "pneumonia": {
+            "ADMIT~DIAGNOSIS:": 0.2, 
+            "AM~|": 0.2, 
+            "Admission~)": 0.2, 
+            "disease~)": 0.2, 
+            "pneumonia~(": 0.2
+        }, 
+        "pneumonia.": {
+            "recurrent~pseudomonas": 1.0
+        }, 
+        "pravachol": {
+            "cardizem~,": 1.0
+        }, 
+        "prednisone": {
+            "txfr~with": 1.0
+        }, 
+        "prevacid": {
+            "4.~GI:": 1.0
+        }, 
+        "protuberant": {
+            "Abdomen:~soft": 1.0
+        }, 
+        "pseudomonas": {
+            "w/~recurrent": 1.0
+        }, 
+        "pt": {
+            "to~wean": 1.0
+        }, 
+        "pulmonary": {
+            "chronic~obstructive": 1.0
+        }, 
+        "pulmonary:": {
+            "Plan:~1.": 1.0
+        }, 
+        "q8": {
+            "ativan~0.5mg": 1.0
+        }, 
+        "qd": {
+            "3d;~20mg": 0.3333333333333333, 
+            "3d;~25mg": 0.3333333333333333, 
+            "taper:~30mg": 0.3333333333333333
+        }, 
+        "qpm": {
+            "Endo:~fs": 1.0
+        }, 
+        "rec'd": {
+            "to~coughing.": 1.0
+        }, 
+        "recurrent": {
+            "now~w/": 1.0
+        }, 
+        "reflux": {
+            "(~gastroesophageal": 1.0
+        }, 
+        "results": {
+            "lab~draw": 1.0
+        }, 
+        "return": {
+            ",~please": 1.0
+        }, 
+        "s": {
+            "10~day(": 0.3333333333333333, 
+            "2~day(": 0.3333333333333333, 
+            "3~day(": 0.3333333333333333
+        }, 
+        "sat.": {
+            "Low~chol/low": 1.0
+        }, 
+        "sats": {
+            "by~NC": 1.0
+        }, 
+        "sbp": {
+            "HOLD~IF:": 1.0
+        }, 
+        "scale": {
+            "am~sliding": 1.0
+        }, 
+        "scattered": {
+            "BS~,": 1.0
+        }, 
+        "severe": {
+            "woman~w/": 1.0
+        }, 
+        "shoulder": {
+            "injxn~to": 1.0
+        }, 
+        "showed": {
+            ",~ECHO": 1.0
+        }, 
+        "sliding": {
+            "for~am": 1.0
+        }, 
+        "soft": {
+            "S2~Abdomen:": 1.0
+        }, 
+        "steroids": {
+            "O2~,": 1.0
+        }, 
+        "subcutaneously": {
+            "0~units": 0.16666666666666666, 
+            "10~units": 0.16666666666666666, 
+            "4~units": 0.16666666666666666, 
+            "6~units": 0.16666666666666666, 
+            "8~units": 0.16666666666666666, 
+            "SC~(": 0.16666666666666666
+        }, 
+        "summary": {
+            "No~dictated": 1.0
+        }, 
+        "switch": {
+            "week~and": 1.0
+        }, 
+        "taper": {
+            "---done~After": 1.0
+        }, 
+        "taper.": {
+            "with~prednisone": 1.0
+        }, 
+        "taper:": {
+            "14d.~Prednisone": 1.0
+        }, 
+        "than": {
+            "is~greater": 0.5, 
+            "is~less": 0.5
+        }, 
+        "thank": {
+            "in~pm.": 1.0
+        }, 
+        "then": {
+            ")~,": 0.375, 
+            "200~,": 0.125, 
+            "201-250~,": 0.125, 
+            "251-300~,": 0.125, 
+            "301-350~,": 0.125, 
+            "351-400~,": 0.125
+        }, 
+        "to": {
+            "SENSITIVITY~)": 0.125, 
+            "Tapered~Pred": 0.125, 
+            "Would~like": 0.125, 
+            "and~switch": 0.125, 
+            "lidocaine~injxn": 0.125, 
+            "likely~attributed": 0.125, 
+            "please~return": 0.125, 
+            "pneumonia.~Sensitive": 0.125
+        }, 
+        "tobramycin": {
+            "continue~IV": 1.0
+        }, 
+        "tobramycin.": {
+            "ceftazidime~and": 0.5, 
+            "to~IV": 0.5
+        }, 
+        "tolerated": {
+            "Walking~as": 1.0
+        }, 
+        "txfr": {
+            "7/21/03.~Will": 1.0
+        }, 
+        "tylenol": {
+            "management:~offer": 1.0
+        }, 
+        "units": {
+            "give~0": 0.2, 
+            "give~10": 0.2, 
+            "give~4": 0.2, 
+            "give~6": 0.2, 
+            "give~8": 0.2
+        }, 
+        "unless": {
+            "Avoid~grapefruit": 1.0
+        }, 
+        "use": {
+            "Instructions:~may": 1.0
+        }, 
+        "w/": {
+            ",~now": 0.5, 
+            "y/o~woman": 0.5
+        }, 
+        "wean": {
+            "like~to": 1.0
+        }, 
+        "week": {
+            "for~1": 1.0
+        }, 
+        "wheezes": {
+            ",~scattered": 1.0
+        }, 
+        "will": {
+            "for~override:": 1.0
+        }, 
+        "with": {
+            "DO/PLAN:~F/u": 0.5, 
+            "Will~txfr": 0.5
+        }, 
+        "woman": {
+            "66~y/o": 1.0
+        }, 
+        "worsens": {
+            "If~patient": 1.0
+        }, 
+        "x": {
+            "25mg~qd": 0.3333333333333333, 
+            "30mg~qd": 0.3333333333333333, 
+            "IV~ceftaz": 0.3333333333333333
+        }, 
+        "y/o": {
+            "COURSE:~66": 1.0
+        }, 
+        "you": {
+            "pm.~thank": 1.0
+        }, 
+        "|": {
+            "09908285~|": 0.1111111111111111, 
+            "12:00:00~AM": 0.1111111111111111, 
+            "pneumonia~|": 0.1111111111111111, 
+            "|~09908285": 0.1111111111111111, 
+            "|~9481940": 0.1111111111111111, 
+            "|~DIS": 0.1111111111111111, 
+            "|~LPDH": 0.1111111111111111, 
+            "|~pneumonia": 0.1111111111111111, 
+            "~323958155": 0.1111111111111111
+        }
+    }, 
+    "type": "data/train", 
+    "uni": {
+        "": 0.001128668171557562, 
+        "#72118": 0.001128668171557562, 
+        "#asthma#": 0.001128668171557562, 
+        "#obese#": 0.001128668171557562, 
+        "(": 0.0417607223476298, 
+        ")": 0.039503386004514675, 
+        "):": 0.006772009029345372, 
+        "******": 0.003386004514672686, 
+        "+": 0.002257336343115124, 
+        "+bs": 0.001128668171557562, 
+        ",": 0.045146726862302484, 
+        "-": 0.002257336343115124, 
+        "---done": 0.003386004514672686, 
+        "-08": 0.003386004514672686, 
+        "/": 0.001128668171557562, 
+        "/SULFAMETHOXAZOLE": 0.001128668171557562, 
+        "0": 0.001128668171557562, 
+        "0.5": 0.001128668171557562, 
+        "0.5mg": 0.001128668171557562, 
+        "000": 0.002257336343115124, 
+        "09": 0.001128668171557562, 
+        "09908285": 0.001128668171557562, 
+        "1": 0.0056433408577878106, 
+        "1.": 0.001128668171557562, 
+        "10": 0.0056433408577878106, 
+        "10/21/03": 0.001128668171557562, 
+        "10/28/2003": 0.001128668171557562, 
+        "100": 0.001128668171557562, 
+        "10:15": 0.001128668171557562, 
+        "11/15/03": 0.001128668171557562, 
+        "11/19/03": 0.001128668171557562, 
+        "12:00:00": 0.001128668171557562, 
+        "140": 0.001128668171557562, 
+        "14d.": 0.001128668171557562, 
+        "15": 0.002257336343115124, 
+        "180": 0.001128668171557562, 
+        "2": 0.0056433408577878106, 
+        "2.": 0.001128668171557562, 
+        "2.5": 0.001128668171557562, 
+        "2/3/2003": 0.001128668171557562, 
+        "20": 0.002257336343115124, 
+        "20/25": 0.001128668171557562, 
+        "200": 0.001128668171557562, 
+        "201-250": 0.001128668171557562, 
+        "20mg": 0.001128668171557562, 
+        "25": 0.001128668171557562, 
+        "250/50": 0.001128668171557562, 
+        "251-300": 0.001128668171557562, 
+        "25mg": 0.001128668171557562, 
+        "3": 0.001128668171557562, 
+        "3.": 0.001128668171557562, 
+        "3/0.5": 0.001128668171557562, 
+        "3/17/03": 0.002257336343115124, 
+        "3/9/03": 0.001128668171557562, 
+        "30": 0.003386004514672686, 
+        "300": 0.001128668171557562, 
+        "301-350": 0.001128668171557562, 
+        "30mg": 0.001128668171557562, 
+        "323958155": 0.001128668171557562, 
+        "351-400": 0.001128668171557562, 
+        "3d;": 0.002257336343115124, 
+        "4": 0.004514672686230248, 
+        "4.": 0.001128668171557562, 
+        "4/19/03": 0.001128668171557562, 
+        "40": 0.001128668171557562, 
+        "400": 0.001128668171557562, 
+        "5": 0.002257336343115124, 
+        "5.": 0.001128668171557562, 
+        "5/28/2003": 0.001128668171557562, 
+        "55": 0.001128668171557562, 
+        "55%": 0.001128668171557562, 
+        "6": 0.001128668171557562, 
+        "6.": 0.001128668171557562, 
+        "600MG": 0.001128668171557562, 
+        "650": 0.001128668171557562, 
+        "66": 0.001128668171557562, 
+        "7.": 0.001128668171557562, 
+        "7/21/03.": 0.001128668171557562, 
+        "7/6": 0.001128668171557562, 
+        "8": 0.001128668171557562, 
+        "8/11/03": 0.001128668171557562, 
+        "80": 0.001128668171557562, 
+        "81": 0.001128668171557562, 
+        "9": 0.001128668171557562, 
+        "9481940": 0.001128668171557562, 
+        "992-69-13-7": 0.001128668171557562, 
+        ";Responsible": 0.001128668171557562, 
+        "<": 0.001128668171557562, 
+        "<100": 0.002257336343115124, 
+        ">92%.": 0.001128668171557562, 
+        "@": 0.001128668171557562, 
+        "ACETAMINOPHEN": 0.001128668171557562, 
+        "ACETYLSALICYLIC": 0.001128668171557562, 
+        "ACID": 0.001128668171557562, 
+        "ACTIVITY:": 0.001128668171557562, 
+        "ADDITIONAL": 0.001128668171557562, 
+        "ADMIT": 0.001128668171557562, 
+        "ADVAIR": 0.001128668171557562, 
+        "ALBUTEROL": 0.003386004514672686, 
+        "ALLEGRA": 0.001128668171557562, 
+        "ALLERGY": 0.001128668171557562, 
+        "ALLERGY:": 0.001128668171557562, 
+        "AM": 0.002257336343115124, 
+        "AND": 0.002257336343115124, 
+        "APPOINTMENT(": 0.001128668171557562, 
+        "ARRON": 0.001128668171557562, 
+        "AS": 0.001128668171557562, 
+        "ASA": 0.001128668171557562, 
+        "AT": 0.001128668171557562, 
+        "ATIVAN": 0.001128668171557562, 
+        "Abdomen:": 0.001128668171557562, 
+        "Admission": 0.002257336343115124, 
+        "After": 0.002257336343115124, 
+        "Alert": 0.001128668171557562, 
+        "Anxiety": 0.001128668171557562, 
+        "Anxiety:": 0.001128668171557562, 
+        "Applicable": 0.001128668171557562, 
+        "Attending:": 0.001128668171557562, 
+        "Avoid": 0.003386004514672686, 
+        "BACTRIM": 0.001128668171557562, 
+        "BE": 0.001128668171557562, 
+        "BECKET": 0.001128668171557562, 
+        "BID": 0.007900677200902935, 
+        "BRANDON": 0.001128668171557562, 
+        "BRIEF": 0.001128668171557562, 
+        "BS": 0.007900677200902935, 
+        "BUDESONIDE": 0.001128668171557562, 
+        "BY:": 0.001128668171557562, 
+        "Bolinsky": 0.001128668171557562, 
+        "Breath": 0.001128668171557562, 
+        "CA...": 0.001128668171557562, 
+        "CALCITONIN-SALMON": 0.001128668171557562, 
+        "CALCIUM": 0.001128668171557562, 
+        "CALTRATE": 0.001128668171557562, 
+        "CARB": 0.001128668171557562, 
+        "CEFTAZIDIME": 0.001128668171557562, 
+        "CEPHALOSPORINS": 0.001128668171557562, 
+        "CHILDREN'S": 0.001128668171557562, 
+        "COLACE": 0.001128668171557562, 
+        "COMMENTS:": 0.001128668171557562, 
+        "CONDITION:": 0.001128668171557562, 
+        "CONTIN": 0.001128668171557562, 
+        "CONTINGENT": 0.001128668171557562, 
+        "COURSE:": 0.001128668171557562, 
+        "CR": 0.001128668171557562, 
+        "CV:": 0.001128668171557562, 
+        "CVS:": 0.001128668171557562, 
+        "CYCLOBENZAPRINE": 0.001128668171557562, 
+        "Call": 0.001128668171557562, 
+        "Can": 0.001128668171557562, 
+        "Causing": 0.001128668171557562, 
+        "Chest:": 0.001128668171557562, 
+        "Complications": 0.001128668171557562, 
+        "Constipation": 0.001128668171557562, 
+        "Cushingoid": 0.001128668171557562, 
+        "D": 0.002257336343115124, 
+        "D/C": 0.002257336343115124, 
+        "DIAGNOSIS": 0.001128668171557562, 
+        "DIAGNOSIS:": 0.001128668171557562, 
+        "DIAGNOSIS;Conditions": 0.001128668171557562, 
+        "DIET:": 0.001128668171557562, 
+        "DILTIAZEM": 0.001128668171557562, 
+        "DIS": 0.001128668171557562, 
+        "DISCHARGE": 0.006772009029345372, 
+        "DISKUS": 0.001128668171557562, 
+        "DISPOSITION:": 0.001128668171557562, 
+        "DO...": 0.001128668171557562, 
+        "DO/PLAN:": 0.001128668171557562, 
+        "DOCUSATE": 0.001128668171557562, 
+        "DS": 0.001128668171557562, 
+        "DUONEB": 0.001128668171557562, 
+        "Date:": 0.002257336343115124, 
+        "Discharge": 0.001128668171557562, 
+        "Doses": 0.0056433408577878106, 
+        "Dr.": 0.003386004514672686, 
+        "ECHO": 0.001128668171557562, 
+        "EF": 0.001128668171557562, 
+        "ELEM": 0.001128668171557562, 
+        "END": 0.001128668171557562, 
+        "ENTERED": 0.001128668171557562, 
+        "ESOMEPRAZOLE": 0.001128668171557562, 
+        "EXTENDED": 0.001128668171557562, 
+        "EXTRA": 0.001128668171557562, 
+        "Endo:": 0.001128668171557562, 
+        "F": 0.001128668171557562, 
+        "F/u": 0.001128668171557562, 
+        "FEXOFENADINE": 0.001128668171557562, 
+        "FLEXERIL": 0.001128668171557562, 
+        "FLUTICASONE": 0.001128668171557562, 
+        "FOLLOW": 0.001128668171557562, 
+        "Food/Drug": 0.003386004514672686, 
+        "G.": 0.001128668171557562, 
+        "GI:": 0.001128668171557562, 
+        "GREGORY": 0.001128668171557562, 
+        "GUAIFENESIN": 0.001128668171557562, 
+        "Give": 0.003386004514672686, 
+        "HCL": 0.002257336343115124, 
+        "HEENT:": 0.001128668171557562, 
+        "HEMPHILL": 0.001128668171557562, 
+        "HEPARIN": 0.001128668171557562, 
+        "HFA": 0.002257336343115124, 
+        "HO": 0.002257336343115124, 
+        "HOLD": 0.002257336343115124, 
+        "HOSPITAL": 0.001128668171557562, 
+        "HUMAN": 0.001128668171557562, 
+        "HUMIBID": 0.001128668171557562, 
+        "HYDROXIDE": 0.001128668171557562, 
+        "Histon": 0.001128668171557562, 
+        "House": 0.001128668171557562, 
+        "ID:": 0.001128668171557562, 
+        "IF:": 0.002257336343115124, 
+        "IN": 0.001128668171557562, 
+        "INH": 0.003386004514672686, 
+        "INHALER": 0.002257336343115124, 
+        "INSULIN": 0.001128668171557562, 
+        "IPRATROPIUM": 0.001128668171557562, 
+        "IV": 0.0056433408577878106, 
+        "If": 0.006772009029345372, 
+        "Indigestion": 0.001128668171557562, 
+        "Infections": 0.001128668171557562, 
+        "Instruction": 0.003386004514672686, 
+        "Instructions:": 0.001128668171557562, 
+        "Interaction": 0.003386004514672686, 
+        "J.": 0.001128668171557562, 
+        "Jahn": 0.001128668171557562, 
+        "L.A.": 0.001128668171557562, 
+        "LISINOPRIL/HYDROCLOROTHIAZIDE": 0.001128668171557562, 
+        "LOKHMATOR": 0.001128668171557562, 
+        "LORAZEPAM": 0.001128668171557562, 
+        "LPDH": 0.001128668171557562, 
+        "Low": 0.001128668171557562, 
+        "M": 0.001128668171557562, 
+        "M.D.": 0.003386004514672686, 
+        "MAALOX": 0.001128668171557562, 
+        "MAGNESIUM": 0.001128668171557562, 
+        "MD": 0.003386004514672686, 
+        "MEDICATIONS:": 0.001128668171557562, 
+        "MG": 0.01805869074492099, 
+        "MIACALCIN": 0.001128668171557562, 
+        "MOM": 0.001128668171557562, 
+        "MONTELUKAST": 0.001128668171557562, 
+        "MORPHINE": 0.001128668171557562, 
+        "MS": 0.001128668171557562, 
+        "MSo4": 0.001128668171557562, 
+        "MYRON": 0.001128668171557562, 
+        "Musculoskel:": 0.001128668171557562, 
+        "NA": 0.001128668171557562, 
+        "NAD": 0.001128668171557562, 
+        "NC": 0.001128668171557562, 
+        "NEB": 0.002257336343115124, 
+        "NEBULIZER": 0.002257336343115124, 
+        "NEXIUM": 0.001128668171557562, 
+        "NOT": 0.001128668171557562, 
+        "No": 0.001128668171557562, 
+        "Not": 0.001128668171557562, 
+        "Number": 0.0056433408577878106, 
+        "O.R.": 0.001128668171557562, 
+        "O2": 0.002257336343115124, 
+        "OF": 0.002257336343115124, 
+        "ON:": 0.001128668171557562, 
+        "OPERATIONS": 0.001128668171557562, 
+        "OR": 0.001128668171557562, 
+        "ORAL": 0.001128668171557562, 
+        "ORDER": 0.001128668171557562, 
+        "ORDERS": 0.001128668171557562, 
+        "OTHER": 0.002257336343115124, 
+        "Osuch": 0.001128668171557562, 
+        "Override": 0.001128668171557562, 
+        "PATIENT": 0.001128668171557562, 
+        "PE": 0.001128668171557562, 
+        "PLUS": 0.001128668171557562, 
+        "PO": 0.020316027088036117, 
+        "POSSIBLE": 0.001128668171557562, 
+        "PRAVACHOL": 0.001128668171557562, 
+        "PRAVASTATIN": 0.001128668171557562, 
+        "PREDNISONE": 0.002257336343115124, 
+        "PRINCIPAL": 0.001128668171557562, 
+        "PRN": 0.006772009029345372, 
+        "PROCEDURES:": 0.001128668171557562, 
+        "PROPIONATE/...": 0.001128668171557562, 
+        "PROVENTIL": 0.001128668171557562, 
+        "PUFF": 0.003386004514672686, 
+        "PUL": 0.001128668171557562, 
+        "PULMICORT": 0.001128668171557562, 
+        "Pain": 0.002257336343115124, 
+        "Penicillins": 0.001128668171557562, 
+        "Persistent": 0.001128668171557562, 
+        "Picc": 0.001128668171557562, 
+        "Plan:": 0.001128668171557562, 
+        "Please": 0.002257336343115124, 
+        "Pred": 0.001128668171557562, 
+        "Prednisone": 0.001128668171557562, 
+        "Q12H": 0.001128668171557562, 
+        "Q2H": 0.001128668171557562, 
+        "Q4H": 0.002257336343115124, 
+        "Q6-8H": 0.001128668171557562, 
+        "Q6H": 0.001128668171557562, 
+        "Q8H": 0.002257336343115124, 
+        "QD": 0.012415349887133182, 
+        "QHS": 0.001128668171557562, 
+        "QID": 0.001128668171557562, 
+        "QPM": 0.001128668171557562, 
+        "REGULAR": 0.001128668171557562, 
+        "RELEASE": 0.002257336343115124, 
+        "RESUME": 0.001128668171557562, 
+        "RICKE": 0.001128668171557562, 
+        "ROBT": 0.001128668171557562, 
+        "Reason": 0.001128668171557562, 
+        "Rehabilitation": 0.001128668171557562, 
+        "Report": 0.001128668171557562, 
+        "Required": 0.0056433408577878106, 
+        "S": 0.001128668171557562, 
+        "S1": 0.001128668171557562, 
+        "S2": 0.001128668171557562, 
+        "SC": 0.002257336343115124, 
+        "SENSITIVITY": 0.001128668171557562, 
+        "SINGULAIR": 0.001128668171557562, 
+        "SM58": 0.001128668171557562, 
+        "SODIUM": 0.001128668171557562, 
+        "SPRAY": 0.001128668171557562, 
+        "STRENGTH": 0.001128668171557562, 
+        "SULFATE": 0.001128668171557562, 
+        "SUMMARY:": 0.001128668171557562, 
+        "SUSTAINED": 0.001128668171557562, 
+        "Sat": 0.001128668171557562, 
+        "Scale": 0.001128668171557562, 
+        "Sensitive": 0.001128668171557562, 
+        "Service:": 0.001128668171557562, 
+        "Shellfish": 0.001128668171557562, 
+        "Shortness": 0.001128668171557562, 
+        "Sliding": 0.001128668171557562, 
+        "Stable": 0.001128668171557562, 
+        "Status:": 0.001128668171557562, 
+        "Study": 0.001128668171557562, 
+        "TAB": 0.003386004514672686, 
+        "TABLET": 0.001128668171557562, 
+        "THE": 0.001128668171557562, 
+        "TIAZAC": 0.001128668171557562, 
+        "TID": 0.001128668171557562, 
+        "TO": 0.001128668171557562, 
+        "TOBRAMYCIN": 0.001128668171557562, 
+        "TREATMENTS/PROCEDURES": 0.001128668171557562, 
+        "TRIMETHOPRIM": 0.001128668171557562, 
+        "TTH": 0.001128668171557562, 
+        "TYLENOL": 0.001128668171557562, 
+        "Taper": 0.001128668171557562, 
+        "Tapered": 0.001128668171557562, 
+        "Toby": 0.001128668171557562, 
+        "Treatment/Stay": 0.001128668171557562, 
+        "U": 0.001128668171557562, 
+        "UP": 0.001128668171557562, 
+        "UPON": 0.001128668171557562, 
+        "USED": 0.001128668171557562, 
+        "W": 0.001128668171557562, 
+        "WILL": 0.001128668171557562, 
+        "Walking": 0.001128668171557562, 
+        "Wheezing": 0.001128668171557562, 
+        "Will": 0.001128668171557562, 
+        "Would": 0.001128668171557562, 
+        "X": 0.003386004514672686, 
+        "YES": 0.001128668171557562, 
+        "a.m.": 0.001128668171557562, 
+        "added": 0.001128668171557562, 
+        "affecting": 0.001128668171557562, 
+        "also": 0.001128668171557562, 
+        "am": 0.002257336343115124, 
+        "and": 0.004514672686230248, 
+        "approximate": 0.0056433408577878106, 
+        "as": 0.001128668171557562, 
+        "at": 0.002257336343115124, 
+        "ativan": 0.001128668171557562, 
+        "attributed": 0.001128668171557562, 
+        "back": 0.001128668171557562, 
+        "by": 0.002257336343115124, 
+        "call": 0.001128668171557562, 
+        "cardizem": 0.001128668171557562, 
+        "carefully": 0.001128668171557562, 
+        "ceftaz": 0.001128668171557562, 
+        "ceftazidime": 0.001128668171557562, 
+        "ceftz/tobramycin": 0.001128668171557562, 
+        "chol/low": 0.001128668171557562, 
+        "chronic": 0.001128668171557562, 
+        "continue": 0.003386004514672686, 
+        "copd": 0.001128668171557562, 
+        "coughing.": 0.001128668171557562, 
+        "day(": 0.003386004514672686, 
+        "dictated": 0.001128668171557562, 
+        "disease": 0.002257336343115124, 
+        "draw": 0.001128668171557562, 
+        "faint": 0.002257336343115124, 
+        "fat": 0.001128668171557562, 
+        "fingerstick": 0.001128668171557562, 
+        "first": 0.001128668171557562, 
+        "flexeril.": 0.001128668171557562, 
+        "for": 0.0056433408577878106, 
+        "fs": 0.001128668171557562, 
+        "gastroesophageal": 0.001128668171557562, 
+        "general:": 0.001128668171557562, 
+        "gerd": 0.001128668171557562, 
+        "give": 0.0056433408577878106, 
+        "grapefruit": 0.003386004514672686, 
+        "greater": 0.001128668171557562, 
+        "headache": 0.001128668171557562, 
+        "home": 0.001128668171557562, 
+        "hr": 0.001128668171557562, 
+        "hypertension": 0.002257336343115124, 
+        "if": 0.001128668171557562, 
+        "in": 0.001128668171557562, 
+        "indefinitely": 0.001128668171557562, 
+        "injxn": 0.001128668171557562, 
+        "instructs": 0.003386004514672686, 
+        "intubated": 0.001128668171557562, 
+        "is": 0.006772009029345372, 
+        "iv.": 0.001128668171557562, 
+        "lab": 0.001128668171557562, 
+        "less": 0.001128668171557562, 
+        "lidocaine": 0.001128668171557562, 
+        "like": 0.001128668171557562, 
+        "likely": 0.001128668171557562, 
+        "management:": 0.001128668171557562, 
+        "may": 0.001128668171557562, 
+        "mg": 0.0056433408577878106, 
+        "milliliters": 0.002257336343115124, 
+        "morphine.": 0.001128668171557562, 
+        "most": 0.001128668171557562, 
+        "musculoskel": 0.001128668171557562, 
+        "nebulizer.": 0.001128668171557562, 
+        "never": 0.001128668171557562, 
+        "none": 0.002257336343115124, 
+        "now": 0.001128668171557562, 
+        "observe": 0.001128668171557562, 
+        "obstructive": 0.001128668171557562, 
+        "of": 0.006772009029345372, 
+        "off": 0.001128668171557562, 
+        "offer": 0.001128668171557562, 
+        "on": 0.002257336343115124, 
+        "otherwise.": 0.003386004514672686, 
+        "overridden:": 0.001128668171557562, 
+        "override:": 0.001128668171557562, 
+        "page": 0.001128668171557562, 
+        "pager": 0.001128668171557562, 
+        "pain": 0.001128668171557562, 
+        "pain.": 0.001128668171557562, 
+        "patient": 0.001128668171557562, 
+        "placed": 0.001128668171557562, 
+        "please": 0.002257336343115124, 
+        "pm.": 0.001128668171557562, 
+        "pneumonia": 0.0056433408577878106, 
+        "pneumonia.": 0.001128668171557562, 
+        "pravachol": 0.001128668171557562, 
+        "prednisone": 0.001128668171557562, 
+        "prevacid": 0.001128668171557562, 
+        "protuberant": 0.001128668171557562, 
+        "pseudomonas": 0.001128668171557562, 
+        "pt": 0.001128668171557562, 
+        "pulmonary": 0.001128668171557562, 
+        "pulmonary:": 0.001128668171557562, 
+        "q8": 0.001128668171557562, 
+        "qd": 0.003386004514672686, 
+        "qpm": 0.001128668171557562, 
+        "rec'd": 0.001128668171557562, 
+        "recurrent": 0.001128668171557562, 
+        "reflux": 0.001128668171557562, 
+        "results": 0.001128668171557562, 
+        "return": 0.001128668171557562, 
+        "s": 0.003386004514672686, 
+        "sat.": 0.001128668171557562, 
+        "sats": 0.001128668171557562, 
+        "sbp": 0.002257336343115124, 
+        "scale": 0.001128668171557562, 
+        "scattered": 0.001128668171557562, 
+        "severe": 0.001128668171557562, 
+        "shoulder": 0.001128668171557562, 
+        "showed": 0.001128668171557562, 
+        "sliding": 0.001128668171557562, 
+        "soft": 0.001128668171557562, 
+        "steroids": 0.001128668171557562, 
+        "subcutaneously": 0.006772009029345372, 
+        "summary": 0.001128668171557562, 
+        "switch": 0.001128668171557562, 
+        "taper": 0.001128668171557562, 
+        "taper.": 0.001128668171557562, 
+        "taper:": 0.001128668171557562, 
+        "than": 0.002257336343115124, 
+        "thank": 0.001128668171557562, 
+        "then": 0.009029345372460496, 
+        "to": 0.009029345372460496, 
+        "tobramycin": 0.001128668171557562, 
+        "tobramycin.": 0.002257336343115124, 
+        "tolerated": 0.001128668171557562, 
+        "txfr": 0.001128668171557562, 
+        "tylenol": 0.001128668171557562, 
+        "units": 0.0056433408577878106, 
+        "unless": 0.003386004514672686, 
+        "use": 0.001128668171557562, 
+        "w/": 0.002257336343115124, 
+        "wean": 0.001128668171557562, 
+        "week": 0.001128668171557562, 
+        "wheezes": 0.001128668171557562, 
+        "will": 0.001128668171557562, 
+        "with": 0.002257336343115124, 
+        "woman": 0.001128668171557562, 
+        "worsens": 0.001128668171557562, 
+        "x": 0.003386004514672686, 
+        "y/o": 0.001128668171557562, 
+        "you": 0.001128668171557562, 
+        "|": 0.010158013544018058
+    }
+}

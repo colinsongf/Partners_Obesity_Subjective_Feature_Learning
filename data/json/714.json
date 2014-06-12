@@ -1,0 +1,4303 @@
+{
+    "bi": {
+        "(": {
+            "COLACE": 0.125, 
+            "M.D.": 0.125, 
+            "MSIR": 0.25, 
+            "Solymani": 0.125, 
+            "TREATMENTS/PROCEDURES": 0.125, 
+            "TYLENOL": 0.125, 
+            "morphine": 0.125
+        }, 
+        ")": {
+            "ACETAMINOPHEN": 0.125, 
+            "Admission": 0.125, 
+            "LR29": 0.125, 
+            "O.R.": 0.125, 
+            "Oncology": 0.125, 
+            "RELEASE": 0.125, 
+            "SODIUM": 0.125, 
+            "hrs": 0.125
+        }, 
+        ").": {
+            "requirement": 1.0
+        }, 
+        "):": {
+            "S": 1.0
+        }, 
+        "******": {
+            "04": 0.3333333333333333, 
+            "8/1/2007": 0.3333333333333333, 
+            "ORDERS": 0.3333333333333333
+        }, 
+        ",": {
+            ")": 0.025, 
+            "BOBSIN": 0.025, 
+            "Complications": 0.025, 
+            "DIAGNOSIS;Conditions": 0.025, 
+            "DVT": 0.025, 
+            "G.": 0.025, 
+            "GUIDICE": 0.025, 
+            "IVC": 0.025, 
+            "Infections": 0.025, 
+            "LOVETINSKY": 0.025, 
+            "Liver": 0.025, 
+            "P.": 0.025, 
+            "PRN": 0.05, 
+            "RRR": 0.025, 
+            "SMA": 0.025, 
+            "VSS": 0.025, 
+            "Zaborowski": 0.025, 
+            "afebrile": 0.025, 
+            "aorta": 0.025, 
+            "breath": 0.025, 
+            "cancer": 0.025, 
+            "chill": 0.025, 
+            "collection": 0.025, 
+            "drainage": 0.025, 
+            "external": 0.025, 
+            "hypercholesterolemia": 0.025, 
+            "hysterectomy": 0.025, 
+            "nausea/vomiting": 0.025, 
+            "pain": 0.025, 
+            "patent": 0.025, 
+            "radiation": 0.025, 
+            "recommendations": 0.025, 
+            "recurs": 0.025, 
+            "size": 0.025, 
+            "spleen": 0.025, 
+            "tense": 0.025, 
+            "trunk": 0.025, 
+            "veins": 0.025, 
+            "worsens": 0.025
+        }, 
+        "-": {
+            "9/22": 0.25, 
+            "Babic": 0.25, 
+            "MRI": 0.25, 
+            "admission": 0.25
+        }, 
+        "---": {
+            "imaging.": 1.0
+        }, 
+        "-----": {
+            "OA": 0.5, 
+            "PRN": 0.5
+        }, 
+        "------": {
+            "iliopsoas.": 1.0
+        }, 
+        "-------": {
+            "NKDA": 1.0
+        }, 
+        "--------": {
+            "fluid.": 1.0
+        }, 
+        "04": {
+            "@": 1.0
+        }, 
+        "04:30": {
+            "AT": 1.0
+        }, 
+        "1.": {
+            "ADMISSION:": 0.5, 
+            "course/A&P": 0.5
+        }, 
+        "10/10/2007": {
+            "|": 1.0
+        }, 
+        "10/17/2007": {
+            "Date:": 1.0
+        }, 
+        "100": {
+            ")": 1.0
+        }, 
+        "11.5x5.5x2.7": {
+            "8/28": 1.0
+        }, 
+        "11/8": {
+            "removed": 1.0
+        }, 
+        "12:00:00": {
+            "10/10/2007": 1.0
+        }, 
+        "2": {
+            "HCL": 1.0
+        }, 
+        "2.": {
+            "Q4H": 0.5, 
+            "recurs.": 0.5
+        }, 
+        "2mg": {
+            "(": 1.0
+        }, 
+        "3.": {
+            "QPM": 0.5, 
+            "recur.": 0.5
+        }, 
+        "3118849": {
+            "|": 1.0
+        }, 
+        "491962040": {
+            "": 1.0
+        }, 
+        "5-10": {
+            ")": 1.0
+        }, 
+        "600": {
+            "IBUPROFEN": 1.0
+        }, 
+        "64": {
+            "a": 1.0
+        }, 
+        "650": {
+            ")": 0.5, 
+            "ACETAMINOPHEN": 0.5
+        }, 
+        "71849528": {
+            "|": 1.0
+        }, 
+        "8/1/2007": {
+            "Date:": 1.0
+        }, 
+        "8/28": {
+            "On": 0.5, 
+            "U/S": 0.5
+        }, 
+        "8/8/07": {
+            ")": 0.5, 
+            "ON:": 0.5
+        }, 
+        "9/22": {
+            "in": 1.0
+        }, 
+        "9/9": {
+            "IR": 1.0
+        }, 
+        "964-00-11-9": {
+            "ANTONY": 1.0
+        }, 
+        ";Responsible": {
+            "DIAGNOSIS": 1.0
+        }, 
+        "?seroma.": {
+            "by": 1.0
+        }, 
+        "@": {
+            "8/8/07": 1.0
+        }, 
+        "ACETAMINOPHEN": {
+            "(": 0.5, 
+            "1.": 0.5
+        }, 
+        "ADDITIONAL": {
+            "hospitalization": 1.0
+        }, 
+        "ADMISSION:": {
+            "ON": 1.0
+        }, 
+        "ADMIT": {
+            "NKA": 1.0
+        }, 
+        "ALLERGY:": {
+            ",": 1.0
+        }, 
+        "AM": {
+            "04:30": 0.5, 
+            "12:00:00": 0.5
+        }, 
+        "AND": {
+            "OPERATIONS": 1.0
+        }, 
+        "ANTONY": {
+            ",": 1.0
+        }, 
+        "APPOINTMENT(": {
+            "UP": 1.0
+        }, 
+        "AS": {
+            "USED": 1.0
+        }, 
+        "AT": {
+            "8/8/07": 1.0
+        }, 
+        "Admission": {
+            "Causing": 0.5, 
+            "|": 0.5
+        }, 
+        "After": {
+            ";Responsible": 1.0
+        }, 
+        "Alban": {
+            "Gene": 1.0
+        }, 
+        "Allergies:": {
+            "-----": 1.0
+        }, 
+        "As": {
+            "woman.": 1.0
+        }, 
+        "Attending:": {
+            "YES": 1.0
+        }, 
+        "BE": {
+            "ORDER": 1.0
+        }, 
+        "BID": {
+            "PO": 1.0
+        }, 
+        "BOBSIN": {
+            "BY:": 1.0
+        }, 
+        "BRIEF": {
+            "abdomen": 1.0
+        }, 
+        "BY:": {
+            "ENTERED": 1.0
+        }, 
+        "Babic": {
+            "Kenton": 1.0
+        }, 
+        "Balt": {
+            "Modebeau": 1.0
+        }, 
+        "CA": {
+            "uterine": 1.0
+        }, 
+        "CODE": {
+            "M.D.": 1.0
+        }, 
+        "COLACE": {
+            "Headache": 1.0
+        }, 
+        "COMMENTS:": {
+            "ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            "DISCHARGE": 1.0
+        }, 
+        "CONTINGENT": {
+            "AM": 1.0
+        }, 
+        "COURSE:": {
+            "HOSPITAL": 1.0
+        }, 
+        "CTA": {
+            ",": 1.0
+        }, 
+        "Causing": {
+            "for": 1.0
+        }, 
+        "Clifton": {
+            "Dr.": 1.0
+        }, 
+        "Complications": {
+            ",": 1.0
+        }, 
+        "D/C": {
+            "THE": 0.5, 
+            "WILL": 0.5
+        }, 
+        "DIAGNOSIS": {
+            "DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "OTHER": 1.0
+        }, 
+        "DIET:": {
+            "Pain": 1.0
+        }, 
+        "DIS": {
+            "|": 1.0
+        }, 
+        "DISCHARGE": {
+            "FINAL": 0.2, 
+            "OF": 0.2, 
+            "ONC": 0.2, 
+            "PRINCIPAL": 0.2, 
+            "interested.": 0.2
+        }, 
+        "DISCHARGE:": {
+            "ON": 1.0
+        }, 
+        "DISPOSITION:": {
+            "code": 1.0
+        }, 
+        "DO/PLAN:": {
+            "TO": 1.0
+        }, 
+        "DOCUSATE": {
+            "(": 1.0
+        }, 
+        "DVT": {
+            "for": 1.0
+        }, 
+        "Date:": {
+            "Admission": 0.5, 
+            "Discharge": 0.5
+        }, 
+        "Deangelo": {
+            ",": 1.0
+        }, 
+        "Discharge": {
+            "Status:": 1.0
+        }, 
+        "Dr.": {
+            "):": 0.3333333333333333, 
+            "with": 0.6666666666666666
+        }, 
+        "Drain": {
+            "Iliopsoas": 0.3333333333333333, 
+            "benign.": 0.3333333333333333, 
+            "infection.": 0.3333333333333333
+        }, 
+        "END": {
+            "******": 1.0
+        }, 
+        "ENTERED": {
+            "summary": 1.0
+        }, 
+        "Epa": {
+            "Rouge": 1.0
+        }, 
+        "F/U": {
+            "DO/PLAN:": 1.0
+        }, 
+        "F/u": {
+            "needed.": 1.0
+        }, 
+        "FILIBERTO": {
+            ",": 1.0
+        }, 
+        "FINAL": {
+            "******": 1.0
+        }, 
+        "FOLLOW": {
+            "Immediately": 1.0
+        }, 
+        "Fluid": {
+            "11/8": 1.0
+        }, 
+        "Following": {
+            "morphine.": 1.0
+        }, 
+        "Food/Drug": {
+            "Pain": 1.0
+        }, 
+        "Full": {
+            "STATUS:": 1.0
+        }, 
+        "G.": {
+            "NELSON": 1.0
+        }, 
+        "GUIDICE": {
+            "******": 1.0
+        }, 
+        "Gene": {
+            "Dr.": 1.0
+        }, 
+        "Given": {
+            "pain:": 1.0
+        }, 
+        "H/O": {
+            "Treatment/Stay": 1.0
+        }, 
+        "HCL": {
+            "HYDROMORPHONE": 1.0
+        }, 
+        "HO": {
+            "UPON": 1.0
+        }, 
+        "HOSPITAL": {
+            "OF": 1.0
+        }, 
+        "HPI:": {
+            "COURSE:": 1.0
+        }, 
+        "HYDROMORPHONE": {
+            "2.": 1.0
+        }, 
+        "Hahaybrid": {
+            "964-00-11-9": 1.0
+        }, 
+        "Headache": {
+            "PRN": 1.0
+        }, 
+        "Home": {
+            "DISPOSITION:": 1.0
+        }, 
+        "Hospital": {
+            "------": 1.0
+        }, 
+        "IBUPROFEN": {
+            "3.": 0.5, 
+            "BID": 0.5
+        }, 
+        "IMA": {
+            ",": 1.0
+        }, 
+        "IMMEDIATE": {
+            "MORPHINE": 1.0
+        }, 
+        "IN": {
+            "NOT": 1.0
+        }, 
+        "IR": {
+            "by": 1.0
+        }, 
+        "IR's": {
+            "per": 1.0
+        }, 
+        "IV": {
+            "by": 0.5, 
+            "of": 0.5
+        }, 
+        "IVC": {
+            "MRV:": 1.0
+        }, 
+        "Ibuprofen": {
+            "Meds:": 1.0
+        }, 
+        "If": {
+            "COMMENTS:": 0.3333333333333333, 
+            "drainage.": 0.3333333333333333, 
+            "oncologist.": 0.3333333333333333
+        }, 
+        "Iliopsoas": {
+            "PROCEDURES:": 1.0
+        }, 
+        "Immediately": {
+            "WORK:": 1.0
+        }, 
+        "Infections": {
+            ",": 1.0
+        }, 
+        "Ingdown": {
+            "Hahaybrid": 1.0
+        }, 
+        "Instruction": {
+            "Interaction": 1.0
+        }, 
+        "Interaction": {
+            "Food/Drug": 1.0
+        }, 
+        "Kenton": {
+            "with": 1.0
+        }, 
+        "Key": {
+            "--------": 1.0
+        }, 
+        "Kidneys": {
+            "unremarkable.": 1.0
+        }, 
+        "L": {
+            "the": 1.0
+        }, 
+        "LLE": {
+            ",": 0.3333333333333333, 
+            "1.": 0.3333333333333333, 
+            "the": 0.3333333333333333
+        }, 
+        "LOVETINSKY": {
+            "Attending:": 1.0
+        }, 
+        "LR29": {
+            "(": 1.0
+        }, 
+        "Large": {
+            "perfusion.": 1.0
+        }, 
+        "Left": {
+            "patient.": 1.0
+        }, 
+        "Leygilb": {
+            "Room:": 1.0
+        }, 
+        "Liver": {
+            "finding:": 1.0
+        }, 
+        "M.D.": {
+            ",": 1.0
+        }, 
+        "MEDICATIONS": {
+            "Home": 0.5, 
+            "TID": 0.5
+        }, 
+        "MG": {
+            "100": 0.14285714285714285, 
+            "2": 0.14285714285714285, 
+            "5-10": 0.14285714285714285, 
+            "600": 0.2857142857142857, 
+            "650": 0.2857142857142857
+        }, 
+        "MORPHINE": {
+            "(": 1.0
+        }, 
+        "MRA/MRV/MRI:": {
+            "iliopsoas": 1.0
+        }, 
+        "MRA:": {
+            "MRA/MRV/MRI:": 1.0
+        }, 
+        "MRI": {
+            "the": 1.0
+        }, 
+        "MRI/MRV": {
+            ")": 1.0
+        }, 
+        "MRV:": {
+            "visualized.": 1.0
+        }, 
+        "MSIR": {
+            "dose": 0.3333333333333333, 
+            "food": 0.3333333333333333, 
+            "for": 0.3333333333333333
+        }, 
+        "Meds:": {
+            "-----": 1.0
+        }, 
+        "Modebeau": {
+            "Ingdown": 1.0
+        }, 
+        "Multiple": {
+            "pain.": 1.0
+        }, 
+        "NELSON": {
+            ",": 1.0
+        }, 
+        "NKA": {
+            "ALLERGY:": 1.0
+        }, 
+        "NKDA": {
+            "Allergies:": 1.0
+        }, 
+        "NOT": {
+            "(": 1.0
+        }, 
+        "No": {
+            "?seroma.": 0.3333333333333333, 
+            "DIET:": 0.3333333333333333, 
+            "fluid.": 0.3333333333333333
+        }, 
+        "Normal": {
+            "MRA:": 1.0
+        }, 
+        "O.R.": {
+            "IN": 1.0
+        }, 
+        "OA": {
+            ",": 1.0
+        }, 
+        "OF": {
+            "END": 0.5, 
+            "RESUME": 0.5
+        }, 
+        "ON": {
+            "MEDICATIONS": 1.0
+        }, 
+        "ON:": {
+            "PATIENT": 1.0
+        }, 
+        "ONC": {
+            "Service:": 1.0
+        }, 
+        "OPERATIONS": {
+            "cancer": 1.0
+        }, 
+        "ORDER": {
+            "D/C": 1.0
+        }, 
+        "ORDERS": {
+            "DISCHARGE": 1.0
+        }, 
+        "OTHER": {
+            "Placement": 0.5, 
+            "Seroma": 0.5
+        }, 
+        "On": {
+            "effect.": 1.0
+        }, 
+        "Oncology": {
+            "Ortho": 0.5, 
+            "Orthopedic": 0.5
+        }, 
+        "Ortho": {
+            "(": 1.0
+        }, 
+        "Orthopedic": {
+            "by": 0.5, 
+            "in": 0.5
+        }, 
+        "Other": {
+            "idenitified": 1.0
+        }, 
+        "P.": {
+            "FILIBERTO": 1.0
+        }, 
+        "PATIENT": {
+            "DISCHARGE": 1.0
+        }, 
+        "PMH:": {
+            "---": 1.0
+        }, 
+        "PO": {
+            "MG": 1.0
+        }, 
+        "PRINCIPAL": {
+            "seroma": 1.0
+        }, 
+        "PRN": {
+            "Ibuprofen": 0.16666666666666666, 
+            "Q4H": 0.3333333333333333, 
+            "Q6H": 0.16666666666666666, 
+            "dilaudid": 0.16666666666666666, 
+            "tylenol": 0.16666666666666666
+        }, 
+        "PROCEDURES:": {
+            "AND": 1.0
+        }, 
+        "Pain": {
+            "2.": 0.3333333333333333, 
+            "PRN": 0.6666666666666666
+        }, 
+        "Patient": {
+            "HPI:": 0.3333333333333333, 
+            "Prophylaxis:": 0.3333333333333333, 
+            "lovenox.": 0.3333333333333333
+        }, 
+        "Patient's": {
+            "control:": 1.0
+        }, 
+        "Placement": {
+            "Drain": 1.0
+        }, 
+        "Prophylaxis:": {
+            "3.": 1.0
+        }, 
+        "Q4-6": {
+            "2mg": 1.0
+        }, 
+        "Q4H": {
+            "PO": 1.0
+        }, 
+        "Q6H": {
+            "PO": 1.0
+        }, 
+        "QPM": {
+            "PO": 1.0
+        }, 
+        "RELEASE": {
+            "IMMEDIATE": 1.0
+        }, 
+        "RESUME": {
+            "BRIEF": 1.0
+        }, 
+        "RETURN": {
+            "Restrictions": 1.0
+        }, 
+        "RRR": {
+            ",": 1.0
+        }, 
+        "Recommended": {
+            "free.": 1.0
+        }, 
+        "Report": {
+            "10/17/2007": 1.0
+        }, 
+        "Restrictions": {
+            "No": 1.0
+        }, 
+        "Room:": {
+            "Epa": 1.0
+        }, 
+        "Rouge": {
+            "Balt": 1.0
+        }, 
+        "S": {
+            "APPOINTMENT(": 1.0
+        }, 
+        "SMA": {
+            ",": 1.0
+        }, 
+        "SODIUM": {
+            "DOCUSATE": 1.0
+        }, 
+        "STATUS:": {
+            "CODE": 1.0
+        }, 
+        "SUMMARY:": {
+            "D/C": 1.0
+        }, 
+        "Satisfactory": {
+            "CONDITION:": 1.0
+        }, 
+        "Seroma": {
+            ")": 0.5, 
+            "|": 0.5
+        }, 
+        "Service:": {
+            "Woodpor": 1.0
+        }, 
+        "She": {
+            "pain.": 0.5, 
+            "thrombocytopenia.": 0.5
+        }, 
+        "Solymani": {
+            "Deangelo": 1.0
+        }, 
+        "Status:": {
+            "-------": 0.5, 
+            "Report": 0.5
+        }, 
+        "Study": {
+            "After": 1.0
+        }, 
+        "Surgery": {
+            "Orthopedic": 1.0
+        }, 
+        "THE": {
+            "AS": 1.0
+        }, 
+        "TID": {
+            "PO": 1.0
+        }, 
+        "TO": {
+            "RETURN": 0.5, 
+            "Satisfactory": 0.5
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "OTHER": 1.0
+        }, 
+        "TYLENOL": {
+            "DISCHARGE:": 1.0
+        }, 
+        "Take": {
+            "Instruction": 1.0
+        }, 
+        "The": {
+            "patient.": 1.0
+        }, 
+        "There": {
+            "muscle.": 1.0
+        }, 
+        "They": {
+            "care.": 1.0
+        }, 
+        "Treatment/Stay": {
+            "affecting": 1.0
+        }, 
+        "U/S": {
+            "an": 0.5, 
+            "studies:": 0.5
+        }, 
+        "UP": {
+            "FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "CONTINGENT": 1.0
+        }, 
+        "USED": {
+            "BE": 1.0
+        }, 
+        "Uterine": {
+            "DIAGNOSIS:": 1.0
+        }, 
+        "VMC": {
+            "|": 1.0
+        }, 
+        "VSS": {
+            ",": 1.0
+        }, 
+        "WILL": {
+            "evaluation": 1.0
+        }, 
+        "WORK:": {
+            "TO": 1.0
+        }, 
+        "Walkner": {
+            "Clifton": 1.0
+        }, 
+        "Will": {
+            ").": 1.0
+        }, 
+        "Woodpor": {
+            "Leygilb": 1.0
+        }, 
+        "YES": {
+            "SUMMARY:": 1.0
+        }, 
+        "You": {
+            "physician": 0.5, 
+            "plan.": 0.5
+        }, 
+        "Zaborowski": {
+            "Dr.": 1.0
+        }, 
+        "a": {
+            "but": 0.14285714285714285, 
+            "for": 0.14285714285714285, 
+            "is": 0.14285714285714285, 
+            "of": 0.14285714285714285, 
+            "to": 0.2857142857142857, 
+            "with": 0.14285714285714285
+        }, 
+        "abd": {
+            "b/l.": 1.0
+        }, 
+        "abdomen": {
+            "the": 1.0
+        }, 
+        "acutely": {
+            "done": 1.0
+        }, 
+        "adjacent": {
+            "seroma/hematoma": 1.0
+        }, 
+        "admission": {
+            "this": 1.0
+        }, 
+        "admitted": {
+            "was": 1.0
+        }, 
+        "adrenal": {
+            "bilateral": 1.0
+        }, 
+        "afebrile": {
+            "Status:": 1.0
+        }, 
+        "affecting": {
+            ",": 1.0
+        }, 
+        "after": {
+            ")": 1.0
+        }, 
+        "again": {
+            "was": 1.0
+        }, 
+        "agent": {
+            "single": 1.0
+        }, 
+        "an": {
+            "revleaed": 0.5, 
+            "underwent": 0.5
+        }, 
+        "and": {
+            "9/9": 0.05, 
+            "acutely": 0.05, 
+            "carboplatin": 0.05, 
+            "cells": 0.05, 
+            "comfortable": 0.05, 
+            "control": 0.05, 
+            "drained": 0.05, 
+            "edema": 0.1, 
+            "edematous": 0.05, 
+            "ibuprofen": 0.05, 
+            "iliac": 0.1, 
+            "iliopsoas": 0.05, 
+            "joint": 0.05, 
+            "myelosupression": 0.05, 
+            "pain": 0.05, 
+            "recently": 0.05, 
+            "size": 0.05, 
+            "taxol": 0.05
+        }, 
+        "aorta": {
+            "Normal": 1.0
+        }, 
+        "are": {
+            "Kidneys": 0.16666666666666666, 
+            "arteries": 0.16666666666666666, 
+            "glands": 0.16666666666666666, 
+            "vein": 0.16666666666666666, 
+            "veins": 0.16666666666666666, 
+            "you": 0.16666666666666666
+        }, 
+        "arteries": {
+            "iliac": 0.5, 
+            "renal": 0.5
+        }, 
+        "asked": {
+            "we": 1.0
+        }, 
+        "associated": {
+            "be": 1.0
+        }, 
+        "atypical": {
+            "revelaed": 1.0
+        }, 
+        "b/l.": {
+            "CTA": 1.0
+        }, 
+        "based": {
+            "infection": 1.0
+        }, 
+        "be": {
+            "Will": 0.3333333333333333, 
+            "could": 0.3333333333333333, 
+            "to": 0.3333333333333333
+        }, 
+        "been": {
+            "had": 1.0
+        }, 
+        "benign.": {
+            "abd": 1.0
+        }, 
+        "bilateral": {
+            ",": 1.0
+        }, 
+        "breath": {
+            "of": 1.0
+        }, 
+        "but": {
+            ",": 1.0
+        }, 
+        "by": {
+            "compression": 0.25, 
+            "controlled": 0.25, 
+            "placed": 0.25, 
+            "seen": 0.25
+        }, 
+        "caliber": {
+            "in": 1.0
+        }, 
+        "cancer": {
+            "Uterine": 0.5, 
+            "uterine": 0.5
+        }, 
+        "carboplatin": {
+            "of": 1.0
+        }, 
+        "care.": {
+            "patient's": 1.0
+        }, 
+        "celiac": {
+            "of": 1.0
+        }, 
+        "cell": {
+            "clear": 1.0
+        }, 
+        "cells": {
+            "atypical": 1.0
+        }, 
+        "chill": {
+            "or": 1.0
+        }, 
+        "clear": {
+            "H/O": 0.5, 
+            "with": 0.5
+        }, 
+        "code": {
+            "Full": 0.5, 
+            "full": 0.5
+        }, 
+        "colleagues": {
+            "our": 1.0
+        }, 
+        "collected": {
+            "fluid": 1.0
+        }, 
+        "collection": {
+            "fluid": 0.8333333333333334, 
+            "pain/fluid": 0.16666666666666666
+        }, 
+        "comfortable": {
+            "more": 1.0
+        }, 
+        "common": {
+            "The": 1.0
+        }, 
+        "compression": {
+            "to": 1.0
+        }, 
+        "concern": {
+            "a": 1.0
+        }, 
+        "consistet": {
+            "thought": 1.0
+        }, 
+        "contact": {
+            "should": 1.0
+        }, 
+        "contct": {
+            "should": 1.0
+        }, 
+        "control": {
+            "pain": 1.0
+        }, 
+        "control:": {
+            "Pain": 1.0
+        }, 
+        "controlled": {
+            "well": 1.0
+        }, 
+        "could": {
+            "she": 0.3333333333333333, 
+            "that": 0.3333333333333333, 
+            "you": 0.3333333333333333
+        }, 
+        "course/A&P": {
+            "Hospital": 1.0
+        }, 
+        "cycles": {
+            ",": 1.0
+        }, 
+        "cyctic": {
+            "11.5x5.5x2.7": 1.0
+        }, 
+        "cystic": {
+            "a": 1.0
+        }, 
+        "cytology/gram": {
+            "of": 1.0
+        }, 
+        "day": {
+            "one": 1.0
+        }, 
+        "determine": {
+            "to": 1.0
+        }, 
+        "diagnosed": {
+            "originally": 1.0
+        }, 
+        "dictated": {
+            "No": 1.0
+        }, 
+        "dilaudid": {
+            ",": 1.0
+        }, 
+        "discharged": {
+            "be": 1.0
+        }, 
+        "done": {
+            "be": 1.0
+        }, 
+        "dose": {
+            "low": 0.5, 
+            "one": 0.5
+        }, 
+        "dosed": {
+            "prophylactic": 0.5, 
+            "therapeutically": 0.5
+        }, 
+        "doxil": {
+            "agent": 1.0
+        }, 
+        "drain": {
+            "after": 0.5, 
+            "reaccumulation": 0.5
+        }, 
+        "drainage": {
+            "Following": 0.5, 
+            "for": 0.5
+        }, 
+        "drainage.": {
+            "this": 1.0
+        }, 
+        "drained": {
+            "been": 0.3333333333333333, 
+            "for": 0.3333333333333333, 
+            "was": 0.3333333333333333
+        }, 
+        "draining": {
+            "groin": 1.0
+        }, 
+        "due": {
+            "caliber": 0.5, 
+            "removed": 0.5
+        }, 
+        "during": {
+            "Surgery": 1.0
+        }, 
+        "edema": {
+            "LLE": 0.3333333333333333, 
+            "extremity": 0.3333333333333333, 
+            "leg": 0.3333333333333333
+        }, 
+        "edematous": {
+            "LLE": 1.0
+        }, 
+        "effect.": {
+            "radiation": 1.0
+        }, 
+        "evaluation": {
+            "HO": 0.5, 
+            "further": 0.5
+        }, 
+        "evidence": {
+            "no": 1.0
+        }, 
+        "external": {
+            "common": 1.0
+        }, 
+        "extremity": {
+            "lower": 1.0
+        }, 
+        "femoral": {
+            "and": 0.5, 
+            "superficial": 0.5
+        }, 
+        "fevers": {
+            "have": 1.0
+        }, 
+        "final": {
+            "F/u": 1.0
+        }, 
+        "finding:": {
+            "Other": 1.0
+        }, 
+        "fluid": {
+            "Large": 0.14285714285714285, 
+            "and": 0.14285714285714285, 
+            "her": 0.14285714285714285, 
+            "iliopsoas": 0.14285714285714285, 
+            "sterile": 0.14285714285714285, 
+            "the": 0.2857142857142857
+        }, 
+        "fluid.": {
+            "drained": 0.5, 
+            "serosanguinous": 0.5
+        }, 
+        "follow": {
+            "could": 1.0
+        }, 
+        "food": {
+            "with": 1.0
+        }, 
+        "for": {
+            "Study": 0.1111111111111111, 
+            "Walkner": 0.1111111111111111, 
+            "admitted": 0.1111111111111111, 
+            "concern": 0.1111111111111111, 
+            "negative": 0.1111111111111111, 
+            "prescription": 0.1111111111111111, 
+            "recommendations": 0.1111111111111111, 
+            "stain": 0.1111111111111111, 
+            "treated": 0.1111111111111111
+        }, 
+        "free.": {
+            "pain": 1.0
+        }, 
+        "from": {
+            "collected": 0.5, 
+            "iliopsoas": 0.5
+        }, 
+        "full": {
+            "remained": 1.0
+        }, 
+        "further": {
+            "for": 1.0
+        }, 
+        "future": {
+            "the": 1.0
+        }, 
+        "given": {
+            "doxil": 0.3333333333333333, 
+            "particularly": 0.3333333333333333, 
+            "term": 0.3333333333333333
+        }, 
+        "glands": {
+            "adrenal": 1.0
+        }, 
+        "groin": {
+            "and": 0.5, 
+            "left": 0.25, 
+            "worsening": 0.25
+        }, 
+        "had": {
+            "They": 0.3333333333333333, 
+            "collection": 0.3333333333333333, 
+            "she": 0.3333333333333333
+        }, 
+        "have": {
+            "studies": 0.3333333333333333, 
+            "you": 0.6666666666666666
+        }, 
+        "having": {
+            "were": 1.0
+        }, 
+        "her": {
+            "if": 0.25, 
+            "should": 0.25, 
+            "that": 0.5
+        }, 
+        "hospitalization": {
+            "this": 1.0
+        }, 
+        "hrs": {
+            "Q4-6": 1.0
+        }, 
+        "hypercholesterolemia": {
+            "PMH:": 1.0
+        }, 
+        "hysterectomy": {
+            "post": 1.0
+        }, 
+        "ibuprofen": {
+            "with": 1.0
+        }, 
+        "idenitified": {
+            "thrombus": 1.0
+        }, 
+        "if": {
+            "Oncology": 0.3333333333333333, 
+            "evaluation": 0.3333333333333333, 
+            "onc": 0.3333333333333333
+        }, 
+        "iliac": {
+            "Left": 0.3333333333333333, 
+            "bilateral": 0.3333333333333333, 
+            "internal": 0.3333333333333333
+        }, 
+        "iliopsoas": {
+            ",": 0.16666666666666666, 
+            "L": 0.16666666666666666, 
+            "an": 0.16666666666666666, 
+            "left": 0.16666666666666666, 
+            "the": 0.16666666666666666, 
+            "your": 0.16666666666666666
+        }, 
+        "iliopsoas.": {
+            "the": 1.0
+        }, 
+        "imaging.": {
+            "and": 1.0
+        }, 
+        "in": {
+            "Alban": 0.09090909090909091, 
+            "colleagues": 0.09090909090909091, 
+            "collection": 0.09090909090909091, 
+            "diagnosed": 0.09090909090909091, 
+            "increased": 0.09090909090909091, 
+            "infection": 0.09090909090909091, 
+            "normal": 0.09090909090909091, 
+            "noted": 0.09090909090909091, 
+            "participate": 0.09090909090909091, 
+            "small": 0.09090909090909091, 
+            "structure": 0.09090909090909091
+        }, 
+        "increased": {
+            "leg": 1.0
+        }, 
+        "infection": {
+            "joint": 0.3333333333333333, 
+            "of": 0.6666666666666666
+        }, 
+        "infection.": {
+            "of": 1.0
+        }, 
+        "insertion": {
+            "the": 1.0
+        }, 
+        "interested.": {
+            "are": 1.0
+        }, 
+        "internal": {
+            ",": 1.0
+        }, 
+        "is": {
+            "Patient": 1.0
+        }, 
+        "it's": {
+            "given": 1.0
+        }, 
+        "joint": {
+            "a": 0.6666666666666666, 
+            "sacroiliac": 0.3333333333333333
+        }, 
+        "left": {
+            "Drain": 0.3333333333333333, 
+            "in": 0.3333333333333333, 
+            "of": 0.3333333333333333
+        }, 
+        "leg": {
+            "her": 0.5, 
+            "your": 0.5
+        }, 
+        "leg/groin": {
+            "your": 1.0
+        }, 
+        "lovenox": {
+            "dosed": 1.0
+        }, 
+        "lovenox.": {
+            "dosed": 1.0
+        }, 
+        "low": {
+            "and": 1.0
+        }, 
+        "lower": {
+            "left": 1.0
+        }, 
+        "minimal": {
+            "(": 1.0
+        }, 
+        "more": {
+            "much": 1.0
+        }, 
+        "morphine": {
+            "IV": 1.0
+        }, 
+        "morphine.": {
+            "IV": 1.0
+        }, 
+        "much": {
+            "was": 1.0
+        }, 
+        "muscle.": {
+            "iliopsoas": 1.0
+        }, 
+        "myelosupression": {
+            "given": 1.0
+        }, 
+        "nausea/vomiting": {
+            ",": 1.0
+        }, 
+        "needed": {
+            "nothing": 1.0
+        }, 
+        "needed.": {
+            "if": 1.0
+        }, 
+        "negative": {
+            "was": 1.0
+        }, 
+        "no": {
+            "had": 0.3333333333333333, 
+            "was": 0.3333333333333333, 
+            "with": 0.3333333333333333
+        }, 
+        "normal": {
+            "are": 1.0
+        }, 
+        "not": {
+            "IMA": 1.0
+        }, 
+        "noted": {
+            "again": 0.3333333333333333, 
+            "patient": 0.3333333333333333, 
+            "she": 0.3333333333333333
+        }, 
+        "nothing": {
+            "that": 1.0
+        }, 
+        "now": {
+            "-": 1.0
+        }, 
+        "of": {
+            "MRI/MRV": 0.058823529411764705, 
+            "U/S": 0.058823529411764705, 
+            "cycles": 0.058823529411764705, 
+            "day": 0.058823529411764705, 
+            "dose": 0.058823529411764705, 
+            "drainage": 0.058823529411764705, 
+            "evidence": 0.11764705882352941, 
+            "infection": 0.058823529411764705, 
+            "insertion": 0.058823529411764705, 
+            "progression": 0.058823529411764705, 
+            "read": 0.058823529411764705, 
+            "results": 0.058823529411764705, 
+            "risk": 0.058823529411764705, 
+            "segments": 0.058823529411764705, 
+            "shortness": 0.058823529411764705, 
+            "worsening": 0.058823529411764705
+        }, 
+        "on": {
+            "based": 1.0
+        }, 
+        "onc": {
+            "ortho": 1.0
+        }, 
+        "oncologist": {
+            "primary": 1.0
+        }, 
+        "oncologist.": {
+            "your": 1.0
+        }, 
+        "one": {
+            "received": 0.5, 
+            "required": 0.5
+        }, 
+        "only": {
+            "placement-": 1.0
+        }, 
+        "or": {
+            ",": 0.6666666666666666, 
+            "fevers": 0.3333333333333333
+        }, 
+        "originally": {
+            "CA": 1.0
+        }, 
+        "ortho": {
+            "-": 1.0
+        }, 
+        "orthopedics": {
+            "in": 1.0
+        }, 
+        "our": {
+            "asked": 1.0
+        }, 
+        "pain": {
+            ",": 0.14285714285714285, 
+            "Given": 0.14285714285714285, 
+            "Patient's": 0.14285714285714285, 
+            "her": 0.14285714285714285, 
+            "leg/groin": 0.14285714285714285, 
+            "the": 0.14285714285714285, 
+            "was": 0.14285714285714285
+        }, 
+        "pain.": {
+            "groin": 1.0
+        }, 
+        "pain/fluid": {
+            "her": 1.0
+        }, 
+        "pain:": {
+            "groin": 1.0
+        }, 
+        "participate": {
+            "to": 1.0
+        }, 
+        "particularly": {
+            ",": 1.0
+        }, 
+        "patent": {
+            "wiedely": 1.0
+        }, 
+        "patient": {
+            "the": 1.0
+        }, 
+        "patient's": {
+            "this": 1.0
+        }, 
+        "patient.": {
+            "are": 0.5, 
+            "widely": 0.5
+        }, 
+        "pending": {
+            "lovenox": 1.0
+        }, 
+        "per": {
+            "As": 1.0
+        }, 
+        "perfusion.": {
+            "symmetric": 1.0
+        }, 
+        "physician": {
+            "your": 1.0
+        }, 
+        "placed": {
+            "drain": 1.0
+        }, 
+        "placement-": {
+            "drain": 1.0
+        }, 
+        "plan.": {
+            "treatment": 1.0
+        }, 
+        "post": {
+            "status": 1.0
+        }, 
+        "prescription": {
+            "with": 1.0
+        }, 
+        "presents": {
+            "She": 1.0
+        }, 
+        "previously": {
+            "and": 1.0
+        }, 
+        "primary": {
+            "your": 1.0
+        }, 
+        "progression": {
+            "with": 1.0
+        }, 
+        "prophylactic": {
+            "to": 1.0
+        }, 
+        "proximal": {
+            ",": 0.5, 
+            "and": 0.5
+        }, 
+        "proximity": {
+            "relative": 1.0
+        }, 
+        "radiation": {
+            ",": 0.5, 
+            "with": 0.5
+        }, 
+        "reaccumulation": {
+            "fluid": 1.0
+        }, 
+        "read": {
+            "the": 1.0
+        }, 
+        "received": {
+            "Patient": 1.0
+        }, 
+        "recently": {
+            "drained": 1.0
+        }, 
+        "recommendation": {
+            "their": 1.0
+        }, 
+        "recommendations": {
+            "IR's": 0.5, 
+            "no": 0.5
+        }, 
+        "recur.": {
+            "pain": 1.0
+        }, 
+        "recurs": {
+            "having": 1.0
+        }, 
+        "recurs.": {
+            "collection": 1.0
+        }, 
+        "relative": {
+            "it's": 1.0
+        }, 
+        "remained": {
+            "Patient": 1.0
+        }, 
+        "removed": {
+            "and": 0.5, 
+            "was": 0.5
+        }, 
+        "renal": {
+            "bilateral": 0.5, 
+            "solitary": 0.5
+        }, 
+        "required": {
+            "only": 1.0
+        }, 
+        "requirement": {
+            "minimal": 1.0
+        }, 
+        "results": {
+            "final": 1.0
+        }, 
+        "revelaed": {
+            "previously": 1.0
+        }, 
+        "revleaed": {
+            "have": 1.0
+        }, 
+        "risk": {
+            "the": 1.0
+        }, 
+        "risks": {
+            "the": 1.0
+        }, 
+        "sacroiliac": {
+            "the": 1.0
+        }, 
+        "seen": {
+            "were": 1.0
+        }, 
+        "segments": {
+            "proximal": 1.0
+        }, 
+        "seroma": {
+            "iliopsoas": 1.0
+        }, 
+        "seroma/hematoma": {
+            "a": 1.0
+        }, 
+        "serosanguinous": {
+            "draining": 1.0
+        }, 
+        "she": {
+            "8/28": 0.16666666666666666, 
+            "and": 0.3333333333333333, 
+            "collection": 0.16666666666666666, 
+            "that": 0.3333333333333333
+        }, 
+        "short": {
+            "the": 1.0
+        }, 
+        "shortness": {
+            "or": 1.0
+        }, 
+        "should": {
+            "MSIR": 0.25, 
+            "you": 0.75
+        }, 
+        "single": {
+            "then": 1.0
+        }, 
+        "size": {
+            "in": 1.0
+        }, 
+        "small": {
+            "are": 1.0
+        }, 
+        "solitary": {
+            "bilateral": 1.0
+        }, 
+        "spleen": {
+            ",": 1.0
+        }, 
+        "stain": {
+            "cytology/gram": 1.0
+        }, 
+        "status": {
+            "now": 1.0
+        }, 
+        "sterile": {
+            "a": 0.5, 
+            "was": 0.5
+        }, 
+        "struction": {
+            "cystic": 1.0
+        }, 
+        "structure": {
+            "cyctic": 1.0
+        }, 
+        "studies": {
+            "Multiple": 1.0
+        }, 
+        "studies:": {
+            "Key": 1.0
+        }, 
+        "summary": {
+            "dictated": 1.0
+        }, 
+        "superficial": {
+            "proximal": 1.0
+        }, 
+        "switched": {
+            "then": 1.0
+        }, 
+        "symmetric": {
+            ",": 1.0
+        }, 
+        "taxol": {
+            "and": 1.0
+        }, 
+        "tense": {
+            "and": 1.0
+        }, 
+        "term": {
+            "short": 1.0
+        }, 
+        "that": {
+            "Recommended": 0.14285714285714285, 
+            "and": 0.14285714285714285, 
+            "given": 0.14285714285714285, 
+            "noted": 0.2857142857142857, 
+            "risks": 0.14285714285714285, 
+            "was": 0.14285714285714285
+        }, 
+        "the": {
+            "If": 0.058823529411764705, 
+            "and": 0.11764705882352941, 
+            "determine": 0.058823529411764705, 
+            "for": 0.11764705882352941, 
+            "from": 0.058823529411764705, 
+            "in": 0.11764705882352941, 
+            "of": 0.29411764705882354, 
+            "on": 0.058823529411764705, 
+            "pending": 0.058823529411764705, 
+            "to": 0.058823529411764705
+        }, 
+        "their": {
+            "-": 1.0
+        }, 
+        "then": {
+            "-": 0.5, 
+            "and": 0.5
+        }, 
+        "therapeutically": {
+            "of": 1.0
+        }, 
+        "this": {
+            "during": 0.2, 
+            "from": 0.2, 
+            "in": 0.4, 
+            "throughout": 0.2
+        }, 
+        "thought": {
+            "were": 1.0
+        }, 
+        "thrombocytopenia.": {
+            "and": 1.0
+        }, 
+        "thrombus": {
+            "No": 1.0
+        }, 
+        "throughout": {
+            "code": 1.0
+        }, 
+        "to": {
+            "adjacent": 0.1111111111111111, 
+            "due": 0.2222222222222222, 
+            "joint": 0.1111111111111111, 
+            "needed": 0.1111111111111111, 
+            "oncologist": 0.1111111111111111, 
+            "orthopedics": 0.1111111111111111, 
+            "proximity": 0.1111111111111111, 
+            "switched": 0.1111111111111111
+        }, 
+        "treated": {
+            "were": 1.0
+        }, 
+        "treatment": {
+            "future": 1.0
+        }, 
+        "trunk": {
+            "celiac": 1.0
+        }, 
+        "tylenol": {
+            ",": 1.0
+        }, 
+        "underwent": {
+            "she": 1.0
+        }, 
+        "unremarkable.": {
+            "are": 1.0
+        }, 
+        "up": {
+            "follow": 1.0
+        }, 
+        "uterine": {
+            "cell": 1.0
+        }, 
+        "vein": {
+            "femoral": 1.0
+        }, 
+        "veins": {
+            "femoral": 0.5, 
+            "renal": 0.5
+        }, 
+        "visualized.": {
+            "well": 1.0
+        }, 
+        "was": {
+            "Drain": 0.08333333333333333, 
+            "Fluid": 0.08333333333333333, 
+            "She": 0.08333333333333333, 
+            "There": 0.08333333333333333, 
+            "and": 0.08333333333333333, 
+            "pain": 0.08333333333333333, 
+            "recommendation": 0.08333333333333333, 
+            "she": 0.16666666666666666, 
+            "struction": 0.08333333333333333, 
+            "which": 0.16666666666666666
+        }, 
+        "we": {
+            ",": 1.0
+        }, 
+        "well": {
+            "not": 0.3333333333333333, 
+            "was": 0.6666666666666666
+        }, 
+        "were": {
+            "You": 0.5, 
+            "and": 0.25, 
+            "you": 0.25
+        }, 
+        "which": {
+            "LLE": 0.5, 
+            "collection": 0.5
+        }, 
+        "widely": {
+            "are": 1.0
+        }, 
+        "wiedely": {
+            "arteries": 1.0
+        }, 
+        "with": {
+            "F/U": 0.09090909090909091, 
+            "Take": 0.09090909090909091, 
+            "associated": 0.09090909090909091, 
+            "consistet": 0.09090909090909091, 
+            "controlled": 0.09090909090909091, 
+            "discharged": 0.09090909090909091, 
+            "presents": 0.09090909090909091, 
+            "sterile": 0.09090909090909091, 
+            "up": 0.18181818181818182, 
+            "woman": 0.09090909090909091
+        }, 
+        "woman": {
+            "yo": 1.0
+        }, 
+        "woman.": {
+            "this": 1.0
+        }, 
+        "worsening": {
+            "had": 0.5, 
+            "have": 0.5
+        }, 
+        "worsens": {
+            "edema": 1.0
+        }, 
+        "yo": {
+            "64": 1.0
+        }, 
+        "you": {
+            ",": 0.375, 
+            "If": 0.25, 
+            "if": 0.125, 
+            "pain": 0.125, 
+            "that": 0.125
+        }, 
+        "your": {
+            "contact": 0.3333333333333333, 
+            "contct": 0.16666666666666666, 
+            "of": 0.16666666666666666, 
+            "or": 0.16666666666666666, 
+            "to": 0.16666666666666666
+        }, 
+        "|": {
+            "3118849": 0.1111111111111111, 
+            "491962040": 0.1111111111111111, 
+            "71849528": 0.1111111111111111, 
+            "AM": 0.1111111111111111, 
+            "DIS": 0.1111111111111111, 
+            "Seroma": 0.1111111111111111, 
+            "VMC": 0.1111111111111111, 
+            "|": 0.2222222222222222
+        }
+    }, 
+    "id": "714", 
+    "text": " 491962040 | VMC | 71849528 | | 3118849 | 10/10/2007 12:00:00 AM | Seroma | | DIS | Admission Date: 10/17/2007 Report Status: Discharge Date: 8/1/2007 ****** FINAL DISCHARGE ORDERS ****** GUIDICE , ANTONY 964-00-11-9 Hahaybrid Ingdown Modebeau Balt Rouge Epa Room: Leygilb Woodpor Service: ONC DISCHARGE PATIENT ON: 8/8/07 AT 04:30 AM CONTINGENT UPON HO evaluation WILL D/C ORDER BE USED AS THE D/C SUMMARY: YES Attending: LOVETINSKY , NELSON G. , M.D. CODE STATUS: Full code DISPOSITION: Home MEDICATIONS ON ADMISSION: 1. ACETAMINOPHEN 650 MG PO Q4H 2. HYDROMORPHONE HCL 2 MG PO QPM 3. IBUPROFEN 600 MG PO TID MEDICATIONS ON DISCHARGE: TYLENOL ( ACETAMINOPHEN ) 650 MG PO Q4H PRN Headache COLACE ( DOCUSATE SODIUM ) 100 MG PO BID IBUPROFEN 600 MG PO Q6H PRN Pain Food/Drug Interaction Instruction Take with food MSIR ( MORPHINE IMMEDIATE RELEASE ) 5-10 MG PO Q4H PRN Pain DIET: No Restrictions RETURN TO WORK: Immediately FOLLOW UP APPOINTMENT( S ): Dr. Zaborowski , Deangelo Solymani ( Ortho Oncology ) , ALLERGY: NKA ADMIT DIAGNOSIS: Uterine cancer , iliopsoas seroma PRINCIPAL DISCHARGE DIAGNOSIS ;Responsible After Study for Causing Admission ) Seroma OTHER DIAGNOSIS;Conditions , Infections , Complications , affecting Treatment/Stay H/O clear cell uterine cancer OPERATIONS AND PROCEDURES: Iliopsoas Drain Placement OTHER TREATMENTS/PROCEDURES ( NOT IN O.R. ) MRI/MRV of the abdomen BRIEF RESUME OF HOSPITAL COURSE: HPI: Patient is a 64 yo woman with clear cell uterine CA originally diagnosed in 9/22 - now status post hysterectomy , radiation , cycles of carboplatin and taxol and then single agent doxil given myelosupression and thrombocytopenia. She presents with progression of left lower extremity edema and groin pain. Multiple studies have revleaed an iliopsoas fluid collection which was drained recently and previously revelaed atypical cells and were thought consistet with radiation effect. On 8/28 she underwent an U/S of the LLE which was negative for DVT , but a cystic struction was again noted in the iliopsoas and the patient noted that her leg increased in size and she had worsening groin pain. She was admitted for drainage , pain control and imaging. --- PMH: hypercholesterolemia , OA ----- Meds: Ibuprofen PRN , tylenol PRN , dilaudid PRN ----- Allergies: NKDA ------- Status: afebrile , VSS , LLE edematous and tense , RRR , CTA b/l. abd benign. Drain left groin draining serosanguinous fluid. -------- Key studies: U/S 8/28 11.5x5.5x2.7 cyctic structure in left iliopsoas MRA/MRV/MRI: MRA: Normal aorta , proximal segments of celiac trunk , SMA , bilateral solitary renal arteries are widely patient. The common external , internal iliac arteries wiedely patent , IMA not well visualized. MRV: IVC , bilateral renal veins , bilateral iliac and femoral veins are patient. Left iliac and proximal superficial femoral vein are small in caliber due to compression by ?seroma. No thrombus idenitified Other finding: Liver , spleen , bilateral adrenal glands are unremarkable. Kidneys are normal in size , symmetric perfusion. Large fluid collection in the L iliopsoas from the sacroiliac joint to the insertion of the iliopsoas. ------ Hospital course/A&P 1. LLE edema and groin pain: Given pain and fluid reaccumulation drain placed by IR 9/9 and removed 11/8 Fluid was sterile with no evidence of infection. Drain was removed due to a concern for the risk of infection of a sterile fluid collection , particularly given it's relative proximity to a joint and the risks that could be associated with a joint infection in this woman. As per IR's recommendations , we asked our colleagues in orthopedics to participate in this patient's care. They had no recommendations for the short term given that her fluid collection had been drained and she was pain free. Recommended that she could follow up with Dr. Gene Alban in Orthopedic Oncology if her pain/fluid collection recurs. 2. Pain control: Patient's pain was well controlled by IV morphine ( 2mg Q4-6 hrs ) after drain placement- only required one day of IV morphine. Following drainage of the fluid collection she noted that she was much more comfortable and was well controlled with ibuprofen and low dose MSIR ( minimal requirement ). Will be discharged with prescription for MSIR should her pain recur. 3. Prophylaxis: Patient received one dose of therapeutically dosed lovenox pending the read of the MRI - then switched to prophylactic dosed lovenox. Patient remained full code throughout this hospitalization ADDITIONAL COMMENTS: If you have worsening of your leg/groin pain , you should contact your oncologist. If you have fevers or chill , nausea/vomiting , or shortness of breath , you should contct your physician You were treated for a seroma/hematoma adjacent to your iliopsoas muscle. There was no evidence of infection based on the fluid collected from this drainage. If the pain you were having recurs , or your leg edema worsens , you should contact your primary oncologist to determine the future treatment plan. You were seen by Orthopedic Surgery during this admission - their recommendation was that nothing needed to be done acutely and that you could follow up with Dr. Clifton Walkner for further evaluation if you are interested. DISCHARGE CONDITION: Satisfactory TO DO/PLAN: F/U with Kenton Babic - ortho onc if needed. F/u final results of cytology/gram stain for drained fluid. No dictated summary ENTERED BY: BOBSIN , FILIBERTO P. , M.D. ( LR29 ) 8/8/07 @ 04 ****** END OF DISCHARGE ORDERS ******", 
+    "tri": {
+        "(": {
+            ",~M.D.": 0.125, 
+            "DISCHARGE:~TYLENOL": 0.125, 
+            "Deangelo~Solymani": 0.125, 
+            "Headache~COLACE": 0.125, 
+            "IV~morphine": 0.125, 
+            "OTHER~TREATMENTS/PROCEDURES": 0.125, 
+            "dose~MSIR": 0.125, 
+            "food~MSIR": 0.125
+        }, 
+        ")": {
+            "(~ACETAMINOPHEN": 0.125, 
+            "(~LR29": 0.125, 
+            "Causing~Admission": 0.125, 
+            "DOCUSATE~SODIUM": 0.125, 
+            "IMMEDIATE~RELEASE": 0.125, 
+            "IN~O.R.": 0.125, 
+            "Ortho~Oncology": 0.125, 
+            "Q4-6~hrs": 0.125
+        }, 
+        ").": {
+            "minimal~requirement": 1.0
+        }, 
+        "):": {
+            "APPOINTMENT(~S": 1.0
+        }, 
+        "******": {
+            "@~04": 0.25, 
+            "DISCHARGE~ORDERS": 0.5, 
+            "Date:~8/1/2007": 0.25
+        }, 
+        ",": {
+            "******~GUIDICE": 0.025, 
+            ",~Complications": 0.025, 
+            ",~Infections": 0.025, 
+            ",~RRR": 0.025, 
+            ",~SMA": 0.025, 
+            ",~VSS": 0.025, 
+            ",~nausea/vomiting": 0.025, 
+            ",~radiation": 0.025, 
+            ",~spleen": 0.025, 
+            "Attending:~LOVETINSKY": 0.025, 
+            "BY:~BOBSIN": 0.025, 
+            "Dr.~Zaborowski": 0.025, 
+            "FILIBERTO~P.": 0.025, 
+            "IR's~recommendations": 0.025, 
+            "Ibuprofen~PRN": 0.025, 
+            "MRV:~IVC": 0.025, 
+            "NELSON~G.": 0.025, 
+            "Normal~aorta": 0.025, 
+            "OTHER~DIAGNOSIS;Conditions": 0.025, 
+            "Oncology~)": 0.025, 
+            "PMH:~hypercholesterolemia": 0.025, 
+            "Status:~afebrile": 0.025, 
+            "Uterine~cancer": 0.025, 
+            "and~tense": 0.025, 
+            "celiac~trunk": 0.025, 
+            "common~external": 0.025, 
+            "edema~worsens": 0.025, 
+            "finding:~Liver": 0.025, 
+            "fluid~collection": 0.025, 
+            "for~DVT": 0.025, 
+            "for~drainage": 0.025, 
+            "having~recurs": 0.025, 
+            "in~size": 0.025, 
+            "leg/groin~pain": 0.025, 
+            "of~breath": 0.025, 
+            "or~chill": 0.025, 
+            "post~hysterectomy": 0.025, 
+            "renal~veins": 0.025, 
+            "tylenol~PRN": 0.025, 
+            "wiedely~patent": 0.025
+        }, 
+        "-": {
+            "Kenton~Babic": 0.25, 
+            "in~9/22": 0.25, 
+            "the~MRI": 0.25, 
+            "this~admission": 0.25
+        }, 
+        "---": {
+            "and~imaging.": 1.0
+        }, 
+        "-----": {
+            ",~OA": 0.5, 
+            "dilaudid~PRN": 0.5
+        }, 
+        "------": {
+            "the~iliopsoas.": 1.0
+        }, 
+        "-------": {
+            "Allergies:~NKDA": 1.0
+        }, 
+        "--------": {
+            "serosanguinous~fluid.": 1.0
+        }, 
+        "04": {
+            "8/8/07~@": 1.0
+        }, 
+        "04:30": {
+            "8/8/07~AT": 1.0
+        }, 
+        "1.": {
+            "Hospital~course/A&P": 0.5, 
+            "ON~ADMISSION:": 0.5
+        }, 
+        "10/10/2007": {
+            "3118849~|": 1.0
+        }, 
+        "10/17/2007": {
+            "Admission~Date:": 1.0
+        }, 
+        "100": {
+            "SODIUM~)": 1.0
+        }, 
+        "11.5x5.5x2.7": {
+            "U/S~8/28": 1.0
+        }, 
+        "11/8": {
+            "and~removed": 1.0
+        }, 
+        "12:00:00": {
+            "|~10/10/2007": 1.0
+        }, 
+        "2": {
+            "HYDROMORPHONE~HCL": 1.0
+        }, 
+        "2.": {
+            "PO~Q4H": 0.5, 
+            "collection~recurs.": 0.5
+        }, 
+        "2mg": {
+            "morphine~(": 1.0
+        }, 
+        "3.": {
+            "PO~QPM": 0.5, 
+            "pain~recur.": 0.5
+        }, 
+        "3118849": {
+            "|~|": 1.0
+        }, 
+        "5-10": {
+            "RELEASE~)": 1.0
+        }, 
+        "600": {
+            "3.~IBUPROFEN": 0.5, 
+            "BID~IBUPROFEN": 0.5
+        }, 
+        "64": {
+            "is~a": 1.0
+        }, 
+        "650": {
+            "1.~ACETAMINOPHEN": 0.5, 
+            "ACETAMINOPHEN~)": 0.5
+        }, 
+        "71849528": {
+            "VMC~|": 1.0
+        }, 
+        "8/1/2007": {
+            "Discharge~Date:": 1.0
+        }, 
+        "8/28": {
+            "effect.~On": 0.5, 
+            "studies:~U/S": 0.5
+        }, 
+        "8/8/07": {
+            "LR29~)": 0.5, 
+            "PATIENT~ON:": 0.5
+        }, 
+        "9/22": {
+            "diagnosed~in": 1.0
+        }, 
+        "9/9": {
+            "by~IR": 1.0
+        }, 
+        "964-00-11-9": {
+            ",~ANTONY": 1.0
+        }, 
+        ";Responsible": {
+            "DISCHARGE~DIAGNOSIS": 1.0
+        }, 
+        "?seroma.": {
+            "compression~by": 1.0
+        }, 
+        "@": {
+            ")~8/8/07": 1.0
+        }, 
+        "ACETAMINOPHEN": {
+            "ADMISSION:~1.": 0.5, 
+            "TYLENOL~(": 0.5
+        }, 
+        "ADDITIONAL": {
+            "this~hospitalization": 1.0
+        }, 
+        "ADMISSION:": {
+            "MEDICATIONS~ON": 1.0
+        }, 
+        "ADMIT": {
+            "ALLERGY:~NKA": 1.0
+        }, 
+        "ALLERGY:": {
+            ")~,": 1.0
+        }, 
+        "AM": {
+            "10/10/2007~12:00:00": 0.5, 
+            "AT~04:30": 0.5
+        }, 
+        "AND": {
+            "cancer~OPERATIONS": 1.0
+        }, 
+        "ANTONY": {
+            "GUIDICE~,": 1.0
+        }, 
+        "APPOINTMENT(": {
+            "FOLLOW~UP": 1.0
+        }, 
+        "AS": {
+            "BE~USED": 1.0
+        }, 
+        "AT": {
+            "ON:~8/8/07": 1.0
+        }, 
+        "Admission": {
+            "DIS~|": 0.5, 
+            "for~Causing": 0.5
+        }, 
+        "After": {
+            "DIAGNOSIS~;Responsible": 1.0
+        }, 
+        "Alban": {
+            "Dr.~Gene": 1.0
+        }, 
+        "Allergies:": {
+            "PRN~-----": 1.0
+        }, 
+        "As": {
+            "this~woman.": 1.0
+        }, 
+        "Attending:": {
+            "SUMMARY:~YES": 1.0
+        }, 
+        "BE": {
+            "D/C~ORDER": 1.0
+        }, 
+        "BID": {
+            "MG~PO": 1.0
+        }, 
+        "BOBSIN": {
+            "ENTERED~BY:": 1.0
+        }, 
+        "BRIEF": {
+            "the~abdomen": 1.0
+        }, 
+        "BY:": {
+            "summary~ENTERED": 1.0
+        }, 
+        "Babic": {
+            "with~Kenton": 1.0
+        }, 
+        "Balt": {
+            "Ingdown~Modebeau": 1.0
+        }, 
+        "CA": {
+            "cell~uterine": 1.0
+        }, 
+        "CODE": {
+            ",~M.D.": 1.0
+        }, 
+        "COLACE": {
+            "PRN~Headache": 1.0
+        }, 
+        "COMMENTS:": {
+            "hospitalization~ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            "interested.~DISCHARGE": 1.0
+        }, 
+        "CONTINGENT": {
+            "04:30~AM": 1.0
+        }, 
+        "COURSE:": {
+            "OF~HOSPITAL": 1.0
+        }, 
+        "CTA": {
+            "RRR~,": 1.0
+        }, 
+        "Causing": {
+            "Study~for": 1.0
+        }, 
+        "Clifton": {
+            "with~Dr.": 1.0
+        }, 
+        "Complications": {
+            "Infections~,": 1.0
+        }, 
+        "D/C": {
+            "AS~THE": 0.5, 
+            "evaluation~WILL": 0.5
+        }, 
+        "DIAGNOSIS": {
+            "PRINCIPAL~DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "NKA~ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "Seroma~OTHER": 1.0
+        }, 
+        "DIET:": {
+            "PRN~Pain": 1.0
+        }, 
+        "DIS": {
+            "|~|": 1.0
+        }, 
+        "DISCHARGE": {
+            "******~FINAL": 0.2, 
+            "END~OF": 0.2, 
+            "Service:~ONC": 0.2, 
+            "are~interested.": 0.2, 
+            "seroma~PRINCIPAL": 0.2
+        }, 
+        "DISCHARGE:": {
+            "MEDICATIONS~ON": 1.0
+        }, 
+        "DISPOSITION:": {
+            "Full~code": 1.0
+        }, 
+        "DO/PLAN:": {
+            "Satisfactory~TO": 1.0
+        }, 
+        "DOCUSATE": {
+            "COLACE~(": 1.0
+        }, 
+        "DVT": {
+            "negative~for": 1.0
+        }, 
+        "Date:": {
+            "Status:~Discharge": 0.5, 
+            "|~Admission": 0.5
+        }, 
+        "Deangelo": {
+            "Zaborowski~,": 1.0
+        }, 
+        "Discharge": {
+            "Report~Status:": 1.0
+        }, 
+        "Dr.": {
+            "S~):": 0.3333333333333333, 
+            "up~with": 0.6666666666666666
+        }, 
+        "Drain": {
+            "PROCEDURES:~Iliopsoas": 0.3333333333333333, 
+            "abd~benign.": 0.3333333333333333, 
+            "of~infection.": 0.3333333333333333
+        }, 
+        "END": {
+            "04~******": 1.0
+        }, 
+        "ENTERED": {
+            "dictated~summary": 1.0
+        }, 
+        "Epa": {
+            "Balt~Rouge": 1.0
+        }, 
+        "F/U": {
+            "TO~DO/PLAN:": 1.0
+        }, 
+        "F/u": {
+            "if~needed.": 1.0
+        }, 
+        "FILIBERTO": {
+            "BOBSIN~,": 1.0
+        }, 
+        "FINAL": {
+            "8/1/2007~******": 1.0
+        }, 
+        "FOLLOW": {
+            "WORK:~Immediately": 1.0
+        }, 
+        "Fluid": {
+            "removed~11/8": 1.0
+        }, 
+        "Following": {
+            "IV~morphine.": 1.0
+        }, 
+        "Food/Drug": {
+            "PRN~Pain": 1.0
+        }, 
+        "Full": {
+            "CODE~STATUS:": 1.0
+        }, 
+        "G.": {
+            ",~NELSON": 1.0
+        }, 
+        "GUIDICE": {
+            "ORDERS~******": 1.0
+        }, 
+        "Gene": {
+            "with~Dr.": 1.0
+        }, 
+        "Given": {
+            "groin~pain:": 1.0
+        }, 
+        "H/O": {
+            "affecting~Treatment/Stay": 1.0
+        }, 
+        "HCL": {
+            "2.~HYDROMORPHONE": 1.0
+        }, 
+        "HO": {
+            "CONTINGENT~UPON": 1.0
+        }, 
+        "HOSPITAL": {
+            "RESUME~OF": 1.0
+        }, 
+        "HPI:": {
+            "HOSPITAL~COURSE:": 1.0
+        }, 
+        "HYDROMORPHONE": {
+            "Q4H~2.": 1.0
+        }, 
+        "Hahaybrid": {
+            "ANTONY~964-00-11-9": 1.0
+        }, 
+        "Headache": {
+            "Q4H~PRN": 1.0
+        }, 
+        "Home": {
+            "code~DISPOSITION:": 1.0
+        }, 
+        "Hospital": {
+            "iliopsoas.~------": 1.0
+        }, 
+        "IBUPROFEN": {
+            "PO~BID": 0.5, 
+            "QPM~3.": 0.5
+        }, 
+        "IMA": {
+            "patent~,": 1.0
+        }, 
+        "IMMEDIATE": {
+            "(~MORPHINE": 1.0
+        }, 
+        "IN": {
+            "(~NOT": 1.0
+        }, 
+        "IR": {
+            "placed~by": 1.0
+        }, 
+        "IR's": {
+            "As~per": 1.0
+        }, 
+        "IV": {
+            "controlled~by": 0.5, 
+            "day~of": 0.5
+        }, 
+        "IVC": {
+            "visualized.~MRV:": 1.0
+        }, 
+        "Ibuprofen": {
+            "-----~Meds:": 1.0
+        }, 
+        "If": {
+            "ADDITIONAL~COMMENTS:": 0.3333333333333333, 
+            "this~drainage.": 0.3333333333333333, 
+            "your~oncologist.": 0.3333333333333333
+        }, 
+        "Iliopsoas": {
+            "AND~PROCEDURES:": 1.0
+        }, 
+        "Immediately": {
+            "TO~WORK:": 1.0
+        }, 
+        "Infections": {
+            "DIAGNOSIS;Conditions~,": 1.0
+        }, 
+        "Ingdown": {
+            "964-00-11-9~Hahaybrid": 1.0
+        }, 
+        "Instruction": {
+            "Food/Drug~Interaction": 1.0
+        }, 
+        "Interaction": {
+            "Pain~Food/Drug": 1.0
+        }, 
+        "Kenton": {
+            "F/U~with": 1.0
+        }, 
+        "Key": {
+            "fluid.~--------": 1.0
+        }, 
+        "Kidneys": {
+            "are~unremarkable.": 1.0
+        }, 
+        "L": {
+            "in~the": 1.0
+        }, 
+        "LLE": {
+            "VSS~,": 0.3333333333333333, 
+            "course/A&P~1.": 0.3333333333333333, 
+            "of~the": 0.3333333333333333
+        }, 
+        "LOVETINSKY": {
+            "YES~Attending:": 1.0
+        }, 
+        "LR29": {
+            "M.D.~(": 1.0
+        }, 
+        "Large": {
+            "symmetric~perfusion.": 1.0
+        }, 
+        "Left": {
+            "are~patient.": 1.0
+        }, 
+        "Leygilb": {
+            "Epa~Room:": 1.0
+        }, 
+        "Liver": {
+            "Other~finding:": 1.0
+        }, 
+        "M.D.": {
+            "G.~,": 0.5, 
+            "P.~,": 0.5
+        }, 
+        "MEDICATIONS": {
+            "DISPOSITION:~Home": 0.5, 
+            "PO~TID": 0.5
+        }, 
+        "MG": {
+            ")~100": 0.14285714285714285, 
+            ")~5-10": 0.14285714285714285, 
+            ")~650": 0.14285714285714285, 
+            "ACETAMINOPHEN~650": 0.14285714285714285, 
+            "HCL~2": 0.14285714285714285, 
+            "IBUPROFEN~600": 0.2857142857142857
+        }, 
+        "MORPHINE": {
+            "MSIR~(": 1.0
+        }, 
+        "MRA/MRV/MRI:": {
+            "left~iliopsoas": 1.0
+        }, 
+        "MRA:": {
+            "iliopsoas~MRA/MRV/MRI:": 1.0
+        }, 
+        "MRI": {
+            "of~the": 1.0
+        }, 
+        "MRI/MRV": {
+            "O.R.~)": 1.0
+        }, 
+        "MRV:": {
+            "well~visualized.": 1.0
+        }, 
+        "MSIR": {
+            "low~dose": 0.3333333333333333, 
+            "prescription~for": 0.3333333333333333, 
+            "with~food": 0.3333333333333333
+        }, 
+        "Meds:": {
+            "OA~-----": 1.0
+        }, 
+        "Modebeau": {
+            "Hahaybrid~Ingdown": 1.0
+        }, 
+        "Multiple": {
+            "groin~pain.": 1.0
+        }, 
+        "NELSON": {
+            "LOVETINSKY~,": 1.0
+        }, 
+        "NKA": {
+            ",~ALLERGY:": 1.0
+        }, 
+        "NKDA": {
+            "-----~Allergies:": 1.0
+        }, 
+        "NOT": {
+            "TREATMENTS/PROCEDURES~(": 1.0
+        }, 
+        "No": {
+            "Pain~DIET:": 0.3333333333333333, 
+            "by~?seroma.": 0.3333333333333333, 
+            "drained~fluid.": 0.3333333333333333
+        }, 
+        "Normal": {
+            "MRA/MRV/MRI:~MRA:": 1.0
+        }, 
+        "O.R.": {
+            "NOT~IN": 1.0
+        }, 
+        "OA": {
+            "hypercholesterolemia~,": 1.0
+        }, 
+        "OF": {
+            "******~END": 0.5, 
+            "BRIEF~RESUME": 0.5
+        }, 
+        "ON": {
+            "Home~MEDICATIONS": 0.5, 
+            "TID~MEDICATIONS": 0.5
+        }, 
+        "ON:": {
+            "DISCHARGE~PATIENT": 1.0
+        }, 
+        "ONC": {
+            "Woodpor~Service:": 1.0
+        }, 
+        "OPERATIONS": {
+            "uterine~cancer": 1.0
+        }, 
+        "ORDER": {
+            "WILL~D/C": 1.0
+        }, 
+        "ORDERS": {
+            "FINAL~DISCHARGE": 0.5, 
+            "OF~DISCHARGE": 0.5
+        }, 
+        "OTHER": {
+            ")~Seroma": 0.5, 
+            "Drain~Placement": 0.5
+        }, 
+        "On": {
+            "radiation~effect.": 1.0
+        }, 
+        "Oncology": {
+            "(~Ortho": 0.5, 
+            "in~Orthopedic": 0.5
+        }, 
+        "Ortho": {
+            "Solymani~(": 1.0
+        }, 
+        "Orthopedic": {
+            "Alban~in": 0.5, 
+            "seen~by": 0.5
+        }, 
+        "Other": {
+            "thrombus~idenitified": 1.0
+        }, 
+        "P.": {
+            ",~FILIBERTO": 1.0
+        }, 
+        "PATIENT": {
+            "ONC~DISCHARGE": 1.0
+        }, 
+        "PMH:": {
+            "imaging.~---": 1.0
+        }, 
+        "PO": {
+            "100~MG": 0.14285714285714285, 
+            "2~MG": 0.14285714285714285, 
+            "5-10~MG": 0.14285714285714285, 
+            "600~MG": 0.2857142857142857, 
+            "650~MG": 0.2857142857142857
+        }, 
+        "PRINCIPAL": {
+            "iliopsoas~seroma": 1.0
+        }, 
+        "PRN": {
+            ",~dilaudid": 0.16666666666666666, 
+            ",~tylenol": 0.16666666666666666, 
+            "Meds:~Ibuprofen": 0.16666666666666666, 
+            "PO~Q4H": 0.3333333333333333, 
+            "PO~Q6H": 0.16666666666666666
+        }, 
+        "PROCEDURES:": {
+            "OPERATIONS~AND": 1.0
+        }, 
+        "Pain": {
+            "Q4H~PRN": 0.3333333333333333, 
+            "Q6H~PRN": 0.3333333333333333, 
+            "recurs.~2.": 0.3333333333333333
+        }, 
+        "Patient": {
+            "3.~Prophylaxis:": 0.3333333333333333, 
+            "COURSE:~HPI:": 0.3333333333333333, 
+            "dosed~lovenox.": 0.3333333333333333
+        }, 
+        "Patient's": {
+            "Pain~control:": 1.0
+        }, 
+        "Placement": {
+            "Iliopsoas~Drain": 1.0
+        }, 
+        "Prophylaxis:": {
+            "recur.~3.": 1.0
+        }, 
+        "Q4-6": {
+            "(~2mg": 1.0
+        }, 
+        "Q4H": {
+            "MG~PO": 1.0
+        }, 
+        "Q6H": {
+            "MG~PO": 1.0
+        }, 
+        "QPM": {
+            "MG~PO": 1.0
+        }, 
+        "RELEASE": {
+            "MORPHINE~IMMEDIATE": 1.0
+        }, 
+        "RESUME": {
+            "abdomen~BRIEF": 1.0
+        }, 
+        "RETURN": {
+            "No~Restrictions": 1.0
+        }, 
+        "RRR": {
+            "tense~,": 1.0
+        }, 
+        "Recommended": {
+            "pain~free.": 1.0
+        }, 
+        "Report": {
+            "Date:~10/17/2007": 1.0
+        }, 
+        "Restrictions": {
+            "DIET:~No": 1.0
+        }, 
+        "Room:": {
+            "Rouge~Epa": 1.0
+        }, 
+        "Rouge": {
+            "Modebeau~Balt": 1.0
+        }, 
+        "S": {
+            "UP~APPOINTMENT(": 1.0
+        }, 
+        "SMA": {
+            "trunk~,": 1.0
+        }, 
+        "SODIUM": {
+            "(~DOCUSATE": 1.0
+        }, 
+        "STATUS:": {
+            "M.D.~CODE": 1.0
+        }, 
+        "SUMMARY:": {
+            "THE~D/C": 1.0
+        }, 
+        "Satisfactory": {
+            "DISCHARGE~CONDITION:": 1.0
+        }, 
+        "Seroma": {
+            "AM~|": 0.5, 
+            "Admission~)": 0.5
+        }, 
+        "Service:": {
+            "Leygilb~Woodpor": 1.0
+        }, 
+        "She": {
+            "and~thrombocytopenia.": 0.5, 
+            "groin~pain.": 0.5
+        }, 
+        "Solymani": {
+            ",~Deangelo": 1.0
+        }, 
+        "Status:": {
+            "10/17/2007~Report": 0.5, 
+            "NKDA~-------": 0.5
+        }, 
+        "Study": {
+            ";Responsible~After": 1.0
+        }, 
+        "Surgery": {
+            "by~Orthopedic": 1.0
+        }, 
+        "THE": {
+            "USED~AS": 1.0
+        }, 
+        "TID": {
+            "MG~PO": 1.0
+        }, 
+        "TO": {
+            "CONDITION:~Satisfactory": 0.5, 
+            "Restrictions~RETURN": 0.5
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "Placement~OTHER": 1.0
+        }, 
+        "TYLENOL": {
+            "ON~DISCHARGE:": 1.0
+        }, 
+        "Take": {
+            "Interaction~Instruction": 1.0
+        }, 
+        "The": {
+            "widely~patient.": 1.0
+        }, 
+        "There": {
+            "iliopsoas~muscle.": 1.0
+        }, 
+        "They": {
+            "patient's~care.": 1.0
+        }, 
+        "Treatment/Stay": {
+            ",~affecting": 1.0
+        }, 
+        "U/S": {
+            "Key~studies:": 0.5, 
+            "underwent~an": 0.5
+        }, 
+        "UP": {
+            "Immediately~FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "AM~CONTINGENT": 1.0
+        }, 
+        "USED": {
+            "ORDER~BE": 1.0
+        }, 
+        "Uterine": {
+            "ADMIT~DIAGNOSIS:": 1.0
+        }, 
+        "VMC": {
+            "491962040~|": 1.0
+        }, 
+        "VSS": {
+            "afebrile~,": 1.0
+        }, 
+        "WILL": {
+            "HO~evaluation": 1.0
+        }, 
+        "WORK:": {
+            "RETURN~TO": 1.0
+        }, 
+        "Walkner": {
+            "Dr.~Clifton": 1.0
+        }, 
+        "Will": {
+            "requirement~).": 1.0
+        }, 
+        "Woodpor": {
+            "Room:~Leygilb": 1.0
+        }, 
+        "YES": {
+            "D/C~SUMMARY:": 1.0
+        }, 
+        "You": {
+            "treatment~plan.": 0.5, 
+            "your~physician": 0.5
+        }, 
+        "Zaborowski": {
+            "):~Dr.": 1.0
+        }, 
+        "a": {
+            ",~but": 0.14285714285714285, 
+            "Patient~is": 0.14285714285714285, 
+            "associated~with": 0.14285714285714285, 
+            "due~to": 0.14285714285714285, 
+            "infection~of": 0.14285714285714285, 
+            "proximity~to": 0.14285714285714285, 
+            "treated~for": 0.14285714285714285
+        }, 
+        "abd": {
+            "CTA~b/l.": 1.0
+        }, 
+        "abdomen": {
+            "of~the": 1.0
+        }, 
+        "acutely": {
+            "be~done": 1.0
+        }, 
+        "adjacent": {
+            "a~seroma/hematoma": 1.0
+        }, 
+        "admission": {
+            "during~this": 1.0
+        }, 
+        "admitted": {
+            "She~was": 1.0
+        }, 
+        "adrenal": {
+            ",~bilateral": 1.0
+        }, 
+        "afebrile": {
+            "-------~Status:": 1.0
+        }, 
+        "affecting": {
+            "Complications~,": 1.0
+        }, 
+        "after": {
+            "hrs~)": 1.0
+        }, 
+        "again": {
+            "struction~was": 1.0
+        }, 
+        "agent": {
+            "then~single": 1.0
+        }, 
+        "an": {
+            "have~revleaed": 0.5, 
+            "she~underwent": 0.5
+        }, 
+        "and": {
+            "Given~pain": 0.05, 
+            "IR~9/9": 0.05, 
+            "LLE~edema": 0.05, 
+            "LLE~edematous": 0.05, 
+            "Left~iliac": 0.05, 
+            "and~taxol": 0.05, 
+            "atypical~cells": 0.05, 
+            "a~joint": 0.05, 
+            "been~drained": 0.05, 
+            "bilateral~iliac": 0.05, 
+            "done~acutely": 0.05, 
+            "drained~recently": 0.05, 
+            "extremity~edema": 0.05, 
+            "given~myelosupression": 0.05, 
+            "in~size": 0.05, 
+            "more~comfortable": 0.05, 
+            "of~carboplatin": 0.05, 
+            "pain~control": 0.05, 
+            "the~iliopsoas": 0.05, 
+            "with~ibuprofen": 0.05
+        }, 
+        "aorta": {
+            "MRA:~Normal": 1.0
+        }, 
+        "are": {
+            "adrenal~glands": 0.16666666666666666, 
+            "femoral~vein": 0.16666666666666666, 
+            "femoral~veins": 0.16666666666666666, 
+            "if~you": 0.16666666666666666, 
+            "renal~arteries": 0.16666666666666666, 
+            "unremarkable.~Kidneys": 0.16666666666666666
+        }, 
+        "arteries": {
+            "internal~iliac": 0.5, 
+            "solitary~renal": 0.5
+        }, 
+        "asked": {
+            ",~we": 1.0
+        }, 
+        "associated": {
+            "could~be": 1.0
+        }, 
+        "atypical": {
+            "previously~revelaed": 1.0
+        }, 
+        "b/l.": {
+            ",~CTA": 1.0
+        }, 
+        "based": {
+            "of~infection": 1.0
+        }, 
+        "be": {
+            ").~Will": 0.3333333333333333, 
+            "needed~to": 0.3333333333333333, 
+            "that~could": 0.3333333333333333
+        }, 
+        "been": {
+            "collection~had": 1.0
+        }, 
+        "benign.": {
+            "b/l.~abd": 1.0
+        }, 
+        "bilateral": {
+            "IVC~,": 0.25, 
+            "SMA~,": 0.25, 
+            "spleen~,": 0.25, 
+            "veins~,": 0.25
+        }, 
+        "breath": {
+            "shortness~of": 1.0
+        }, 
+        "but": {
+            "DVT~,": 1.0
+        }, 
+        "by": {
+            "drain~placed": 0.25, 
+            "to~compression": 0.25, 
+            "well~controlled": 0.25, 
+            "were~seen": 0.25
+        }, 
+        "caliber": {
+            "small~in": 1.0
+        }, 
+        "cancer": {
+            "DIAGNOSIS:~Uterine": 0.5, 
+            "cell~uterine": 0.5
+        }, 
+        "carboplatin": {
+            "cycles~of": 1.0
+        }, 
+        "care.": {
+            "this~patient's": 1.0
+        }, 
+        "celiac": {
+            "segments~of": 1.0
+        }, 
+        "cell": {
+            "H/O~clear": 0.5, 
+            "with~clear": 0.5
+        }, 
+        "cells": {
+            "revelaed~atypical": 1.0
+        }, 
+        "chill": {
+            "fevers~or": 1.0
+        }, 
+        "clear": {
+            "Treatment/Stay~H/O": 0.5, 
+            "woman~with": 0.5
+        }, 
+        "code": {
+            "STATUS:~Full": 0.5, 
+            "remained~full": 0.5
+        }, 
+        "colleagues": {
+            "asked~our": 1.0
+        }, 
+        "collected": {
+            "the~fluid": 1.0
+        }, 
+        "collection": {
+            "Large~fluid": 0.16666666666666666, 
+            "her~fluid": 0.16666666666666666, 
+            "her~pain/fluid": 0.16666666666666666, 
+            "iliopsoas~fluid": 0.16666666666666666, 
+            "sterile~fluid": 0.16666666666666666, 
+            "the~fluid": 0.16666666666666666
+        }, 
+        "comfortable": {
+            "much~more": 1.0
+        }, 
+        "common": {
+            "patient.~The": 1.0
+        }, 
+        "compression": {
+            "due~to": 1.0
+        }, 
+        "concern": {
+            "to~a": 1.0
+        }, 
+        "consistet": {
+            "were~thought": 1.0
+        }, 
+        "contact": {
+            "you~should": 1.0
+        }, 
+        "contct": {
+            "you~should": 1.0
+        }, 
+        "control": {
+            ",~pain": 1.0
+        }, 
+        "control:": {
+            "2.~Pain": 1.0
+        }, 
+        "controlled": {
+            "was~well": 1.0
+        }, 
+        "could": {
+            "risks~that": 0.3333333333333333, 
+            "that~she": 0.3333333333333333, 
+            "that~you": 0.3333333333333333
+        }, 
+        "course/A&P": {
+            "------~Hospital": 1.0
+        }, 
+        "cycles": {
+            "radiation~,": 1.0
+        }, 
+        "cyctic": {
+            "8/28~11.5x5.5x2.7": 1.0
+        }, 
+        "cystic": {
+            "but~a": 1.0
+        }, 
+        "cytology/gram": {
+            "results~of": 1.0
+        }, 
+        "day": {
+            "required~one": 1.0
+        }, 
+        "determine": {
+            "oncologist~to": 1.0
+        }, 
+        "diagnosed": {
+            "CA~originally": 1.0
+        }, 
+        "dictated": {
+            "fluid.~No": 1.0
+        }, 
+        "dilaudid": {
+            "PRN~,": 1.0
+        }, 
+        "discharged": {
+            "Will~be": 1.0
+        }, 
+        "done": {
+            "to~be": 1.0
+        }, 
+        "dose": {
+            "and~low": 0.5, 
+            "received~one": 0.5
+        }, 
+        "dosed": {
+            "of~therapeutically": 0.5, 
+            "to~prophylactic": 0.5
+        }, 
+        "doxil": {
+            "single~agent": 1.0
+        }, 
+        "drain": {
+            ")~after": 0.5, 
+            "fluid~reaccumulation": 0.5
+        }, 
+        "drainage": {
+            "admitted~for": 0.5, 
+            "morphine.~Following": 0.5
+        }, 
+        "drainage.": {
+            "from~this": 1.0
+        }, 
+        "drained": {
+            "had~been": 0.3333333333333333, 
+            "stain~for": 0.3333333333333333, 
+            "which~was": 0.3333333333333333
+        }, 
+        "draining": {
+            "left~groin": 1.0
+        }, 
+        "due": {
+            "in~caliber": 0.5, 
+            "was~removed": 0.5
+        }, 
+        "during": {
+            "Orthopedic~Surgery": 1.0
+        }, 
+        "edema": {
+            "1.~LLE": 0.3333333333333333, 
+            "lower~extremity": 0.3333333333333333, 
+            "your~leg": 0.3333333333333333
+        }, 
+        "edematous": {
+            ",~LLE": 1.0
+        }, 
+        "effect.": {
+            "with~radiation": 1.0
+        }, 
+        "evaluation": {
+            "UPON~HO": 0.5, 
+            "for~further": 0.5
+        }, 
+        "evidence": {
+            "was~no": 0.5, 
+            "with~no": 0.5
+        }, 
+        "external": {
+            "The~common": 1.0
+        }, 
+        "extremity": {
+            "left~lower": 1.0
+        }, 
+        "femoral": {
+            "iliac~and": 0.5, 
+            "proximal~superficial": 0.5
+        }, 
+        "fevers": {
+            "you~have": 1.0
+        }, 
+        "final": {
+            "needed.~F/u": 1.0
+        }, 
+        "finding:": {
+            "idenitified~Other": 1.0
+        }, 
+        "fluid": {
+            "an~iliopsoas": 0.14285714285714285, 
+            "a~sterile": 0.14285714285714285, 
+            "of~the": 0.14285714285714285, 
+            "on~the": 0.14285714285714285, 
+            "pain~and": 0.14285714285714285, 
+            "perfusion.~Large": 0.14285714285714285, 
+            "that~her": 0.14285714285714285
+        }, 
+        "fluid.": {
+            "draining~serosanguinous": 0.5, 
+            "for~drained": 0.5
+        }, 
+        "follow": {
+            "she~could": 0.5, 
+            "you~could": 0.5
+        }, 
+        "food": {
+            "Take~with": 1.0
+        }, 
+        "for": {
+            "After~Study": 0.1111111111111111, 
+            "Clifton~Walkner": 0.1111111111111111, 
+            "a~concern": 0.1111111111111111, 
+            "cytology/gram~stain": 0.1111111111111111, 
+            "no~recommendations": 0.1111111111111111, 
+            "was~admitted": 0.1111111111111111, 
+            "was~negative": 0.1111111111111111, 
+            "were~treated": 0.1111111111111111, 
+            "with~prescription": 0.1111111111111111
+        }, 
+        "free.": {
+            "was~pain": 1.0
+        }, 
+        "from": {
+            "L~iliopsoas": 0.5, 
+            "fluid~collected": 0.5
+        }, 
+        "full": {
+            "Patient~remained": 1.0
+        }, 
+        "further": {
+            "Walkner~for": 1.0
+        }, 
+        "future": {
+            "determine~the": 1.0
+        }, 
+        "given": {
+            ",~particularly": 0.3333333333333333, 
+            "agent~doxil": 0.3333333333333333, 
+            "short~term": 0.3333333333333333
+        }, 
+        "glands": {
+            "bilateral~adrenal": 1.0
+        }, 
+        "groin": {
+            "Drain~left": 0.25, 
+            "edema~and": 0.5, 
+            "had~worsening": 0.25
+        }, 
+        "had": {
+            "and~she": 0.3333333333333333, 
+            "care.~They": 0.3333333333333333, 
+            "fluid~collection": 0.3333333333333333
+        }, 
+        "have": {
+            "If~you": 0.6666666666666666, 
+            "Multiple~studies": 0.3333333333333333
+        }, 
+        "having": {
+            "you~were": 1.0
+        }, 
+        "her": {
+            "MSIR~should": 0.25, 
+            "Oncology~if": 0.25, 
+            "given~that": 0.25, 
+            "noted~that": 0.25
+        }, 
+        "hospitalization": {
+            "throughout~this": 1.0
+        }, 
+        "hrs": {
+            "2mg~Q4-6": 1.0
+        }, 
+        "hypercholesterolemia": {
+            "---~PMH:": 1.0
+        }, 
+        "hysterectomy": {
+            "status~post": 1.0
+        }, 
+        "ibuprofen": {
+            "controlled~with": 1.0
+        }, 
+        "idenitified": {
+            "No~thrombus": 1.0
+        }, 
+        "if": {
+            "Orthopedic~Oncology": 0.3333333333333333, 
+            "further~evaluation": 0.3333333333333333, 
+            "ortho~onc": 0.3333333333333333
+        }, 
+        "iliac": {
+            ",~bilateral": 0.3333333333333333, 
+            ",~internal": 0.3333333333333333, 
+            "patient.~Left": 0.3333333333333333
+        }, 
+        "iliopsoas": {
+            "cancer~,": 0.16666666666666666, 
+            "in~left": 0.16666666666666666, 
+            "in~the": 0.16666666666666666, 
+            "revleaed~an": 0.16666666666666666, 
+            "the~L": 0.16666666666666666, 
+            "to~your": 0.16666666666666666
+        }, 
+        "iliopsoas.": {
+            "of~the": 1.0
+        }, 
+        "imaging.": {
+            "control~and": 1.0
+        }, 
+        "in": {
+            "Gene~Alban": 0.09090909090909091, 
+            "again~noted": 0.09090909090909091, 
+            "are~normal": 0.09090909090909091, 
+            "are~small": 0.09090909090909091, 
+            "cyctic~structure": 0.09090909090909091, 
+            "fluid~collection": 0.09090909090909091, 
+            "joint~infection": 0.09090909090909091, 
+            "leg~increased": 0.09090909090909091, 
+            "originally~diagnosed": 0.09090909090909091, 
+            "our~colleagues": 0.09090909090909091, 
+            "to~participate": 0.09090909090909091
+        }, 
+        "increased": {
+            "her~leg": 1.0
+        }, 
+        "infection": {
+            "a~joint": 0.3333333333333333, 
+            "evidence~of": 0.3333333333333333, 
+            "risk~of": 0.3333333333333333
+        }, 
+        "infection.": {
+            "evidence~of": 1.0
+        }, 
+        "insertion": {
+            "to~the": 1.0
+        }, 
+        "interested.": {
+            "you~are": 1.0
+        }, 
+        "internal": {
+            "external~,": 1.0
+        }, 
+        "is": {
+            "HPI:~Patient": 1.0
+        }, 
+        "it's": {
+            "particularly~given": 1.0
+        }, 
+        "joint": {
+            "the~sacroiliac": 0.3333333333333333, 
+            "to~a": 0.3333333333333333, 
+            "with~a": 0.3333333333333333
+        }, 
+        "left": {
+            "benign.~Drain": 0.3333333333333333, 
+            "progression~of": 0.3333333333333333, 
+            "structure~in": 0.3333333333333333
+        }, 
+        "leg": {
+            "or~your": 0.5, 
+            "that~her": 0.5
+        }, 
+        "leg/groin": {
+            "of~your": 1.0
+        }, 
+        "lovenox": {
+            "therapeutically~dosed": 1.0
+        }, 
+        "lovenox.": {
+            "prophylactic~dosed": 1.0
+        }, 
+        "low": {
+            "ibuprofen~and": 1.0
+        }, 
+        "lower": {
+            "of~left": 1.0
+        }, 
+        "minimal": {
+            "MSIR~(": 1.0
+        }, 
+        "more": {
+            "was~much": 1.0
+        }, 
+        "morphine": {
+            "by~IV": 1.0
+        }, 
+        "morphine.": {
+            "of~IV": 1.0
+        }, 
+        "much": {
+            "she~was": 1.0
+        }, 
+        "muscle.": {
+            "your~iliopsoas": 1.0
+        }, 
+        "myelosupression": {
+            "doxil~given": 1.0
+        }, 
+        "nausea/vomiting": {
+            "chill~,": 1.0
+        }, 
+        "needed": {
+            "that~nothing": 1.0
+        }, 
+        "needed.": {
+            "onc~if": 1.0
+        }, 
+        "negative": {
+            "which~was": 1.0
+        }, 
+        "no": {
+            "There~was": 0.3333333333333333, 
+            "They~had": 0.3333333333333333, 
+            "sterile~with": 0.3333333333333333
+        }, 
+        "normal": {
+            "Kidneys~are": 1.0
+        }, 
+        "not": {
+            ",~IMA": 1.0
+        }, 
+        "noted": {
+            "collection~she": 0.3333333333333333, 
+            "the~patient": 0.3333333333333333, 
+            "was~again": 0.3333333333333333
+        }, 
+        "nothing": {
+            "was~that": 1.0
+        }, 
+        "now": {
+            "9/22~-": 1.0
+        }, 
+        "of": {
+            ")~MRI/MRV": 0.058823529411764705, 
+            ",~cycles": 0.058823529411764705, 
+            "Following~drainage": 0.058823529411764705, 
+            "an~U/S": 0.058823529411764705, 
+            "final~results": 0.058823529411764705, 
+            "have~worsening": 0.058823529411764705, 
+            "no~evidence": 0.11764705882352941, 
+            "of~infection": 0.058823529411764705, 
+            "one~day": 0.058823529411764705, 
+            "one~dose": 0.058823529411764705, 
+            "or~shortness": 0.058823529411764705, 
+            "proximal~segments": 0.058823529411764705, 
+            "the~insertion": 0.058823529411764705, 
+            "the~read": 0.058823529411764705, 
+            "the~risk": 0.058823529411764705, 
+            "with~progression": 0.058823529411764705
+        }, 
+        "on": {
+            "infection~based": 1.0
+        }, 
+        "onc": {
+            "-~ortho": 1.0
+        }, 
+        "oncologist": {
+            "your~primary": 1.0
+        }, 
+        "oncologist.": {
+            "contact~your": 1.0
+        }, 
+        "one": {
+            "Patient~received": 0.5, 
+            "only~required": 0.5
+        }, 
+        "only": {
+            "drain~placement-": 1.0
+        }, 
+        "or": {
+            "have~fevers": 0.3333333333333333, 
+            "nausea/vomiting~,": 0.3333333333333333, 
+            "recurs~,": 0.3333333333333333
+        }, 
+        "originally": {
+            "uterine~CA": 1.0
+        }, 
+        "ortho": {
+            "Babic~-": 1.0
+        }, 
+        "orthopedics": {
+            "colleagues~in": 1.0
+        }, 
+        "our": {
+            "we~asked": 1.0
+        }, 
+        "pain": {
+            "If~the": 0.14285714285714285, 
+            "control:~Patient's": 0.14285714285714285, 
+            "drainage~,": 0.14285714285714285, 
+            "pain:~Given": 0.14285714285714285, 
+            "she~was": 0.14285714285714285, 
+            "should~her": 0.14285714285714285, 
+            "your~leg/groin": 0.14285714285714285
+        }, 
+        "pain.": {
+            "and~groin": 0.5, 
+            "worsening~groin": 0.5
+        }, 
+        "pain/fluid": {
+            "if~her": 1.0
+        }, 
+        "pain:": {
+            "and~groin": 1.0
+        }, 
+        "participate": {
+            "orthopedics~to": 1.0
+        }, 
+        "particularly": {
+            "collection~,": 1.0
+        }, 
+        "patent": {
+            "arteries~wiedely": 1.0
+        }, 
+        "patient": {
+            "and~the": 1.0
+        }, 
+        "patient's": {
+            "in~this": 1.0
+        }, 
+        "patient.": {
+            "are~widely": 0.5, 
+            "veins~are": 0.5
+        }, 
+        "pending": {
+            "dosed~lovenox": 1.0
+        }, 
+        "per": {
+            "woman.~As": 1.0
+        }, 
+        "perfusion.": {
+            ",~symmetric": 1.0
+        }, 
+        "physician": {
+            "contct~your": 1.0
+        }, 
+        "placed": {
+            "reaccumulation~drain": 1.0
+        }, 
+        "placement-": {
+            "after~drain": 1.0
+        }, 
+        "plan.": {
+            "future~treatment": 1.0
+        }, 
+        "post": {
+            "now~status": 1.0
+        }, 
+        "prescription": {
+            "discharged~with": 1.0
+        }, 
+        "presents": {
+            "thrombocytopenia.~She": 1.0
+        }, 
+        "previously": {
+            "recently~and": 1.0
+        }, 
+        "primary": {
+            "contact~your": 1.0
+        }, 
+        "progression": {
+            "presents~with": 1.0
+        }, 
+        "prophylactic": {
+            "switched~to": 1.0
+        }, 
+        "proximal": {
+            "aorta~,": 0.5, 
+            "iliac~and": 0.5
+        }, 
+        "proximity": {
+            "it's~relative": 1.0
+        }, 
+        "radiation": {
+            "consistet~with": 0.5, 
+            "hysterectomy~,": 0.5
+        }, 
+        "reaccumulation": {
+            "and~fluid": 1.0
+        }, 
+        "read": {
+            "pending~the": 1.0
+        }, 
+        "received": {
+            "Prophylaxis:~Patient": 1.0
+        }, 
+        "recently": {
+            "was~drained": 1.0
+        }, 
+        "recommendation": {
+            "-~their": 1.0
+        }, 
+        "recommendations": {
+            "had~no": 0.5, 
+            "per~IR's": 0.5
+        }, 
+        "recur.": {
+            "her~pain": 1.0
+        }, 
+        "recurs": {
+            "were~having": 1.0
+        }, 
+        "recurs.": {
+            "pain/fluid~collection": 1.0
+        }, 
+        "relative": {
+            "given~it's": 1.0
+        }, 
+        "remained": {
+            "lovenox.~Patient": 1.0
+        }, 
+        "removed": {
+            "9/9~and": 0.5, 
+            "Drain~was": 0.5
+        }, 
+        "renal": {
+            ",~bilateral": 0.5, 
+            "bilateral~solitary": 0.5
+        }, 
+        "required": {
+            "placement-~only": 1.0
+        }, 
+        "requirement": {
+            "(~minimal": 1.0
+        }, 
+        "results": {
+            "F/u~final": 1.0
+        }, 
+        "revelaed": {
+            "and~previously": 1.0
+        }, 
+        "revleaed": {
+            "studies~have": 1.0
+        }, 
+        "risk": {
+            "for~the": 1.0
+        }, 
+        "risks": {
+            "and~the": 1.0
+        }, 
+        "sacroiliac": {
+            "from~the": 1.0
+        }, 
+        "seen": {
+            "You~were": 1.0
+        }, 
+        "segments": {
+            ",~proximal": 1.0
+        }, 
+        "seroma": {
+            ",~iliopsoas": 1.0
+        }, 
+        "seroma/hematoma": {
+            "for~a": 1.0
+        }, 
+        "serosanguinous": {
+            "groin~draining": 1.0
+        }, 
+        "she": {
+            "On~8/28": 0.16666666666666666, 
+            "Recommended~that": 0.16666666666666666, 
+            "drained~and": 0.16666666666666666, 
+            "fluid~collection": 0.16666666666666666, 
+            "noted~that": 0.16666666666666666, 
+            "size~and": 0.16666666666666666
+        }, 
+        "short": {
+            "for~the": 1.0
+        }, 
+        "shortness": {
+            ",~or": 1.0
+        }, 
+        "should": {
+            ",~you": 0.75, 
+            "for~MSIR": 0.25
+        }, 
+        "single": {
+            "and~then": 1.0
+        }, 
+        "size": {
+            "increased~in": 0.5, 
+            "normal~in": 0.5
+        }, 
+        "small": {
+            "vein~are": 1.0
+        }, 
+        "solitary": {
+            ",~bilateral": 1.0
+        }, 
+        "spleen": {
+            "Liver~,": 1.0
+        }, 
+        "stain": {
+            "of~cytology/gram": 1.0
+        }, 
+        "status": {
+            "-~now": 1.0
+        }, 
+        "sterile": {
+            "Fluid~was": 0.5, 
+            "of~a": 0.5
+        }, 
+        "struction": {
+            "a~cystic": 1.0
+        }, 
+        "structure": {
+            "11.5x5.5x2.7~cyctic": 1.0
+        }, 
+        "studies": {
+            "pain.~Multiple": 1.0
+        }, 
+        "studies:": {
+            "--------~Key": 1.0
+        }, 
+        "summary": {
+            "No~dictated": 1.0
+        }, 
+        "superficial": {
+            "and~proximal": 1.0
+        }, 
+        "switched": {
+            "-~then": 1.0
+        }, 
+        "symmetric": {
+            "size~,": 1.0
+        }, 
+        "taxol": {
+            "carboplatin~and": 1.0
+        }, 
+        "tense": {
+            "edematous~and": 1.0
+        }, 
+        "term": {
+            "the~short": 1.0
+        }, 
+        "that": {
+            "acutely~and": 0.14285714285714285, 
+            "free.~Recommended": 0.14285714285714285, 
+            "patient~noted": 0.14285714285714285, 
+            "recommendation~was": 0.14285714285714285, 
+            "she~noted": 0.14285714285714285, 
+            "term~given": 0.14285714285714285, 
+            "the~risks": 0.14285714285714285
+        }, 
+        "the": {
+            "MRI/MRV~of": 0.058823529411764705, 
+            "U/S~of": 0.058823529411764705, 
+            "based~on": 0.058823529411764705, 
+            "collection~in": 0.058823529411764705, 
+            "concern~for": 0.058823529411764705, 
+            "drainage.~If": 0.058823529411764705, 
+            "drainage~of": 0.058823529411764705, 
+            "iliopsoas~and": 0.058823529411764705, 
+            "iliopsoas~from": 0.058823529411764705, 
+            "insertion~of": 0.058823529411764705, 
+            "joint~and": 0.058823529411764705, 
+            "joint~to": 0.058823529411764705, 
+            "lovenox~pending": 0.058823529411764705, 
+            "noted~in": 0.058823529411764705, 
+            "read~of": 0.058823529411764705, 
+            "recommendations~for": 0.058823529411764705, 
+            "to~determine": 0.058823529411764705
+        }, 
+        "their": {
+            "admission~-": 1.0
+        }, 
+        "then": {
+            "MRI~-": 0.5, 
+            "taxol~and": 0.5
+        }, 
+        "therapeutically": {
+            "dose~of": 1.0
+        }, 
+        "this": {
+            "Surgery~during": 0.2, 
+            "code~throughout": 0.2, 
+            "collected~from": 0.2, 
+            "infection~in": 0.2, 
+            "participate~in": 0.2
+        }, 
+        "thought": {
+            "and~were": 1.0
+        }, 
+        "thrombocytopenia.": {
+            "myelosupression~and": 1.0
+        }, 
+        "thrombus": {
+            "?seroma.~No": 1.0
+        }, 
+        "throughout": {
+            "full~code": 1.0
+        }, 
+        "to": {
+            "caliber~due": 0.1111111111111111, 
+            "in~orthopedics": 0.1111111111111111, 
+            "nothing~needed": 0.1111111111111111, 
+            "primary~oncologist": 0.1111111111111111, 
+            "relative~proximity": 0.1111111111111111, 
+            "removed~due": 0.1111111111111111, 
+            "sacroiliac~joint": 0.1111111111111111, 
+            "seroma/hematoma~adjacent": 0.1111111111111111, 
+            "then~switched": 0.1111111111111111
+        }, 
+        "treated": {
+            "You~were": 1.0
+        }, 
+        "treatment": {
+            "the~future": 1.0
+        }, 
+        "trunk": {
+            "of~celiac": 1.0
+        }, 
+        "tylenol": {
+            "PRN~,": 1.0
+        }, 
+        "underwent": {
+            "8/28~she": 1.0
+        }, 
+        "unremarkable.": {
+            "glands~are": 1.0
+        }, 
+        "up": {
+            "could~follow": 1.0
+        }, 
+        "uterine": {
+            "clear~cell": 1.0
+        }, 
+        "vein": {
+            "superficial~femoral": 1.0
+        }, 
+        "veins": {
+            "and~femoral": 0.5, 
+            "bilateral~renal": 0.5
+        }, 
+        "visualized.": {
+            "not~well": 1.0
+        }, 
+        "was": {
+            "11/8~Fluid": 0.08333333333333333, 
+            "LLE~which": 0.08333333333333333, 
+            "Patient's~pain": 0.08333333333333333, 
+            "and~she": 0.08333333333333333, 
+            "collection~which": 0.08333333333333333, 
+            "comfortable~and": 0.08333333333333333, 
+            "cystic~struction": 0.08333333333333333, 
+            "infection.~Drain": 0.08333333333333333, 
+            "muscle.~There": 0.08333333333333333, 
+            "pain.~She": 0.08333333333333333, 
+            "that~she": 0.08333333333333333, 
+            "their~recommendation": 0.08333333333333333
+        }, 
+        "we": {
+            "recommendations~,": 1.0
+        }, 
+        "well": {
+            "IMA~not": 0.3333333333333333, 
+            "and~was": 0.3333333333333333, 
+            "pain~was": 0.3333333333333333
+        }, 
+        "were": {
+            "cells~and": 0.25, 
+            "pain~you": 0.25, 
+            "physician~You": 0.25, 
+            "plan.~You": 0.25
+        }, 
+        "which": {
+            "fluid~collection": 0.5, 
+            "the~LLE": 0.5
+        }, 
+        "widely": {
+            "arteries~are": 1.0
+        }, 
+        "wiedely": {
+            "iliac~arteries": 1.0
+        }, 
+        "with": {
+            "DO/PLAN:~F/U": 0.09090909090909091, 
+            "Instruction~Take": 0.09090909090909091, 
+            "She~presents": 0.09090909090909091, 
+            "be~associated": 0.09090909090909091, 
+            "be~discharged": 0.09090909090909091, 
+            "follow~up": 0.18181818181818182, 
+            "thought~consistet": 0.09090909090909091, 
+            "was~sterile": 0.09090909090909091, 
+            "well~controlled": 0.09090909090909091, 
+            "yo~woman": 0.09090909090909091
+        }, 
+        "woman": {
+            "64~yo": 1.0
+        }, 
+        "woman.": {
+            "in~this": 1.0
+        }, 
+        "worsening": {
+            "she~had": 0.5, 
+            "you~have": 0.5
+        }, 
+        "worsens": {
+            "leg~edema": 1.0
+        }, 
+        "yo": {
+            "a~64": 1.0
+        }, 
+        "you": {
+            "COMMENTS:~If": 0.125, 
+            "and~that": 0.125, 
+            "breath~,": 0.125, 
+            "evaluation~if": 0.125, 
+            "oncologist.~If": 0.125, 
+            "pain~,": 0.125, 
+            "the~pain": 0.125, 
+            "worsens~,": 0.125
+        }, 
+        "your": {
+            ",~or": 0.16666666666666666, 
+            "adjacent~to": 0.16666666666666666, 
+            "should~contact": 0.3333333333333333, 
+            "should~contct": 0.16666666666666666, 
+            "worsening~of": 0.16666666666666666
+        }, 
+        "|": {
+            "12:00:00~AM": 0.1111111111111111, 
+            "71849528~|": 0.1111111111111111, 
+            "Seroma~|": 0.1111111111111111, 
+            "|~3118849": 0.1111111111111111, 
+            "|~71849528": 0.1111111111111111, 
+            "|~DIS": 0.1111111111111111, 
+            "|~Seroma": 0.1111111111111111, 
+            "|~VMC": 0.1111111111111111, 
+            "~491962040": 0.1111111111111111
+        }
+    }, 
+    "type": "data/test", 
+    "uni": {
+        "": 0.0011160714285714285, 
+        "(": 0.008928571428571428, 
+        ")": 0.008928571428571428, 
+        ").": 0.0011160714285714285, 
+        "):": 0.0011160714285714285, 
+        "******": 0.0033482142857142855, 
+        ",": 0.044642857142857144, 
+        "-": 0.004464285714285714, 
+        "---": 0.0011160714285714285, 
+        "-----": 0.002232142857142857, 
+        "------": 0.0011160714285714285, 
+        "-------": 0.0011160714285714285, 
+        "--------": 0.0011160714285714285, 
+        "04": 0.0011160714285714285, 
+        "04:30": 0.0011160714285714285, 
+        "1.": 0.002232142857142857, 
+        "10/10/2007": 0.0011160714285714285, 
+        "10/17/2007": 0.0011160714285714285, 
+        "100": 0.0011160714285714285, 
+        "11.5x5.5x2.7": 0.0011160714285714285, 
+        "11/8": 0.0011160714285714285, 
+        "12:00:00": 0.0011160714285714285, 
+        "2": 0.0011160714285714285, 
+        "2.": 0.002232142857142857, 
+        "2mg": 0.0011160714285714285, 
+        "3.": 0.002232142857142857, 
+        "3118849": 0.0011160714285714285, 
+        "491962040": 0.0011160714285714285, 
+        "5-10": 0.0011160714285714285, 
+        "600": 0.002232142857142857, 
+        "64": 0.0011160714285714285, 
+        "650": 0.002232142857142857, 
+        "71849528": 0.0011160714285714285, 
+        "8/1/2007": 0.0011160714285714285, 
+        "8/28": 0.002232142857142857, 
+        "8/8/07": 0.002232142857142857, 
+        "9/22": 0.0011160714285714285, 
+        "9/9": 0.0011160714285714285, 
+        "964-00-11-9": 0.0011160714285714285, 
+        ";Responsible": 0.0011160714285714285, 
+        "?seroma.": 0.0011160714285714285, 
+        "@": 0.0011160714285714285, 
+        "ACETAMINOPHEN": 0.002232142857142857, 
+        "ADDITIONAL": 0.0011160714285714285, 
+        "ADMISSION:": 0.0011160714285714285, 
+        "ADMIT": 0.0011160714285714285, 
+        "ALLERGY:": 0.0011160714285714285, 
+        "AM": 0.002232142857142857, 
+        "AND": 0.0011160714285714285, 
+        "ANTONY": 0.0011160714285714285, 
+        "APPOINTMENT(": 0.0011160714285714285, 
+        "AS": 0.0011160714285714285, 
+        "AT": 0.0011160714285714285, 
+        "Admission": 0.002232142857142857, 
+        "After": 0.0011160714285714285, 
+        "Alban": 0.0011160714285714285, 
+        "Allergies:": 0.0011160714285714285, 
+        "As": 0.0011160714285714285, 
+        "Attending:": 0.0011160714285714285, 
+        "BE": 0.0011160714285714285, 
+        "BID": 0.0011160714285714285, 
+        "BOBSIN": 0.0011160714285714285, 
+        "BRIEF": 0.0011160714285714285, 
+        "BY:": 0.0011160714285714285, 
+        "Babic": 0.0011160714285714285, 
+        "Balt": 0.0011160714285714285, 
+        "CA": 0.0011160714285714285, 
+        "CODE": 0.0011160714285714285, 
+        "COLACE": 0.0011160714285714285, 
+        "COMMENTS:": 0.0011160714285714285, 
+        "CONDITION:": 0.0011160714285714285, 
+        "CONTINGENT": 0.0011160714285714285, 
+        "COURSE:": 0.0011160714285714285, 
+        "CTA": 0.0011160714285714285, 
+        "Causing": 0.0011160714285714285, 
+        "Clifton": 0.0011160714285714285, 
+        "Complications": 0.0011160714285714285, 
+        "D/C": 0.002232142857142857, 
+        "DIAGNOSIS": 0.0011160714285714285, 
+        "DIAGNOSIS:": 0.0011160714285714285, 
+        "DIAGNOSIS;Conditions": 0.0011160714285714285, 
+        "DIET:": 0.0011160714285714285, 
+        "DIS": 0.0011160714285714285, 
+        "DISCHARGE": 0.005580357142857143, 
+        "DISCHARGE:": 0.0011160714285714285, 
+        "DISPOSITION:": 0.0011160714285714285, 
+        "DO/PLAN:": 0.0011160714285714285, 
+        "DOCUSATE": 0.0011160714285714285, 
+        "DVT": 0.0011160714285714285, 
+        "Date:": 0.002232142857142857, 
+        "Deangelo": 0.0011160714285714285, 
+        "Discharge": 0.0011160714285714285, 
+        "Dr.": 0.0033482142857142855, 
+        "Drain": 0.0033482142857142855, 
+        "END": 0.0011160714285714285, 
+        "ENTERED": 0.0011160714285714285, 
+        "Epa": 0.0011160714285714285, 
+        "F/U": 0.0011160714285714285, 
+        "F/u": 0.0011160714285714285, 
+        "FILIBERTO": 0.0011160714285714285, 
+        "FINAL": 0.0011160714285714285, 
+        "FOLLOW": 0.0011160714285714285, 
+        "Fluid": 0.0011160714285714285, 
+        "Following": 0.0011160714285714285, 
+        "Food/Drug": 0.0011160714285714285, 
+        "Full": 0.0011160714285714285, 
+        "G.": 0.0011160714285714285, 
+        "GUIDICE": 0.0011160714285714285, 
+        "Gene": 0.0011160714285714285, 
+        "Given": 0.0011160714285714285, 
+        "H/O": 0.0011160714285714285, 
+        "HCL": 0.0011160714285714285, 
+        "HO": 0.0011160714285714285, 
+        "HOSPITAL": 0.0011160714285714285, 
+        "HPI:": 0.0011160714285714285, 
+        "HYDROMORPHONE": 0.0011160714285714285, 
+        "Hahaybrid": 0.0011160714285714285, 
+        "Headache": 0.0011160714285714285, 
+        "Home": 0.0011160714285714285, 
+        "Hospital": 0.0011160714285714285, 
+        "IBUPROFEN": 0.002232142857142857, 
+        "IMA": 0.0011160714285714285, 
+        "IMMEDIATE": 0.0011160714285714285, 
+        "IN": 0.0011160714285714285, 
+        "IR": 0.0011160714285714285, 
+        "IR's": 0.0011160714285714285, 
+        "IV": 0.002232142857142857, 
+        "IVC": 0.0011160714285714285, 
+        "Ibuprofen": 0.0011160714285714285, 
+        "If": 0.0033482142857142855, 
+        "Iliopsoas": 0.0011160714285714285, 
+        "Immediately": 0.0011160714285714285, 
+        "Infections": 0.0011160714285714285, 
+        "Ingdown": 0.0011160714285714285, 
+        "Instruction": 0.0011160714285714285, 
+        "Interaction": 0.0011160714285714285, 
+        "Kenton": 0.0011160714285714285, 
+        "Key": 0.0011160714285714285, 
+        "Kidneys": 0.0011160714285714285, 
+        "L": 0.0011160714285714285, 
+        "LLE": 0.0033482142857142855, 
+        "LOVETINSKY": 0.0011160714285714285, 
+        "LR29": 0.0011160714285714285, 
+        "Large": 0.0011160714285714285, 
+        "Left": 0.0011160714285714285, 
+        "Leygilb": 0.0011160714285714285, 
+        "Liver": 0.0011160714285714285, 
+        "M.D.": 0.002232142857142857, 
+        "MEDICATIONS": 0.002232142857142857, 
+        "MG": 0.0078125, 
+        "MORPHINE": 0.0011160714285714285, 
+        "MRA/MRV/MRI:": 0.0011160714285714285, 
+        "MRA:": 0.0011160714285714285, 
+        "MRI": 0.0011160714285714285, 
+        "MRI/MRV": 0.0011160714285714285, 
+        "MRV:": 0.0011160714285714285, 
+        "MSIR": 0.0033482142857142855, 
+        "Meds:": 0.0011160714285714285, 
+        "Modebeau": 0.0011160714285714285, 
+        "Multiple": 0.0011160714285714285, 
+        "NELSON": 0.0011160714285714285, 
+        "NKA": 0.0011160714285714285, 
+        "NKDA": 0.0011160714285714285, 
+        "NOT": 0.0011160714285714285, 
+        "No": 0.0033482142857142855, 
+        "Normal": 0.0011160714285714285, 
+        "O.R.": 0.0011160714285714285, 
+        "OA": 0.0011160714285714285, 
+        "OF": 0.002232142857142857, 
+        "ON": 0.002232142857142857, 
+        "ON:": 0.0011160714285714285, 
+        "ONC": 0.0011160714285714285, 
+        "OPERATIONS": 0.0011160714285714285, 
+        "ORDER": 0.0011160714285714285, 
+        "ORDERS": 0.0011160714285714285, 
+        "OTHER": 0.002232142857142857, 
+        "On": 0.0011160714285714285, 
+        "Oncology": 0.002232142857142857, 
+        "Ortho": 0.0011160714285714285, 
+        "Orthopedic": 0.002232142857142857, 
+        "Other": 0.0011160714285714285, 
+        "P.": 0.0011160714285714285, 
+        "PATIENT": 0.0011160714285714285, 
+        "PMH:": 0.0011160714285714285, 
+        "PO": 0.0078125, 
+        "PRINCIPAL": 0.0011160714285714285, 
+        "PRN": 0.006696428571428571, 
+        "PROCEDURES:": 0.0011160714285714285, 
+        "Pain": 0.0033482142857142855, 
+        "Patient": 0.0033482142857142855, 
+        "Patient's": 0.0011160714285714285, 
+        "Placement": 0.0011160714285714285, 
+        "Prophylaxis:": 0.0011160714285714285, 
+        "Q4-6": 0.0011160714285714285, 
+        "Q4H": 0.0033482142857142855, 
+        "Q6H": 0.0011160714285714285, 
+        "QPM": 0.0011160714285714285, 
+        "RELEASE": 0.0011160714285714285, 
+        "RESUME": 0.0011160714285714285, 
+        "RETURN": 0.0011160714285714285, 
+        "RRR": 0.0011160714285714285, 
+        "Recommended": 0.0011160714285714285, 
+        "Report": 0.0011160714285714285, 
+        "Restrictions": 0.0011160714285714285, 
+        "Room:": 0.0011160714285714285, 
+        "Rouge": 0.0011160714285714285, 
+        "S": 0.0011160714285714285, 
+        "SMA": 0.0011160714285714285, 
+        "SODIUM": 0.0011160714285714285, 
+        "STATUS:": 0.0011160714285714285, 
+        "SUMMARY:": 0.0011160714285714285, 
+        "Satisfactory": 0.0011160714285714285, 
+        "Seroma": 0.002232142857142857, 
+        "Service:": 0.0011160714285714285, 
+        "She": 0.002232142857142857, 
+        "Solymani": 0.0011160714285714285, 
+        "Status:": 0.002232142857142857, 
+        "Study": 0.0011160714285714285, 
+        "Surgery": 0.0011160714285714285, 
+        "THE": 0.0011160714285714285, 
+        "TID": 0.0011160714285714285, 
+        "TO": 0.002232142857142857, 
+        "TREATMENTS/PROCEDURES": 0.0011160714285714285, 
+        "TYLENOL": 0.0011160714285714285, 
+        "Take": 0.0011160714285714285, 
+        "The": 0.0011160714285714285, 
+        "There": 0.0011160714285714285, 
+        "They": 0.0011160714285714285, 
+        "Treatment/Stay": 0.0011160714285714285, 
+        "U/S": 0.002232142857142857, 
+        "UP": 0.0011160714285714285, 
+        "UPON": 0.0011160714285714285, 
+        "USED": 0.0011160714285714285, 
+        "Uterine": 0.0011160714285714285, 
+        "VMC": 0.0011160714285714285, 
+        "VSS": 0.0011160714285714285, 
+        "WILL": 0.0011160714285714285, 
+        "WORK:": 0.0011160714285714285, 
+        "Walkner": 0.0011160714285714285, 
+        "Will": 0.0011160714285714285, 
+        "Woodpor": 0.0011160714285714285, 
+        "YES": 0.0011160714285714285, 
+        "You": 0.002232142857142857, 
+        "Zaborowski": 0.0011160714285714285, 
+        "a": 0.0078125, 
+        "abd": 0.0011160714285714285, 
+        "abdomen": 0.0011160714285714285, 
+        "acutely": 0.0011160714285714285, 
+        "adjacent": 0.0011160714285714285, 
+        "admission": 0.0011160714285714285, 
+        "admitted": 0.0011160714285714285, 
+        "adrenal": 0.0011160714285714285, 
+        "afebrile": 0.0011160714285714285, 
+        "affecting": 0.0011160714285714285, 
+        "after": 0.0011160714285714285, 
+        "again": 0.0011160714285714285, 
+        "agent": 0.0011160714285714285, 
+        "an": 0.002232142857142857, 
+        "and": 0.022321428571428572, 
+        "aorta": 0.0011160714285714285, 
+        "are": 0.006696428571428571, 
+        "arteries": 0.002232142857142857, 
+        "asked": 0.0011160714285714285, 
+        "associated": 0.0011160714285714285, 
+        "atypical": 0.0011160714285714285, 
+        "b/l.": 0.0011160714285714285, 
+        "based": 0.0011160714285714285, 
+        "be": 0.0033482142857142855, 
+        "been": 0.0011160714285714285, 
+        "benign.": 0.0011160714285714285, 
+        "bilateral": 0.004464285714285714, 
+        "breath": 0.0011160714285714285, 
+        "but": 0.0011160714285714285, 
+        "by": 0.004464285714285714, 
+        "caliber": 0.0011160714285714285, 
+        "cancer": 0.002232142857142857, 
+        "carboplatin": 0.0011160714285714285, 
+        "care.": 0.0011160714285714285, 
+        "celiac": 0.0011160714285714285, 
+        "cell": 0.002232142857142857, 
+        "cells": 0.0011160714285714285, 
+        "chill": 0.0011160714285714285, 
+        "clear": 0.002232142857142857, 
+        "code": 0.002232142857142857, 
+        "colleagues": 0.0011160714285714285, 
+        "collected": 0.0011160714285714285, 
+        "collection": 0.006696428571428571, 
+        "comfortable": 0.0011160714285714285, 
+        "common": 0.0011160714285714285, 
+        "compression": 0.0011160714285714285, 
+        "concern": 0.0011160714285714285, 
+        "consistet": 0.0011160714285714285, 
+        "contact": 0.002232142857142857, 
+        "contct": 0.0011160714285714285, 
+        "control": 0.0011160714285714285, 
+        "control:": 0.0011160714285714285, 
+        "controlled": 0.002232142857142857, 
+        "could": 0.0033482142857142855, 
+        "course/A&P": 0.0011160714285714285, 
+        "cycles": 0.0011160714285714285, 
+        "cyctic": 0.0011160714285714285, 
+        "cystic": 0.0011160714285714285, 
+        "cytology/gram": 0.0011160714285714285, 
+        "day": 0.0011160714285714285, 
+        "determine": 0.0011160714285714285, 
+        "diagnosed": 0.0011160714285714285, 
+        "dictated": 0.0011160714285714285, 
+        "dilaudid": 0.0011160714285714285, 
+        "discharged": 0.0011160714285714285, 
+        "done": 0.0011160714285714285, 
+        "dose": 0.002232142857142857, 
+        "dosed": 0.002232142857142857, 
+        "doxil": 0.0011160714285714285, 
+        "drain": 0.002232142857142857, 
+        "drainage": 0.002232142857142857, 
+        "drainage.": 0.0011160714285714285, 
+        "drained": 0.0033482142857142855, 
+        "draining": 0.0011160714285714285, 
+        "due": 0.002232142857142857, 
+        "during": 0.0011160714285714285, 
+        "edema": 0.0033482142857142855, 
+        "edematous": 0.0011160714285714285, 
+        "effect.": 0.0011160714285714285, 
+        "evaluation": 0.002232142857142857, 
+        "evidence": 0.002232142857142857, 
+        "external": 0.0011160714285714285, 
+        "extremity": 0.0011160714285714285, 
+        "femoral": 0.002232142857142857, 
+        "fevers": 0.0011160714285714285, 
+        "final": 0.0011160714285714285, 
+        "finding:": 0.0011160714285714285, 
+        "fluid": 0.0078125, 
+        "fluid.": 0.002232142857142857, 
+        "follow": 0.002232142857142857, 
+        "food": 0.0011160714285714285, 
+        "for": 0.010044642857142858, 
+        "free.": 0.0011160714285714285, 
+        "from": 0.002232142857142857, 
+        "full": 0.0011160714285714285, 
+        "further": 0.0011160714285714285, 
+        "future": 0.0011160714285714285, 
+        "given": 0.0033482142857142855, 
+        "glands": 0.0011160714285714285, 
+        "groin": 0.004464285714285714, 
+        "had": 0.0033482142857142855, 
+        "have": 0.0033482142857142855, 
+        "having": 0.0011160714285714285, 
+        "her": 0.004464285714285714, 
+        "hospitalization": 0.0011160714285714285, 
+        "hrs": 0.0011160714285714285, 
+        "hypercholesterolemia": 0.0011160714285714285, 
+        "hysterectomy": 0.0011160714285714285, 
+        "ibuprofen": 0.0011160714285714285, 
+        "idenitified": 0.0011160714285714285, 
+        "if": 0.0033482142857142855, 
+        "iliac": 0.0033482142857142855, 
+        "iliopsoas": 0.006696428571428571, 
+        "iliopsoas.": 0.0011160714285714285, 
+        "imaging.": 0.0011160714285714285, 
+        "in": 0.012276785714285714, 
+        "increased": 0.0011160714285714285, 
+        "infection": 0.0033482142857142855, 
+        "infection.": 0.0011160714285714285, 
+        "insertion": 0.0011160714285714285, 
+        "interested.": 0.0011160714285714285, 
+        "internal": 0.0011160714285714285, 
+        "is": 0.0011160714285714285, 
+        "it's": 0.0011160714285714285, 
+        "joint": 0.0033482142857142855, 
+        "left": 0.0033482142857142855, 
+        "leg": 0.002232142857142857, 
+        "leg/groin": 0.0011160714285714285, 
+        "lovenox": 0.0011160714285714285, 
+        "lovenox.": 0.0011160714285714285, 
+        "low": 0.0011160714285714285, 
+        "lower": 0.0011160714285714285, 
+        "minimal": 0.0011160714285714285, 
+        "more": 0.0011160714285714285, 
+        "morphine": 0.0011160714285714285, 
+        "morphine.": 0.0011160714285714285, 
+        "much": 0.0011160714285714285, 
+        "muscle.": 0.0011160714285714285, 
+        "myelosupression": 0.0011160714285714285, 
+        "nausea/vomiting": 0.0011160714285714285, 
+        "needed": 0.0011160714285714285, 
+        "needed.": 0.0011160714285714285, 
+        "negative": 0.0011160714285714285, 
+        "no": 0.0033482142857142855, 
+        "normal": 0.0011160714285714285, 
+        "not": 0.0011160714285714285, 
+        "noted": 0.0033482142857142855, 
+        "nothing": 0.0011160714285714285, 
+        "now": 0.0011160714285714285, 
+        "of": 0.018973214285714284, 
+        "on": 0.0011160714285714285, 
+        "onc": 0.0011160714285714285, 
+        "oncologist": 0.0011160714285714285, 
+        "oncologist.": 0.0011160714285714285, 
+        "one": 0.002232142857142857, 
+        "only": 0.0011160714285714285, 
+        "or": 0.0033482142857142855, 
+        "originally": 0.0011160714285714285, 
+        "ortho": 0.0011160714285714285, 
+        "orthopedics": 0.0011160714285714285, 
+        "our": 0.0011160714285714285, 
+        "pain": 0.0078125, 
+        "pain.": 0.002232142857142857, 
+        "pain/fluid": 0.0011160714285714285, 
+        "pain:": 0.0011160714285714285, 
+        "participate": 0.0011160714285714285, 
+        "particularly": 0.0011160714285714285, 
+        "patent": 0.0011160714285714285, 
+        "patient": 0.0011160714285714285, 
+        "patient's": 0.0011160714285714285, 
+        "patient.": 0.002232142857142857, 
+        "pending": 0.0011160714285714285, 
+        "per": 0.0011160714285714285, 
+        "perfusion.": 0.0011160714285714285, 
+        "physician": 0.0011160714285714285, 
+        "placed": 0.0011160714285714285, 
+        "placement-": 0.0011160714285714285, 
+        "plan.": 0.0011160714285714285, 
+        "post": 0.0011160714285714285, 
+        "prescription": 0.0011160714285714285, 
+        "presents": 0.0011160714285714285, 
+        "previously": 0.0011160714285714285, 
+        "primary": 0.0011160714285714285, 
+        "progression": 0.0011160714285714285, 
+        "prophylactic": 0.0011160714285714285, 
+        "proximal": 0.002232142857142857, 
+        "proximity": 0.0011160714285714285, 
+        "radiation": 0.002232142857142857, 
+        "reaccumulation": 0.0011160714285714285, 
+        "read": 0.0011160714285714285, 
+        "received": 0.0011160714285714285, 
+        "recently": 0.0011160714285714285, 
+        "recommendation": 0.0011160714285714285, 
+        "recommendations": 0.002232142857142857, 
+        "recur.": 0.0011160714285714285, 
+        "recurs": 0.0011160714285714285, 
+        "recurs.": 0.0011160714285714285, 
+        "relative": 0.0011160714285714285, 
+        "remained": 0.0011160714285714285, 
+        "removed": 0.002232142857142857, 
+        "renal": 0.002232142857142857, 
+        "required": 0.0011160714285714285, 
+        "requirement": 0.0011160714285714285, 
+        "results": 0.0011160714285714285, 
+        "revelaed": 0.0011160714285714285, 
+        "revleaed": 0.0011160714285714285, 
+        "risk": 0.0011160714285714285, 
+        "risks": 0.0011160714285714285, 
+        "sacroiliac": 0.0011160714285714285, 
+        "seen": 0.0011160714285714285, 
+        "segments": 0.0011160714285714285, 
+        "seroma": 0.0011160714285714285, 
+        "seroma/hematoma": 0.0011160714285714285, 
+        "serosanguinous": 0.0011160714285714285, 
+        "she": 0.006696428571428571, 
+        "short": 0.0011160714285714285, 
+        "shortness": 0.0011160714285714285, 
+        "should": 0.004464285714285714, 
+        "single": 0.0011160714285714285, 
+        "size": 0.002232142857142857, 
+        "small": 0.0011160714285714285, 
+        "solitary": 0.0011160714285714285, 
+        "spleen": 0.0011160714285714285, 
+        "stain": 0.0011160714285714285, 
+        "status": 0.0011160714285714285, 
+        "sterile": 0.002232142857142857, 
+        "struction": 0.0011160714285714285, 
+        "structure": 0.0011160714285714285, 
+        "studies": 0.0011160714285714285, 
+        "studies:": 0.0011160714285714285, 
+        "summary": 0.0011160714285714285, 
+        "superficial": 0.0011160714285714285, 
+        "switched": 0.0011160714285714285, 
+        "symmetric": 0.0011160714285714285, 
+        "taxol": 0.0011160714285714285, 
+        "tense": 0.0011160714285714285, 
+        "term": 0.0011160714285714285, 
+        "that": 0.0078125, 
+        "the": 0.018973214285714284, 
+        "their": 0.0011160714285714285, 
+        "then": 0.002232142857142857, 
+        "therapeutically": 0.0011160714285714285, 
+        "this": 0.005580357142857143, 
+        "thought": 0.0011160714285714285, 
+        "thrombocytopenia.": 0.0011160714285714285, 
+        "thrombus": 0.0011160714285714285, 
+        "throughout": 0.0011160714285714285, 
+        "to": 0.010044642857142858, 
+        "treated": 0.0011160714285714285, 
+        "treatment": 0.0011160714285714285, 
+        "trunk": 0.0011160714285714285, 
+        "tylenol": 0.0011160714285714285, 
+        "underwent": 0.0011160714285714285, 
+        "unremarkable.": 0.0011160714285714285, 
+        "up": 0.002232142857142857, 
+        "uterine": 0.002232142857142857, 
+        "vein": 0.0011160714285714285, 
+        "veins": 0.002232142857142857, 
+        "visualized.": 0.0011160714285714285, 
+        "was": 0.013392857142857142, 
+        "we": 0.0011160714285714285, 
+        "well": 0.0033482142857142855, 
+        "were": 0.004464285714285714, 
+        "which": 0.002232142857142857, 
+        "widely": 0.0011160714285714285, 
+        "wiedely": 0.0011160714285714285, 
+        "with": 0.012276785714285714, 
+        "woman": 0.0011160714285714285, 
+        "woman.": 0.0011160714285714285, 
+        "worsening": 0.002232142857142857, 
+        "worsens": 0.0011160714285714285, 
+        "yo": 0.0011160714285714285, 
+        "you": 0.008928571428571428, 
+        "your": 0.006696428571428571, 
+        "|": 0.010044642857142858
+    }
+}

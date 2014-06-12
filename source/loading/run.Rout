@@ -1,0 +1,79 @@
+
+R version 3.0.3 (2014-03-06) -- "Warm Puppy"
+Copyright (C) 2014 The R Foundation for Statistical Computing
+Platform: x86_64-apple-darwin10.8.0 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[Previously saved workspace restored]
+
+> diagnosis = read.table("/Users/nwaltner/uw/ling575/classifications.txt",header=TRUE,sep=",")
+> dim(diagnosis)
+[1] 6451    3
+> table(diagnosis[,1:2])
+                      Type
+Diagnosis              intuitive textual
+  Asthma                      84      91
+  CAD                        391     399
+  CHF                        307     309
+  Depression                 141     103
+  Diabetes                   472     484
+  Gallstones                 101     108
+  GERD                       144     118
+  Gout                        94      90
+  Hypercholesterolemia       315     304
+  Hypertension               510     535
+  Hypertriglyceridemia        36      18
+  OA                         116     114
+  Obesity                    283     295
+  OSA                         98     105
+  PVD                        110     102
+  Venous_Insuff               53      21
+> 6451/727
+[1] 8.873453
+> ttt = table(diagnosis[,1:2])
+> ttt
+                      Type
+Diagnosis              intuitive textual
+  Asthma                      84      91
+  CAD                        391     399
+  CHF                        307     309
+  Depression                 141     103
+  Diabetes                   472     484
+  Gallstones                 101     108
+  GERD                       144     118
+  Gout                        94      90
+  Hypercholesterolemia       315     304
+  Hypertension               510     535
+  Hypertriglyceridemia        36      18
+  OA                         116     114
+  Obesity                    283     295
+  OSA                         98     105
+  PVD                        110     102
+  Venous_Insuff               53      21
+> cor(ttt)
+          intuitive   textual
+intuitive 1.0000000 0.9961961
+textual   0.9961961 1.0000000
+> barplot(t(ttt),beside=TRUE,cex.names=.55,main="Diagnoses Data",col=c(4,2));grid(col=1)
+> 
+> 
+> classes = read.table("/Users/nwaltner/uw/ling575/classes.txt",header=TRUE)
+> plot(hclust(dist(t(classes)),method="complete"))
+> 
+> 
+> proc.time()
+   user  system elapsed 
+  0.444   0.058   0.821 

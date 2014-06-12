@@ -1,0 +1,2409 @@
+{
+    "bi": {
+        "#obese#": {
+            ")": 0.5, 
+            "Abdomen": 0.5
+        }, 
+        "(": {
+            "fifth": 1.0
+        }, 
+        ")": {
+            "1": 0.3333333333333333, 
+            "2": 0.3333333333333333, 
+            "3": 0.16666666666666666, 
+            "5th": 0.16666666666666666
+        }, 
+        ",": {
+            "#obese#": 0.037037037037037035, 
+            "000": 0.037037037037037035, 
+            "1.0": 0.037037037037037035, 
+            "1.1": 0.037037037037037035, 
+            "12.9": 0.037037037037037035, 
+            "122/80": 0.037037037037037035, 
+            "139": 0.037037037037037035, 
+            "1995": 0.037037037037037035, 
+            "24": 0.037037037037037035, 
+            "25.4": 0.037037037037037035, 
+            "42%": 0.037037037037037035, 
+            "56": 0.037037037037037035, 
+            "7": 0.037037037037037035, 
+            "Aspirin": 0.037037037037037035, 
+            "DOSIER": 0.037037037037037035, 
+            "February": 0.037037037037037035, 
+            "Objectively": 0.037037037037037035, 
+            "October": 0.07407407407407407, 
+            "Tenormin": 0.037037037037037035, 
+            "admission": 0.037037037037037035, 
+            "disease": 0.037037037037037035, 
+            "however": 0.037037037037037035, 
+            "man": 0.037037037037037035, 
+            "portion": 0.037037037037037035, 
+            "small": 0.037037037037037035, 
+            "well": 0.037037037037037035
+        }, 
+        "-": {
+            "EKG": 1.0
+        }, 
+        "000": {
+            ",": 1.0
+        }, 
+        "1": {
+            "DIAGNOSES:": 0.5, 
+            "MEDICATIONS:": 0.5
+        }, 
+        "1.0": {
+            ",": 1.0
+        }, 
+        "1.1": {
+            "creatinine": 1.0
+        }, 
+        "1.2.": {
+            "INR": 1.0
+        }, 
+        "10/11/95": {
+            "D:": 1.0
+        }, 
+        "10/3/1995": {
+            "Date:": 1.0
+        }, 
+        "101": {
+            "glucose": 1.0
+        }, 
+        "12.9": {
+            "PT": 1.0
+        }, 
+        "122/80": {
+            "pressure": 1.0
+        }, 
+        "12:00:00": {
+            "8/5/1995": 1.0
+        }, 
+        "139": {
+            "sodium": 1.0
+        }, 
+        "184": {
+            ",": 1.0
+        }, 
+        "1988": {
+            "in": 1.0
+        }, 
+        "1988.": {
+            ",": 1.0
+        }, 
+        "1993": {
+            "in": 1.0
+        }, 
+        "1995": {
+            ",": 1.0
+        }, 
+        "2": {
+            "HYPERTENSION;": 0.5, 
+            "and": 0.5
+        }, 
+        "204.": {
+            "Weight": 1.0
+        }, 
+        "22": {
+            "the": 1.0
+        }, 
+        "24": {
+            "BUN": 1.0
+        }, 
+        "25": {
+            "the": 1.0
+        }, 
+        "25.4": {
+            "PTT": 1.0
+        }, 
+        "284663714": {
+            "": 1.0
+        }, 
+        "3": {
+            "CHOLESTEROLEMIA;": 1.0
+        }, 
+        "30": {
+            "at": 1.0
+        }, 
+        "325": {
+            ",": 1.0
+        }, 
+        "4.4.": {
+            "potassium": 1.0
+        }, 
+        "4034": {
+            "Batch:": 1.0
+        }, 
+        "42%": {
+            "hematocrit": 1.0
+        }, 
+        "44056529": {
+            "|": 1.0
+        }, 
+        "45": {
+            "a": 1.0
+        }, 
+        "45%.": {
+            "of": 1.0
+        }, 
+        "46%.": {
+            "of": 1.0
+        }, 
+        "50": {
+            ",": 1.0
+        }, 
+        "55": {
+            "EXAMINATION:": 1.0
+        }, 
+        "56": {
+            "rate": 1.0
+        }, 
+        "5th": {
+            "(": 1.0
+        }, 
+        "6/6/1995": {
+            "Date:": 1.0
+        }, 
+        "673911": {
+            "|": 1.0
+        }, 
+        "7": {
+            "count": 1.0
+        }, 
+        "8/5/1995": {
+            "|": 1.0
+        }, 
+        "ADDITIONAL": {
+            "DISEASE": 1.0
+        }, 
+        "AM": {
+            "12:00:00": 1.0
+        }, 
+        "ARTERY": {
+            "CORONARY": 1.0
+        }, 
+        "Abdomen": {
+            "murmurs.": 1.0
+        }, 
+        "Admission": {
+            "|": 1.0
+        }, 
+        "Alevras": {
+            "Mr.": 1.0
+        }, 
+        "Aspirin": {
+            ")": 1.0
+        }, 
+        "Attending:": {
+            "TROJAHN": 1.0
+        }, 
+        "BUN": {
+            "platelets.": 1.0
+        }, 
+        "Batch:": {
+            "LG807/9358": 1.0
+        }, 
+        "Blood": {
+            "overweight.": 1.0
+        }, 
+        "Bohs": {
+            "Dr.": 1.0
+        }, 
+        "By:": {
+            "Dictated": 1.0
+        }, 
+        "CC:": {
+            "d": 1.0
+        }, 
+        "CHOLESTEROLEMIA;": {
+            "HYPER-": 1.0
+        }, 
+        "CORONARY": {
+            "DIAGNOSIS:": 1.0
+        }, 
+        "COURSE:": {
+            "POSTOPERATIVE": 1.0
+        }, 
+        "Calculated": {
+            "akinesis.": 1.0
+        }, 
+        "Cardiac": {
+            "infarction.": 1.0
+        }, 
+        "Carotid": {
+            "negative.": 1.0
+        }, 
+        "Center": {
+            "Medical": 1.0
+        }, 
+        "Coronary": {
+            "1988.": 0.5, 
+            "OPERATION:": 0.5
+        }, 
+        "D:": {
+            "YSVQDY73R3": 1.0
+        }, 
+        "DIAGNOSES:": {
+            "ADDITIONAL": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "PRINCIPAL": 1.0
+        }, 
+        "DIS": {
+            "|": 1.0
+        }, 
+        "DISCHARGE": {
+            "day.": 1.0
+        }, 
+        "DISEASE": {
+            "ARTERY": 1.0
+        }, 
+        "DOSIER": {
+            "E.": 1.0
+        }, 
+        "Date:": {
+            "Admission": 0.5, 
+            "Discharge": 0.5
+        }, 
+        "Dictated": {
+            "Swagerty": 1.0
+        }, 
+        "Discharge": {
+            "Unsigned": 0.5, 
+            "|": 0.5
+        }, 
+        "Dr.": {
+            "CC:": 0.3333333333333333, 
+            "Hillebrano": 0.3333333333333333, 
+            "was": 0.3333333333333333
+        }, 
+        "E.": {
+            "RAYMON": 1.0
+        }, 
+        "EKG": {
+            "1.2.": 1.0
+        }, 
+        "EXAMINATION:": {
+            "PHYSICAL": 1.0
+        }, 
+        "February": {
+            "of": 1.0
+        }, 
+        "Further": {
+            "ward.": 1.0
+        }, 
+        "Geka": {
+            "Hacent's": 1.0
+        }, 
+        "HISTORY": {
+            "#obese#": 1.0
+        }, 
+        "HYPER-": {
+            ")": 1.0
+        }, 
+        "HYPERTENSION;": {
+            ")": 1.0
+        }, 
+        "Hacent's": {
+            "Sonsauon": 1.0
+        }, 
+        "Hepatojugular": {
+            "degrees.": 1.0
+        }, 
+        "Hillebrano": {
+            "Jackie": 1.0
+        }, 
+        "Hospital": {
+            "Shantum": 1.0
+        }, 
+        "ILLNESS:": {
+            "PRESENT": 1.0
+        }, 
+        "INR": {
+            ",": 1.0
+        }, 
+        "IS2": {
+            "M.D.": 1.0
+        }, 
+        "Index": {
+            "4034": 1.0
+        }, 
+        "Isaac": {
+            "Dr.": 1.0
+        }, 
+        "Jackie": {
+            "Dr.": 1.0
+        }, 
+        "Jugular": {
+            "clear.": 1.0
+        }, 
+        "LABORATORY": {
+            "edema.": 1.0
+        }, 
+        "LG807/9358": {
+            "IS2": 1.0
+        }, 
+        "LV": {
+            "developed": 1.0
+        }, 
+        "Lis": {
+            "at": 1.0
+        }, 
+        "Lungs": {
+            "204.": 1.0
+        }, 
+        "M.D.": {
+            ",": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "DISCHARGE": 1.0
+        }, 
+        "Medical": {
+            "Geka": 0.5, 
+            "Sut": 0.5
+        }, 
+        "Mosesco": {
+            "Stere": 1.0
+        }, 
+        "Mr.": {
+            ",": 0.5, 
+            "ILLNESS:": 0.5
+        }, 
+        "No": {
+            "S2.": 0.5, 
+            "throughout.": 0.5
+        }, 
+        "No.": {
+            "Index": 1.0
+        }, 
+        "Normal": {
+            "bruits.": 1.0
+        }, 
+        "O": {
+            "P": 1.0
+        }, 
+        "OF": {
+            "HISTORY": 1.0
+        }, 
+        "OMH": {
+            "|": 1.0
+        }, 
+        "OPERATION:": {
+            "46%.": 1.0
+        }, 
+        "Objectively": {
+            "symptoms.": 1.0
+        }, 
+        "October": {
+            "of": 0.5, 
+            "was": 0.5
+        }, 
+        "Of": {
+            "Hospital": 1.0
+        }, 
+        "P": {
+            "mg": 1.0
+        }, 
+        "PHYSICAL": {
+            "revascularization.": 1.0
+        }, 
+        "POSTOPERATIVE": {
+            "Bohs": 1.0
+        }, 
+        "PRESENT": {
+            "OF": 1.0
+        }, 
+        "PRINCIPAL": {
+            "6/6/1995": 1.0
+        }, 
+        "PT": {
+            "4.4.": 1.0
+        }, 
+        "PTT": {
+            ",": 1.0
+        }, 
+        "Peripheral": {
+            "benign.": 1.0
+        }, 
+        "RAYMON": {
+            "Attending:": 1.0
+        }, 
+        "Recent": {
+            "dysfunction.": 1.0
+        }, 
+        "Report": {
+            "10/3/1995": 1.0
+        }, 
+        "Rodefer": {
+            "Mr.": 1.0
+        }, 
+        "S1": {
+            "Normal": 1.0
+        }, 
+        "S2.": {
+            "and": 1.0
+        }, 
+        "Shantum": {
+            "Mosesco": 1.0
+        }, 
+        "Since": {
+            "episode.": 1.0
+        }, 
+        "Sonsauon": {
+            "to": 1.0
+        }, 
+        "Status:": {
+            "Report": 1.0
+        }, 
+        "Stere": {
+            "to": 1.0
+        }, 
+        "Summary": {
+            "Discharge": 1.0
+        }, 
+        "Sut": {
+            "Voylecrest": 1.0
+        }, 
+        "Swagerty": {
+            "Isaac": 1.0
+        }, 
+        "T:": {
+            "10/11/95": 1.0
+        }, 
+        "TROJAHN": {
+            "WERNER": 1.0
+        }, 
+        "Tenormin": {
+            ")": 1.0
+        }, 
+        "Thallium": {
+            "with": 1.0
+        }, 
+        "The": {
+            "45%.": 0.3333333333333333, 
+            "COURSE:": 0.3333333333333333, 
+            "portion.": 0.3333333333333333
+        }, 
+        "Unsigned": {
+            "Status:": 0.5, 
+            "|": 0.5
+        }, 
+        "VALUES:": {
+            "LABORATORY": 1.0
+        }, 
+        "Voylecrest": {
+            "Lis": 1.0
+        }, 
+        "WERNER": {
+            "By:": 1.0
+        }, 
+        "Weight": {
+            "regular.": 1.0
+        }, 
+        "White": {
+            "VALUES:": 1.0
+        }, 
+        "YSVQDY73R3": {
+            "No.": 1.0
+        }, 
+        "a": {
+            "is": 0.5, 
+            "with": 0.5
+        }, 
+        "admission": {
+            "Recent": 0.3333333333333333, 
+            "first": 0.3333333333333333, 
+            "last": 0.3333333333333333
+        }, 
+        "akinesis.": {
+            "apical": 1.0
+        }, 
+        "and": {
+            "101": 0.09090909090909091, 
+            "S1": 0.09090909090909091, 
+            "bradycardia": 0.09090909090909091, 
+            "branch": 0.09090909090909091, 
+            "catheterization": 0.09090909090909091, 
+            "day": 0.18181818181818182, 
+            "descending": 0.09090909090909091, 
+            "disease": 0.09090909090909091, 
+            "dominant": 0.09090909090909091, 
+            "hypokinesis": 0.09090909090909091
+        }, 
+        "angiography": {
+            "Coronary": 1.0
+        }, 
+        "anterior": {
+            "left": 0.5, 
+            "to": 0.5
+        }, 
+        "apical": {
+            "and": 1.0
+        }, 
+        "are": {
+            "pulses": 1.0
+        }, 
+        "arteries": {
+            "descending": 1.0
+        }, 
+        "artery": {
+            "circumflex": 0.125, 
+            "coronary": 0.75, 
+            "descending": 0.125
+        }, 
+        "at": {
+            "elevated": 0.5, 
+            "hospitalization": 0.5
+        }, 
+        "be": {
+            "could": 1.0
+        }, 
+        "benign.": {
+            "otherwise": 1.0
+        }, 
+        "bradycardia": {
+            "sinus": 1.0
+        }, 
+        "branch": {
+            "marginal": 1.0
+        }, 
+        "bruits.": {
+            "without": 1.0
+        }, 
+        "but": {
+            ",": 1.0
+        }, 
+        "bypass": {
+            "Coronary": 1.0
+        }, 
+        "catheterization": {
+            "Cardiac": 0.5, 
+            "artery": 0.5
+        }, 
+        "circumflex": {
+            "left": 1.0
+        }, 
+        "clear.": {
+            "Lungs": 1.0
+        }, 
+        "condition": {
+            "postoperative": 1.0
+        }, 
+        "coronary": {
+            "for": 0.14285714285714285, 
+            "multivessel": 0.14285714285714285, 
+            "of": 0.2857142857142857, 
+            "revealed": 0.14285714285714285, 
+            "right": 0.14285714285714285, 
+            "vessel": 0.14285714285714285
+        }, 
+        "could": {
+            "patient": 1.0
+        }, 
+        "count": {
+            "White": 1.0
+        }, 
+        "course": {
+            "postoperative": 1.0
+        }, 
+        "creatinine": {
+            ",": 1.0
+        }, 
+        "d": {
+            "q": 1.0
+        }, 
+        "day": {
+            "postoperative": 0.5, 
+            "q": 0.5
+        }, 
+        "day.": {
+            "postoperative": 1.0
+        }, 
+        "degrees.": {
+            "30": 1.0
+        }, 
+        "descending": {
+            "anterior": 0.6666666666666666, 
+            "posterior": 0.3333333333333333
+        }, 
+        "developed": {
+            "and": 1.0
+        }, 
+        "discharged": {
+            "be": 1.0
+        }, 
+        "disease": {
+            "artery": 0.8, 
+            "coronary": 0.2
+        }, 
+        "doing": {
+            "was": 1.0
+        }, 
+        "dominant": {
+            "non": 1.0
+        }, 
+        "due": {
+            "1993": 0.5, 
+            "Center": 0.5
+        }, 
+        "dysfunction.": {
+            "LV": 1.0
+        }, 
+        "edema.": {
+            "pitting": 1.0
+        }, 
+        "ejection": {
+            "ventricular": 0.5, 
+            "with": 0.5
+        }, 
+        "elevated": {
+            "not": 1.0
+        }, 
+        "enlarged": {
+            "markedly": 1.0
+        }, 
+        "episode.": {
+            "syncopal": 1.0
+        }, 
+        "essentially": {
+            ",": 1.0
+        }, 
+        "eventual": {
+            "and": 1.0
+        }, 
+        "evidence": {
+            "was": 1.0
+        }, 
+        "extubated": {
+            "was": 1.0
+        }, 
+        "fifth": {
+            "the": 1.0
+        }, 
+        "first": {
+            "the": 1.0
+        }, 
+        "for": {
+            "Of": 1.0
+        }, 
+        "fraction": {
+            "ejection": 1.0
+        }, 
+        "from": {
+            "report": 1.0
+        }, 
+        "gentle-": {
+            "old": 1.0
+        }, 
+        "glucose": {
+            ",": 1.0
+        }, 
+        "good": {
+            "in": 1.0
+        }, 
+        "heart": {
+            ",": 1.0
+        }, 
+        "hematocrit": {
+            ",": 1.0
+        }, 
+        "history": {
+            "long": 1.0
+        }, 
+        "hospitalization": {
+            "next": 1.0
+        }, 
+        "however": {
+            ",": 1.0
+        }, 
+        "hypokinesis": {
+            "inferior": 1.0
+        }, 
+        "images": {
+            "Thallium": 1.0
+        }, 
+        "in": {
+            "Center": 0.2, 
+            "angiography": 0.2, 
+            "artery": 0.2, 
+            "discharged": 0.2, 
+            "occluded": 0.2
+        }, 
+        "infarction": {
+            "myocardial": 1.0
+        }, 
+        "infarction.": {
+            "myocardial": 1.0
+        }, 
+        "inferior": {
+            "and": 0.5, 
+            "with": 0.5
+        }, 
+        "intact": {
+            "are": 1.0
+        }, 
+        "is": {
+            "Alevras": 0.3333333333333333, 
+            "artery": 0.3333333333333333, 
+            "reflex": 0.3333333333333333
+        }, 
+        "its": {
+            "in": 1.0
+        }, 
+        "large": {
+            "and": 1.0
+        }, 
+        "last": {
+            "the": 1.0
+        }, 
+        "left": {
+            ",": 0.25, 
+            "Calculated": 0.25, 
+            "The": 0.25, 
+            "the": 0.25
+        }, 
+        "level": {
+            "same": 1.0
+        }, 
+        "long": {
+            "a": 1.0
+        }, 
+        "man": {
+            "gentle-": 0.5, 
+            "old": 0.5
+        }, 
+        "marginal": {
+            "obtuse": 1.0
+        }, 
+        "markedly": {
+            "revealed": 1.0
+        }, 
+        "mg": {
+            "325": 0.5, 
+            "50": 0.5
+        }, 
+        "mid": {
+            "its": 1.0
+        }, 
+        "multivessel": {
+            "severe": 1.0
+        }, 
+        "murmurs.": {
+            "No": 1.0
+        }, 
+        "myocardial": {
+            "eventual": 0.3333333333333333, 
+            "inferior": 0.3333333333333333, 
+            "to": 0.3333333333333333
+        }, 
+        "negative.": {
+            "is": 1.0
+        }, 
+        "next": {
+            "The": 1.0
+        }, 
+        "non": {
+            ",": 1.0
+        }, 
+        "normal": {
+            "upstroke": 1.0
+        }, 
+        "not": {
+            "pressure": 1.0
+        }, 
+        "obtuse": {
+            "large": 1.0
+        }, 
+        "occluded": {
+            "totally": 1.0
+        }, 
+        "occlusion": {
+            "total": 1.0
+        }, 
+        "of": {
+            "22": 0.1, 
+            "25": 0.1, 
+            "evidence": 0.1, 
+            "fraction": 0.2, 
+            "history": 0.1, 
+            "level": 0.1, 
+            "occlusion": 0.1, 
+            "progression": 0.1, 
+            "suggestive": 0.1
+        }, 
+        "old": {
+            "year": 1.0
+        }, 
+        "on": {
+            "arteries": 0.3333333333333333, 
+            "condition": 0.3333333333333333, 
+            "extubated": 0.3333333333333333
+        }, 
+        "otherwise": {
+            "but": 1.0
+        }, 
+        "overweight.": {
+            ",": 1.0
+        }, 
+        "patient": {
+            "The": 0.5, 
+            "the": 0.5
+        }, 
+        "pitting": {
+            "No": 1.0
+        }, 
+        "platelets.": {
+            "184": 1.0
+        }, 
+        "portion": {
+            "proximal": 1.0
+        }, 
+        "portion.": {
+            "mid": 1.0
+        }, 
+        "posterior": {
+            "and": 1.0
+        }, 
+        "postoperative": {
+            ")": 0.25, 
+            "Further": 0.25, 
+            "first": 0.25, 
+            "good": 0.25
+        }, 
+        "potassium": {
+            ",": 1.0
+        }, 
+        "pressure": {
+            "Blood": 0.5, 
+            "venous": 0.5
+        }, 
+        "progression": {
+            "significant": 1.0
+        }, 
+        "proximal": {
+            "its": 1.0
+        }, 
+        "pulses": {
+            "Peripheral": 1.0
+        }, 
+        "q": {
+            "O": 1.0
+        }, 
+        "rate": {
+            "heart": 1.0
+        }, 
+        "reflex": {
+            "Hepatojugular": 1.0
+        }, 
+        "regular.": {
+            ",": 1.0
+        }, 
+        "report": {
+            "catheterization": 1.0
+        }, 
+        "revascularization.": {
+            "myocardial": 1.0
+        }, 
+        "revealed": {
+            "1988": 0.3333333333333333, 
+            "1995": 0.3333333333333333, 
+            "ventriculogram": 0.3333333333333333
+        }, 
+        "right": {
+            "the": 1.0
+        }, 
+        "same": {
+            "the": 1.0
+        }, 
+        "severe": {
+            "of": 1.0
+        }, 
+        "significant": {
+            "of": 1.0
+        }, 
+        "sinus": {
+            "-": 1.0
+        }, 
+        "small": {
+            "is": 1.0
+        }, 
+        "so": {
+            "uneventful": 1.0
+        }, 
+        "sodium": {
+            "and": 1.0
+        }, 
+        "suggestive": {
+            "images": 1.0
+        }, 
+        "surgeon": {
+            ",": 1.0
+        }, 
+        "symptoms.": {
+            "of": 1.0
+        }, 
+        "syncopal": {
+            "to": 1.0
+        }, 
+        "the": {
+            ",": 0.09090909090909091, 
+            "Since": 0.09090909090909091, 
+            "and": 0.09090909090909091, 
+            "essentially": 0.09090909090909091, 
+            "from": 0.09090909090909091, 
+            "of": 0.09090909090909091, 
+            "on": 0.2727272727272727, 
+            "so": 0.09090909090909091, 
+            "to": 0.09090909090909091
+        }, 
+        "there": {
+            ",": 1.0
+        }, 
+        "three": {
+            "revealed": 1.0
+        }, 
+        "throughout.": {
+            "intact": 1.0
+        }, 
+        "to": {
+            "admission": 0.3333333333333333, 
+            "bypass": 0.16666666666666666, 
+            "due": 0.3333333333333333, 
+            "transferred": 0.16666666666666666
+        }, 
+        "total": {
+            "with": 1.0
+        }, 
+        "totally": {
+            "artery": 1.0
+        }, 
+        "transferred": {
+            "and": 1.0
+        }, 
+        "uneventful": {
+            "was": 1.0
+        }, 
+        "upstroke": {
+            "Carotid": 1.0
+        }, 
+        "venous": {
+            "Jugular": 1.0
+        }, 
+        "ventricle": {
+            "enlarged": 1.0
+        }, 
+        "ventricular": {
+            "left": 1.0
+        }, 
+        "ventriculogram": {
+            "left": 1.0
+        }, 
+        "vessel": {
+            "three": 1.0
+        }, 
+        "ward.": {
+            "the": 1.0
+        }, 
+        "was": {
+            "Rodefer": 0.16666666666666666, 
+            "course": 0.16666666666666666, 
+            "infarction": 0.16666666666666666, 
+            "patient": 0.16666666666666666, 
+            "surgeon": 0.16666666666666666, 
+            "there": 0.16666666666666666
+        }, 
+        "well": {
+            "doing": 1.0
+        }, 
+        "with": {
+            "disease": 0.6, 
+            "man": 0.2, 
+            "ventricle": 0.2
+        }, 
+        "without": {
+            "normal": 1.0
+        }, 
+        "year": {
+            "45": 0.5, 
+            "55": 0.5
+        }, 
+        "|": {
+            "284663714": 0.1111111111111111, 
+            "44056529": 0.1111111111111111, 
+            "673911": 0.1111111111111111, 
+            "AM": 0.1111111111111111, 
+            "DIS": 0.1111111111111111, 
+            "OMH": 0.1111111111111111, 
+            "Summary": 0.1111111111111111, 
+            "Unsigned": 0.1111111111111111, 
+            "|": 0.1111111111111111
+        }
+    }, 
+    "id": "1197", 
+    "text": " 284663714 | OMH | 44056529 | | 673911 | 8/5/1995 12:00:00 AM | Discharge Summary | Unsigned | DIS | Admission Date: 10/3/1995 Report Status: Unsigned Discharge Date: 6/6/1995 PRINCIPAL DIAGNOSIS: CORONARY ARTERY DISEASE ADDITIONAL DIAGNOSES: 1 ) HYPERTENSION; 2 ) HYPER- CHOLESTEROLEMIA; 3 ) #obese# HISTORY OF PRESENT ILLNESS: Mr. Alevras is a 45 year old gentle- man with a long history of coronary artery disease , the first admission to Sonsauon Hacent's Geka Medical Center due to myocardial infarction was October , 1988. Coronary angiography in 1988 revealed three vessel coronary artery disease with ejection fraction of 45%. The next hospitalization at Lis Voylecrest Sut Medical Center in 1993 due to syncopal episode. Since the last admission , Mr. Rodefer was doing well , essentially the same level of symptoms. Objectively , however , there was evidence of significant progression of coronary disease with Thallium images suggestive of severe multivessel coronary artery disease and developed LV dysfunction. Recent admission to Stere Mosesco Shantum Hospital Of for coronary artery catheterization and eventual myocardial revascularization. PHYSICAL EXAMINATION: 55 year old man , overweight. Blood pressure 122/80 , heart rate 56 , regular. Weight 204. Lungs clear. Jugular venous pressure not elevated at 30 degrees. Hepatojugular reflex is negative. Carotid upstroke normal without bruits. Normal S1 and S2. No murmurs. Abdomen #obese# , but otherwise benign. Peripheral pulses are intact throughout. No pitting edema. LABORATORY VALUES: White count 7 , 000 , hematocrit 42% , 184 platelets. BUN 24 , creatinine 1.1 , 1.0 , glucose 101 and sodium 139 , potassium 4.4. PT 12.9 , PTT 25.4 , INR 1.2. EKG - sinus bradycardia and inferior myocardial infarction. Cardiac catheterization report from the 25 of October , 1995 revealed coronary artery disease with total occlusion of the left anterior descending artery in its proximal portion , left circumflex artery is small , non dominant and large obtuse marginal branch and the right coronary artery totally occluded in its mid portion. The left ventriculogram revealed markedly enlarged ventricle with inferior hypokinesis and apical akinesis. Calculated left ventricular ejection fraction of 46%. OPERATION: Coronary bypass to anterior descending and posterior descending arteries on the 22 of February , 1995 , surgeon was Dr. Bohs POSTOPERATIVE COURSE: The patient was extubated on the first postoperative day and transferred to the ward. Further postoperative course was uneventful so the patient could be discharged in good postoperative condition on the fifth ( 5th ) postoperative day. DISCHARGE MEDICATIONS: 1 ) Aspirin , 325 mg P O q day and 2 ) Tenormin , 50 mg P O q d CC: Dr. Jackie Hillebrano Dr. Isaac Swagerty Dictated By: WERNER TROJAHN Attending: RAYMON E. DOSIER , M.D. IS2 LG807/9358 Batch: 4034 Index No. YSVQDY73R3 D: 10/11/95 T: 10/11/95", 
+    "tri": {
+        "#obese#": {
+            "3~)": 0.5, 
+            "murmurs.~Abdomen": 0.5
+        }, 
+        "(": {
+            "the~fifth": 1.0
+        }, 
+        ")": {
+            "(~5th": 0.16666666666666666, 
+            "CHOLESTEROLEMIA;~3": 0.16666666666666666, 
+            "DIAGNOSES:~1": 0.16666666666666666, 
+            "HYPERTENSION;~2": 0.16666666666666666, 
+            "MEDICATIONS:~1": 0.16666666666666666, 
+            "and~2": 0.16666666666666666
+        }, 
+        ",": {
+            ")~Aspirin": 0.037037037037037035, 
+            ")~Tenormin": 0.037037037037037035, 
+            ",~000": 0.037037037037037035, 
+            ",~1.0": 0.037037037037037035, 
+            ",~1995": 0.037037037037037035, 
+            ",~however": 0.037037037037037035, 
+            "Abdomen~#obese#": 0.037037037037037035, 
+            "BUN~24": 0.037037037037037035, 
+            "E.~DOSIER": 0.037037037037037035, 
+            "PTT~25.4": 0.037037037037037035, 
+            "PT~12.9": 0.037037037037037035, 
+            "artery~disease": 0.037037037037037035, 
+            "count~7": 0.037037037037037035, 
+            "creatinine~1.1": 0.037037037037037035, 
+            "doing~well": 0.037037037037037035, 
+            "hematocrit~42%": 0.037037037037037035, 
+            "is~small": 0.037037037037037035, 
+            "last~admission": 0.037037037037037035, 
+            "of~February": 0.037037037037037035, 
+            "of~October": 0.037037037037037035, 
+            "old~man": 0.037037037037037035, 
+            "pressure~122/80": 0.037037037037037035, 
+            "proximal~portion": 0.037037037037037035, 
+            "rate~56": 0.037037037037037035, 
+            "sodium~139": 0.037037037037037035, 
+            "symptoms.~Objectively": 0.037037037037037035, 
+            "was~October": 0.037037037037037035
+        }, 
+        "-": {
+            "1.2.~EKG": 1.0
+        }, 
+        "000": {
+            "7~,": 1.0
+        }, 
+        "1": {
+            "ADDITIONAL~DIAGNOSES:": 0.5, 
+            "DISCHARGE~MEDICATIONS:": 0.5
+        }, 
+        "1.0": {
+            "1.1~,": 1.0
+        }, 
+        "1.1": {
+            ",~creatinine": 1.0
+        }, 
+        "1.2.": {
+            ",~INR": 1.0
+        }, 
+        "10/11/95": {
+            "10/11/95~T:": 0.5, 
+            "YSVQDY73R3~D:": 0.5
+        }, 
+        "10/3/1995": {
+            "Admission~Date:": 1.0
+        }, 
+        "101": {
+            ",~glucose": 1.0
+        }, 
+        "12.9": {
+            "4.4.~PT": 1.0
+        }, 
+        "122/80": {
+            "Blood~pressure": 1.0
+        }, 
+        "12:00:00": {
+            "|~8/5/1995": 1.0
+        }, 
+        "139": {
+            "and~sodium": 1.0
+        }, 
+        "184": {
+            "42%~,": 1.0
+        }, 
+        "1988": {
+            "angiography~in": 1.0
+        }, 
+        "1988.": {
+            "October~,": 1.0
+        }, 
+        "1993": {
+            "Center~in": 1.0
+        }, 
+        "1995": {
+            "February~,": 0.5, 
+            "October~,": 0.5
+        }, 
+        "2": {
+            ")~HYPERTENSION;": 0.5, 
+            "day~and": 0.5
+        }, 
+        "204.": {
+            "regular.~Weight": 1.0
+        }, 
+        "22": {
+            "on~the": 1.0
+        }, 
+        "24": {
+            "platelets.~BUN": 1.0
+        }, 
+        "25": {
+            "from~the": 1.0
+        }, 
+        "25.4": {
+            ",~PTT": 1.0
+        }, 
+        "3": {
+            "HYPER-~CHOLESTEROLEMIA;": 1.0
+        }, 
+        "30": {
+            "elevated~at": 1.0
+        }, 
+        "325": {
+            "Aspirin~,": 1.0
+        }, 
+        "4.4.": {
+            ",~potassium": 1.0
+        }, 
+        "4034": {
+            "LG807/9358~Batch:": 1.0
+        }, 
+        "42%": {
+            ",~hematocrit": 1.0
+        }, 
+        "44056529": {
+            "OMH~|": 1.0
+        }, 
+        "45": {
+            "is~a": 1.0
+        }, 
+        "45%.": {
+            "fraction~of": 1.0
+        }, 
+        "46%.": {
+            "fraction~of": 1.0
+        }, 
+        "50": {
+            "Tenormin~,": 1.0
+        }, 
+        "55": {
+            "PHYSICAL~EXAMINATION:": 1.0
+        }, 
+        "56": {
+            "heart~rate": 1.0
+        }, 
+        "5th": {
+            "fifth~(": 1.0
+        }, 
+        "6/6/1995": {
+            "Discharge~Date:": 1.0
+        }, 
+        "673911": {
+            "|~|": 1.0
+        }, 
+        "7": {
+            "White~count": 1.0
+        }, 
+        "8/5/1995": {
+            "673911~|": 1.0
+        }, 
+        "ADDITIONAL": {
+            "ARTERY~DISEASE": 1.0
+        }, 
+        "AM": {
+            "8/5/1995~12:00:00": 1.0
+        }, 
+        "ARTERY": {
+            "DIAGNOSIS:~CORONARY": 1.0
+        }, 
+        "Abdomen": {
+            "No~murmurs.": 1.0
+        }, 
+        "Admission": {
+            "DIS~|": 1.0
+        }, 
+        "Alevras": {
+            "ILLNESS:~Mr.": 1.0
+        }, 
+        "Aspirin": {
+            "1~)": 1.0
+        }, 
+        "Attending:": {
+            "WERNER~TROJAHN": 1.0
+        }, 
+        "BUN": {
+            "184~platelets.": 1.0
+        }, 
+        "Batch:": {
+            "IS2~LG807/9358": 1.0
+        }, 
+        "Blood": {
+            ",~overweight.": 1.0
+        }, 
+        "Bohs": {
+            "was~Dr.": 1.0
+        }, 
+        "By:": {
+            "Swagerty~Dictated": 1.0
+        }, 
+        "CC:": {
+            "q~d": 1.0
+        }, 
+        "CHOLESTEROLEMIA;": {
+            ")~HYPER-": 1.0
+        }, 
+        "CORONARY": {
+            "PRINCIPAL~DIAGNOSIS:": 1.0
+        }, 
+        "COURSE:": {
+            "Bohs~POSTOPERATIVE": 1.0
+        }, 
+        "Calculated": {
+            "apical~akinesis.": 1.0
+        }, 
+        "Cardiac": {
+            "myocardial~infarction.": 1.0
+        }, 
+        "Carotid": {
+            "is~negative.": 1.0
+        }, 
+        "Center": {
+            "Geka~Medical": 0.5, 
+            "Sut~Medical": 0.5
+        }, 
+        "Coronary": {
+            ",~1988.": 0.5, 
+            "46%.~OPERATION:": 0.5
+        }, 
+        "D:": {
+            "No.~YSVQDY73R3": 1.0
+        }, 
+        "DIAGNOSES:": {
+            "DISEASE~ADDITIONAL": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "6/6/1995~PRINCIPAL": 1.0
+        }, 
+        "DIS": {
+            "Unsigned~|": 1.0
+        }, 
+        "DISCHARGE": {
+            "postoperative~day.": 1.0
+        }, 
+        "DISEASE": {
+            "CORONARY~ARTERY": 1.0
+        }, 
+        "DOSIER": {
+            "RAYMON~E.": 1.0
+        }, 
+        "Date:": {
+            "Unsigned~Discharge": 0.5, 
+            "|~Admission": 0.5
+        }, 
+        "Dictated": {
+            "Isaac~Swagerty": 1.0
+        }, 
+        "Discharge": {
+            "AM~|": 0.5, 
+            "Status:~Unsigned": 0.5
+        }, 
+        "Dr.": {
+            "Jackie~Hillebrano": 0.3333333333333333, 
+            "d~CC:": 0.3333333333333333, 
+            "surgeon~was": 0.3333333333333333
+        }, 
+        "E.": {
+            "Attending:~RAYMON": 1.0
+        }, 
+        "EKG": {
+            "INR~1.2.": 1.0
+        }, 
+        "EXAMINATION:": {
+            "revascularization.~PHYSICAL": 1.0
+        }, 
+        "February": {
+            "22~of": 1.0
+        }, 
+        "Further": {
+            "the~ward.": 1.0
+        }, 
+        "Geka": {
+            "Sonsauon~Hacent's": 1.0
+        }, 
+        "HISTORY": {
+            ")~#obese#": 1.0
+        }, 
+        "HYPER-": {
+            "2~)": 1.0
+        }, 
+        "HYPERTENSION;": {
+            "1~)": 1.0
+        }, 
+        "Hacent's": {
+            "to~Sonsauon": 1.0
+        }, 
+        "Hepatojugular": {
+            "30~degrees.": 1.0
+        }, 
+        "Hillebrano": {
+            "Dr.~Jackie": 1.0
+        }, 
+        "Hospital": {
+            "Mosesco~Shantum": 1.0
+        }, 
+        "ILLNESS:": {
+            "OF~PRESENT": 1.0
+        }, 
+        "INR": {
+            "25.4~,": 1.0
+        }, 
+        "IS2": {
+            ",~M.D.": 1.0
+        }, 
+        "Index": {
+            "Batch:~4034": 1.0
+        }, 
+        "Isaac": {
+            "Hillebrano~Dr.": 1.0
+        }, 
+        "Jackie": {
+            "CC:~Dr.": 1.0
+        }, 
+        "Jugular": {
+            "Lungs~clear.": 1.0
+        }, 
+        "LABORATORY": {
+            "pitting~edema.": 1.0
+        }, 
+        "LG807/9358": {
+            "M.D.~IS2": 1.0
+        }, 
+        "LV": {
+            "and~developed": 1.0
+        }, 
+        "Lis": {
+            "hospitalization~at": 1.0
+        }, 
+        "Lungs": {
+            "Weight~204.": 1.0
+        }, 
+        "M.D.": {
+            "DOSIER~,": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "day.~DISCHARGE": 1.0
+        }, 
+        "Medical": {
+            "Hacent's~Geka": 0.5, 
+            "Voylecrest~Sut": 0.5
+        }, 
+        "Mosesco": {
+            "to~Stere": 1.0
+        }, 
+        "Mr.": {
+            "PRESENT~ILLNESS:": 0.5, 
+            "admission~,": 0.5
+        }, 
+        "No": {
+            "and~S2.": 0.5, 
+            "intact~throughout.": 0.5
+        }, 
+        "No.": {
+            "4034~Index": 1.0
+        }, 
+        "Normal": {
+            "without~bruits.": 1.0
+        }, 
+        "O": {
+            "mg~P": 1.0
+        }, 
+        "OF": {
+            "#obese#~HISTORY": 1.0
+        }, 
+        "OMH": {
+            "284663714~|": 1.0
+        }, 
+        "OPERATION:": {
+            "of~46%.": 1.0
+        }, 
+        "Objectively": {
+            "of~symptoms.": 1.0
+        }, 
+        "October": {
+            "25~of": 0.5, 
+            "infarction~was": 0.5
+        }, 
+        "Of": {
+            "Shantum~Hospital": 1.0
+        }, 
+        "P": {
+            "325~mg": 0.5, 
+            "50~mg": 0.5
+        }, 
+        "PHYSICAL": {
+            "myocardial~revascularization.": 1.0
+        }, 
+        "POSTOPERATIVE": {
+            "Dr.~Bohs": 1.0
+        }, 
+        "PRESENT": {
+            "HISTORY~OF": 1.0
+        }, 
+        "PRINCIPAL": {
+            "Date:~6/6/1995": 1.0
+        }, 
+        "PT": {
+            "potassium~4.4.": 1.0
+        }, 
+        "PTT": {
+            "12.9~,": 1.0
+        }, 
+        "Peripheral": {
+            "otherwise~benign.": 1.0
+        }, 
+        "RAYMON": {
+            "TROJAHN~Attending:": 1.0
+        }, 
+        "Recent": {
+            "LV~dysfunction.": 1.0
+        }, 
+        "Report": {
+            "Date:~10/3/1995": 1.0
+        }, 
+        "Rodefer": {
+            ",~Mr.": 1.0
+        }, 
+        "S1": {
+            "bruits.~Normal": 1.0
+        }, 
+        "S2.": {
+            "S1~and": 1.0
+        }, 
+        "Shantum": {
+            "Stere~Mosesco": 1.0
+        }, 
+        "Since": {
+            "syncopal~episode.": 1.0
+        }, 
+        "Sonsauon": {
+            "admission~to": 1.0
+        }, 
+        "Status:": {
+            "10/3/1995~Report": 1.0
+        }, 
+        "Stere": {
+            "admission~to": 1.0
+        }, 
+        "Summary": {
+            "|~Discharge": 1.0
+        }, 
+        "Sut": {
+            "Lis~Voylecrest": 1.0
+        }, 
+        "Swagerty": {
+            "Dr.~Isaac": 1.0
+        }, 
+        "T:": {
+            "D:~10/11/95": 1.0
+        }, 
+        "TROJAHN": {
+            "By:~WERNER": 1.0
+        }, 
+        "Tenormin": {
+            "2~)": 1.0
+        }, 
+        "Thallium": {
+            "disease~with": 1.0
+        }, 
+        "The": {
+            "POSTOPERATIVE~COURSE:": 0.3333333333333333, 
+            "mid~portion.": 0.3333333333333333, 
+            "of~45%.": 0.3333333333333333
+        }, 
+        "Unsigned": {
+            "Report~Status:": 0.5, 
+            "Summary~|": 0.5
+        }, 
+        "VALUES:": {
+            "edema.~LABORATORY": 1.0
+        }, 
+        "Voylecrest": {
+            "at~Lis": 1.0
+        }, 
+        "WERNER": {
+            "Dictated~By:": 1.0
+        }, 
+        "Weight": {
+            ",~regular.": 1.0
+        }, 
+        "White": {
+            "LABORATORY~VALUES:": 1.0
+        }, 
+        "YSVQDY73R3": {
+            "Index~No.": 1.0
+        }, 
+        "a": {
+            "Alevras~is": 0.5, 
+            "man~with": 0.5
+        }, 
+        "admission": {
+            "dysfunction.~Recent": 0.3333333333333333, 
+            "the~first": 0.3333333333333333, 
+            "the~last": 0.3333333333333333
+        }, 
+        "akinesis.": {
+            "and~apical": 1.0
+        }, 
+        "and": {
+            "Normal~S1": 0.09090909090909091, 
+            "anterior~descending": 0.09090909090909091, 
+            "artery~catheterization": 0.09090909090909091, 
+            "artery~disease": 0.09090909090909091, 
+            "glucose~101": 0.09090909090909091, 
+            "inferior~hypokinesis": 0.09090909090909091, 
+            "marginal~branch": 0.09090909090909091, 
+            "non~dominant": 0.09090909090909091, 
+            "postoperative~day": 0.09090909090909091, 
+            "q~day": 0.09090909090909091, 
+            "sinus~bradycardia": 0.09090909090909091
+        }, 
+        "angiography": {
+            "1988.~Coronary": 1.0
+        }, 
+        "anterior": {
+            "bypass~to": 0.5, 
+            "the~left": 0.5
+        }, 
+        "apical": {
+            "hypokinesis~and": 1.0
+        }, 
+        "are": {
+            "Peripheral~pulses": 1.0
+        }, 
+        "arteries": {
+            "posterior~descending": 1.0
+        }, 
+        "artery": {
+            "anterior~descending": 0.125, 
+            "for~coronary": 0.125, 
+            "left~circumflex": 0.125, 
+            "multivessel~coronary": 0.125, 
+            "of~coronary": 0.125, 
+            "revealed~coronary": 0.125, 
+            "right~coronary": 0.125, 
+            "vessel~coronary": 0.125
+        }, 
+        "at": {
+            "next~hospitalization": 0.5, 
+            "not~elevated": 0.5
+        }, 
+        "be": {
+            "patient~could": 1.0
+        }, 
+        "benign.": {
+            "but~otherwise": 1.0
+        }, 
+        "bradycardia": {
+            "-~sinus": 1.0
+        }, 
+        "branch": {
+            "obtuse~marginal": 1.0
+        }, 
+        "bruits.": {
+            "normal~without": 1.0
+        }, 
+        "but": {
+            "#obese#~,": 1.0
+        }, 
+        "bypass": {
+            "OPERATION:~Coronary": 1.0
+        }, 
+        "catheterization": {
+            "coronary~artery": 0.5, 
+            "infarction.~Cardiac": 0.5
+        }, 
+        "circumflex": {
+            ",~left": 1.0
+        }, 
+        "clear.": {
+            "204.~Lungs": 1.0
+        }, 
+        "condition": {
+            "good~postoperative": 1.0
+        }, 
+        "coronary": {
+            "1995~revealed": 0.14285714285714285, 
+            "Of~for": 0.14285714285714285, 
+            "history~of": 0.14285714285714285, 
+            "progression~of": 0.14285714285714285, 
+            "severe~multivessel": 0.14285714285714285, 
+            "the~right": 0.14285714285714285, 
+            "three~vessel": 0.14285714285714285
+        }, 
+        "could": {
+            "the~patient": 1.0
+        }, 
+        "count": {
+            "VALUES:~White": 1.0
+        }, 
+        "course": {
+            "Further~postoperative": 1.0
+        }, 
+        "creatinine": {
+            "24~,": 1.0
+        }, 
+        "d": {
+            "O~q": 1.0
+        }, 
+        "day": {
+            "O~q": 0.5, 
+            "first~postoperative": 0.5
+        }, 
+        "day.": {
+            ")~postoperative": 1.0
+        }, 
+        "degrees.": {
+            "at~30": 1.0
+        }, 
+        "descending": {
+            "and~posterior": 0.3333333333333333, 
+            "left~anterior": 0.3333333333333333, 
+            "to~anterior": 0.3333333333333333
+        }, 
+        "developed": {
+            "disease~and": 1.0
+        }, 
+        "discharged": {
+            "could~be": 1.0
+        }, 
+        "disease": {
+            "coronary~artery": 0.8, 
+            "of~coronary": 0.2
+        }, 
+        "doing": {
+            "Rodefer~was": 1.0
+        }, 
+        "dominant": {
+            ",~non": 1.0
+        }, 
+        "due": {
+            "Medical~Center": 0.5, 
+            "in~1993": 0.5
+        }, 
+        "dysfunction.": {
+            "developed~LV": 1.0
+        }, 
+        "edema.": {
+            "No~pitting": 1.0
+        }, 
+        "ejection": {
+            "disease~with": 0.5, 
+            "left~ventricular": 0.5
+        }, 
+        "elevated": {
+            "pressure~not": 1.0
+        }, 
+        "enlarged": {
+            "revealed~markedly": 1.0
+        }, 
+        "episode.": {
+            "to~syncopal": 1.0
+        }, 
+        "essentially": {
+            "well~,": 1.0
+        }, 
+        "eventual": {
+            "catheterization~and": 1.0
+        }, 
+        "evidence": {
+            "there~was": 1.0
+        }, 
+        "extubated": {
+            "patient~was": 1.0
+        }, 
+        "fifth": {
+            "on~the": 1.0
+        }, 
+        "first": {
+            ",~the": 0.5, 
+            "on~the": 0.5
+        }, 
+        "for": {
+            "Hospital~Of": 1.0
+        }, 
+        "fraction": {
+            "ventricular~ejection": 0.5, 
+            "with~ejection": 0.5
+        }, 
+        "from": {
+            "catheterization~report": 1.0
+        }, 
+        "gentle-": {
+            "year~old": 1.0
+        }, 
+        "glucose": {
+            "1.0~,": 1.0
+        }, 
+        "good": {
+            "discharged~in": 1.0
+        }, 
+        "heart": {
+            "122/80~,": 1.0
+        }, 
+        "hematocrit": {
+            "000~,": 1.0
+        }, 
+        "history": {
+            "a~long": 1.0
+        }, 
+        "hospitalization": {
+            "The~next": 1.0
+        }, 
+        "however": {
+            "Objectively~,": 1.0
+        }, 
+        "hypokinesis": {
+            "with~inferior": 1.0
+        }, 
+        "images": {
+            "with~Thallium": 1.0
+        }, 
+        "in": {
+            "Coronary~angiography": 0.2, 
+            "Medical~Center": 0.2, 
+            "be~discharged": 0.2, 
+            "descending~artery": 0.2, 
+            "totally~occluded": 0.2
+        }, 
+        "infarction": {
+            "to~myocardial": 1.0
+        }, 
+        "infarction.": {
+            "inferior~myocardial": 1.0
+        }, 
+        "inferior": {
+            "bradycardia~and": 0.5, 
+            "ventricle~with": 0.5
+        }, 
+        "intact": {
+            "pulses~are": 1.0
+        }, 
+        "is": {
+            "Hepatojugular~reflex": 0.3333333333333333, 
+            "Mr.~Alevras": 0.3333333333333333, 
+            "circumflex~artery": 0.3333333333333333
+        }, 
+        "its": {
+            "artery~in": 0.5, 
+            "occluded~in": 0.5
+        }, 
+        "large": {
+            "dominant~and": 1.0
+        }, 
+        "last": {
+            "Since~the": 1.0
+        }, 
+        "left": {
+            "akinesis.~Calculated": 0.25, 
+            "of~the": 0.25, 
+            "portion.~The": 0.25, 
+            "portion~,": 0.25
+        }, 
+        "level": {
+            "the~same": 1.0
+        }, 
+        "long": {
+            "with~a": 1.0
+        }, 
+        "man": {
+            "old~gentle-": 0.5, 
+            "year~old": 0.5
+        }, 
+        "marginal": {
+            "large~obtuse": 1.0
+        }, 
+        "markedly": {
+            "ventriculogram~revealed": 1.0
+        }, 
+        "mg": {
+            ",~325": 0.5, 
+            ",~50": 0.5
+        }, 
+        "mid": {
+            "in~its": 1.0
+        }, 
+        "multivessel": {
+            "of~severe": 1.0
+        }, 
+        "murmurs.": {
+            "S2.~No": 1.0
+        }, 
+        "myocardial": {
+            "and~eventual": 0.3333333333333333, 
+            "and~inferior": 0.3333333333333333, 
+            "due~to": 0.3333333333333333
+        }, 
+        "negative.": {
+            "reflex~is": 1.0
+        }, 
+        "next": {
+            "45%.~The": 1.0
+        }, 
+        "non": {
+            "small~,": 1.0
+        }, 
+        "normal": {
+            "Carotid~upstroke": 1.0
+        }, 
+        "not": {
+            "venous~pressure": 1.0
+        }, 
+        "obtuse": {
+            "and~large": 1.0
+        }, 
+        "occluded": {
+            "artery~totally": 1.0
+        }, 
+        "occlusion": {
+            "with~total": 1.0
+        }, 
+        "of": {
+            "ejection~fraction": 0.2, 
+            "images~suggestive": 0.1, 
+            "long~history": 0.1, 
+            "same~level": 0.1, 
+            "significant~progression": 0.1, 
+            "the~22": 0.1, 
+            "the~25": 0.1, 
+            "total~occlusion": 0.1, 
+            "was~evidence": 0.1
+        }, 
+        "old": {
+            "45~year": 0.5, 
+            "55~year": 0.5
+        }, 
+        "on": {
+            "descending~arteries": 0.3333333333333333, 
+            "postoperative~condition": 0.3333333333333333, 
+            "was~extubated": 0.3333333333333333
+        }, 
+        "otherwise": {
+            ",~but": 1.0
+        }, 
+        "overweight.": {
+            "man~,": 1.0
+        }, 
+        "patient": {
+            "COURSE:~The": 0.5, 
+            "so~the": 0.5
+        }, 
+        "pitting": {
+            "throughout.~No": 1.0
+        }, 
+        "platelets.": {
+            ",~184": 1.0
+        }, 
+        "portion": {
+            "its~proximal": 1.0
+        }, 
+        "portion.": {
+            "its~mid": 1.0
+        }, 
+        "posterior": {
+            "descending~and": 1.0
+        }, 
+        "postoperative": {
+            "5th~)": 0.25, 
+            "in~good": 0.25, 
+            "the~first": 0.25, 
+            "ward.~Further": 0.25
+        }, 
+        "potassium": {
+            "139~,": 1.0
+        }, 
+        "pressure": {
+            "Jugular~venous": 0.5, 
+            "overweight.~Blood": 0.5
+        }, 
+        "progression": {
+            "of~significant": 1.0
+        }, 
+        "proximal": {
+            "in~its": 1.0
+        }, 
+        "pulses": {
+            "benign.~Peripheral": 1.0
+        }, 
+        "q": {
+            "P~O": 1.0
+        }, 
+        "rate": {
+            ",~heart": 1.0
+        }, 
+        "reflex": {
+            "degrees.~Hepatojugular": 1.0
+        }, 
+        "regular.": {
+            "56~,": 1.0
+        }, 
+        "report": {
+            "Cardiac~catheterization": 1.0
+        }, 
+        "revascularization.": {
+            "eventual~myocardial": 1.0
+        }, 
+        "revealed": {
+            ",~1995": 0.3333333333333333, 
+            "in~1988": 0.3333333333333333, 
+            "left~ventriculogram": 0.3333333333333333
+        }, 
+        "right": {
+            "and~the": 1.0
+        }, 
+        "same": {
+            "essentially~the": 1.0
+        }, 
+        "severe": {
+            "suggestive~of": 1.0
+        }, 
+        "significant": {
+            "evidence~of": 1.0
+        }, 
+        "sinus": {
+            "EKG~-": 1.0
+        }, 
+        "small": {
+            "artery~is": 1.0
+        }, 
+        "so": {
+            "was~uneventful": 1.0
+        }, 
+        "sodium": {
+            "101~and": 1.0
+        }, 
+        "suggestive": {
+            "Thallium~images": 1.0
+        }, 
+        "surgeon": {
+            "1995~,": 1.0
+        }, 
+        "symptoms.": {
+            "level~of": 1.0
+        }, 
+        "syncopal": {
+            "due~to": 1.0
+        }, 
+        "the": {
+            ",~essentially": 0.09090909090909091, 
+            "arteries~on": 0.09090909090909091, 
+            "branch~and": 0.09090909090909091, 
+            "condition~on": 0.09090909090909091, 
+            "disease~,": 0.09090909090909091, 
+            "episode.~Since": 0.09090909090909091, 
+            "extubated~on": 0.09090909090909091, 
+            "occlusion~of": 0.09090909090909091, 
+            "report~from": 0.09090909090909091, 
+            "transferred~to": 0.09090909090909091, 
+            "uneventful~so": 0.09090909090909091
+        }, 
+        "there": {
+            "however~,": 1.0
+        }, 
+        "three": {
+            "1988~revealed": 1.0
+        }, 
+        "throughout.": {
+            "are~intact": 1.0
+        }, 
+        "to": {
+            "1993~due": 0.16666666666666666, 
+            "Center~due": 0.16666666666666666, 
+            "Coronary~bypass": 0.16666666666666666, 
+            "Recent~admission": 0.16666666666666666, 
+            "and~transferred": 0.16666666666666666, 
+            "first~admission": 0.16666666666666666
+        }, 
+        "total": {
+            "disease~with": 1.0
+        }, 
+        "totally": {
+            "coronary~artery": 1.0
+        }, 
+        "transferred": {
+            "day~and": 1.0
+        }, 
+        "uneventful": {
+            "course~was": 1.0
+        }, 
+        "upstroke": {
+            "negative.~Carotid": 1.0
+        }, 
+        "venous": {
+            "clear.~Jugular": 1.0
+        }, 
+        "ventricle": {
+            "markedly~enlarged": 1.0
+        }, 
+        "ventricular": {
+            "Calculated~left": 1.0
+        }, 
+        "ventriculogram": {
+            "The~left": 1.0
+        }, 
+        "vessel": {
+            "revealed~three": 1.0
+        }, 
+        "ward.": {
+            "to~the": 1.0
+        }, 
+        "was": {
+            ",~surgeon": 0.16666666666666666, 
+            ",~there": 0.16666666666666666, 
+            "Mr.~Rodefer": 0.16666666666666666, 
+            "The~patient": 0.16666666666666666, 
+            "myocardial~infarction": 0.16666666666666666, 
+            "postoperative~course": 0.16666666666666666
+        }, 
+        "well": {
+            "was~doing": 1.0
+        }, 
+        "with": {
+            "artery~disease": 0.4, 
+            "coronary~disease": 0.2, 
+            "enlarged~ventricle": 0.2, 
+            "gentle-~man": 0.2
+        }, 
+        "without": {
+            "upstroke~normal": 1.0
+        }, 
+        "year": {
+            "EXAMINATION:~55": 0.5, 
+            "a~45": 0.5
+        }, 
+        "|": {
+            "12:00:00~AM": 0.1111111111111111, 
+            "44056529~|": 0.1111111111111111, 
+            "Discharge~Summary": 0.1111111111111111, 
+            "|~44056529": 0.1111111111111111, 
+            "|~673911": 0.1111111111111111, 
+            "|~DIS": 0.1111111111111111, 
+            "|~OMH": 0.1111111111111111, 
+            "|~Unsigned": 0.1111111111111111, 
+            "~284663714": 0.1111111111111111
+        }
+    }, 
+    "type": "data/train", 
+    "uni": {
+        "": 0.0021691973969631237, 
+        "#obese#": 0.004338394793926247, 
+        "(": 0.0021691973969631237, 
+        ")": 0.013015184381778741, 
+        ",": 0.05856832971800434, 
+        "-": 0.0021691973969631237, 
+        "000": 0.0021691973969631237, 
+        "1": 0.004338394793926247, 
+        "1.0": 0.0021691973969631237, 
+        "1.1": 0.0021691973969631237, 
+        "1.2.": 0.0021691973969631237, 
+        "10/11/95": 0.0021691973969631237, 
+        "10/3/1995": 0.0021691973969631237, 
+        "101": 0.0021691973969631237, 
+        "12.9": 0.0021691973969631237, 
+        "122/80": 0.0021691973969631237, 
+        "12:00:00": 0.0021691973969631237, 
+        "139": 0.0021691973969631237, 
+        "184": 0.0021691973969631237, 
+        "1988": 0.0021691973969631237, 
+        "1988.": 0.0021691973969631237, 
+        "1993": 0.0021691973969631237, 
+        "1995": 0.004338394793926247, 
+        "2": 0.004338394793926247, 
+        "204.": 0.0021691973969631237, 
+        "22": 0.0021691973969631237, 
+        "24": 0.0021691973969631237, 
+        "25": 0.0021691973969631237, 
+        "25.4": 0.0021691973969631237, 
+        "284663714": 0.0021691973969631237, 
+        "3": 0.0021691973969631237, 
+        "30": 0.0021691973969631237, 
+        "325": 0.0021691973969631237, 
+        "4.4.": 0.0021691973969631237, 
+        "4034": 0.0021691973969631237, 
+        "42%": 0.0021691973969631237, 
+        "44056529": 0.0021691973969631237, 
+        "45": 0.0021691973969631237, 
+        "45%.": 0.0021691973969631237, 
+        "46%.": 0.0021691973969631237, 
+        "50": 0.0021691973969631237, 
+        "55": 0.0021691973969631237, 
+        "56": 0.0021691973969631237, 
+        "5th": 0.0021691973969631237, 
+        "6/6/1995": 0.0021691973969631237, 
+        "673911": 0.0021691973969631237, 
+        "7": 0.0021691973969631237, 
+        "8/5/1995": 0.0021691973969631237, 
+        "ADDITIONAL": 0.0021691973969631237, 
+        "AM": 0.0021691973969631237, 
+        "ARTERY": 0.0021691973969631237, 
+        "Abdomen": 0.0021691973969631237, 
+        "Admission": 0.0021691973969631237, 
+        "Alevras": 0.0021691973969631237, 
+        "Aspirin": 0.0021691973969631237, 
+        "Attending:": 0.0021691973969631237, 
+        "BUN": 0.0021691973969631237, 
+        "Batch:": 0.0021691973969631237, 
+        "Blood": 0.0021691973969631237, 
+        "Bohs": 0.0021691973969631237, 
+        "By:": 0.0021691973969631237, 
+        "CC:": 0.0021691973969631237, 
+        "CHOLESTEROLEMIA;": 0.0021691973969631237, 
+        "CORONARY": 0.0021691973969631237, 
+        "COURSE:": 0.0021691973969631237, 
+        "Calculated": 0.0021691973969631237, 
+        "Cardiac": 0.0021691973969631237, 
+        "Carotid": 0.0021691973969631237, 
+        "Center": 0.004338394793926247, 
+        "Coronary": 0.004338394793926247, 
+        "D:": 0.0021691973969631237, 
+        "DIAGNOSES:": 0.0021691973969631237, 
+        "DIAGNOSIS:": 0.0021691973969631237, 
+        "DIS": 0.0021691973969631237, 
+        "DISCHARGE": 0.0021691973969631237, 
+        "DISEASE": 0.0021691973969631237, 
+        "DOSIER": 0.0021691973969631237, 
+        "Date:": 0.004338394793926247, 
+        "Dictated": 0.0021691973969631237, 
+        "Discharge": 0.004338394793926247, 
+        "Dr.": 0.006507592190889371, 
+        "E.": 0.0021691973969631237, 
+        "EKG": 0.0021691973969631237, 
+        "EXAMINATION:": 0.0021691973969631237, 
+        "February": 0.0021691973969631237, 
+        "Further": 0.0021691973969631237, 
+        "Geka": 0.0021691973969631237, 
+        "HISTORY": 0.0021691973969631237, 
+        "HYPER-": 0.0021691973969631237, 
+        "HYPERTENSION;": 0.0021691973969631237, 
+        "Hacent's": 0.0021691973969631237, 
+        "Hepatojugular": 0.0021691973969631237, 
+        "Hillebrano": 0.0021691973969631237, 
+        "Hospital": 0.0021691973969631237, 
+        "ILLNESS:": 0.0021691973969631237, 
+        "INR": 0.0021691973969631237, 
+        "IS2": 0.0021691973969631237, 
+        "Index": 0.0021691973969631237, 
+        "Isaac": 0.0021691973969631237, 
+        "Jackie": 0.0021691973969631237, 
+        "Jugular": 0.0021691973969631237, 
+        "LABORATORY": 0.0021691973969631237, 
+        "LG807/9358": 0.0021691973969631237, 
+        "LV": 0.0021691973969631237, 
+        "Lis": 0.0021691973969631237, 
+        "Lungs": 0.0021691973969631237, 
+        "M.D.": 0.0021691973969631237, 
+        "MEDICATIONS:": 0.0021691973969631237, 
+        "Medical": 0.004338394793926247, 
+        "Mosesco": 0.0021691973969631237, 
+        "Mr.": 0.004338394793926247, 
+        "No": 0.004338394793926247, 
+        "No.": 0.0021691973969631237, 
+        "Normal": 0.0021691973969631237, 
+        "O": 0.004338394793926247, 
+        "OF": 0.0021691973969631237, 
+        "OMH": 0.0021691973969631237, 
+        "OPERATION:": 0.0021691973969631237, 
+        "Objectively": 0.0021691973969631237, 
+        "October": 0.004338394793926247, 
+        "Of": 0.0021691973969631237, 
+        "P": 0.004338394793926247, 
+        "PHYSICAL": 0.0021691973969631237, 
+        "POSTOPERATIVE": 0.0021691973969631237, 
+        "PRESENT": 0.0021691973969631237, 
+        "PRINCIPAL": 0.0021691973969631237, 
+        "PT": 0.0021691973969631237, 
+        "PTT": 0.0021691973969631237, 
+        "Peripheral": 0.0021691973969631237, 
+        "RAYMON": 0.0021691973969631237, 
+        "Recent": 0.0021691973969631237, 
+        "Report": 0.0021691973969631237, 
+        "Rodefer": 0.0021691973969631237, 
+        "S1": 0.0021691973969631237, 
+        "S2.": 0.0021691973969631237, 
+        "Shantum": 0.0021691973969631237, 
+        "Since": 0.0021691973969631237, 
+        "Sonsauon": 0.0021691973969631237, 
+        "Status:": 0.0021691973969631237, 
+        "Stere": 0.0021691973969631237, 
+        "Summary": 0.0021691973969631237, 
+        "Sut": 0.0021691973969631237, 
+        "Swagerty": 0.0021691973969631237, 
+        "TROJAHN": 0.0021691973969631237, 
+        "Tenormin": 0.0021691973969631237, 
+        "Thallium": 0.0021691973969631237, 
+        "The": 0.006507592190889371, 
+        "Unsigned": 0.004338394793926247, 
+        "VALUES:": 0.0021691973969631237, 
+        "Voylecrest": 0.0021691973969631237, 
+        "WERNER": 0.0021691973969631237, 
+        "Weight": 0.0021691973969631237, 
+        "White": 0.0021691973969631237, 
+        "YSVQDY73R3": 0.0021691973969631237, 
+        "a": 0.004338394793926247, 
+        "admission": 0.006507592190889371, 
+        "akinesis.": 0.0021691973969631237, 
+        "and": 0.02386117136659436, 
+        "angiography": 0.0021691973969631237, 
+        "anterior": 0.004338394793926247, 
+        "apical": 0.0021691973969631237, 
+        "are": 0.0021691973969631237, 
+        "arteries": 0.0021691973969631237, 
+        "artery": 0.01735357917570499, 
+        "at": 0.004338394793926247, 
+        "be": 0.0021691973969631237, 
+        "benign.": 0.0021691973969631237, 
+        "bradycardia": 0.0021691973969631237, 
+        "branch": 0.0021691973969631237, 
+        "bruits.": 0.0021691973969631237, 
+        "but": 0.0021691973969631237, 
+        "bypass": 0.0021691973969631237, 
+        "catheterization": 0.004338394793926247, 
+        "circumflex": 0.0021691973969631237, 
+        "clear.": 0.0021691973969631237, 
+        "condition": 0.0021691973969631237, 
+        "coronary": 0.015184381778741865, 
+        "could": 0.0021691973969631237, 
+        "count": 0.0021691973969631237, 
+        "course": 0.0021691973969631237, 
+        "creatinine": 0.0021691973969631237, 
+        "d": 0.0021691973969631237, 
+        "day": 0.004338394793926247, 
+        "day.": 0.0021691973969631237, 
+        "degrees.": 0.0021691973969631237, 
+        "descending": 0.006507592190889371, 
+        "developed": 0.0021691973969631237, 
+        "discharged": 0.0021691973969631237, 
+        "disease": 0.010845986984815618, 
+        "doing": 0.0021691973969631237, 
+        "dominant": 0.0021691973969631237, 
+        "due": 0.004338394793926247, 
+        "dysfunction.": 0.0021691973969631237, 
+        "edema.": 0.0021691973969631237, 
+        "ejection": 0.004338394793926247, 
+        "elevated": 0.0021691973969631237, 
+        "enlarged": 0.0021691973969631237, 
+        "episode.": 0.0021691973969631237, 
+        "essentially": 0.0021691973969631237, 
+        "eventual": 0.0021691973969631237, 
+        "evidence": 0.0021691973969631237, 
+        "extubated": 0.0021691973969631237, 
+        "fifth": 0.0021691973969631237, 
+        "first": 0.004338394793926247, 
+        "for": 0.0021691973969631237, 
+        "fraction": 0.004338394793926247, 
+        "from": 0.0021691973969631237, 
+        "gentle-": 0.0021691973969631237, 
+        "glucose": 0.0021691973969631237, 
+        "good": 0.0021691973969631237, 
+        "heart": 0.0021691973969631237, 
+        "hematocrit": 0.0021691973969631237, 
+        "history": 0.0021691973969631237, 
+        "hospitalization": 0.0021691973969631237, 
+        "however": 0.0021691973969631237, 
+        "hypokinesis": 0.0021691973969631237, 
+        "images": 0.0021691973969631237, 
+        "in": 0.010845986984815618, 
+        "infarction": 0.0021691973969631237, 
+        "infarction.": 0.0021691973969631237, 
+        "inferior": 0.004338394793926247, 
+        "intact": 0.0021691973969631237, 
+        "is": 0.006507592190889371, 
+        "its": 0.004338394793926247, 
+        "large": 0.0021691973969631237, 
+        "last": 0.0021691973969631237, 
+        "left": 0.008676789587852495, 
+        "level": 0.0021691973969631237, 
+        "long": 0.0021691973969631237, 
+        "man": 0.004338394793926247, 
+        "marginal": 0.0021691973969631237, 
+        "markedly": 0.0021691973969631237, 
+        "mg": 0.004338394793926247, 
+        "mid": 0.0021691973969631237, 
+        "multivessel": 0.0021691973969631237, 
+        "murmurs.": 0.0021691973969631237, 
+        "myocardial": 0.006507592190889371, 
+        "negative.": 0.0021691973969631237, 
+        "next": 0.0021691973969631237, 
+        "non": 0.0021691973969631237, 
+        "normal": 0.0021691973969631237, 
+        "not": 0.0021691973969631237, 
+        "obtuse": 0.0021691973969631237, 
+        "occluded": 0.0021691973969631237, 
+        "occlusion": 0.0021691973969631237, 
+        "of": 0.021691973969631236, 
+        "old": 0.004338394793926247, 
+        "on": 0.006507592190889371, 
+        "otherwise": 0.0021691973969631237, 
+        "overweight.": 0.0021691973969631237, 
+        "patient": 0.004338394793926247, 
+        "pitting": 0.0021691973969631237, 
+        "platelets.": 0.0021691973969631237, 
+        "portion": 0.0021691973969631237, 
+        "portion.": 0.0021691973969631237, 
+        "posterior": 0.0021691973969631237, 
+        "postoperative": 0.008676789587852495, 
+        "potassium": 0.0021691973969631237, 
+        "pressure": 0.004338394793926247, 
+        "progression": 0.0021691973969631237, 
+        "proximal": 0.0021691973969631237, 
+        "pulses": 0.0021691973969631237, 
+        "q": 0.004338394793926247, 
+        "rate": 0.0021691973969631237, 
+        "reflex": 0.0021691973969631237, 
+        "regular.": 0.0021691973969631237, 
+        "report": 0.0021691973969631237, 
+        "revascularization.": 0.0021691973969631237, 
+        "revealed": 0.006507592190889371, 
+        "right": 0.0021691973969631237, 
+        "same": 0.0021691973969631237, 
+        "severe": 0.0021691973969631237, 
+        "significant": 0.0021691973969631237, 
+        "sinus": 0.0021691973969631237, 
+        "small": 0.0021691973969631237, 
+        "so": 0.0021691973969631237, 
+        "sodium": 0.0021691973969631237, 
+        "suggestive": 0.0021691973969631237, 
+        "surgeon": 0.0021691973969631237, 
+        "symptoms.": 0.0021691973969631237, 
+        "syncopal": 0.0021691973969631237, 
+        "the": 0.02386117136659436, 
+        "there": 0.0021691973969631237, 
+        "three": 0.0021691973969631237, 
+        "throughout.": 0.0021691973969631237, 
+        "to": 0.013015184381778741, 
+        "total": 0.0021691973969631237, 
+        "totally": 0.0021691973969631237, 
+        "transferred": 0.0021691973969631237, 
+        "uneventful": 0.0021691973969631237, 
+        "upstroke": 0.0021691973969631237, 
+        "venous": 0.0021691973969631237, 
+        "ventricle": 0.0021691973969631237, 
+        "ventricular": 0.0021691973969631237, 
+        "ventriculogram": 0.0021691973969631237, 
+        "vessel": 0.0021691973969631237, 
+        "ward.": 0.0021691973969631237, 
+        "was": 0.013015184381778741, 
+        "well": 0.0021691973969631237, 
+        "with": 0.010845986984815618, 
+        "without": 0.0021691973969631237, 
+        "year": 0.004338394793926247, 
+        "|": 0.019522776572668113
+    }
+}

@@ -1,0 +1,3231 @@
+{
+    "bi": {
+        "(": {
+            "ANEURSYMECTOMY": 0.08333333333333333, 
+            "APPENDECTOMY": 0.08333333333333333, 
+            "DIAGNOSIS:": 0.08333333333333333, 
+            "DISEASE": 0.08333333333333333, 
+            "HYPERCHOLESTEROLEMIA": 0.08333333333333333, 
+            "HYPERTENSION": 0.08333333333333333, 
+            "INFECTION": 0.08333333333333333, 
+            "MELLITUS": 0.08333333333333333, 
+            "NEPHROLITHIASIS": 0.08333333333333333, 
+            "PTCA": 0.08333333333333333, 
+            "SALPINGO-OOPHORECTOMY": 0.08333333333333333, 
+            "TACHYCARDIA": 0.08333333333333333
+        }, 
+        ")": {
+            "1": 0.08333333333333333, 
+            "10": 0.08333333333333333, 
+            "11": 0.08333333333333333, 
+            "12": 0.08333333333333333, 
+            "2": 0.08333333333333333, 
+            "3": 0.08333333333333333, 
+            "4": 0.08333333333333333, 
+            "5": 0.08333333333333333, 
+            "6": 0.08333333333333333, 
+            "7": 0.08333333333333333, 
+            "8": 0.08333333333333333, 
+            "9": 0.08333333333333333
+        }, 
+        ",": {
+            "101.2": 0.04, 
+            "102/52": 0.04, 
+            "77": 0.04, 
+            "C": 0.04, 
+            "Captopril": 0.04, 
+            "Cardene": 0.04, 
+            "Coumadin": 0.04, 
+            "Digoxin": 0.04, 
+            "K-Dur": 0.04, 
+            "KEITHLEY": 0.04, 
+            "Lasix": 0.04, 
+            "Synthroid": 0.04, 
+            "TINKLENBERG": 0.04, 
+            "Wittig": 0.04, 
+            "Zocor": 0.04, 
+            "antibiotics": 0.04, 
+            "cardiologist": 0.04, 
+            "clubbing": 0.04, 
+            "cyanosis": 0.04, 
+            "dizziness": 0.04, 
+            "fever": 0.04, 
+            "insulin": 0.04, 
+            "lightheadedness": 0.04, 
+            "malaise": 0.04, 
+            "palpitations": 0.04
+        }, 
+        "1": {
+            "(": 1.0
+        }, 
+        "1/18/95": {
+            "on": 1.0
+        }, 
+        "1/5/1995": {
+            "|": 1.0
+        }, 
+        "10": {
+            "(": 1.0
+        }, 
+        "101.2": {
+            "Temperature": 1.0
+        }, 
+        "102/52": {
+            "pressure": 1.0
+        }, 
+        "11": {
+            "(": 1.0
+        }, 
+        "11/4/1995": {
+            "Date:": 1.0
+        }, 
+        "12": {
+            "(": 1.0
+        }, 
+        "12:00:00": {
+            "1/5/1995": 1.0
+        }, 
+        "18%.": {
+            "of": 1.0
+        }, 
+        "1991": {
+            "of": 1.0
+        }, 
+        "2": {
+            "(": 0.5, 
+            "and": 0.5
+        }, 
+        "20%.": {
+            "of": 1.0
+        }, 
+        "276430": {
+            "|": 1.0
+        }, 
+        "3": {
+            "(": 1.0
+        }, 
+        "354140336": {
+            "": 1.0
+        }, 
+        "4": {
+            "(": 1.0
+        }, 
+        "4/3/97": {
+            "D:": 1.0
+        }, 
+        "40887": {
+            "Batch:": 1.0
+        }, 
+        "5": {
+            "(": 1.0
+        }, 
+        "50.": {
+            "of": 1.0
+        }, 
+        "6": {
+            "(": 0.5, 
+            "of": 0.5
+        }, 
+        "63": {
+            "a": 1.0
+        }, 
+        "7": {
+            "(": 1.0
+        }, 
+        "77": {
+            "pulse": 1.0
+        }, 
+        "8": {
+            "(": 1.0
+        }, 
+        "8/6/1995": {
+            "Date:": 1.0
+        }, 
+        "9": {
+            "(": 1.0
+        }, 
+        "91%": {
+            "saturation": 1.0
+        }, 
+        "98555723": {
+            "|": 1.0
+        }, 
+        "ABDOMINAL": {
+            "TOTAL": 1.0
+        }, 
+        "ADULT": {
+            ")": 1.0
+        }, 
+        "AICD": {
+            ")": 0.5, 
+            "aneurysmectomy.": 0.5
+        }, 
+        "AM": {
+            "12:00:00": 1.0
+        }, 
+        "AND": {
+            "HYSTERECTOMY": 1.0
+        }, 
+        "ANEURSYMECTOMY": {
+            "VENTRICULAR": 1.0
+        }, 
+        "AO36": {
+            "M.D.": 1.0
+        }, 
+        "APPENDECTOMY": {
+            "POST": 1.0
+        }, 
+        "ARTERY": {
+            "CORONARY": 1.0
+        }, 
+        "Abdomen:": {
+            "border.": 1.0
+        }, 
+        "Admission": {
+            "DATA:": 0.5, 
+            "|": 0.5
+        }, 
+        "Amiodarone": {
+            "for": 1.0
+        }, 
+        "Ampicillin": {
+            "p.o.": 0.3333333333333333, 
+            "specifically": 0.3333333333333333, 
+            "to": 0.3333333333333333
+        }, 
+        "An": {
+            "tachycardia.": 1.0
+        }, 
+        "April": {
+            "In": 1.0
+        }, 
+        "Attending:": {
+            "AO36": 1.0
+        }, 
+        "BERNARDO": {
+            "Attending:": 1.0
+        }, 
+        "BILATERAL": {
+            "AND": 1.0
+        }, 
+        "Back:": {
+            "hepatosplenomegaly.": 1.0
+        }, 
+        "Bactrim": {
+            "on": 1.0
+        }, 
+        "Batch:": {
+            "VI013/9118": 1.0
+        }, 
+        "By:": {
+            "Dictated": 1.0
+        }, 
+        "C": {
+            "vitamin": 1.0
+        }, 
+        "C.": {
+            "BERNARDO": 1.0
+        }, 
+        "CHOLECYSTECTOMY": {
+            "POST": 1.0
+        }, 
+        "CORONARY": {
+            ")": 1.0
+        }, 
+        "COURSE:": {
+            "HOSPITAL": 1.0
+        }, 
+        "Captopril": {
+            ",": 1.0
+        }, 
+        "Cardene": {
+            ",": 1.0
+        }, 
+        "Chest": {
+            "unremarkable.": 1.0
+        }, 
+        "Clement": {
+            "Dr.": 1.0
+        }, 
+        "Coronary": {
+            "mellitus.": 1.0
+        }, 
+        "Coumadin": {
+            "MEDICATIONS:": 1.0
+        }, 
+        "D:": {
+            "POHW261Y81": 1.0
+        }, 
+        "DATA:": {
+            "LABORATORY": 1.0
+        }, 
+        "DIABETES": {
+            "ONSET": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "FINAL": 1.0
+        }, 
+        "DIS": {
+            "|": 1.0
+        }, 
+        "DISEASE": {
+            "ARTERY": 1.0
+        }, 
+        "Date:": {
+            "Admission": 0.5, 
+            "Discharge": 0.5
+        }, 
+        "Diabetes": {
+            "cholesterol.": 1.0
+        }, 
+        "Dictated": {
+            "health.": 1.0
+        }, 
+        "Digoxin": {
+            ",": 1.0
+        }, 
+        "Discharge": {
+            "Signed": 1.0
+        }, 
+        "Dr.": {
+            ",": 1.0
+        }, 
+        "ECG": {
+            "The": 1.0
+        }, 
+        "ECGs.": {
+            "previous": 1.0
+        }, 
+        "EXAMINATION:": {
+            "PHYSICAL": 1.0
+        }, 
+        "Escherichia": {
+            "showed": 1.0
+        }, 
+        "Extremities:": {
+            "negative.": 1.0
+        }, 
+        "FAMILY": {
+            "magnesium.": 1.0
+        }, 
+        "FINAL": {
+            "8/6/1995": 1.0
+        }, 
+        "FOR": {
+            "PLACEMENT": 1.0
+        }, 
+        "February": {
+            "In": 1.0
+        }, 
+        "GZ0": {
+            "M.D.": 1.0
+        }, 
+        "Gentamycin.": {
+            "and": 1.0
+        }, 
+        "Guaiac": {
+            "Rectal:": 1.0
+        }, 
+        "HISTORY": {
+            "CHOLECYSTECTOMY": 1.0
+        }, 
+        "HISTORY:": {
+            "FAMILY": 0.5, 
+            "MEDICAL": 0.5
+        }, 
+        "HOSPITAL": {
+            "coli.": 1.0
+        }, 
+        "HYPERCHOLESTEROLEMIA": {
+            ")": 1.0
+        }, 
+        "HYPERTENSION": {
+            ")": 1.0
+        }, 
+        "HYSTERECTOMY": {
+            "ABDOMINAL": 1.0
+        }, 
+        "Her": {
+            "weak.": 1.0
+        }, 
+        "Hypertension.": {
+            "cardiomyopathy.": 1.0
+        }, 
+        "ILLNESS:": {
+            "PRESENT": 1.0
+        }, 
+        "INFARCTION": {
+            "MYOCARDIAL": 1.0
+        }, 
+        "INFECTION": {
+            "TRACT": 1.0
+        }, 
+        "IV": {
+            "on": 1.0
+        }, 
+        "In": {
+            "implantation.": 0.5, 
+            "rigors.": 0.5
+        }, 
+        "Increased": {
+            "Hypertension.": 1.0
+        }, 
+        "Index": {
+            "40887": 1.0
+        }, 
+        "Ischemic": {
+            "HISTORY:": 1.0
+        }, 
+        "J.": {
+            "MOHAMMAD": 1.0
+        }, 
+        "K-Dur": {
+            ",": 1.0
+        }, 
+        "KEITHLEY": {
+            "J.": 1.0
+        }, 
+        "LABORATORY": {
+            "edema.": 1.0
+        }, 
+        "LEFT": {
+            ")": 1.0
+        }, 
+        "LMC": {
+            "|": 1.0
+        }, 
+        "Lasix": {
+            ",": 1.0
+        }, 
+        "Left": {
+            "failure.": 1.0
+        }, 
+        "M.D.": {
+            ",": 1.0
+        }, 
+        "MEDICAL": {
+            "PAST": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "appendectomy.": 1.0
+        }, 
+        "MELLITUS": {
+            "DIABETES": 1.0
+        }, 
+        "MOHAMMAD": {
+            "By:": 1.0
+        }, 
+        "MYOCARDIAL": {
+            ")": 1.0
+        }, 
+        "NEPHROLITHIASIS": {
+            ")": 1.0
+        }, 
+        "No": {
+            "Back:": 0.3333333333333333, 
+            "Extremities:": 0.3333333333333333, 
+            "nontender.": 0.3333333333333333
+        }, 
+        "No.": {
+            "Index": 1.0
+        }, 
+        "Notable": {
+            "HISTORY:": 1.0
+        }, 
+        "OF": {
+            "HISTORY": 1.0
+        }, 
+        "ONSET": {
+            "ADULT": 1.0
+        }, 
+        "Over": {
+            "hydrated.": 1.0
+        }, 
+        "PAST": {
+            "room.": 1.0
+        }, 
+        "PHYSICAL": {
+            "alcohol.": 1.0
+        }, 
+        "PLACEMENT": {
+            "AICD": 1.0
+        }, 
+        "POHW261Y81": {
+            "No.": 1.0
+        }, 
+        "POST": {
+            "STATUS": 1.0
+        }, 
+        "PRESENT": {
+            "OF": 1.0
+        }, 
+        "PTCA": {
+            "POST": 0.5, 
+            "underwent": 0.5
+        }, 
+        "PYELONEPHRITIS": {
+            "|": 1.0
+        }, 
+        "Rectal:": {
+            "tenderness.": 1.0
+        }, 
+        "Report": {
+            "11/4/1995": 1.0
+        }, 
+        "S1": {
+            "with": 1.0
+        }, 
+        "S2": {
+            "and": 1.0
+        }, 
+        "SALPINGO-OOPHORECTOMY": {
+            "BILATERAL": 1.0
+        }, 
+        "STATUS": {
+            ")": 0.75, 
+            "INFARCTION": 0.25
+        }, 
+        "She": {
+            "50.": 0.1111111111111111, 
+            "EXAMINATION:": 0.1111111111111111, 
+            "Gentamycin.": 0.1111111111111111, 
+            "TPA.": 0.1111111111111111, 
+            "imbalance.": 0.1111111111111111, 
+            "infection.": 0.1111111111111111, 
+            "pain.": 0.1111111111111111, 
+            "pericardiocentesis.": 0.1111111111111111, 
+            "regurgitation.": 0.1111111111111111
+        }, 
+        "Signed": {
+            "Status:": 0.5, 
+            "|": 0.5
+        }, 
+        "Since": {
+            "p.o.": 1.0
+        }, 
+        "Soft": {
+            "Abdomen:": 1.0
+        }, 
+        "Status": {
+            "placement.": 0.5, 
+            "salpingo-oophorectomy.": 0.5
+        }, 
+        "Status:": {
+            "Report": 1.0
+        }, 
+        "Synthroid": {
+            ",": 1.0
+        }, 
+        "T:": {
+            "4/3/97": 1.0
+        }, 
+        "TACHYCARDIA": {
+            "VENTRICULAR": 1.0
+        }, 
+        "TINKLENBERG": {
+            "C.": 1.0
+        }, 
+        "TOTAL": {
+            "POST": 1.0
+        }, 
+        "TPA": {
+            "with": 1.0
+        }, 
+        "TPA.": {
+            "with": 1.0
+        }, 
+        "TRACT": {
+            "URINARY": 1.0
+        }, 
+        "Temperature": {
+            "distress.": 1.0
+        }, 
+        "The": {
+            "18%.": 0.1111111111111111, 
+            "COURSE:": 0.1111111111111111, 
+            "ECGs.": 0.1111111111111111, 
+            "ILLNESS:": 0.1111111111111111, 
+            "WBCs.": 0.1111111111111111, 
+            "air.": 0.1111111111111111, 
+            "artery.": 0.1111111111111111, 
+            "infiltrates.": 0.1111111111111111, 
+            "rales.": 0.1111111111111111
+        }, 
+        "This": {
+            "20%.": 1.0
+        }, 
+        "URINARY": {
+            ")": 1.0
+        }, 
+        "VENTRICULAR": {
+            "FOR": 0.5, 
+            "LEFT": 0.5
+        }, 
+        "VI013/9118": {
+            "GZ0": 1.0
+        }, 
+        "WBCs.": {
+            "count": 1.0
+        }, 
+        "Wittig": {
+            "Clement": 1.0
+        }, 
+        "Zocor": {
+            ",": 1.0
+        }, 
+        "a": {
+            "1991": 0.14285714285714285, 
+            "is": 0.2857142857142857, 
+            "revealed": 0.14285714285714285, 
+            "showed": 0.14285714285714285, 
+            "suffered": 0.14285714285714285, 
+            "with": 0.14285714285714285
+        }, 
+        "abdominal": {
+            "total": 1.0
+        }, 
+        "admitted": {
+            "was": 1.0
+        }, 
+        "age": {
+            "the": 1.0
+        }, 
+        "air.": {
+            "room": 1.0
+        }, 
+        "alcohol.": {
+            "drink": 1.0
+        }, 
+        "also": {
+            "She": 1.0
+        }, 
+        "although": {
+            "chills": 0.5, 
+            "improve": 0.5
+        }, 
+        "an": {
+            "grew": 0.25, 
+            "revealed": 0.5, 
+            "suffered": 0.25
+        }, 
+        "and": {
+            ",": 0.07407407407407407, 
+            "1/18/95": 0.037037037037037035, 
+            "Amiodarone": 0.037037037037037035, 
+            "Ampicillin": 0.07407407407407407, 
+            "S1": 0.037037037037037035, 
+            "S2": 0.037037037037037035, 
+            "Soft": 0.037037037037037035, 
+            "admitted": 0.037037037037037035, 
+            "aneurysm": 0.037037037037037035, 
+            "chills": 0.037037037037037035, 
+            "cholecystectomy": 0.037037037037037035, 
+            "failure": 0.07407407407407407, 
+            "falling": 0.037037037037037035, 
+            "hysterectomy": 0.037037037037037035, 
+            "improvement": 0.037037037037037035, 
+            "infarction": 0.037037037037037035, 
+            "later": 0.037037037037037035, 
+            "nausea": 0.037037037037037035, 
+            "rate": 0.037037037037037035, 
+            "smoke": 0.037037037037037035, 
+            "symptoms": 0.037037037037037035, 
+            "tachycardia": 0.037037037037037035, 
+            "tamponade": 0.037037037037037035, 
+            "weakness": 0.037037037037037035
+        }, 
+        "aneurysm": {
+            "ventricular": 1.0
+        }, 
+        "aneurysmectomy.": {
+            "ventricular": 1.0
+        }, 
+        "aneurysmectomy/AICD": {
+            "and": 1.0
+        }, 
+        "angle": {
+            "costovertebral": 1.0
+        }, 
+        "anterior": {
+            "left": 0.5, 
+            "post": 0.5
+        }, 
+        "anterolateral": {
+            "an": 1.0
+        }, 
+        "antibiotics": {
+            "IV": 1.0
+        }, 
+        "apparent": {
+            "no": 1.0
+        }, 
+        "appearing": {
+            "well": 1.0
+        }, 
+        "appendectomy.": {
+            "and": 1.0
+        }, 
+        "artery": {
+            "Coronary": 1.0
+        }, 
+        "artery.": {
+            "descending": 1.0
+        }, 
+        "at": {
+            "echocardiogram": 0.25, 
+            "infarction": 0.25, 
+            "murmur": 0.25, 
+            "ventriculogram": 0.25
+        }, 
+        "bibasilar": {
+            "faint": 1.0
+        }, 
+        "bilateral": {
+            "and": 1.0
+        }, 
+        "blood": {
+            ",": 1.0
+        }, 
+        "border": {
+            "sternal": 1.0
+        }, 
+        "border.": {
+            "sternal": 1.0
+        }, 
+        "brother": {
+            "for": 1.0
+        }, 
+        "but": {
+            "transplant": 1.0
+        }, 
+        "by": {
+            "complicated": 1.0
+        }, 
+        "cardiac": {
+            "a": 0.5, 
+            "for": 0.5
+        }, 
+        "cardiologist": {
+            "primary": 1.0
+        }, 
+        "cardiomyopathy": {
+            "in": 0.5, 
+            "ischemic": 0.5
+        }, 
+        "cardiomyopathy.": {
+            "Ischemic": 1.0
+        }, 
+        "catheterization": {
+            "cardiac": 1.0
+        }, 
+        "chest": {
+            "or": 0.5, 
+            "recurrent": 0.5
+        }, 
+        "chills": {
+            "of": 0.5, 
+            "or": 0.5
+        }, 
+        "cholecystectomy": {
+            "post": 1.0
+        }, 
+        "cholesterol.": {
+            "Increased": 1.0
+        }, 
+        "clinic": {
+            "cardiomyopathy": 1.0
+        }, 
+        "clubbing": {
+            "No": 1.0
+        }, 
+        "coli.": {
+            "Escherichia": 1.0
+        }, 
+        "compared": {
+            "unchanged": 1.0
+        }, 
+        "complained": {
+            "and": 1.0
+        }, 
+        "complicated": {
+            "infarction": 0.5, 
+            "was": 0.5
+        }, 
+        "congestive": {
+            "and": 0.3333333333333333, 
+            "no": 0.3333333333333333, 
+            "of": 0.3333333333333333
+        }, 
+        "consistent": {
+            "was": 1.0
+        }, 
+        "continued": {
+            "she": 1.0
+        }, 
+        "costovertebral": {
+            "No": 1.0
+        }, 
+        "count": {
+            "to": 1.0
+        }, 
+        "culture": {
+            "urine": 1.0
+        }, 
+        "cultures": {
+            "urine": 1.0
+        }, 
+        "cyanosis": {
+            ",": 1.0
+        }, 
+        "data": {
+            "laboratory": 1.0
+        }, 
+        "days": {
+            "five": 0.5, 
+            "several": 0.5
+        }, 
+        "decreased": {
+            "significantly": 1.0
+        }, 
+        "denies": {
+            "She": 1.0
+        }, 
+        "descending": {
+            "anterior": 1.0
+        }, 
+        "discharged": {
+            "was": 1.0
+        }, 
+        "disease": {
+            "artery": 1.0
+        }, 
+        "distress.": {
+            "apparent": 1.0
+        }, 
+        "dizziness": {
+            "denies": 1.0
+        }, 
+        "document": {
+            "to": 1.0
+        }, 
+        "does": {
+            "She": 0.5, 
+            "and": 0.5
+        }, 
+        "drink": {
+            "not": 1.0
+        }, 
+        "echocardiogram": {
+            "An": 1.0
+        }, 
+        "edema.": {
+            "or": 1.0
+        }, 
+        "ejection": {
+            "an": 0.6666666666666666, 
+            "decreased": 0.3333333333333333
+        }, 
+        "emergency": {
+            "the": 1.0
+        }, 
+        "episodes": {
+            "recurrent": 0.5, 
+            "three": 0.5
+        }, 
+        "evaluated": {
+            "was": 1.0
+        }, 
+        "examination": {
+            "The": 0.5, 
+            "heart": 0.5
+        }, 
+        "failure": {
+            "heart": 1.0
+        }, 
+        "failure.": {
+            "heart": 1.0
+        }, 
+        "faint": {
+            "had": 1.0
+        }, 
+        "falling": {
+            "of": 1.0
+        }, 
+        "felt": {
+            "still": 1.0
+        }, 
+        "fever": {
+            "denies": 0.5, 
+            "with": 0.5
+        }, 
+        "five": {
+            "pain": 1.0
+        }, 
+        "follow-up": {
+            "to": 1.0
+        }, 
+        "for": {
+            "Notable": 0.2, 
+            "evaluated": 0.2, 
+            "notable": 0.4, 
+            "opted": 0.2
+        }, 
+        "fraction": {
+            "ejection": 1.0
+        }, 
+        "gently": {
+            "was": 1.0
+        }, 
+        "grew": {
+            "cultures": 1.0
+        }, 
+        "had": {
+            "She": 0.2, 
+            "has": 0.2, 
+            "she": 0.2, 
+            "that": 0.2, 
+            "this": 0.2
+        }, 
+        "has": {
+            "she": 1.0
+        }, 
+        "health.": {
+            "of": 1.0
+        }, 
+        "heart": {
+            "The": 0.25, 
+            "congestive": 0.75
+        }, 
+        "hepatosplenomegaly.": {
+            "No": 1.0
+        }, 
+        "her": {
+            "of": 0.6666666666666666, 
+            "with": 0.3333333333333333
+        }, 
+        "hydrated.": {
+            "gently": 1.0
+        }, 
+        "hypotension": {
+            "and": 1.0
+        }, 
+        "hysterectomy": {
+            "abdominal": 1.0
+        }, 
+        "imbalance.": {
+            "and": 1.0
+        }, 
+        "implantation.": {
+            "aneurysmectomy/AICD": 1.0
+        }, 
+        "improve": {
+            "to": 1.0
+        }, 
+        "improvement": {
+            "without": 1.0
+        }, 
+        "in": {
+            "rigors": 0.3333333333333333, 
+            "seen": 0.3333333333333333, 
+            "woman": 0.3333333333333333
+        }, 
+        "increased": {
+            "had": 1.0
+        }, 
+        "infarction": {
+            "myocardial": 1.0
+        }, 
+        "infection.": {
+            "tract": 1.0
+        }, 
+        "infiltrates.": {
+            "no": 1.0
+        }, 
+        "insulin": {
+            ",": 1.0
+        }, 
+        "is": {
+            "She": 0.5, 
+            "patient": 0.5
+        }, 
+        "ischemic": {
+            "with": 1.0
+        }, 
+        "laboratory": {
+            "Admission": 1.0
+        }, 
+        "later": {
+            "days": 1.0
+        }, 
+        "left": {
+            "The": 0.2, 
+            "her": 0.2, 
+            "new": 0.2, 
+            "the": 0.4
+        }, 
+        "lightheadedness": {
+            ",": 1.0
+        }, 
+        "lower": {
+            "left": 1.0
+        }, 
+        "lungs": {
+            "for": 1.0
+        }, 
+        "magnesium.": {
+            "and": 1.0
+        }, 
+        "malaise": {
+            ",": 1.0
+        }, 
+        "mellitus.": {
+            "Diabetes": 1.0
+        }, 
+        "mitral": {
+            "moderate": 1.0
+        }, 
+        "moderate": {
+            "and": 1.0
+        }, 
+        "moderately": {
+            "felt": 1.0
+        }, 
+        "murmur": {
+            "systolic": 1.0
+        }, 
+        "myocardial": {
+            "This": 0.25, 
+            "a": 0.25, 
+            "anterior": 0.25, 
+            "anterolateral": 0.25
+        }, 
+        "nausea": {
+            "increased": 1.0
+        }, 
+        "negative.": {
+            "Guaiac": 1.0
+        }, 
+        "new": {
+            "a": 1.0
+        }, 
+        "next": {
+            "the": 1.0
+        }, 
+        "no": {
+            "and": 0.3333333333333333, 
+            "in": 0.3333333333333333, 
+            "showed": 0.3333333333333333
+        }, 
+        "nontender.": {
+            "and": 1.0
+        }, 
+        "normal": {
+            "to": 1.0
+        }, 
+        "not": {
+            "does": 1.0
+        }, 
+        "notable": {
+            "was": 1.0
+        }, 
+        "now": {
+            "who": 1.0
+        }, 
+        "numerous": {
+            "too": 1.0
+        }, 
+        "of": {
+            "April": 0.08333333333333333, 
+            "February": 0.08333333333333333, 
+            "PTCA": 0.08333333333333333, 
+            "age": 0.08333333333333333, 
+            "complained": 0.08333333333333333, 
+            "episodes": 0.16666666666666666, 
+            "fraction": 0.16666666666666666, 
+            "out": 0.08333333333333333, 
+            "resolution": 0.08333333333333333, 
+            "state": 0.08333333333333333
+        }, 
+        "old": {
+            "year": 1.0
+        }, 
+        "on": {
+            "91%": 0.2, 
+            "clinic": 0.2, 
+            "discharged": 0.2, 
+            "started": 0.4
+        }, 
+        "opted": {
+            "but": 1.0
+        }, 
+        "or": {
+            ",": 0.6666666666666666, 
+            "fever": 0.3333333333333333
+        }, 
+        "organism": {
+            "an": 1.0
+        }, 
+        "out": {
+            "2": 1.0
+        }, 
+        "oxygen": {
+            ",": 1.0
+        }, 
+        "p.o.": {
+            "Bactrim": 0.5, 
+            "on": 0.5
+        }, 
+        "pain": {
+            "chest": 1.0
+        }, 
+        "pain.": {
+            "chest": 1.0
+        }, 
+        "palpitations": {
+            ",": 1.0
+        }, 
+        "patient": {
+            "The": 0.75, 
+            "the": 0.25
+        }, 
+        "pericardial": {
+            "by": 1.0
+        }, 
+        "pericardiocentesis.": {
+            "with": 1.0
+        }, 
+        "placement.": {
+            "AICD": 1.0
+        }, 
+        "post": {
+            "Status": 0.6666666666666666, 
+            "status": 0.3333333333333333
+        }, 
+        "presents": {
+            "now": 1.0
+        }, 
+        "pressure": {
+            "blood": 1.0
+        }, 
+        "previous": {
+            "with": 1.0
+        }, 
+        "primary": {
+            "her": 1.0
+        }, 
+        "pulse": {
+            ",": 1.0
+        }, 
+        "radiating": {
+            "border": 1.0
+        }, 
+        "rales.": {
+            "bibasilar": 1.0
+        }, 
+        "rate": {
+            "regular": 1.0
+        }, 
+        "recurrent": {
+            "had": 0.5, 
+            "suffered": 0.5
+        }, 
+        "regular": {
+            "a": 1.0
+        }, 
+        "regurgitation.": {
+            "mitral": 1.0
+        }, 
+        "resolution": {
+            "document": 1.0
+        }, 
+        "retreated": {
+            "was": 1.0
+        }, 
+        "return": {
+            "to": 1.0
+        }, 
+        "revealed": {
+            "catheterization": 0.3333333333333333, 
+            "time": 0.6666666666666666
+        }, 
+        "rhythm": {
+            "and": 1.0
+        }, 
+        "rigors": {
+            "had": 1.0
+        }, 
+        "rigors.": {
+            "and": 1.0
+        }, 
+        "room": {
+            "on": 1.0
+        }, 
+        "room.": {
+            "emergency": 1.0
+        }, 
+        "salpingo-oophorectomy.": {
+            "bilateral": 1.0
+        }, 
+        "saturation": {
+            "oxygen": 1.0
+        }, 
+        "seen": {
+            "was": 1.0
+        }, 
+        "sensitive": {
+            "was": 1.0
+        }, 
+        "several": {
+            "next": 1.0
+        }, 
+        "she": {
+            "although": 0.4, 
+            "and": 0.2, 
+            "days": 0.2, 
+            "then": 0.2
+        }, 
+        "showed": {
+            "culture": 0.3333333333333333, 
+            "examination": 0.3333333333333333, 
+            "x-ray": 0.3333333333333333
+        }, 
+        "significantly": {
+            "a": 1.0
+        }, 
+        "smoke": {
+            "not": 1.0
+        }, 
+        "specifically": {
+            ",": 1.0
+        }, 
+        "started": {
+            "and": 0.5, 
+            "was": 0.5
+        }, 
+        "state": {
+            "normal": 1.0
+        }, 
+        "status": {
+            "disease": 1.0
+        }, 
+        "sternal": {
+            "lower": 0.5, 
+            "upper": 0.5
+        }, 
+        "still": {
+            "she": 1.0
+        }, 
+        "subsequent": {
+            "also": 0.5, 
+            "and": 0.5
+        }, 
+        "suffered": {
+            "had": 0.3333333333333333, 
+            "patient": 0.3333333333333333, 
+            "who": 0.3333333333333333
+        }, 
+        "symptoms": {
+            "her": 1.0
+        }, 
+        "systolic": {
+            "6": 1.0
+        }, 
+        "tachycardia": {
+            "ventricular": 1.0
+        }, 
+        "tachycardia.": {
+            "ventricular": 1.0
+        }, 
+        "tamponade": {
+            "pericardial": 1.0
+        }, 
+        "tenderness.": {
+            "angle": 1.0
+        }, 
+        "that": {
+            "at": 0.5, 
+            "lungs": 0.5
+        }, 
+        "the": {
+            "1991": 0.16666666666666666, 
+            "Over": 0.16666666666666666, 
+            "at": 0.3333333333333333, 
+            "in": 0.16666666666666666, 
+            "to": 0.16666666666666666
+        }, 
+        "then": {
+            "Since": 0.5, 
+            "and": 0.5
+        }, 
+        "this": {
+            "at": 0.5, 
+            "to": 0.5
+        }, 
+        "three": {
+            "with": 1.0
+        }, 
+        "time": {
+            "that": 0.5, 
+            "this": 0.5
+        }, 
+        "to": {
+            ",": 0.1111111111111111, 
+            "Ampicillin": 0.1111111111111111, 
+            "and": 0.1111111111111111, 
+            "continued": 0.1111111111111111, 
+            "numerous": 0.1111111111111111, 
+            "radiating": 0.1111111111111111, 
+            "return": 0.1111111111111111, 
+            "sensitive": 0.1111111111111111, 
+            "subsequent": 0.1111111111111111
+        }, 
+        "too": {
+            "for": 1.0
+        }, 
+        "total": {
+            "post": 1.0
+        }, 
+        "tract": {
+            "urinary": 1.0
+        }, 
+        "transplant": {
+            "cardiac": 1.0
+        }, 
+        "treated": {
+            "hypotension": 0.5, 
+            "was": 0.5
+        }, 
+        "unchanged": {
+            "was": 1.0
+        }, 
+        "underwent": {
+            "then": 1.0
+        }, 
+        "unremarkable.": {
+            "was": 1.0
+        }, 
+        "upper": {
+            "left": 1.0
+        }, 
+        "urinalysis": {
+            "The": 0.5, 
+            "subsequent": 0.5
+        }, 
+        "urinary": {
+            "with": 1.0
+        }, 
+        "urine": {
+            "Her": 0.5, 
+            "The": 0.5
+        }, 
+        "ventricular": {
+            "Left": 0.25, 
+            "and": 0.25, 
+            "by": 0.25, 
+            "left": 0.25
+        }, 
+        "ventriculogram": {
+            "left": 1.0
+        }, 
+        "vitamin": {
+            ",": 1.0
+        }, 
+        "vomiting": {
+            "and": 1.0
+        }, 
+        "was": {
+            "ECG": 0.06666666666666667, 
+            "She": 0.2, 
+            "and": 0.13333333333333333, 
+            "data": 0.06666666666666667, 
+            "examination": 0.06666666666666667, 
+            "infarction": 0.06666666666666667, 
+            "patient": 0.13333333333333333, 
+            "she": 0.06666666666666667, 
+            "urinalysis": 0.13333333333333333, 
+            "which": 0.06666666666666667
+        }, 
+        "weak.": {
+            "moderately": 1.0
+        }, 
+        "weakness": {
+            "and": 1.0
+        }, 
+        "well": {
+            "a": 1.0
+        }, 
+        "which": {
+            "organism": 1.0
+        }, 
+        "who": {
+            "brother": 0.5, 
+            "cardiomyopathy": 0.5
+        }, 
+        "with": {
+            "compared": 0.09090909090909091, 
+            "consistent": 0.09090909090909091, 
+            "follow-up": 0.09090909090909091, 
+            "fraction": 0.09090909090909091, 
+            "presents": 0.09090909090909091, 
+            "retreated": 0.09090909090909091, 
+            "rhythm": 0.09090909090909091, 
+            "treated": 0.18181818181818182, 
+            "vomiting": 0.09090909090909091, 
+            "woman": 0.09090909090909091
+        }, 
+        "without": {
+            "TPA": 1.0
+        }, 
+        "woman": {
+            "appearing": 0.5, 
+            "old": 0.5
+        }, 
+        "x-ray": {
+            "Chest": 1.0
+        }, 
+        "year": {
+            "63": 1.0
+        }, 
+        "|": {
+            "276430": 0.1111111111111111, 
+            "354140336": 0.1111111111111111, 
+            "98555723": 0.1111111111111111, 
+            "AM": 0.1111111111111111, 
+            "DIS": 0.1111111111111111, 
+            "LMC": 0.1111111111111111, 
+            "PYELONEPHRITIS": 0.1111111111111111, 
+            "Signed": 0.1111111111111111, 
+            "|": 0.1111111111111111
+        }
+    }, 
+    "id": "346", 
+    "text": " 354140336 | LMC | 98555723 | | 276430 | 1/5/1995 12:00:00 AM | PYELONEPHRITIS | Signed | DIS | Admission Date: 11/4/1995 Report Status: Signed Discharge Date: 8/6/1995 FINAL DIAGNOSIS: ( 1 ) URINARY TRACT INFECTION ( 2 ) CORONARY ARTERY DISEASE ( 3 ) MYOCARDIAL INFARCTION STATUS POST PTCA ( 4 ) LEFT VENTRICULAR ANEURSYMECTOMY ( 5 ) AICD PLACEMENT FOR VENTRICULAR TACHYCARDIA ( 6 ) NEPHROLITHIASIS ( 7 ) HYPERTENSION ( 8 ) HYPERCHOLESTEROLEMIA ( 9 ) ADULT ONSET DIABETES MELLITUS ( 10 ) STATUS POST TOTAL ABDOMINAL HYSTERECTOMY AND BILATERAL SALPINGO-OOPHORECTOMY ( 11 ) STATUS POST APPENDECTOMY ( 12 ) STATUS POST CHOLECYSTECTOMY HISTORY OF PRESENT ILLNESS: The patient is a 63 year old woman with ischemic cardiomyopathy who now presents with fever , malaise , and rigors. In April of 1991 the patient suffered an anterolateral myocardial infarction and was treated with TPA. She had recurrent chest pain five days later and was retreated with TPA without improvement and then underwent PTCA of her left anterior descending artery. The left ventriculogram at that time revealed an ejection fraction of 20%. This myocardial infarction was complicated by pericardial tamponade and hypotension treated with pericardiocentesis. She also subsequent to this had suffered recurrent episodes of congestive heart failure and ventricular tachycardia. An echocardiogram at this time revealed a significantly decreased ejection fraction with a new left ventricular aneurysm and moderate mitral regurgitation. She was evaluated for cardiac transplant but opted for Amiodarone and aneurysmectomy/AICD implantation. In February of 1991 a cardiac catheterization revealed an ejection fraction of 18%. The patient was seen in cardiomyopathy clinic on 1/18/95 and complained of chills and weakness and subsequent urinalysis was consistent with urinary tract infection. She was started on Bactrim p.o. Since then she has had increased nausea and vomiting with three episodes of falling and imbalance. She denies dizziness , lightheadedness , palpitations , or chest pain. She denies fever or chills although she had rigors in the emergency room. PAST MEDICAL HISTORY: Ischemic cardiomyopathy. Hypertension. Increased cholesterol. Diabetes mellitus. Coronary artery disease status post anterior myocardial infarction complicated by ventricular tachycardia and congestive heart failure. Left ventricular aneurysmectomy. AICD placement. Status post total abdominal hysterectomy and bilateral salpingo-oophorectomy. Status post cholecystectomy and appendectomy. MEDICATIONS: Coumadin , Cardene , Digoxin , Synthroid , Zocor , Captopril , Lasix , K-Dur , vitamin C , insulin , and magnesium. FAMILY HISTORY: Notable for brother who suffered a myocardial infarction at the age of 50. She does not smoke and does not drink alcohol. PHYSICAL EXAMINATION: She is a well appearing woman in no apparent distress. Temperature 101.2 , pulse 77 , blood pressure 102/52 , oxygen saturation 91% on room air. The examination was notable for lungs that had faint bibasilar rales. The heart examination showed a regular rate and rhythm with S1 and S2 and 2 out of 6 systolic murmur at the left upper sternal border radiating to the left lower sternal border. Abdomen: Soft and nontender. No hepatosplenomegaly. Back: No costovertebral angle tenderness. Rectal: Guaiac negative. Extremities: No clubbing , cyanosis , or edema. LABORATORY DATA: Admission laboratory data was unremarkable. Chest x-ray showed no congestive heart failure and no infiltrates. The ECG was unchanged compared with previous ECGs. The urinalysis was notable for too numerous to count WBCs. The urine culture showed Escherichia coli. HOSPITAL COURSE: The patient was admitted and started on IV antibiotics , specifically Ampicillin and Gentamycin. She was gently hydrated. Over the next several days she continued to improve although she still felt moderately weak. Her urine cultures grew an organism which was sensitive to Ampicillin and she was discharged on p.o. Ampicillin to follow-up with her primary cardiologist , Dr. Clement Wittig , to document resolution of her symptoms and to return to normal state of health. Dictated By: MOHAMMAD J. KEITHLEY , M.D. AO36 Attending: BERNARDO C. TINKLENBERG , M.D. GZ0 VI013/9118 Batch: 40887 Index No. POHW261Y81 D: 4/3/97 T: 8/28/97", 
+    "tri": {
+        "(": {
+            ")~HYPERCHOLESTEROLEMIA": 0.08333333333333333, 
+            ")~HYPERTENSION": 0.08333333333333333, 
+            ")~NEPHROLITHIASIS": 0.08333333333333333, 
+            "ARTERY~DISEASE": 0.08333333333333333, 
+            "BILATERAL~SALPINGO-OOPHORECTOMY": 0.08333333333333333, 
+            "DIABETES~MELLITUS": 0.08333333333333333, 
+            "FINAL~DIAGNOSIS:": 0.08333333333333333, 
+            "POST~APPENDECTOMY": 0.08333333333333333, 
+            "POST~PTCA": 0.08333333333333333, 
+            "TRACT~INFECTION": 0.08333333333333333, 
+            "VENTRICULAR~ANEURSYMECTOMY": 0.08333333333333333, 
+            "VENTRICULAR~TACHYCARDIA": 0.08333333333333333
+        }, 
+        ")": {
+            "(~1": 0.08333333333333333, 
+            "(~10": 0.08333333333333333, 
+            "(~11": 0.08333333333333333, 
+            "(~12": 0.08333333333333333, 
+            "(~2": 0.08333333333333333, 
+            "(~3": 0.08333333333333333, 
+            "(~4": 0.08333333333333333, 
+            "(~5": 0.08333333333333333, 
+            "(~6": 0.08333333333333333, 
+            "(~7": 0.08333333333333333, 
+            "(~8": 0.08333333333333333, 
+            "(~9": 0.08333333333333333
+        }, 
+        ",": {
+            ",~Captopril": 0.04, 
+            ",~Cardene": 0.04, 
+            ",~Digoxin": 0.04, 
+            ",~K-Dur": 0.04, 
+            ",~Lasix": 0.04, 
+            ",~Synthroid": 0.04, 
+            ",~Zocor": 0.04, 
+            ",~cyanosis": 0.04, 
+            ",~insulin": 0.04, 
+            ",~lightheadedness": 0.04, 
+            ",~malaise": 0.04, 
+            ",~palpitations": 0.04, 
+            "C.~TINKLENBERG": 0.04, 
+            "Clement~Wittig": 0.04, 
+            "IV~antibiotics": 0.04, 
+            "J.~KEITHLEY": 0.04, 
+            "MEDICATIONS:~Coumadin": 0.04, 
+            "No~clubbing": 0.04, 
+            "Temperature~101.2": 0.04, 
+            "denies~dizziness": 0.04, 
+            "pressure~102/52": 0.04, 
+            "primary~cardiologist": 0.04, 
+            "pulse~77": 0.04, 
+            "vitamin~C": 0.04, 
+            "with~fever": 0.04
+        }, 
+        "1": {
+            "DIAGNOSIS:~(": 1.0
+        }, 
+        "1/18/95": {
+            "clinic~on": 1.0
+        }, 
+        "1/5/1995": {
+            "276430~|": 1.0
+        }, 
+        "10": {
+            "MELLITUS~(": 1.0
+        }, 
+        "101.2": {
+            "distress.~Temperature": 1.0
+        }, 
+        "102/52": {
+            "blood~pressure": 1.0
+        }, 
+        "11": {
+            "SALPINGO-OOPHORECTOMY~(": 1.0
+        }, 
+        "11/4/1995": {
+            "Admission~Date:": 1.0
+        }, 
+        "12": {
+            "APPENDECTOMY~(": 1.0
+        }, 
+        "12:00:00": {
+            "|~1/5/1995": 1.0
+        }, 
+        "18%.": {
+            "fraction~of": 1.0
+        }, 
+        "1991": {
+            "April~of": 0.5, 
+            "February~of": 0.5
+        }, 
+        "2": {
+            "INFECTION~(": 0.5, 
+            "S2~and": 0.5
+        }, 
+        "20%.": {
+            "fraction~of": 1.0
+        }, 
+        "276430": {
+            "|~|": 1.0
+        }, 
+        "3": {
+            "DISEASE~(": 1.0
+        }, 
+        "4": {
+            "PTCA~(": 1.0
+        }, 
+        "4/3/97": {
+            "POHW261Y81~D:": 1.0
+        }, 
+        "40887": {
+            "VI013/9118~Batch:": 1.0
+        }, 
+        "5": {
+            "ANEURSYMECTOMY~(": 1.0
+        }, 
+        "50.": {
+            "age~of": 1.0
+        }, 
+        "6": {
+            "TACHYCARDIA~(": 0.5, 
+            "out~of": 0.5
+        }, 
+        "63": {
+            "is~a": 1.0
+        }, 
+        "7": {
+            "NEPHROLITHIASIS~(": 1.0
+        }, 
+        "77": {
+            ",~pulse": 1.0
+        }, 
+        "8": {
+            "HYPERTENSION~(": 1.0
+        }, 
+        "8/28/97": {
+            "4/3/97~T:": 1.0
+        }, 
+        "8/6/1995": {
+            "Discharge~Date:": 1.0
+        }, 
+        "9": {
+            "HYPERCHOLESTEROLEMIA~(": 1.0
+        }, 
+        "91%": {
+            "oxygen~saturation": 1.0
+        }, 
+        "98555723": {
+            "LMC~|": 1.0
+        }, 
+        "ABDOMINAL": {
+            "POST~TOTAL": 1.0
+        }, 
+        "ADULT": {
+            "9~)": 1.0
+        }, 
+        "AICD": {
+            "5~)": 0.5, 
+            "ventricular~aneurysmectomy.": 0.5
+        }, 
+        "AM": {
+            "1/5/1995~12:00:00": 1.0
+        }, 
+        "AND": {
+            "ABDOMINAL~HYSTERECTOMY": 1.0
+        }, 
+        "ANEURSYMECTOMY": {
+            "LEFT~VENTRICULAR": 1.0
+        }, 
+        "AO36": {
+            ",~M.D.": 1.0
+        }, 
+        "APPENDECTOMY": {
+            "STATUS~POST": 1.0
+        }, 
+        "ARTERY": {
+            ")~CORONARY": 1.0
+        }, 
+        "Abdomen:": {
+            "sternal~border.": 1.0
+        }, 
+        "Admission": {
+            "DIS~|": 0.5, 
+            "LABORATORY~DATA:": 0.5
+        }, 
+        "Amiodarone": {
+            "opted~for": 1.0
+        }, 
+        "Ampicillin": {
+            ",~specifically": 0.3333333333333333, 
+            "on~p.o.": 0.3333333333333333, 
+            "sensitive~to": 0.3333333333333333
+        }, 
+        "An": {
+            "ventricular~tachycardia.": 1.0
+        }, 
+        "April": {
+            "rigors.~In": 1.0
+        }, 
+        "Attending:": {
+            "M.D.~AO36": 1.0
+        }, 
+        "BERNARDO": {
+            "AO36~Attending:": 1.0
+        }, 
+        "BILATERAL": {
+            "HYSTERECTOMY~AND": 1.0
+        }, 
+        "Back:": {
+            "No~hepatosplenomegaly.": 1.0
+        }, 
+        "Bactrim": {
+            "started~on": 1.0
+        }, 
+        "Batch:": {
+            "GZ0~VI013/9118": 1.0
+        }, 
+        "By:": {
+            "health.~Dictated": 1.0
+        }, 
+        "C": {
+            ",~vitamin": 1.0
+        }, 
+        "C.": {
+            "Attending:~BERNARDO": 1.0
+        }, 
+        "CHOLECYSTECTOMY": {
+            "STATUS~POST": 1.0
+        }, 
+        "CORONARY": {
+            "2~)": 1.0
+        }, 
+        "COURSE:": {
+            "coli.~HOSPITAL": 1.0
+        }, 
+        "Captopril": {
+            "Zocor~,": 1.0
+        }, 
+        "Cardene": {
+            "Coumadin~,": 1.0
+        }, 
+        "Chest": {
+            "was~unremarkable.": 1.0
+        }, 
+        "Clement": {
+            ",~Dr.": 1.0
+        }, 
+        "Coronary": {
+            "Diabetes~mellitus.": 1.0
+        }, 
+        "Coumadin": {
+            "appendectomy.~MEDICATIONS:": 1.0
+        }, 
+        "D:": {
+            "No.~POHW261Y81": 1.0
+        }, 
+        "DATA:": {
+            "edema.~LABORATORY": 1.0
+        }, 
+        "DIABETES": {
+            "ADULT~ONSET": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "8/6/1995~FINAL": 1.0
+        }, 
+        "DIS": {
+            "Signed~|": 1.0
+        }, 
+        "DISEASE": {
+            "CORONARY~ARTERY": 1.0
+        }, 
+        "Date:": {
+            "Signed~Discharge": 0.5, 
+            "|~Admission": 0.5
+        }, 
+        "Diabetes": {
+            "Increased~cholesterol.": 1.0
+        }, 
+        "Dictated": {
+            "of~health.": 1.0
+        }, 
+        "Digoxin": {
+            "Cardene~,": 1.0
+        }, 
+        "Discharge": {
+            "Status:~Signed": 1.0
+        }, 
+        "Dr.": {
+            "cardiologist~,": 1.0
+        }, 
+        "ECG": {
+            "infiltrates.~The": 1.0
+        }, 
+        "ECGs.": {
+            "with~previous": 1.0
+        }, 
+        "EXAMINATION:": {
+            "alcohol.~PHYSICAL": 1.0
+        }, 
+        "Escherichia": {
+            "culture~showed": 1.0
+        }, 
+        "Extremities:": {
+            "Guaiac~negative.": 1.0
+        }, 
+        "FAMILY": {
+            "and~magnesium.": 1.0
+        }, 
+        "FINAL": {
+            "Date:~8/6/1995": 1.0
+        }, 
+        "FOR": {
+            "AICD~PLACEMENT": 1.0
+        }, 
+        "February": {
+            "implantation.~In": 1.0
+        }, 
+        "GZ0": {
+            ",~M.D.": 1.0
+        }, 
+        "Gentamycin.": {
+            "Ampicillin~and": 1.0
+        }, 
+        "Guaiac": {
+            "tenderness.~Rectal:": 1.0
+        }, 
+        "HISTORY": {
+            "POST~CHOLECYSTECTOMY": 1.0
+        }, 
+        "HISTORY:": {
+            "PAST~MEDICAL": 0.5, 
+            "magnesium.~FAMILY": 0.5
+        }, 
+        "HOSPITAL": {
+            "Escherichia~coli.": 1.0
+        }, 
+        "HYPERCHOLESTEROLEMIA": {
+            "8~)": 1.0
+        }, 
+        "HYPERTENSION": {
+            "7~)": 1.0
+        }, 
+        "HYSTERECTOMY": {
+            "TOTAL~ABDOMINAL": 1.0
+        }, 
+        "Her": {
+            "moderately~weak.": 1.0
+        }, 
+        "Hypertension.": {
+            "Ischemic~cardiomyopathy.": 1.0
+        }, 
+        "ILLNESS:": {
+            "OF~PRESENT": 1.0
+        }, 
+        "INFARCTION": {
+            ")~MYOCARDIAL": 1.0
+        }, 
+        "INFECTION": {
+            "URINARY~TRACT": 1.0
+        }, 
+        "IV": {
+            "started~on": 1.0
+        }, 
+        "In": {
+            "and~rigors.": 0.5, 
+            "aneurysmectomy/AICD~implantation.": 0.5
+        }, 
+        "Increased": {
+            "cardiomyopathy.~Hypertension.": 1.0
+        }, 
+        "Index": {
+            "Batch:~40887": 1.0
+        }, 
+        "Ischemic": {
+            "MEDICAL~HISTORY:": 1.0
+        }, 
+        "J.": {
+            "By:~MOHAMMAD": 1.0
+        }, 
+        "K-Dur": {
+            "Lasix~,": 1.0
+        }, 
+        "KEITHLEY": {
+            "MOHAMMAD~J.": 1.0
+        }, 
+        "LABORATORY": {
+            "or~edema.": 1.0
+        }, 
+        "LEFT": {
+            "4~)": 1.0
+        }, 
+        "LMC": {
+            "354140336~|": 1.0
+        }, 
+        "Lasix": {
+            "Captopril~,": 1.0
+        }, 
+        "Left": {
+            "heart~failure.": 1.0
+        }, 
+        "M.D.": {
+            "KEITHLEY~,": 0.5, 
+            "TINKLENBERG~,": 0.5
+        }, 
+        "MEDICAL": {
+            "room.~PAST": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "and~appendectomy.": 1.0
+        }, 
+        "MELLITUS": {
+            "ONSET~DIABETES": 1.0
+        }, 
+        "MOHAMMAD": {
+            "Dictated~By:": 1.0
+        }, 
+        "MYOCARDIAL": {
+            "3~)": 1.0
+        }, 
+        "NEPHROLITHIASIS": {
+            "6~)": 1.0
+        }, 
+        "No": {
+            "and~nontender.": 0.3333333333333333, 
+            "hepatosplenomegaly.~Back:": 0.3333333333333333, 
+            "negative.~Extremities:": 0.3333333333333333
+        }, 
+        "No.": {
+            "40887~Index": 1.0
+        }, 
+        "Notable": {
+            "FAMILY~HISTORY:": 1.0
+        }, 
+        "OF": {
+            "CHOLECYSTECTOMY~HISTORY": 1.0
+        }, 
+        "ONSET": {
+            ")~ADULT": 1.0
+        }, 
+        "Over": {
+            "gently~hydrated.": 1.0
+        }, 
+        "PAST": {
+            "emergency~room.": 1.0
+        }, 
+        "PHYSICAL": {
+            "drink~alcohol.": 1.0
+        }, 
+        "PLACEMENT": {
+            ")~AICD": 1.0
+        }, 
+        "POHW261Y81": {
+            "Index~No.": 1.0
+        }, 
+        "POST": {
+            ")~STATUS": 0.75, 
+            "INFARCTION~STATUS": 0.25
+        }, 
+        "PRESENT": {
+            "HISTORY~OF": 1.0
+        }, 
+        "PTCA": {
+            "STATUS~POST": 0.5, 
+            "then~underwent": 0.5
+        }, 
+        "PYELONEPHRITIS": {
+            "AM~|": 1.0
+        }, 
+        "Rectal:": {
+            "angle~tenderness.": 1.0
+        }, 
+        "Report": {
+            "Date:~11/4/1995": 1.0
+        }, 
+        "S1": {
+            "rhythm~with": 1.0
+        }, 
+        "S2": {
+            "S1~and": 1.0
+        }, 
+        "SALPINGO-OOPHORECTOMY": {
+            "AND~BILATERAL": 1.0
+        }, 
+        "STATUS": {
+            "10~)": 0.25, 
+            "11~)": 0.25, 
+            "12~)": 0.25, 
+            "MYOCARDIAL~INFARCTION": 0.25
+        }, 
+        "She": {
+            "PHYSICAL~EXAMINATION:": 0.1111111111111111, 
+            "and~Gentamycin.": 0.1111111111111111, 
+            "and~imbalance.": 0.1111111111111111, 
+            "chest~pain.": 0.1111111111111111, 
+            "mitral~regurgitation.": 0.1111111111111111, 
+            "of~50.": 0.1111111111111111, 
+            "tract~infection.": 0.1111111111111111, 
+            "with~TPA.": 0.1111111111111111, 
+            "with~pericardiocentesis.": 0.1111111111111111
+        }, 
+        "Signed": {
+            "PYELONEPHRITIS~|": 0.5, 
+            "Report~Status:": 0.5
+        }, 
+        "Since": {
+            "Bactrim~p.o.": 1.0
+        }, 
+        "Soft": {
+            "border.~Abdomen:": 1.0
+        }, 
+        "Status": {
+            "AICD~placement.": 0.5, 
+            "bilateral~salpingo-oophorectomy.": 0.5
+        }, 
+        "Status:": {
+            "11/4/1995~Report": 1.0
+        }, 
+        "Synthroid": {
+            "Digoxin~,": 1.0
+        }, 
+        "T:": {
+            "D:~4/3/97": 1.0
+        }, 
+        "TACHYCARDIA": {
+            "FOR~VENTRICULAR": 1.0
+        }, 
+        "TINKLENBERG": {
+            "BERNARDO~C.": 1.0
+        }, 
+        "TOTAL": {
+            "STATUS~POST": 1.0
+        }, 
+        "TPA": {
+            "retreated~with": 1.0
+        }, 
+        "TPA.": {
+            "treated~with": 1.0
+        }, 
+        "TRACT": {
+            ")~URINARY": 1.0
+        }, 
+        "Temperature": {
+            "apparent~distress.": 1.0
+        }, 
+        "The": {
+            "HOSPITAL~COURSE:": 0.1111111111111111, 
+            "PRESENT~ILLNESS:": 0.1111111111111111, 
+            "bibasilar~rales.": 0.1111111111111111, 
+            "count~WBCs.": 0.1111111111111111, 
+            "descending~artery.": 0.1111111111111111, 
+            "no~infiltrates.": 0.1111111111111111, 
+            "of~18%.": 0.1111111111111111, 
+            "previous~ECGs.": 0.1111111111111111, 
+            "room~air.": 0.1111111111111111
+        }, 
+        "This": {
+            "of~20%.": 1.0
+        }, 
+        "URINARY": {
+            "1~)": 1.0
+        }, 
+        "VENTRICULAR": {
+            ")~LEFT": 0.5, 
+            "PLACEMENT~FOR": 0.5
+        }, 
+        "VI013/9118": {
+            "M.D.~GZ0": 1.0
+        }, 
+        "WBCs.": {
+            "to~count": 1.0
+        }, 
+        "Wittig": {
+            "Dr.~Clement": 1.0
+        }, 
+        "Zocor": {
+            "Synthroid~,": 1.0
+        }, 
+        "a": {
+            "She~is": 0.14285714285714285, 
+            "examination~showed": 0.14285714285714285, 
+            "fraction~with": 0.14285714285714285, 
+            "of~1991": 0.14285714285714285, 
+            "patient~is": 0.14285714285714285, 
+            "time~revealed": 0.14285714285714285, 
+            "who~suffered": 0.14285714285714285
+        }, 
+        "abdominal": {
+            "post~total": 1.0
+        }, 
+        "admitted": {
+            "patient~was": 1.0
+        }, 
+        "age": {
+            "at~the": 1.0
+        }, 
+        "air.": {
+            "on~room": 1.0
+        }, 
+        "alcohol.": {
+            "not~drink": 1.0
+        }, 
+        "also": {
+            "pericardiocentesis.~She": 1.0
+        }, 
+        "although": {
+            "or~chills": 0.5, 
+            "to~improve": 0.5
+        }, 
+        "an": {
+            "catheterization~revealed": 0.25, 
+            "cultures~grew": 0.25, 
+            "patient~suffered": 0.25, 
+            "time~revealed": 0.25
+        }, 
+        "and": {
+            "Abdomen:~Soft": 0.037037037037037035, 
+            "abdominal~hysterectomy": 0.037037037037037035, 
+            "and~S2": 0.037037037037037035, 
+            "and~weakness": 0.037037037037037035, 
+            "days~later": 0.037037037037037035, 
+            "for~Amiodarone": 0.037037037037037035, 
+            "heart~failure": 0.07407407407407407, 
+            "her~symptoms": 0.037037037037037035, 
+            "increased~nausea": 0.037037037037037035, 
+            "insulin~,": 0.037037037037037035, 
+            "malaise~,": 0.037037037037037035, 
+            "myocardial~infarction": 0.037037037037037035, 
+            "not~smoke": 0.037037037037037035, 
+            "of~chills": 0.037037037037037035, 
+            "of~falling": 0.037037037037037035, 
+            "on~1/18/95": 0.037037037037037035, 
+            "pericardial~tamponade": 0.037037037037037035, 
+            "post~cholecystectomy": 0.037037037037037035, 
+            "regular~rate": 0.037037037037037035, 
+            "specifically~Ampicillin": 0.037037037037037035, 
+            "to~Ampicillin": 0.037037037037037035, 
+            "ventricular~aneurysm": 0.037037037037037035, 
+            "ventricular~tachycardia": 0.037037037037037035, 
+            "was~admitted": 0.037037037037037035, 
+            "without~improvement": 0.037037037037037035, 
+            "with~S1": 0.037037037037037035
+        }, 
+        "aneurysm": {
+            "left~ventricular": 1.0
+        }, 
+        "aneurysmectomy.": {
+            "Left~ventricular": 1.0
+        }, 
+        "aneurysmectomy/AICD": {
+            "Amiodarone~and": 1.0
+        }, 
+        "angle": {
+            "No~costovertebral": 1.0
+        }, 
+        "anterior": {
+            "her~left": 0.5, 
+            "status~post": 0.5
+        }, 
+        "anterolateral": {
+            "suffered~an": 1.0
+        }, 
+        "antibiotics": {
+            "on~IV": 1.0
+        }, 
+        "apparent": {
+            "in~no": 1.0
+        }, 
+        "appearing": {
+            "a~well": 1.0
+        }, 
+        "appendectomy.": {
+            "cholecystectomy~and": 1.0
+        }, 
+        "artery": {
+            "mellitus.~Coronary": 1.0
+        }, 
+        "artery.": {
+            "anterior~descending": 1.0
+        }, 
+        "at": {
+            "An~echocardiogram": 0.25, 
+            "left~ventriculogram": 0.25, 
+            "myocardial~infarction": 0.25, 
+            "systolic~murmur": 0.25
+        }, 
+        "bibasilar": {
+            "had~faint": 1.0
+        }, 
+        "bilateral": {
+            "hysterectomy~and": 1.0
+        }, 
+        "blood": {
+            "77~,": 1.0
+        }, 
+        "border": {
+            "upper~sternal": 1.0
+        }, 
+        "border.": {
+            "lower~sternal": 1.0
+        }, 
+        "brother": {
+            "Notable~for": 1.0
+        }, 
+        "but": {
+            "cardiac~transplant": 1.0
+        }, 
+        "by": {
+            "infarction~complicated": 0.5, 
+            "was~complicated": 0.5
+        }, 
+        "cardiac": {
+            "1991~a": 0.5, 
+            "evaluated~for": 0.5
+        }, 
+        "cardiologist": {
+            "her~primary": 1.0
+        }, 
+        "cardiomyopathy": {
+            "seen~in": 0.5, 
+            "with~ischemic": 0.5
+        }, 
+        "cardiomyopathy.": {
+            "HISTORY:~Ischemic": 1.0
+        }, 
+        "catheterization": {
+            "a~cardiac": 1.0
+        }, 
+        "chest": {
+            ",~or": 0.5, 
+            "had~recurrent": 0.5
+        }, 
+        "chills": {
+            "complained~of": 0.5, 
+            "fever~or": 0.5
+        }, 
+        "cholecystectomy": {
+            "Status~post": 1.0
+        }, 
+        "cholesterol.": {
+            "Hypertension.~Increased": 1.0
+        }, 
+        "clinic": {
+            "in~cardiomyopathy": 1.0
+        }, 
+        "clubbing": {
+            "Extremities:~No": 1.0
+        }, 
+        "coli.": {
+            "showed~Escherichia": 1.0
+        }, 
+        "compared": {
+            "was~unchanged": 1.0
+        }, 
+        "complained": {
+            "1/18/95~and": 1.0
+        }, 
+        "complicated": {
+            "infarction~was": 0.5, 
+            "myocardial~infarction": 0.5
+        }, 
+        "congestive": {
+            "episodes~of": 0.3333333333333333, 
+            "showed~no": 0.3333333333333333, 
+            "tachycardia~and": 0.3333333333333333
+        }, 
+        "consistent": {
+            "urinalysis~was": 1.0
+        }, 
+        "continued": {
+            "days~she": 1.0
+        }, 
+        "costovertebral": {
+            "Back:~No": 1.0
+        }, 
+        "count": {
+            "numerous~to": 1.0
+        }, 
+        "culture": {
+            "The~urine": 1.0
+        }, 
+        "cultures": {
+            "Her~urine": 1.0
+        }, 
+        "cyanosis": {
+            "clubbing~,": 1.0
+        }, 
+        "data": {
+            "Admission~laboratory": 1.0
+        }, 
+        "days": {
+            "next~several": 0.5, 
+            "pain~five": 0.5
+        }, 
+        "decreased": {
+            "a~significantly": 1.0
+        }, 
+        "denies": {
+            "imbalance.~She": 0.5, 
+            "pain.~She": 0.5
+        }, 
+        "descending": {
+            "left~anterior": 1.0
+        }, 
+        "discharged": {
+            "she~was": 1.0
+        }, 
+        "disease": {
+            "Coronary~artery": 1.0
+        }, 
+        "distress.": {
+            "no~apparent": 1.0
+        }, 
+        "dizziness": {
+            "She~denies": 1.0
+        }, 
+        "document": {
+            ",~to": 1.0
+        }, 
+        "does": {
+            "50.~She": 0.5, 
+            "smoke~and": 0.5
+        }, 
+        "drink": {
+            "does~not": 1.0
+        }, 
+        "echocardiogram": {
+            "tachycardia.~An": 1.0
+        }, 
+        "edema.": {
+            ",~or": 1.0
+        }, 
+        "ejection": {
+            "revealed~an": 0.6666666666666666, 
+            "significantly~decreased": 0.3333333333333333
+        }, 
+        "emergency": {
+            "in~the": 1.0
+        }, 
+        "episodes": {
+            "suffered~recurrent": 0.5, 
+            "with~three": 0.5
+        }, 
+        "evaluated": {
+            "She~was": 1.0
+        }, 
+        "examination": {
+            "The~heart": 0.5, 
+            "air.~The": 0.5
+        }, 
+        "failure": {
+            "congestive~heart": 1.0
+        }, 
+        "failure.": {
+            "congestive~heart": 1.0
+        }, 
+        "faint": {
+            "that~had": 1.0
+        }, 
+        "falling": {
+            "episodes~of": 1.0
+        }, 
+        "felt": {
+            "she~still": 1.0
+        }, 
+        "fever": {
+            "She~denies": 0.5, 
+            "presents~with": 0.5
+        }, 
+        "five": {
+            "chest~pain": 1.0
+        }, 
+        "follow-up": {
+            "Ampicillin~to": 1.0
+        }, 
+        "for": {
+            "HISTORY:~Notable": 0.2, 
+            "but~opted": 0.2, 
+            "was~evaluated": 0.2, 
+            "was~notable": 0.4
+        }, 
+        "fraction": {
+            "an~ejection": 0.6666666666666666, 
+            "decreased~ejection": 0.3333333333333333
+        }, 
+        "gently": {
+            "She~was": 1.0
+        }, 
+        "grew": {
+            "urine~cultures": 1.0
+        }, 
+        "had": {
+            "TPA.~She": 0.2, 
+            "although~she": 0.2, 
+            "lungs~that": 0.2, 
+            "she~has": 0.2, 
+            "to~this": 0.2
+        }, 
+        "has": {
+            "then~she": 1.0
+        }, 
+        "health.": {
+            "state~of": 1.0
+        }, 
+        "heart": {
+            "and~congestive": 0.25, 
+            "no~congestive": 0.25, 
+            "of~congestive": 0.25, 
+            "rales.~The": 0.25
+        }, 
+        "hepatosplenomegaly.": {
+            "nontender.~No": 1.0
+        }, 
+        "her": {
+            "PTCA~of": 0.3333333333333333, 
+            "follow-up~with": 0.3333333333333333, 
+            "resolution~of": 0.3333333333333333
+        }, 
+        "hydrated.": {
+            "was~gently": 1.0
+        }, 
+        "hypotension": {
+            "tamponade~and": 1.0
+        }, 
+        "hysterectomy": {
+            "total~abdominal": 1.0
+        }, 
+        "imbalance.": {
+            "falling~and": 1.0
+        }, 
+        "implantation.": {
+            "and~aneurysmectomy/AICD": 1.0
+        }, 
+        "improve": {
+            "continued~to": 1.0
+        }, 
+        "improvement": {
+            "TPA~without": 1.0
+        }, 
+        "in": {
+            "appearing~woman": 0.3333333333333333, 
+            "had~rigors": 0.3333333333333333, 
+            "was~seen": 0.3333333333333333
+        }, 
+        "increased": {
+            "has~had": 1.0
+        }, 
+        "infarction": {
+            "This~myocardial": 0.25, 
+            "anterior~myocardial": 0.25, 
+            "anterolateral~myocardial": 0.25, 
+            "a~myocardial": 0.25
+        }, 
+        "infection.": {
+            "urinary~tract": 1.0
+        }, 
+        "infiltrates.": {
+            "and~no": 1.0
+        }, 
+        "insulin": {
+            "C~,": 1.0
+        }, 
+        "is": {
+            "EXAMINATION:~She": 0.5, 
+            "The~patient": 0.5
+        }, 
+        "ischemic": {
+            "woman~with": 1.0
+        }, 
+        "laboratory": {
+            "DATA:~Admission": 1.0
+        }, 
+        "later": {
+            "five~days": 1.0
+        }, 
+        "left": {
+            "artery.~The": 0.2, 
+            "at~the": 0.2, 
+            "a~new": 0.2, 
+            "of~her": 0.2, 
+            "to~the": 0.2
+        }, 
+        "lightheadedness": {
+            "dizziness~,": 1.0
+        }, 
+        "lower": {
+            "the~left": 1.0
+        }, 
+        "lungs": {
+            "notable~for": 1.0
+        }, 
+        "magnesium.": {
+            ",~and": 1.0
+        }, 
+        "malaise": {
+            "fever~,": 1.0
+        }, 
+        "mellitus.": {
+            "cholesterol.~Diabetes": 1.0
+        }, 
+        "mitral": {
+            "and~moderate": 1.0
+        }, 
+        "moderate": {
+            "aneurysm~and": 1.0
+        }, 
+        "moderately": {
+            "still~felt": 1.0
+        }, 
+        "murmur": {
+            "6~systolic": 1.0
+        }, 
+        "myocardial": {
+            "20%.~This": 0.25, 
+            "an~anterolateral": 0.25, 
+            "post~anterior": 0.25, 
+            "suffered~a": 0.25
+        }, 
+        "nausea": {
+            "had~increased": 1.0
+        }, 
+        "negative.": {
+            "Rectal:~Guaiac": 1.0
+        }, 
+        "new": {
+            "with~a": 1.0
+        }, 
+        "next": {
+            "Over~the": 1.0
+        }, 
+        "no": {
+            "failure~and": 0.3333333333333333, 
+            "woman~in": 0.3333333333333333, 
+            "x-ray~showed": 0.3333333333333333
+        }, 
+        "nontender.": {
+            "Soft~and": 1.0
+        }, 
+        "normal": {
+            "return~to": 1.0
+        }, 
+        "not": {
+            "She~does": 0.5, 
+            "and~does": 0.5
+        }, 
+        "notable": {
+            "examination~was": 0.5, 
+            "urinalysis~was": 0.5
+        }, 
+        "now": {
+            "cardiomyopathy~who": 1.0
+        }, 
+        "numerous": {
+            "for~too": 1.0
+        }, 
+        "of": {
+            "2~out": 0.08333333333333333, 
+            "In~April": 0.08333333333333333, 
+            "In~February": 0.08333333333333333, 
+            "and~complained": 0.08333333333333333, 
+            "document~resolution": 0.08333333333333333, 
+            "ejection~fraction": 0.16666666666666666, 
+            "normal~state": 0.08333333333333333, 
+            "recurrent~episodes": 0.08333333333333333, 
+            "the~age": 0.08333333333333333, 
+            "three~episodes": 0.08333333333333333, 
+            "underwent~PTCA": 0.08333333333333333
+        }, 
+        "old": {
+            "63~year": 1.0
+        }, 
+        "on": {
+            "and~started": 0.2, 
+            "cardiomyopathy~clinic": 0.2, 
+            "saturation~91%": 0.2, 
+            "was~discharged": 0.2, 
+            "was~started": 0.2
+        }, 
+        "opted": {
+            "transplant~but": 1.0
+        }, 
+        "or": {
+            "cyanosis~,": 0.3333333333333333, 
+            "denies~fever": 0.3333333333333333, 
+            "palpitations~,": 0.3333333333333333
+        }, 
+        "organism": {
+            "grew~an": 1.0
+        }, 
+        "out": {
+            "and~2": 1.0
+        }, 
+        "oxygen": {
+            "102/52~,": 1.0
+        }, 
+        "p.o.": {
+            "discharged~on": 0.5, 
+            "on~Bactrim": 0.5
+        }, 
+        "pain": {
+            "recurrent~chest": 1.0
+        }, 
+        "pain.": {
+            "or~chest": 1.0
+        }, 
+        "palpitations": {
+            "lightheadedness~,": 1.0
+        }, 
+        "patient": {
+            "18%.~The": 0.25, 
+            "1991~the": 0.25, 
+            "COURSE:~The": 0.25, 
+            "ILLNESS:~The": 0.25
+        }, 
+        "pericardial": {
+            "complicated~by": 1.0
+        }, 
+        "pericardiocentesis.": {
+            "treated~with": 1.0
+        }, 
+        "placement.": {
+            "aneurysmectomy.~AICD": 1.0
+        }, 
+        "post": {
+            "disease~status": 0.3333333333333333, 
+            "placement.~Status": 0.3333333333333333, 
+            "salpingo-oophorectomy.~Status": 0.3333333333333333
+        }, 
+        "presents": {
+            "who~now": 1.0
+        }, 
+        "pressure": {
+            ",~blood": 1.0
+        }, 
+        "previous": {
+            "compared~with": 1.0
+        }, 
+        "primary": {
+            "with~her": 1.0
+        }, 
+        "pulse": {
+            "101.2~,": 1.0
+        }, 
+        "radiating": {
+            "sternal~border": 1.0
+        }, 
+        "rales.": {
+            "faint~bibasilar": 1.0
+        }, 
+        "rate": {
+            "a~regular": 1.0
+        }, 
+        "recurrent": {
+            "She~had": 0.5, 
+            "had~suffered": 0.5
+        }, 
+        "regular": {
+            "showed~a": 1.0
+        }, 
+        "regurgitation.": {
+            "moderate~mitral": 1.0
+        }, 
+        "resolution": {
+            "to~document": 1.0
+        }, 
+        "retreated": {
+            "and~was": 1.0
+        }, 
+        "return": {
+            "and~to": 1.0
+        }, 
+        "revealed": {
+            "cardiac~catheterization": 0.3333333333333333, 
+            "that~time": 0.3333333333333333, 
+            "this~time": 0.3333333333333333
+        }, 
+        "rhythm": {
+            "rate~and": 1.0
+        }, 
+        "rigors": {
+            "she~had": 1.0
+        }, 
+        "rigors.": {
+            ",~and": 1.0
+        }, 
+        "room": {
+            "91%~on": 1.0
+        }, 
+        "room.": {
+            "the~emergency": 1.0
+        }, 
+        "salpingo-oophorectomy.": {
+            "and~bilateral": 1.0
+        }, 
+        "saturation": {
+            ",~oxygen": 1.0
+        }, 
+        "seen": {
+            "patient~was": 1.0
+        }, 
+        "sensitive": {
+            "which~was": 1.0
+        }, 
+        "several": {
+            "the~next": 1.0
+        }, 
+        "she": {
+            "Ampicillin~and": 0.2, 
+            "Since~then": 0.2, 
+            "chills~although": 0.2, 
+            "improve~although": 0.2, 
+            "several~days": 0.2
+        }, 
+        "showed": {
+            "Chest~x-ray": 0.3333333333333333, 
+            "heart~examination": 0.3333333333333333, 
+            "urine~culture": 0.3333333333333333
+        }, 
+        "significantly": {
+            "revealed~a": 1.0
+        }, 
+        "smoke": {
+            "does~not": 1.0
+        }, 
+        "specifically": {
+            "antibiotics~,": 1.0
+        }, 
+        "started": {
+            "She~was": 0.5, 
+            "admitted~and": 0.5
+        }, 
+        "state": {
+            "to~normal": 1.0
+        }, 
+        "status": {
+            "artery~disease": 1.0
+        }, 
+        "sternal": {
+            "left~lower": 0.5, 
+            "left~upper": 0.5
+        }, 
+        "still": {
+            "although~she": 1.0
+        }, 
+        "subsequent": {
+            "She~also": 0.5, 
+            "weakness~and": 0.5
+        }, 
+        "suffered": {
+            "brother~who": 0.3333333333333333, 
+            "the~patient": 0.3333333333333333, 
+            "this~had": 0.3333333333333333
+        }, 
+        "symptoms": {
+            "of~her": 1.0
+        }, 
+        "systolic": {
+            "of~6": 1.0
+        }, 
+        "tachycardia": {
+            "by~ventricular": 1.0
+        }, 
+        "tachycardia.": {
+            "and~ventricular": 1.0
+        }, 
+        "tamponade": {
+            "by~pericardial": 1.0
+        }, 
+        "tenderness.": {
+            "costovertebral~angle": 1.0
+        }, 
+        "that": {
+            "for~lungs": 0.5, 
+            "ventriculogram~at": 0.5
+        }, 
+        "the": {
+            "hydrated.~Over": 0.16666666666666666, 
+            "infarction~at": 0.16666666666666666, 
+            "murmur~at": 0.16666666666666666, 
+            "of~1991": 0.16666666666666666, 
+            "radiating~to": 0.16666666666666666, 
+            "rigors~in": 0.16666666666666666
+        }, 
+        "then": {
+            "improvement~and": 0.5, 
+            "p.o.~Since": 0.5
+        }, 
+        "this": {
+            "echocardiogram~at": 0.5, 
+            "subsequent~to": 0.5
+        }, 
+        "three": {
+            "vomiting~with": 1.0
+        }, 
+        "time": {
+            "at~that": 0.5, 
+            "at~this": 0.5
+        }, 
+        "to": {
+            "Wittig~,": 0.1111111111111111, 
+            "also~subsequent": 0.1111111111111111, 
+            "border~radiating": 0.1111111111111111, 
+            "p.o.~Ampicillin": 0.1111111111111111, 
+            "she~continued": 0.1111111111111111, 
+            "symptoms~and": 0.1111111111111111, 
+            "too~numerous": 0.1111111111111111, 
+            "to~return": 0.1111111111111111, 
+            "was~sensitive": 0.1111111111111111
+        }, 
+        "too": {
+            "notable~for": 1.0
+        }, 
+        "total": {
+            "Status~post": 1.0
+        }, 
+        "tract": {
+            "with~urinary": 1.0
+        }, 
+        "transplant": {
+            "for~cardiac": 1.0
+        }, 
+        "treated": {
+            "and~hypotension": 0.5, 
+            "and~was": 0.5
+        }, 
+        "unchanged": {
+            "ECG~was": 1.0
+        }, 
+        "underwent": {
+            "and~then": 1.0
+        }, 
+        "unremarkable.": {
+            "data~was": 1.0
+        }, 
+        "upper": {
+            "the~left": 1.0
+        }, 
+        "urinalysis": {
+            "ECGs.~The": 0.5, 
+            "and~subsequent": 0.5
+        }, 
+        "urinary": {
+            "consistent~with": 1.0
+        }, 
+        "urine": {
+            "WBCs.~The": 0.5, 
+            "weak.~Her": 0.5
+        }, 
+        "ventricular": {
+            "complicated~by": 0.25, 
+            "failure.~Left": 0.25, 
+            "failure~and": 0.25, 
+            "new~left": 0.25
+        }, 
+        "ventriculogram": {
+            "The~left": 1.0
+        }, 
+        "vitamin": {
+            "K-Dur~,": 1.0
+        }, 
+        "vomiting": {
+            "nausea~and": 1.0
+        }, 
+        "was": {
+            "Gentamycin.~She": 0.06666666666666667, 
+            "The~ECG": 0.06666666666666667, 
+            "The~examination": 0.06666666666666667, 
+            "The~patient": 0.13333333333333333, 
+            "The~urinalysis": 0.06666666666666667, 
+            "and~she": 0.06666666666666667, 
+            "infarction~and": 0.06666666666666667, 
+            "infection.~She": 0.06666666666666667, 
+            "laboratory~data": 0.06666666666666667, 
+            "later~and": 0.06666666666666667, 
+            "myocardial~infarction": 0.06666666666666667, 
+            "organism~which": 0.06666666666666667, 
+            "regurgitation.~She": 0.06666666666666667, 
+            "subsequent~urinalysis": 0.06666666666666667
+        }, 
+        "weak.": {
+            "felt~moderately": 1.0
+        }, 
+        "weakness": {
+            "chills~and": 1.0
+        }, 
+        "well": {
+            "is~a": 1.0
+        }, 
+        "which": {
+            "an~organism": 1.0
+        }, 
+        "who": {
+            "for~brother": 0.5, 
+            "ischemic~cardiomyopathy": 0.5
+        }, 
+        "with": {
+            "and~rhythm": 0.09090909090909091, 
+            "and~vomiting": 0.09090909090909091, 
+            "ejection~fraction": 0.09090909090909091, 
+            "hypotension~treated": 0.09090909090909091, 
+            "now~presents": 0.09090909090909091, 
+            "old~woman": 0.09090909090909091, 
+            "to~follow-up": 0.09090909090909091, 
+            "unchanged~compared": 0.09090909090909091, 
+            "was~consistent": 0.09090909090909091, 
+            "was~retreated": 0.09090909090909091, 
+            "was~treated": 0.09090909090909091
+        }, 
+        "without": {
+            "with~TPA": 1.0
+        }, 
+        "woman": {
+            "well~appearing": 0.5, 
+            "year~old": 0.5
+        }, 
+        "x-ray": {
+            "unremarkable.~Chest": 1.0
+        }, 
+        "year": {
+            "a~63": 1.0
+        }, 
+        "|": {
+            "12:00:00~AM": 0.1111111111111111, 
+            "98555723~|": 0.1111111111111111, 
+            "|~276430": 0.1111111111111111, 
+            "|~98555723": 0.1111111111111111, 
+            "|~DIS": 0.1111111111111111, 
+            "|~LMC": 0.1111111111111111, 
+            "|~PYELONEPHRITIS": 0.1111111111111111, 
+            "|~Signed": 0.1111111111111111, 
+            "~354140336": 0.1111111111111111
+        }
+    }, 
+    "type": "data/train", 
+    "uni": {
+        "": 0.0015174506828528073, 
+        "(": 0.018209408194233688, 
+        ")": 0.018209408194233688, 
+        ",": 0.03793626707132018, 
+        "1": 0.0015174506828528073, 
+        "1/18/95": 0.0015174506828528073, 
+        "1/5/1995": 0.0015174506828528073, 
+        "10": 0.0015174506828528073, 
+        "101.2": 0.0015174506828528073, 
+        "102/52": 0.0015174506828528073, 
+        "11": 0.0015174506828528073, 
+        "11/4/1995": 0.0015174506828528073, 
+        "12": 0.0015174506828528073, 
+        "12:00:00": 0.0015174506828528073, 
+        "18%.": 0.0015174506828528073, 
+        "1991": 0.0030349013657056147, 
+        "2": 0.0030349013657056147, 
+        "20%.": 0.0015174506828528073, 
+        "276430": 0.0015174506828528073, 
+        "3": 0.0015174506828528073, 
+        "354140336": 0.0015174506828528073, 
+        "4": 0.0015174506828528073, 
+        "4/3/97": 0.0015174506828528073, 
+        "40887": 0.0015174506828528073, 
+        "5": 0.0015174506828528073, 
+        "50.": 0.0015174506828528073, 
+        "6": 0.0030349013657056147, 
+        "63": 0.0015174506828528073, 
+        "7": 0.0015174506828528073, 
+        "77": 0.0015174506828528073, 
+        "8": 0.0015174506828528073, 
+        "8/6/1995": 0.0015174506828528073, 
+        "9": 0.0015174506828528073, 
+        "91%": 0.0015174506828528073, 
+        "98555723": 0.0015174506828528073, 
+        "ABDOMINAL": 0.0015174506828528073, 
+        "ADULT": 0.0015174506828528073, 
+        "AICD": 0.0030349013657056147, 
+        "AM": 0.0015174506828528073, 
+        "AND": 0.0015174506828528073, 
+        "ANEURSYMECTOMY": 0.0015174506828528073, 
+        "AO36": 0.0015174506828528073, 
+        "APPENDECTOMY": 0.0015174506828528073, 
+        "ARTERY": 0.0015174506828528073, 
+        "Abdomen:": 0.0015174506828528073, 
+        "Admission": 0.0030349013657056147, 
+        "Amiodarone": 0.0015174506828528073, 
+        "Ampicillin": 0.004552352048558422, 
+        "An": 0.0015174506828528073, 
+        "April": 0.0015174506828528073, 
+        "Attending:": 0.0015174506828528073, 
+        "BERNARDO": 0.0015174506828528073, 
+        "BILATERAL": 0.0015174506828528073, 
+        "Back:": 0.0015174506828528073, 
+        "Bactrim": 0.0015174506828528073, 
+        "Batch:": 0.0015174506828528073, 
+        "By:": 0.0015174506828528073, 
+        "C": 0.0015174506828528073, 
+        "C.": 0.0015174506828528073, 
+        "CHOLECYSTECTOMY": 0.0015174506828528073, 
+        "CORONARY": 0.0015174506828528073, 
+        "COURSE:": 0.0015174506828528073, 
+        "Captopril": 0.0015174506828528073, 
+        "Cardene": 0.0015174506828528073, 
+        "Chest": 0.0015174506828528073, 
+        "Clement": 0.0015174506828528073, 
+        "Coronary": 0.0015174506828528073, 
+        "Coumadin": 0.0015174506828528073, 
+        "D:": 0.0015174506828528073, 
+        "DATA:": 0.0015174506828528073, 
+        "DIABETES": 0.0015174506828528073, 
+        "DIAGNOSIS:": 0.0015174506828528073, 
+        "DIS": 0.0015174506828528073, 
+        "DISEASE": 0.0015174506828528073, 
+        "Date:": 0.0030349013657056147, 
+        "Diabetes": 0.0015174506828528073, 
+        "Dictated": 0.0015174506828528073, 
+        "Digoxin": 0.0015174506828528073, 
+        "Discharge": 0.0015174506828528073, 
+        "Dr.": 0.0015174506828528073, 
+        "ECG": 0.0015174506828528073, 
+        "ECGs.": 0.0015174506828528073, 
+        "EXAMINATION:": 0.0015174506828528073, 
+        "Escherichia": 0.0015174506828528073, 
+        "Extremities:": 0.0015174506828528073, 
+        "FAMILY": 0.0015174506828528073, 
+        "FINAL": 0.0015174506828528073, 
+        "FOR": 0.0015174506828528073, 
+        "February": 0.0015174506828528073, 
+        "GZ0": 0.0015174506828528073, 
+        "Gentamycin.": 0.0015174506828528073, 
+        "Guaiac": 0.0015174506828528073, 
+        "HISTORY": 0.0015174506828528073, 
+        "HISTORY:": 0.0030349013657056147, 
+        "HOSPITAL": 0.0015174506828528073, 
+        "HYPERCHOLESTEROLEMIA": 0.0015174506828528073, 
+        "HYPERTENSION": 0.0015174506828528073, 
+        "HYSTERECTOMY": 0.0015174506828528073, 
+        "Her": 0.0015174506828528073, 
+        "Hypertension.": 0.0015174506828528073, 
+        "ILLNESS:": 0.0015174506828528073, 
+        "INFARCTION": 0.0015174506828528073, 
+        "INFECTION": 0.0015174506828528073, 
+        "IV": 0.0015174506828528073, 
+        "In": 0.0030349013657056147, 
+        "Increased": 0.0015174506828528073, 
+        "Index": 0.0015174506828528073, 
+        "Ischemic": 0.0015174506828528073, 
+        "J.": 0.0015174506828528073, 
+        "K-Dur": 0.0015174506828528073, 
+        "KEITHLEY": 0.0015174506828528073, 
+        "LABORATORY": 0.0015174506828528073, 
+        "LEFT": 0.0015174506828528073, 
+        "LMC": 0.0015174506828528073, 
+        "Lasix": 0.0015174506828528073, 
+        "Left": 0.0015174506828528073, 
+        "M.D.": 0.0030349013657056147, 
+        "MEDICAL": 0.0015174506828528073, 
+        "MEDICATIONS:": 0.0015174506828528073, 
+        "MELLITUS": 0.0015174506828528073, 
+        "MOHAMMAD": 0.0015174506828528073, 
+        "MYOCARDIAL": 0.0015174506828528073, 
+        "NEPHROLITHIASIS": 0.0015174506828528073, 
+        "No": 0.004552352048558422, 
+        "No.": 0.0015174506828528073, 
+        "Notable": 0.0015174506828528073, 
+        "OF": 0.0015174506828528073, 
+        "ONSET": 0.0015174506828528073, 
+        "Over": 0.0015174506828528073, 
+        "PAST": 0.0015174506828528073, 
+        "PHYSICAL": 0.0015174506828528073, 
+        "PLACEMENT": 0.0015174506828528073, 
+        "POHW261Y81": 0.0015174506828528073, 
+        "POST": 0.006069802731411229, 
+        "PRESENT": 0.0015174506828528073, 
+        "PTCA": 0.0030349013657056147, 
+        "PYELONEPHRITIS": 0.0015174506828528073, 
+        "Rectal:": 0.0015174506828528073, 
+        "Report": 0.0015174506828528073, 
+        "S1": 0.0015174506828528073, 
+        "S2": 0.0015174506828528073, 
+        "SALPINGO-OOPHORECTOMY": 0.0015174506828528073, 
+        "STATUS": 0.006069802731411229, 
+        "She": 0.013657056145675266, 
+        "Signed": 0.0030349013657056147, 
+        "Since": 0.0015174506828528073, 
+        "Soft": 0.0015174506828528073, 
+        "Status": 0.0030349013657056147, 
+        "Status:": 0.0015174506828528073, 
+        "Synthroid": 0.0015174506828528073, 
+        "TACHYCARDIA": 0.0015174506828528073, 
+        "TINKLENBERG": 0.0015174506828528073, 
+        "TOTAL": 0.0015174506828528073, 
+        "TPA": 0.0015174506828528073, 
+        "TPA.": 0.0015174506828528073, 
+        "TRACT": 0.0015174506828528073, 
+        "Temperature": 0.0015174506828528073, 
+        "The": 0.013657056145675266, 
+        "This": 0.0015174506828528073, 
+        "URINARY": 0.0015174506828528073, 
+        "VENTRICULAR": 0.0030349013657056147, 
+        "VI013/9118": 0.0015174506828528073, 
+        "WBCs.": 0.0015174506828528073, 
+        "Wittig": 0.0015174506828528073, 
+        "Zocor": 0.0015174506828528073, 
+        "a": 0.010622154779969651, 
+        "abdominal": 0.0015174506828528073, 
+        "admitted": 0.0015174506828528073, 
+        "age": 0.0015174506828528073, 
+        "air.": 0.0015174506828528073, 
+        "alcohol.": 0.0015174506828528073, 
+        "also": 0.0015174506828528073, 
+        "although": 0.0030349013657056147, 
+        "an": 0.006069802731411229, 
+        "and": 0.0409711684370258, 
+        "aneurysm": 0.0015174506828528073, 
+        "aneurysmectomy.": 0.0015174506828528073, 
+        "aneurysmectomy/AICD": 0.0015174506828528073, 
+        "angle": 0.0015174506828528073, 
+        "anterior": 0.0030349013657056147, 
+        "anterolateral": 0.0015174506828528073, 
+        "antibiotics": 0.0015174506828528073, 
+        "apparent": 0.0015174506828528073, 
+        "appearing": 0.0015174506828528073, 
+        "appendectomy.": 0.0015174506828528073, 
+        "artery": 0.0015174506828528073, 
+        "artery.": 0.0015174506828528073, 
+        "at": 0.006069802731411229, 
+        "bibasilar": 0.0015174506828528073, 
+        "bilateral": 0.0015174506828528073, 
+        "blood": 0.0015174506828528073, 
+        "border": 0.0015174506828528073, 
+        "border.": 0.0015174506828528073, 
+        "brother": 0.0015174506828528073, 
+        "but": 0.0015174506828528073, 
+        "by": 0.0030349013657056147, 
+        "cardiac": 0.0030349013657056147, 
+        "cardiologist": 0.0015174506828528073, 
+        "cardiomyopathy": 0.0030349013657056147, 
+        "cardiomyopathy.": 0.0015174506828528073, 
+        "catheterization": 0.0015174506828528073, 
+        "chest": 0.0030349013657056147, 
+        "chills": 0.0030349013657056147, 
+        "cholecystectomy": 0.0015174506828528073, 
+        "cholesterol.": 0.0015174506828528073, 
+        "clinic": 0.0015174506828528073, 
+        "clubbing": 0.0015174506828528073, 
+        "coli.": 0.0015174506828528073, 
+        "compared": 0.0015174506828528073, 
+        "complained": 0.0015174506828528073, 
+        "complicated": 0.0030349013657056147, 
+        "congestive": 0.004552352048558422, 
+        "consistent": 0.0015174506828528073, 
+        "continued": 0.0015174506828528073, 
+        "costovertebral": 0.0015174506828528073, 
+        "count": 0.0015174506828528073, 
+        "culture": 0.0015174506828528073, 
+        "cultures": 0.0015174506828528073, 
+        "cyanosis": 0.0015174506828528073, 
+        "data": 0.0015174506828528073, 
+        "days": 0.0030349013657056147, 
+        "decreased": 0.0015174506828528073, 
+        "denies": 0.0030349013657056147, 
+        "descending": 0.0015174506828528073, 
+        "discharged": 0.0015174506828528073, 
+        "disease": 0.0015174506828528073, 
+        "distress.": 0.0015174506828528073, 
+        "dizziness": 0.0015174506828528073, 
+        "document": 0.0015174506828528073, 
+        "does": 0.0030349013657056147, 
+        "drink": 0.0015174506828528073, 
+        "echocardiogram": 0.0015174506828528073, 
+        "edema.": 0.0015174506828528073, 
+        "ejection": 0.004552352048558422, 
+        "emergency": 0.0015174506828528073, 
+        "episodes": 0.0030349013657056147, 
+        "evaluated": 0.0015174506828528073, 
+        "examination": 0.0030349013657056147, 
+        "failure": 0.0030349013657056147, 
+        "failure.": 0.0015174506828528073, 
+        "faint": 0.0015174506828528073, 
+        "falling": 0.0015174506828528073, 
+        "felt": 0.0015174506828528073, 
+        "fever": 0.0030349013657056147, 
+        "five": 0.0015174506828528073, 
+        "follow-up": 0.0015174506828528073, 
+        "for": 0.007587253414264037, 
+        "fraction": 0.004552352048558422, 
+        "gently": 0.0015174506828528073, 
+        "grew": 0.0015174506828528073, 
+        "had": 0.007587253414264037, 
+        "has": 0.0015174506828528073, 
+        "health.": 0.0015174506828528073, 
+        "heart": 0.006069802731411229, 
+        "hepatosplenomegaly.": 0.0015174506828528073, 
+        "her": 0.004552352048558422, 
+        "hydrated.": 0.0015174506828528073, 
+        "hypotension": 0.0015174506828528073, 
+        "hysterectomy": 0.0015174506828528073, 
+        "imbalance.": 0.0015174506828528073, 
+        "implantation.": 0.0015174506828528073, 
+        "improve": 0.0015174506828528073, 
+        "improvement": 0.0015174506828528073, 
+        "in": 0.004552352048558422, 
+        "increased": 0.0015174506828528073, 
+        "infarction": 0.006069802731411229, 
+        "infection.": 0.0015174506828528073, 
+        "infiltrates.": 0.0015174506828528073, 
+        "insulin": 0.0015174506828528073, 
+        "is": 0.0030349013657056147, 
+        "ischemic": 0.0015174506828528073, 
+        "laboratory": 0.0015174506828528073, 
+        "later": 0.0015174506828528073, 
+        "left": 0.007587253414264037, 
+        "lightheadedness": 0.0015174506828528073, 
+        "lower": 0.0015174506828528073, 
+        "lungs": 0.0015174506828528073, 
+        "magnesium.": 0.0015174506828528073, 
+        "malaise": 0.0015174506828528073, 
+        "mellitus.": 0.0015174506828528073, 
+        "mitral": 0.0015174506828528073, 
+        "moderate": 0.0015174506828528073, 
+        "moderately": 0.0015174506828528073, 
+        "murmur": 0.0015174506828528073, 
+        "myocardial": 0.006069802731411229, 
+        "nausea": 0.0015174506828528073, 
+        "negative.": 0.0015174506828528073, 
+        "new": 0.0015174506828528073, 
+        "next": 0.0015174506828528073, 
+        "no": 0.004552352048558422, 
+        "nontender.": 0.0015174506828528073, 
+        "normal": 0.0015174506828528073, 
+        "not": 0.0030349013657056147, 
+        "notable": 0.0030349013657056147, 
+        "now": 0.0015174506828528073, 
+        "numerous": 0.0015174506828528073, 
+        "of": 0.018209408194233688, 
+        "old": 0.0015174506828528073, 
+        "on": 0.007587253414264037, 
+        "opted": 0.0015174506828528073, 
+        "or": 0.004552352048558422, 
+        "organism": 0.0015174506828528073, 
+        "out": 0.0015174506828528073, 
+        "oxygen": 0.0015174506828528073, 
+        "p.o.": 0.0030349013657056147, 
+        "pain": 0.0015174506828528073, 
+        "pain.": 0.0015174506828528073, 
+        "palpitations": 0.0015174506828528073, 
+        "patient": 0.006069802731411229, 
+        "pericardial": 0.0015174506828528073, 
+        "pericardiocentesis.": 0.0015174506828528073, 
+        "placement.": 0.0015174506828528073, 
+        "post": 0.004552352048558422, 
+        "presents": 0.0015174506828528073, 
+        "pressure": 0.0015174506828528073, 
+        "previous": 0.0015174506828528073, 
+        "primary": 0.0015174506828528073, 
+        "pulse": 0.0015174506828528073, 
+        "radiating": 0.0015174506828528073, 
+        "rales.": 0.0015174506828528073, 
+        "rate": 0.0015174506828528073, 
+        "recurrent": 0.0030349013657056147, 
+        "regular": 0.0015174506828528073, 
+        "regurgitation.": 0.0015174506828528073, 
+        "resolution": 0.0015174506828528073, 
+        "retreated": 0.0015174506828528073, 
+        "return": 0.0015174506828528073, 
+        "revealed": 0.004552352048558422, 
+        "rhythm": 0.0015174506828528073, 
+        "rigors": 0.0015174506828528073, 
+        "rigors.": 0.0015174506828528073, 
+        "room": 0.0015174506828528073, 
+        "room.": 0.0015174506828528073, 
+        "salpingo-oophorectomy.": 0.0015174506828528073, 
+        "saturation": 0.0015174506828528073, 
+        "seen": 0.0015174506828528073, 
+        "sensitive": 0.0015174506828528073, 
+        "several": 0.0015174506828528073, 
+        "she": 0.007587253414264037, 
+        "showed": 0.004552352048558422, 
+        "significantly": 0.0015174506828528073, 
+        "smoke": 0.0015174506828528073, 
+        "specifically": 0.0015174506828528073, 
+        "started": 0.0030349013657056147, 
+        "state": 0.0015174506828528073, 
+        "status": 0.0015174506828528073, 
+        "sternal": 0.0030349013657056147, 
+        "still": 0.0015174506828528073, 
+        "subsequent": 0.0030349013657056147, 
+        "suffered": 0.004552352048558422, 
+        "symptoms": 0.0015174506828528073, 
+        "systolic": 0.0015174506828528073, 
+        "tachycardia": 0.0015174506828528073, 
+        "tachycardia.": 0.0015174506828528073, 
+        "tamponade": 0.0015174506828528073, 
+        "tenderness.": 0.0015174506828528073, 
+        "that": 0.0030349013657056147, 
+        "the": 0.009104704097116844, 
+        "then": 0.0030349013657056147, 
+        "this": 0.0030349013657056147, 
+        "three": 0.0015174506828528073, 
+        "time": 0.0030349013657056147, 
+        "to": 0.013657056145675266, 
+        "too": 0.0015174506828528073, 
+        "total": 0.0015174506828528073, 
+        "tract": 0.0015174506828528073, 
+        "transplant": 0.0015174506828528073, 
+        "treated": 0.0030349013657056147, 
+        "unchanged": 0.0015174506828528073, 
+        "underwent": 0.0015174506828528073, 
+        "unremarkable.": 0.0015174506828528073, 
+        "upper": 0.0015174506828528073, 
+        "urinalysis": 0.0030349013657056147, 
+        "urinary": 0.0015174506828528073, 
+        "urine": 0.0030349013657056147, 
+        "ventricular": 0.006069802731411229, 
+        "ventriculogram": 0.0015174506828528073, 
+        "vitamin": 0.0015174506828528073, 
+        "vomiting": 0.0015174506828528073, 
+        "was": 0.02276176024279211, 
+        "weak.": 0.0015174506828528073, 
+        "weakness": 0.0015174506828528073, 
+        "well": 0.0015174506828528073, 
+        "which": 0.0015174506828528073, 
+        "who": 0.0030349013657056147, 
+        "with": 0.01669195751138088, 
+        "without": 0.0015174506828528073, 
+        "woman": 0.0030349013657056147, 
+        "x-ray": 0.0015174506828528073, 
+        "year": 0.0015174506828528073, 
+        "|": 0.013657056145675266
+    }
+}

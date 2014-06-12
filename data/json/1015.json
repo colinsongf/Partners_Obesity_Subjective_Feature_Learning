@@ -1,0 +1,4879 @@
+{
+    "bi": {
+        "\"confused.\"": {
+            "seemed": 1.0
+        }, 
+        "#obese#": {
+            "(": 0.3333333333333333, 
+            ",": 0.3333333333333333, 
+            "GEN": 0.3333333333333333
+        }, 
+        "'84": {
+            "MI": 1.0
+        }, 
+        "(": {
+            "#obese#": 0.06666666666666667, 
+            "'84": 0.06666666666666667, 
+            "10/26": 0.06666666666666667, 
+            "AM": 0.06666666666666667, 
+            "FOLATE": 0.06666666666666667, 
+            "M.D.": 0.06666666666666667, 
+            "TREATMENTS/PROCEDURES": 0.06666666666666667, 
+            "aspirin": 0.06666666666666667, 
+            "atorvastatin": 0.06666666666666667, 
+            "changes": 0.06666666666666667, 
+            "gait": 0.06666666666666667, 
+            "infarction": 0.13333333333333333, 
+            "insufficiency": 0.06666666666666667, 
+            "rhinitis": 0.06666666666666667
+        }, 
+        ")": {
+            "#obese#": 0.07142857142857142, 
+            "1.5": 0.07142857142857142, 
+            "1984": 0.14285714285714285, 
+            "4/4": 0.07142857142857142, 
+            "ACID": 0.07142857142857142, 
+            "Admission": 0.07142857142857142, 
+            "IQ99": 0.07142857142857142, 
+            "Lipitor": 0.07142857142857142, 
+            "O.R.": 0.07142857142857142, 
+            "disease": 0.07142857142857142, 
+            "heels": 0.07142857142857142, 
+            "rhinitis": 0.07142857142857142, 
+            "vision": 0.07142857142857142
+        }, 
+        ").": {
+            "mg": 0.5, 
+            "weakness": 0.5
+        }, 
+        "):": {
+            "S": 1.0
+        }, 
+        "******": {
+            "05": 0.3333333333333333, 
+            "4/9/2003": 0.3333333333333333, 
+            "ORDERS": 0.3333333333333333
+        }, 
+        ",": {
+            ")": 0.06976744186046512, 
+            "81": 0.011627906976744186, 
+            "CHOW": 0.011627906976744186, 
+            "Complications": 0.011627906976744186, 
+            "DIAGNOSIS;Conditions": 0.011627906976744186, 
+            "HCTZ": 0.011627906976744186, 
+            "HTN": 0.011627906976744186, 
+            "Infections": 0.011627906976744186, 
+            "JEFFERSON": 0.011627906976744186, 
+            "LIDDER": 0.011627906976744186, 
+            "Losartan": 0.011627906976744186, 
+            "Notably": 0.011627906976744186, 
+            "PCP": 0.011627906976744186, 
+            "Recently": 0.011627906976744186, 
+            "SANDY": 0.011627906976744186, 
+            "SBP<120": 0.011627906976744186, 
+            "STAIRES": 0.011627906976744186, 
+            "Unfortunately": 0.011627906976744186, 
+            "amlodipine": 0.011627906976744186, 
+            "anicteric": 0.011627906976744186, 
+            "ankles": 0.011627906976744186, 
+            "apnea": 0.023255813953488372, 
+            "asymptomatic": 0.011627906976744186, 
+            "atenolol": 0.011627906976744186, 
+            "atorvastatin": 0.011627906976744186, 
+            "attention": 0.011627906976744186, 
+            "bradycardia": 0.011627906976744186, 
+            "clubbing": 0.011627906976744186, 
+            "confusion": 0.023255813953488372, 
+            "contrast": 0.011627906976744186, 
+            "cyanosis": 0.011627906976744186, 
+            "diplopia": 0.023255813953488372, 
+            "drift": 0.011627906976744186, 
+            "droop": 0.011627906976744186, 
+            "dysphagia": 0.011627906976744186, 
+            "fatigue": 0.011627906976744186, 
+            "gait": 0.023255813953488372, 
+            "ge": 0.011627906976744186, 
+            "hand": 0.011627906976744186, 
+            "headache": 0.011627906976744186, 
+            "headaches": 0.023255813953488372, 
+            "heel": 0.011627906976744186, 
+            "heel-knee-shin": 0.011627906976744186, 
+            "hypercholesterolemia": 0.023255813953488372, 
+            "hypertension": 0.011627906976744186, 
+            "loratadine": 0.011627906976744186, 
+            "memory": 0.011627906976744186, 
+            "movements": 0.023255813953488372, 
+            "nontender": 0.011627906976744186, 
+            "notes": 0.011627906976744186, 
+            "ophthalmologist": 0.011627906976744186, 
+            "orientation": 0.011627906976744186, 
+            "pain": 0.011627906976744186, 
+            "palsy": 0.023255813953488372, 
+            "pnea": 0.011627906976744186, 
+            "posture": 0.011627906976744186, 
+            "present": 0.011627906976744186, 
+            "procedure": 0.011627906976744186, 
+            "rhinitis": 0.011627906976744186, 
+            "rhythm": 0.011627906976744186, 
+            "scheduled": 0.011627906976744186, 
+            "sensation": 0.011627906976744186, 
+            "skew": 0.011627906976744186, 
+            "soft": 0.011627906976744186, 
+            "speech": 0.011627906976744186, 
+            "stroke": 0.023255813953488372, 
+            "temperature": 0.011627906976744186, 
+            "tone": 0.011627906976744186, 
+            "touch": 0.011627906976744186, 
+            "vertigo": 0.011627906976744186, 
+            "weeks": 0.011627906976744186, 
+            "woman": 0.011627906976744186
+        }, 
+        "/": {
+            "House": 1.0
+        }, 
+        "05": {
+            "@": 1.0
+        }, 
+        "05:00": {
+            "AT": 1.0
+        }, 
+        "1": {
+            ")": 0.5, 
+            "for": 0.5
+        }, 
+        "1.5": {
+            "around": 1.0
+        }, 
+        "10": {
+            "AMLODIPINE": 1.0
+        }, 
+        "10/16/2003": {
+            "Date:": 0.5, 
+            "|": 0.5
+        }, 
+        "10/25/03.": {
+            "studies": 1.0
+        }, 
+        "10/26": {
+            "stroke": 1.0
+        }, 
+        "11/25": {
+            "admitted": 1.0
+        }, 
+        "12:00:00": {
+            "10/16/2003": 1.0
+        }, 
+        "14.": {
+            "at": 1.0
+        }, 
+        "150/90": {
+            "BP": 1.0
+        }, 
+        "1984": {
+            "(": 1.0
+        }, 
+        "2": {
+            "reflexes": 1.0
+        }, 
+        "2+": {
+            "pulses": 1.0
+        }, 
+        "2-3": {
+            "a": 1.0
+        }, 
+        "2-weeks": {
+            "had": 1.0
+        }, 
+        "2.": {
+            "day": 1.0
+        }, 
+        "227621712": {
+            "": 1.0
+        }, 
+        "240/150": {
+            "of": 1.0
+        }, 
+        "25": {
+            "HYDROCHLOROTHIAZIDE": 1.0
+        }, 
+        "3": {
+            "x": 1.0
+        }, 
+        "3-4": {
+            "Burdzel": 1.0
+        }, 
+        "3/10/03": {
+            ")": 0.5, 
+            "ON:": 0.5
+        }, 
+        "325": {
+            "(": 0.3333333333333333, 
+            "ACID": 0.3333333333333333, 
+            "aspirin": 0.3333333333333333
+        }, 
+        "4": {
+            "DIET:": 1.0
+        }, 
+        "4/13/03.": {
+            "loss": 1.0
+        }, 
+        "4/4": {
+            "(": 1.0
+        }, 
+        "4/9/2003": {
+            "Date:": 1.0
+        }, 
+        "40": {
+            "ATORVASTATIN": 1.0
+        }, 
+        "453-25-44-7": {
+            "R": 1.0
+        }, 
+        "48258003": {
+            "|": 1.0
+        }, 
+        "5/5": {
+            "strength": 1.0
+        }, 
+        "5/5/03": {
+            "ultrasound": 1.0
+        }, 
+        "50": {
+            "ATENOLOL": 1.0
+        }, 
+        "57": {
+            "HR": 1.0
+        }, 
+        "59": {
+            "COURSE:": 1.0
+        }, 
+        "6674395": {
+            "|": 1.0
+        }, 
+        "81": {
+            "ASA": 1.0
+        }, 
+        "97.2": {
+            "T": 1.0
+        }, 
+        ";Responsible": {
+            "DIAGNOSIS": 1.0
+        }, 
+        "@": {
+            "3/10/03": 1.0
+        }, 
+        "ABD": {
+            "USB": 1.0
+        }, 
+        "ACETYLSALICYLIC": {
+            "MEDICATIONS:": 1.0
+        }, 
+        "ACID": {
+            "ACETYLSALICYLIC": 0.5, 
+            "FOLIC": 0.5
+        }, 
+        "ACTIVITY:": {
+            "Sodium": 1.0
+        }, 
+        "ADDITIONAL": {
+            "10/25/03.": 1.0
+        }, 
+        "ADMIT": {
+            "Perfume": 1.0
+        }, 
+        "ALLERGY:": {
+            ",": 1.0
+        }, 
+        "AM": {
+            "12:00:00": 0.5, 
+            "IN": 0.5
+        }, 
+        "AMLODIPINE": {
+            "QD": 1.0
+        }, 
+        "AND": {
+            "OPERATIONS": 1.0
+        }, 
+        "APPOINTMENT(": {
+            "UP": 1.0
+        }, 
+        "AS": {
+            "USED": 1.0
+        }, 
+        "ASA": {
+            "Meds:": 1.0
+        }, 
+        "AT": {
+            "3/10/03": 1.0
+        }, 
+        "ATENOLOL": {
+            "QD": 1.0
+        }, 
+        "ATORVASTATIN": {
+            "HR<55": 1.0
+        }, 
+        "Admission": {
+            "Causing": 0.5, 
+            "|": 0.5
+        }, 
+        "After": {
+            ";Responsible": 1.0
+        }, 
+        "All:": {
+            "albuterol": 1.0
+        }, 
+        "An": {
+            "orthopnea.": 1.0
+        }, 
+        "Applicable": {
+            "Not": 1.0
+        }, 
+        "At": {
+            "\"confused.\"": 1.0
+        }, 
+        "Attending:": {
+            "YES": 1.0
+        }, 
+        "Avoid": {
+            "Instruction": 1.0
+        }, 
+        "BE": {
+            "ORDER": 1.0
+        }, 
+        "BP": {
+            "57": 1.0
+        }, 
+        "BRIEF": {
+            "contrast": 1.0
+        }, 
+        "BY:": {
+            "ENTERED": 1.0
+        }, 
+        "Bell's": {
+            "left": 1.0
+        }, 
+        "Burdzel": {
+            "Dr.": 1.0
+        }, 
+        "C": {
+            "|": 1.0
+        }, 
+        "CAD": {
+            "DEPRESSION": 1.0
+        }, 
+        "CHOW": {
+            "******": 1.0
+        }, 
+        "CN": {
+            "praxis.": 1.0
+        }, 
+        "COMMENTS:": {
+            "ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            "DISCHARGE": 1.0
+        }, 
+        "CONTINGENT": {
+            "PM": 1.0
+        }, 
+        "COURSE:": {
+            "HOSPITAL": 1.0
+        }, 
+        "CT": {
+            ")": 0.5, 
+            "head": 0.5
+        }, 
+        "Causing": {
+            "for": 1.0
+        }, 
+        "Co": {
+            "453-25-44-7": 1.0
+        }, 
+        "Complications": {
+            ",": 1.0
+        }, 
+        "Coordination": {
+            "extremities.": 1.0
+        }, 
+        "D/C": {
+            "THE": 0.5, 
+            "WILL": 0.5
+        }, 
+        "DEPRESSION": {
+            "HTN": 1.0
+        }, 
+        "DIAGNOSIS": {
+            "DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "OTHER": 1.0
+        }, 
+        "DIET:": {
+            "QD": 0.5, 
+            "fat": 0.5
+        }, 
+        "DIS": {
+            "|": 1.0
+        }, 
+        "DISCHARGE": {
+            "******": 0.16666666666666666, 
+            "COMMENTS:": 0.16666666666666666, 
+            "NEU": 0.16666666666666666, 
+            "OF": 0.16666666666666666, 
+            "PRINCIPAL": 0.16666666666666666, 
+            "services": 0.16666666666666666
+        }, 
+        "DISPOSITION:": {
+            "M.D.": 1.0
+        }, 
+        "DO/PLAN:": {
+            "TO": 1.0
+        }, 
+        "Date:": {
+            "Admission": 0.5, 
+            "Discharge": 0.5
+        }, 
+        "Discharge": {
+            "Status:": 1.0
+        }, 
+        "Dr.": {
+            "PCP": 1.0
+        }, 
+        "EMS": {
+            "phoned": 1.0
+        }, 
+        "END": {
+            "******": 1.0
+        }, 
+        "ENTERED": {
+            "summary": 1.0
+        }, 
+        "EXT:": {
+            "nondistended": 1.0
+        }, 
+        "Ey": {
+            "Stobelle": 1.0
+        }, 
+        "FOLATE": {
+            "otherwise.": 1.0
+        }, 
+        "FOLIC": {
+            "(": 1.0
+        }, 
+        "FOLLOW": {
+            "exercise": 1.0
+        }, 
+        "Fair": {
+            "CONDITION:": 1.0
+        }, 
+        "Falls": {
+            "walk.": 1.0
+        }, 
+        "Food/Drug": {
+            "QD": 1.0
+        }, 
+        "GAIT": {
+            "bilaterally.": 1.0
+        }, 
+        "GEN": {
+            "150/90": 1.0
+        }, 
+        "HCTZ": {
+            ",": 1.0
+        }, 
+        "HEART": {
+            "bruits": 1.0
+        }, 
+        "HEENT": {
+            "comfortable": 1.0
+        }, 
+        "HOLD": {
+            ")": 1.0
+        }, 
+        "HOSPITAL": {
+            "OF": 1.0
+        }, 
+        "HR": {
+            "97.2": 1.0
+        }, 
+        "HR<55": {
+            ",": 1.0
+        }, 
+        "HTN": {
+            "HYPERCHOLESTEROLEMIA": 0.5, 
+            "includes": 0.5
+        }, 
+        "HYDROCHLOROTHIAZIDE": {
+            "QD": 1.0
+        }, 
+        "HYPERCHOLESTEROLEMIA": {
+            "Treatment/Stay": 1.0
+        }, 
+        "Her": {
+            "LDL.": 0.14285714285714285, 
+            "factor.": 0.14285714285714285, 
+            "left.": 0.14285714285714285, 
+            "prophylaxis.": 0.14285714285714285, 
+            "right.": 0.14285714285714285, 
+            "stroke.": 0.14285714285714285, 
+            "weakness.": 0.14285714285714285
+        }, 
+        "Home": {
+            "DISPOSITION:": 1.0
+        }, 
+        "Hospital": {
+            "hemorrhage.": 1.0
+        }, 
+        "House": {
+            "DIET:": 1.0
+        }, 
+        "IF:": {
+            "HOLD": 1.0
+        }, 
+        "II/VI": {
+            ",": 1.0
+        }, 
+        "IN": {
+            "NOT": 0.5, 
+            "Starting": 0.5
+        }, 
+        "IQ99": {
+            "(": 1.0
+        }, 
+        "Infections": {
+            ",": 1.0
+        }, 
+        "Instruction": {
+            "Interaction": 1.0
+        }, 
+        "Interaction": {
+            "Food/Drug": 1.0
+        }, 
+        "JEFFERSON": {
+            "LENARD": 1.0
+        }, 
+        "KIRBY": {
+            ",": 1.0
+        }, 
+        "LDL": {
+            "and": 1.0
+        }, 
+        "LDL.": {
+            "and": 1.0
+        }, 
+        "LENARD": {
+            ",": 1.0
+        }, 
+        "LIDDER": {
+            "BY:": 1.0
+        }, 
+        "LMR": {
+            "and": 1.0
+        }, 
+        "Lipitor": {
+            "(": 1.0
+        }, 
+        "Losartan": {
+            "ALLERGY:": 1.0
+        }, 
+        "Low": {
+            "/": 1.0
+        }, 
+        "M.D.": {
+            ",": 1.0
+        }, 
+        "MD": {
+            "unless": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "DISCHARGE": 1.0
+        }, 
+        "MG": {
+            "1": 0.16666666666666666, 
+            "10": 0.16666666666666666, 
+            "25": 0.16666666666666666, 
+            "325": 0.16666666666666666, 
+            "40": 0.16666666666666666, 
+            "50": 0.16666666666666666
+        }, 
+        "MI": {
+            "s/p": 1.0
+        }, 
+        "MIKEL": {
+            ",": 1.0
+        }, 
+        "MRI": {
+            "An": 1.0
+        }, 
+        "MS": {
+            "NEURO:": 1.0
+        }, 
+        "Meds:": {
+            ")": 1.0
+        }, 
+        "Motor": {
+            "well.": 1.0
+        }, 
+        "NECK:": {
+            "moist": 1.0
+        }, 
+        "NEU": {
+            "Service:": 1.0
+        }, 
+        "NEURO:": {
+            "2+": 1.0
+        }, 
+        "NOT": {
+            "(": 1.0
+        }, 
+        "Neurologic": {
+            "confusion.": 1.0
+        }, 
+        "No": {
+            "admission.": 0.5, 
+            "arm-swing.": 0.5
+        }, 
+        "Non-contrast": {
+            "gait.": 1.0
+        }, 
+        "Not": {
+            "UPON": 1.0
+        }, 
+        "Notably": {
+            "4/13/03.": 1.0
+        }, 
+        "O.R.": {
+            "IN": 1.0
+        }, 
+        "OF": {
+            "END": 0.5, 
+            "RESUME": 0.5
+        }, 
+        "ON:": {
+            "PATIENT": 1.0
+        }, 
+        "OPERATIONS": {
+            "insufficiency": 1.0
+        }, 
+        "ORDER": {
+            "D/C": 1.0
+        }, 
+        "ORDERS": {
+            "DISCHARGE": 1.0
+        }, 
+        "OTHER": {
+            "encephalopathy": 0.5, 
+            "none": 0.5
+        }, 
+        "One": {
+            "self-monitoring.": 1.0
+        }, 
+        "PATIENT": {
+            "DISCHARGE": 1.0
+        }, 
+        "PCP": {
+            "):": 0.3333333333333333, 
+            "her": 0.6666666666666666
+        }, 
+        "PM": {
+            "05:00": 1.0
+        }, 
+        "PMH": {
+            "Her": 1.0
+        }, 
+        "PMHx:": {
+            "orthopnea.": 1.0
+        }, 
+        "PO": {
+            "MG": 1.0
+        }, 
+        "PRINCIPAL": {
+            "stroke": 1.0
+        }, 
+        "PRN": {
+            ",": 1.0
+        }, 
+        "PROCEDURES:": {
+            "AND": 1.0
+        }, 
+        "Perfume": {
+            ",": 1.0
+        }, 
+        "QD": {
+            "PO": 1.0
+        }, 
+        "R": {
+            "MIKEL": 1.0
+        }, 
+        "RESUME": {
+            "BRIEF": 1.0
+        }, 
+        "Recently": {
+            "work-up.": 1.0
+        }, 
+        "Report": {
+            "10/16/2003": 1.0
+        }, 
+        "Resume": {
+            "ACTIVITY:": 1.0
+        }, 
+        "S": {
+            "APPOINTMENT(": 1.0
+        }, 
+        "SANDY": {
+            "KIRBY": 1.0
+        }, 
+        "SBP<120": {
+            "IF:": 1.0
+        }, 
+        "SEM": {
+            "II/VI": 1.0
+        }, 
+        "STAIRES": {
+            "Attending:": 1.0
+        }, 
+        "SUMMARY:": {
+            "D/C": 1.0
+        }, 
+        "Service:": {
+            "Ey": 1.0
+        }, 
+        "She": {
+            ").": 0.1111111111111111, 
+            "14.": 0.1111111111111111, 
+            "2.": 0.1111111111111111, 
+            "acid.": 0.1111111111111111, 
+            "dysarthria.": 0.1111111111111111, 
+            "left.": 0.1111111111111111, 
+            "report.": 0.1111111111111111, 
+            "shoulder.": 0.1111111111111111, 
+            "supplementation.": 0.1111111111111111
+        }, 
+        "Sodium": {
+            "gram": 1.0
+        }, 
+        "Starting": {
+            "QD": 1.0
+        }, 
+        "Status:": {
+            "Report": 1.0
+        }, 
+        "Stobelle": {
+            "Co": 1.0
+        }, 
+        "Study": {
+            "After": 1.0
+        }, 
+        "T": {
+            "VS:": 1.0
+        }, 
+        "THE": {
+            "AS": 1.0
+        }, 
+        "TIA": {
+            "of": 0.3333333333333333, 
+            "prior": 0.6666666666666666
+        }, 
+        "TO": {
+            "Fair": 1.0
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "OTHER": 1.0
+        }, 
+        "TTE": {
+            "maneuver": 1.0
+        }, 
+        "The": {
+            "DO/PLAN:": 0.5, 
+            "encephalopathy.": 0.5
+        }, 
+        "These": {
+            "gait.": 1.0
+        }, 
+        "Treatment/Stay": {
+            "affecting": 1.0
+        }, 
+        "UP": {
+            "FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "CONTINGENT": 1.0
+        }, 
+        "USB": {
+            "at": 1.0
+        }, 
+        "USED": {
+            "BE": 1.0
+        }, 
+        "Unfortunately": {
+            "encephalopathy.": 1.0
+        }, 
+        "VS:": {
+            "losartan": 1.0
+        }, 
+        "WILL": {
+            "Applicable": 1.0
+        }, 
+        "YES": {
+            "SUMMARY:": 1.0
+        }, 
+        "a": {
+            "as": 0.1, 
+            "by": 0.1, 
+            "experienced": 0.1, 
+            "from": 0.1, 
+            "had": 0.2, 
+            "obtained": 0.1, 
+            "obtaining": 0.1, 
+            "take": 0.1, 
+            "with": 0.1
+        }, 
+        "able": {
+            "not": 1.0
+        }, 
+        "acid.": {
+            "folic": 1.0
+        }, 
+        "acute": {
+            "suspected": 1.0
+        }, 
+        "admission": {
+            "throughout": 0.5, 
+            "to": 0.5
+        }, 
+        "admission.": {
+            "this": 1.0
+        }, 
+        "admitted": {
+            "was": 0.6666666666666666, 
+            "woman": 0.3333333333333333
+        }, 
+        "affecting": {
+            ",": 1.0
+        }, 
+        "agitated": {
+            "with": 1.0
+        }, 
+        "albuterol": {
+            "PRN": 1.0
+        }, 
+        "all": {
+            "in": 1.0
+        }, 
+        "allergic": {
+            "(": 0.3333333333333333, 
+            ")": 0.3333333333333333, 
+            ",": 0.3333333333333333
+        }, 
+        "also": {
+            "She": 0.5, 
+            "should": 0.5
+        }, 
+        "amlodipine": {
+            ",": 0.5, 
+            "of": 0.5
+        }, 
+        "an": {
+            "has": 0.5, 
+            "to": 0.5
+        }, 
+        "and": {
+            ",": 0.28, 
+            "admission": 0.04, 
+            "amlodipine": 0.04, 
+            "arm": 0.04, 
+            "cholesterol": 0.08, 
+            "continued": 0.04, 
+            "dyspnea": 0.04, 
+            "finger-nose-finger": 0.04, 
+            "headache": 0.08, 
+            "hypertension": 0.08, 
+            "ischemia/infarction": 0.04, 
+            "pt": 0.04, 
+            "radial": 0.04, 
+            "stroke": 0.04, 
+            "upper": 0.04, 
+            "well": 0.04
+        }, 
+        "anicteric": {
+            "sclerae": 1.0
+        }, 
+        "ankles": {
+            "the": 1.0
+        }, 
+        "apnea": {
+            "sleep": 1.0
+        }, 
+        "appointment": {
+            "outpt": 1.0
+        }, 
+        "arm": {
+            "left": 1.0
+        }, 
+        "arm-swing.": {
+            "normal": 1.0
+        }, 
+        "around": {
+            "creatinine": 1.0
+        }, 
+        "artery": {
+            "coronary": 1.0
+        }, 
+        "as": {
+            ",": 0.1111111111111111, 
+            "atorvastatin": 0.1111111111111111, 
+            "experience": 0.1111111111111111, 
+            "hypertension": 0.1111111111111111, 
+            "manifest": 0.1111111111111111, 
+            "raise": 0.1111111111111111, 
+            "well": 0.3333333333333333
+        }, 
+        "aspirin": {
+            "of": 0.5, 
+            "on": 0.5
+        }, 
+        "asymptomatic": {
+            "remained": 1.0
+        }, 
+        "at": {
+            "SEM": 0.5, 
+            "elevated": 0.5
+        }, 
+        "atenolol": {
+            ",": 0.5, 
+            "Her": 0.5
+        }, 
+        "atorvastatin": {
+            ",": 0.3333333333333333, 
+            "of": 0.6666666666666666
+        }, 
+        "attention": {
+            ",": 1.0
+        }, 
+        "awoke": {
+            "She": 1.0
+        }, 
+        "based": {
+            "wided": 1.0
+        }, 
+        "baseline": {
+            "(": 1.0
+        }, 
+        "because": {
+            ",": 0.5, 
+            "EMS": 0.5
+        }, 
+        "bilaterally.": {
+            "downgoing": 1.0
+        }, 
+        "binocular": {
+            "of": 1.0
+        }, 
+        "blood": {
+            "Her": 1.0
+        }, 
+        "blurred": {
+            "(": 0.5, 
+            "intermittent": 0.5
+        }, 
+        "bradycardia": {
+            "mild": 1.0
+        }, 
+        "bruits": {
+            "no": 1.0
+        }, 
+        "but": {
+            ",": 0.3333333333333333, 
+            "based": 0.3333333333333333, 
+            "face": 0.3333333333333333
+        }, 
+        "by": {
+            "exam": 0.3333333333333333, 
+            "followed": 0.3333333333333333, 
+            "improved": 0.3333333333333333
+        }, 
+        "carotid": {
+            ",": 0.5, 
+            "for": 0.5
+        }, 
+        "cerebral": {
+            "include": 1.0
+        }, 
+        "change": {
+            ",": 1.0
+        }, 
+        "changes": {
+            "visual": 1.0
+        }, 
+        "chest": {
+            "recent": 1.0
+        }, 
+        "childhood": {
+            "traumatic": 1.0
+        }, 
+        "chol/low": {
+            "Low": 1.0
+        }, 
+        "cholesterol": {
+            "her": 0.5, 
+            "total": 0.5
+        }, 
+        "chronic": {
+            ",": 0.6666666666666666, 
+            "with": 0.3333333333333333
+        }, 
+        "citing": {
+            ",": 1.0
+        }, 
+        "claustrophobia": {
+            "citing": 1.0
+        }, 
+        "clubbing": {
+            ",": 1.0
+        }, 
+        "comfortable": {
+            ",": 1.0
+        }, 
+        "confusion": {
+            ",": 0.5, 
+            "and": 0.5
+        }, 
+        "confusion.": {
+            "recent": 1.0
+        }, 
+        "continued": {
+            "She": 0.5, 
+            "was": 0.5
+        }, 
+        "contrast": {
+            "iodinated": 0.3333333333333333, 
+            "saline": 0.3333333333333333, 
+            "without": 0.3333333333333333
+        }, 
+        "coronary": {
+            "(": 1.0
+        }, 
+        "course:": {
+            "Hospital": 1.0
+        }, 
+        "creatinine": {
+            "baseline": 1.0
+        }, 
+        "cyanosis": {
+            "no": 1.0
+        }, 
+        "day": {
+            "One": 0.5, 
+            "hospital": 0.5
+        }, 
+        "deficits": {
+            "no": 0.5, 
+            "without": 0.5
+        }, 
+        "denies": {
+            "She": 0.5, 
+            "patient": 0.5
+        }, 
+        "diagnosis": {
+            "differential": 1.0
+        }, 
+        "dictated": {
+            "No": 1.0
+        }, 
+        "diet": {
+            "her": 1.0
+        }, 
+        "differential": {
+            "the": 1.0
+        }, 
+        "difficulty": {
+            "No": 0.5, 
+            "have": 0.5
+        }, 
+        "diplopia": {
+            "as": 0.5, 
+            "without": 0.5
+        }, 
+        "discuss": {
+            "also": 1.0
+        }, 
+        "disease": {
+            "artery": 1.0
+        }, 
+        "do": {
+            "findings": 1.0
+        }, 
+        "dorsalis": {
+            "and": 1.0
+        }, 
+        "dose": {
+            "full": 0.3333333333333333, 
+            "her": 0.6666666666666666
+        }, 
+        "downgoing": {
+            "toes": 1.0
+        }, 
+        "drift": {
+            "pronator": 1.0
+        }, 
+        "driving": {
+            "while": 1.0
+        }, 
+        "droop": {
+            "facial": 1.0
+        }, 
+        "dys": {
+            "exertional": 1.0
+        }, 
+        "dysarthria.": {
+            "and": 1.0
+        }, 
+        "dysphagia": {
+            ",": 1.0
+        }, 
+        "dyspnea": {
+            "exertional": 1.0
+        }, 
+        "edema;": {
+            "or": 1.0
+        }, 
+        "elevated": {
+            "revealed": 0.3333333333333333, 
+            "slightly": 0.3333333333333333, 
+            "were": 0.3333333333333333
+        }, 
+        "encephalopathy": {
+            "hypertensive": 1.0
+        }, 
+        "encephalopathy.": {
+            "hypertensive": 1.0
+        }, 
+        "episode": {
+            "second": 1.0
+        }, 
+        "evaluate": {
+            "to": 1.0
+        }, 
+        "evidence": {
+            "for": 1.0
+        }, 
+        "exam": {
+            "CN": 0.16666666666666666, 
+            "Coordination": 0.16666666666666666, 
+            "Motor": 0.16666666666666666, 
+            "Neurologic": 0.16666666666666666, 
+            "normal": 0.16666666666666666, 
+            "sensory": 0.16666666666666666
+        }, 
+        "except": {
+            "throughout": 1.0
+        }, 
+        "exercise": {
+            "regular": 1.0
+        }, 
+        "exertional": {
+            ",": 0.5, 
+            "including": 0.5
+        }, 
+        "experience": {
+            "childhood": 1.0
+        }, 
+        "experienced": {
+            "also": 1.0
+        }, 
+        "expression": {
+            "facial": 1.0
+        }, 
+        "extremities.": {
+            "lower": 1.0
+        }, 
+        "eyebrow": {
+            "weak": 1.0
+        }, 
+        "face": {
+            "lower": 1.0
+        }, 
+        "facial": {
+            "left": 0.6666666666666666, 
+            "of": 0.3333333333333333
+        }, 
+        "factor.": {
+            "prohibitive": 1.0
+        }, 
+        "failure": {
+            "heart": 1.0
+        }, 
+        "fall": {
+            "to": 1.0
+        }, 
+        "falling": {
+            ",": 1.0
+        }, 
+        "fat": {
+            "sat.": 1.0
+        }, 
+        "fatigue": {
+            "general": 1.0
+        }, 
+        "felt": {
+            "was": 1.0
+        }, 
+        "findings": {
+            "These": 1.0
+        }, 
+        "fine": {
+            "Her": 0.3333333333333333, 
+            "right": 0.3333333333333333, 
+            "slowed": 0.3333333333333333
+        }, 
+        "finger": {
+            "fine": 1.0
+        }, 
+        "finger-nose-finger": {
+            "on": 1.0
+        }, 
+        "folate": {
+            "take": 1.0
+        }, 
+        "folic": {
+            "with": 1.0
+        }, 
+        "followed": {
+            "driving": 1.0
+        }, 
+        "for": {
+            "11/25": 0.09090909090909091, 
+            "Study": 0.09090909090909091, 
+            "admitted": 0.09090909090909091, 
+            "appointment": 0.09090909090909091, 
+            "evaluate": 0.09090909090909091, 
+            "except": 0.09090909090909091, 
+            "negative": 0.09090909090909091, 
+            "qd": 0.09090909090909091, 
+            "significant": 0.2727272727272727
+        }, 
+        "foramen": {
+            "patent": 1.0
+        }, 
+        "frequent": {
+            ",": 1.0
+        }, 
+        "from": {
+            "claustrophobia": 1.0
+        }, 
+        "frontal": {
+            "right": 1.0
+        }, 
+        "full": {
+            "a": 1.0
+        }, 
+        "gait": {
+            "in": 0.25, 
+            "stable": 0.25, 
+            "tandem": 0.25, 
+            "with": 0.25
+        }, 
+        "gait.": {
+            "tandem": 1.0
+        }, 
+        "ge": {
+            "langua": 1.0
+        }, 
+        "general": {
+            "of": 1.0
+        }, 
+        "gram": {
+            "4": 1.0
+        }, 
+        "grapefruit": {
+            "Avoid": 1.0
+        }, 
+        "groups": {
+            "muscle": 1.0
+        }, 
+        "had": {
+            "She": 0.2, 
+            "has": 0.4, 
+            "patient": 0.2, 
+            "she": 0.2
+        }, 
+        "hand": {
+            "right": 1.0
+        }, 
+        "has": {
+            "She": 0.3333333333333333, 
+            "but": 0.3333333333333333, 
+            "woman": 0.3333333333333333
+        }, 
+        "have": {
+            "to": 1.0
+        }, 
+        "head": {
+            "CT": 0.5, 
+            "Non-contrast": 0.5
+        }, 
+        "headache": {
+            "denies": 0.25, 
+            "frontal": 0.25, 
+            "recurrent": 0.25, 
+            "severe": 0.25
+        }, 
+        "headaches": {
+            "frequent": 0.5, 
+            "recent": 0.5
+        }, 
+        "heart": {
+            "and": 0.5, 
+            "possible": 0.5
+        }, 
+        "heel": {
+            "with": 1.0
+        }, 
+        "heel-knee-shin": {
+            "and": 1.0
+        }, 
+        "heels": {
+            "in": 1.0
+        }, 
+        "hemorrhage.": {
+            "or": 1.0
+        }, 
+        "her": {
+            "because": 0.14285714285714285, 
+            "raise": 0.14285714285714285, 
+            "raising": 0.14285714285714285, 
+            "referred": 0.14285714285714285, 
+            "saw": 0.14285714285714285, 
+            "supplement": 0.14285714285714285, 
+            "with": 0.14285714285714285
+        }, 
+        "history": {
+            ",": 0.5, 
+            "and": 0.5
+        }, 
+        "homocysteine": {
+            "Her": 1.0
+        }, 
+        "hospital": {
+            "by": 1.0
+        }, 
+        "husband": {
+            "Her": 1.0
+        }, 
+        "hypercholesterolemia": {
+            ",": 1.0
+        }, 
+        "hypertension": {
+            "PMHx:": 0.25, 
+            "noted": 0.25, 
+            "poorly-controlled": 0.25, 
+            "with": 0.25
+        }, 
+        "hypertensive": {
+            ")": 0.25, 
+            "and": 0.25, 
+            "or": 0.25, 
+            "|": 0.25
+        }, 
+        "hypertropic": {
+            "right": 1.0
+        }, 
+        "improved": {
+            "were": 1.0
+        }, 
+        "in": {
+            "1": 0.16666666666666666, 
+            "5/5": 0.16666666666666666, 
+            "change": 0.16666666666666666, 
+            "deficits": 0.16666666666666666, 
+            "groups": 0.16666666666666666, 
+            "walk": 0.16666666666666666
+        }, 
+        "inability": {
+            "(": 1.0
+        }, 
+        "include": {
+            "to": 1.0
+        }, 
+        "includes": {
+            "PMH": 1.0
+        }, 
+        "including": {
+            "failure": 1.0
+        }, 
+        "infarction": {
+            "myocardial": 1.0
+        }, 
+        "instructed": {
+            "was": 1.0
+        }, 
+        "instructs": {
+            "MD": 1.0
+        }, 
+        "insufficiency": {
+            "renal": 1.0
+        }, 
+        "intermittent": {
+            "and": 1.0
+        }, 
+        "iodinated": {
+            "All:": 1.0
+        }, 
+        "is": {
+            "that": 1.0
+        }, 
+        "ischemia/infarction": {
+            "cerebral": 1.0
+        }, 
+        "langua": {
+            ",": 1.0
+        }, 
+        "leaning": {
+            ",": 1.0
+        }, 
+        "left": {
+            ",": 0.375, 
+            "of": 0.125, 
+            "recurrent": 0.25, 
+            "the": 0.125, 
+            "to": 0.125
+        }, 
+        "left.": {
+            "the": 1.0
+        }, 
+        "leg": {
+            "and": 1.0
+        }, 
+        "level": {
+            "a": 0.5, 
+            "homocysteine": 0.5
+        }, 
+        "light": {
+            "in": 1.0
+        }, 
+        "lipid": {
+            "Her": 1.0
+        }, 
+        "localize": {
+            "not": 1.0
+        }, 
+        "loratadine": {
+            ",": 1.0
+        }, 
+        "losartan": {
+            ",": 1.0
+        }, 
+        "loss": {
+            "visual": 1.0
+        }, 
+        "lower": {
+            "and": 0.5, 
+            "mostly": 0.5
+        }, 
+        "maneuver": {
+            "valsalva": 1.0
+        }, 
+        "manifest": {
+            "(": 1.0
+        }, 
+        "memory": {
+            ",": 1.0
+        }, 
+        "mg": {
+            "325": 1.0
+        }, 
+        "mild": {
+            ",": 0.5, 
+            "HEART": 0.5
+        }, 
+        "moist": {
+            "mucosa": 1.0
+        }, 
+        "more": {
+            "a": 1.0
+        }, 
+        "morning": {
+            "this": 1.0
+        }, 
+        "mostly": {
+            ",": 1.0
+        }, 
+        "movements": {
+            "finger": 1.0
+        }, 
+        "mucosa": {
+            "oral": 1.0
+        }, 
+        "muscle": {
+            "all": 1.0
+        }, 
+        "muscles": {
+            "expression": 1.0
+        }, 
+        "myocardial": {
+            "prior": 1.0
+        }, 
+        "negative": {
+            "CT": 1.0
+        }, 
+        "no": {
+            ",": 0.25, 
+            "EXT:": 0.25, 
+            "NECK:": 0.25, 
+            "for": 0.25
+        }, 
+        "non-invasive": {
+            "carotid": 1.0
+        }, 
+        "nondistended": {
+            ",": 1.0
+        }, 
+        "none": {
+            "PROCEDURES:": 1.0
+        }, 
+        "nontender": {
+            ",": 1.0
+        }, 
+        "normal": {
+            ",": 0.5, 
+            "a": 0.25, 
+            "with": 0.25
+        }, 
+        "not": {
+            "do": 0.5, 
+            "was": 0.5
+        }, 
+        "noted": {
+            "who": 1.0
+        }, 
+        "notes": {
+            "LMR": 1.0
+        }, 
+        "obstructive": {
+            ",": 1.0
+        }, 
+        "obtained": {
+            "who": 1.0
+        }, 
+        "obtaining": {
+            "reports": 1.0
+        }, 
+        "of": {
+            "2-weeks": 0.07692307692307693, 
+            "dose": 0.23076923076923078, 
+            "episode": 0.07692307692307693, 
+            "evidence": 0.07692307692307693, 
+            "history": 0.15384615384615385, 
+            "level": 0.07692307692307693, 
+            "out": 0.07692307692307693, 
+            "slowing": 0.07692307692307693, 
+            "symptoms": 0.07692307692307693, 
+            "weakness": 0.07692307692307693
+        }, 
+        "old": {
+            "is": 1.0
+        }, 
+        "on": {
+            "240/150": 0.125, 
+            "deficits": 0.125, 
+            "left": 0.25, 
+            "muscles": 0.125, 
+            "passage": 0.125, 
+            "performance": 0.125, 
+            "placed": 0.125
+        }, 
+        "ophthalmologist": {
+            "an": 1.0
+        }, 
+        "or": {
+            ",": 0.5, 
+            "stroke": 0.5
+        }, 
+        "oral": {
+            ",": 1.0
+        }, 
+        "ordered": {
+            "was": 1.0
+        }, 
+        "orientation": {
+            "on": 1.0
+        }, 
+        "orthopnea.": {
+            "and": 0.5, 
+            "had": 0.5
+        }, 
+        "otherwise.": {
+            "instructs": 1.0
+        }, 
+        "out": {
+            "ran": 1.0
+        }, 
+        "outpt": {
+            "an": 1.0
+        }, 
+        "ovale": {
+            "foramen": 1.0
+        }, 
+        "pain": {
+            "chest": 0.5, 
+            "with": 0.5
+        }, 
+        "palsy": {
+            "Bell's": 1.0
+        }, 
+        "passage": {
+            "contrast": 1.0
+        }, 
+        "patent": {
+            "possible": 1.0
+        }, 
+        "patient": {
+            "The": 0.5, 
+            "the": 0.5
+        }, 
+        "pedis": {
+            "dorsalis": 1.0
+        }, 
+        "per": {
+            "old": 1.0
+        }, 
+        "performance": {
+            "normal": 1.0
+        }, 
+        "phoned": {
+            "husband": 1.0
+        }, 
+        "placed": {
+            "was": 1.0
+        }, 
+        "pnea": {
+            "dys": 1.0
+        }, 
+        "poorly-controlled": {
+            "recent": 1.0
+        }, 
+        "possible": {
+            "a": 0.3333333333333333, 
+            "for": 0.3333333333333333, 
+            "of": 0.3333333333333333
+        }, 
+        "posture": {
+            "upright": 1.0
+        }, 
+        "praxis.": {
+            "and": 1.0
+        }, 
+        "present": {
+            "At": 1.0
+        }, 
+        "pressures": {
+            "blood": 1.0
+        }, 
+        "prior": {
+            ").": 0.2, 
+            ",": 0.6, 
+            "day": 0.2
+        }, 
+        "problem": {
+            "a": 1.0
+        }, 
+        "procedure": {
+            "the": 1.0
+        }, 
+        "profile": {
+            "lipid": 1.0
+        }, 
+        "prohibitive": {
+            "a": 1.0
+        }, 
+        "pronator": {
+            "no": 1.0
+        }, 
+        "prophylaxis.": {
+            "heart": 1.0
+        }, 
+        "pt": {
+            "The": 0.25, 
+            "per": 0.25, 
+            "the": 0.5
+        }, 
+        "pulses": {
+            "pedis": 1.0
+        }, 
+        "qd": {
+            "mg": 1.0
+        }, 
+        "radial": {
+            "edema;": 1.0
+        }, 
+        "radiating": {
+            "pain": 1.0
+        }, 
+        "raise": {
+            "eyebrow": 0.5, 
+            "to": 0.5
+        }, 
+        "raising": {
+            "discuss": 1.0
+        }, 
+        "ran": {
+            "she": 1.0
+        }, 
+        "recent": {
+            "and": 0.5, 
+            "denies": 0.25, 
+            "had": 0.25
+        }, 
+        "recurrent": {
+            ",": 0.6666666666666666, 
+            "without": 0.3333333333333333
+        }, 
+        "referred": {
+            "and": 1.0
+        }, 
+        "reflexes": {
+            ",": 1.0
+        }, 
+        "regular": {
+            ",": 0.5, 
+            "Resume": 0.5
+        }, 
+        "remained": {
+            "pressures": 0.5, 
+            "she": 0.5
+        }, 
+        "renal": {
+            "chronic": 1.0
+        }, 
+        "report.": {
+            "by": 1.0
+        }, 
+        "reports": {
+            "and": 1.0
+        }, 
+        "revealed": {
+            "profile": 1.0
+        }, 
+        "rhinitis": {
+            "allergic": 1.0
+        }, 
+        "rhythm": {
+            "regular": 1.0
+        }, 
+        "right": {
+            ",": 0.14285714285714285, 
+            "for": 0.2857142857142857, 
+            "of": 0.14285714285714285, 
+            "severe": 0.14285714285714285, 
+            "the": 0.2857142857142857
+        }, 
+        "right-handed": {
+            "year-old": 1.0
+        }, 
+        "right.": {
+            "the": 1.0
+        }, 
+        "s/p": {
+            "CAD": 1.0
+        }, 
+        "saline": {
+            "agitated": 1.0
+        }, 
+        "sat.": {
+            "chol/low": 1.0
+        }, 
+        "saw": {
+            "she": 1.0
+        }, 
+        "scheduled": {
+            "5/5/03": 1.0
+        }, 
+        "sclerae": {
+            "HEENT": 1.0
+        }, 
+        "second": {
+            "2-3": 1.0
+        }, 
+        "seemed": {
+            "and": 1.0
+        }, 
+        "self-monitoring.": {
+            "on": 1.0
+        }, 
+        "sensation": {
+            "vibratory": 1.0
+        }, 
+        "sensory": {
+            ",": 1.0
+        }, 
+        "services": {
+            "w/": 1.0
+        }, 
+        "severe": {
+            "a": 0.5, 
+            "more": 0.5
+        }, 
+        "she": {
+            ",": 0.16666666666666666, 
+            "admission": 0.16666666666666666, 
+            "and": 0.3333333333333333, 
+            "because": 0.16666666666666666, 
+            "when": 0.16666666666666666
+        }, 
+        "should": {
+            "She": 0.6666666666666666, 
+            "pt": 0.3333333333333333
+        }, 
+        "shoulder.": {
+            "right": 1.0
+        }, 
+        "significant": {
+            "MS": 0.3333333333333333, 
+            "exam": 0.3333333333333333, 
+            "was": 0.3333333333333333
+        }, 
+        "skew": {
+            "hypertropic": 1.0
+        }, 
+        "sleep": {
+            "obstructive": 1.0
+        }, 
+        "slightly": {
+            "GAIT": 0.3333333333333333, 
+            "was": 0.3333333333333333, 
+            "with": 0.3333333333333333
+        }, 
+        "slowed": {
+            "slightly": 1.0
+        }, 
+        "slowing": {
+            "mild": 1.0
+        }, 
+        "slurred": {
+            "as": 1.0
+        }, 
+        "soft": {
+            "ABD": 1.0
+        }, 
+        "speech": {
+            "slurred": 1.0
+        }, 
+        "stable": {
+            "but": 1.0
+        }, 
+        "strength": {
+            ",": 1.0
+        }, 
+        "stroke": {
+            "DIAGNOSIS:": 0.125, 
+            "for": 0.25, 
+            "of": 0.125, 
+            "possible": 0.125, 
+            "versus": 0.125, 
+            "vs.": 0.25
+        }, 
+        "stroke.": {
+            "acute": 1.0
+        }, 
+        "studies": {
+            "non-invasive": 1.0
+        }, 
+        "summary": {
+            "dictated": 1.0
+        }, 
+        "supplement": {
+            "as": 1.0
+        }, 
+        "supplementation.": {
+            "folate": 1.0
+        }, 
+        "suspected": {
+            "for": 1.0
+        }, 
+        "symptoms": {
+            "as": 1.0
+        }, 
+        "take": {
+            "should": 1.0
+        }, 
+        "tandem": {
+            "on": 0.6666666666666666, 
+            "with": 0.3333333333333333
+        }, 
+        "temperature": {
+            ",": 1.0
+        }, 
+        "tendency": {
+            "and": 1.0
+        }, 
+        "that": {
+            "weakness": 1.0
+        }, 
+        "the": {
+            ",": 0.16666666666666666, 
+            "and": 0.08333333333333333, 
+            "course:": 0.08333333333333333, 
+            "in": 0.08333333333333333, 
+            "on": 0.08333333333333333, 
+            "to": 0.25, 
+            "tolerate": 0.08333333333333333, 
+            "towards": 0.08333333333333333, 
+            "with": 0.08333333333333333
+        }, 
+        "this": {
+            ",": 0.3333333333333333, 
+            "awoke": 0.3333333333333333, 
+            "elevated": 0.3333333333333333
+        }, 
+        "throughout": {
+            "2": 0.5, 
+            "well-controlled": 0.5
+        }, 
+        "to": {
+            "Falls": 0.07692307692307693, 
+            "able": 0.07692307692307693, 
+            "continued": 0.07692307692307693, 
+            "falling": 0.07692307692307693, 
+            "felt": 0.07692307692307693, 
+            "her": 0.07692307692307693, 
+            "inability": 0.07692307692307693, 
+            "instructed": 0.07692307692307693, 
+            "leaning": 0.07692307692307693, 
+            "ordered": 0.07692307692307693, 
+            "prior": 0.07692307692307693, 
+            "radiating": 0.07692307692307693, 
+            "tendency": 0.07692307692307693
+        }, 
+        "toe": {
+            "or": 1.0
+        }, 
+        "toes": {
+            ",": 1.0
+        }, 
+        "tolerate": {
+            "to": 1.0
+        }, 
+        "tone": {
+            "normal": 1.0
+        }, 
+        "total": {
+            "elevated": 1.0
+        }, 
+        "touch": {
+            "light": 1.0
+        }, 
+        "towards": {
+            "fall": 1.0
+        }, 
+        "traumatic": {
+            "a": 1.0
+        }, 
+        "ultrasound": {
+            "carotid": 1.0
+        }, 
+        "unless": {
+            "grapefruit": 1.0
+        }, 
+        "upper": {
+            "in": 1.0
+        }, 
+        "upright": {
+            "with": 1.0
+        }, 
+        "valsalva": {
+            "on": 1.0
+        }, 
+        "versus": {
+            "TIA": 1.0
+        }, 
+        "vertigo": {
+            ",": 1.0
+        }, 
+        "vibratory": {
+            ",": 1.0
+        }, 
+        "vision": {
+            "blurred": 1.0
+        }, 
+        "visual": {
+            ",": 0.5, 
+            "binocular": 0.5
+        }, 
+        "vs.": {
+            "TIA": 1.0
+        }, 
+        "w/": {
+            "Home": 1.0
+        }, 
+        "walk": {
+            "to": 1.0
+        }, 
+        "walk.": {
+            "toe": 1.0
+        }, 
+        "was": {
+            "MRI": 0.1, 
+            "She": 0.1, 
+            "atenolol": 0.1, 
+            "diagnosis": 0.1, 
+            "exam": 0.1, 
+            "level": 0.1, 
+            "pt": 0.2, 
+            "she": 0.2
+        }, 
+        "weak": {
+            "with": 1.0
+        }, 
+        "weakness": {
+            "chronic": 0.3333333333333333, 
+            "facial": 0.3333333333333333, 
+            "leg": 0.3333333333333333
+        }, 
+        "weakness.": {
+            "and": 1.0
+        }, 
+        "weeks": {
+            "3-4": 1.0
+        }, 
+        "well": {
+            "as": 0.75, 
+            "localize": 0.25
+        }, 
+        "well-controlled": {
+            "remained": 1.0
+        }, 
+        "well.": {
+            "as": 1.0
+        }, 
+        "were": {
+            "LDL": 0.5, 
+            "hand": 0.5
+        }, 
+        "when": {
+            "TTE": 1.0
+        }, 
+        "while": {
+            "vision": 1.0
+        }, 
+        "who": {
+            ",": 0.5, 
+            "PCP": 0.5
+        }, 
+        "wided": {
+            "slightly": 1.0
+        }, 
+        "with": {
+            ")": 0.06666666666666667, 
+            "3": 0.06666666666666667, 
+            "admitted": 0.06666666666666667, 
+            "but": 0.06666666666666667, 
+            "diet": 0.06666666666666667, 
+            "difficulty": 0.13333333333333333, 
+            "exam": 0.13333333333333333, 
+            "gait": 0.06666666666666667, 
+            "headache": 0.06666666666666667, 
+            "morning": 0.06666666666666667, 
+            "movements": 0.06666666666666667, 
+            "ovale": 0.06666666666666667, 
+            "problem": 0.06666666666666667
+        }, 
+        "without": {
+            ",": 0.25, 
+            "exam": 0.25, 
+            "head": 0.25, 
+            "skew": 0.25
+        }, 
+        "woman": {
+            "#obese#": 0.3333333333333333, 
+            "right-handed": 0.3333333333333333, 
+            "this": 0.3333333333333333
+        }, 
+        "work-up.": {
+            "stroke": 1.0
+        }, 
+        "x": {
+            "palsy": 1.0
+        }, 
+        "year-old": {
+            "59": 1.0
+        }, 
+        "|": {
+            "227621712": 0.1111111111111111, 
+            "48258003": 0.1111111111111111, 
+            "6674395": 0.1111111111111111, 
+            "AM": 0.1111111111111111, 
+            "C": 0.1111111111111111, 
+            "DIS": 0.1111111111111111, 
+            "encephalopathy": 0.1111111111111111, 
+            "|": 0.2222222222222222
+        }
+    }, 
+    "id": "1015", 
+    "text": " 227621712 | C | 48258003 | | 6674395 | 10/16/2003 12:00:00 AM | hypertensive encephalopathy | | DIS | Admission Date: 10/16/2003 Report Status: Discharge Date: 4/9/2003 ****** DISCHARGE ORDERS ****** CHOW , MIKEL R 453-25-44-7 Co Stobelle Ey Service: NEU DISCHARGE PATIENT ON: 3/10/03 AT 05:00 PM CONTINGENT UPON Not Applicable WILL D/C ORDER BE USED AS THE D/C SUMMARY: YES Attending: STAIRES , KIRBY SANDY , M.D. DISPOSITION: Home w/ services DISCHARGE MEDICATIONS: ACETYLSALICYLIC ACID 325 MG PO QD ATENOLOL 50 MG PO QD Starting IN AM ( 4/4 ) HOLD IF: SBP<120 , HR<55 ATORVASTATIN 40 MG PO QD HYDROCHLOROTHIAZIDE 25 MG PO QD AMLODIPINE 10 MG PO QD Food/Drug Interaction Instruction Avoid grapefruit unless MD instructs otherwise. FOLATE ( FOLIC ACID ) 1 MG PO QD DIET: House / Low chol/low sat. fat DIET: 4 gram Sodium ACTIVITY: Resume regular exercise FOLLOW UP APPOINTMENT( S ): PCP Dr. Burdzel 3-4 weeks , carotid ultrasound 5/5/03 scheduled , ALLERGY: Losartan , Perfume ADMIT DIAGNOSIS: stroke PRINCIPAL DISCHARGE DIAGNOSIS ;Responsible After Study for Causing Admission ) hypertensive encephalopathy OTHER DIAGNOSIS;Conditions , Infections , Complications , affecting Treatment/Stay HYPERCHOLESTEROLEMIA HTN DEPRESSION CAD s/p MI '84 ( coronary artery disease ) , recurrent left Bell's palsy , #obese# ( #obese# ) allergic rhinitis ( allergic rhinitis ) , history of TIA vs. stroke , obstructive sleep apnea , chronic renal insufficiency OPERATIONS AND PROCEDURES: none OTHER TREATMENTS/PROCEDURES ( NOT IN O.R. ) CT head without contrast BRIEF RESUME OF HOSPITAL COURSE: 59 year-old right-handed woman admitted for suspected acute stroke. Her PMH includes HTN , hypercholesterolemia , prior TIA vs. stroke 10/26 ( manifest as slurred speech , left arm and leg weakness ). prior myocardial infarction ( 1984 ) , and history of left Bell's palsy x 3 with chronic weakness of facial expression muscles on the left. She had a possible patent foramen ovale with agitated saline contrast passage on valsalva maneuver TTE when she was admitted 11/25 for stroke work-up. Recently , this woman has had 2-weeks of general fatigue , exertional dys pnea , frequent headaches , and intermittent blurred vision while driving followed by a 2-3 second episode of binocular visual loss 4/13/03. Notably , she ran out of amlodipine and reports obtaining a level of 240/150 on self-monitoring. One day prior to admission she saw her PCP who noted hypertension and referred her to an ophthalmologist , who obtained a normal exam by report. She awoke this morning with a more severe right frontal headache with pain radiating to the right shoulder. She also experienced a problem with gait , leaning to the right. Her husband phoned EMS because she had a severe headache and seemed \"confused.\" At present , the patient denies headache and confusion , as well as diplopia , vertigo , dysphagia , and dysarthria. She denies recent chest pain , but has had orthopnea. PMHx: hypertension , hypercholesterolemia , prior TIA versus stroke , prior myocardial infarction ( 1984 ) , obstructive sleep apnea , recurrent left Bell's palsy , allergic rhinitis , chronic renal insufficiency ( baseline creatinine around 1.5 ) Meds: ASA 81 , HCTZ , atenolol , amlodipine , atorvastatin , loratadine , PRN albuterol All: iodinated contrast , losartan VS: T 97.2 HR 57 BP 150/90 GEN #obese# woman , comfortable HEENT sclerae anicteric , oral mucosa moist NECK: no bruits HEART mild bradycardia , regular rhythm , II/VI SEM at USB ABD soft , nontender , nondistended EXT: no cyanosis , clubbing , or edema; radial and dorsalis pedis pulses 2+ NEURO: MS significant for no deficits on orientation , attention , langua ge , memory , and praxis. CN exam significant for right hypertropic skew , left facial droop , mostly lower face but with weak eyebrow raise as well. Motor exam with normal tone , no pronator drift , strength 5/5 in all muscle groups in upper and lower extremities. Coordination exam with slightly slowed fine finger movements , right hand , normal performance on finger-nose-finger and heel-knee-shin , sensory exam without deficits in light touch , temperature , vibratory sensation , reflexes 2 throughout except for 1 in the ankles , toes downgoing bilaterally. GAIT slightly wided based but stable gait with upright posture , normal arm-swing. No difficulty with heel , or toe walk. Falls to left on tandem gait. Non-contrast head CT negative for evidence of stroke or hemorrhage. Hospital course: the pt was admitted with hypertension and recent headaches , visual changes ( blurred vision ) , change in gait ( inability to walk in heels ) , and recent confusion. Neurologic exam was significant for right hypertropic skew without diplopia , left facial weakness that is old per pt and LMR notes , mild slowing of right fine finger movements , and tendency to fall towards the left on tandem gait. These findings do not localize well and the differential diagnosis was felt to include cerebral ischemia/infarction and hypertensive encephalopathy. The patient had recent poorly-controlled hypertension as well as symptoms of possible heart failure including exertional dyspnea and orthopnea. An MRI was ordered to evaluate for possible stroke or hypertensive encephalopathy. Unfortunately , the pt was not able to tolerate the procedure , citing claustrophobia from a traumatic childhood experience as a prohibitive factor. Her atenolol was continued and she was placed on aspirin 325 mg qd for stroke and heart prophylaxis. Her blood pressures remained well-controlled throughout admission and she remained asymptomatic , without recurrent headache , confusion , and weakness. Her fine finger movements with the right hand were improved by hospital day 2. She continued to have difficulty with tandem gait , falling to the left. Her lipid profile revealed elevated total cholesterol and LDL. Her homocysteine level was slightly elevated at 14. She was instructed to raise her dose of atorvastatin as well as supplement her diet with folic acid. She has an outpt appointment for carotid non-invasive studies 10/25/03. ADDITIONAL COMMENTS: DISCHARGE CONDITION: Fair TO DO/PLAN: The pt should take a full dose of aspirin ( 325 mg ). She should take folate supplementation. She should also discuss raising her dose of atorvastatin ( Lipitor ) with her PCP , because her cholesterol and LDL were elevated this admission. No dictated summary ENTERED BY: LIDDER , LENARD JEFFERSON , M.D. ( IQ99 ) 3/10/03 @ 05 ****** END OF DISCHARGE ORDERS ******", 
+    "tri": {
+        "\"confused.\"": {
+            "and~seemed": 1.0
+        }, 
+        "#obese#": {
+            "#obese#~(": 0.3333333333333333, 
+            "150/90~GEN": 0.3333333333333333, 
+            "palsy~,": 0.3333333333333333
+        }, 
+        "'84": {
+            "s/p~MI": 1.0
+        }, 
+        "(": {
+            ",~#obese#": 0.06666666666666667, 
+            ",~M.D.": 0.06666666666666667, 
+            "IN~AM": 0.06666666666666667, 
+            "MI~'84": 0.06666666666666667, 
+            "OTHER~TREATMENTS/PROCEDURES": 0.06666666666666667, 
+            "allergic~rhinitis": 0.06666666666666667, 
+            "in~gait": 0.06666666666666667, 
+            "myocardial~infarction": 0.13333333333333333, 
+            "of~aspirin": 0.06666666666666667, 
+            "of~atorvastatin": 0.06666666666666667, 
+            "otherwise.~FOLATE": 0.06666666666666667, 
+            "renal~insufficiency": 0.06666666666666667, 
+            "stroke~10/26": 0.06666666666666667, 
+            "visual~changes": 0.06666666666666667
+        }, 
+        ")": {
+            "(~#obese#": 0.07142857142857142, 
+            "(~1984": 0.14285714285714285, 
+            "(~4/4": 0.07142857142857142, 
+            "(~IQ99": 0.07142857142857142, 
+            "(~Lipitor": 0.07142857142857142, 
+            "Causing~Admission": 0.07142857142857142, 
+            "FOLIC~ACID": 0.07142857142857142, 
+            "IN~O.R.": 0.07142857142857142, 
+            "allergic~rhinitis": 0.07142857142857142, 
+            "around~1.5": 0.07142857142857142, 
+            "artery~disease": 0.07142857142857142, 
+            "blurred~vision": 0.07142857142857142, 
+            "in~heels": 0.07142857142857142
+        }, 
+        ").": {
+            "325~mg": 0.5, 
+            "leg~weakness": 0.5
+        }, 
+        "):": {
+            "APPOINTMENT(~S": 1.0
+        }, 
+        "******": {
+            "@~05": 0.25, 
+            "DISCHARGE~ORDERS": 0.5, 
+            "Date:~4/9/2003": 0.25
+        }, 
+        ",": {
+            "#obese#~woman": 0.011627906976744186, 
+            "******~CHOW": 0.011627906976744186, 
+            ",~Complications": 0.011627906976744186, 
+            ",~HCTZ": 0.011627906976744186, 
+            ",~Infections": 0.011627906976744186, 
+            ",~amlodipine": 0.011627906976744186, 
+            ",~atenolol": 0.011627906976744186, 
+            ",~atorvastatin": 0.011627906976744186, 
+            ",~attention": 0.011627906976744186, 
+            ",~clubbing": 0.011627906976744186, 
+            ",~confusion": 0.011627906976744186, 
+            ",~dysphagia": 0.011627906976744186, 
+            ",~hypercholesterolemia": 0.023255813953488372, 
+            ",~loratadine": 0.011627906976744186, 
+            ",~memory": 0.011627906976744186, 
+            ",~nontender": 0.011627906976744186, 
+            ",~temperature": 0.011627906976744186, 
+            ",~vertigo": 0.011627906976744186, 
+            "1984~)": 0.023255813953488372, 
+            "3-4~weeks": 0.011627906976744186, 
+            "4/13/03.~Notably": 0.011627906976744186, 
+            "5/5/03~scheduled": 0.011627906976744186, 
+            "ABD~soft": 0.011627906976744186, 
+            "ALLERGY:~Losartan": 0.011627906976744186, 
+            "ASA~81": 0.011627906976744186, 
+            "Attending:~STAIRES": 0.011627906976744186, 
+            "At~present": 0.011627906976744186, 
+            "BY:~LIDDER": 0.011627906976744186, 
+            "Bell's~palsy": 0.023255813953488372, 
+            "IF:~SBP<120": 0.011627906976744186, 
+            "KIRBY~SANDY": 0.011627906976744186, 
+            "LENARD~JEFFERSON": 0.011627906976744186, 
+            "LMR~notes": 0.011627906976744186, 
+            "OTHER~DIAGNOSIS;Conditions": 0.011627906976744186, 
+            "PMHx:~hypertension": 0.011627906976744186, 
+            "allergic~rhinitis": 0.011627906976744186, 
+            "and~confusion": 0.011627906976744186, 
+            "and~heel-knee-shin": 0.011627906976744186, 
+            "an~ophthalmologist": 0.011627906976744186, 
+            "as~diplopia": 0.011627906976744186, 
+            "chest~pain": 0.011627906976744186, 
+            "disease~)": 0.011627906976744186, 
+            "dys~pnea": 0.011627906976744186, 
+            "encephalopathy.~Unfortunately": 0.011627906976744186, 
+            "facial~droop": 0.011627906976744186, 
+            "finger~movements": 0.023255813953488372, 
+            "frequent~headaches": 0.011627906976744186, 
+            "general~fatigue": 0.011627906976744186, 
+            "heels~)": 0.011627906976744186, 
+            "her~PCP": 0.011627906976744186, 
+            "hypertropic~skew": 0.011627906976744186, 
+            "includes~HTN": 0.011627906976744186, 
+            "iodinated~contrast": 0.011627906976744186, 
+            "langua~ge": 0.011627906976744186, 
+            "light~touch": 0.011627906976744186, 
+            "mild~bradycardia": 0.011627906976744186, 
+            "normal~tone": 0.011627906976744186, 
+            "no~cyanosis": 0.011627906976744186, 
+            "on~orientation": 0.011627906976744186, 
+            "pronator~drift": 0.011627906976744186, 
+            "recent~headaches": 0.011627906976744186, 
+            "recurrent~headache": 0.011627906976744186, 
+            "regular~rhythm": 0.011627906976744186, 
+            "remained~asymptomatic": 0.011627906976744186, 
+            "rhinitis~)": 0.011627906976744186, 
+            "right~hand": 0.011627906976744186, 
+            "sclerae~anicteric": 0.011627906976744186, 
+            "sleep~apnea": 0.023255813953488372, 
+            "slurred~speech": 0.011627906976744186, 
+            "tandem~gait": 0.011627906976744186, 
+            "the~ankles": 0.011627906976744186, 
+            "the~procedure": 0.011627906976744186, 
+            "upright~posture": 0.011627906976744186, 
+            "versus~stroke": 0.011627906976744186, 
+            "vibratory~sensation": 0.011627906976744186, 
+            "vision~)": 0.011627906976744186, 
+            "vs.~stroke": 0.011627906976744186, 
+            "without~diplopia": 0.011627906976744186, 
+            "with~gait": 0.011627906976744186, 
+            "with~heel": 0.011627906976744186, 
+            "work-up.~Recently": 0.011627906976744186
+        }, 
+        "/": {
+            "DIET:~House": 1.0
+        }, 
+        "05": {
+            "3/10/03~@": 1.0
+        }, 
+        "05:00": {
+            "3/10/03~AT": 1.0
+        }, 
+        "1": {
+            "ACID~)": 0.5, 
+            "except~for": 0.5
+        }, 
+        "1.5": {
+            "creatinine~around": 1.0
+        }, 
+        "10": {
+            "QD~AMLODIPINE": 1.0
+        }, 
+        "10/16/2003": {
+            "6674395~|": 0.5, 
+            "Admission~Date:": 0.5
+        }, 
+        "10/25/03.": {
+            "non-invasive~studies": 1.0
+        }, 
+        "10/26": {
+            "vs.~stroke": 1.0
+        }, 
+        "11/25": {
+            "was~admitted": 1.0
+        }, 
+        "12:00:00": {
+            "|~10/16/2003": 1.0
+        }, 
+        "14.": {
+            "elevated~at": 1.0
+        }, 
+        "150/90": {
+            "57~BP": 1.0
+        }, 
+        "1984": {
+            "infarction~(": 1.0
+        }, 
+        "2": {
+            ",~reflexes": 1.0
+        }, 
+        "2+": {
+            "pedis~pulses": 1.0
+        }, 
+        "2-3": {
+            "by~a": 1.0
+        }, 
+        "2-weeks": {
+            "has~had": 1.0
+        }, 
+        "2.": {
+            "hospital~day": 1.0
+        }, 
+        "240/150": {
+            "level~of": 1.0
+        }, 
+        "25": {
+            "QD~HYDROCHLOROTHIAZIDE": 1.0
+        }, 
+        "3": {
+            "palsy~x": 1.0
+        }, 
+        "3-4": {
+            "Dr.~Burdzel": 1.0
+        }, 
+        "3/10/03": {
+            "IQ99~)": 0.5, 
+            "PATIENT~ON:": 0.5
+        }, 
+        "325": {
+            "ACETYLSALICYLIC~ACID": 0.3333333333333333, 
+            "aspirin~(": 0.3333333333333333, 
+            "on~aspirin": 0.3333333333333333
+        }, 
+        "4": {
+            "fat~DIET:": 1.0
+        }, 
+        "4/13/03.": {
+            "visual~loss": 1.0
+        }, 
+        "4/4": {
+            "AM~(": 1.0
+        }, 
+        "4/9/2003": {
+            "Discharge~Date:": 1.0
+        }, 
+        "40": {
+            "HR<55~ATORVASTATIN": 1.0
+        }, 
+        "453-25-44-7": {
+            "MIKEL~R": 1.0
+        }, 
+        "48258003": {
+            "C~|": 1.0
+        }, 
+        "5/5": {
+            ",~strength": 1.0
+        }, 
+        "5/5/03": {
+            "carotid~ultrasound": 1.0
+        }, 
+        "50": {
+            "QD~ATENOLOL": 1.0
+        }, 
+        "57": {
+            "97.2~HR": 1.0
+        }, 
+        "59": {
+            "HOSPITAL~COURSE:": 1.0
+        }, 
+        "6674395": {
+            "|~|": 1.0
+        }, 
+        "81": {
+            "Meds:~ASA": 1.0
+        }, 
+        "97.2": {
+            "VS:~T": 1.0
+        }, 
+        ";Responsible": {
+            "DISCHARGE~DIAGNOSIS": 1.0
+        }, 
+        "@": {
+            ")~3/10/03": 1.0
+        }, 
+        "ABD": {
+            "at~USB": 1.0
+        }, 
+        "ACETYLSALICYLIC": {
+            "DISCHARGE~MEDICATIONS:": 1.0
+        }, 
+        "ACID": {
+            "(~FOLIC": 0.5, 
+            "MEDICATIONS:~ACETYLSALICYLIC": 0.5
+        }, 
+        "ACTIVITY:": {
+            "gram~Sodium": 1.0
+        }, 
+        "ADDITIONAL": {
+            "studies~10/25/03.": 1.0
+        }, 
+        "ADMIT": {
+            ",~Perfume": 1.0
+        }, 
+        "ALLERGY:": {
+            "scheduled~,": 1.0
+        }, 
+        "AM": {
+            "10/16/2003~12:00:00": 0.5, 
+            "Starting~IN": 0.5
+        }, 
+        "AMLODIPINE": {
+            "PO~QD": 1.0
+        }, 
+        "AND": {
+            "insufficiency~OPERATIONS": 1.0
+        }, 
+        "APPOINTMENT(": {
+            "FOLLOW~UP": 1.0
+        }, 
+        "AS": {
+            "BE~USED": 1.0
+        }, 
+        "ASA": {
+            ")~Meds:": 1.0
+        }, 
+        "AT": {
+            "ON:~3/10/03": 1.0
+        }, 
+        "ATENOLOL": {
+            "PO~QD": 1.0
+        }, 
+        "ATORVASTATIN": {
+            ",~HR<55": 1.0
+        }, 
+        "Admission": {
+            "DIS~|": 0.5, 
+            "for~Causing": 0.5
+        }, 
+        "After": {
+            "DIAGNOSIS~;Responsible": 1.0
+        }, 
+        "All:": {
+            "PRN~albuterol": 1.0
+        }, 
+        "An": {
+            "and~orthopnea.": 1.0
+        }, 
+        "Applicable": {
+            "UPON~Not": 1.0
+        }, 
+        "At": {
+            "seemed~\"confused.\"": 1.0
+        }, 
+        "Attending:": {
+            "SUMMARY:~YES": 1.0
+        }, 
+        "Avoid": {
+            "Interaction~Instruction": 1.0
+        }, 
+        "BE": {
+            "D/C~ORDER": 1.0
+        }, 
+        "BP": {
+            "HR~57": 1.0
+        }, 
+        "BRIEF": {
+            "without~contrast": 1.0
+        }, 
+        "BY:": {
+            "summary~ENTERED": 1.0
+        }, 
+        "Bell's": {
+            "of~left": 0.3333333333333333, 
+            "recurrent~left": 0.6666666666666666
+        }, 
+        "Burdzel": {
+            "PCP~Dr.": 1.0
+        }, 
+        "C": {
+            "227621712~|": 1.0
+        }, 
+        "CAD": {
+            "HTN~DEPRESSION": 1.0
+        }, 
+        "CHOW": {
+            "ORDERS~******": 1.0
+        }, 
+        "CN": {
+            "and~praxis.": 1.0
+        }, 
+        "COMMENTS:": {
+            "10/25/03.~ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            "COMMENTS:~DISCHARGE": 1.0
+        }, 
+        "CONTINGENT": {
+            "05:00~PM": 1.0
+        }, 
+        "COURSE:": {
+            "OF~HOSPITAL": 1.0
+        }, 
+        "CT": {
+            "Non-contrast~head": 0.5, 
+            "O.R.~)": 0.5
+        }, 
+        "Causing": {
+            "Study~for": 1.0
+        }, 
+        "Co": {
+            "R~453-25-44-7": 1.0
+        }, 
+        "Complications": {
+            "Infections~,": 1.0
+        }, 
+        "Coordination": {
+            "lower~extremities.": 1.0
+        }, 
+        "D/C": {
+            "AS~THE": 0.5, 
+            "Applicable~WILL": 0.5
+        }, 
+        "DEPRESSION": {
+            "HYPERCHOLESTEROLEMIA~HTN": 1.0
+        }, 
+        "DIAGNOSIS": {
+            "PRINCIPAL~DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "Perfume~ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "encephalopathy~OTHER": 1.0
+        }, 
+        "DIET:": {
+            "PO~QD": 0.5, 
+            "sat.~fat": 0.5
+        }, 
+        "DIS": {
+            "|~|": 1.0
+        }, 
+        "DISCHARGE": {
+            "4/9/2003~******": 0.16666666666666666, 
+            "ADDITIONAL~COMMENTS:": 0.16666666666666666, 
+            "END~OF": 0.16666666666666666, 
+            "Service:~NEU": 0.16666666666666666, 
+            "stroke~PRINCIPAL": 0.16666666666666666, 
+            "w/~services": 0.16666666666666666
+        }, 
+        "DISPOSITION:": {
+            ",~M.D.": 1.0
+        }, 
+        "DO/PLAN:": {
+            "Fair~TO": 1.0
+        }, 
+        "Date:": {
+            "Status:~Discharge": 0.5, 
+            "|~Admission": 0.5
+        }, 
+        "Discharge": {
+            "Report~Status:": 1.0
+        }, 
+        "Dr.": {
+            "):~PCP": 1.0
+        }, 
+        "EMS": {
+            "husband~phoned": 1.0
+        }, 
+        "END": {
+            "05~******": 1.0
+        }, 
+        "ENTERED": {
+            "dictated~summary": 1.0
+        }, 
+        "EXT:": {
+            ",~nondistended": 1.0
+        }, 
+        "Ey": {
+            "Co~Stobelle": 1.0
+        }, 
+        "FOLATE": {
+            "instructs~otherwise.": 1.0
+        }, 
+        "FOLIC": {
+            "FOLATE~(": 1.0
+        }, 
+        "FOLLOW": {
+            "regular~exercise": 1.0
+        }, 
+        "Fair": {
+            "DISCHARGE~CONDITION:": 1.0
+        }, 
+        "Falls": {
+            "toe~walk.": 1.0
+        }, 
+        "Food/Drug": {
+            "PO~QD": 1.0
+        }, 
+        "GAIT": {
+            "downgoing~bilaterally.": 1.0
+        }, 
+        "GEN": {
+            "BP~150/90": 1.0
+        }, 
+        "HCTZ": {
+            "81~,": 1.0
+        }, 
+        "HEART": {
+            "no~bruits": 1.0
+        }, 
+        "HEENT": {
+            ",~comfortable": 1.0
+        }, 
+        "HOLD": {
+            "4/4~)": 1.0
+        }, 
+        "HOSPITAL": {
+            "RESUME~OF": 1.0
+        }, 
+        "HR": {
+            "T~97.2": 1.0
+        }, 
+        "HR<55": {
+            "SBP<120~,": 1.0
+        }, 
+        "HTN": {
+            "PMH~includes": 0.5, 
+            "Treatment/Stay~HYPERCHOLESTEROLEMIA": 0.5
+        }, 
+        "HYDROCHLOROTHIAZIDE": {
+            "PO~QD": 1.0
+        }, 
+        "HYPERCHOLESTEROLEMIA": {
+            "affecting~Treatment/Stay": 1.0
+        }, 
+        "Her": {
+            "acute~stroke.": 0.14285714285714285, 
+            "and~LDL.": 0.14285714285714285, 
+            "and~weakness.": 0.14285714285714285, 
+            "heart~prophylaxis.": 0.14285714285714285, 
+            "prohibitive~factor.": 0.14285714285714285, 
+            "the~left.": 0.14285714285714285, 
+            "the~right.": 0.14285714285714285
+        }, 
+        "Home": {
+            "M.D.~DISPOSITION:": 1.0
+        }, 
+        "Hospital": {
+            "or~hemorrhage.": 1.0
+        }, 
+        "House": {
+            "QD~DIET:": 1.0
+        }, 
+        "IF:": {
+            ")~HOLD": 1.0
+        }, 
+        "II/VI": {
+            "rhythm~,": 1.0
+        }, 
+        "IN": {
+            "(~NOT": 0.5, 
+            "QD~Starting": 0.5
+        }, 
+        "IQ99": {
+            "M.D.~(": 1.0
+        }, 
+        "Infections": {
+            "DIAGNOSIS;Conditions~,": 1.0
+        }, 
+        "Instruction": {
+            "Food/Drug~Interaction": 1.0
+        }, 
+        "Interaction": {
+            "QD~Food/Drug": 1.0
+        }, 
+        "JEFFERSON": {
+            ",~LENARD": 1.0
+        }, 
+        "KIRBY": {
+            "STAIRES~,": 1.0
+        }, 
+        "LDL": {
+            "cholesterol~and": 1.0
+        }, 
+        "LDL.": {
+            "cholesterol~and": 1.0
+        }, 
+        "LENARD": {
+            "LIDDER~,": 1.0
+        }, 
+        "LIDDER": {
+            "ENTERED~BY:": 1.0
+        }, 
+        "LMR": {
+            "pt~and": 1.0
+        }, 
+        "Lipitor": {
+            "atorvastatin~(": 1.0
+        }, 
+        "Losartan": {
+            ",~ALLERGY:": 1.0
+        }, 
+        "Low": {
+            "House~/": 1.0
+        }, 
+        "M.D.": {
+            "JEFFERSON~,": 0.5, 
+            "SANDY~,": 0.5
+        }, 
+        "MD": {
+            "grapefruit~unless": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "services~DISCHARGE": 1.0
+        }, 
+        "MG": {
+            ")~1": 0.16666666666666666, 
+            "ACID~325": 0.16666666666666666, 
+            "AMLODIPINE~10": 0.16666666666666666, 
+            "ATENOLOL~50": 0.16666666666666666, 
+            "ATORVASTATIN~40": 0.16666666666666666, 
+            "HYDROCHLOROTHIAZIDE~25": 0.16666666666666666
+        }, 
+        "MI": {
+            "CAD~s/p": 1.0
+        }, 
+        "MIKEL": {
+            "CHOW~,": 1.0
+        }, 
+        "MRI": {
+            "orthopnea.~An": 1.0
+        }, 
+        "MS": {
+            "2+~NEURO:": 1.0
+        }, 
+        "Meds:": {
+            "1.5~)": 1.0
+        }, 
+        "Motor": {
+            "as~well.": 1.0
+        }, 
+        "NECK:": {
+            "mucosa~moist": 1.0
+        }, 
+        "NEU": {
+            "Ey~Service:": 1.0
+        }, 
+        "NEURO:": {
+            "pulses~2+": 1.0
+        }, 
+        "NOT": {
+            "TREATMENTS/PROCEDURES~(": 1.0
+        }, 
+        "Neurologic": {
+            "recent~confusion.": 1.0
+        }, 
+        "No": {
+            "normal~arm-swing.": 0.5, 
+            "this~admission.": 0.5
+        }, 
+        "Non-contrast": {
+            "tandem~gait.": 1.0
+        }, 
+        "Not": {
+            "CONTINGENT~UPON": 1.0
+        }, 
+        "Notably": {
+            "loss~4/13/03.": 1.0
+        }, 
+        "O.R.": {
+            "NOT~IN": 1.0
+        }, 
+        "OF": {
+            "******~END": 0.5, 
+            "BRIEF~RESUME": 0.5
+        }, 
+        "ON:": {
+            "DISCHARGE~PATIENT": 1.0
+        }, 
+        "OPERATIONS": {
+            "renal~insufficiency": 1.0
+        }, 
+        "ORDER": {
+            "WILL~D/C": 1.0
+        }, 
+        "ORDERS": {
+            "******~DISCHARGE": 0.5, 
+            "OF~DISCHARGE": 0.5
+        }, 
+        "OTHER": {
+            "PROCEDURES:~none": 0.5, 
+            "hypertensive~encephalopathy": 0.5
+        }, 
+        "One": {
+            "on~self-monitoring.": 1.0
+        }, 
+        "PATIENT": {
+            "NEU~DISCHARGE": 1.0
+        }, 
+        "PCP": {
+            "S~):": 0.3333333333333333, 
+            "saw~her": 0.3333333333333333, 
+            "with~her": 0.3333333333333333
+        }, 
+        "PM": {
+            "AT~05:00": 1.0
+        }, 
+        "PMH": {
+            "stroke.~Her": 1.0
+        }, 
+        "PMHx:": {
+            "had~orthopnea.": 1.0
+        }, 
+        "PO": {
+            "10~MG": 0.16666666666666666, 
+            "1~MG": 0.16666666666666666, 
+            "25~MG": 0.16666666666666666, 
+            "325~MG": 0.16666666666666666, 
+            "40~MG": 0.16666666666666666, 
+            "50~MG": 0.16666666666666666
+        }, 
+        "PRINCIPAL": {
+            "DIAGNOSIS:~stroke": 1.0
+        }, 
+        "PRN": {
+            "loratadine~,": 1.0
+        }, 
+        "PROCEDURES:": {
+            "OPERATIONS~AND": 1.0
+        }, 
+        "Perfume": {
+            "Losartan~,": 1.0
+        }, 
+        "QD": {
+            "MG~PO": 1.0
+        }, 
+        "R": {
+            ",~MIKEL": 1.0
+        }, 
+        "RESUME": {
+            "contrast~BRIEF": 1.0
+        }, 
+        "Recently": {
+            "stroke~work-up.": 1.0
+        }, 
+        "Report": {
+            "Date:~10/16/2003": 1.0
+        }, 
+        "Resume": {
+            "Sodium~ACTIVITY:": 1.0
+        }, 
+        "S": {
+            "UP~APPOINTMENT(": 1.0
+        }, 
+        "SANDY": {
+            ",~KIRBY": 1.0
+        }, 
+        "SBP<120": {
+            "HOLD~IF:": 1.0
+        }, 
+        "SEM": {
+            ",~II/VI": 1.0
+        }, 
+        "STAIRES": {
+            "YES~Attending:": 1.0
+        }, 
+        "SUMMARY:": {
+            "THE~D/C": 1.0
+        }, 
+        "Service:": {
+            "Stobelle~Ey": 1.0
+        }, 
+        "She": {
+            "and~dysarthria.": 0.1111111111111111, 
+            "at~14.": 0.1111111111111111, 
+            "by~report.": 0.1111111111111111, 
+            "day~2.": 0.1111111111111111, 
+            "folate~supplementation.": 0.1111111111111111, 
+            "folic~acid.": 0.1111111111111111, 
+            "mg~).": 0.1111111111111111, 
+            "right~shoulder.": 0.1111111111111111, 
+            "the~left.": 0.1111111111111111
+        }, 
+        "Sodium": {
+            "4~gram": 1.0
+        }, 
+        "Starting": {
+            "PO~QD": 1.0
+        }, 
+        "Status:": {
+            "10/16/2003~Report": 1.0
+        }, 
+        "Stobelle": {
+            "453-25-44-7~Co": 1.0
+        }, 
+        "Study": {
+            ";Responsible~After": 1.0
+        }, 
+        "T": {
+            "losartan~VS:": 1.0
+        }, 
+        "THE": {
+            "USED~AS": 1.0
+        }, 
+        "TIA": {
+            ",~prior": 0.6666666666666666, 
+            "history~of": 0.3333333333333333
+        }, 
+        "TO": {
+            "CONDITION:~Fair": 1.0
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "none~OTHER": 1.0
+        }, 
+        "TTE": {
+            "valsalva~maneuver": 1.0
+        }, 
+        "The": {
+            "TO~DO/PLAN:": 0.5, 
+            "hypertensive~encephalopathy.": 0.5
+        }, 
+        "These": {
+            "tandem~gait.": 1.0
+        }, 
+        "Treatment/Stay": {
+            ",~affecting": 1.0
+        }, 
+        "UP": {
+            "exercise~FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "PM~CONTINGENT": 1.0
+        }, 
+        "USB": {
+            "SEM~at": 1.0
+        }, 
+        "USED": {
+            "ORDER~BE": 1.0
+        }, 
+        "Unfortunately": {
+            "hypertensive~encephalopathy.": 1.0
+        }, 
+        "VS:": {
+            ",~losartan": 1.0
+        }, 
+        "WILL": {
+            "Not~Applicable": 1.0
+        }, 
+        "YES": {
+            "D/C~SUMMARY:": 1.0
+        }, 
+        "a": {
+            "She~had": 0.1, 
+            "also~experienced": 0.1, 
+            "claustrophobia~from": 0.1, 
+            "experience~as": 0.1, 
+            "followed~by": 0.1, 
+            "morning~with": 0.1, 
+            "reports~obtaining": 0.1, 
+            "she~had": 0.1, 
+            "should~take": 0.1, 
+            "who~obtained": 0.1
+        }, 
+        "able": {
+            "was~not": 1.0
+        }, 
+        "acid.": {
+            "with~folic": 1.0
+        }, 
+        "acute": {
+            "for~suspected": 1.0
+        }, 
+        "admission": {
+            "prior~to": 0.5, 
+            "well-controlled~throughout": 0.5
+        }, 
+        "admission.": {
+            "elevated~this": 1.0
+        }, 
+        "admitted": {
+            "pt~was": 0.3333333333333333, 
+            "right-handed~woman": 0.3333333333333333, 
+            "she~was": 0.3333333333333333
+        }, 
+        "affecting": {
+            "Complications~,": 1.0
+        }, 
+        "agitated": {
+            "ovale~with": 1.0
+        }, 
+        "albuterol": {
+            ",~PRN": 1.0
+        }, 
+        "all": {
+            "5/5~in": 1.0
+        }, 
+        "allergic": {
+            "#obese#~)": 0.3333333333333333, 
+            "palsy~,": 0.3333333333333333, 
+            "rhinitis~(": 0.3333333333333333
+        }, 
+        "also": {
+            "She~should": 0.5, 
+            "shoulder.~She": 0.5
+        }, 
+        "amlodipine": {
+            "atenolol~,": 0.5, 
+            "out~of": 0.5
+        }, 
+        "an": {
+            "She~has": 0.5, 
+            "her~to": 0.5
+        }, 
+        "and": {
+            ")~,": 0.08, 
+            "cerebral~ischemia/infarction": 0.04, 
+            "confusion~,": 0.04, 
+            "denies~headache": 0.04, 
+            "dysphagia~,": 0.04, 
+            "edema;~radial": 0.04, 
+            "exertional~dyspnea": 0.04, 
+            "for~stroke": 0.04, 
+            "headaches~,": 0.04, 
+            "her~cholesterol": 0.04, 
+            "in~upper": 0.04, 
+            "left~arm": 0.04, 
+            "localize~well": 0.04, 
+            "memory~,": 0.04, 
+            "movements~,": 0.04, 
+            "noted~hypertension": 0.04, 
+            "of~amlodipine": 0.04, 
+            "on~finger-nose-finger": 0.04, 
+            "per~pt": 0.04, 
+            "severe~headache": 0.04, 
+            "throughout~admission": 0.04, 
+            "total~cholesterol": 0.04, 
+            "was~continued": 0.04, 
+            "with~hypertension": 0.04
+        }, 
+        "anicteric": {
+            "HEENT~sclerae": 1.0
+        }, 
+        "ankles": {
+            "in~the": 1.0
+        }, 
+        "apnea": {
+            "obstructive~sleep": 1.0
+        }, 
+        "appointment": {
+            "an~outpt": 1.0
+        }, 
+        "arm": {
+            ",~left": 1.0
+        }, 
+        "arm-swing.": {
+            ",~normal": 1.0
+        }, 
+        "around": {
+            "baseline~creatinine": 1.0
+        }, 
+        "artery": {
+            "(~coronary": 1.0
+        }, 
+        "as": {
+            "(~manifest": 0.1111111111111111, 
+            "as~well": 0.3333333333333333, 
+            "childhood~experience": 0.1111111111111111, 
+            "confusion~,": 0.1111111111111111, 
+            "eyebrow~raise": 0.1111111111111111, 
+            "of~atorvastatin": 0.1111111111111111, 
+            "poorly-controlled~hypertension": 0.1111111111111111
+        }, 
+        "aspirin": {
+            "dose~of": 0.5, 
+            "placed~on": 0.5
+        }, 
+        "asymptomatic": {
+            "she~remained": 1.0
+        }, 
+        "at": {
+            "II/VI~SEM": 0.5, 
+            "slightly~elevated": 0.5
+        }, 
+        "atenolol": {
+            "HCTZ~,": 0.5, 
+            "factor.~Her": 0.5
+        }, 
+        "atorvastatin": {
+            "amlodipine~,": 0.3333333333333333, 
+            "dose~of": 0.6666666666666666
+        }, 
+        "attention": {
+            "orientation~,": 1.0
+        }, 
+        "awoke": {
+            "report.~She": 1.0
+        }, 
+        "based": {
+            "slightly~wided": 1.0
+        }, 
+        "baseline": {
+            "insufficiency~(": 1.0
+        }, 
+        "because": {
+            "PCP~,": 0.5, 
+            "phoned~EMS": 0.5
+        }, 
+        "bilaterally.": {
+            "toes~downgoing": 1.0
+        }, 
+        "binocular": {
+            "episode~of": 1.0
+        }, 
+        "blood": {
+            "prophylaxis.~Her": 1.0
+        }, 
+        "blurred": {
+            "and~intermittent": 0.5, 
+            "changes~(": 0.5
+        }, 
+        "bradycardia": {
+            "HEART~mild": 1.0
+        }, 
+        "bruits": {
+            "NECK:~no": 1.0
+        }, 
+        "but": {
+            "lower~face": 0.3333333333333333, 
+            "pain~,": 0.3333333333333333, 
+            "wided~based": 0.3333333333333333
+        }, 
+        "by": {
+            "driving~followed": 0.3333333333333333, 
+            "normal~exam": 0.3333333333333333, 
+            "were~improved": 0.3333333333333333
+        }, 
+        "carotid": {
+            "appointment~for": 0.5, 
+            "weeks~,": 0.5
+        }, 
+        "cerebral": {
+            "to~include": 1.0
+        }, 
+        "change": {
+            ")~,": 1.0
+        }, 
+        "changes": {
+            ",~visual": 1.0
+        }, 
+        "chest": {
+            "denies~recent": 1.0
+        }, 
+        "childhood": {
+            "a~traumatic": 1.0
+        }, 
+        "chol/low": {
+            "/~Low": 1.0
+        }, 
+        "cholesterol": {
+            "because~her": 0.5, 
+            "elevated~total": 0.5
+        }, 
+        "chronic": {
+            "3~with": 0.3333333333333333, 
+            "apnea~,": 0.3333333333333333, 
+            "rhinitis~,": 0.3333333333333333
+        }, 
+        "citing": {
+            "procedure~,": 1.0
+        }, 
+        "claustrophobia": {
+            ",~citing": 1.0
+        }, 
+        "clubbing": {
+            "cyanosis~,": 1.0
+        }, 
+        "comfortable": {
+            "woman~,": 1.0
+        }, 
+        "confusion": {
+            "headache~,": 0.5, 
+            "headache~and": 0.5
+        }, 
+        "confusion.": {
+            "and~recent": 1.0
+        }, 
+        "continued": {
+            "2.~She": 0.5, 
+            "atenolol~was": 0.5
+        }, 
+        "contrast": {
+            "All:~iodinated": 0.3333333333333333, 
+            "agitated~saline": 0.3333333333333333, 
+            "head~without": 0.3333333333333333
+        }, 
+        "coronary": {
+            "'84~(": 1.0
+        }, 
+        "course:": {
+            "hemorrhage.~Hospital": 1.0
+        }, 
+        "creatinine": {
+            "(~baseline": 1.0
+        }, 
+        "cyanosis": {
+            "EXT:~no": 1.0
+        }, 
+        "day": {
+            "by~hospital": 0.5, 
+            "self-monitoring.~One": 0.5
+        }, 
+        "deficits": {
+            "exam~without": 0.5, 
+            "for~no": 0.5
+        }, 
+        "denies": {
+            "dysarthria.~She": 0.5, 
+            "the~patient": 0.5
+        }, 
+        "diagnosis": {
+            "the~differential": 1.0
+        }, 
+        "dictated": {
+            "admission.~No": 1.0
+        }, 
+        "diet": {
+            "supplement~her": 1.0
+        }, 
+        "differential": {
+            "and~the": 1.0
+        }, 
+        "difficulty": {
+            "arm-swing.~No": 0.5, 
+            "to~have": 0.5
+        }, 
+        "diplopia": {
+            "skew~without": 0.5, 
+            "well~as": 0.5
+        }, 
+        "discuss": {
+            "should~also": 1.0
+        }, 
+        "disease": {
+            "coronary~artery": 1.0
+        }, 
+        "do": {
+            "These~findings": 1.0
+        }, 
+        "dorsalis": {
+            "radial~and": 1.0
+        }, 
+        "dose": {
+            "a~full": 0.3333333333333333, 
+            "raise~her": 0.3333333333333333, 
+            "raising~her": 0.3333333333333333
+        }, 
+        "downgoing": {
+            ",~toes": 1.0
+        }, 
+        "drift": {
+            "no~pronator": 1.0
+        }, 
+        "driving": {
+            "vision~while": 1.0
+        }, 
+        "droop": {
+            "left~facial": 1.0
+        }, 
+        "dys": {
+            ",~exertional": 1.0
+        }, 
+        "dysarthria.": {
+            ",~and": 1.0
+        }, 
+        "dysphagia": {
+            "vertigo~,": 1.0
+        }, 
+        "dyspnea": {
+            "including~exertional": 1.0
+        }, 
+        "edema;": {
+            ",~or": 1.0
+        }, 
+        "elevated": {
+            "LDL~were": 0.3333333333333333, 
+            "profile~revealed": 0.3333333333333333, 
+            "was~slightly": 0.3333333333333333
+        }, 
+        "encephalopathy": {
+            ")~hypertensive": 0.5, 
+            "|~hypertensive": 0.5
+        }, 
+        "encephalopathy.": {
+            "and~hypertensive": 0.5, 
+            "or~hypertensive": 0.5
+        }, 
+        "episode": {
+            "2-3~second": 1.0
+        }, 
+        "evaluate": {
+            "ordered~to": 1.0
+        }, 
+        "evidence": {
+            "negative~for": 1.0
+        }, 
+        "exam": {
+            ",~sensory": 0.16666666666666666, 
+            "a~normal": 0.16666666666666666, 
+            "confusion.~Neurologic": 0.16666666666666666, 
+            "extremities.~Coordination": 0.16666666666666666, 
+            "praxis.~CN": 0.16666666666666666, 
+            "well.~Motor": 0.16666666666666666
+        }, 
+        "except": {
+            "2~throughout": 1.0
+        }, 
+        "exercise": {
+            "Resume~regular": 1.0
+        }, 
+        "exertional": {
+            "failure~including": 0.5, 
+            "fatigue~,": 0.5
+        }, 
+        "experience": {
+            "traumatic~childhood": 1.0
+        }, 
+        "experienced": {
+            "She~also": 1.0
+        }, 
+        "expression": {
+            "of~facial": 1.0
+        }, 
+        "extremities.": {
+            "and~lower": 1.0
+        }, 
+        "eyebrow": {
+            "with~weak": 1.0
+        }, 
+        "face": {
+            "mostly~lower": 1.0
+        }, 
+        "facial": {
+            ",~left": 0.6666666666666666, 
+            "weakness~of": 0.3333333333333333
+        }, 
+        "factor.": {
+            "a~prohibitive": 1.0
+        }, 
+        "failure": {
+            "possible~heart": 1.0
+        }, 
+        "fall": {
+            "tendency~to": 1.0
+        }, 
+        "falling": {
+            "gait~,": 1.0
+        }, 
+        "fat": {
+            "chol/low~sat.": 1.0
+        }, 
+        "fatigue": {
+            "of~general": 1.0
+        }, 
+        "felt": {
+            "diagnosis~was": 1.0
+        }, 
+        "findings": {
+            "gait.~These": 1.0
+        }, 
+        "fine": {
+            "of~right": 0.3333333333333333, 
+            "slightly~slowed": 0.3333333333333333, 
+            "weakness.~Her": 0.3333333333333333
+        }, 
+        "finger": {
+            "Her~fine": 0.3333333333333333, 
+            "right~fine": 0.3333333333333333, 
+            "slowed~fine": 0.3333333333333333
+        }, 
+        "finger-nose-finger": {
+            "performance~on": 1.0
+        }, 
+        "folate": {
+            "should~take": 1.0
+        }, 
+        "folic": {
+            "diet~with": 1.0
+        }, 
+        "followed": {
+            "while~driving": 1.0
+        }, 
+        "for": {
+            "After~Study": 0.09090909090909091, 
+            "CT~negative": 0.09090909090909091, 
+            "MS~significant": 0.09090909090909091, 
+            "admitted~11/25": 0.09090909090909091, 
+            "exam~significant": 0.09090909090909091, 
+            "mg~qd": 0.09090909090909091, 
+            "outpt~appointment": 0.09090909090909091, 
+            "throughout~except": 0.09090909090909091, 
+            "to~evaluate": 0.09090909090909091, 
+            "was~significant": 0.09090909090909091, 
+            "woman~admitted": 0.09090909090909091
+        }, 
+        "foramen": {
+            "possible~patent": 1.0
+        }, 
+        "frequent": {
+            "pnea~,": 1.0
+        }, 
+        "from": {
+            "citing~claustrophobia": 1.0
+        }, 
+        "frontal": {
+            "severe~right": 1.0
+        }, 
+        "full": {
+            "take~a": 1.0
+        }, 
+        "gait": {
+            "but~stable": 0.25, 
+            "change~in": 0.25, 
+            "problem~with": 0.25, 
+            "with~tandem": 0.25
+        }, 
+        "gait.": {
+            "on~tandem": 1.0
+        }, 
+        "ge": {
+            ",~langua": 1.0
+        }, 
+        "general": {
+            "2-weeks~of": 1.0
+        }, 
+        "gram": {
+            "DIET:~4": 1.0
+        }, 
+        "grapefruit": {
+            "Instruction~Avoid": 1.0
+        }, 
+        "groups": {
+            "all~muscle": 1.0
+        }, 
+        "had": {
+            "The~patient": 0.2, 
+            "because~she": 0.2, 
+            "but~has": 0.2, 
+            "left.~She": 0.2, 
+            "woman~has": 0.2
+        }, 
+        "hand": {
+            ",~right": 0.5, 
+            "the~right": 0.5
+        }, 
+        "has": {
+            ",~but": 0.3333333333333333, 
+            "acid.~She": 0.3333333333333333, 
+            "this~woman": 0.3333333333333333
+        }, 
+        "have": {
+            "continued~to": 1.0
+        }, 
+        "head": {
+            ")~CT": 0.5, 
+            "gait.~Non-contrast": 0.5
+        }, 
+        "headache": {
+            "a~severe": 0.25, 
+            "patient~denies": 0.25, 
+            "right~frontal": 0.25, 
+            "without~recurrent": 0.25
+        }, 
+        "headaches": {
+            ",~frequent": 0.5, 
+            "and~recent": 0.5
+        }, 
+        "heart": {
+            "of~possible": 0.5, 
+            "stroke~and": 0.5
+        }, 
+        "heel": {
+            "difficulty~with": 1.0
+        }, 
+        "heel-knee-shin": {
+            "finger-nose-finger~and": 1.0
+        }, 
+        "heels": {
+            "walk~in": 1.0
+        }, 
+        "hemorrhage.": {
+            "stroke~or": 1.0
+        }, 
+        "her": {
+            ")~with": 0.14285714285714285, 
+            ",~because": 0.14285714285714285, 
+            "and~referred": 0.14285714285714285, 
+            "as~supplement": 0.14285714285714285, 
+            "discuss~raising": 0.14285714285714285, 
+            "she~saw": 0.14285714285714285, 
+            "to~raise": 0.14285714285714285
+        }, 
+        "history": {
+            ")~,": 0.5, 
+            ",~and": 0.5
+        }, 
+        "homocysteine": {
+            "LDL.~Her": 1.0
+        }, 
+        "hospital": {
+            "improved~by": 1.0
+        }, 
+        "husband": {
+            "right.~Her": 1.0
+        }, 
+        "hypercholesterolemia": {
+            "HTN~,": 0.5, 
+            "hypertension~,": 0.5
+        }, 
+        "hypertension": {
+            "admitted~with": 0.25, 
+            "orthopnea.~PMHx:": 0.25, 
+            "recent~poorly-controlled": 0.25, 
+            "who~noted": 0.25
+        }, 
+        "hypertensive": {
+            "AM~|": 0.25, 
+            "Admission~)": 0.25, 
+            "ischemia/infarction~and": 0.25, 
+            "stroke~or": 0.25
+        }, 
+        "hypertropic": {
+            "for~right": 1.0
+        }, 
+        "improved": {
+            "hand~were": 1.0
+        }, 
+        "in": {
+            ",~change": 0.16666666666666666, 
+            "for~1": 0.16666666666666666, 
+            "muscle~groups": 0.16666666666666666, 
+            "strength~5/5": 0.16666666666666666, 
+            "to~walk": 0.16666666666666666, 
+            "without~deficits": 0.16666666666666666
+        }, 
+        "inability": {
+            "gait~(": 1.0
+        }, 
+        "include": {
+            "felt~to": 1.0
+        }, 
+        "includes": {
+            "Her~PMH": 1.0
+        }, 
+        "including": {
+            "heart~failure": 1.0
+        }, 
+        "infarction": {
+            "prior~myocardial": 1.0
+        }, 
+        "instructed": {
+            "She~was": 1.0
+        }, 
+        "instructs": {
+            "unless~MD": 1.0
+        }, 
+        "insufficiency": {
+            "chronic~renal": 1.0
+        }, 
+        "intermittent": {
+            ",~and": 1.0
+        }, 
+        "iodinated": {
+            "albuterol~All:": 1.0
+        }, 
+        "is": {
+            "weakness~that": 1.0
+        }, 
+        "ischemia/infarction": {
+            "include~cerebral": 1.0
+        }, 
+        "langua": {
+            "attention~,": 1.0
+        }, 
+        "leaning": {
+            "gait~,": 1.0
+        }, 
+        "left": {
+            ",~recurrent": 0.25, 
+            "Falls~to": 0.125, 
+            "diplopia~,": 0.125, 
+            "history~of": 0.125, 
+            "skew~,": 0.125, 
+            "speech~,": 0.125, 
+            "towards~the": 0.125
+        }, 
+        "left.": {
+            "on~the": 0.5, 
+            "to~the": 0.5
+        }, 
+        "leg": {
+            "arm~and": 1.0
+        }, 
+        "level": {
+            "Her~homocysteine": 0.5, 
+            "obtaining~a": 0.5
+        }, 
+        "light": {
+            "deficits~in": 1.0
+        }, 
+        "lipid": {
+            "left.~Her": 1.0
+        }, 
+        "localize": {
+            "do~not": 1.0
+        }, 
+        "loratadine": {
+            "atorvastatin~,": 1.0
+        }, 
+        "losartan": {
+            "contrast~,": 1.0
+        }, 
+        "loss": {
+            "binocular~visual": 1.0
+        }, 
+        "lower": {
+            ",~mostly": 0.5, 
+            "upper~and": 0.5
+        }, 
+        "maneuver": {
+            "on~valsalva": 1.0
+        }, 
+        "manifest": {
+            "10/26~(": 1.0
+        }, 
+        "memory": {
+            "ge~,": 1.0
+        }, 
+        "mg": {
+            "(~325": 0.5, 
+            "aspirin~325": 0.5
+        }, 
+        "mild": {
+            "bruits~HEART": 0.5, 
+            "notes~,": 0.5
+        }, 
+        "moist": {
+            "oral~mucosa": 1.0
+        }, 
+        "more": {
+            "with~a": 1.0
+        }, 
+        "morning": {
+            "awoke~this": 1.0
+        }, 
+        "mostly": {
+            "droop~,": 1.0
+        }, 
+        "movements": {
+            "fine~finger": 1.0
+        }, 
+        "mucosa": {
+            ",~oral": 1.0
+        }, 
+        "muscle": {
+            "in~all": 1.0
+        }, 
+        "muscles": {
+            "facial~expression": 1.0
+        }, 
+        "myocardial": {
+            ").~prior": 0.5, 
+            ",~prior": 0.5
+        }, 
+        "negative": {
+            "head~CT": 1.0
+        }, 
+        "no": {
+            "moist~NECK:": 0.25, 
+            "nondistended~EXT:": 0.25, 
+            "significant~for": 0.25, 
+            "tone~,": 0.25
+        }, 
+        "non-invasive": {
+            "for~carotid": 1.0
+        }, 
+        "nondistended": {
+            "nontender~,": 1.0
+        }, 
+        "none": {
+            "AND~PROCEDURES:": 1.0
+        }, 
+        "nontender": {
+            "soft~,": 1.0
+        }, 
+        "normal": {
+            "exam~with": 0.25, 
+            "hand~,": 0.25, 
+            "obtained~a": 0.25, 
+            "posture~,": 0.25
+        }, 
+        "not": {
+            "findings~do": 0.5, 
+            "pt~was": 0.5
+        }, 
+        "noted": {
+            "PCP~who": 1.0
+        }, 
+        "notes": {
+            "and~LMR": 1.0
+        }, 
+        "obstructive": {
+            ")~,": 0.5, 
+            "stroke~,": 0.5
+        }, 
+        "obtained": {
+            ",~who": 1.0
+        }, 
+        "obtaining": {
+            "and~reports": 1.0
+        }, 
+        "of": {
+            ",~history": 0.07692307692307693, 
+            "and~history": 0.07692307692307693, 
+            "as~symptoms": 0.07692307692307693, 
+            "a~level": 0.07692307692307693, 
+            "chronic~weakness": 0.07692307692307693, 
+            "for~evidence": 0.07692307692307693, 
+            "full~dose": 0.07692307692307693, 
+            "had~2-weeks": 0.07692307692307693, 
+            "her~dose": 0.15384615384615385, 
+            "mild~slowing": 0.07692307692307693, 
+            "ran~out": 0.07692307692307693, 
+            "second~episode": 0.07692307692307693
+        }, 
+        "old": {
+            "that~is": 1.0
+        }, 
+        "on": {
+            "contrast~passage": 0.125, 
+            "expression~muscles": 0.125, 
+            "normal~performance": 0.125, 
+            "no~deficits": 0.125, 
+            "of~240/150": 0.125, 
+            "the~left": 0.125, 
+            "to~left": 0.125, 
+            "was~placed": 0.125
+        }, 
+        "ophthalmologist": {
+            "to~an": 1.0
+        }, 
+        "or": {
+            "clubbing~,": 0.25, 
+            "heel~,": 0.25, 
+            "of~stroke": 0.25, 
+            "possible~stroke": 0.25
+        }, 
+        "oral": {
+            "anicteric~,": 1.0
+        }, 
+        "ordered": {
+            "MRI~was": 1.0
+        }, 
+        "orientation": {
+            "deficits~on": 1.0
+        }, 
+        "orthopnea.": {
+            "dyspnea~and": 0.5, 
+            "has~had": 0.5
+        }, 
+        "otherwise.": {
+            "MD~instructs": 1.0
+        }, 
+        "out": {
+            "she~ran": 1.0
+        }, 
+        "outpt": {
+            "has~an": 1.0
+        }, 
+        "ovale": {
+            "patent~foramen": 1.0
+        }, 
+        "pain": {
+            "headache~with": 0.5, 
+            "recent~chest": 0.5
+        }, 
+        "palsy": {
+            "left~Bell's": 1.0
+        }, 
+        "passage": {
+            "saline~contrast": 1.0
+        }, 
+        "patent": {
+            "a~possible": 1.0
+        }, 
+        "patient": {
+            ",~the": 0.5, 
+            "encephalopathy.~The": 0.5
+        }, 
+        "pedis": {
+            "and~dorsalis": 1.0
+        }, 
+        "per": {
+            "is~old": 1.0
+        }, 
+        "performance": {
+            ",~normal": 1.0
+        }, 
+        "phoned": {
+            "Her~husband": 1.0
+        }, 
+        "placed": {
+            "she~was": 1.0
+        }, 
+        "pnea": {
+            "exertional~dys": 1.0
+        }, 
+        "poorly-controlled": {
+            "had~recent": 1.0
+        }, 
+        "possible": {
+            "evaluate~for": 0.3333333333333333, 
+            "had~a": 0.3333333333333333, 
+            "symptoms~of": 0.3333333333333333
+        }, 
+        "posture": {
+            "with~upright": 1.0
+        }, 
+        "praxis.": {
+            ",~and": 1.0
+        }, 
+        "present": {
+            "\"confused.\"~At": 1.0
+        }, 
+        "pressures": {
+            "Her~blood": 1.0
+        }, 
+        "prior": {
+            "One~day": 0.2, 
+            "hypercholesterolemia~,": 0.4, 
+            "stroke~,": 0.2, 
+            "weakness~).": 0.2
+        }, 
+        "problem": {
+            "experienced~a": 1.0
+        }, 
+        "procedure": {
+            "tolerate~the": 1.0
+        }, 
+        "profile": {
+            "Her~lipid": 1.0
+        }, 
+        "prohibitive": {
+            "as~a": 1.0
+        }, 
+        "pronator": {
+            ",~no": 1.0
+        }, 
+        "prophylaxis.": {
+            "and~heart": 1.0
+        }, 
+        "pt": {
+            ",~the": 0.25, 
+            "DO/PLAN:~The": 0.25, 
+            "course:~the": 0.25, 
+            "old~per": 0.25
+        }, 
+        "pulses": {
+            "dorsalis~pedis": 1.0
+        }, 
+        "qd": {
+            "325~mg": 1.0
+        }, 
+        "radial": {
+            "or~edema;": 1.0
+        }, 
+        "radiating": {
+            "with~pain": 1.0
+        }, 
+        "raise": {
+            "instructed~to": 0.5, 
+            "weak~eyebrow": 0.5
+        }, 
+        "raising": {
+            "also~discuss": 1.0
+        }, 
+        "ran": {
+            ",~she": 1.0
+        }, 
+        "recent": {
+            ",~and": 0.25, 
+            "She~denies": 0.25, 
+            "hypertension~and": 0.25, 
+            "patient~had": 0.25
+        }, 
+        "recurrent": {
+            ")~,": 0.3333333333333333, 
+            ",~without": 0.3333333333333333, 
+            "apnea~,": 0.3333333333333333
+        }, 
+        "referred": {
+            "hypertension~and": 1.0
+        }, 
+        "reflexes": {
+            "sensation~,": 1.0
+        }, 
+        "regular": {
+            "ACTIVITY:~Resume": 0.5, 
+            "bradycardia~,": 0.5
+        }, 
+        "remained": {
+            "and~she": 0.5, 
+            "blood~pressures": 0.5
+        }, 
+        "renal": {
+            ",~chronic": 1.0
+        }, 
+        "report.": {
+            "exam~by": 1.0
+        }, 
+        "reports": {
+            "amlodipine~and": 1.0
+        }, 
+        "revealed": {
+            "lipid~profile": 1.0
+        }, 
+        "rhinitis": {
+            "(~allergic": 0.3333333333333333, 
+            ")~allergic": 0.3333333333333333, 
+            ",~allergic": 0.3333333333333333
+        }, 
+        "rhythm": {
+            ",~regular": 1.0
+        }, 
+        "right": {
+            "more~severe": 0.14285714285714285, 
+            "movements~,": 0.14285714285714285, 
+            "significant~for": 0.2857142857142857, 
+            "slowing~of": 0.14285714285714285, 
+            "to~the": 0.14285714285714285, 
+            "with~the": 0.14285714285714285
+        }, 
+        "right-handed": {
+            "59~year-old": 1.0
+        }, 
+        "right.": {
+            "to~the": 1.0
+        }, 
+        "s/p": {
+            "DEPRESSION~CAD": 1.0
+        }, 
+        "saline": {
+            "with~agitated": 1.0
+        }, 
+        "sat.": {
+            "Low~chol/low": 1.0
+        }, 
+        "saw": {
+            "admission~she": 1.0
+        }, 
+        "scheduled": {
+            "ultrasound~5/5/03": 1.0
+        }, 
+        "sclerae": {
+            "comfortable~HEENT": 1.0
+        }, 
+        "second": {
+            "a~2-3": 1.0
+        }, 
+        "seemed": {
+            "headache~and": 1.0
+        }, 
+        "self-monitoring.": {
+            "240/150~on": 1.0
+        }, 
+        "sensation": {
+            ",~vibratory": 1.0
+        }, 
+        "sensory": {
+            "heel-knee-shin~,": 1.0
+        }, 
+        "services": {
+            "Home~w/": 1.0
+        }, 
+        "severe": {
+            "a~more": 0.5, 
+            "had~a": 0.5
+        }, 
+        "she": {
+            "EMS~because": 0.16666666666666666, 
+            "Notably~,": 0.16666666666666666, 
+            "TTE~when": 0.16666666666666666, 
+            "admission~and": 0.16666666666666666, 
+            "continued~and": 0.16666666666666666, 
+            "to~admission": 0.16666666666666666
+        }, 
+        "should": {
+            ").~She": 0.3333333333333333, 
+            "The~pt": 0.3333333333333333, 
+            "supplementation.~She": 0.3333333333333333
+        }, 
+        "shoulder.": {
+            "the~right": 1.0
+        }, 
+        "significant": {
+            "CN~exam": 0.3333333333333333, 
+            "NEURO:~MS": 0.3333333333333333, 
+            "exam~was": 0.3333333333333333
+        }, 
+        "skew": {
+            "right~hypertropic": 1.0
+        }, 
+        "sleep": {
+            ",~obstructive": 1.0
+        }, 
+        "slightly": {
+            "bilaterally.~GAIT": 0.3333333333333333, 
+            "exam~with": 0.3333333333333333, 
+            "level~was": 0.3333333333333333
+        }, 
+        "slowed": {
+            "with~slightly": 1.0
+        }, 
+        "slowing": {
+            ",~mild": 1.0
+        }, 
+        "slurred": {
+            "manifest~as": 1.0
+        }, 
+        "soft": {
+            "USB~ABD": 1.0
+        }, 
+        "speech": {
+            "as~slurred": 1.0
+        }, 
+        "stable": {
+            "based~but": 1.0
+        }, 
+        "strength": {
+            "drift~,": 1.0
+        }, 
+        "stroke": {
+            "11/25~for": 0.125, 
+            "ADMIT~DIAGNOSIS:": 0.125, 
+            "TIA~versus": 0.125, 
+            "TIA~vs.": 0.25, 
+            "evidence~of": 0.125, 
+            "for~possible": 0.125, 
+            "qd~for": 0.125
+        }, 
+        "stroke.": {
+            "suspected~acute": 1.0
+        }, 
+        "studies": {
+            "carotid~non-invasive": 1.0
+        }, 
+        "summary": {
+            "No~dictated": 1.0
+        }, 
+        "supplement": {
+            "well~as": 1.0
+        }, 
+        "supplementation.": {
+            "take~folate": 1.0
+        }, 
+        "suspected": {
+            "admitted~for": 1.0
+        }, 
+        "symptoms": {
+            "well~as": 1.0
+        }, 
+        "take": {
+            "She~should": 0.5, 
+            "pt~should": 0.5
+        }, 
+        "tandem": {
+            "difficulty~with": 0.3333333333333333, 
+            "left~on": 0.6666666666666666
+        }, 
+        "temperature": {
+            "touch~,": 1.0
+        }, 
+        "tendency": {
+            ",~and": 1.0
+        }, 
+        "that": {
+            "facial~weakness": 1.0
+        }, 
+        "the": {
+            "1~in": 0.08333333333333333, 
+            "Hospital~course:": 0.08333333333333333, 
+            "Unfortunately~,": 0.08333333333333333, 
+            "falling~to": 0.08333333333333333, 
+            "fall~towards": 0.08333333333333333, 
+            "leaning~to": 0.08333333333333333, 
+            "movements~with": 0.08333333333333333, 
+            "muscles~on": 0.08333333333333333, 
+            "present~,": 0.08333333333333333, 
+            "radiating~to": 0.08333333333333333, 
+            "to~tolerate": 0.08333333333333333, 
+            "well~and": 0.08333333333333333
+        }, 
+        "this": {
+            "Recently~,": 0.3333333333333333, 
+            "She~awoke": 0.3333333333333333, 
+            "were~elevated": 0.3333333333333333
+        }, 
+        "throughout": {
+            "reflexes~2": 0.5, 
+            "remained~well-controlled": 0.5
+        }, 
+        "to": {
+            "(~inability": 0.07692307692307693, 
+            ",~falling": 0.07692307692307693, 
+            ",~leaning": 0.07692307692307693, 
+            "She~continued": 0.07692307692307693, 
+            "and~tendency": 0.07692307692307693, 
+            "day~prior": 0.07692307692307693, 
+            "not~able": 0.07692307692307693, 
+            "pain~radiating": 0.07692307692307693, 
+            "referred~her": 0.07692307692307693, 
+            "walk.~Falls": 0.07692307692307693, 
+            "was~felt": 0.07692307692307693, 
+            "was~instructed": 0.07692307692307693, 
+            "was~ordered": 0.07692307692307693
+        }, 
+        "toe": {
+            ",~or": 1.0
+        }, 
+        "toes": {
+            "ankles~,": 1.0
+        }, 
+        "tolerate": {
+            "able~to": 1.0
+        }, 
+        "tone": {
+            "with~normal": 1.0
+        }, 
+        "total": {
+            "revealed~elevated": 1.0
+        }, 
+        "touch": {
+            "in~light": 1.0
+        }, 
+        "towards": {
+            "to~fall": 1.0
+        }, 
+        "traumatic": {
+            "from~a": 1.0
+        }, 
+        "ultrasound": {
+            ",~carotid": 1.0
+        }, 
+        "unless": {
+            "Avoid~grapefruit": 1.0
+        }, 
+        "upper": {
+            "groups~in": 1.0
+        }, 
+        "upright": {
+            "gait~with": 1.0
+        }, 
+        "valsalva": {
+            "passage~on": 1.0
+        }, 
+        "versus": {
+            "prior~TIA": 1.0
+        }, 
+        "vertigo": {
+            "diplopia~,": 1.0
+        }, 
+        "vibratory": {
+            "temperature~,": 1.0
+        }, 
+        "vision": {
+            "(~blurred": 0.5, 
+            "intermittent~blurred": 0.5
+        }, 
+        "visual": {
+            "headaches~,": 0.5, 
+            "of~binocular": 0.5
+        }, 
+        "vs.": {
+            "of~TIA": 0.5, 
+            "prior~TIA": 0.5
+        }, 
+        "w/": {
+            "DISPOSITION:~Home": 1.0
+        }, 
+        "walk": {
+            "inability~to": 1.0
+        }, 
+        "walk.": {
+            "or~toe": 1.0
+        }, 
+        "was": {
+            "14.~She": 0.1, 
+            "An~MRI": 0.1, 
+            "Her~atenolol": 0.1, 
+            "Neurologic~exam": 0.1, 
+            "and~she": 0.1, 
+            "differential~diagnosis": 0.1, 
+            "homocysteine~level": 0.1, 
+            "the~pt": 0.2, 
+            "when~she": 0.1
+        }, 
+        "weak": {
+            "but~with": 1.0
+        }, 
+        "weakness": {
+            "and~leg": 0.3333333333333333, 
+            "left~facial": 0.3333333333333333, 
+            "with~chronic": 0.3333333333333333
+        }, 
+        "weakness.": {
+            ",~and": 1.0
+        }, 
+        "weeks": {
+            "Burdzel~3-4": 1.0
+        }, 
+        "well": {
+            ",~as": 0.25, 
+            "atorvastatin~as": 0.25, 
+            "hypertension~as": 0.25, 
+            "not~localize": 0.25
+        }, 
+        "well-controlled": {
+            "pressures~remained": 1.0
+        }, 
+        "well.": {
+            "raise~as": 1.0
+        }, 
+        "were": {
+            "and~LDL": 0.5, 
+            "right~hand": 0.5
+        }, 
+        "when": {
+            "maneuver~TTE": 1.0
+        }, 
+        "while": {
+            "blurred~vision": 1.0
+        }, 
+        "who": {
+            "her~PCP": 0.5, 
+            "ophthalmologist~,": 0.5
+        }, 
+        "wided": {
+            "GAIT~slightly": 1.0
+        }, 
+        "with": {
+            "Coordination~exam": 0.06666666666666667, 
+            "Lipitor~)": 0.06666666666666667, 
+            "Motor~exam": 0.06666666666666667, 
+            "No~difficulty": 0.06666666666666667, 
+            "a~problem": 0.06666666666666667, 
+            "face~but": 0.06666666666666667, 
+            "finger~movements": 0.06666666666666667, 
+            "foramen~ovale": 0.06666666666666667, 
+            "frontal~headache": 0.06666666666666667, 
+            "have~difficulty": 0.06666666666666667, 
+            "her~diet": 0.06666666666666667, 
+            "stable~gait": 0.06666666666666667, 
+            "this~morning": 0.06666666666666667, 
+            "was~admitted": 0.06666666666666667, 
+            "x~3": 0.06666666666666667
+        }, 
+        "without": {
+            "CT~head": 0.25, 
+            "asymptomatic~,": 0.25, 
+            "hypertropic~skew": 0.25, 
+            "sensory~exam": 0.25
+        }, 
+        "woman": {
+            ",~this": 0.3333333333333333, 
+            "GEN~#obese#": 0.3333333333333333, 
+            "year-old~right-handed": 0.3333333333333333
+        }, 
+        "work-up.": {
+            "for~stroke": 1.0
+        }, 
+        "x": {
+            "Bell's~palsy": 1.0
+        }, 
+        "year-old": {
+            "COURSE:~59": 1.0
+        }, 
+        "|": {
+            "12:00:00~AM": 0.1111111111111111, 
+            "48258003~|": 0.1111111111111111, 
+            "encephalopathy~|": 0.1111111111111111, 
+            "hypertensive~encephalopathy": 0.1111111111111111, 
+            "|~48258003": 0.1111111111111111, 
+            "|~6674395": 0.1111111111111111, 
+            "|~C": 0.1111111111111111, 
+            "|~DIS": 0.1111111111111111, 
+            "~227621712": 0.1111111111111111
+        }
+    }, 
+    "type": "data/test", 
+    "uni": {
+        "": 0.0009363295880149813, 
+        "\"confused.\"": 0.0009363295880149813, 
+        "#obese#": 0.0028089887640449437, 
+        "'84": 0.0009363295880149813, 
+        "(": 0.014044943820224719, 
+        ")": 0.013108614232209739, 
+        ").": 0.0018726591760299626, 
+        "):": 0.0009363295880149813, 
+        "******": 0.0028089887640449437, 
+        ",": 0.08052434456928839, 
+        "/": 0.0009363295880149813, 
+        "05": 0.0009363295880149813, 
+        "05:00": 0.0009363295880149813, 
+        "1": 0.0018726591760299626, 
+        "1.5": 0.0009363295880149813, 
+        "10": 0.0009363295880149813, 
+        "10/16/2003": 0.0018726591760299626, 
+        "10/25/03.": 0.0009363295880149813, 
+        "10/26": 0.0009363295880149813, 
+        "11/25": 0.0009363295880149813, 
+        "12:00:00": 0.0009363295880149813, 
+        "14.": 0.0009363295880149813, 
+        "150/90": 0.0009363295880149813, 
+        "1984": 0.0018726591760299626, 
+        "2": 0.0009363295880149813, 
+        "2+": 0.0009363295880149813, 
+        "2-3": 0.0009363295880149813, 
+        "2-weeks": 0.0009363295880149813, 
+        "2.": 0.0009363295880149813, 
+        "227621712": 0.0009363295880149813, 
+        "240/150": 0.0009363295880149813, 
+        "25": 0.0009363295880149813, 
+        "3": 0.0009363295880149813, 
+        "3-4": 0.0009363295880149813, 
+        "3/10/03": 0.0018726591760299626, 
+        "325": 0.0028089887640449437, 
+        "4": 0.0009363295880149813, 
+        "4/13/03.": 0.0009363295880149813, 
+        "4/4": 0.0009363295880149813, 
+        "4/9/2003": 0.0009363295880149813, 
+        "40": 0.0009363295880149813, 
+        "453-25-44-7": 0.0009363295880149813, 
+        "48258003": 0.0009363295880149813, 
+        "5/5": 0.0009363295880149813, 
+        "5/5/03": 0.0009363295880149813, 
+        "50": 0.0009363295880149813, 
+        "57": 0.0009363295880149813, 
+        "59": 0.0009363295880149813, 
+        "6674395": 0.0009363295880149813, 
+        "81": 0.0009363295880149813, 
+        "97.2": 0.0009363295880149813, 
+        ";Responsible": 0.0009363295880149813, 
+        "@": 0.0009363295880149813, 
+        "ABD": 0.0009363295880149813, 
+        "ACETYLSALICYLIC": 0.0009363295880149813, 
+        "ACID": 0.0018726591760299626, 
+        "ACTIVITY:": 0.0009363295880149813, 
+        "ADDITIONAL": 0.0009363295880149813, 
+        "ADMIT": 0.0009363295880149813, 
+        "ALLERGY:": 0.0009363295880149813, 
+        "AM": 0.0018726591760299626, 
+        "AMLODIPINE": 0.0009363295880149813, 
+        "AND": 0.0009363295880149813, 
+        "APPOINTMENT(": 0.0009363295880149813, 
+        "AS": 0.0009363295880149813, 
+        "ASA": 0.0009363295880149813, 
+        "AT": 0.0009363295880149813, 
+        "ATENOLOL": 0.0009363295880149813, 
+        "ATORVASTATIN": 0.0009363295880149813, 
+        "Admission": 0.0018726591760299626, 
+        "After": 0.0009363295880149813, 
+        "All:": 0.0009363295880149813, 
+        "An": 0.0009363295880149813, 
+        "Applicable": 0.0009363295880149813, 
+        "At": 0.0009363295880149813, 
+        "Attending:": 0.0009363295880149813, 
+        "Avoid": 0.0009363295880149813, 
+        "BE": 0.0009363295880149813, 
+        "BP": 0.0009363295880149813, 
+        "BRIEF": 0.0009363295880149813, 
+        "BY:": 0.0009363295880149813, 
+        "Bell's": 0.0028089887640449437, 
+        "Burdzel": 0.0009363295880149813, 
+        "C": 0.0009363295880149813, 
+        "CAD": 0.0009363295880149813, 
+        "CHOW": 0.0009363295880149813, 
+        "CN": 0.0009363295880149813, 
+        "COMMENTS:": 0.0009363295880149813, 
+        "CONDITION:": 0.0009363295880149813, 
+        "CONTINGENT": 0.0009363295880149813, 
+        "COURSE:": 0.0009363295880149813, 
+        "CT": 0.0018726591760299626, 
+        "Causing": 0.0009363295880149813, 
+        "Co": 0.0009363295880149813, 
+        "Complications": 0.0009363295880149813, 
+        "Coordination": 0.0009363295880149813, 
+        "D/C": 0.0018726591760299626, 
+        "DEPRESSION": 0.0009363295880149813, 
+        "DIAGNOSIS": 0.0009363295880149813, 
+        "DIAGNOSIS:": 0.0009363295880149813, 
+        "DIAGNOSIS;Conditions": 0.0009363295880149813, 
+        "DIET:": 0.0018726591760299626, 
+        "DIS": 0.0009363295880149813, 
+        "DISCHARGE": 0.0056179775280898875, 
+        "DISPOSITION:": 0.0009363295880149813, 
+        "DO/PLAN:": 0.0009363295880149813, 
+        "Date:": 0.0018726591760299626, 
+        "Discharge": 0.0009363295880149813, 
+        "Dr.": 0.0009363295880149813, 
+        "EMS": 0.0009363295880149813, 
+        "END": 0.0009363295880149813, 
+        "ENTERED": 0.0009363295880149813, 
+        "EXT:": 0.0009363295880149813, 
+        "Ey": 0.0009363295880149813, 
+        "FOLATE": 0.0009363295880149813, 
+        "FOLIC": 0.0009363295880149813, 
+        "FOLLOW": 0.0009363295880149813, 
+        "Fair": 0.0009363295880149813, 
+        "Falls": 0.0009363295880149813, 
+        "Food/Drug": 0.0009363295880149813, 
+        "GAIT": 0.0009363295880149813, 
+        "GEN": 0.0009363295880149813, 
+        "HCTZ": 0.0009363295880149813, 
+        "HEART": 0.0009363295880149813, 
+        "HEENT": 0.0009363295880149813, 
+        "HOLD": 0.0009363295880149813, 
+        "HOSPITAL": 0.0009363295880149813, 
+        "HR": 0.0009363295880149813, 
+        "HR<55": 0.0009363295880149813, 
+        "HTN": 0.0018726591760299626, 
+        "HYDROCHLOROTHIAZIDE": 0.0009363295880149813, 
+        "HYPERCHOLESTEROLEMIA": 0.0009363295880149813, 
+        "Her": 0.006554307116104869, 
+        "Home": 0.0009363295880149813, 
+        "Hospital": 0.0009363295880149813, 
+        "House": 0.0009363295880149813, 
+        "IF:": 0.0009363295880149813, 
+        "II/VI": 0.0009363295880149813, 
+        "IN": 0.0018726591760299626, 
+        "IQ99": 0.0009363295880149813, 
+        "Infections": 0.0009363295880149813, 
+        "Instruction": 0.0009363295880149813, 
+        "Interaction": 0.0009363295880149813, 
+        "JEFFERSON": 0.0009363295880149813, 
+        "KIRBY": 0.0009363295880149813, 
+        "LDL": 0.0009363295880149813, 
+        "LDL.": 0.0009363295880149813, 
+        "LENARD": 0.0009363295880149813, 
+        "LIDDER": 0.0009363295880149813, 
+        "LMR": 0.0009363295880149813, 
+        "Lipitor": 0.0009363295880149813, 
+        "Losartan": 0.0009363295880149813, 
+        "Low": 0.0009363295880149813, 
+        "M.D.": 0.0018726591760299626, 
+        "MD": 0.0009363295880149813, 
+        "MEDICATIONS:": 0.0009363295880149813, 
+        "MG": 0.0056179775280898875, 
+        "MI": 0.0009363295880149813, 
+        "MIKEL": 0.0009363295880149813, 
+        "MRI": 0.0009363295880149813, 
+        "MS": 0.0009363295880149813, 
+        "Meds:": 0.0009363295880149813, 
+        "Motor": 0.0009363295880149813, 
+        "NECK:": 0.0009363295880149813, 
+        "NEU": 0.0009363295880149813, 
+        "NEURO:": 0.0009363295880149813, 
+        "NOT": 0.0009363295880149813, 
+        "Neurologic": 0.0009363295880149813, 
+        "No": 0.0018726591760299626, 
+        "Non-contrast": 0.0009363295880149813, 
+        "Not": 0.0009363295880149813, 
+        "Notably": 0.0009363295880149813, 
+        "O.R.": 0.0009363295880149813, 
+        "OF": 0.0018726591760299626, 
+        "ON:": 0.0009363295880149813, 
+        "OPERATIONS": 0.0009363295880149813, 
+        "ORDER": 0.0009363295880149813, 
+        "ORDERS": 0.0009363295880149813, 
+        "OTHER": 0.0018726591760299626, 
+        "One": 0.0009363295880149813, 
+        "PATIENT": 0.0009363295880149813, 
+        "PCP": 0.0028089887640449437, 
+        "PM": 0.0009363295880149813, 
+        "PMH": 0.0009363295880149813, 
+        "PMHx:": 0.0009363295880149813, 
+        "PO": 0.0056179775280898875, 
+        "PRINCIPAL": 0.0009363295880149813, 
+        "PRN": 0.0009363295880149813, 
+        "PROCEDURES:": 0.0009363295880149813, 
+        "Perfume": 0.0009363295880149813, 
+        "QD": 0.0056179775280898875, 
+        "R": 0.0009363295880149813, 
+        "RESUME": 0.0009363295880149813, 
+        "Recently": 0.0009363295880149813, 
+        "Report": 0.0009363295880149813, 
+        "Resume": 0.0009363295880149813, 
+        "S": 0.0009363295880149813, 
+        "SANDY": 0.0009363295880149813, 
+        "SBP<120": 0.0009363295880149813, 
+        "SEM": 0.0009363295880149813, 
+        "STAIRES": 0.0009363295880149813, 
+        "SUMMARY:": 0.0009363295880149813, 
+        "Service:": 0.0009363295880149813, 
+        "She": 0.008426966292134831, 
+        "Sodium": 0.0009363295880149813, 
+        "Starting": 0.0009363295880149813, 
+        "Status:": 0.0009363295880149813, 
+        "Stobelle": 0.0009363295880149813, 
+        "Study": 0.0009363295880149813, 
+        "T": 0.0009363295880149813, 
+        "THE": 0.0009363295880149813, 
+        "TIA": 0.0028089887640449437, 
+        "TO": 0.0009363295880149813, 
+        "TREATMENTS/PROCEDURES": 0.0009363295880149813, 
+        "TTE": 0.0009363295880149813, 
+        "The": 0.0018726591760299626, 
+        "These": 0.0009363295880149813, 
+        "Treatment/Stay": 0.0009363295880149813, 
+        "UP": 0.0009363295880149813, 
+        "UPON": 0.0009363295880149813, 
+        "USB": 0.0009363295880149813, 
+        "USED": 0.0009363295880149813, 
+        "Unfortunately": 0.0009363295880149813, 
+        "VS:": 0.0009363295880149813, 
+        "WILL": 0.0009363295880149813, 
+        "YES": 0.0009363295880149813, 
+        "a": 0.009363295880149813, 
+        "able": 0.0009363295880149813, 
+        "acid.": 0.0009363295880149813, 
+        "acute": 0.0009363295880149813, 
+        "admission": 0.0018726591760299626, 
+        "admission.": 0.0009363295880149813, 
+        "admitted": 0.0028089887640449437, 
+        "affecting": 0.0009363295880149813, 
+        "agitated": 0.0009363295880149813, 
+        "albuterol": 0.0009363295880149813, 
+        "all": 0.0009363295880149813, 
+        "allergic": 0.0028089887640449437, 
+        "also": 0.0018726591760299626, 
+        "amlodipine": 0.0018726591760299626, 
+        "an": 0.0018726591760299626, 
+        "and": 0.023408239700374533, 
+        "anicteric": 0.0009363295880149813, 
+        "ankles": 0.0009363295880149813, 
+        "apnea": 0.0018726591760299626, 
+        "appointment": 0.0009363295880149813, 
+        "arm": 0.0009363295880149813, 
+        "arm-swing.": 0.0009363295880149813, 
+        "around": 0.0009363295880149813, 
+        "artery": 0.0009363295880149813, 
+        "as": 0.008426966292134831, 
+        "aspirin": 0.0018726591760299626, 
+        "asymptomatic": 0.0009363295880149813, 
+        "at": 0.0018726591760299626, 
+        "atenolol": 0.0018726591760299626, 
+        "atorvastatin": 0.0028089887640449437, 
+        "attention": 0.0009363295880149813, 
+        "awoke": 0.0009363295880149813, 
+        "based": 0.0009363295880149813, 
+        "baseline": 0.0009363295880149813, 
+        "because": 0.0018726591760299626, 
+        "bilaterally.": 0.0009363295880149813, 
+        "binocular": 0.0009363295880149813, 
+        "blood": 0.0009363295880149813, 
+        "blurred": 0.0018726591760299626, 
+        "bradycardia": 0.0009363295880149813, 
+        "bruits": 0.0009363295880149813, 
+        "but": 0.0028089887640449437, 
+        "by": 0.0028089887640449437, 
+        "carotid": 0.0018726591760299626, 
+        "cerebral": 0.0009363295880149813, 
+        "change": 0.0009363295880149813, 
+        "changes": 0.0009363295880149813, 
+        "chest": 0.0009363295880149813, 
+        "childhood": 0.0009363295880149813, 
+        "chol/low": 0.0009363295880149813, 
+        "cholesterol": 0.0018726591760299626, 
+        "chronic": 0.0028089887640449437, 
+        "citing": 0.0009363295880149813, 
+        "claustrophobia": 0.0009363295880149813, 
+        "clubbing": 0.0009363295880149813, 
+        "comfortable": 0.0009363295880149813, 
+        "confusion": 0.0018726591760299626, 
+        "confusion.": 0.0009363295880149813, 
+        "continued": 0.0018726591760299626, 
+        "contrast": 0.0028089887640449437, 
+        "coronary": 0.0009363295880149813, 
+        "course:": 0.0009363295880149813, 
+        "creatinine": 0.0009363295880149813, 
+        "cyanosis": 0.0009363295880149813, 
+        "day": 0.0018726591760299626, 
+        "deficits": 0.0018726591760299626, 
+        "denies": 0.0018726591760299626, 
+        "diagnosis": 0.0009363295880149813, 
+        "dictated": 0.0009363295880149813, 
+        "diet": 0.0009363295880149813, 
+        "differential": 0.0009363295880149813, 
+        "difficulty": 0.0018726591760299626, 
+        "diplopia": 0.0018726591760299626, 
+        "discuss": 0.0009363295880149813, 
+        "disease": 0.0009363295880149813, 
+        "do": 0.0009363295880149813, 
+        "dorsalis": 0.0009363295880149813, 
+        "dose": 0.0028089887640449437, 
+        "downgoing": 0.0009363295880149813, 
+        "drift": 0.0009363295880149813, 
+        "driving": 0.0009363295880149813, 
+        "droop": 0.0009363295880149813, 
+        "dys": 0.0009363295880149813, 
+        "dysarthria.": 0.0009363295880149813, 
+        "dysphagia": 0.0009363295880149813, 
+        "dyspnea": 0.0009363295880149813, 
+        "edema;": 0.0009363295880149813, 
+        "elevated": 0.0028089887640449437, 
+        "encephalopathy": 0.0018726591760299626, 
+        "encephalopathy.": 0.0018726591760299626, 
+        "episode": 0.0009363295880149813, 
+        "evaluate": 0.0009363295880149813, 
+        "evidence": 0.0009363295880149813, 
+        "exam": 0.0056179775280898875, 
+        "except": 0.0009363295880149813, 
+        "exercise": 0.0009363295880149813, 
+        "exertional": 0.0018726591760299626, 
+        "experience": 0.0009363295880149813, 
+        "experienced": 0.0009363295880149813, 
+        "expression": 0.0009363295880149813, 
+        "extremities.": 0.0009363295880149813, 
+        "eyebrow": 0.0009363295880149813, 
+        "face": 0.0009363295880149813, 
+        "facial": 0.0028089887640449437, 
+        "factor.": 0.0009363295880149813, 
+        "failure": 0.0009363295880149813, 
+        "fall": 0.0009363295880149813, 
+        "falling": 0.0009363295880149813, 
+        "fat": 0.0009363295880149813, 
+        "fatigue": 0.0009363295880149813, 
+        "felt": 0.0009363295880149813, 
+        "findings": 0.0009363295880149813, 
+        "fine": 0.0028089887640449437, 
+        "finger": 0.0028089887640449437, 
+        "finger-nose-finger": 0.0009363295880149813, 
+        "folate": 0.0009363295880149813, 
+        "folic": 0.0009363295880149813, 
+        "followed": 0.0009363295880149813, 
+        "for": 0.010299625468164793, 
+        "foramen": 0.0009363295880149813, 
+        "frequent": 0.0009363295880149813, 
+        "from": 0.0009363295880149813, 
+        "frontal": 0.0009363295880149813, 
+        "full": 0.0009363295880149813, 
+        "gait": 0.003745318352059925, 
+        "gait.": 0.0018726591760299626, 
+        "ge": 0.0009363295880149813, 
+        "general": 0.0009363295880149813, 
+        "gram": 0.0009363295880149813, 
+        "grapefruit": 0.0009363295880149813, 
+        "groups": 0.0009363295880149813, 
+        "had": 0.0046816479400749065, 
+        "hand": 0.0018726591760299626, 
+        "has": 0.0028089887640449437, 
+        "have": 0.0009363295880149813, 
+        "head": 0.0018726591760299626, 
+        "headache": 0.003745318352059925, 
+        "headaches": 0.0018726591760299626, 
+        "heart": 0.0018726591760299626, 
+        "heel": 0.0009363295880149813, 
+        "heel-knee-shin": 0.0009363295880149813, 
+        "heels": 0.0009363295880149813, 
+        "hemorrhage.": 0.0009363295880149813, 
+        "her": 0.006554307116104869, 
+        "history": 0.0018726591760299626, 
+        "homocysteine": 0.0009363295880149813, 
+        "hospital": 0.0009363295880149813, 
+        "husband": 0.0009363295880149813, 
+        "hypercholesterolemia": 0.0018726591760299626, 
+        "hypertension": 0.003745318352059925, 
+        "hypertensive": 0.003745318352059925, 
+        "hypertropic": 0.0018726591760299626, 
+        "improved": 0.0009363295880149813, 
+        "in": 0.0056179775280898875, 
+        "inability": 0.0009363295880149813, 
+        "include": 0.0009363295880149813, 
+        "includes": 0.0009363295880149813, 
+        "including": 0.0009363295880149813, 
+        "infarction": 0.0018726591760299626, 
+        "instructed": 0.0009363295880149813, 
+        "instructs": 0.0009363295880149813, 
+        "insufficiency": 0.0018726591760299626, 
+        "intermittent": 0.0009363295880149813, 
+        "iodinated": 0.0009363295880149813, 
+        "is": 0.0009363295880149813, 
+        "ischemia/infarction": 0.0009363295880149813, 
+        "langua": 0.0009363295880149813, 
+        "leaning": 0.0009363295880149813, 
+        "left": 0.00749063670411985, 
+        "left.": 0.0018726591760299626, 
+        "leg": 0.0009363295880149813, 
+        "level": 0.0018726591760299626, 
+        "light": 0.0009363295880149813, 
+        "lipid": 0.0009363295880149813, 
+        "localize": 0.0009363295880149813, 
+        "loratadine": 0.0009363295880149813, 
+        "losartan": 0.0009363295880149813, 
+        "loss": 0.0009363295880149813, 
+        "lower": 0.0018726591760299626, 
+        "maneuver": 0.0009363295880149813, 
+        "manifest": 0.0009363295880149813, 
+        "memory": 0.0009363295880149813, 
+        "mg": 0.0018726591760299626, 
+        "mild": 0.0018726591760299626, 
+        "moist": 0.0009363295880149813, 
+        "more": 0.0009363295880149813, 
+        "morning": 0.0009363295880149813, 
+        "mostly": 0.0009363295880149813, 
+        "movements": 0.0028089887640449437, 
+        "mucosa": 0.0009363295880149813, 
+        "muscle": 0.0009363295880149813, 
+        "muscles": 0.0009363295880149813, 
+        "myocardial": 0.0018726591760299626, 
+        "negative": 0.0009363295880149813, 
+        "no": 0.003745318352059925, 
+        "non-invasive": 0.0009363295880149813, 
+        "nondistended": 0.0009363295880149813, 
+        "none": 0.0009363295880149813, 
+        "nontender": 0.0009363295880149813, 
+        "normal": 0.003745318352059925, 
+        "not": 0.0018726591760299626, 
+        "noted": 0.0009363295880149813, 
+        "notes": 0.0009363295880149813, 
+        "obstructive": 0.0018726591760299626, 
+        "obtained": 0.0009363295880149813, 
+        "obtaining": 0.0009363295880149813, 
+        "of": 0.012172284644194757, 
+        "old": 0.0009363295880149813, 
+        "on": 0.00749063670411985, 
+        "ophthalmologist": 0.0009363295880149813, 
+        "or": 0.003745318352059925, 
+        "oral": 0.0009363295880149813, 
+        "ordered": 0.0009363295880149813, 
+        "orientation": 0.0009363295880149813, 
+        "orthopnea.": 0.0018726591760299626, 
+        "otherwise.": 0.0009363295880149813, 
+        "out": 0.0009363295880149813, 
+        "outpt": 0.0009363295880149813, 
+        "ovale": 0.0009363295880149813, 
+        "pain": 0.0018726591760299626, 
+        "palsy": 0.0028089887640449437, 
+        "passage": 0.0009363295880149813, 
+        "patent": 0.0009363295880149813, 
+        "patient": 0.0018726591760299626, 
+        "pedis": 0.0009363295880149813, 
+        "per": 0.0009363295880149813, 
+        "performance": 0.0009363295880149813, 
+        "phoned": 0.0009363295880149813, 
+        "placed": 0.0009363295880149813, 
+        "pnea": 0.0009363295880149813, 
+        "poorly-controlled": 0.0009363295880149813, 
+        "possible": 0.0028089887640449437, 
+        "posture": 0.0009363295880149813, 
+        "praxis.": 0.0009363295880149813, 
+        "present": 0.0009363295880149813, 
+        "pressures": 0.0009363295880149813, 
+        "prior": 0.0046816479400749065, 
+        "problem": 0.0009363295880149813, 
+        "procedure": 0.0009363295880149813, 
+        "profile": 0.0009363295880149813, 
+        "prohibitive": 0.0009363295880149813, 
+        "pronator": 0.0009363295880149813, 
+        "prophylaxis.": 0.0009363295880149813, 
+        "pt": 0.003745318352059925, 
+        "pulses": 0.0009363295880149813, 
+        "qd": 0.0009363295880149813, 
+        "radial": 0.0009363295880149813, 
+        "radiating": 0.0009363295880149813, 
+        "raise": 0.0018726591760299626, 
+        "raising": 0.0009363295880149813, 
+        "ran": 0.0009363295880149813, 
+        "recent": 0.003745318352059925, 
+        "recurrent": 0.0028089887640449437, 
+        "referred": 0.0009363295880149813, 
+        "reflexes": 0.0009363295880149813, 
+        "regular": 0.0018726591760299626, 
+        "remained": 0.0018726591760299626, 
+        "renal": 0.0018726591760299626, 
+        "report.": 0.0009363295880149813, 
+        "reports": 0.0009363295880149813, 
+        "revealed": 0.0009363295880149813, 
+        "rhinitis": 0.0028089887640449437, 
+        "rhythm": 0.0009363295880149813, 
+        "right": 0.006554307116104869, 
+        "right-handed": 0.0009363295880149813, 
+        "right.": 0.0009363295880149813, 
+        "s/p": 0.0009363295880149813, 
+        "saline": 0.0009363295880149813, 
+        "sat.": 0.0009363295880149813, 
+        "saw": 0.0009363295880149813, 
+        "scheduled": 0.0009363295880149813, 
+        "sclerae": 0.0009363295880149813, 
+        "second": 0.0009363295880149813, 
+        "seemed": 0.0009363295880149813, 
+        "self-monitoring.": 0.0009363295880149813, 
+        "sensation": 0.0009363295880149813, 
+        "sensory": 0.0009363295880149813, 
+        "services": 0.0009363295880149813, 
+        "severe": 0.0018726591760299626, 
+        "she": 0.0056179775280898875, 
+        "should": 0.0028089887640449437, 
+        "shoulder.": 0.0009363295880149813, 
+        "significant": 0.0028089887640449437, 
+        "skew": 0.0018726591760299626, 
+        "sleep": 0.0018726591760299626, 
+        "slightly": 0.0028089887640449437, 
+        "slowed": 0.0009363295880149813, 
+        "slowing": 0.0009363295880149813, 
+        "slurred": 0.0009363295880149813, 
+        "soft": 0.0009363295880149813, 
+        "speech": 0.0009363295880149813, 
+        "stable": 0.0009363295880149813, 
+        "strength": 0.0009363295880149813, 
+        "stroke": 0.00749063670411985, 
+        "stroke.": 0.0009363295880149813, 
+        "studies": 0.0009363295880149813, 
+        "summary": 0.0009363295880149813, 
+        "supplement": 0.0009363295880149813, 
+        "supplementation.": 0.0009363295880149813, 
+        "suspected": 0.0009363295880149813, 
+        "symptoms": 0.0009363295880149813, 
+        "take": 0.0018726591760299626, 
+        "tandem": 0.0028089887640449437, 
+        "temperature": 0.0009363295880149813, 
+        "tendency": 0.0009363295880149813, 
+        "that": 0.0009363295880149813, 
+        "the": 0.011235955056179775, 
+        "this": 0.0028089887640449437, 
+        "throughout": 0.0018726591760299626, 
+        "to": 0.012172284644194757, 
+        "toe": 0.0009363295880149813, 
+        "toes": 0.0009363295880149813, 
+        "tolerate": 0.0009363295880149813, 
+        "tone": 0.0009363295880149813, 
+        "total": 0.0009363295880149813, 
+        "touch": 0.0009363295880149813, 
+        "towards": 0.0009363295880149813, 
+        "traumatic": 0.0009363295880149813, 
+        "ultrasound": 0.0009363295880149813, 
+        "unless": 0.0009363295880149813, 
+        "upper": 0.0009363295880149813, 
+        "upright": 0.0009363295880149813, 
+        "valsalva": 0.0009363295880149813, 
+        "versus": 0.0009363295880149813, 
+        "vertigo": 0.0009363295880149813, 
+        "vibratory": 0.0009363295880149813, 
+        "vision": 0.0018726591760299626, 
+        "visual": 0.0018726591760299626, 
+        "vs.": 0.0018726591760299626, 
+        "w/": 0.0009363295880149813, 
+        "walk": 0.0009363295880149813, 
+        "walk.": 0.0009363295880149813, 
+        "was": 0.009363295880149813, 
+        "weak": 0.0009363295880149813, 
+        "weakness": 0.0028089887640449437, 
+        "weakness.": 0.0009363295880149813, 
+        "weeks": 0.0009363295880149813, 
+        "well": 0.003745318352059925, 
+        "well-controlled": 0.0009363295880149813, 
+        "well.": 0.0009363295880149813, 
+        "were": 0.0018726591760299626, 
+        "when": 0.0009363295880149813, 
+        "while": 0.0009363295880149813, 
+        "who": 0.0018726591760299626, 
+        "wided": 0.0009363295880149813, 
+        "with": 0.014044943820224719, 
+        "without": 0.003745318352059925, 
+        "woman": 0.0028089887640449437, 
+        "work-up.": 0.0009363295880149813, 
+        "x": 0.0009363295880149813, 
+        "year-old": 0.0009363295880149813, 
+        "|": 0.008426966292134831
+    }
+}

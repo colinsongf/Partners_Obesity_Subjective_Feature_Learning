@@ -1,0 +1,2479 @@
+{
+    "bi": {
+        "#obese#": {
+            "morbid": 1.0
+        }, 
+        "(": {
+            "LESLEY": 0.2, 
+            "PHENERGAN": 0.2, 
+            "SOLUTION": 0.2, 
+            "TREATMENTS/PROCEDURES": 0.2, 
+            "fevers": 0.2
+        }, 
+        ")": {
+            "Admission": 0.16666666666666666, 
+            "HCL": 0.16666666666666666, 
+            "LIQUID": 0.16666666666666666, 
+            "O.R.": 0.16666666666666666, 
+            "YN831": 0.16666666666666666, 
+            "temp>101.5": 0.16666666666666666
+        }, 
+        "):": {
+            "S": 1.0
+        }, 
+        "******": {
+            "1/12/2006": 0.3333333333333333, 
+            "ORDERS": 0.3333333333333333, 
+            "PM": 0.3333333333333333
+        }, 
+        ",": {
+            ")": 0.034482758620689655, 
+            "C/D/I": 0.034482758620689655, 
+            "Complications": 0.034482758620689655, 
+            "DIAGNOSIS;Conditions": 0.034482758620689655, 
+            "FORAND": 0.034482758620689655, 
+            "Infections": 0.034482758620689655, 
+            "KORY": 0.034482758620689655, 
+            "LAMANNA": 0.034482758620689655, 
+            "PENNELL": 0.034482758620689655, 
+            "bathe": 0.034482758620689655, 
+            "breath": 0.034482758620689655, 
+            "capsules": 0.034482758620689655, 
+            "condition": 0.034482758620689655, 
+            "gerd": 0.034482758620689655, 
+            "htn": 0.034482758620689655, 
+            "incision": 0.034482758620689655, 
+            "independently": 0.034482758620689655, 
+            "negative": 0.034482758620689655, 
+            "pain": 0.10344827586206896, 
+            "pills": 0.034482758620689655, 
+            "soak": 0.034482758620689655, 
+            "sob": 0.034482758620689655, 
+            "surgery": 0.034482758620689655, 
+            "swim": 0.034482758620689655, 
+            "unremarkable": 0.034482758620689655, 
+            "weeks": 0.06896551724137931
+        }, 
+        "01:00": {
+            "@": 1.0
+        }, 
+        "1-2": {
+            "Boomershine": 0.3333333333333333, 
+            "Rabalais": 0.3333333333333333, 
+            "in": 0.3333333333333333
+        }, 
+        "1/12/2006": {
+            "Date:": 1.0
+        }, 
+        "128-46-61-9": {
+            "DANIAL": 1.0
+        }, 
+        "12:00": {
+            "AT": 1.0
+        }, 
+        "12:00:00": {
+            "3/11/2006": 1.0
+        }, 
+        "2": {
+            "for": 0.3333333333333333, 
+            "shower": 0.3333333333333333, 
+            "test": 0.3333333333333333
+        }, 
+        "25": {
+            ")": 1.0
+        }, 
+        "28835228": {
+            "|": 1.0
+        }, 
+        "3/1/06": {
+            "on": 1.0
+        }, 
+        "3/11/2006": {
+            "|": 1.0
+        }, 
+        "3/15/06": {
+            ")": 0.5, 
+            "ON:": 0.5
+        }, 
+        "3692827": {
+            "|": 1.0
+        }, 
+        "451840844": {
+            "": 1.0
+        }, 
+        "5-10": {
+            ")": 1.0
+        }, 
+        "5/25/2006": {
+            "Date:": 1.0
+        }, 
+        ";Responsible": {
+            "DIAGNOSIS": 1.0
+        }, 
+        "@": {
+            "3/15/06": 1.0
+        }, 
+        "ACTIVITY:": {
+            "II": 1.0
+        }, 
+        "ADDITIONAL": {
+            "weeks.": 1.0
+        }, 
+        "ADMIT": {
+            "Unknown": 1.0
+        }, 
+        "ALLERGY:": {
+            ",": 1.0
+        }, 
+        "AM": {
+            "12:00:00": 1.0
+        }, 
+        "AND": {
+            "OPERATIONS": 1.0
+        }, 
+        "APPOINTMENT(": {
+            "UP": 1.0
+        }, 
+        "AS": {
+            "USED": 1.0
+        }, 
+        "AT": {
+            "3/15/06": 1.0
+        }, 
+        "Admission": {
+            "Causing": 0.5, 
+            "|": 0.5
+        }, 
+        "After": {
+            ";Responsible": 1.0
+        }, 
+        "Applicable": {
+            "Not": 1.0
+        }, 
+        "At": {
+            "leak.": 1.0
+        }, 
+        "Attending:": {
+            "YES": 1.0
+        }, 
+        "BE": {
+            "ORDER": 1.0
+        }, 
+        "BRIEF": {
+            "negative": 1.0
+        }, 
+        "BY:": {
+            "ENTERED": 1.0
+        }, 
+        "Bandage": {
+            "weeks.": 1.0
+        }, 
+        "Boomershine": {
+            "Dr.": 1.0
+        }, 
+        "C/D/I": {
+            "was": 1.0
+        }, 
+        "COMMENTS:": {
+            "ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            "DISCHARGE": 1.0
+        }, 
+        "CONTINGENT": {
+            "PM": 1.0
+        }, 
+        "COURSE:": {
+            "HOSPITAL": 1.0
+        }, 
+        "Ca": {
+            "128-46-61-9": 1.0
+        }, 
+        "Causing": {
+            "for": 1.0
+        }, 
+        "Complications": {
+            ",": 1.0
+        }, 
+        "Crush": {
+            "medications.": 1.0
+        }, 
+        "D/C": {
+            "THE": 0.5, 
+            "WILL": 0.5
+        }, 
+        "DANIAL": {
+            ",": 1.0
+        }, 
+        "DANTE": {
+            ",": 1.0
+        }, 
+        "DIAGNOSIS": {
+            "DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "OTHER": 1.0
+        }, 
+        "DIET:": {
+            "Nausea": 1.0
+        }, 
+        "DIS": {
+            "|": 1.0
+        }, 
+        "DISCHARGE": {
+            "FINAL": 0.16666666666666666, 
+            "GGI": 0.16666666666666666, 
+            "Home": 0.16666666666666666, 
+            "OF": 0.16666666666666666, 
+            "PRINCIPAL": 0.16666666666666666, 
+            "elixirs.": 0.16666666666666666
+        }, 
+        "DISPOSITION:": {
+            "M.D.": 1.0
+        }, 
+        "DO/PLAN:": {
+            "TO": 1.0
+        }, 
+        "Date:": {
+            "Admission": 0.5, 
+            "Discharge": 0.5
+        }, 
+        "Discharge": {
+            "Status:": 1.0
+        }, 
+        "Dr.": {
+            "):": 0.5, 
+            "with": 0.5
+        }, 
+        "END": {
+            "******": 1.0
+        }, 
+        "ENTERED": {
+            "summary": 1.0
+        }, 
+        "Et": {
+            "Ca": 1.0
+        }, 
+        "Exercise": {
+            "outpatient": 1.0
+        }, 
+        "FINAL": {
+            "******": 1.0
+        }, 
+        "FOLLOW": {
+            "tolerated": 1.0
+        }, 
+        "FORAND": {
+            "******": 1.0
+        }, 
+        "Follow": {
+            "concern.": 1.0
+        }, 
+        "GGI": {
+            "Service:": 1.0
+        }, 
+        "HCL": {
+            "PROMETHAZINE": 1.0
+        }, 
+        "HOSPITAL": {
+            "OF": 1.0
+        }, 
+        "Her": {
+            "diet.": 1.0
+        }, 
+        "Home": {
+            "DISPOSITION:": 1.0
+        }, 
+        "Hospital": {
+            "tott": 1.0
+        }, 
+        "I": {
+            "Stage": 1.0
+        }, 
+        "II": {
+            "Stage": 0.5, 
+            "stage": 0.5
+        }, 
+        "IN": {
+            "NOT": 1.0
+        }, 
+        "Infections": {
+            ",": 1.0
+        }, 
+        "JERROLD": {
+            ",": 1.0
+        }, 
+        "KORY": {
+            "DANTE": 1.0
+        }, 
+        "LAMANNA": {
+            "Attending:": 1.0
+        }, 
+        "LESLEY": {
+            "JERROLD": 1.0
+        }, 
+        "LIQUID": {
+            "OXYCODONE+APAP": 1.0
+        }, 
+        "M.D.": {
+            ",": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "DISCHARGE": 1.0
+        }, 
+        "MG": {
+            "25": 1.0
+        }, 
+        "MILLILITERS": {
+            "5-10": 1.0
+        }, 
+        "May": {
+            "COMMENTS:": 1.0
+        }, 
+        "NOT": {
+            "(": 1.0
+        }, 
+        "Nausea": {
+            "PRN": 1.0
+        }, 
+        "No": {
+            "DO/PLAN:": 1.0
+        }, 
+        "Not": {
+            "UPON": 1.0
+        }, 
+        "O.R.": {
+            "IN": 1.0
+        }, 
+        "OF": {
+            "END": 0.5, 
+            "RESUME": 0.5
+        }, 
+        "ON:": {
+            "PATIENT": 1.0
+        }, 
+        "OPERATIONS": {
+            "fibromyalgia": 1.0
+        }, 
+        "ORAL": {
+            "ROXICET": 1.0
+        }, 
+        "ORDER": {
+            "D/C": 1.0
+        }, 
+        "ORDERS": {
+            "DISCHARGE": 1.0
+        }, 
+        "OTHER": {
+            "#obese#": 0.5, 
+            "PROCEDURES:": 0.5
+        }, 
+        "OXYCODONE+APAP": {
+            "(": 1.0
+        }, 
+        "Of": {
+            "banding.": 1.0
+        }, 
+        "PACU": {
+            "the": 1.0
+        }, 
+        "PATIENT": {
+            "DISCHARGE": 1.0
+        }, 
+        "PENNELL": {
+            "BY:": 1.0
+        }, 
+        "PHENERGAN": {
+            "Pain": 1.0
+        }, 
+        "PM": {
+            "01:00": 0.5, 
+            "12:00": 0.5
+        }, 
+        "PO": {
+            "MILLILITERS": 1.0
+        }, 
+        "POD1": {
+            "on": 1.0
+        }, 
+        "POD1.": {
+            "into": 1.0
+        }, 
+        "PR": {
+            "MG": 1.0
+        }, 
+        "PRINCIPAL": {
+            "#obese#": 1.0
+        }, 
+        "PRN": {
+            "Q4H": 0.5, 
+            "Q6H": 0.5
+        }, 
+        "PROCEDURES:": {
+            "AND": 1.0
+        }, 
+        "PROMETHAZINE": {
+            "(": 1.0
+        }, 
+        "Pain": {
+            "PRN": 1.0
+        }, 
+        "Patient": {
+            "COURSE:": 0.5, 
+            "condition.": 0.5
+        }, 
+        "PcP-": {
+            ",": 1.0
+        }, 
+        "Please": {
+            "weeks.": 1.0
+        }, 
+        "Q4H": {
+            "PO": 1.0
+        }, 
+        "Q6H": {
+            "PR": 1.0
+        }, 
+        "RESUME": {
+            "BRIEF": 1.0
+        }, 
+        "ROXICET": {
+            "MEDICATIONS:": 1.0
+        }, 
+        "Rabalais": {
+            "Santo": 1.0
+        }, 
+        "Report": {
+            "5/25/2006": 1.0
+        }, 
+        "S": {
+            "APPOINTMENT(": 1.0
+        }, 
+        "SOLUTION": {
+            "ORAL": 1.0
+        }, 
+        "SUMMARY:": {
+            "D/C": 1.0
+        }, 
+        "Santo": {
+            "Dr.": 1.0
+        }, 
+        "Seek": {
+            "time.": 1.0
+        }, 
+        "Service:": {
+            "Et": 1.0
+        }, 
+        "She": {
+            "POD1.": 0.25, 
+            "control.": 0.25, 
+            "details.": 0.25, 
+            "tolerated.": 0.25
+        }, 
+        "Stable": {
+            "CONDITION:": 1.0
+        }, 
+        "Stage": {
+            "a": 1.0
+        }, 
+        "Status:": {
+            "Report": 1.0
+        }, 
+        "Stress": {
+            "Exercise": 1.0
+        }, 
+        "Study": {
+            "After": 1.0
+        }, 
+        "THE": {
+            "AS": 1.0
+        }, 
+        "TO": {
+            "Stable": 1.0
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "OTHER": 1.0
+        }, 
+        "The": {
+            "infection.": 1.0
+        }, 
+        "Treatment/Stay": {
+            "affecting": 1.0
+        }, 
+        "UGI": {
+            "an": 1.0
+        }, 
+        "UP": {
+            "FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "CONTINGENT": 1.0
+        }, 
+        "USED": {
+            "BE": 1.0
+        }, 
+        "Unknown": {
+            "ALLERGY:": 1.0
+        }, 
+        "WILL": {
+            "Applicable": 1.0
+        }, 
+        "WMC": {
+            "|": 1.0
+        }, 
+        "Walking": {
+            "ACTIVITY:": 1.0
+        }, 
+        "YES": {
+            "SUMMARY:": 1.0
+        }, 
+        "YN831": {
+            "(": 1.0
+        }, 
+        "a": {
+            "home": 0.5, 
+            "on": 0.5
+        }, 
+        "adequate": {
+            "had": 0.5, 
+            "with": 0.5
+        }, 
+        "admitted": {
+            "was": 1.0
+        }, 
+        "advanced": {
+            "then": 1.0
+        }, 
+        "affecting": {
+            ",": 1.0
+        }, 
+        "after": {
+            "3/1/06": 0.5, 
+            "days": 0.5
+        }, 
+        "alcohol": {
+            "consume": 1.0
+        }, 
+        "ambulating": {
+            ",": 1.0
+        }, 
+        "an": {
+            "had": 1.0
+        }, 
+        "and": {
+            ",": 0.3333333333333333, 
+            "ambulating": 0.16666666666666666, 
+            "clears": 0.16666666666666666, 
+            "consulted": 0.16666666666666666, 
+            "control": 0.16666666666666666
+        }, 
+        "any": {
+            "or": 1.0
+        }, 
+        "arrange": {
+            "to": 1.0
+        }, 
+        "as": {
+            "Walking": 1.0
+        }, 
+        "attention": {
+            "medical": 1.0
+        }, 
+        "banding.": {
+            "gastric": 1.0
+        }, 
+        "bathe": {
+            "tub": 1.0
+        }, 
+        "bleeding": {
+            "excessive": 1.0
+        }, 
+        "breath": {
+            "of": 1.0
+        }, 
+        "but": {
+            ",": 1.0
+        }, 
+        "capsules": {
+            "open": 1.0
+        }, 
+        "cardiology": {
+            ",": 0.5, 
+            "induction": 0.5
+        }, 
+        "chest": {
+            ",": 0.5, 
+            "no": 0.5
+        }, 
+        "clears": {
+            "to": 1.0
+        }, 
+        "clinic": {
+            "in": 1.0
+        }, 
+        "collection": {
+            "hematoma": 1.0
+        }, 
+        "concern.": {
+            "of": 1.0
+        }, 
+        "condition": {
+            "stable": 1.0
+        }, 
+        "condition.": {
+            "stable": 1.0
+        }, 
+        "consulted": {
+            "cardiology": 1.0
+        }, 
+        "consume": {
+            "or": 1.0
+        }, 
+        "control": {
+            "pain": 1.0
+        }, 
+        "control.": {
+            "pain": 1.0
+        }, 
+        "course": {
+            "hospital": 1.0
+        }, 
+        "days": {
+            "2": 1.0
+        }, 
+        "demand": {
+            "with": 1.0
+        }, 
+        "details.": {
+            "for": 1.0
+        }, 
+        "dictated": {
+            "No": 0.5, 
+            "see": 0.5
+        }, 
+        "diet": {
+            "I": 1.0
+        }, 
+        "diet.": {
+            "II": 1.0
+        }, 
+        "discharged": {
+            "and": 0.5, 
+            "was": 0.5
+        }, 
+        "do": {
+            "Please": 0.5, 
+            "but": 0.5
+        }, 
+        "drainage": {
+            ",": 1.0
+        }, 
+        "drive": {
+            "not": 1.0
+        }, 
+        "elixirs.": {
+            "take": 1.0
+        }, 
+        "evidence": {
+            "no": 1.0
+        }, 
+        "excessive": {
+            "or": 1.0
+        }, 
+        "exercise": {
+            "outpatient": 1.0
+        }, 
+        "explicit": {
+            "given": 1.0
+        }, 
+        "fall": {
+            "will": 1.0
+        }, 
+        "fevers": {
+            "for": 1.0
+        }, 
+        "fibromyalgia": {
+            ",": 1.0
+        }, 
+        "floor": {
+            "the": 1.0
+        }, 
+        "follow-up": {
+            "to": 1.0
+        }, 
+        "for": {
+            "Study": 0.2, 
+            "attention": 0.2, 
+            "incision": 0.2, 
+            "negative": 0.2, 
+            "note": 0.2
+        }, 
+        "from": {
+            "bleeding": 0.5, 
+            "floor": 0.5
+        }, 
+        "gastric": {
+            "laparoscopic": 1.0
+        }, 
+        "gerd": {
+            ",": 1.0
+        }, 
+        "given": {
+            "was": 1.0
+        }, 
+        "had": {
+            "Patient": 0.5, 
+            "She": 0.5
+        }, 
+        "hematoma": {
+            "of": 1.0
+        }, 
+        "home": {
+            "to": 1.0
+        }, 
+        "hospital": {
+            "the": 1.0
+        }, 
+        "htn": {
+            "Treatment/Stay": 1.0
+        }, 
+        "in": {
+            "PACU": 0.25, 
+            "discharged": 0.25, 
+            "follow-up": 0.25, 
+            "surgeon": 0.25
+        }, 
+        "incision": {
+            "Her": 0.3333333333333333, 
+            "from": 0.3333333333333333, 
+            "scrub": 0.3333333333333333
+        }, 
+        "independently": {
+            "voiding": 1.0
+        }, 
+        "induction": {
+            "upon": 1.0
+        }, 
+        "infection.": {
+            "or": 1.0
+        }, 
+        "instructions": {
+            "explicit": 1.0
+        }, 
+        "into": {
+            "overnight": 1.0
+        }, 
+        "ischemia": {
+            "demand": 1.0
+        }, 
+        "issues": {
+            "no": 1.0
+        }, 
+        "issues.": {
+            "no": 1.0
+        }, 
+        "laparoscopic": {
+            "undergoing": 1.0
+        }, 
+        "leak.": {
+            "or": 1.0
+        }, 
+        "medical": {
+            "Seek": 1.0
+        }, 
+        "medications.": {
+            "pain": 1.0
+        }, 
+        "morbid": {
+            ")": 0.3333333333333333, 
+            "DIAGNOSIS:": 0.3333333333333333, 
+            "|": 0.3333333333333333
+        }, 
+        "negative": {
+            "r/o": 0.3333333333333333, 
+            "ugi": 0.3333333333333333, 
+            "was": 0.3333333333333333
+        }, 
+        "no": {
+            ",": 0.25, 
+            "and": 0.25, 
+            "otherwise": 0.25, 
+            "with": 0.25
+        }, 
+        "not": {
+            "do": 1.0
+        }, 
+        "note": {
+            "Of": 0.5, 
+            "operative": 0.5
+        }, 
+        "obstruction": {
+            "for": 1.0
+        }, 
+        "of": {
+            "evidence": 0.25, 
+            "remainder": 0.25, 
+            "shortness": 0.25, 
+            "symptoms": 0.25
+        }, 
+        "off": {
+            "fall": 1.0
+        }, 
+        "on": {
+            "UGI": 0.25, 
+            "patient": 0.25, 
+            "service": 0.25, 
+            "started": 0.25
+        }, 
+        "open": {
+            ",": 1.0
+        }, 
+        "operative": {
+            "dictated": 1.0
+        }, 
+        "or": {
+            ",": 0.42857142857142855, 
+            "collection": 0.14285714285714285, 
+            "drainage": 0.14285714285714285, 
+            "drive": 0.14285714285714285, 
+            "obstruction": 0.14285714285714285
+        }, 
+        "other": {
+            "any": 1.0
+        }, 
+        "otherwise": {
+            "r/o": 1.0
+        }, 
+        "outpatient": {
+            "arrange": 0.5, 
+            "rec": 0.5
+        }, 
+        "over": {
+            "off": 1.0
+        }, 
+        "overnight": {
+            "issues": 1.0
+        }, 
+        "pain": {
+            "adequate": 0.3333333333333333, 
+            "chest": 0.3333333333333333, 
+            "taking": 0.16666666666666666, 
+            "worsening": 0.16666666666666666
+        }, 
+        "patient": {
+            "note": 0.5, 
+            "place": 0.5
+        }, 
+        "pills": {
+            "Crush": 1.0
+        }, 
+        "place": {
+            "to": 1.0
+        }, 
+        "please": {
+            "test.;": 1.0
+        }, 
+        "r/o": {
+            "issues.": 0.5, 
+            "on": 0.5
+        }, 
+        "rec": {
+            "and": 0.5, 
+            "cardiology": 0.5
+        }, 
+        "relatively": {
+            "was": 1.0
+        }, 
+        "remainder": {
+            "The": 1.0
+        }, 
+        "scrub": {
+            "or": 1.0
+        }, 
+        "see": {
+            "please": 1.0
+        }, 
+        "service": {
+            "surgery": 1.0
+        }, 
+        "she": {
+            "and": 0.3333333333333333, 
+            "time": 0.3333333333333333, 
+            "which": 0.3333333333333333
+        }, 
+        "shortness": {
+            ",": 1.0
+        }, 
+        "shower": {
+            "May": 1.0
+        }, 
+        "soak": {
+            ",": 1.0
+        }, 
+        "sob": {
+            ",": 1.0
+        }, 
+        "stable": {
+            "in": 1.0
+        }, 
+        "stage": {
+            "DIET:": 1.0
+        }, 
+        "started": {
+            "was": 1.0
+        }, 
+        "stress": {
+            "exercise": 1.0
+        }, 
+        "strips": {
+            "Bandage": 1.0
+        }, 
+        "summary": {
+            "dictated": 1.0
+        }, 
+        "surgeon": {
+            "your": 1.0
+        }, 
+        "surgery": {
+            "Hospital": 0.5, 
+            "after": 0.5
+        }, 
+        "swim": {
+            ",": 1.0
+        }, 
+        "symptoms": {
+            "other": 1.0
+        }, 
+        "take": {
+            "or": 1.0
+        }, 
+        "taking": {
+            "while": 1.0
+        }, 
+        "temp>101.5": {
+            "(": 1.0
+        }, 
+        "test": {
+            "Stress": 1.0
+        }, 
+        "test.;": {
+            "stress": 1.0
+        }, 
+        "that": {
+            "At": 1.0
+        }, 
+        "the": {
+            "from": 0.25, 
+            "of": 0.25, 
+            "to": 0.5
+        }, 
+        "then": {
+            "was": 1.0
+        }, 
+        "time": {
+            "that": 1.0
+        }, 
+        "time.": {
+            "over": 1.0
+        }, 
+        "to": {
+            "PcP-": 0.14285714285714285, 
+            "admitted": 0.14285714285714285, 
+            "advanced": 0.14285714285714285, 
+            "discharged": 0.14285714285714285, 
+            "instructions": 0.14285714285714285, 
+            "rec": 0.14285714285714285, 
+            "transferred": 0.14285714285714285
+        }, 
+        "tolerated": {
+            "as": 1.0
+        }, 
+        "tolerated.": {
+            "she": 1.0
+        }, 
+        "tott": {
+            "the": 1.0
+        }, 
+        "transferred": {
+            "was": 1.0
+        }, 
+        "tub": {
+            "not": 1.0
+        }, 
+        "ugi": {
+            ")": 1.0
+        }, 
+        "undergoing": {
+            "after": 1.0
+        }, 
+        "unremarkable": {
+            "relatively": 1.0
+        }, 
+        "up": {
+            "Follow": 1.0
+        }, 
+        "upon": {
+            "ischemia": 1.0
+        }, 
+        "voiding": {
+            "and": 1.0
+        }, 
+        "was": {
+            "Patient": 0.1111111111111111, 
+            "She": 0.3333333333333333, 
+            "course": 0.1111111111111111, 
+            "incision": 0.1111111111111111, 
+            "she": 0.2222222222222222, 
+            "which": 0.1111111111111111
+        }, 
+        "weeks": {
+            "1-2": 0.5, 
+            "2": 0.5
+        }, 
+        "weeks.": {
+            "1-2": 0.6666666666666666, 
+            "2": 0.3333333333333333
+        }, 
+        "which": {
+            "POD1": 0.5, 
+            "diet": 0.5
+        }, 
+        "while": {
+            "alcohol": 1.0
+        }, 
+        "will": {
+            "strips": 1.0
+        }, 
+        "with": {
+            ",": 0.2, 
+            "and": 0.2, 
+            "clinic": 0.2, 
+            "patient": 0.2, 
+            "up": 0.2
+        }, 
+        "worsening": {
+            ",": 1.0
+        }, 
+        "your": {
+            "with": 1.0
+        }, 
+        "|": {
+            "#obese#": 0.1111111111111111, 
+            "28835228": 0.1111111111111111, 
+            "3692827": 0.1111111111111111, 
+            "451840844": 0.1111111111111111, 
+            "AM": 0.1111111111111111, 
+            "DIS": 0.1111111111111111, 
+            "WMC": 0.1111111111111111, 
+            "|": 0.2222222222222222
+        }
+    }, 
+    "id": "884", 
+    "text": " 451840844 | WMC | 28835228 | | 3692827 | 3/11/2006 12:00:00 AM | morbid #obese# | | DIS | Admission Date: 5/25/2006 Report Status: Discharge Date: 1/12/2006 ****** FINAL DISCHARGE ORDERS ****** FORAND , DANIAL 128-46-61-9 Ca Et Service: GGI DISCHARGE PATIENT ON: 3/15/06 AT 12:00 PM CONTINGENT UPON Not Applicable WILL D/C ORDER BE USED AS THE D/C SUMMARY: YES Attending: LAMANNA , DANTE KORY , M.D. DISPOSITION: Home DISCHARGE MEDICATIONS: ROXICET ORAL SOLUTION ( OXYCODONE+APAP LIQUID ) 5-10 MILLILITERS PO Q4H PRN Pain PHENERGAN ( PROMETHAZINE HCL ) 25 MG PR Q6H PRN Nausea DIET: stage II ACTIVITY: Walking as tolerated FOLLOW UP APPOINTMENT( S ): Dr. Boomershine 1-2 weeks , PcP- to arrange outpatient Exercise Stress test 2 weeks , ALLERGY: Unknown ADMIT DIAGNOSIS: morbid #obese# PRINCIPAL DISCHARGE DIAGNOSIS ;Responsible After Study for Causing Admission ) morbid #obese# OTHER DIAGNOSIS;Conditions , Infections , Complications , affecting Treatment/Stay htn , gerd , fibromyalgia OPERATIONS AND PROCEDURES: OTHER TREATMENTS/PROCEDURES ( NOT IN O.R. ) ugi negative BRIEF RESUME OF HOSPITAL COURSE: Patient was admitted to the tott Hospital surgery service on 3/1/06 after undergoing laparoscopic gastric banding. Of note patient with demand ischemia upon induction cardiology consulted and rec to place patient on r/o otherwise no issues. r/o negative , no chest pain , sob , cardiology rec outpatient exercise stress test.; please see dictated operative note for details. She was transferred to the floor from the PACU in stable condition. Patient had adequate pain control and no issues overnight into POD1. She had an UGI on POD1 which was negative for obstruction or leak. At that time she was started on a Stage I diet which she tolerated. She was then advanced to clears and discharged to home a Stage II diet. Her incision was C/D/I , with no evidence of hematoma collection or infection. The remainder of the hospital course was relatively unremarkable , and she was discharged in stable condition , ambulating and voiding independently , and with adequate pain control. She was given explicit instructions to follow-up in clinic with Dr. Santo Rabalais 1-2 weeks. ADDITIONAL COMMENTS: May shower 2 days after surgery , but do not tub bathe , swim , soak , or scrub incision for 2 weeks. Bandage strips will fall off over time. Seek medical attention for fevers ( temp>101.5 ) , worsening pain , drainage or excessive bleeding from incision , chest pain , shortness of breath , or any other symptoms of concern. Follow up with your surgeon in 1-2 weeks. Please do not drive or consume alcohol while taking pain medications. Crush pills , open capsules , or take elixirs. DISCHARGE CONDITION: Stable TO DO/PLAN: No dictated summary ENTERED BY: PENNELL , JERROLD LESLEY ( YN831 ) 3/15/06 @ 01:00 PM ****** END OF DISCHARGE ORDERS ******", 
+    "tri": {
+        "#obese#": {
+            ")~morbid": 0.3333333333333333, 
+            "DIAGNOSIS:~morbid": 0.3333333333333333, 
+            "|~morbid": 0.3333333333333333
+        }, 
+        "(": {
+            "JERROLD~LESLEY": 0.2, 
+            "ORAL~SOLUTION": 0.2, 
+            "OTHER~TREATMENTS/PROCEDURES": 0.2, 
+            "Pain~PHENERGAN": 0.2, 
+            "for~fevers": 0.2
+        }, 
+        ")": {
+            "(~YN831": 0.16666666666666666, 
+            "(~temp>101.5": 0.16666666666666666, 
+            "Causing~Admission": 0.16666666666666666, 
+            "IN~O.R.": 0.16666666666666666, 
+            "OXYCODONE+APAP~LIQUID": 0.16666666666666666, 
+            "PROMETHAZINE~HCL": 0.16666666666666666
+        }, 
+        "):": {
+            "APPOINTMENT(~S": 1.0
+        }, 
+        "******": {
+            "01:00~PM": 0.25, 
+            "DISCHARGE~ORDERS": 0.5, 
+            "Date:~1/12/2006": 0.25
+        }, 
+        ",": {
+            "******~FORAND": 0.034482758620689655, 
+            ",~Complications": 0.034482758620689655, 
+            ",~Infections": 0.034482758620689655, 
+            ",~gerd": 0.034482758620689655, 
+            ",~soak": 0.034482758620689655, 
+            ",~sob": 0.034482758620689655, 
+            ",~swim": 0.034482758620689655, 
+            "1-2~weeks": 0.034482758620689655, 
+            "2~weeks": 0.034482758620689655, 
+            "Attending:~LAMANNA": 0.034482758620689655, 
+            "BY:~PENNELL": 0.034482758620689655, 
+            "Crush~pills": 0.034482758620689655, 
+            "DANTE~KORY": 0.034482758620689655, 
+            "OTHER~DIAGNOSIS;Conditions": 0.034482758620689655, 
+            "Treatment/Stay~htn": 0.034482758620689655, 
+            "after~surgery": 0.034482758620689655, 
+            "chest~pain": 0.06896551724137931, 
+            "from~incision": 0.034482758620689655, 
+            "of~breath": 0.034482758620689655, 
+            "open~capsules": 0.034482758620689655, 
+            "r/o~negative": 0.034482758620689655, 
+            "relatively~unremarkable": 0.034482758620689655, 
+            "stable~condition": 0.034482758620689655, 
+            "temp>101.5~)": 0.034482758620689655, 
+            "tub~bathe": 0.034482758620689655, 
+            "voiding~independently": 0.034482758620689655, 
+            "was~C/D/I": 0.034482758620689655, 
+            "worsening~pain": 0.034482758620689655
+        }, 
+        "01:00": {
+            "3/15/06~@": 1.0
+        }, 
+        "1-2": {
+            "Dr.~Boomershine": 0.3333333333333333, 
+            "Santo~Rabalais": 0.3333333333333333, 
+            "surgeon~in": 0.3333333333333333
+        }, 
+        "1/12/2006": {
+            "Discharge~Date:": 1.0
+        }, 
+        "128-46-61-9": {
+            ",~DANIAL": 1.0
+        }, 
+        "12:00": {
+            "3/15/06~AT": 1.0
+        }, 
+        "12:00:00": {
+            "|~3/11/2006": 1.0
+        }, 
+        "2": {
+            "May~shower": 0.3333333333333333, 
+            "Stress~test": 0.3333333333333333, 
+            "incision~for": 0.3333333333333333
+        }, 
+        "25": {
+            "HCL~)": 1.0
+        }, 
+        "28835228": {
+            "WMC~|": 1.0
+        }, 
+        "3/1/06": {
+            "service~on": 1.0
+        }, 
+        "3/11/2006": {
+            "3692827~|": 1.0
+        }, 
+        "3/15/06": {
+            "PATIENT~ON:": 0.5, 
+            "YN831~)": 0.5
+        }, 
+        "3692827": {
+            "|~|": 1.0
+        }, 
+        "5-10": {
+            "LIQUID~)": 1.0
+        }, 
+        "5/25/2006": {
+            "Admission~Date:": 1.0
+        }, 
+        ";Responsible": {
+            "DISCHARGE~DIAGNOSIS": 1.0
+        }, 
+        "@": {
+            ")~3/15/06": 1.0
+        }, 
+        "ACTIVITY:": {
+            "stage~II": 1.0
+        }, 
+        "ADDITIONAL": {
+            "1-2~weeks.": 1.0
+        }, 
+        "ADMIT": {
+            "ALLERGY:~Unknown": 1.0
+        }, 
+        "ALLERGY:": {
+            "weeks~,": 1.0
+        }, 
+        "AM": {
+            "3/11/2006~12:00:00": 1.0
+        }, 
+        "AND": {
+            "fibromyalgia~OPERATIONS": 1.0
+        }, 
+        "APPOINTMENT(": {
+            "FOLLOW~UP": 1.0
+        }, 
+        "AS": {
+            "BE~USED": 1.0
+        }, 
+        "AT": {
+            "ON:~3/15/06": 1.0
+        }, 
+        "Admission": {
+            "DIS~|": 0.5, 
+            "for~Causing": 0.5
+        }, 
+        "After": {
+            "DIAGNOSIS~;Responsible": 1.0
+        }, 
+        "Applicable": {
+            "UPON~Not": 1.0
+        }, 
+        "At": {
+            "or~leak.": 1.0
+        }, 
+        "Attending:": {
+            "SUMMARY:~YES": 1.0
+        }, 
+        "BE": {
+            "D/C~ORDER": 1.0
+        }, 
+        "BRIEF": {
+            "ugi~negative": 1.0
+        }, 
+        "BY:": {
+            "summary~ENTERED": 1.0
+        }, 
+        "Bandage": {
+            "2~weeks.": 1.0
+        }, 
+        "Boomershine": {
+            "):~Dr.": 1.0
+        }, 
+        "C/D/I": {
+            "incision~was": 1.0
+        }, 
+        "COMMENTS:": {
+            "weeks.~ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            "elixirs.~DISCHARGE": 1.0
+        }, 
+        "CONTINGENT": {
+            "12:00~PM": 1.0
+        }, 
+        "COURSE:": {
+            "OF~HOSPITAL": 1.0
+        }, 
+        "Ca": {
+            "DANIAL~128-46-61-9": 1.0
+        }, 
+        "Causing": {
+            "Study~for": 1.0
+        }, 
+        "Complications": {
+            "Infections~,": 1.0
+        }, 
+        "Crush": {
+            "pain~medications.": 1.0
+        }, 
+        "D/C": {
+            "AS~THE": 0.5, 
+            "Applicable~WILL": 0.5
+        }, 
+        "DANIAL": {
+            "FORAND~,": 1.0
+        }, 
+        "DANTE": {
+            "LAMANNA~,": 1.0
+        }, 
+        "DIAGNOSIS": {
+            "PRINCIPAL~DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "Unknown~ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "#obese#~OTHER": 1.0
+        }, 
+        "DIET:": {
+            "PRN~Nausea": 1.0
+        }, 
+        "DIS": {
+            "|~|": 1.0
+        }, 
+        "DISCHARGE": {
+            "#obese#~PRINCIPAL": 0.16666666666666666, 
+            "******~FINAL": 0.16666666666666666, 
+            "DISPOSITION:~Home": 0.16666666666666666, 
+            "END~OF": 0.16666666666666666, 
+            "Service:~GGI": 0.16666666666666666, 
+            "take~elixirs.": 0.16666666666666666
+        }, 
+        "DISPOSITION:": {
+            ",~M.D.": 1.0
+        }, 
+        "DO/PLAN:": {
+            "Stable~TO": 1.0
+        }, 
+        "Date:": {
+            "Status:~Discharge": 0.5, 
+            "|~Admission": 0.5
+        }, 
+        "Discharge": {
+            "Report~Status:": 1.0
+        }, 
+        "Dr.": {
+            "S~):": 0.5, 
+            "clinic~with": 0.5
+        }, 
+        "END": {
+            "PM~******": 1.0
+        }, 
+        "ENTERED": {
+            "dictated~summary": 1.0
+        }, 
+        "Et": {
+            "128-46-61-9~Ca": 1.0
+        }, 
+        "Exercise": {
+            "arrange~outpatient": 1.0
+        }, 
+        "FINAL": {
+            "1/12/2006~******": 1.0
+        }, 
+        "FOLLOW": {
+            "as~tolerated": 1.0
+        }, 
+        "FORAND": {
+            "ORDERS~******": 1.0
+        }, 
+        "Follow": {
+            "of~concern.": 1.0
+        }, 
+        "GGI": {
+            "Et~Service:": 1.0
+        }, 
+        "HCL": {
+            "(~PROMETHAZINE": 1.0
+        }, 
+        "HOSPITAL": {
+            "RESUME~OF": 1.0
+        }, 
+        "Her": {
+            "II~diet.": 1.0
+        }, 
+        "Home": {
+            "M.D.~DISPOSITION:": 1.0
+        }, 
+        "Hospital": {
+            "the~tott": 1.0
+        }, 
+        "I": {
+            "a~Stage": 1.0
+        }, 
+        "II": {
+            "DIET:~stage": 0.5, 
+            "a~Stage": 0.5
+        }, 
+        "IN": {
+            "(~NOT": 1.0
+        }, 
+        "Infections": {
+            "DIAGNOSIS;Conditions~,": 1.0
+        }, 
+        "JERROLD": {
+            "PENNELL~,": 1.0
+        }, 
+        "KORY": {
+            ",~DANTE": 1.0
+        }, 
+        "LAMANNA": {
+            "YES~Attending:": 1.0
+        }, 
+        "LESLEY": {
+            ",~JERROLD": 1.0
+        }, 
+        "LIQUID": {
+            "(~OXYCODONE+APAP": 1.0
+        }, 
+        "M.D.": {
+            "KORY~,": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "Home~DISCHARGE": 1.0
+        }, 
+        "MG": {
+            ")~25": 1.0
+        }, 
+        "MILLILITERS": {
+            ")~5-10": 1.0
+        }, 
+        "May": {
+            "ADDITIONAL~COMMENTS:": 1.0
+        }, 
+        "NOT": {
+            "TREATMENTS/PROCEDURES~(": 1.0
+        }, 
+        "Nausea": {
+            "Q6H~PRN": 1.0
+        }, 
+        "No": {
+            "TO~DO/PLAN:": 1.0
+        }, 
+        "Not": {
+            "CONTINGENT~UPON": 1.0
+        }, 
+        "O.R.": {
+            "NOT~IN": 1.0
+        }, 
+        "OF": {
+            "******~END": 0.5, 
+            "BRIEF~RESUME": 0.5
+        }, 
+        "ON:": {
+            "DISCHARGE~PATIENT": 1.0
+        }, 
+        "OPERATIONS": {
+            ",~fibromyalgia": 1.0
+        }, 
+        "ORAL": {
+            "MEDICATIONS:~ROXICET": 1.0
+        }, 
+        "ORDER": {
+            "WILL~D/C": 1.0
+        }, 
+        "ORDERS": {
+            "FINAL~DISCHARGE": 0.5, 
+            "OF~DISCHARGE": 0.5
+        }, 
+        "OTHER": {
+            "AND~PROCEDURES:": 0.5, 
+            "morbid~#obese#": 0.5
+        }, 
+        "OXYCODONE+APAP": {
+            "SOLUTION~(": 1.0
+        }, 
+        "Of": {
+            "gastric~banding.": 1.0
+        }, 
+        "PACU": {
+            "from~the": 1.0
+        }, 
+        "PATIENT": {
+            "GGI~DISCHARGE": 1.0
+        }, 
+        "PENNELL": {
+            "ENTERED~BY:": 1.0
+        }, 
+        "PHENERGAN": {
+            "PRN~Pain": 1.0
+        }, 
+        "PM": {
+            "@~01:00": 0.5, 
+            "AT~12:00": 0.5
+        }, 
+        "PO": {
+            "5-10~MILLILITERS": 1.0
+        }, 
+        "POD1": {
+            "UGI~on": 1.0
+        }, 
+        "POD1.": {
+            "overnight~into": 1.0
+        }, 
+        "PR": {
+            "25~MG": 1.0
+        }, 
+        "PRINCIPAL": {
+            "morbid~#obese#": 1.0
+        }, 
+        "PRN": {
+            "PO~Q4H": 0.5, 
+            "PR~Q6H": 0.5
+        }, 
+        "PROCEDURES:": {
+            "OPERATIONS~AND": 1.0
+        }, 
+        "PROMETHAZINE": {
+            "PHENERGAN~(": 1.0
+        }, 
+        "Pain": {
+            "Q4H~PRN": 1.0
+        }, 
+        "Patient": {
+            "HOSPITAL~COURSE:": 0.5, 
+            "stable~condition.": 0.5
+        }, 
+        "PcP-": {
+            "weeks~,": 1.0
+        }, 
+        "Please": {
+            "1-2~weeks.": 1.0
+        }, 
+        "Q4H": {
+            "MILLILITERS~PO": 1.0
+        }, 
+        "Q6H": {
+            "MG~PR": 1.0
+        }, 
+        "RESUME": {
+            "negative~BRIEF": 1.0
+        }, 
+        "ROXICET": {
+            "DISCHARGE~MEDICATIONS:": 1.0
+        }, 
+        "Rabalais": {
+            "Dr.~Santo": 1.0
+        }, 
+        "Report": {
+            "Date:~5/25/2006": 1.0
+        }, 
+        "S": {
+            "UP~APPOINTMENT(": 1.0
+        }, 
+        "SOLUTION": {
+            "ROXICET~ORAL": 1.0
+        }, 
+        "SUMMARY:": {
+            "THE~D/C": 1.0
+        }, 
+        "Santo": {
+            "with~Dr.": 1.0
+        }, 
+        "Seek": {
+            "over~time.": 1.0
+        }, 
+        "Service:": {
+            "Ca~Et": 1.0
+        }, 
+        "She": {
+            "for~details.": 0.25, 
+            "into~POD1.": 0.25, 
+            "pain~control.": 0.25, 
+            "she~tolerated.": 0.25
+        }, 
+        "Stable": {
+            "DISCHARGE~CONDITION:": 1.0
+        }, 
+        "Stage": {
+            "home~a": 0.5, 
+            "on~a": 0.5
+        }, 
+        "Status:": {
+            "5/25/2006~Report": 1.0
+        }, 
+        "Stress": {
+            "outpatient~Exercise": 1.0
+        }, 
+        "Study": {
+            ";Responsible~After": 1.0
+        }, 
+        "THE": {
+            "USED~AS": 1.0
+        }, 
+        "TO": {
+            "CONDITION:~Stable": 1.0
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "PROCEDURES:~OTHER": 1.0
+        }, 
+        "The": {
+            "or~infection.": 1.0
+        }, 
+        "Treatment/Stay": {
+            ",~affecting": 1.0
+        }, 
+        "UGI": {
+            "had~an": 1.0
+        }, 
+        "UP": {
+            "tolerated~FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "PM~CONTINGENT": 1.0
+        }, 
+        "USED": {
+            "ORDER~BE": 1.0
+        }, 
+        "Unknown": {
+            ",~ALLERGY:": 1.0
+        }, 
+        "WILL": {
+            "Not~Applicable": 1.0
+        }, 
+        "WMC": {
+            "451840844~|": 1.0
+        }, 
+        "Walking": {
+            "II~ACTIVITY:": 1.0
+        }, 
+        "YES": {
+            "D/C~SUMMARY:": 1.0
+        }, 
+        "YN831": {
+            "LESLEY~(": 1.0
+        }, 
+        "a": {
+            "started~on": 0.5, 
+            "to~home": 0.5
+        }, 
+        "adequate": {
+            "Patient~had": 0.5, 
+            "and~with": 0.5
+        }, 
+        "admitted": {
+            "Patient~was": 1.0
+        }, 
+        "advanced": {
+            "was~then": 1.0
+        }, 
+        "affecting": {
+            "Complications~,": 1.0
+        }, 
+        "after": {
+            "2~days": 0.5, 
+            "on~3/1/06": 0.5
+        }, 
+        "alcohol": {
+            "or~consume": 1.0
+        }, 
+        "ambulating": {
+            "condition~,": 1.0
+        }, 
+        "an": {
+            "She~had": 1.0
+        }, 
+        "and": {
+            ",~ambulating": 0.16666666666666666, 
+            "cardiology~consulted": 0.16666666666666666, 
+            "independently~,": 0.16666666666666666, 
+            "pain~control": 0.16666666666666666, 
+            "to~clears": 0.16666666666666666, 
+            "unremarkable~,": 0.16666666666666666
+        }, 
+        "any": {
+            ",~or": 1.0
+        }, 
+        "arrange": {
+            "PcP-~to": 1.0
+        }, 
+        "as": {
+            "ACTIVITY:~Walking": 1.0
+        }, 
+        "attention": {
+            "Seek~medical": 1.0
+        }, 
+        "banding.": {
+            "laparoscopic~gastric": 1.0
+        }, 
+        "bathe": {
+            "not~tub": 1.0
+        }, 
+        "bleeding": {
+            "or~excessive": 1.0
+        }, 
+        "breath": {
+            "shortness~of": 1.0
+        }, 
+        "but": {
+            "surgery~,": 1.0
+        }, 
+        "capsules": {
+            ",~open": 1.0
+        }, 
+        "cardiology": {
+            "sob~,": 0.5, 
+            "upon~induction": 0.5
+        }, 
+        "chest": {
+            ",~no": 0.5, 
+            "incision~,": 0.5
+        }, 
+        "clears": {
+            "advanced~to": 1.0
+        }, 
+        "clinic": {
+            "follow-up~in": 1.0
+        }, 
+        "collection": {
+            "of~hematoma": 1.0
+        }, 
+        "concern.": {
+            "symptoms~of": 1.0
+        }, 
+        "condition": {
+            "in~stable": 1.0
+        }, 
+        "condition.": {
+            "in~stable": 1.0
+        }, 
+        "consulted": {
+            "induction~cardiology": 1.0
+        }, 
+        "consume": {
+            "drive~or": 1.0
+        }, 
+        "control": {
+            "adequate~pain": 1.0
+        }, 
+        "control.": {
+            "adequate~pain": 1.0
+        }, 
+        "course": {
+            "the~hospital": 1.0
+        }, 
+        "days": {
+            "shower~2": 1.0
+        }, 
+        "demand": {
+            "patient~with": 1.0
+        }, 
+        "details.": {
+            "note~for": 1.0
+        }, 
+        "dictated": {
+            "DO/PLAN:~No": 0.5, 
+            "please~see": 0.5
+        }, 
+        "diet": {
+            "Stage~I": 1.0
+        }, 
+        "diet.": {
+            "Stage~II": 1.0
+        }, 
+        "discharged": {
+            "clears~and": 0.5, 
+            "she~was": 0.5
+        }, 
+        "do": {
+            ",~but": 0.5, 
+            "weeks.~Please": 0.5
+        }, 
+        "drainage": {
+            "pain~,": 1.0
+        }, 
+        "drive": {
+            "do~not": 1.0
+        }, 
+        "elixirs.": {
+            "or~take": 1.0
+        }, 
+        "evidence": {
+            "with~no": 1.0
+        }, 
+        "excessive": {
+            "drainage~or": 1.0
+        }, 
+        "exercise": {
+            "rec~outpatient": 1.0
+        }, 
+        "explicit": {
+            "was~given": 1.0
+        }, 
+        "fall": {
+            "strips~will": 1.0
+        }, 
+        "fevers": {
+            "attention~for": 1.0
+        }, 
+        "fibromyalgia": {
+            "gerd~,": 1.0
+        }, 
+        "floor": {
+            "to~the": 1.0
+        }, 
+        "follow-up": {
+            "instructions~to": 1.0
+        }, 
+        "for": {
+            "After~Study": 0.2, 
+            "medical~attention": 0.2, 
+            "operative~note": 0.2, 
+            "scrub~incision": 0.2, 
+            "was~negative": 0.2
+        }, 
+        "from": {
+            "excessive~bleeding": 0.5, 
+            "the~floor": 0.5
+        }, 
+        "gastric": {
+            "undergoing~laparoscopic": 1.0
+        }, 
+        "gerd": {
+            "htn~,": 1.0
+        }, 
+        "given": {
+            "She~was": 1.0
+        }, 
+        "had": {
+            "POD1.~She": 0.5, 
+            "condition.~Patient": 0.5
+        }, 
+        "hematoma": {
+            "evidence~of": 1.0
+        }, 
+        "home": {
+            "discharged~to": 1.0
+        }, 
+        "hospital": {
+            "of~the": 1.0
+        }, 
+        "htn": {
+            "affecting~Treatment/Stay": 1.0
+        }, 
+        "in": {
+            "the~PACU": 0.25, 
+            "to~follow-up": 0.25, 
+            "was~discharged": 0.25, 
+            "your~surgeon": 0.25
+        }, 
+        "incision": {
+            "bleeding~from": 0.3333333333333333, 
+            "diet.~Her": 0.3333333333333333, 
+            "or~scrub": 0.3333333333333333
+        }, 
+        "independently": {
+            "and~voiding": 1.0
+        }, 
+        "induction": {
+            "ischemia~upon": 1.0
+        }, 
+        "infection.": {
+            "collection~or": 1.0
+        }, 
+        "instructions": {
+            "given~explicit": 1.0
+        }, 
+        "into": {
+            "issues~overnight": 1.0
+        }, 
+        "ischemia": {
+            "with~demand": 1.0
+        }, 
+        "issues": {
+            "and~no": 1.0
+        }, 
+        "issues.": {
+            "otherwise~no": 1.0
+        }, 
+        "laparoscopic": {
+            "after~undergoing": 1.0
+        }, 
+        "leak.": {
+            "obstruction~or": 1.0
+        }, 
+        "medical": {
+            "time.~Seek": 1.0
+        }, 
+        "medications.": {
+            "taking~pain": 1.0
+        }, 
+        "morbid": {
+            "ADMIT~DIAGNOSIS:": 0.3333333333333333, 
+            "AM~|": 0.3333333333333333, 
+            "Admission~)": 0.3333333333333333
+        }, 
+        "negative": {
+            ")~ugi": 0.3333333333333333, 
+            "issues.~r/o": 0.3333333333333333, 
+            "which~was": 0.3333333333333333
+        }, 
+        "no": {
+            ",~with": 0.25, 
+            "control~and": 0.25, 
+            "negative~,": 0.25, 
+            "r/o~otherwise": 0.25
+        }, 
+        "not": {
+            "Please~do": 0.5, 
+            "but~do": 0.5
+        }, 
+        "note": {
+            "banding.~Of": 0.5, 
+            "dictated~operative": 0.5
+        }, 
+        "obstruction": {
+            "negative~for": 1.0
+        }, 
+        "of": {
+            ",~shortness": 0.25, 
+            "The~remainder": 0.25, 
+            "no~evidence": 0.25, 
+            "other~symptoms": 0.25
+        }, 
+        "off": {
+            "will~fall": 1.0
+        }, 
+        "on": {
+            "an~UGI": 0.25, 
+            "place~patient": 0.25, 
+            "surgery~service": 0.25, 
+            "was~started": 0.25
+        }, 
+        "open": {
+            "pills~,": 1.0
+        }, 
+        "operative": {
+            "see~dictated": 1.0
+        }, 
+        "or": {
+            ",~drainage": 0.14285714285714285, 
+            "breath~,": 0.14285714285714285, 
+            "capsules~,": 0.14285714285714285, 
+            "for~obstruction": 0.14285714285714285, 
+            "hematoma~collection": 0.14285714285714285, 
+            "not~drive": 0.14285714285714285, 
+            "soak~,": 0.14285714285714285
+        }, 
+        "other": {
+            "or~any": 1.0
+        }, 
+        "otherwise": {
+            "on~r/o": 1.0
+        }, 
+        "outpatient": {
+            "cardiology~rec": 0.5, 
+            "to~arrange": 0.5
+        }, 
+        "over": {
+            "fall~off": 1.0
+        }, 
+        "overnight": {
+            "no~issues": 1.0
+        }, 
+        "pain": {
+            ",~chest": 0.16666666666666666, 
+            ",~worsening": 0.16666666666666666, 
+            "had~adequate": 0.16666666666666666, 
+            "no~chest": 0.16666666666666666, 
+            "while~taking": 0.16666666666666666, 
+            "with~adequate": 0.16666666666666666
+        }, 
+        "patient": {
+            "Of~note": 0.5, 
+            "to~place": 0.5
+        }, 
+        "pills": {
+            "medications.~Crush": 1.0
+        }, 
+        "place": {
+            "rec~to": 1.0
+        }, 
+        "please": {
+            "stress~test.;": 1.0
+        }, 
+        "r/o": {
+            "no~issues.": 0.5, 
+            "patient~on": 0.5
+        }, 
+        "rec": {
+            ",~cardiology": 0.5, 
+            "consulted~and": 0.5
+        }, 
+        "relatively": {
+            "course~was": 1.0
+        }, 
+        "remainder": {
+            "infection.~The": 1.0
+        }, 
+        "scrub": {
+            ",~or": 1.0
+        }, 
+        "see": {
+            "test.;~please": 1.0
+        }, 
+        "service": {
+            "Hospital~surgery": 1.0
+        }, 
+        "she": {
+            ",~and": 0.3333333333333333, 
+            "diet~which": 0.3333333333333333, 
+            "that~time": 0.3333333333333333
+        }, 
+        "shortness": {
+            "pain~,": 1.0
+        }, 
+        "shower": {
+            "COMMENTS:~May": 1.0
+        }, 
+        "soak": {
+            "swim~,": 1.0
+        }, 
+        "sob": {
+            "pain~,": 1.0
+        }, 
+        "stable": {
+            "PACU~in": 0.5, 
+            "discharged~in": 0.5
+        }, 
+        "stage": {
+            "Nausea~DIET:": 1.0
+        }, 
+        "started": {
+            "she~was": 1.0
+        }, 
+        "stress": {
+            "outpatient~exercise": 1.0
+        }, 
+        "strips": {
+            "weeks.~Bandage": 1.0
+        }, 
+        "summary": {
+            "No~dictated": 1.0
+        }, 
+        "surgeon": {
+            "with~your": 1.0
+        }, 
+        "surgery": {
+            "days~after": 0.5, 
+            "tott~Hospital": 0.5
+        }, 
+        "swim": {
+            "bathe~,": 1.0
+        }, 
+        "symptoms": {
+            "any~other": 1.0
+        }, 
+        "take": {
+            ",~or": 1.0
+        }, 
+        "taking": {
+            "alcohol~while": 1.0
+        }, 
+        "temp>101.5": {
+            "fevers~(": 1.0
+        }, 
+        "test": {
+            "Exercise~Stress": 1.0
+        }, 
+        "test.;": {
+            "exercise~stress": 1.0
+        }, 
+        "that": {
+            "leak.~At": 1.0
+        }, 
+        "the": {
+            "admitted~to": 0.25, 
+            "floor~from": 0.25, 
+            "remainder~of": 0.25, 
+            "transferred~to": 0.25
+        }, 
+        "then": {
+            "She~was": 1.0
+        }, 
+        "time": {
+            "At~that": 1.0
+        }, 
+        "time.": {
+            "off~over": 1.0
+        }, 
+        "to": {
+            ",~PcP-": 0.14285714285714285, 
+            "and~discharged": 0.14285714285714285, 
+            "and~rec": 0.14285714285714285, 
+            "explicit~instructions": 0.14285714285714285, 
+            "then~advanced": 0.14285714285714285, 
+            "was~admitted": 0.14285714285714285, 
+            "was~transferred": 0.14285714285714285
+        }, 
+        "tolerated": {
+            "Walking~as": 1.0
+        }, 
+        "tolerated.": {
+            "which~she": 1.0
+        }, 
+        "tott": {
+            "to~the": 1.0
+        }, 
+        "transferred": {
+            "She~was": 1.0
+        }, 
+        "tub": {
+            "do~not": 1.0
+        }, 
+        "ugi": {
+            "O.R.~)": 1.0
+        }, 
+        "undergoing": {
+            "3/1/06~after": 1.0
+        }, 
+        "unremarkable": {
+            "was~relatively": 1.0
+        }, 
+        "up": {
+            "concern.~Follow": 1.0
+        }, 
+        "upon": {
+            "demand~ischemia": 1.0
+        }, 
+        "voiding": {
+            "ambulating~and": 1.0
+        }, 
+        "was": {
+            "COURSE:~Patient": 0.1111111111111111, 
+            "Her~incision": 0.1111111111111111, 
+            "POD1~which": 0.1111111111111111, 
+            "and~she": 0.1111111111111111, 
+            "control.~She": 0.1111111111111111, 
+            "details.~She": 0.1111111111111111, 
+            "hospital~course": 0.1111111111111111, 
+            "time~she": 0.1111111111111111, 
+            "tolerated.~She": 0.1111111111111111
+        }, 
+        "weeks": {
+            "Boomershine~1-2": 0.5, 
+            "test~2": 0.5
+        }, 
+        "weeks.": {
+            "Rabalais~1-2": 0.3333333333333333, 
+            "for~2": 0.3333333333333333, 
+            "in~1-2": 0.3333333333333333
+        }, 
+        "which": {
+            "I~diet": 0.5, 
+            "on~POD1": 0.5
+        }, 
+        "while": {
+            "consume~alcohol": 1.0
+        }, 
+        "will": {
+            "Bandage~strips": 1.0
+        }, 
+        "with": {
+            ",~and": 0.2, 
+            "C/D/I~,": 0.2, 
+            "Follow~up": 0.2, 
+            "in~clinic": 0.2, 
+            "note~patient": 0.2
+        }, 
+        "worsening": {
+            ")~,": 1.0
+        }, 
+        "your": {
+            "up~with": 1.0
+        }, 
+        "|": {
+            "#obese#~|": 0.1111111111111111, 
+            "12:00:00~AM": 0.1111111111111111, 
+            "28835228~|": 0.1111111111111111, 
+            "morbid~#obese#": 0.1111111111111111, 
+            "|~28835228": 0.1111111111111111, 
+            "|~3692827": 0.1111111111111111, 
+            "|~DIS": 0.1111111111111111, 
+            "|~WMC": 0.1111111111111111, 
+            "~451840844": 0.1111111111111111
+        }
+    }, 
+    "type": "data/train", 
+    "uni": {
+        "": 0.002136752136752137, 
+        "#obese#": 0.00641025641025641, 
+        "(": 0.010683760683760684, 
+        ")": 0.01282051282051282, 
+        "):": 0.002136752136752137, 
+        "******": 0.00641025641025641, 
+        ",": 0.06196581196581197, 
+        "01:00": 0.002136752136752137, 
+        "1-2": 0.00641025641025641, 
+        "1/12/2006": 0.002136752136752137, 
+        "128-46-61-9": 0.002136752136752137, 
+        "12:00": 0.002136752136752137, 
+        "12:00:00": 0.002136752136752137, 
+        "2": 0.00641025641025641, 
+        "25": 0.002136752136752137, 
+        "28835228": 0.002136752136752137, 
+        "3/1/06": 0.002136752136752137, 
+        "3/11/2006": 0.002136752136752137, 
+        "3/15/06": 0.004273504273504274, 
+        "3692827": 0.002136752136752137, 
+        "451840844": 0.002136752136752137, 
+        "5-10": 0.002136752136752137, 
+        "5/25/2006": 0.002136752136752137, 
+        ";Responsible": 0.002136752136752137, 
+        "@": 0.002136752136752137, 
+        "ACTIVITY:": 0.002136752136752137, 
+        "ADDITIONAL": 0.002136752136752137, 
+        "ADMIT": 0.002136752136752137, 
+        "ALLERGY:": 0.002136752136752137, 
+        "AM": 0.002136752136752137, 
+        "AND": 0.002136752136752137, 
+        "APPOINTMENT(": 0.002136752136752137, 
+        "AS": 0.002136752136752137, 
+        "AT": 0.002136752136752137, 
+        "Admission": 0.004273504273504274, 
+        "After": 0.002136752136752137, 
+        "Applicable": 0.002136752136752137, 
+        "At": 0.002136752136752137, 
+        "Attending:": 0.002136752136752137, 
+        "BE": 0.002136752136752137, 
+        "BRIEF": 0.002136752136752137, 
+        "BY:": 0.002136752136752137, 
+        "Bandage": 0.002136752136752137, 
+        "Boomershine": 0.002136752136752137, 
+        "C/D/I": 0.002136752136752137, 
+        "COMMENTS:": 0.002136752136752137, 
+        "CONDITION:": 0.002136752136752137, 
+        "CONTINGENT": 0.002136752136752137, 
+        "COURSE:": 0.002136752136752137, 
+        "Ca": 0.002136752136752137, 
+        "Causing": 0.002136752136752137, 
+        "Complications": 0.002136752136752137, 
+        "Crush": 0.002136752136752137, 
+        "D/C": 0.004273504273504274, 
+        "DANIAL": 0.002136752136752137, 
+        "DANTE": 0.002136752136752137, 
+        "DIAGNOSIS": 0.002136752136752137, 
+        "DIAGNOSIS:": 0.002136752136752137, 
+        "DIAGNOSIS;Conditions": 0.002136752136752137, 
+        "DIET:": 0.002136752136752137, 
+        "DIS": 0.002136752136752137, 
+        "DISCHARGE": 0.01282051282051282, 
+        "DISPOSITION:": 0.002136752136752137, 
+        "DO/PLAN:": 0.002136752136752137, 
+        "Date:": 0.004273504273504274, 
+        "Discharge": 0.002136752136752137, 
+        "Dr.": 0.004273504273504274, 
+        "END": 0.002136752136752137, 
+        "ENTERED": 0.002136752136752137, 
+        "Et": 0.002136752136752137, 
+        "Exercise": 0.002136752136752137, 
+        "FINAL": 0.002136752136752137, 
+        "FOLLOW": 0.002136752136752137, 
+        "FORAND": 0.002136752136752137, 
+        "Follow": 0.002136752136752137, 
+        "GGI": 0.002136752136752137, 
+        "HCL": 0.002136752136752137, 
+        "HOSPITAL": 0.002136752136752137, 
+        "Her": 0.002136752136752137, 
+        "Home": 0.002136752136752137, 
+        "Hospital": 0.002136752136752137, 
+        "I": 0.002136752136752137, 
+        "II": 0.004273504273504274, 
+        "IN": 0.002136752136752137, 
+        "Infections": 0.002136752136752137, 
+        "JERROLD": 0.002136752136752137, 
+        "KORY": 0.002136752136752137, 
+        "LAMANNA": 0.002136752136752137, 
+        "LESLEY": 0.002136752136752137, 
+        "LIQUID": 0.002136752136752137, 
+        "M.D.": 0.002136752136752137, 
+        "MEDICATIONS:": 0.002136752136752137, 
+        "MG": 0.002136752136752137, 
+        "MILLILITERS": 0.002136752136752137, 
+        "May": 0.002136752136752137, 
+        "NOT": 0.002136752136752137, 
+        "Nausea": 0.002136752136752137, 
+        "No": 0.002136752136752137, 
+        "Not": 0.002136752136752137, 
+        "O.R.": 0.002136752136752137, 
+        "OF": 0.004273504273504274, 
+        "ON:": 0.002136752136752137, 
+        "OPERATIONS": 0.002136752136752137, 
+        "ORAL": 0.002136752136752137, 
+        "ORDER": 0.002136752136752137, 
+        "ORDERS": 0.002136752136752137, 
+        "OTHER": 0.004273504273504274, 
+        "OXYCODONE+APAP": 0.002136752136752137, 
+        "Of": 0.002136752136752137, 
+        "PACU": 0.002136752136752137, 
+        "PATIENT": 0.002136752136752137, 
+        "PENNELL": 0.002136752136752137, 
+        "PHENERGAN": 0.002136752136752137, 
+        "PM": 0.004273504273504274, 
+        "PO": 0.002136752136752137, 
+        "POD1": 0.002136752136752137, 
+        "POD1.": 0.002136752136752137, 
+        "PR": 0.002136752136752137, 
+        "PRINCIPAL": 0.002136752136752137, 
+        "PRN": 0.004273504273504274, 
+        "PROCEDURES:": 0.002136752136752137, 
+        "PROMETHAZINE": 0.002136752136752137, 
+        "Pain": 0.002136752136752137, 
+        "Patient": 0.004273504273504274, 
+        "PcP-": 0.002136752136752137, 
+        "Please": 0.002136752136752137, 
+        "Q4H": 0.002136752136752137, 
+        "Q6H": 0.002136752136752137, 
+        "RESUME": 0.002136752136752137, 
+        "ROXICET": 0.002136752136752137, 
+        "Rabalais": 0.002136752136752137, 
+        "Report": 0.002136752136752137, 
+        "S": 0.002136752136752137, 
+        "SOLUTION": 0.002136752136752137, 
+        "SUMMARY:": 0.002136752136752137, 
+        "Santo": 0.002136752136752137, 
+        "Seek": 0.002136752136752137, 
+        "Service:": 0.002136752136752137, 
+        "She": 0.008547008547008548, 
+        "Stable": 0.002136752136752137, 
+        "Stage": 0.004273504273504274, 
+        "Status:": 0.002136752136752137, 
+        "Stress": 0.002136752136752137, 
+        "Study": 0.002136752136752137, 
+        "THE": 0.002136752136752137, 
+        "TO": 0.002136752136752137, 
+        "TREATMENTS/PROCEDURES": 0.002136752136752137, 
+        "The": 0.002136752136752137, 
+        "Treatment/Stay": 0.002136752136752137, 
+        "UGI": 0.002136752136752137, 
+        "UP": 0.002136752136752137, 
+        "UPON": 0.002136752136752137, 
+        "USED": 0.002136752136752137, 
+        "Unknown": 0.002136752136752137, 
+        "WILL": 0.002136752136752137, 
+        "WMC": 0.002136752136752137, 
+        "Walking": 0.002136752136752137, 
+        "YES": 0.002136752136752137, 
+        "YN831": 0.002136752136752137, 
+        "a": 0.004273504273504274, 
+        "adequate": 0.004273504273504274, 
+        "admitted": 0.002136752136752137, 
+        "advanced": 0.002136752136752137, 
+        "affecting": 0.002136752136752137, 
+        "after": 0.004273504273504274, 
+        "alcohol": 0.002136752136752137, 
+        "ambulating": 0.002136752136752137, 
+        "an": 0.002136752136752137, 
+        "and": 0.01282051282051282, 
+        "any": 0.002136752136752137, 
+        "arrange": 0.002136752136752137, 
+        "as": 0.002136752136752137, 
+        "attention": 0.002136752136752137, 
+        "banding.": 0.002136752136752137, 
+        "bathe": 0.002136752136752137, 
+        "bleeding": 0.002136752136752137, 
+        "breath": 0.002136752136752137, 
+        "but": 0.002136752136752137, 
+        "capsules": 0.002136752136752137, 
+        "cardiology": 0.004273504273504274, 
+        "chest": 0.004273504273504274, 
+        "clears": 0.002136752136752137, 
+        "clinic": 0.002136752136752137, 
+        "collection": 0.002136752136752137, 
+        "concern.": 0.002136752136752137, 
+        "condition": 0.002136752136752137, 
+        "condition.": 0.002136752136752137, 
+        "consulted": 0.002136752136752137, 
+        "consume": 0.002136752136752137, 
+        "control": 0.002136752136752137, 
+        "control.": 0.002136752136752137, 
+        "course": 0.002136752136752137, 
+        "days": 0.002136752136752137, 
+        "demand": 0.002136752136752137, 
+        "details.": 0.002136752136752137, 
+        "dictated": 0.004273504273504274, 
+        "diet": 0.002136752136752137, 
+        "diet.": 0.002136752136752137, 
+        "discharged": 0.004273504273504274, 
+        "do": 0.004273504273504274, 
+        "drainage": 0.002136752136752137, 
+        "drive": 0.002136752136752137, 
+        "elixirs.": 0.002136752136752137, 
+        "evidence": 0.002136752136752137, 
+        "excessive": 0.002136752136752137, 
+        "exercise": 0.002136752136752137, 
+        "explicit": 0.002136752136752137, 
+        "fall": 0.002136752136752137, 
+        "fevers": 0.002136752136752137, 
+        "fibromyalgia": 0.002136752136752137, 
+        "floor": 0.002136752136752137, 
+        "follow-up": 0.002136752136752137, 
+        "for": 0.010683760683760684, 
+        "from": 0.004273504273504274, 
+        "gastric": 0.002136752136752137, 
+        "gerd": 0.002136752136752137, 
+        "given": 0.002136752136752137, 
+        "had": 0.004273504273504274, 
+        "hematoma": 0.002136752136752137, 
+        "home": 0.002136752136752137, 
+        "hospital": 0.002136752136752137, 
+        "htn": 0.002136752136752137, 
+        "in": 0.008547008547008548, 
+        "incision": 0.00641025641025641, 
+        "independently": 0.002136752136752137, 
+        "induction": 0.002136752136752137, 
+        "infection.": 0.002136752136752137, 
+        "instructions": 0.002136752136752137, 
+        "into": 0.002136752136752137, 
+        "ischemia": 0.002136752136752137, 
+        "issues": 0.002136752136752137, 
+        "issues.": 0.002136752136752137, 
+        "laparoscopic": 0.002136752136752137, 
+        "leak.": 0.002136752136752137, 
+        "medical": 0.002136752136752137, 
+        "medications.": 0.002136752136752137, 
+        "morbid": 0.00641025641025641, 
+        "negative": 0.00641025641025641, 
+        "no": 0.008547008547008548, 
+        "not": 0.004273504273504274, 
+        "note": 0.004273504273504274, 
+        "obstruction": 0.002136752136752137, 
+        "of": 0.008547008547008548, 
+        "off": 0.002136752136752137, 
+        "on": 0.008547008547008548, 
+        "open": 0.002136752136752137, 
+        "operative": 0.002136752136752137, 
+        "or": 0.014957264957264958, 
+        "other": 0.002136752136752137, 
+        "otherwise": 0.002136752136752137, 
+        "outpatient": 0.004273504273504274, 
+        "over": 0.002136752136752137, 
+        "overnight": 0.002136752136752137, 
+        "pain": 0.01282051282051282, 
+        "patient": 0.004273504273504274, 
+        "pills": 0.002136752136752137, 
+        "place": 0.002136752136752137, 
+        "please": 0.002136752136752137, 
+        "r/o": 0.004273504273504274, 
+        "rec": 0.004273504273504274, 
+        "relatively": 0.002136752136752137, 
+        "remainder": 0.002136752136752137, 
+        "scrub": 0.002136752136752137, 
+        "see": 0.002136752136752137, 
+        "service": 0.002136752136752137, 
+        "she": 0.00641025641025641, 
+        "shortness": 0.002136752136752137, 
+        "shower": 0.002136752136752137, 
+        "soak": 0.002136752136752137, 
+        "sob": 0.002136752136752137, 
+        "stable": 0.004273504273504274, 
+        "stage": 0.002136752136752137, 
+        "started": 0.002136752136752137, 
+        "stress": 0.002136752136752137, 
+        "strips": 0.002136752136752137, 
+        "summary": 0.002136752136752137, 
+        "surgeon": 0.002136752136752137, 
+        "surgery": 0.004273504273504274, 
+        "swim": 0.002136752136752137, 
+        "symptoms": 0.002136752136752137, 
+        "take": 0.002136752136752137, 
+        "taking": 0.002136752136752137, 
+        "temp>101.5": 0.002136752136752137, 
+        "test": 0.002136752136752137, 
+        "test.;": 0.002136752136752137, 
+        "that": 0.002136752136752137, 
+        "the": 0.008547008547008548, 
+        "then": 0.002136752136752137, 
+        "time": 0.002136752136752137, 
+        "time.": 0.002136752136752137, 
+        "to": 0.014957264957264958, 
+        "tolerated": 0.002136752136752137, 
+        "tolerated.": 0.002136752136752137, 
+        "tott": 0.002136752136752137, 
+        "transferred": 0.002136752136752137, 
+        "tub": 0.002136752136752137, 
+        "ugi": 0.002136752136752137, 
+        "undergoing": 0.002136752136752137, 
+        "unremarkable": 0.002136752136752137, 
+        "up": 0.002136752136752137, 
+        "upon": 0.002136752136752137, 
+        "voiding": 0.002136752136752137, 
+        "was": 0.019230769230769232, 
+        "weeks": 0.004273504273504274, 
+        "weeks.": 0.00641025641025641, 
+        "which": 0.004273504273504274, 
+        "while": 0.002136752136752137, 
+        "will": 0.002136752136752137, 
+        "with": 0.010683760683760684, 
+        "worsening": 0.002136752136752137, 
+        "your": 0.002136752136752137, 
+        "|": 0.019230769230769232
+    }
+}

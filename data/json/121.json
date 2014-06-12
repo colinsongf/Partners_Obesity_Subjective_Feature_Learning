@@ -1,0 +1,4489 @@
+{
+    "bi": {
+        "#asthma#": {
+            ",": 1.0
+        }, 
+        "#obese#": {
+            "Abd:": 0.16666666666666666, 
+            "Morbid": 0.16666666666666666, 
+            "morbid": 0.16666666666666666, 
+            "morbidly": 0.3333333333333333, 
+            "w/": 0.16666666666666666
+        }, 
+        "(": {
+            "AM": 0.08333333333333333, 
+            "COLACE": 0.08333333333333333, 
+            "COMBIVENT": 0.08333333333333333, 
+            "LASIX": 0.08333333333333333, 
+            "LEXAPRO": 0.08333333333333333, 
+            "MOTRIN": 0.08333333333333333, 
+            "PA": 0.08333333333333333, 
+            "TREATMENTS/PROCEDURES": 0.08333333333333333, 
+            "Today": 0.16666666666666666, 
+            "cellulitis": 0.08333333333333333, 
+            "cycle": 0.08333333333333333
+        }, 
+        ")": {
+            "1": 0.07692307692307693, 
+            "4/06": 0.15384615384615385, 
+            "8/2": 0.07692307692307693, 
+            "Admission": 0.07692307692307693, 
+            "ESCITALOPRAM": 0.07692307692307693, 
+            "FUROSEMIDE": 0.07692307692307693, 
+            "HS92": 0.07692307692307693, 
+            "IBUPROFEN": 0.07692307692307693, 
+            "O.R.": 0.07692307692307693, 
+            "SODIUM": 0.07692307692307693, 
+            "SULFATE": 0.07692307692307693, 
+            "after": 0.07692307692307693
+        }, 
+        "):": {
+            "S": 1.0
+        }, 
+        "******": {
+            "3/4/2006": 0.3333333333333333, 
+            "ORDERS": 0.3333333333333333, 
+            "PM": 0.3333333333333333
+        }, 
+        "+/-": {
+            "oxycodeon": 1.0
+        }, 
+        ",": {
+            "#asthma#": 0.015384615384615385, 
+            "#obese#": 0.07692307692307693, 
+            "<200": 0.015384615384615385, 
+            "A+Ox3": 0.015384615384615385, 
+            "AMPICILLIN": 0.015384615384615385, 
+            "BS": 0.015384615384615385, 
+            "Blvd.": 0.015384615384615385, 
+            "Breath": 0.015384615384615385, 
+            "CP": 0.015384615384615385, 
+            "Complications": 0.015384615384615385, 
+            "DIAGNOSIS;Conditions": 0.015384615384615385, 
+            "DM": 0.015384615384615385, 
+            "DVT/PE": 0.015384615384615385, 
+            "Depression": 0.015384615384615385, 
+            "Diarrhea": 0.015384615384615385, 
+            "ESBRANDT": 0.015384615384615385, 
+            "F/Ch": 0.015384615384615385, 
+            "HS": 0.015384615384615385, 
+            "Infections": 0.015384615384615385, 
+            "J.": 0.015384615384615385, 
+            "K.": 0.015384615384615385, 
+            "Keiger": 0.015384615384615385, 
+            "LISINOPRIL": 0.015384615384615385, 
+            "NAD": 0.015384615384615385, 
+            "Nachi": 0.015384615384615385, 
+            "PAPAY": 0.015384615384615385, 
+            "PCP": 0.015384615384615385, 
+            "Penicillins": 0.015384615384615385, 
+            "WENDLANDT": 0.015384615384615385, 
+            "anicteric": 0.015384615384615385, 
+            "apnea": 0.015384615384615385, 
+            "bid": 0.015384615384615385, 
+            "breath": 0.015384615384615385, 
+            "course": 0.015384615384615385, 
+            "ctab": 0.015384615384615385, 
+            "exam": 0.015384615384615385, 
+            "feeds": 0.015384615384615385, 
+            "improvement": 0.015384615384615385, 
+            "leg": 0.015384615384615385, 
+            "meds": 0.015384615384615385, 
+            "nausea": 0.015384615384615385, 
+            "needed": 0.015384615384615385, 
+            "pain": 0.06153846153846154, 
+            "pain/sprain": 0.03076923076923077, 
+            "prn": 0.06153846153846154, 
+            "qd": 0.046153846153846156, 
+            "relief": 0.015384615384615385, 
+            "scooter": 0.015384615384615385, 
+            "sob": 0.015384615384615385, 
+            "soft": 0.015384615384615385, 
+            "tid": 0.015384615384615385, 
+            "topalpation": 0.015384615384615385
+        }, 
+        "-": {
+            "consult": 1.0
+        }, 
+        "---": {
+            "200/neg": 0.16666666666666666, 
+            "IUD": 0.16666666666666666, 
+            "intact": 0.16666666666666666, 
+            "observation.": 0.16666666666666666, 
+            "pain": 0.16666666666666666, 
+            "upset": 0.16666666666666666
+        }, 
+        "->": {
+            "Cephalosporins": 0.3333333333333333, 
+            "Lisinopril": 0.3333333333333333, 
+            "PCN": 0.3333333333333333
+        }, 
+        "/": {
+            "Controlled": 0.5, 
+            "House": 0.5
+        }, 
+        "02:23": {
+            "@": 1.0
+        }, 
+        "05:00": {
+            "AT": 1.0
+        }, 
+        "09925512": {
+            "|": 1.0
+        }, 
+        "1": {
+            "PERCOCET": 0.25, 
+            "Took": 0.25, 
+            "hold": 0.25, 
+            "x": 0.25
+        }, 
+        "1.": {
+            "COMMENTS:": 1.0
+        }, 
+        "10": {
+            ")": 0.5, 
+            "Lexapro": 0.5
+        }, 
+        "10/28/06": {
+            ")": 0.5, 
+            "ON:": 0.5
+        }, 
+        "100": {
+            ")": 1.0
+        }, 
+        "11/19": {
+            ",": 1.0
+        }, 
+        "12:00:00": {
+            "7/24/2006": 1.0
+        }, 
+        "140/78": {
+            "77": 1.0
+        }, 
+        "149/84": {
+            "91": 1.0
+        }, 
+        "2": {
+            ")": 0.2, 
+            "Take": 0.2, 
+            "of": 0.2, 
+            "or": 0.2, 
+            "to": 0.2
+        }, 
+        "2%": {
+            "NITRATE": 1.0
+        }, 
+        "2-3": {
+            "x": 1.0
+        }, 
+        "2.": {
+            "needed.": 1.0
+        }, 
+        "2/2": {
+            "contrast": 1.0
+        }, 
+        "20": {
+            "140/78": 0.5, 
+            "149/84": 0.5
+        }, 
+        "200/neg": {
+            "<": 1.0
+        }, 
+        "239-01-89-8": {
+            "DELMAR": 1.0
+        }, 
+        "3.": {
+            "already": 1.0
+        }, 
+        "3/4/2006": {
+            "Date:": 1.0
+        }, 
+        "34.6": {
+            "Hct": 1.0
+        }, 
+        "39F": {
+            "Course:": 0.5, 
+            "HPI:": 0.5
+        }, 
+        "4": {
+            "X": 1.0
+        }, 
+        "4/06": {
+            "(": 1.0
+        }, 
+        "40": {
+            ")": 0.5, 
+            "lasix": 0.5
+        }, 
+        "5": {
+            "chsrt": 0.3333333333333333, 
+            "trauma": 0.3333333333333333, 
+            "until": 0.3333333333333333
+        }, 
+        "500": {
+            "LEVOFLOXACIN": 0.25, 
+            "METFORMIN": 0.25, 
+            "Naprosyn": 0.25, 
+            "metformin": 0.25
+        }, 
+        "500mg": {
+            "IV": 1.0
+        }, 
+        "53886": {
+            "Dakota": 1.0
+        }, 
+        "555313428": {
+            "": 1.0
+        }, 
+        "6/5/2006": {
+            "Date:": 1.0
+        }, 
+        "600": {
+            ")": 0.5, 
+            "standing": 0.5
+        }, 
+        "6370517": {
+            "|": 1.0
+        }, 
+        "7": {
+            "X": 1.0
+        }, 
+        "7.7": {
+            "WBC": 1.0
+        }, 
+        "7/24/2006": {
+            "|": 1.0
+        }, 
+        "77": {
+            "97.9": 1.0
+        }, 
+        "8/2": {
+            "(": 1.0
+        }, 
+        "91": {
+            "98.1": 1.0
+        }, 
+        "96%RA;": {
+            "20": 1.0
+        }, 
+        "97%RA": {
+            "20": 1.0
+        }, 
+        "97.9": {
+            "VS:": 1.0
+        }, 
+        "98.1": {
+            "vs": 1.0
+        }, 
+        ";Responsible": {
+            "DIAGNOSIS": 1.0
+        }, 
+        "<": {
+            "D-dimer": 1.0
+        }, 
+        "<200": {
+            "D-dimer": 1.0
+        }, 
+        "@": {
+            "10/28/06": 1.0
+        }, 
+        "A+Ox3": {
+            "Neuro:": 1.0
+        }, 
+        "AA": {
+            "#obese#": 1.0
+        }, 
+        "ACTIVITY:": {
+            "cholesterol": 1.0
+        }, 
+        "ADDITIONAL": {
+            "plan": 1.0
+        }, 
+        "ADMIT": {
+            "Cephalosporins": 1.0
+        }, 
+        "ALBUTEROL": {
+            "AND": 1.0
+        }, 
+        "ALL:": {
+            "---": 1.0
+        }, 
+        "ALLERGY:": {
+            ",": 1.0
+        }, 
+        "AM": {
+            "12:00:00": 0.5, 
+            "IN": 0.5
+        }, 
+        "AMPICILLIN": {
+            ",": 1.0
+        }, 
+        "AND": {
+            "IPRATROPIUM": 0.5, 
+            "OPERATIONS": 0.5
+        }, 
+        "APAP": {
+            "+/-": 1.0
+        }, 
+        "APPOINTMENT(": {
+            "UP": 1.0
+        }, 
+        "AS": {
+            "USED": 1.0
+        }, 
+        "AT": {
+            "10/28/06": 1.0
+        }, 
+        "Abd:": {
+            "c/r/w": 1.0
+        }, 
+        "Administer": {
+            "Instruction": 1.0
+        }, 
+        "Admission": {
+            "Causing": 0.5, 
+            "|": 0.5
+        }, 
+        "Admission:": {
+            "on": 1.0
+        }, 
+        "After": {
+            ";Responsible": 1.0
+        }, 
+        "Ampicillin;": {
+            "upset;": 1.0
+        }, 
+        "Anemia": {
+            ",": 1.0
+        }, 
+        "Attending:": {
+            "YES": 1.0
+        }, 
+        "BE": {
+            "ORDER": 1.0
+        }, 
+        "BID": {
+            "PO": 0.5, 
+            "TP": 0.5
+        }, 
+        "BRIEF": {
+            "none": 1.0
+        }, 
+        "BS": {
+            "distant": 1.0
+        }, 
+        "BY:": {
+            "ENTERED": 1.0
+        }, 
+        "Blvd.": {
+            "Milstie": 1.0
+        }, 
+        "Breath": {
+            "of": 1.0
+        }, 
+        "CODE": {
+            "M.D.": 1.0
+        }, 
+        "COLACE": {
+            "MEDICATIONS:": 1.0
+        }, 
+        "COMBIVENT": {
+            "food": 1.0
+        }, 
+        "COMMENTS:": {
+            "ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            "DISCHARGE": 1.0
+        }, 
+        "CONTINGENT": {
+            "PM": 1.0
+        }, 
+        "COURSE:": {
+            "HOSPITAL": 1.0
+        }, 
+        "CP": {
+            "no": 1.0
+        }, 
+        "CT": {
+            "and": 1.0
+        }, 
+        "CV:": {
+            "assess": 1.0
+        }, 
+        "Carbohydrate": {
+            "/": 1.0
+        }, 
+        "Causing": {
+            "for": 1.0
+        }, 
+        "Cephalosporins": {
+            ",": 0.5, 
+            "swelling;": 0.5
+        }, 
+        "Clearman": {
+            "Dr": 1.0
+        }, 
+        "Complications": {
+            ",": 1.0
+        }, 
+        "Concerned": {
+            "evaluation.": 1.0
+        }, 
+        "Constipation": {
+            "PRN": 1.0
+        }, 
+        "Continued": {
+            "abx.": 1.0
+        }, 
+        "Controlled": {
+            "Carbohydrate": 1.0
+        }, 
+        "Course:": {
+            "Hospital": 1.0
+        }, 
+        "D-dimer": {
+            "nature.": 0.5, 
+            "wnl": 0.5
+        }, 
+        "D/C": {
+            "THE": 0.5, 
+            "WILL": 0.5
+        }, 
+        "DAILY": {
+            "PO": 1.0
+        }, 
+        "DELMAR": {
+            ",": 1.0
+        }, 
+        "DIAGNOSIS": {
+            "DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            "OTHER": 1.0
+        }, 
+        "DIET:": {
+            "Pain": 1.0
+        }, 
+        "DIS": {
+            "|": 1.0
+        }, 
+        "DISCHARGE": {
+            "FINAL": 0.16666666666666666, 
+            "MED": 0.16666666666666666, 
+            "OF": 0.16666666666666666, 
+            "PRINCIPAL": 0.16666666666666666, 
+            "services": 0.16666666666666666, 
+            "symptoms": 0.16666666666666666
+        }, 
+        "DISPOSITION:": {
+            "code": 1.0
+        }, 
+        "DM": {
+            ",": 1.0
+        }, 
+        "DO/PLAN:": {
+            "TO": 1.0
+        }, 
+        "DOCUSATE": {
+            "(": 1.0
+        }, 
+        "DVT": {
+            "about": 0.3333333333333333, 
+            "for": 0.3333333333333333, 
+            "of": 0.3333333333333333
+        }, 
+        "DVT/PE": {
+            "h/o": 1.0
+        }, 
+        "Dakota": {
+            "South": 1.0
+        }, 
+        "Data:": {
+            "---": 1.0
+        }, 
+        "Date:": {
+            "Admission": 0.5, 
+            "Discharge": 0.5
+        }, 
+        "Days": {
+            "4": 0.5, 
+            "7": 0.5
+        }, 
+        "Decision": {
+            "habitus.": 1.0
+        }, 
+        "Denies": {
+            "management.": 1.0
+        }, 
+        "Depression": {
+            ",": 1.0
+        }, 
+        "Diarrhea": {
+            ",": 1.0
+        }, 
+        "Discharge": {
+            "Status:": 1.0
+        }, 
+        "Dobek": {
+            "Dr": 1.0
+        }, 
+        "Dr": {
+            "):": 0.3333333333333333, 
+            "PCP:": 0.3333333333333333, 
+            "with": 0.3333333333333333
+        }, 
+        "Dr.": {
+            ",": 1.0
+        }, 
+        "ED": {
+            "in": 0.25, 
+            "to": 0.75
+        }, 
+        "ED:": {
+            "In": 1.0
+        }, 
+        "END": {
+            "******": 1.0
+        }, 
+        "ENTERED": {
+            "summary": 1.0
+        }, 
+        "ESBRANDT": {
+            "Attending:": 1.0
+        }, 
+        "ESCITALOPRAM": {
+            "(": 1.0
+        }, 
+        "Ext:": {
+            "NT": 1.0
+        }, 
+        "F/Ch": {
+            "no": 1.0
+        }, 
+        "FINAL": {
+            "******": 1.0
+        }, 
+        "FOLLOW": {
+            "recommendations": 1.0
+        }, 
+        "FREDRICK": {
+            ",": 1.0
+        }, 
+        "FUROSEMIDE": {
+            "(": 1.0
+        }, 
+        "Food/Drug": {
+            ")": 0.5, 
+            "meals": 0.5
+        }, 
+        "Full": {
+            "STATUS:": 1.0
+        }, 
+        "GI": {
+            "->": 1.0
+        }, 
+        "Gen:": {
+            "97%RA": 1.0
+        }, 
+        "HEENT:": {
+            "comfortable": 1.0
+        }, 
+        "HOLD": {
+            "Constipation": 1.0
+        }, 
+        "HOSPITAL": {
+            "OF": 1.0
+        }, 
+        "HPI:": {
+            "---": 1.0
+        }, 
+        "HS": {
+            "distant": 1.0
+        }, 
+        "HS92": {
+            "(": 1.0
+        }, 
+        "Hct": {
+            "7.7": 1.0
+        }, 
+        "Home": {
+            "---": 0.5, 
+            "DISPOSITION:": 0.5
+        }, 
+        "Hospital": {
+            "---": 1.0
+        }, 
+        "House": {
+            "DIET:": 1.0
+        }, 
+        "I": {
+            "|": 1.0
+        }, 
+        "IBUPROFEN": {
+            "(": 1.0
+        }, 
+        "IF:": {
+            "HOLD": 1.0
+        }, 
+        "IN": {
+            "NOT": 0.5, 
+            "Starting": 0.5
+        }, 
+        "INH": {
+            "PUFF": 1.0
+        }, 
+        "IPRATROPIUM": {
+            "(": 1.0
+        }, 
+        "IUD": {
+            ",": 1.0
+        }, 
+        "IV": {
+            "levoflox": 1.0
+        }, 
+        "If": {
+            "2.": 0.3333333333333333, 
+            "dose": 0.3333333333333333, 
+            "scooter.": 0.3333333333333333
+        }, 
+        "Ilarraza": {
+            "Dr": 1.0
+        }, 
+        "In": {
+            "palpation.": 1.0
+        }, 
+        "Infections": {
+            ",": 1.0
+        }, 
+        "Instruction": {
+            "Interaction": 1.0
+        }, 
+        "Instructions:": {
+            ")": 1.0
+        }, 
+        "Interaction": {
+            "Food/Drug": 1.0
+        }, 
+        "J.": {
+            "FREDRICK": 1.0
+        }, 
+        "JVP": {
+            "Neck:": 1.0
+        }, 
+        "K.": {
+            "MURRAY": 1.0
+        }, 
+        "Keiger": {
+            "Dr.": 1.0
+        }, 
+        "LASIX": {
+            "DAILY": 1.0
+        }, 
+        "LENI": {
+            "perform": 1.0
+        }, 
+        "LEVOFLOXACIN": {
+            "Wheezing": 1.0
+        }, 
+        "LEXAPRO": {
+            "stools": 1.0
+        }, 
+        "LH": {
+            "in": 1.0
+        }, 
+        "LISINOPRIL": {
+            ",": 1.0
+        }, 
+        "Lexapro": {
+            ",": 1.0
+        }, 
+        "Lisinopril": {
+            "Ampicillin;": 1.0
+        }, 
+        "Low": {
+            "/": 1.0
+        }, 
+        "Lungs:": {
+            "r/m/g": 1.0
+        }, 
+        "M.D.": {
+            ",": 1.0
+        }, 
+        "MED": {
+            "Service:": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "DISCHARGE": 1.0
+        }, 
+        "METFORMIN": {
+            "products.": 1.0
+        }, 
+        "MG": {
+            "10": 0.16666666666666666, 
+            "100": 0.16666666666666666, 
+            "40": 0.16666666666666666, 
+            "500": 0.3333333333333333, 
+            "600": 0.16666666666666666
+        }, 
+        "MICONAZOLE": {
+            "DAILY": 1.0
+        }, 
+        "MOTRIN": {
+            "DAILY": 1.0
+        }, 
+        "MURRAY": {
+            ",": 1.0
+        }, 
+        "Medications:": {
+            "Home": 1.0
+        }, 
+        "Milstie": {
+            "239-01-89-8": 1.0
+        }, 
+        "Morbid": {
+            "Treatment/Stay": 1.0
+        }, 
+        "NAD": {
+            "in": 1.0
+        }, 
+        "NITRATE": {
+            "MICONAZOLE": 1.0
+        }, 
+        "NOT": {
+            "(": 1.0
+        }, 
+        "NT": {
+            ",": 1.0
+        }, 
+        "Nachi": {
+            ",": 1.0
+        }, 
+        "Naprosyn": {
+            "Medications:": 1.0
+        }, 
+        "Neck:": {
+            "clear": 1.0
+        }, 
+        "Neuro:": {
+            "erythema": 1.0
+        }, 
+        "No": {
+            "DO/PLAN:": 0.5, 
+            "abx.": 0.5
+        }, 
+        "O.R.": {
+            "IN": 1.0
+        }, 
+        "OF": {
+            "END": 0.5, 
+            "RESUME": 0.5
+        }, 
+        "ON:": {
+            "PATIENT": 1.0
+        }, 
+        "OP": {
+            ",": 1.0
+        }, 
+        "OPERATIONS": {
+            "Anemia": 1.0
+        }, 
+        "ORDER": {
+            "D/C": 1.0
+        }, 
+        "ORDERS": {
+            "DISCHARGE": 1.0
+        }, 
+        "OTHER": {
+            ",": 0.5, 
+            "none": 0.5
+        }, 
+        "PA": {
+            ",": 1.0
+        }, 
+        "PAPAY": {
+            "BY:": 1.0
+        }, 
+        "PATIENT": {
+            "DISCHARGE": 1.0
+        }, 
+        "PCN": {
+            "ALL:": 1.0
+        }, 
+        "PCP": {
+            "by": 0.25, 
+            "d/w": 0.5, 
+            "her": 0.25
+        }, 
+        "PCP:": {
+            "services": 1.0
+        }, 
+        "PE": {
+            "---": 1.0
+        }, 
+        "PERCOCET": {
+            "BID": 1.0
+        }, 
+        "PM": {
+            "02:23": 0.5, 
+            "05:00": 0.5
+        }, 
+        "PO": {
+            "MG": 0.8571428571428571, 
+            "TAB": 0.14285714285714285
+        }, 
+        "POWDER": {
+            "2%": 1.0
+        }, 
+        "PRINCIPAL": {
+            "pain": 1.0
+        }, 
+        "PRN": {
+            ")": 0.3333333333333333, 
+            "Q6H": 0.3333333333333333, 
+            "QID": 0.3333333333333333
+        }, 
+        "PROCEDURES:": {
+            "AND": 1.0
+        }, 
+        "PT": {
+            "per": 1.0
+        }, 
+        "PUFF": {
+            "2": 1.0
+        }, 
+        "Pain": {
+            "PRN": 0.5, 
+            "weakness.": 0.5
+        }, 
+        "Penicillins": {
+            "ALLERGY:": 1.0
+        }, 
+        "Please": {
+            "1.": 1.0
+        }, 
+        "Pt": {
+            "house.": 0.5, 
+            "leulkocytosis.": 0.5
+        }, 
+        "Q6H": {
+            "PO": 1.0
+        }, 
+        "QID": {
+            "INH": 1.0
+        }, 
+        "R": {
+            ",": 0.25, 
+            "cc:": 0.25, 
+            "hit": 0.25, 
+            "t/o": 0.25
+        }, 
+        "RESUME": {
+            "BRIEF": 1.0
+        }, 
+        "RRR": {
+            ",": 1.0
+        }, 
+        "Report": {
+            "6/5/2006": 1.0
+        }, 
+        "Return": {
+            "3.": 1.0
+        }, 
+        "Right": {
+            ")": 0.3333333333333333, 
+            "DIAGNOSIS:": 0.3333333333333333, 
+            "|": 0.3333333333333333
+        }, 
+        "S": {
+            "APPOINTMENT(": 1.0
+        }, 
+        "SODIUM": {
+            "DOCUSATE": 1.0
+        }, 
+        "STATUS:": {
+            "CODE": 1.0
+        }, 
+        "SULFATE": {
+            "ALBUTEROL": 1.0
+        }, 
+        "SUMMARY:": {
+            "D/C": 1.0
+        }, 
+        "Service:": {
+            "53886": 1.0
+        }, 
+        "Shortness": {
+            "PRN": 1.0
+        }, 
+        "Sleep": {
+            ",": 1.0
+        }, 
+        "South": {
+            ",": 1.0
+        }, 
+        "Stable": {
+            "CONDITION:": 1.0
+        }, 
+        "Starting": {
+            "BID": 0.3333333333333333, 
+            "Days": 0.6666666666666666
+        }, 
+        "Status:": {
+            "Report": 1.0
+        }, 
+        "Study": {
+            "After": 1.0
+        }, 
+        "Swelling": {
+            "pain/swelling.": 1.0
+        }, 
+        "TAB": {
+            "1": 1.0
+        }, 
+        "THE": {
+            "AS": 1.0
+        }, 
+        "TO": {
+            "Stable": 1.0
+        }, 
+        "TOPICAL": {
+            "POWDER": 1.0
+        }, 
+        "TP": {
+            "TOPICAL": 1.0
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "OTHER": 1.0
+        }, 
+        "Take": {
+            ")": 0.5, 
+            "Instruction": 0.5
+        }, 
+        "Today": {
+            "Starting": 1.0
+        }, 
+        "Took": {
+            "days.": 1.0
+        }, 
+        "Treatment/Stay": {
+            "affecting": 1.0
+        }, 
+        "UP": {
+            "FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "CONTINGENT": 1.0
+        }, 
+        "USED": {
+            "BE": 1.0
+        }, 
+        "Unable": {
+            "low.": 1.0
+        }, 
+        "VS:": {
+            "Admission:": 1.0
+        }, 
+        "WBC": {
+            "Data:": 1.0
+        }, 
+        "WENDLANDT": {
+            "******": 1.0
+        }, 
+        "WILL": {
+            "control": 1.0
+        }, 
+        "Walking": {
+            "ACTIVITY:": 1.0
+        }, 
+        "Was": {
+            "arrival.": 1.0
+        }, 
+        "Wheezing": {
+            ",": 1.0
+        }, 
+        "While": {
+            "medications.": 1.0
+        }, 
+        "Will": {
+            "referal.": 1.0
+        }, 
+        "X": {
+            "DAILY": 0.5, 
+            "Q6H": 0.5
+        }, 
+        "YES": {
+            "SUMMARY:": 1.0
+        }, 
+        "a": {
+            "after": 0.5, 
+            "products": 0.5
+        }, 
+        "about": {
+            "Concerned": 1.0
+        }, 
+        "abx.": {
+            "narrow-spectrum": 0.5, 
+            "with": 0.5
+        }, 
+        "accidentally": {
+            ",": 1.0
+        }, 
+        "admit": {
+            "and": 0.5, 
+            "to": 0.5
+        }, 
+        "affecting": {
+            ",": 1.0
+        }, 
+        "after": {
+            "DVT": 0.16666666666666666, 
+            "ED": 0.16666666666666666, 
+            "hours": 0.16666666666666666, 
+            "hr": 0.16666666666666666, 
+            "or": 0.16666666666666666, 
+            "so": 0.16666666666666666
+        }, 
+        "against": {
+            "thigh": 1.0
+        }, 
+        "ago": {
+            "days": 1.0
+        }, 
+        "agrees": {
+            "and": 1.0
+        }, 
+        "albuterol": {
+            ",": 1.0
+        }, 
+        "already": {
+            "Dobek": 1.0
+        }, 
+        "and": {
+            ")": 0.0625, 
+            "LENI": 0.0625, 
+            "PCP": 0.0625, 
+            "chronic": 0.0625, 
+            "contacted": 0.0625, 
+            "eval": 0.0625, 
+            "evening": 0.0625, 
+            "investigate": 0.0625, 
+            "movement": 0.0625, 
+            "movements": 0.0625, 
+            "observation": 0.0625, 
+            "obtained": 0.0625, 
+            "pain": 0.125, 
+            "shelf": 0.0625, 
+            "status": 0.0625
+        }, 
+        "anicteric": {
+            "HEENT:": 1.0
+        }, 
+        "ans": {
+            "walker": 1.0
+        }, 
+        "any": {
+            "or": 1.0
+        }, 
+        "apnea": {
+            "Sleep": 1.0
+        }, 
+        "apparently": {
+            "is": 1.0
+        }, 
+        "appears": {
+            "pain": 1.0
+        }, 
+        "arrival.": {
+            "to": 1.0
+        }, 
+        "as": {
+            "Walking": 0.3333333333333333, 
+            "or": 0.3333333333333333, 
+            "softners": 0.3333333333333333
+        }, 
+        "assess": {
+            "to": 1.0
+        }, 
+        "at": {
+            "pt": 1.0
+        }, 
+        "baseline": {
+            "at": 1.0
+        }, 
+        "be": {
+            "to": 1.0
+        }, 
+        "before": {
+            "hours": 0.6666666666666666, 
+            "hr": 0.3333333333333333
+        }, 
+        "better": {
+            "feeling": 1.0
+        }, 
+        "bid": {
+            "500": 0.5, 
+            "miconazole": 0.5
+        }, 
+        "blunt": {
+            "after": 1.0
+        }, 
+        "body": {
+            "given": 0.5, 
+            "pt's": 0.5
+        }, 
+        "bowel": {
+            "monitor": 1.0
+        }, 
+        "breath": {
+            "of": 1.0
+        }, 
+        "by": {
+            "ED": 1.0
+        }, 
+        "c/r/w": {
+            "no": 1.0
+        }, 
+        "calf": {
+            ",": 1.0
+        }, 
+        "cc:": {
+            "COURSE:": 1.0
+        }, 
+        "cellulitis": {
+            "e/o": 0.5, 
+            "for": 0.5
+        }, 
+        "chem": {
+            "34.6": 1.0
+        }, 
+        "chest": {
+            ",": 1.0
+        }, 
+        "cholesterol": {
+            "low": 1.0
+        }, 
+        "chronic": {
+            "apparently": 1.0
+        }, 
+        "chsrt": {
+            "for": 1.0
+        }, 
+        "ciprofloxacin": {
+            "or": 1.0
+        }, 
+        "clear": {
+            "No": 0.3333333333333333, 
+            "OP": 0.3333333333333333, 
+            "no": 0.3333333333333333
+        }, 
+        "cleared": {
+            "and": 1.0
+        }, 
+        "code": {
+            "Full": 1.0
+        }, 
+        "combivent": {
+            ",": 1.0
+        }, 
+        "comfortable": {
+            ",": 1.0
+        }, 
+        "concern": {
+            "of": 1.0
+        }, 
+        "consult": {
+            "Pt": 0.5, 
+            "orthopedic": 0.5
+        }, 
+        "contacted": {
+            "Ilarraza": 1.0
+        }, 
+        "continued": {
+            ",": 1.0
+        }, 
+        "continues": {
+            "pain": 1.0
+        }, 
+        "contrast": {
+            "with": 1.0
+        }, 
+        "control": {
+            "pain": 1.0
+        }, 
+        "course": {
+            "day": 1.0
+        }, 
+        "ctab": {
+            ",": 1.0
+        }, 
+        "cycle": {
+            "please": 1.0
+        }, 
+        "d/c": {
+            "will": 1.0
+        }, 
+        "d/w": {
+            "after": 1.0
+        }, 
+        "dairy": {
+            "after": 1.0
+        }, 
+        "day": {
+            "5": 1.0
+        }, 
+        "days": {
+            "5": 1.0
+        }, 
+        "days.": {
+            "few": 1.0
+        }, 
+        "decision": {
+            "pt": 1.0
+        }, 
+        "developed": {
+            "and": 1.0
+        }, 
+        "dictated": {
+            "No": 1.0
+        }, 
+        "difficult": {
+            "exam": 1.0
+        }, 
+        "diffuse": {
+            "is": 1.0
+        }, 
+        "diffusely": {
+            "leg": 1.0
+        }, 
+        "discussed": {
+            "-": 1.0
+        }, 
+        "distant": {
+            "CV:": 0.5, 
+            "Lungs:": 0.5
+        }, 
+        "doesn't": {
+            "pain": 1.0
+        }, 
+        "don't": {
+            "Please": 1.0
+        }, 
+        "dose": {
+            "ciprofloxacin": 0.5, 
+            "dose": 0.5
+        }, 
+        "drive": {
+            "don't": 1.0
+        }, 
+        "e/o": {
+            "clear": 1.0
+        }, 
+        "emperically": {
+            "tx": 1.0
+        }, 
+        "erythema": {
+            "skin": 1.0
+        }, 
+        "eval": {
+            "for": 1.0
+        }, 
+        "evaluation.": {
+            "for": 1.0
+        }, 
+        "evening": {
+            "this": 1.0
+        }, 
+        "exam": {
+            "on": 0.5, 
+            "physical": 0.5
+        }, 
+        "experience": {
+            "is": 1.0
+        }, 
+        "fat": {
+            "saturated": 1.0
+        }, 
+        "feeds": {
+            "tube": 1.0
+        }, 
+        "feeling": {
+            "if": 1.0
+        }, 
+        "few": {
+            "past": 1.0
+        }, 
+        "food": {
+            "with": 1.0
+        }, 
+        "for": {
+            "11/19": 0.1111111111111111, 
+            "ED": 0.1111111111111111, 
+            "Study": 0.1111111111111111, 
+            "admit": 0.2222222222222222, 
+            "concern": 0.1111111111111111, 
+            "levoflox": 0.1111111111111111, 
+            "prn": 0.1111111111111111, 
+            "tx": 0.1111111111111111
+        }, 
+        "further": {
+            "to": 1.0
+        }, 
+        "given": {
+            "difficult": 1.0
+        }, 
+        "go": {
+            "to": 1.0
+        }, 
+        "got": {
+            "progressively": 1.0
+        }, 
+        "grossly": {
+            ",": 1.0
+        }, 
+        "h/o": {
+            "no": 1.0
+        }, 
+        "habitus": {
+            "body": 1.0
+        }, 
+        "habitus.": {
+            "body": 1.0
+        }, 
+        "her": {
+            "see": 1.0
+        }, 
+        "hit": {
+            "accidentally": 1.0
+        }, 
+        "hold": {
+            "(": 1.0
+        }, 
+        "home": {
+            "d/c": 0.3333333333333333, 
+            "go": 0.3333333333333333, 
+            "on": 0.3333333333333333
+        }, 
+        "hours": {
+            "2": 1.0
+        }, 
+        "house.": {
+            "in": 1.0
+        }, 
+        "hr": {
+            "1": 0.5, 
+            "2": 0.5
+        }, 
+        "if": {
+            "and": 1.0
+        }, 
+        "image": {
+            "to": 1.0
+        }, 
+        "improve": {
+            "doesn't": 1.0
+        }, 
+        "improvement": {
+            "without": 1.0
+        }, 
+        "in": {
+            "made": 0.16666666666666666, 
+            "msk": 0.16666666666666666, 
+            "riding": 0.16666666666666666, 
+            "was": 0.16666666666666666, 
+            "while": 0.16666666666666666, 
+            "woman": 0.16666666666666666
+        }, 
+        "increased": {
+            ",": 1.0
+        }, 
+        "increasing": {
+            "with": 1.0
+        }, 
+        "intact": {
+            "grossly": 1.0
+        }, 
+        "investigate": {
+            "further": 1.0
+        }, 
+        "iron": {
+            "Administer": 1.0
+        }, 
+        "is": {
+            "DVT": 0.25, 
+            "ED": 0.25, 
+            "Pain": 0.25, 
+            "Swelling": 0.25
+        }, 
+        "knee": {
+            "Right": 1.0
+        }, 
+        "knee/leg": {
+            "Right": 0.5, 
+            "of": 0.5
+        }, 
+        "lasix": {
+            ",": 1.0
+        }, 
+        "leg": {
+            "R": 1.0
+        }, 
+        "leulkocytosis.": {
+            "no": 1.0
+        }, 
+        "levoflox": {
+            "(": 0.5, 
+            "on": 0.5
+        }, 
+        "levofloxacin": {
+            "a": 1.0
+        }, 
+        "likelihood": {
+            "so": 1.0
+        }, 
+        "loose": {
+            "IF:": 1.0
+        }, 
+        "lovenox": {
+            ",": 1.0
+        }, 
+        "low": {
+            "fat": 1.0
+        }, 
+        "low.": {
+            "is": 1.0
+        }, 
+        "made": {
+            "decision": 0.5, 
+            "was": 0.5
+        }, 
+        "management.": {
+            "and": 1.0
+        }, 
+        "mdi": {
+            "albuterol": 1.0
+        }, 
+        "meals": {
+            "with": 1.0
+        }, 
+        "medications": {
+            "pain": 1.0
+        }, 
+        "medications.": {
+            "pain": 1.0
+        }, 
+        "meds": {
+            "home": 1.0
+        }, 
+        "metformin": {
+            ",": 1.0
+        }, 
+        "miconazole": {
+            ",": 1.0
+        }, 
+        "minimum": {
+            "a": 1.0
+        }, 
+        "mobility": {
+            "baseline": 1.0
+        }, 
+        "monitor": {
+            "Will": 0.5, 
+            "please": 0.5
+        }, 
+        "morbid": {
+            "w/": 1.0
+        }, 
+        "morbidly": {
+            "Ext:": 0.5, 
+            "Gen:": 0.5
+        }, 
+        "more": {
+            "try": 1.0
+        }, 
+        "motrin": {
+            ",": 1.0
+        }, 
+        "movement": {
+            "with": 1.0
+        }, 
+        "movements": {
+            "bowel": 1.0
+        }, 
+        "msk": {
+            "be": 1.0
+        }, 
+        "narrow-spectrum": {
+            "more": 1.0
+        }, 
+        "nature.": {
+            "in": 1.0
+        }, 
+        "nausea": {
+            ",": 1.0
+        }, 
+        "needed": {
+            "as": 1.0
+        }, 
+        "needed.": {
+            "as": 1.0
+        }, 
+        "no": {
+            ",": 0.875, 
+            "s1s2": 0.125
+        }, 
+        "none": {
+            ")": 0.5, 
+            "PROCEDURES:": 0.5
+        }, 
+        "not": {
+            "Pt": 1.0
+        }, 
+        "nrl": {
+            "RRR": 1.0
+        }, 
+        "observation": {
+            "for": 1.0
+        }, 
+        "observation.": {
+            "for": 1.0
+        }, 
+        "obtained": {
+            "consult": 1.0
+        }, 
+        "of": {
+            "Shortness": 0.16666666666666666, 
+            "likelihood": 0.16666666666666666, 
+            "minimum": 0.16666666666666666, 
+            "out": 0.16666666666666666, 
+            "severity": 0.16666666666666666, 
+            "shortness": 0.16666666666666666
+        }, 
+        "on": {
+            "Continued": 0.16666666666666666, 
+            "If": 0.16666666666666666, 
+            "PE": 0.16666666666666666, 
+            "cellulitis": 0.16666666666666666, 
+            "continued": 0.16666666666666666, 
+            "while": 0.16666666666666666
+        }, 
+        "or": {
+            "before": 0.4, 
+            "levofloxacin": 0.2, 
+            "vomiting": 0.2, 
+            "weeks": 0.2
+        }, 
+        "ortho": {
+            "outpt": 1.0
+        }, 
+        "orthopedic": {
+            "outpatient": 1.0
+        }, 
+        "other": {
+            "any": 1.0
+        }, 
+        "out": {
+            "PCP": 1.0
+        }, 
+        "outpatient": {
+            "recommend": 1.0
+        }, 
+        "outpt": {
+            "recommend": 1.0
+        }, 
+        "over": {
+            "worse": 1.0
+        }, 
+        "oxycodeon": {
+            ",": 1.0
+        }, 
+        "pain": {
+            "If": 0.14285714285714285, 
+            "UPON": 0.07142857142857142, 
+            "and": 0.07142857142857142, 
+            "calf": 0.07142857142857142, 
+            "chest": 0.07142857142857142, 
+            "developed": 0.07142857142857142, 
+            "for": 0.07142857142857142, 
+            "knee/leg": 0.14285714285714285, 
+            "monitor": 0.07142857142857142, 
+            "on": 0.07142857142857142, 
+            "taking": 0.07142857142857142, 
+            "thigh/leg": 0.07142857142857142
+        }, 
+        "pain/sprain": {
+            "knee": 1.0
+        }, 
+        "pain/swelling.": {
+            "increasing": 1.0
+        }, 
+        "palpation.": {
+            "and": 1.0
+        }, 
+        "past": {
+            "the": 1.0
+        }, 
+        "per": {
+            "tolerated": 1.0
+        }, 
+        "perform": {
+            "to": 1.0
+        }, 
+        "physical": {
+            "and": 1.0
+        }, 
+        "plan": {
+            "with": 1.0
+        }, 
+        "please": {
+            ",": 0.5, 
+            "medications": 0.5
+        }, 
+        "ppx": {
+            "lovenox": 1.0
+        }, 
+        "prior": {
+            "days": 1.0
+        }, 
+        "prn": {
+            "APAP": 0.2, 
+            "bid": 0.2, 
+            "mdi": 0.2, 
+            "qid": 0.2, 
+            "vicodin": 0.2
+        }, 
+        "products": {
+            "iron": 1.0
+        }, 
+        "products.": {
+            "dairy": 1.0
+        }, 
+        "progressively": {
+            "which": 1.0
+        }, 
+        "pt": {
+            "and": 0.6666666666666666, 
+            "sent": 0.3333333333333333
+        }, 
+        "pt's": {
+            "2/2": 1.0
+        }, 
+        "qd": {
+            "10": 0.3333333333333333, 
+            "40": 0.3333333333333333, 
+            "500": 0.3333333333333333
+        }, 
+        "qid": {
+            "combivent": 1.0
+        }, 
+        "r/m/g": {
+            "no": 1.0
+        }, 
+        "recommend": {
+            ",": 0.5, 
+            "would": 0.5
+        }, 
+        "recommendations": {
+            "PT": 1.0
+        }, 
+        "referal.": {
+            "ortho": 1.0
+        }, 
+        "relief": {
+            "without": 1.0
+        }, 
+        "resume": {
+            "and": 1.0
+        }, 
+        "riding": {
+            "Was": 1.0
+        }, 
+        "s1s2": {
+            "nrl": 1.0
+        }, 
+        "saturated": {
+            "Low": 1.0
+        }, 
+        "scooter": {
+            "in": 1.0
+        }, 
+        "scooter.": {
+            "ans": 1.0
+        }, 
+        "see": {
+            "to": 1.0
+        }, 
+        "sent": {
+            ",": 0.5, 
+            "so": 0.5
+        }, 
+        "services": {
+            "resume": 0.5, 
+            "w/": 0.5
+        }, 
+        "severity": {
+            "increased": 1.0
+        }, 
+        "shelf": {
+            "against": 1.0
+        }, 
+        "shortness": {
+            "experience": 1.0
+        }, 
+        "skin": {
+            "clear": 1.0
+        }, 
+        "so": {
+            ",": 0.3333333333333333, 
+            "DVT": 0.3333333333333333, 
+            "habitus": 0.3333333333333333
+        }, 
+        "sob": {
+            "Denies": 1.0
+        }, 
+        "soft": {
+            ",": 1.0
+        }, 
+        "softners": {
+            "stool": 1.0
+        }, 
+        "standing": {
+            "motrin": 1.0
+        }, 
+        "status": {
+            "mobility": 1.0
+        }, 
+        "stool": {
+            "take": 1.0
+        }, 
+        "stools": {
+            "loose": 1.0
+        }, 
+        "summary": {
+            "dictated": 1.0
+        }, 
+        "swelling": {
+            "and": 1.0
+        }, 
+        "swelling;": {
+            "throat": 1.0
+        }, 
+        "symptoms": {
+            "worrisome": 1.0
+        }, 
+        "t/o": {
+            "diffuse": 1.0
+        }, 
+        "take": {
+            "Instructions:": 0.5, 
+            "and": 0.5
+        }, 
+        "taking": {
+            "While": 1.0
+        }, 
+        "tender": {
+            "diffusely": 1.0
+        }, 
+        "the": {
+            "over": 1.0
+        }, 
+        "thigh": {
+            "R": 1.0
+        }, 
+        "thigh/leg": {
+            "R": 1.0
+        }, 
+        "this": {
+            "home": 1.0
+        }, 
+        "throat": {
+            "->": 1.0
+        }, 
+        "tid": {
+            "600": 1.0
+        }, 
+        "to": {
+            "PCP": 0.06666666666666667, 
+            "Return": 0.06666666666666667, 
+            "Unable": 0.06666666666666667, 
+            "appears": 0.06666666666666667, 
+            "before": 0.06666666666666667, 
+            "cleared": 0.06666666666666667, 
+            "image": 0.06666666666666667, 
+            "made": 0.06666666666666667, 
+            "prior": 0.06666666666666667, 
+            "pt": 0.06666666666666667, 
+            "sent": 0.06666666666666667, 
+            "unable": 0.13333333333333333, 
+            "went": 0.06666666666666667, 
+            "willing": 0.06666666666666667
+        }, 
+        "tolerated": {
+            "as": 1.0
+        }, 
+        "topalpation": {
+            "tender": 1.0
+        }, 
+        "trauma": {
+            "blunt": 1.0
+        }, 
+        "try": {
+            "to": 1.0
+        }, 
+        "tube": {
+            "on": 1.0
+        }, 
+        "tx": {
+            "and": 0.5, 
+            "to": 0.5
+        }, 
+        "unable": {
+            "96%RA;": 0.5, 
+            "JVP": 0.5
+        }, 
+        "until": {
+            "LH": 1.0
+        }, 
+        "upset": {
+            "GI": 1.0
+        }, 
+        "upset;": {
+            "GI": 1.0
+        }, 
+        "vicodin": {
+            ",": 0.5, 
+            "1": 0.5
+        }, 
+        "vomiting": {
+            ",": 1.0
+        }, 
+        "vs": {
+            "ED:": 1.0
+        }, 
+        "w/": {
+            "39F": 0.6666666666666666, 
+            "Home": 0.3333333333333333
+        }, 
+        "walker": {
+            "with": 1.0
+        }, 
+        "was": {
+            "DM": 0.5, 
+            "Decision": 0.5
+        }, 
+        "weakness.": {
+            "no": 1.0
+        }, 
+        "weeks": {
+            "2-3": 1.0
+        }, 
+        "went": {
+            ",": 1.0
+        }, 
+        "which": {
+            "swelling": 1.0
+        }, 
+        "while": {
+            "drive": 0.5, 
+            "ppx": 0.5
+        }, 
+        "will": {
+            "better": 1.0
+        }, 
+        "willing": {
+            "not": 1.0
+        }, 
+        "with": {
+            "CT": 0.1111111111111111, 
+            "Take": 0.1111111111111111, 
+            "ago": 0.1111111111111111, 
+            "agrees": 0.1111111111111111, 
+            "discussed": 0.1111111111111111, 
+            "emperically": 0.1111111111111111, 
+            "home": 0.1111111111111111, 
+            "take": 0.1111111111111111, 
+            "worse": 0.1111111111111111
+        }, 
+        "without": {
+            "continues": 0.5, 
+            "vicodin": 0.5
+        }, 
+        "wnl": {
+            "chem": 1.0
+        }, 
+        "woman": {
+            "AA": 1.0
+        }, 
+        "worrisome": {
+            "other": 1.0
+        }, 
+        "worse": {
+            ",": 0.5, 
+            "got": 0.5
+        }, 
+        "would": {
+            "improve": 1.0
+        }, 
+        "x": {
+            "500mg": 0.5, 
+            "Clearman": 0.5
+        }, 
+        "|": {
+            ",": 0.1111111111111111, 
+            "09925512": 0.1111111111111111, 
+            "555313428": 0.1111111111111111, 
+            "6370517": 0.1111111111111111, 
+            "AM": 0.1111111111111111, 
+            "DIS": 0.1111111111111111, 
+            "I": 0.1111111111111111, 
+            "|": 0.2222222222222222
+        }
+    }, 
+    "id": "121", 
+    "text": " 555313428 | I | 09925512 | | 6370517 | 7/24/2006 12:00:00 AM | Right knee pain/sprain , | | DIS | Admission Date: 6/5/2006 Report Status: Discharge Date: 3/4/2006 ****** FINAL DISCHARGE ORDERS ****** WENDLANDT , DELMAR 239-01-89-8 Milstie Blvd. , Nachi , South Dakota 53886 Service: MED DISCHARGE PATIENT ON: 10/28/06 AT 05:00 PM CONTINGENT UPON pain control WILL D/C ORDER BE USED AS THE D/C SUMMARY: YES Attending: ESBRANDT , MURRAY K. , M.D. CODE STATUS: Full code DISPOSITION: Home w/ services DISCHARGE MEDICATIONS: COLACE ( DOCUSATE SODIUM ) 100 MG PO BID Starting Today ( 4/06 ) PRN Constipation HOLD IF: loose stools LEXAPRO ( ESCITALOPRAM ) 10 MG PO DAILY LASIX ( FUROSEMIDE ) 40 MG PO DAILY MOTRIN ( IBUPROFEN ) 600 MG PO Q6H X 7 Days Starting Today ( 4/06 ) Instructions: take with meals Food/Drug Interaction Instruction Take with food COMBIVENT ( IPRATROPIUM AND ALBUTEROL SULFATE ) 2 PUFF INH QID PRN Shortness of Breath , Wheezing LEVOFLOXACIN 500 MG PO DAILY X 4 Days Starting IN AM ( 8/2 ) Food/Drug Interaction Instruction Administer iron products a minimum of 2 hours before or after a levofloxacin or ciprofloxacin dose dose If on tube feeds , please cycle ( hold 1 hr before to 2 hr after ) Take 2 hours before or 2 hours after dairy products. METFORMIN 500 MG PO DAILY MICONAZOLE NITRATE 2% POWDER TOPICAL TP BID PERCOCET 1 TAB PO Q6H PRN Pain DIET: House / Carbohydrate Controlled / Low saturated fat low cholesterol ACTIVITY: Walking as tolerated per PT recommendations FOLLOW UP APPOINTMENT( S ): Dr Clearman x 2-3 weeks or as needed , ALLERGY: Penicillins , AMPICILLIN , LISINOPRIL , Cephalosporins ADMIT DIAGNOSIS: Right knee/leg pain PRINCIPAL DISCHARGE DIAGNOSIS ;Responsible After Study for Causing Admission ) Right knee pain/sprain , OTHER DIAGNOSIS;Conditions , Infections , Complications , affecting Treatment/Stay Morbid #obese# , #asthma# , Sleep apnea , Depression , Diarrhea , Anemia OPERATIONS AND PROCEDURES: none OTHER TREATMENTS/PROCEDURES ( NOT IN O.R. ) none BRIEF RESUME OF HOSPITAL COURSE: cc: R thigh/leg pain --- HPI: 39F w/ #obese# , DM was in LH until 5 days prior to arrival. Was riding in scooter , accidentally hit R thigh against shelf and developed pain and swelling which progressively got worse over the past few days. Took 1 vicodin without relief , went to see her PCP , Dr. Keiger , 11/19 for evaluation. Concerned about DVT so sent pt to ED for eval and management. Denies sob , no CP , no F/Ch , no h/o DVT/PE , no weakness. Pain is diffuse t/o R leg , worse with movement and palpation. In ED: vs 98.1 91 149/84 20 96%RA; unable to perform LENI and CT with contrast 2/2 pt's body habitus so after d/w PCP and pt decision made to tx for cellulitis ( levoflox IV 500mg x 1 ) and admit for observation. --- Home Medications: Naprosyn 500 bid prn , Lexapro 10 qd , albuterol mdi prn , combivent qid prn , lasix 40 qd , metformin 500 qd , vicodin prn , miconazole bid , IUD --- ALL: PCN -> GI upset; Ampicillin; Lisinopril -> throat swelling; Cephalosporins -> GI upset --- PE on Admission: VS: 97.9 77 140/78 20 97%RA Gen: morbidly #obese# AA woman in NAD , comfortable HEENT: anicteric , OP clear Neck: JVP unable to assess CV: distant HS , RRR nrl s1s2 no r/m/g Lungs: distant BS , ctab , no c/r/w Abd: #obese# , soft , NT Ext: morbidly #obese# , R leg diffusely tender topalpation , no clear skin erythema Neuro: A+Ox3 , grossly intact --- Data: WBC 7.7 Hct 34.6 chem wnl D-dimer < 200/neg --- Hospital Course: 39F w/ morbid #obese# , DM , sent to ED by PCP out of concern for DVT after blunt trauma 5 days ago with increasing pain/swelling. Swelling is apparently chronic and pain appears to be msk in nature. D-dimer <200 , so likelihood of DVT is low. Unable to image to further investigate and physical exam difficult given body habitus. Decision was made in ED after d/w PCP to admit for observation and tx emperically with abx. No clear e/o cellulitis on exam , no leulkocytosis. Pt not willing to try more narrow-spectrum abx. Continued on home meds , motrin standing 600 tid , oxycodeon +/- APAP prn for pain , continued on levoflox for chsrt 5 day course , lovenox ppx while in house. Pt consult obtained and pt at baseline mobility status and cleared to go home with walker ans scooter. If pain continues without improvement , recommend outpt ortho referal. Will monitor pain and if feeling better will d/c home this evening and resume services PCP: Dr Ilarraza contacted and agrees with plan ADDITIONAL COMMENTS: 1. Please don't drive while on pain medications. While taking pain medications please monitor bowel movements and take stool softners as needed. 2. If pain doesn't improve would recommend outpatient orthopedic consult - discussed with Dr Dobek already 3. Return to ED is experience shortness of breath , calf pain , increased severity of knee/leg pain , chest pain , nausea , vomiting or any other worrisome symptoms DISCHARGE CONDITION: Stable TO DO/PLAN: No dictated summary ENTERED BY: PAPAY , FREDRICK J. , PA ( HS92 ) 10/28/06 @ 02:23 PM ****** END OF DISCHARGE ORDERS ******", 
+    "tri": {
+        "#asthma#": {
+            "#obese#~,": 1.0
+        }, 
+        "#obese#": {
+            "39F~w/": 0.16666666666666666, 
+            "Ext:~morbidly": 0.16666666666666666, 
+            "Gen:~morbidly": 0.16666666666666666, 
+            "Treatment/Stay~Morbid": 0.16666666666666666, 
+            "c/r/w~Abd:": 0.16666666666666666, 
+            "w/~morbid": 0.16666666666666666
+        }, 
+        "(": {
+            ",~PA": 0.08333333333333333, 
+            "DAILY~LASIX": 0.08333333333333333, 
+            "DAILY~MOTRIN": 0.08333333333333333, 
+            "IN~AM": 0.08333333333333333, 
+            "MEDICATIONS:~COLACE": 0.08333333333333333, 
+            "OTHER~TREATMENTS/PROCEDURES": 0.08333333333333333, 
+            "Starting~Today": 0.16666666666666666, 
+            "food~COMBIVENT": 0.08333333333333333, 
+            "for~cellulitis": 0.08333333333333333, 
+            "please~cycle": 0.08333333333333333, 
+            "stools~LEXAPRO": 0.08333333333333333
+        }, 
+        ")": {
+            "(~4/06": 0.15384615384615385, 
+            "(~8/2": 0.07692307692307693, 
+            "(~ESCITALOPRAM": 0.07692307692307693, 
+            "(~FUROSEMIDE": 0.07692307692307693, 
+            "(~HS92": 0.07692307692307693, 
+            "(~IBUPROFEN": 0.07692307692307693, 
+            "ALBUTEROL~SULFATE": 0.07692307692307693, 
+            "Causing~Admission": 0.07692307692307693, 
+            "DOCUSATE~SODIUM": 0.07692307692307693, 
+            "IN~O.R.": 0.07692307692307693, 
+            "hr~after": 0.07692307692307693, 
+            "x~1": 0.07692307692307693
+        }, 
+        "):": {
+            "APPOINTMENT(~S": 1.0
+        }, 
+        "******": {
+            "02:23~PM": 0.25, 
+            "DISCHARGE~ORDERS": 0.5, 
+            "Date:~3/4/2006": 0.25
+        }, 
+        "+/-": {
+            ",~oxycodeon": 1.0
+        }, 
+        ",": {
+            "******~WENDLANDT": 0.015384615384615385, 
+            ",~#asthma#": 0.015384615384615385, 
+            ",~AMPICILLIN": 0.015384615384615385, 
+            ",~Complications": 0.015384615384615385, 
+            ",~DM": 0.015384615384615385, 
+            ",~Depression": 0.015384615384615385, 
+            ",~Diarrhea": 0.015384615384615385, 
+            ",~Infections": 0.015384615384615385, 
+            ",~LISINOPRIL": 0.015384615384615385, 
+            ",~Nachi": 0.015384615384615385, 
+            ",~ctab": 0.015384615384615385, 
+            ",~nausea": 0.015384615384615385, 
+            ",~soft": 0.015384615384615385, 
+            "10~qd": 0.015384615384615385, 
+            "40~qd": 0.015384615384615385, 
+            "500~qd": 0.015384615384615385, 
+            "600~tid": 0.015384615384615385, 
+            "ALLERGY:~Penicillins": 0.015384615384615385, 
+            "Abd:~#obese#": 0.015384615384615385, 
+            "Attending:~ESBRANDT": 0.015384615384615385, 
+            "BY:~PAPAY": 0.015384615384615385, 
+            "D-dimer~<200": 0.015384615384615385, 
+            "Denies~sob": 0.015384615384615385, 
+            "Dr.~Keiger": 0.015384615384615385, 
+            "FREDRICK~J.": 0.015384615384615385, 
+            "HEENT:~anicteric": 0.015384615384615385, 
+            "MURRAY~K.": 0.015384615384615385, 
+            "Milstie~Blvd.": 0.015384615384615385, 
+            "Morbid~#obese#": 0.015384615384615385, 
+            "Neuro:~A+Ox3": 0.015384615384615385, 
+            "OTHER~DIAGNOSIS;Conditions": 0.015384615384615385, 
+            "R~leg": 0.015384615384615385, 
+            "Sleep~apnea": 0.015384615384615385, 
+            "as~needed": 0.015384615384615385, 
+            "bid~prn": 0.015384615384615385, 
+            "calf~pain": 0.015384615384615385, 
+            "chest~pain": 0.015384615384615385, 
+            "day~course": 0.015384615384615385, 
+            "distant~BS": 0.015384615384615385, 
+            "distant~HS": 0.015384615384615385, 
+            "for~pain": 0.015384615384615385, 
+            "h/o~DVT/PE": 0.015384615384615385, 
+            "her~PCP": 0.015384615384615385, 
+            "home~meds": 0.015384615384615385, 
+            "in~NAD": 0.015384615384615385, 
+            "in~scooter": 0.015384615384615385, 
+            "knee/leg~pain": 0.015384615384615385, 
+            "knee~pain/sprain": 0.03076923076923077, 
+            "mdi~prn": 0.015384615384615385, 
+            "miconazole~bid": 0.015384615384615385, 
+            "morbidly~#obese#": 0.015384615384615385, 
+            "morbid~#obese#": 0.015384615384615385, 
+            "no~CP": 0.015384615384615385, 
+            "no~F/Ch": 0.015384615384615385, 
+            "of~Breath": 0.015384615384615385, 
+            "of~breath": 0.015384615384615385, 
+            "on~exam": 0.015384615384615385, 
+            "qid~prn": 0.015384615384615385, 
+            "tender~topalpation": 0.015384615384615385, 
+            "tube~feeds": 0.015384615384615385, 
+            "vicodin~prn": 0.015384615384615385, 
+            "w/~#obese#": 0.015384615384615385, 
+            "without~improvement": 0.015384615384615385, 
+            "without~relief": 0.015384615384615385
+        }, 
+        "-": {
+            "orthopedic~consult": 1.0
+        }, 
+        "---": {
+            ",~IUD": 0.16666666666666666, 
+            "<~200/neg": 0.16666666666666666, 
+            "GI~upset": 0.16666666666666666, 
+            "for~observation.": 0.16666666666666666, 
+            "grossly~intact": 0.16666666666666666, 
+            "thigh/leg~pain": 0.16666666666666666
+        }, 
+        "->": {
+            "ALL:~PCN": 0.3333333333333333, 
+            "Ampicillin;~Lisinopril": 0.3333333333333333, 
+            "swelling;~Cephalosporins": 0.3333333333333333
+        }, 
+        "/": {
+            "Carbohydrate~Controlled": 0.5, 
+            "DIET:~House": 0.5
+        }, 
+        "02:23": {
+            "10/28/06~@": 1.0
+        }, 
+        "05:00": {
+            "10/28/06~AT": 1.0
+        }, 
+        "09925512": {
+            "I~|": 1.0
+        }, 
+        "1": {
+            "(~hold": 0.25, 
+            "500mg~x": 0.25, 
+            "BID~PERCOCET": 0.25, 
+            "days.~Took": 0.25
+        }, 
+        "1.": {
+            "ADDITIONAL~COMMENTS:": 1.0
+        }, 
+        "10": {
+            ",~Lexapro": 0.5, 
+            "ESCITALOPRAM~)": 0.5
+        }, 
+        "10/28/06": {
+            "HS92~)": 0.5, 
+            "PATIENT~ON:": 0.5
+        }, 
+        "100": {
+            "SODIUM~)": 1.0
+        }, 
+        "11/19": {
+            "Keiger~,": 1.0
+        }, 
+        "12:00:00": {
+            "|~7/24/2006": 1.0
+        }, 
+        "140/78": {
+            "97.9~77": 1.0
+        }, 
+        "149/84": {
+            "98.1~91": 1.0
+        }, 
+        "2": {
+            ")~Take": 0.2, 
+            "SULFATE~)": 0.2, 
+            "before~or": 0.2, 
+            "before~to": 0.2, 
+            "minimum~of": 0.2
+        }, 
+        "2%": {
+            "MICONAZOLE~NITRATE": 1.0
+        }, 
+        "2-3": {
+            "Clearman~x": 1.0
+        }, 
+        "2.": {
+            "as~needed.": 1.0
+        }, 
+        "2/2": {
+            "with~contrast": 1.0
+        }, 
+        "20": {
+            "77~140/78": 0.5, 
+            "91~149/84": 0.5
+        }, 
+        "200/neg": {
+            "D-dimer~<": 1.0
+        }, 
+        "239-01-89-8": {
+            ",~DELMAR": 1.0
+        }, 
+        "3.": {
+            "Dobek~already": 1.0
+        }, 
+        "3/4/2006": {
+            "Discharge~Date:": 1.0
+        }, 
+        "34.6": {
+            "7.7~Hct": 1.0
+        }, 
+        "39F": {
+            "---~HPI:": 0.5, 
+            "Hospital~Course:": 0.5
+        }, 
+        "4": {
+            "DAILY~X": 1.0
+        }, 
+        "4/06": {
+            "Today~(": 1.0
+        }, 
+        "40": {
+            ",~lasix": 0.5, 
+            "FUROSEMIDE~)": 0.5
+        }, 
+        "5": {
+            "LH~until": 0.3333333333333333, 
+            "blunt~trauma": 0.3333333333333333, 
+            "for~chsrt": 0.3333333333333333
+        }, 
+        "500": {
+            ",~metformin": 0.25, 
+            "Medications:~Naprosyn": 0.25, 
+            "Wheezing~LEVOFLOXACIN": 0.25, 
+            "products.~METFORMIN": 0.25
+        }, 
+        "500mg": {
+            "levoflox~IV": 1.0
+        }, 
+        "53886": {
+            "South~Dakota": 1.0
+        }, 
+        "6/5/2006": {
+            "Admission~Date:": 1.0
+        }, 
+        "600": {
+            "IBUPROFEN~)": 0.5, 
+            "motrin~standing": 0.5
+        }, 
+        "6370517": {
+            "|~|": 1.0
+        }, 
+        "7": {
+            "Q6H~X": 1.0
+        }, 
+        "7.7": {
+            "Data:~WBC": 1.0
+        }, 
+        "7/24/2006": {
+            "6370517~|": 1.0
+        }, 
+        "77": {
+            "VS:~97.9": 1.0
+        }, 
+        "8/2": {
+            "AM~(": 1.0
+        }, 
+        "91": {
+            "vs~98.1": 1.0
+        }, 
+        "96%RA;": {
+            "149/84~20": 1.0
+        }, 
+        "97%RA": {
+            "140/78~20": 1.0
+        }, 
+        "97.9": {
+            "Admission:~VS:": 1.0
+        }, 
+        "98.1": {
+            "ED:~vs": 1.0
+        }, 
+        ";Responsible": {
+            "DISCHARGE~DIAGNOSIS": 1.0
+        }, 
+        "<": {
+            "wnl~D-dimer": 1.0
+        }, 
+        "<200": {
+            "nature.~D-dimer": 1.0
+        }, 
+        "@": {
+            ")~10/28/06": 1.0
+        }, 
+        "A+Ox3": {
+            "erythema~Neuro:": 1.0
+        }, 
+        "AA": {
+            "morbidly~#obese#": 1.0
+        }, 
+        "ACTIVITY:": {
+            "low~cholesterol": 1.0
+        }, 
+        "ADDITIONAL": {
+            "with~plan": 1.0
+        }, 
+        "ADMIT": {
+            ",~Cephalosporins": 1.0
+        }, 
+        "ALBUTEROL": {
+            "IPRATROPIUM~AND": 1.0
+        }, 
+        "ALL:": {
+            "IUD~---": 1.0
+        }, 
+        "ALLERGY:": {
+            "needed~,": 1.0
+        }, 
+        "AM": {
+            "7/24/2006~12:00:00": 0.5, 
+            "Starting~IN": 0.5
+        }, 
+        "AMPICILLIN": {
+            "Penicillins~,": 1.0
+        }, 
+        "AND": {
+            "(~IPRATROPIUM": 0.5, 
+            "Anemia~OPERATIONS": 0.5
+        }, 
+        "APAP": {
+            "oxycodeon~+/-": 1.0
+        }, 
+        "APPOINTMENT(": {
+            "FOLLOW~UP": 1.0
+        }, 
+        "AS": {
+            "BE~USED": 1.0
+        }, 
+        "AT": {
+            "ON:~10/28/06": 1.0
+        }, 
+        "Abd:": {
+            "no~c/r/w": 1.0
+        }, 
+        "Administer": {
+            "Interaction~Instruction": 1.0
+        }, 
+        "Admission": {
+            "DIS~|": 0.5, 
+            "for~Causing": 0.5
+        }, 
+        "Admission:": {
+            "PE~on": 1.0
+        }, 
+        "After": {
+            "DIAGNOSIS~;Responsible": 1.0
+        }, 
+        "Ampicillin;": {
+            "GI~upset;": 1.0
+        }, 
+        "Anemia": {
+            "Diarrhea~,": 1.0
+        }, 
+        "Attending:": {
+            "SUMMARY:~YES": 1.0
+        }, 
+        "BE": {
+            "D/C~ORDER": 1.0
+        }, 
+        "BID": {
+            "MG~PO": 0.5, 
+            "TOPICAL~TP": 0.5
+        }, 
+        "BRIEF": {
+            ")~none": 1.0
+        }, 
+        "BS": {
+            "Lungs:~distant": 1.0
+        }, 
+        "BY:": {
+            "summary~ENTERED": 1.0
+        }, 
+        "Blvd.": {
+            "239-01-89-8~Milstie": 1.0
+        }, 
+        "Breath": {
+            "Shortness~of": 1.0
+        }, 
+        "CODE": {
+            ",~M.D.": 1.0
+        }, 
+        "COLACE": {
+            "DISCHARGE~MEDICATIONS:": 1.0
+        }, 
+        "COMBIVENT": {
+            "with~food": 1.0
+        }, 
+        "COMMENTS:": {
+            "plan~ADDITIONAL": 1.0
+        }, 
+        "CONDITION:": {
+            "symptoms~DISCHARGE": 1.0
+        }, 
+        "CONTINGENT": {
+            "05:00~PM": 1.0
+        }, 
+        "COURSE:": {
+            "OF~HOSPITAL": 1.0
+        }, 
+        "CP": {
+            ",~no": 1.0
+        }, 
+        "CT": {
+            "LENI~and": 1.0
+        }, 
+        "CV:": {
+            "to~assess": 1.0
+        }, 
+        "Carbohydrate": {
+            "House~/": 1.0
+        }, 
+        "Causing": {
+            "Study~for": 1.0
+        }, 
+        "Cephalosporins": {
+            "LISINOPRIL~,": 0.5, 
+            "throat~swelling;": 0.5
+        }, 
+        "Clearman": {
+            "):~Dr": 1.0
+        }, 
+        "Complications": {
+            "Infections~,": 1.0
+        }, 
+        "Concerned": {
+            "for~evaluation.": 1.0
+        }, 
+        "Constipation": {
+            ")~PRN": 1.0
+        }, 
+        "Continued": {
+            "narrow-spectrum~abx.": 1.0
+        }, 
+        "Controlled": {
+            "/~Carbohydrate": 1.0
+        }, 
+        "Course:": {
+            "---~Hospital": 1.0
+        }, 
+        "D-dimer": {
+            "chem~wnl": 0.5, 
+            "in~nature.": 0.5
+        }, 
+        "D/C": {
+            "AS~THE": 0.5, 
+            "control~WILL": 0.5
+        }, 
+        "DAILY": {
+            "MG~PO": 1.0
+        }, 
+        "DELMAR": {
+            "WENDLANDT~,": 1.0
+        }, 
+        "DIAGNOSIS": {
+            "PRINCIPAL~DISCHARGE": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "Cephalosporins~ADMIT": 1.0
+        }, 
+        "DIAGNOSIS;Conditions": {
+            ",~OTHER": 1.0
+        }, 
+        "DIET:": {
+            "PRN~Pain": 1.0
+        }, 
+        "DIS": {
+            "|~|": 1.0
+        }, 
+        "DISCHARGE": {
+            "******~FINAL": 0.16666666666666666, 
+            "END~OF": 0.16666666666666666, 
+            "Service:~MED": 0.16666666666666666, 
+            "pain~PRINCIPAL": 0.16666666666666666, 
+            "w/~services": 0.16666666666666666, 
+            "worrisome~symptoms": 0.16666666666666666
+        }, 
+        "DISPOSITION:": {
+            "Full~code": 1.0
+        }, 
+        "DM": {
+            "#obese#~,": 1.0
+        }, 
+        "DO/PLAN:": {
+            "Stable~TO": 1.0
+        }, 
+        "DOCUSATE": {
+            "COLACE~(": 1.0
+        }, 
+        "DVT": {
+            "Concerned~about": 0.3333333333333333, 
+            "concern~for": 0.3333333333333333, 
+            "likelihood~of": 0.3333333333333333
+        }, 
+        "DVT/PE": {
+            "no~h/o": 1.0
+        }, 
+        "Dakota": {
+            ",~South": 1.0
+        }, 
+        "Data:": {
+            "intact~---": 1.0
+        }, 
+        "Date:": {
+            "Status:~Discharge": 0.5, 
+            "|~Admission": 0.5
+        }, 
+        "Days": {
+            "X~4": 0.5, 
+            "X~7": 0.5
+        }, 
+        "Decision": {
+            "body~habitus.": 1.0
+        }, 
+        "Denies": {
+            "and~management.": 1.0
+        }, 
+        "Depression": {
+            "apnea~,": 1.0
+        }, 
+        "Diarrhea": {
+            "Depression~,": 1.0
+        }, 
+        "Discharge": {
+            "Report~Status:": 1.0
+        }, 
+        "Dobek": {
+            "with~Dr": 1.0
+        }, 
+        "Dr": {
+            "S~):": 0.3333333333333333, 
+            "discussed~with": 0.3333333333333333, 
+            "services~PCP:": 0.3333333333333333
+        }, 
+        "Dr.": {
+            "PCP~,": 1.0
+        }, 
+        "ED": {
+            "Return~to": 0.25, 
+            "made~in": 0.25, 
+            "pt~to": 0.25, 
+            "sent~to": 0.25
+        }, 
+        "ED:": {
+            "palpation.~In": 1.0
+        }, 
+        "END": {
+            "PM~******": 1.0
+        }, 
+        "ENTERED": {
+            "dictated~summary": 1.0
+        }, 
+        "ESBRANDT": {
+            "YES~Attending:": 1.0
+        }, 
+        "ESCITALOPRAM": {
+            "LEXAPRO~(": 1.0
+        }, 
+        "Ext:": {
+            ",~NT": 1.0
+        }, 
+        "F/Ch": {
+            ",~no": 1.0
+        }, 
+        "FINAL": {
+            "3/4/2006~******": 1.0
+        }, 
+        "FOLLOW": {
+            "PT~recommendations": 1.0
+        }, 
+        "FREDRICK": {
+            "PAPAY~,": 1.0
+        }, 
+        "FUROSEMIDE": {
+            "LASIX~(": 1.0
+        }, 
+        "Food/Drug": {
+            "8/2~)": 0.5, 
+            "with~meals": 0.5
+        }, 
+        "Full": {
+            "CODE~STATUS:": 1.0
+        }, 
+        "GI": {
+            "Cephalosporins~->": 0.5, 
+            "PCN~->": 0.5
+        }, 
+        "Gen:": {
+            "20~97%RA": 1.0
+        }, 
+        "HEENT:": {
+            ",~comfortable": 1.0
+        }, 
+        "HOLD": {
+            "PRN~Constipation": 1.0
+        }, 
+        "HOSPITAL": {
+            "RESUME~OF": 1.0
+        }, 
+        "HPI:": {
+            "pain~---": 1.0
+        }, 
+        "HS": {
+            "CV:~distant": 1.0
+        }, 
+        "HS92": {
+            "PA~(": 1.0
+        }, 
+        "Hct": {
+            "WBC~7.7": 1.0
+        }, 
+        "Home": {
+            "code~DISPOSITION:": 0.5, 
+            "observation.~---": 0.5
+        }, 
+        "Hospital": {
+            "200/neg~---": 1.0
+        }, 
+        "House": {
+            "Pain~DIET:": 1.0
+        }, 
+        "I": {
+            "555313428~|": 1.0
+        }, 
+        "IBUPROFEN": {
+            "MOTRIN~(": 1.0
+        }, 
+        "IF:": {
+            "Constipation~HOLD": 1.0
+        }, 
+        "IN": {
+            "(~NOT": 0.5, 
+            "Days~Starting": 0.5
+        }, 
+        "INH": {
+            "2~PUFF": 1.0
+        }, 
+        "IPRATROPIUM": {
+            "COMBIVENT~(": 1.0
+        }, 
+        "IUD": {
+            "bid~,": 1.0
+        }, 
+        "IV": {
+            "(~levoflox": 1.0
+        }, 
+        "If": {
+            "ans~scooter.": 0.3333333333333333, 
+            "dose~dose": 0.3333333333333333, 
+            "needed.~2.": 0.3333333333333333
+        }, 
+        "Ilarraza": {
+            "PCP:~Dr": 1.0
+        }, 
+        "In": {
+            "and~palpation.": 1.0
+        }, 
+        "Infections": {
+            "DIAGNOSIS;Conditions~,": 1.0
+        }, 
+        "Instruction": {
+            "Food/Drug~Interaction": 1.0
+        }, 
+        "Instructions:": {
+            "4/06~)": 1.0
+        }, 
+        "Interaction": {
+            ")~Food/Drug": 0.5, 
+            "meals~Food/Drug": 0.5
+        }, 
+        "J.": {
+            ",~FREDRICK": 1.0
+        }, 
+        "JVP": {
+            "clear~Neck:": 1.0
+        }, 
+        "K.": {
+            ",~MURRAY": 1.0
+        }, 
+        "Keiger": {
+            ",~Dr.": 1.0
+        }, 
+        "LASIX": {
+            "PO~DAILY": 1.0
+        }, 
+        "LENI": {
+            "to~perform": 1.0
+        }, 
+        "LEVOFLOXACIN": {
+            ",~Wheezing": 1.0
+        }, 
+        "LEXAPRO": {
+            "loose~stools": 1.0
+        }, 
+        "LH": {
+            "was~in": 1.0
+        }, 
+        "LISINOPRIL": {
+            "AMPICILLIN~,": 1.0
+        }, 
+        "Lexapro": {
+            "prn~,": 1.0
+        }, 
+        "Lisinopril": {
+            "upset;~Ampicillin;": 1.0
+        }, 
+        "Low": {
+            "Controlled~/": 1.0
+        }, 
+        "Lungs:": {
+            "no~r/m/g": 1.0
+        }, 
+        "M.D.": {
+            "K.~,": 1.0
+        }, 
+        "MED": {
+            "53886~Service:": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "services~DISCHARGE": 1.0
+        }, 
+        "METFORMIN": {
+            "dairy~products.": 1.0
+        }, 
+        "MG": {
+            ")~10": 0.16666666666666666, 
+            ")~100": 0.16666666666666666, 
+            ")~40": 0.16666666666666666, 
+            ")~600": 0.16666666666666666, 
+            "LEVOFLOXACIN~500": 0.16666666666666666, 
+            "METFORMIN~500": 0.16666666666666666
+        }, 
+        "MICONAZOLE": {
+            "PO~DAILY": 1.0
+        }, 
+        "MOTRIN": {
+            "PO~DAILY": 1.0
+        }, 
+        "MURRAY": {
+            "ESBRANDT~,": 1.0
+        }, 
+        "Medications:": {
+            "---~Home": 1.0
+        }, 
+        "Milstie": {
+            "DELMAR~239-01-89-8": 1.0
+        }, 
+        "Morbid": {
+            "affecting~Treatment/Stay": 1.0
+        }, 
+        "NAD": {
+            "woman~in": 1.0
+        }, 
+        "NITRATE": {
+            "DAILY~MICONAZOLE": 1.0
+        }, 
+        "NOT": {
+            "TREATMENTS/PROCEDURES~(": 1.0
+        }, 
+        "NT": {
+            "soft~,": 1.0
+        }, 
+        "Nachi": {
+            "Blvd.~,": 1.0
+        }, 
+        "Naprosyn": {
+            "Home~Medications:": 1.0
+        }, 
+        "Neck:": {
+            "OP~clear": 1.0
+        }, 
+        "Neuro:": {
+            "skin~erythema": 1.0
+        }, 
+        "No": {
+            "TO~DO/PLAN:": 0.5, 
+            "with~abx.": 0.5
+        }, 
+        "O.R.": {
+            "NOT~IN": 1.0
+        }, 
+        "OF": {
+            "******~END": 0.5, 
+            "BRIEF~RESUME": 0.5
+        }, 
+        "ON:": {
+            "DISCHARGE~PATIENT": 1.0
+        }, 
+        "OP": {
+            "anicteric~,": 1.0
+        }, 
+        "OPERATIONS": {
+            ",~Anemia": 1.0
+        }, 
+        "ORDER": {
+            "WILL~D/C": 1.0
+        }, 
+        "ORDERS": {
+            "FINAL~DISCHARGE": 0.5, 
+            "OF~DISCHARGE": 0.5
+        }, 
+        "OTHER": {
+            "PROCEDURES:~none": 0.5, 
+            "pain/sprain~,": 0.5
+        }, 
+        "PA": {
+            "J.~,": 1.0
+        }, 
+        "PAPAY": {
+            "ENTERED~BY:": 1.0
+        }, 
+        "PATIENT": {
+            "MED~DISCHARGE": 1.0
+        }, 
+        "PCN": {
+            "---~ALL:": 1.0
+        }, 
+        "PCP": {
+            "ED~by": 0.25, 
+            "after~d/w": 0.5, 
+            "see~her": 0.25
+        }, 
+        "PCP:": {
+            "resume~services": 1.0
+        }, 
+        "PE": {
+            "upset~---": 1.0
+        }, 
+        "PERCOCET": {
+            "TP~BID": 1.0
+        }, 
+        "PM": {
+            "@~02:23": 0.5, 
+            "AT~05:00": 0.5
+        }, 
+        "PO": {
+            "100~MG": 0.14285714285714285, 
+            "10~MG": 0.14285714285714285, 
+            "1~TAB": 0.14285714285714285, 
+            "40~MG": 0.14285714285714285, 
+            "500~MG": 0.2857142857142857, 
+            "600~MG": 0.14285714285714285
+        }, 
+        "POWDER": {
+            "NITRATE~2%": 1.0
+        }, 
+        "PRINCIPAL": {
+            "knee/leg~pain": 1.0
+        }, 
+        "PRN": {
+            "4/06~)": 0.3333333333333333, 
+            "INH~QID": 0.3333333333333333, 
+            "PO~Q6H": 0.3333333333333333
+        }, 
+        "PROCEDURES:": {
+            "OPERATIONS~AND": 1.0
+        }, 
+        "PT": {
+            "tolerated~per": 1.0
+        }, 
+        "PUFF": {
+            ")~2": 1.0
+        }, 
+        "Pain": {
+            "Q6H~PRN": 0.5, 
+            "no~weakness.": 0.5
+        }, 
+        "Penicillins": {
+            ",~ALLERGY:": 1.0
+        }, 
+        "Please": {
+            "COMMENTS:~1.": 1.0
+        }, 
+        "Pt": {
+            "in~house.": 0.5, 
+            "no~leulkocytosis.": 0.5
+        }, 
+        "Q6H": {
+            "MG~PO": 0.5, 
+            "TAB~PO": 0.5
+        }, 
+        "QID": {
+            "PUFF~INH": 1.0
+        }, 
+        "R": {
+            "#obese#~,": 0.25, 
+            "COURSE:~cc:": 0.25, 
+            "accidentally~hit": 0.25, 
+            "diffuse~t/o": 0.25
+        }, 
+        "RESUME": {
+            "none~BRIEF": 1.0
+        }, 
+        "RRR": {
+            "HS~,": 1.0
+        }, 
+        "Report": {
+            "Date:~6/5/2006": 1.0
+        }, 
+        "Return": {
+            "already~3.": 1.0
+        }, 
+        "Right": {
+            "ADMIT~DIAGNOSIS:": 0.3333333333333333, 
+            "AM~|": 0.3333333333333333, 
+            "Admission~)": 0.3333333333333333
+        }, 
+        "S": {
+            "UP~APPOINTMENT(": 1.0
+        }, 
+        "SODIUM": {
+            "(~DOCUSATE": 1.0
+        }, 
+        "STATUS:": {
+            "M.D.~CODE": 1.0
+        }, 
+        "SULFATE": {
+            "AND~ALBUTEROL": 1.0
+        }, 
+        "SUMMARY:": {
+            "THE~D/C": 1.0
+        }, 
+        "Service:": {
+            "Dakota~53886": 1.0
+        }, 
+        "Shortness": {
+            "QID~PRN": 1.0
+        }, 
+        "Sleep": {
+            "#asthma#~,": 1.0
+        }, 
+        "South": {
+            "Nachi~,": 1.0
+        }, 
+        "Stable": {
+            "DISCHARGE~CONDITION:": 1.0
+        }, 
+        "Starting": {
+            "4~Days": 0.3333333333333333, 
+            "7~Days": 0.3333333333333333, 
+            "PO~BID": 0.3333333333333333
+        }, 
+        "Status:": {
+            "6/5/2006~Report": 1.0
+        }, 
+        "Study": {
+            ";Responsible~After": 1.0
+        }, 
+        "Swelling": {
+            "increasing~pain/swelling.": 1.0
+        }, 
+        "TAB": {
+            "PERCOCET~1": 1.0
+        }, 
+        "THE": {
+            "USED~AS": 1.0
+        }, 
+        "TO": {
+            "CONDITION:~Stable": 1.0
+        }, 
+        "TOPICAL": {
+            "2%~POWDER": 1.0
+        }, 
+        "TP": {
+            "POWDER~TOPICAL": 1.0
+        }, 
+        "TREATMENTS/PROCEDURES": {
+            "none~OTHER": 1.0
+        }, 
+        "Take": {
+            "Interaction~Instruction": 0.5, 
+            "after~)": 0.5
+        }, 
+        "Today": {
+            "BID~Starting": 0.5, 
+            "Days~Starting": 0.5
+        }, 
+        "Took": {
+            "few~days.": 1.0
+        }, 
+        "Treatment/Stay": {
+            ",~affecting": 1.0
+        }, 
+        "UP": {
+            "recommendations~FOLLOW": 1.0
+        }, 
+        "UPON": {
+            "PM~CONTINGENT": 1.0
+        }, 
+        "USED": {
+            "ORDER~BE": 1.0
+        }, 
+        "Unable": {
+            "is~low.": 1.0
+        }, 
+        "VS:": {
+            "on~Admission:": 1.0
+        }, 
+        "WBC": {
+            "---~Data:": 1.0
+        }, 
+        "WENDLANDT": {
+            "ORDERS~******": 1.0
+        }, 
+        "WILL": {
+            "pain~control": 1.0
+        }, 
+        "Walking": {
+            "cholesterol~ACTIVITY:": 1.0
+        }, 
+        "Was": {
+            "to~arrival.": 1.0
+        }, 
+        "Wheezing": {
+            "Breath~,": 1.0
+        }, 
+        "While": {
+            "pain~medications.": 1.0
+        }, 
+        "Will": {
+            "ortho~referal.": 1.0
+        }, 
+        "X": {
+            "PO~DAILY": 0.5, 
+            "PO~Q6H": 0.5
+        }, 
+        "YES": {
+            "D/C~SUMMARY:": 1.0
+        }, 
+        "a": {
+            "iron~products": 0.5, 
+            "or~after": 0.5
+        }, 
+        "about": {
+            "evaluation.~Concerned": 1.0
+        }, 
+        "abx.": {
+            "emperically~with": 0.5, 
+            "more~narrow-spectrum": 0.5
+        }, 
+        "accidentally": {
+            "scooter~,": 1.0
+        }, 
+        "admit": {
+            ")~and": 0.5, 
+            "PCP~to": 0.5
+        }, 
+        "affecting": {
+            "Complications~,": 1.0
+        }, 
+        "after": {
+            "2~hours": 0.16666666666666666, 
+            "2~hr": 0.16666666666666666, 
+            "before~or": 0.16666666666666666, 
+            "for~DVT": 0.16666666666666666, 
+            "habitus~so": 0.16666666666666666, 
+            "in~ED": 0.16666666666666666
+        }, 
+        "against": {
+            "R~thigh": 1.0
+        }, 
+        "ago": {
+            "5~days": 1.0
+        }, 
+        "agrees": {
+            "contacted~and": 1.0
+        }, 
+        "albuterol": {
+            "qd~,": 1.0
+        }, 
+        "already": {
+            "Dr~Dobek": 1.0
+        }, 
+        "and": {
+            "1~)": 0.0625, 
+            "Ilarraza~contacted": 0.0625, 
+            "against~shelf": 0.0625, 
+            "apparently~chronic": 0.0625, 
+            "bowel~movements": 0.0625, 
+            "consult~obtained": 0.0625, 
+            "d/w~PCP": 0.0625, 
+            "developed~pain": 0.0625, 
+            "for~eval": 0.0625, 
+            "for~observation": 0.0625, 
+            "further~investigate": 0.0625, 
+            "mobility~status": 0.0625, 
+            "monitor~pain": 0.0625, 
+            "perform~LENI": 0.0625, 
+            "this~evening": 0.0625, 
+            "with~movement": 0.0625
+        }, 
+        "anicteric": {
+            "comfortable~HEENT:": 1.0
+        }, 
+        "ans": {
+            "with~walker": 1.0
+        }, 
+        "any": {
+            "vomiting~or": 1.0
+        }, 
+        "apnea": {
+            ",~Sleep": 1.0
+        }, 
+        "apparently": {
+            "Swelling~is": 1.0
+        }, 
+        "appears": {
+            "and~pain": 1.0
+        }, 
+        "arrival.": {
+            "prior~to": 1.0
+        }, 
+        "as": {
+            "ACTIVITY:~Walking": 0.3333333333333333, 
+            "stool~softners": 0.3333333333333333, 
+            "weeks~or": 0.3333333333333333
+        }, 
+        "assess": {
+            "unable~to": 1.0
+        }, 
+        "at": {
+            "and~pt": 1.0
+        }, 
+        "baseline": {
+            "pt~at": 1.0
+        }, 
+        "be": {
+            "appears~to": 1.0
+        }, 
+        "before": {
+            "1~hr": 0.3333333333333333, 
+            "2~hours": 0.6666666666666666
+        }, 
+        "better": {
+            "if~feeling": 1.0
+        }, 
+        "bid": {
+            ",~miconazole": 0.5, 
+            "Naprosyn~500": 0.5
+        }, 
+        "blunt": {
+            "DVT~after": 1.0
+        }, 
+        "body": {
+            "2/2~pt's": 0.5, 
+            "difficult~given": 0.5
+        }, 
+        "bowel": {
+            "please~monitor": 1.0
+        }, 
+        "breath": {
+            "shortness~of": 1.0
+        }, 
+        "by": {
+            "to~ED": 1.0
+        }, 
+        "c/r/w": {
+            ",~no": 1.0
+        }, 
+        "calf": {
+            "breath~,": 1.0
+        }, 
+        "cc:": {
+            "HOSPITAL~COURSE:": 1.0
+        }, 
+        "cellulitis": {
+            "clear~e/o": 0.5, 
+            "tx~for": 0.5
+        }, 
+        "chem": {
+            "Hct~34.6": 1.0
+        }, 
+        "chest": {
+            "pain~,": 1.0
+        }, 
+        "cholesterol": {
+            "fat~low": 1.0
+        }, 
+        "chronic": {
+            "is~apparently": 1.0
+        }, 
+        "chsrt": {
+            "levoflox~for": 1.0
+        }, 
+        "ciprofloxacin": {
+            "levofloxacin~or": 1.0
+        }, 
+        "clear": {
+            ",~OP": 0.3333333333333333, 
+            ",~no": 0.3333333333333333, 
+            "abx.~No": 0.3333333333333333
+        }, 
+        "cleared": {
+            "status~and": 1.0
+        }, 
+        "code": {
+            "STATUS:~Full": 1.0
+        }, 
+        "combivent": {
+            "prn~,": 1.0
+        }, 
+        "comfortable": {
+            "NAD~,": 1.0
+        }, 
+        "concern": {
+            "out~of": 1.0
+        }, 
+        "consult": {
+            "house.~Pt": 0.5, 
+            "outpatient~orthopedic": 0.5
+        }, 
+        "contacted": {
+            "Dr~Ilarraza": 1.0
+        }, 
+        "continued": {
+            "pain~,": 1.0
+        }, 
+        "continues": {
+            "If~pain": 1.0
+        }, 
+        "contrast": {
+            "CT~with": 1.0
+        }, 
+        "control": {
+            "UPON~pain": 1.0
+        }, 
+        "course": {
+            "5~day": 1.0
+        }, 
+        "ctab": {
+            "BS~,": 1.0
+        }, 
+        "cycle": {
+            ",~please": 1.0
+        }, 
+        "d/c": {
+            "better~will": 1.0
+        }, 
+        "d/w": {
+            "ED~after": 0.5, 
+            "so~after": 0.5
+        }, 
+        "dairy": {
+            "hours~after": 1.0
+        }, 
+        "day": {
+            "chsrt~5": 1.0
+        }, 
+        "days": {
+            "trauma~5": 0.5, 
+            "until~5": 0.5
+        }, 
+        "days.": {
+            "past~few": 1.0
+        }, 
+        "decision": {
+            "and~pt": 1.0
+        }, 
+        "developed": {
+            "shelf~and": 1.0
+        }, 
+        "dictated": {
+            "DO/PLAN:~No": 1.0
+        }, 
+        "difficult": {
+            "physical~exam": 1.0
+        }, 
+        "diffuse": {
+            "Pain~is": 1.0
+        }, 
+        "diffusely": {
+            "R~leg": 1.0
+        }, 
+        "discussed": {
+            "consult~-": 1.0
+        }, 
+        "distant": {
+            "assess~CV:": 0.5, 
+            "r/m/g~Lungs:": 0.5
+        }, 
+        "doesn't": {
+            "If~pain": 1.0
+        }, 
+        "don't": {
+            "1.~Please": 1.0
+        }, 
+        "dose": {
+            "ciprofloxacin~dose": 0.5, 
+            "or~ciprofloxacin": 0.5
+        }, 
+        "drive": {
+            "Please~don't": 1.0
+        }, 
+        "e/o": {
+            "No~clear": 1.0
+        }, 
+        "emperically": {
+            "and~tx": 1.0
+        }, 
+        "erythema": {
+            "clear~skin": 1.0
+        }, 
+        "eval": {
+            "ED~for": 1.0
+        }, 
+        "evaluation.": {
+            "11/19~for": 1.0
+        }, 
+        "evening": {
+            "home~this": 1.0
+        }, 
+        "exam": {
+            "and~physical": 0.5, 
+            "cellulitis~on": 0.5
+        }, 
+        "experience": {
+            "ED~is": 1.0
+        }, 
+        "fat": {
+            "Low~saturated": 1.0
+        }, 
+        "feeds": {
+            "on~tube": 1.0
+        }, 
+        "feeling": {
+            "and~if": 1.0
+        }, 
+        "few": {
+            "the~past": 1.0
+        }, 
+        "food": {
+            "Take~with": 1.0
+        }, 
+        "for": {
+            ",~11/19": 0.1111111111111111, 
+            "APAP~prn": 0.1111111111111111, 
+            "After~Study": 0.1111111111111111, 
+            "and~admit": 0.1111111111111111, 
+            "of~concern": 0.1111111111111111, 
+            "on~levoflox": 0.1111111111111111, 
+            "to~ED": 0.1111111111111111, 
+            "to~admit": 0.1111111111111111, 
+            "to~tx": 0.1111111111111111
+        }, 
+        "further": {
+            "image~to": 1.0
+        }, 
+        "given": {
+            "exam~difficult": 1.0
+        }, 
+        "go": {
+            "cleared~to": 1.0
+        }, 
+        "got": {
+            "which~progressively": 1.0
+        }, 
+        "grossly": {
+            "A+Ox3~,": 1.0
+        }, 
+        "h/o": {
+            ",~no": 1.0
+        }, 
+        "habitus": {
+            "pt's~body": 1.0
+        }, 
+        "habitus.": {
+            "given~body": 1.0
+        }, 
+        "her": {
+            "to~see": 1.0
+        }, 
+        "hit": {
+            ",~accidentally": 1.0
+        }, 
+        "hold": {
+            "cycle~(": 1.0
+        }, 
+        "home": {
+            "Continued~on": 0.3333333333333333, 
+            "to~go": 0.3333333333333333, 
+            "will~d/c": 0.3333333333333333
+        }, 
+        "hours": {
+            "Take~2": 0.3333333333333333, 
+            "of~2": 0.3333333333333333, 
+            "or~2": 0.3333333333333333
+        }, 
+        "house.": {
+            "while~in": 1.0
+        }, 
+        "hr": {
+            "hold~1": 0.5, 
+            "to~2": 0.5
+        }, 
+        "if": {
+            "pain~and": 1.0
+        }, 
+        "image": {
+            "Unable~to": 1.0
+        }, 
+        "improve": {
+            "pain~doesn't": 1.0
+        }, 
+        "improvement": {
+            "continues~without": 1.0
+        }, 
+        "in": {
+            "AA~woman": 0.16666666666666666, 
+            "DM~was": 0.16666666666666666, 
+            "Was~riding": 0.16666666666666666, 
+            "be~msk": 0.16666666666666666, 
+            "ppx~while": 0.16666666666666666, 
+            "was~made": 0.16666666666666666
+        }, 
+        "increased": {
+            "pain~,": 1.0
+        }, 
+        "increasing": {
+            "ago~with": 1.0
+        }, 
+        "intact": {
+            ",~grossly": 1.0
+        }, 
+        "investigate": {
+            "to~further": 1.0
+        }, 
+        "iron": {
+            "Instruction~Administer": 1.0
+        }, 
+        "is": {
+            "of~DVT": 0.25, 
+            "pain/swelling.~Swelling": 0.25, 
+            "to~ED": 0.25, 
+            "weakness.~Pain": 0.25
+        }, 
+        "knee": {
+            ")~Right": 0.5, 
+            "|~Right": 0.5
+        }, 
+        "knee/leg": {
+            "DIAGNOSIS:~Right": 0.5, 
+            "severity~of": 0.5
+        }, 
+        "lasix": {
+            "prn~,": 1.0
+        }, 
+        "leg": {
+            ",~R": 0.5, 
+            "t/o~R": 0.5
+        }, 
+        "leulkocytosis.": {
+            ",~no": 1.0
+        }, 
+        "levoflox": {
+            "cellulitis~(": 0.5, 
+            "continued~on": 0.5
+        }, 
+        "levofloxacin": {
+            "after~a": 1.0
+        }, 
+        "likelihood": {
+            ",~so": 1.0
+        }, 
+        "loose": {
+            "HOLD~IF:": 1.0
+        }, 
+        "lovenox": {
+            "course~,": 1.0
+        }, 
+        "low": {
+            "saturated~fat": 1.0
+        }, 
+        "low.": {
+            "DVT~is": 1.0
+        }, 
+        "made": {
+            "Decision~was": 0.5, 
+            "pt~decision": 0.5
+        }, 
+        "management.": {
+            "eval~and": 1.0
+        }, 
+        "mdi": {
+            ",~albuterol": 1.0
+        }, 
+        "meals": {
+            "take~with": 1.0
+        }, 
+        "medications": {
+            "taking~pain": 1.0
+        }, 
+        "medications.": {
+            "on~pain": 1.0
+        }, 
+        "meds": {
+            "on~home": 1.0
+        }, 
+        "metformin": {
+            "qd~,": 1.0
+        }, 
+        "miconazole": {
+            "prn~,": 1.0
+        }, 
+        "minimum": {
+            "products~a": 1.0
+        }, 
+        "mobility": {
+            "at~baseline": 1.0
+        }, 
+        "monitor": {
+            "medications~please": 0.5, 
+            "referal.~Will": 0.5
+        }, 
+        "morbid": {
+            "39F~w/": 1.0
+        }, 
+        "morbidly": {
+            "97%RA~Gen:": 0.5, 
+            "NT~Ext:": 0.5
+        }, 
+        "more": {
+            "to~try": 1.0
+        }, 
+        "motrin": {
+            "meds~,": 1.0
+        }, 
+        "movement": {
+            "worse~with": 1.0
+        }, 
+        "movements": {
+            "monitor~bowel": 1.0
+        }, 
+        "msk": {
+            "to~be": 1.0
+        }, 
+        "narrow-spectrum": {
+            "try~more": 1.0
+        }, 
+        "nature.": {
+            "msk~in": 1.0
+        }, 
+        "nausea": {
+            "pain~,": 1.0
+        }, 
+        "needed": {
+            "or~as": 1.0
+        }, 
+        "needed.": {
+            "softners~as": 1.0
+        }, 
+        "no": {
+            "CP~,": 0.125, 
+            "DVT/PE~,": 0.125, 
+            "F/Ch~,": 0.125, 
+            "ctab~,": 0.125, 
+            "exam~,": 0.125, 
+            "nrl~s1s2": 0.125, 
+            "sob~,": 0.125, 
+            "topalpation~,": 0.125
+        }, 
+        "none": {
+            "AND~PROCEDURES:": 0.5, 
+            "O.R.~)": 0.5
+        }, 
+        "not": {
+            "leulkocytosis.~Pt": 1.0
+        }, 
+        "nrl": {
+            ",~RRR": 1.0
+        }, 
+        "observation": {
+            "admit~for": 1.0
+        }, 
+        "observation.": {
+            "admit~for": 1.0
+        }, 
+        "obtained": {
+            "Pt~consult": 1.0
+        }, 
+        "of": {
+            "PCP~out": 0.16666666666666666, 
+            "PRN~Shortness": 0.16666666666666666, 
+            "a~minimum": 0.16666666666666666, 
+            "experience~shortness": 0.16666666666666666, 
+            "increased~severity": 0.16666666666666666, 
+            "so~likelihood": 0.16666666666666666
+        }, 
+        "on": {
+            ",~continued": 0.16666666666666666, 
+            "---~PE": 0.16666666666666666, 
+            "abx.~Continued": 0.16666666666666666, 
+            "dose~If": 0.16666666666666666, 
+            "drive~while": 0.16666666666666666, 
+            "e/o~cellulitis": 0.16666666666666666
+        }, 
+        "or": {
+            ",~vomiting": 0.2, 
+            "2-3~weeks": 0.2, 
+            "a~levofloxacin": 0.2, 
+            "hours~before": 0.4
+        }, 
+        "ortho": {
+            "recommend~outpt": 1.0
+        }, 
+        "orthopedic": {
+            "recommend~outpatient": 1.0
+        }, 
+        "other": {
+            "or~any": 1.0
+        }, 
+        "out": {
+            "by~PCP": 1.0
+        }, 
+        "outpatient": {
+            "would~recommend": 1.0
+        }, 
+        "outpt": {
+            ",~recommend": 1.0
+        }, 
+        "over": {
+            "got~worse": 1.0
+        }, 
+        "oxycodeon": {
+            "tid~,": 1.0
+        }, 
+        "pain": {
+            ",~calf": 0.07142857142857142, 
+            ",~chest": 0.07142857142857142, 
+            "2.~If": 0.07142857142857142, 
+            "CONTINGENT~UPON": 0.07142857142857142, 
+            "Right~knee/leg": 0.07142857142857142, 
+            "R~thigh/leg": 0.07142857142857142, 
+            "While~taking": 0.07142857142857142, 
+            "Will~monitor": 0.07142857142857142, 
+            "and~developed": 0.07142857142857142, 
+            "chronic~and": 0.07142857142857142, 
+            "of~knee/leg": 0.07142857142857142, 
+            "prn~for": 0.07142857142857142, 
+            "scooter.~If": 0.07142857142857142, 
+            "while~on": 0.07142857142857142
+        }, 
+        "pain/sprain": {
+            "Right~knee": 1.0
+        }, 
+        "pain/swelling.": {
+            "with~increasing": 1.0
+        }, 
+        "palpation.": {
+            "movement~and": 1.0
+        }, 
+        "past": {
+            "over~the": 1.0
+        }, 
+        "per": {
+            "as~tolerated": 1.0
+        }, 
+        "perform": {
+            "unable~to": 1.0
+        }, 
+        "physical": {
+            "investigate~and": 1.0
+        }, 
+        "plan": {
+            "agrees~with": 1.0
+        }, 
+        "please": {
+            "feeds~,": 0.5, 
+            "pain~medications": 0.5
+        }, 
+        "ppx": {
+            ",~lovenox": 1.0
+        }, 
+        "prior": {
+            "5~days": 1.0
+        }, 
+        "prn": {
+            "+/-~APAP": 0.2, 
+            ",~vicodin": 0.2, 
+            "500~bid": 0.2, 
+            "albuterol~mdi": 0.2, 
+            "combivent~qid": 0.2
+        }, 
+        "products": {
+            "Administer~iron": 1.0
+        }, 
+        "products.": {
+            "after~dairy": 1.0
+        }, 
+        "progressively": {
+            "swelling~which": 1.0
+        }, 
+        "pt": {
+            "PCP~and": 0.3333333333333333, 
+            "obtained~and": 0.3333333333333333, 
+            "so~sent": 0.3333333333333333
+        }, 
+        "pt's": {
+            "contrast~2/2": 1.0
+        }, 
+        "qd": {
+            "Lexapro~10": 0.3333333333333333, 
+            "lasix~40": 0.3333333333333333, 
+            "metformin~500": 0.3333333333333333
+        }, 
+        "qid": {
+            ",~combivent": 1.0
+        }, 
+        "r/m/g": {
+            "s1s2~no": 1.0
+        }, 
+        "recommend": {
+            "improvement~,": 0.5, 
+            "improve~would": 0.5
+        }, 
+        "recommendations": {
+            "per~PT": 1.0
+        }, 
+        "referal.": {
+            "outpt~ortho": 1.0
+        }, 
+        "relief": {
+            "vicodin~without": 1.0
+        }, 
+        "resume": {
+            "evening~and": 1.0
+        }, 
+        "riding": {
+            "arrival.~Was": 1.0
+        }, 
+        "s1s2": {
+            "RRR~nrl": 1.0
+        }, 
+        "saturated": {
+            "/~Low": 1.0
+        }, 
+        "scooter": {
+            "riding~in": 1.0
+        }, 
+        "scooter.": {
+            "walker~ans": 1.0
+        }, 
+        "see": {
+            "went~to": 1.0
+        }, 
+        "sent": {
+            "DM~,": 0.5, 
+            "DVT~so": 0.5
+        }, 
+        "services": {
+            "Home~w/": 0.5, 
+            "and~resume": 0.5
+        }, 
+        "severity": {
+            ",~increased": 1.0
+        }, 
+        "shelf": {
+            "thigh~against": 1.0
+        }, 
+        "shortness": {
+            "is~experience": 1.0
+        }, 
+        "skin": {
+            "no~clear": 1.0
+        }, 
+        "so": {
+            "<200~,": 0.3333333333333333, 
+            "about~DVT": 0.3333333333333333, 
+            "body~habitus": 0.3333333333333333
+        }, 
+        "sob": {
+            "management.~Denies": 1.0
+        }, 
+        "soft": {
+            "#obese#~,": 1.0
+        }, 
+        "softners": {
+            "take~stool": 1.0
+        }, 
+        "standing": {
+            ",~motrin": 1.0
+        }, 
+        "status": {
+            "baseline~mobility": 1.0
+        }, 
+        "stool": {
+            "and~take": 1.0
+        }, 
+        "stools": {
+            "IF:~loose": 1.0
+        }, 
+        "summary": {
+            "No~dictated": 1.0
+        }, 
+        "swelling": {
+            "pain~and": 1.0
+        }, 
+        "swelling;": {
+            "->~throat": 1.0
+        }, 
+        "symptoms": {
+            "other~worrisome": 1.0
+        }, 
+        "t/o": {
+            "is~diffuse": 1.0
+        }, 
+        "take": {
+            ")~Instructions:": 0.5, 
+            "movements~and": 0.5
+        }, 
+        "taking": {
+            "medications.~While": 1.0
+        }, 
+        "tender": {
+            "leg~diffusely": 1.0
+        }, 
+        "the": {
+            "worse~over": 1.0
+        }, 
+        "thigh": {
+            "hit~R": 1.0
+        }, 
+        "thigh/leg": {
+            "cc:~R": 1.0
+        }, 
+        "this": {
+            "d/c~home": 1.0
+        }, 
+        "throat": {
+            "Lisinopril~->": 1.0
+        }, 
+        "tid": {
+            "standing~600": 1.0
+        }, 
+        "to": {
+            ",~sent": 0.06666666666666667, 
+            ",~went": 0.06666666666666667, 
+            "3.~Return": 0.06666666666666667, 
+            "96%RA;~unable": 0.06666666666666667, 
+            "JVP~unable": 0.06666666666666667, 
+            "and~cleared": 0.06666666666666667, 
+            "d/w~PCP": 0.06666666666666667, 
+            "days~prior": 0.06666666666666667, 
+            "decision~made": 0.06666666666666667, 
+            "hr~before": 0.06666666666666667, 
+            "low.~Unable": 0.06666666666666667, 
+            "not~willing": 0.06666666666666667, 
+            "pain~appears": 0.06666666666666667, 
+            "sent~pt": 0.06666666666666667, 
+            "to~image": 0.06666666666666667
+        }, 
+        "tolerated": {
+            "Walking~as": 1.0
+        }, 
+        "topalpation": {
+            "diffusely~tender": 1.0
+        }, 
+        "trauma": {
+            "after~blunt": 1.0
+        }, 
+        "try": {
+            "willing~to": 1.0
+        }, 
+        "tube": {
+            "If~on": 1.0
+        }, 
+        "tx": {
+            "made~to": 0.5, 
+            "observation~and": 0.5
+        }, 
+        "unable": {
+            "20~96%RA;": 0.5, 
+            "Neck:~JVP": 0.5
+        }, 
+        "until": {
+            "in~LH": 1.0
+        }, 
+        "upset": {
+            "->~GI": 1.0
+        }, 
+        "upset;": {
+            "->~GI": 1.0
+        }, 
+        "vicodin": {
+            "Took~1": 0.5, 
+            "qd~,": 0.5
+        }, 
+        "vomiting": {
+            "nausea~,": 1.0
+        }, 
+        "vs": {
+            "In~ED:": 1.0
+        }, 
+        "w/": {
+            "Course:~39F": 0.3333333333333333, 
+            "DISPOSITION:~Home": 0.3333333333333333, 
+            "HPI:~39F": 0.3333333333333333
+        }, 
+        "walker": {
+            "home~with": 1.0
+        }, 
+        "was": {
+            ",~DM": 0.5, 
+            "habitus.~Decision": 0.5
+        }, 
+        "weakness.": {
+            ",~no": 1.0
+        }, 
+        "weeks": {
+            "x~2-3": 1.0
+        }, 
+        "went": {
+            "relief~,": 1.0
+        }, 
+        "which": {
+            "and~swelling": 1.0
+        }, 
+        "while": {
+            "don't~drive": 0.5, 
+            "lovenox~ppx": 0.5
+        }, 
+        "will": {
+            "feeling~better": 1.0
+        }, 
+        "willing": {
+            "Pt~not": 1.0
+        }, 
+        "with": {
+            ",~worse": 0.1111111111111111, 
+            "-~discussed": 0.1111111111111111, 
+            "Instructions:~take": 0.1111111111111111, 
+            "Instruction~Take": 0.1111111111111111, 
+            "and~CT": 0.1111111111111111, 
+            "and~agrees": 0.1111111111111111, 
+            "days~ago": 0.1111111111111111, 
+            "go~home": 0.1111111111111111, 
+            "tx~emperically": 0.1111111111111111
+        }, 
+        "without": {
+            "1~vicodin": 0.5, 
+            "pain~continues": 0.5
+        }, 
+        "wnl": {
+            "34.6~chem": 1.0
+        }, 
+        "woman": {
+            "#obese#~AA": 1.0
+        }, 
+        "worrisome": {
+            "any~other": 1.0
+        }, 
+        "worse": {
+            "leg~,": 0.5, 
+            "progressively~got": 0.5
+        }, 
+        "would": {
+            "doesn't~improve": 1.0
+        }, 
+        "x": {
+            "Dr~Clearman": 0.5, 
+            "IV~500mg": 0.5
+        }, 
+        "|": {
+            ",~|": 0.1111111111111111, 
+            "09925512~|": 0.1111111111111111, 
+            "12:00:00~AM": 0.1111111111111111, 
+            "pain/sprain~,": 0.1111111111111111, 
+            "|~09925512": 0.1111111111111111, 
+            "|~6370517": 0.1111111111111111, 
+            "|~DIS": 0.1111111111111111, 
+            "|~I": 0.1111111111111111, 
+            "~555313428": 0.1111111111111111
+        }
+    }, 
+    "type": "data/train", 
+    "uni": {
+        "": 0.0011148272017837235, 
+        "#asthma#": 0.0011148272017837235, 
+        "#obese#": 0.006688963210702341, 
+        "(": 0.013377926421404682, 
+        ")": 0.014492753623188406, 
+        "):": 0.0011148272017837235, 
+        "******": 0.0033444816053511705, 
+        "+/-": 0.0011148272017837235, 
+        ",": 0.07246376811594203, 
+        "-": 0.0011148272017837235, 
+        "---": 0.006688963210702341, 
+        "->": 0.0033444816053511705, 
+        "/": 0.002229654403567447, 
+        "02:23": 0.0011148272017837235, 
+        "05:00": 0.0011148272017837235, 
+        "09925512": 0.0011148272017837235, 
+        "1": 0.004459308807134894, 
+        "1.": 0.0011148272017837235, 
+        "10": 0.002229654403567447, 
+        "10/28/06": 0.002229654403567447, 
+        "100": 0.0011148272017837235, 
+        "11/19": 0.0011148272017837235, 
+        "12:00:00": 0.0011148272017837235, 
+        "140/78": 0.0011148272017837235, 
+        "149/84": 0.0011148272017837235, 
+        "2": 0.005574136008918618, 
+        "2%": 0.0011148272017837235, 
+        "2-3": 0.0011148272017837235, 
+        "2.": 0.0011148272017837235, 
+        "2/2": 0.0011148272017837235, 
+        "20": 0.002229654403567447, 
+        "200/neg": 0.0011148272017837235, 
+        "239-01-89-8": 0.0011148272017837235, 
+        "3.": 0.0011148272017837235, 
+        "3/4/2006": 0.0011148272017837235, 
+        "34.6": 0.0011148272017837235, 
+        "39F": 0.002229654403567447, 
+        "4": 0.0011148272017837235, 
+        "4/06": 0.002229654403567447, 
+        "40": 0.002229654403567447, 
+        "5": 0.0033444816053511705, 
+        "500": 0.004459308807134894, 
+        "500mg": 0.0011148272017837235, 
+        "53886": 0.0011148272017837235, 
+        "555313428": 0.0011148272017837235, 
+        "6/5/2006": 0.0011148272017837235, 
+        "600": 0.002229654403567447, 
+        "6370517": 0.0011148272017837235, 
+        "7": 0.0011148272017837235, 
+        "7.7": 0.0011148272017837235, 
+        "7/24/2006": 0.0011148272017837235, 
+        "77": 0.0011148272017837235, 
+        "8/2": 0.0011148272017837235, 
+        "91": 0.0011148272017837235, 
+        "96%RA;": 0.0011148272017837235, 
+        "97%RA": 0.0011148272017837235, 
+        "97.9": 0.0011148272017837235, 
+        "98.1": 0.0011148272017837235, 
+        ";Responsible": 0.0011148272017837235, 
+        "<": 0.0011148272017837235, 
+        "<200": 0.0011148272017837235, 
+        "@": 0.0011148272017837235, 
+        "A+Ox3": 0.0011148272017837235, 
+        "AA": 0.0011148272017837235, 
+        "ACTIVITY:": 0.0011148272017837235, 
+        "ADDITIONAL": 0.0011148272017837235, 
+        "ADMIT": 0.0011148272017837235, 
+        "ALBUTEROL": 0.0011148272017837235, 
+        "ALL:": 0.0011148272017837235, 
+        "ALLERGY:": 0.0011148272017837235, 
+        "AM": 0.002229654403567447, 
+        "AMPICILLIN": 0.0011148272017837235, 
+        "AND": 0.002229654403567447, 
+        "APAP": 0.0011148272017837235, 
+        "APPOINTMENT(": 0.0011148272017837235, 
+        "AS": 0.0011148272017837235, 
+        "AT": 0.0011148272017837235, 
+        "Abd:": 0.0011148272017837235, 
+        "Administer": 0.0011148272017837235, 
+        "Admission": 0.002229654403567447, 
+        "Admission:": 0.0011148272017837235, 
+        "After": 0.0011148272017837235, 
+        "Ampicillin;": 0.0011148272017837235, 
+        "Anemia": 0.0011148272017837235, 
+        "Attending:": 0.0011148272017837235, 
+        "BE": 0.0011148272017837235, 
+        "BID": 0.002229654403567447, 
+        "BRIEF": 0.0011148272017837235, 
+        "BS": 0.0011148272017837235, 
+        "BY:": 0.0011148272017837235, 
+        "Blvd.": 0.0011148272017837235, 
+        "Breath": 0.0011148272017837235, 
+        "CODE": 0.0011148272017837235, 
+        "COLACE": 0.0011148272017837235, 
+        "COMBIVENT": 0.0011148272017837235, 
+        "COMMENTS:": 0.0011148272017837235, 
+        "CONDITION:": 0.0011148272017837235, 
+        "CONTINGENT": 0.0011148272017837235, 
+        "COURSE:": 0.0011148272017837235, 
+        "CP": 0.0011148272017837235, 
+        "CT": 0.0011148272017837235, 
+        "CV:": 0.0011148272017837235, 
+        "Carbohydrate": 0.0011148272017837235, 
+        "Causing": 0.0011148272017837235, 
+        "Cephalosporins": 0.002229654403567447, 
+        "Clearman": 0.0011148272017837235, 
+        "Complications": 0.0011148272017837235, 
+        "Concerned": 0.0011148272017837235, 
+        "Constipation": 0.0011148272017837235, 
+        "Continued": 0.0011148272017837235, 
+        "Controlled": 0.0011148272017837235, 
+        "Course:": 0.0011148272017837235, 
+        "D-dimer": 0.002229654403567447, 
+        "D/C": 0.002229654403567447, 
+        "DAILY": 0.004459308807134894, 
+        "DELMAR": 0.0011148272017837235, 
+        "DIAGNOSIS": 0.0011148272017837235, 
+        "DIAGNOSIS:": 0.0011148272017837235, 
+        "DIAGNOSIS;Conditions": 0.0011148272017837235, 
+        "DIET:": 0.0011148272017837235, 
+        "DIS": 0.0011148272017837235, 
+        "DISCHARGE": 0.006688963210702341, 
+        "DISPOSITION:": 0.0011148272017837235, 
+        "DM": 0.002229654403567447, 
+        "DO/PLAN:": 0.0011148272017837235, 
+        "DOCUSATE": 0.0011148272017837235, 
+        "DVT": 0.0033444816053511705, 
+        "DVT/PE": 0.0011148272017837235, 
+        "Dakota": 0.0011148272017837235, 
+        "Data:": 0.0011148272017837235, 
+        "Date:": 0.002229654403567447, 
+        "Days": 0.002229654403567447, 
+        "Decision": 0.0011148272017837235, 
+        "Denies": 0.0011148272017837235, 
+        "Depression": 0.0011148272017837235, 
+        "Diarrhea": 0.0011148272017837235, 
+        "Discharge": 0.0011148272017837235, 
+        "Dobek": 0.0011148272017837235, 
+        "Dr": 0.0033444816053511705, 
+        "Dr.": 0.0011148272017837235, 
+        "ED": 0.004459308807134894, 
+        "ED:": 0.0011148272017837235, 
+        "END": 0.0011148272017837235, 
+        "ENTERED": 0.0011148272017837235, 
+        "ESBRANDT": 0.0011148272017837235, 
+        "ESCITALOPRAM": 0.0011148272017837235, 
+        "Ext:": 0.0011148272017837235, 
+        "F/Ch": 0.0011148272017837235, 
+        "FINAL": 0.0011148272017837235, 
+        "FOLLOW": 0.0011148272017837235, 
+        "FREDRICK": 0.0011148272017837235, 
+        "FUROSEMIDE": 0.0011148272017837235, 
+        "Food/Drug": 0.002229654403567447, 
+        "Full": 0.0011148272017837235, 
+        "GI": 0.002229654403567447, 
+        "Gen:": 0.0011148272017837235, 
+        "HEENT:": 0.0011148272017837235, 
+        "HOLD": 0.0011148272017837235, 
+        "HOSPITAL": 0.0011148272017837235, 
+        "HPI:": 0.0011148272017837235, 
+        "HS": 0.0011148272017837235, 
+        "HS92": 0.0011148272017837235, 
+        "Hct": 0.0011148272017837235, 
+        "Home": 0.002229654403567447, 
+        "Hospital": 0.0011148272017837235, 
+        "House": 0.0011148272017837235, 
+        "I": 0.0011148272017837235, 
+        "IBUPROFEN": 0.0011148272017837235, 
+        "IF:": 0.0011148272017837235, 
+        "IN": 0.002229654403567447, 
+        "INH": 0.0011148272017837235, 
+        "IPRATROPIUM": 0.0011148272017837235, 
+        "IUD": 0.0011148272017837235, 
+        "IV": 0.0011148272017837235, 
+        "If": 0.0033444816053511705, 
+        "Ilarraza": 0.0011148272017837235, 
+        "In": 0.0011148272017837235, 
+        "Infections": 0.0011148272017837235, 
+        "Instruction": 0.002229654403567447, 
+        "Instructions:": 0.0011148272017837235, 
+        "Interaction": 0.002229654403567447, 
+        "J.": 0.0011148272017837235, 
+        "JVP": 0.0011148272017837235, 
+        "K.": 0.0011148272017837235, 
+        "Keiger": 0.0011148272017837235, 
+        "LASIX": 0.0011148272017837235, 
+        "LENI": 0.0011148272017837235, 
+        "LEVOFLOXACIN": 0.0011148272017837235, 
+        "LEXAPRO": 0.0011148272017837235, 
+        "LH": 0.0011148272017837235, 
+        "LISINOPRIL": 0.0011148272017837235, 
+        "Lexapro": 0.0011148272017837235, 
+        "Lisinopril": 0.0011148272017837235, 
+        "Low": 0.0011148272017837235, 
+        "Lungs:": 0.0011148272017837235, 
+        "M.D.": 0.0011148272017837235, 
+        "MED": 0.0011148272017837235, 
+        "MEDICATIONS:": 0.0011148272017837235, 
+        "METFORMIN": 0.0011148272017837235, 
+        "MG": 0.006688963210702341, 
+        "MICONAZOLE": 0.0011148272017837235, 
+        "MOTRIN": 0.0011148272017837235, 
+        "MURRAY": 0.0011148272017837235, 
+        "Medications:": 0.0011148272017837235, 
+        "Milstie": 0.0011148272017837235, 
+        "Morbid": 0.0011148272017837235, 
+        "NAD": 0.0011148272017837235, 
+        "NITRATE": 0.0011148272017837235, 
+        "NOT": 0.0011148272017837235, 
+        "NT": 0.0011148272017837235, 
+        "Nachi": 0.0011148272017837235, 
+        "Naprosyn": 0.0011148272017837235, 
+        "Neck:": 0.0011148272017837235, 
+        "Neuro:": 0.0011148272017837235, 
+        "No": 0.002229654403567447, 
+        "O.R.": 0.0011148272017837235, 
+        "OF": 0.002229654403567447, 
+        "ON:": 0.0011148272017837235, 
+        "OP": 0.0011148272017837235, 
+        "OPERATIONS": 0.0011148272017837235, 
+        "ORDER": 0.0011148272017837235, 
+        "ORDERS": 0.0011148272017837235, 
+        "OTHER": 0.002229654403567447, 
+        "PA": 0.0011148272017837235, 
+        "PAPAY": 0.0011148272017837235, 
+        "PATIENT": 0.0011148272017837235, 
+        "PCN": 0.0011148272017837235, 
+        "PCP": 0.004459308807134894, 
+        "PCP:": 0.0011148272017837235, 
+        "PE": 0.0011148272017837235, 
+        "PERCOCET": 0.0011148272017837235, 
+        "PM": 0.002229654403567447, 
+        "PO": 0.007803790412486065, 
+        "POWDER": 0.0011148272017837235, 
+        "PRINCIPAL": 0.0011148272017837235, 
+        "PRN": 0.0033444816053511705, 
+        "PROCEDURES:": 0.0011148272017837235, 
+        "PT": 0.0011148272017837235, 
+        "PUFF": 0.0011148272017837235, 
+        "Pain": 0.002229654403567447, 
+        "Penicillins": 0.0011148272017837235, 
+        "Please": 0.0011148272017837235, 
+        "Pt": 0.002229654403567447, 
+        "Q6H": 0.002229654403567447, 
+        "QID": 0.0011148272017837235, 
+        "R": 0.004459308807134894, 
+        "RESUME": 0.0011148272017837235, 
+        "RRR": 0.0011148272017837235, 
+        "Report": 0.0011148272017837235, 
+        "Return": 0.0011148272017837235, 
+        "Right": 0.0033444816053511705, 
+        "S": 0.0011148272017837235, 
+        "SODIUM": 0.0011148272017837235, 
+        "STATUS:": 0.0011148272017837235, 
+        "SULFATE": 0.0011148272017837235, 
+        "SUMMARY:": 0.0011148272017837235, 
+        "Service:": 0.0011148272017837235, 
+        "Shortness": 0.0011148272017837235, 
+        "Sleep": 0.0011148272017837235, 
+        "South": 0.0011148272017837235, 
+        "Stable": 0.0011148272017837235, 
+        "Starting": 0.0033444816053511705, 
+        "Status:": 0.0011148272017837235, 
+        "Study": 0.0011148272017837235, 
+        "Swelling": 0.0011148272017837235, 
+        "TAB": 0.0011148272017837235, 
+        "THE": 0.0011148272017837235, 
+        "TO": 0.0011148272017837235, 
+        "TOPICAL": 0.0011148272017837235, 
+        "TP": 0.0011148272017837235, 
+        "TREATMENTS/PROCEDURES": 0.0011148272017837235, 
+        "Take": 0.002229654403567447, 
+        "Today": 0.002229654403567447, 
+        "Took": 0.0011148272017837235, 
+        "Treatment/Stay": 0.0011148272017837235, 
+        "UP": 0.0011148272017837235, 
+        "UPON": 0.0011148272017837235, 
+        "USED": 0.0011148272017837235, 
+        "Unable": 0.0011148272017837235, 
+        "VS:": 0.0011148272017837235, 
+        "WBC": 0.0011148272017837235, 
+        "WENDLANDT": 0.0011148272017837235, 
+        "WILL": 0.0011148272017837235, 
+        "Walking": 0.0011148272017837235, 
+        "Was": 0.0011148272017837235, 
+        "Wheezing": 0.0011148272017837235, 
+        "While": 0.0011148272017837235, 
+        "Will": 0.0011148272017837235, 
+        "X": 0.002229654403567447, 
+        "YES": 0.0011148272017837235, 
+        "a": 0.002229654403567447, 
+        "about": 0.0011148272017837235, 
+        "abx.": 0.002229654403567447, 
+        "accidentally": 0.0011148272017837235, 
+        "admit": 0.002229654403567447, 
+        "affecting": 0.0011148272017837235, 
+        "after": 0.006688963210702341, 
+        "against": 0.0011148272017837235, 
+        "ago": 0.0011148272017837235, 
+        "agrees": 0.0011148272017837235, 
+        "albuterol": 0.0011148272017837235, 
+        "already": 0.0011148272017837235, 
+        "and": 0.017837235228539576, 
+        "anicteric": 0.0011148272017837235, 
+        "ans": 0.0011148272017837235, 
+        "any": 0.0011148272017837235, 
+        "apnea": 0.0011148272017837235, 
+        "apparently": 0.0011148272017837235, 
+        "appears": 0.0011148272017837235, 
+        "arrival.": 0.0011148272017837235, 
+        "as": 0.0033444816053511705, 
+        "assess": 0.0011148272017837235, 
+        "at": 0.0011148272017837235, 
+        "baseline": 0.0011148272017837235, 
+        "be": 0.0011148272017837235, 
+        "before": 0.0033444816053511705, 
+        "better": 0.0011148272017837235, 
+        "bid": 0.002229654403567447, 
+        "blunt": 0.0011148272017837235, 
+        "body": 0.002229654403567447, 
+        "bowel": 0.0011148272017837235, 
+        "breath": 0.0011148272017837235, 
+        "by": 0.0011148272017837235, 
+        "c/r/w": 0.0011148272017837235, 
+        "calf": 0.0011148272017837235, 
+        "cc:": 0.0011148272017837235, 
+        "cellulitis": 0.002229654403567447, 
+        "chem": 0.0011148272017837235, 
+        "chest": 0.0011148272017837235, 
+        "cholesterol": 0.0011148272017837235, 
+        "chronic": 0.0011148272017837235, 
+        "chsrt": 0.0011148272017837235, 
+        "ciprofloxacin": 0.0011148272017837235, 
+        "clear": 0.0033444816053511705, 
+        "cleared": 0.0011148272017837235, 
+        "code": 0.0011148272017837235, 
+        "combivent": 0.0011148272017837235, 
+        "comfortable": 0.0011148272017837235, 
+        "concern": 0.0011148272017837235, 
+        "consult": 0.002229654403567447, 
+        "contacted": 0.0011148272017837235, 
+        "continued": 0.0011148272017837235, 
+        "continues": 0.0011148272017837235, 
+        "contrast": 0.0011148272017837235, 
+        "control": 0.0011148272017837235, 
+        "course": 0.0011148272017837235, 
+        "ctab": 0.0011148272017837235, 
+        "cycle": 0.0011148272017837235, 
+        "d/c": 0.0011148272017837235, 
+        "d/w": 0.002229654403567447, 
+        "dairy": 0.0011148272017837235, 
+        "day": 0.0011148272017837235, 
+        "days": 0.002229654403567447, 
+        "days.": 0.0011148272017837235, 
+        "decision": 0.0011148272017837235, 
+        "developed": 0.0011148272017837235, 
+        "dictated": 0.0011148272017837235, 
+        "difficult": 0.0011148272017837235, 
+        "diffuse": 0.0011148272017837235, 
+        "diffusely": 0.0011148272017837235, 
+        "discussed": 0.0011148272017837235, 
+        "distant": 0.002229654403567447, 
+        "doesn't": 0.0011148272017837235, 
+        "don't": 0.0011148272017837235, 
+        "dose": 0.002229654403567447, 
+        "drive": 0.0011148272017837235, 
+        "e/o": 0.0011148272017837235, 
+        "emperically": 0.0011148272017837235, 
+        "erythema": 0.0011148272017837235, 
+        "eval": 0.0011148272017837235, 
+        "evaluation.": 0.0011148272017837235, 
+        "evening": 0.0011148272017837235, 
+        "exam": 0.002229654403567447, 
+        "experience": 0.0011148272017837235, 
+        "fat": 0.0011148272017837235, 
+        "feeds": 0.0011148272017837235, 
+        "feeling": 0.0011148272017837235, 
+        "few": 0.0011148272017837235, 
+        "food": 0.0011148272017837235, 
+        "for": 0.010033444816053512, 
+        "further": 0.0011148272017837235, 
+        "given": 0.0011148272017837235, 
+        "go": 0.0011148272017837235, 
+        "got": 0.0011148272017837235, 
+        "grossly": 0.0011148272017837235, 
+        "h/o": 0.0011148272017837235, 
+        "habitus": 0.0011148272017837235, 
+        "habitus.": 0.0011148272017837235, 
+        "her": 0.0011148272017837235, 
+        "hit": 0.0011148272017837235, 
+        "hold": 0.0011148272017837235, 
+        "home": 0.0033444816053511705, 
+        "hours": 0.0033444816053511705, 
+        "house.": 0.0011148272017837235, 
+        "hr": 0.002229654403567447, 
+        "if": 0.0011148272017837235, 
+        "image": 0.0011148272017837235, 
+        "improve": 0.0011148272017837235, 
+        "improvement": 0.0011148272017837235, 
+        "in": 0.006688963210702341, 
+        "increased": 0.0011148272017837235, 
+        "increasing": 0.0011148272017837235, 
+        "intact": 0.0011148272017837235, 
+        "investigate": 0.0011148272017837235, 
+        "iron": 0.0011148272017837235, 
+        "is": 0.004459308807134894, 
+        "knee": 0.002229654403567447, 
+        "knee/leg": 0.002229654403567447, 
+        "lasix": 0.0011148272017837235, 
+        "leg": 0.002229654403567447, 
+        "leulkocytosis.": 0.0011148272017837235, 
+        "levoflox": 0.002229654403567447, 
+        "levofloxacin": 0.0011148272017837235, 
+        "likelihood": 0.0011148272017837235, 
+        "loose": 0.0011148272017837235, 
+        "lovenox": 0.0011148272017837235, 
+        "low": 0.0011148272017837235, 
+        "low.": 0.0011148272017837235, 
+        "made": 0.002229654403567447, 
+        "management.": 0.0011148272017837235, 
+        "mdi": 0.0011148272017837235, 
+        "meals": 0.0011148272017837235, 
+        "medications": 0.0011148272017837235, 
+        "medications.": 0.0011148272017837235, 
+        "meds": 0.0011148272017837235, 
+        "metformin": 0.0011148272017837235, 
+        "miconazole": 0.0011148272017837235, 
+        "minimum": 0.0011148272017837235, 
+        "mobility": 0.0011148272017837235, 
+        "monitor": 0.002229654403567447, 
+        "morbid": 0.0011148272017837235, 
+        "morbidly": 0.002229654403567447, 
+        "more": 0.0011148272017837235, 
+        "motrin": 0.0011148272017837235, 
+        "movement": 0.0011148272017837235, 
+        "movements": 0.0011148272017837235, 
+        "msk": 0.0011148272017837235, 
+        "narrow-spectrum": 0.0011148272017837235, 
+        "nature.": 0.0011148272017837235, 
+        "nausea": 0.0011148272017837235, 
+        "needed": 0.0011148272017837235, 
+        "needed.": 0.0011148272017837235, 
+        "no": 0.008918617614269788, 
+        "none": 0.002229654403567447, 
+        "not": 0.0011148272017837235, 
+        "nrl": 0.0011148272017837235, 
+        "observation": 0.0011148272017837235, 
+        "observation.": 0.0011148272017837235, 
+        "obtained": 0.0011148272017837235, 
+        "of": 0.006688963210702341, 
+        "on": 0.006688963210702341, 
+        "or": 0.005574136008918618, 
+        "ortho": 0.0011148272017837235, 
+        "orthopedic": 0.0011148272017837235, 
+        "other": 0.0011148272017837235, 
+        "out": 0.0011148272017837235, 
+        "outpatient": 0.0011148272017837235, 
+        "outpt": 0.0011148272017837235, 
+        "over": 0.0011148272017837235, 
+        "oxycodeon": 0.0011148272017837235, 
+        "pain": 0.01560758082497213, 
+        "pain/sprain": 0.002229654403567447, 
+        "pain/swelling.": 0.0011148272017837235, 
+        "palpation.": 0.0011148272017837235, 
+        "past": 0.0011148272017837235, 
+        "per": 0.0011148272017837235, 
+        "perform": 0.0011148272017837235, 
+        "physical": 0.0011148272017837235, 
+        "plan": 0.0011148272017837235, 
+        "please": 0.002229654403567447, 
+        "ppx": 0.0011148272017837235, 
+        "prior": 0.0011148272017837235, 
+        "prn": 0.005574136008918618, 
+        "products": 0.0011148272017837235, 
+        "products.": 0.0011148272017837235, 
+        "progressively": 0.0011148272017837235, 
+        "pt": 0.0033444816053511705, 
+        "pt's": 0.0011148272017837235, 
+        "qd": 0.0033444816053511705, 
+        "qid": 0.0011148272017837235, 
+        "r/m/g": 0.0011148272017837235, 
+        "recommend": 0.002229654403567447, 
+        "recommendations": 0.0011148272017837235, 
+        "referal.": 0.0011148272017837235, 
+        "relief": 0.0011148272017837235, 
+        "resume": 0.0011148272017837235, 
+        "riding": 0.0011148272017837235, 
+        "s1s2": 0.0011148272017837235, 
+        "saturated": 0.0011148272017837235, 
+        "scooter": 0.0011148272017837235, 
+        "scooter.": 0.0011148272017837235, 
+        "see": 0.0011148272017837235, 
+        "sent": 0.002229654403567447, 
+        "services": 0.002229654403567447, 
+        "severity": 0.0011148272017837235, 
+        "shelf": 0.0011148272017837235, 
+        "shortness": 0.0011148272017837235, 
+        "skin": 0.0011148272017837235, 
+        "so": 0.0033444816053511705, 
+        "sob": 0.0011148272017837235, 
+        "soft": 0.0011148272017837235, 
+        "softners": 0.0011148272017837235, 
+        "standing": 0.0011148272017837235, 
+        "status": 0.0011148272017837235, 
+        "stool": 0.0011148272017837235, 
+        "stools": 0.0011148272017837235, 
+        "summary": 0.0011148272017837235, 
+        "swelling": 0.0011148272017837235, 
+        "swelling;": 0.0011148272017837235, 
+        "symptoms": 0.0011148272017837235, 
+        "t/o": 0.0011148272017837235, 
+        "take": 0.002229654403567447, 
+        "taking": 0.0011148272017837235, 
+        "tender": 0.0011148272017837235, 
+        "the": 0.0011148272017837235, 
+        "thigh": 0.0011148272017837235, 
+        "thigh/leg": 0.0011148272017837235, 
+        "this": 0.0011148272017837235, 
+        "throat": 0.0011148272017837235, 
+        "tid": 0.0011148272017837235, 
+        "to": 0.016722408026755852, 
+        "tolerated": 0.0011148272017837235, 
+        "topalpation": 0.0011148272017837235, 
+        "trauma": 0.0011148272017837235, 
+        "try": 0.0011148272017837235, 
+        "tube": 0.0011148272017837235, 
+        "tx": 0.002229654403567447, 
+        "unable": 0.002229654403567447, 
+        "until": 0.0011148272017837235, 
+        "upset": 0.0011148272017837235, 
+        "upset;": 0.0011148272017837235, 
+        "vicodin": 0.002229654403567447, 
+        "vomiting": 0.0011148272017837235, 
+        "vs": 0.0011148272017837235, 
+        "w/": 0.0033444816053511705, 
+        "walker": 0.0011148272017837235, 
+        "was": 0.002229654403567447, 
+        "weakness.": 0.0011148272017837235, 
+        "weeks": 0.0011148272017837235, 
+        "went": 0.0011148272017837235, 
+        "which": 0.0011148272017837235, 
+        "while": 0.002229654403567447, 
+        "will": 0.0011148272017837235, 
+        "willing": 0.0011148272017837235, 
+        "with": 0.010033444816053512, 
+        "without": 0.002229654403567447, 
+        "wnl": 0.0011148272017837235, 
+        "woman": 0.0011148272017837235, 
+        "worrisome": 0.0011148272017837235, 
+        "worse": 0.002229654403567447, 
+        "would": 0.0011148272017837235, 
+        "x": 0.002229654403567447, 
+        "|": 0.010033444816053512
+    }
+}

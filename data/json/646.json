@@ -1,0 +1,5695 @@
+{
+    "bi": {
+        "#1": {
+            "day": 1.0
+        }, 
+        "#2": {
+            "day": 1.0
+        }, 
+        "#3": {
+            "day": 1.0
+        }, 
+        "#asthma#": {
+            "of": 1.0
+        }, 
+        "#obese#": {
+            "47-year-old": 0.5, 
+            "GENERAL:": 0.5
+        }, 
+        "(": {
+            "defect": 0.25, 
+            "gentamicin": 0.25, 
+            "mass": 0.25, 
+            "simvastatin": 0.25
+        }, 
+        ")": {
+            "1": 0.1, 
+            "160s": 0.1, 
+            "2": 0.1, 
+            "3": 0.1, 
+            "4": 0.1, 
+            "5": 0.1, 
+            "6": 0.1, 
+            "cells": 0.1, 
+            "distribution": 0.1, 
+            "levels": 0.1
+        }, 
+        ",": {
+            "#asthma#": 0.014084507042253521, 
+            "#obese#": 0.014084507042253521, 
+            ")": 0.04225352112676056, 
+            "140/88": 0.014084507042253521, 
+            "18": 0.014084507042253521, 
+            "1987": 0.014084507042253521, 
+            "27": 0.014084507042253521, 
+            "97": 0.014084507042253521, 
+            "98.2": 0.014084507042253521, 
+            "ABOLT": 0.014084507042253521, 
+            "ABSCESS": 0.028169014084507043, 
+            "Afebrile": 0.014084507042253521, 
+            "Brehony": 0.014084507042253521, 
+            "DIABETES": 0.014084507042253521, 
+            "DISEASE": 0.014084507042253521, 
+            "IDDM": 0.014084507042253521, 
+            "KUNAU": 0.014084507042253521, 
+            "LAD": 0.014084507042253521, 
+            "Lopressor": 0.014084507042253521, 
+            "MAIDONADO": 0.014084507042253521, 
+            "MR": 0.014084507042253521, 
+            "OAKS": 0.014084507042253521, 
+            "Paxil": 0.014084507042253521, 
+            "S1S2": 0.014084507042253521, 
+            "Soft": 0.014084507042253521, 
+            "Stivason": 0.014084507042253521, 
+            "TAH-LSO": 0.014084507042253521, 
+            "Tender": 0.014084507042253521, 
+            "abscess": 0.04225352112676056, 
+            "abscesses": 0.014084507042253521, 
+            "admission": 0.014084507042253521, 
+            "bacteroides": 0.014084507042253521, 
+            "cm": 0.014084507042253521, 
+            "diabetes": 0.014084507042253521, 
+            "energy": 0.014084507042253521, 
+            "extremities": 0.014084507042253521, 
+            "flora": 0.014084507042253521, 
+            "fraction": 0.014084507042253521, 
+            "function": 0.014084507042253521, 
+            "hemorrhoids": 0.014084507042253521, 
+            "hepatosplenomegaly": 0.014084507042253521, 
+            "hypokinesis": 0.014084507042253521, 
+            "infarct": 0.014084507042253521, 
+            "infection": 0.014084507042253521, 
+            "inhibitor": 0.014084507042253521, 
+            "intubations": 0.014084507042253521, 
+            "medications": 0.014084507042253521, 
+            "mobile": 0.014084507042253521, 
+            "months": 0.014084507042253521, 
+            "murmurs": 0.014084507042253521, 
+            "nebs": 0.014084507042253521, 
+            "neuropathy": 0.014084507042253521, 
+            "nondistended": 0.014084507042253521, 
+            "nonfixed": 0.014084507042253521, 
+            "nontender": 0.014084507042253521, 
+            "past": 0.014084507042253521, 
+            "polydipsia": 0.014084507042253521, 
+            "polyuria": 0.014084507042253521, 
+            "pregnancy": 0.014084507042253521, 
+            "pulses": 0.014084507042253521, 
+            "sister": 0.014084507042253521, 
+            "sounds": 0.014084507042253521, 
+            "stenosis": 0.028169014084507043, 
+            "surgery": 0.014084507042253521, 
+            "years": 0.014084507042253521
+        }, 
+        ".": {
+            "Shewbridge": 1.0
+        }, 
+        "1": {
+            "COURSE:": 1.0
+        }, 
+        "1+": {
+            "revealed": 1.0
+        }, 
+        "1.": {
+            "CC:": 1.0
+        }, 
+        "1/29/2002": {
+            "|": 1.0
+        }, 
+        "1/4/02": {
+            "D:": 0.5, 
+            "T:": 0.5
+        }, 
+        "10": {
+            "x": 1.0
+        }, 
+        "10.6": {
+            "of": 1.0
+        }, 
+        "100": {
+            "Diflucan": 1.0
+        }, 
+        "100s-low": {
+            "high": 1.0
+        }, 
+        "12:00:00": {
+            "1/29/2002": 1.0
+        }, 
+        "14": {
+            "Regular": 1.0
+        }, 
+        "140/88": {
+            "pressure": 1.0
+        }, 
+        "15": {
+            "a": 1.0
+        }, 
+        "15639": {
+            "Batch:": 1.0
+        }, 
+        "160s": {
+            "LDL": 1.0
+        }, 
+        "17": {
+            "to": 1.0
+        }, 
+        "18": {
+            "respirations": 1.0
+        }, 
+        "1987": {
+            "in": 1.0
+        }, 
+        "2": {
+            "course.": 0.5, 
+            "than": 0.5
+        }, 
+        "2-3": {
+            "a": 1.0
+        }, 
+        "2.": {
+            "M.D.": 1.0
+        }, 
+        "20": {
+            "lisinopril": 0.6666666666666666, 
+            "simvastatin": 0.3333333333333333
+        }, 
+        "2000.": {
+            "in": 1.0
+        }, 
+        "200s": {
+            "100s-low": 1.0
+        }, 
+        "25": {
+            "atenolol": 1.0
+        }, 
+        "27": {
+            "of": 1.0
+        }, 
+        "27.": {
+            "of": 1.0
+        }, 
+        "3": {
+            "b.i.d.": 0.5, 
+            "x": 0.5
+        }, 
+        "3.": {
+            "x": 1.0
+        }, 
+        "3.0": {
+            ",": 1.0
+        }, 
+        "30%": {
+            "a": 0.5, 
+            "of": 0.5
+        }, 
+        "300": {
+            "Clindamycin": 1.0
+        }, 
+        "325": {
+            "aspirin": 1.0
+        }, 
+        "36": {
+            "x": 1.0
+        }, 
+        "390.": {
+            "of": 1.0
+        }, 
+        "4": {
+            "planning.": 1.0
+        }, 
+        "40": {
+            "Lasix": 0.6666666666666666, 
+            "Nexium": 0.3333333333333333
+        }, 
+        "47-year-old": {
+            "a": 1.0
+        }, 
+        "48-year-old": {
+            "A": 1.0
+        }, 
+        "5": {
+            "a": 0.5, 
+            "gastritis.": 0.5
+        }, 
+        "5/24/2002": {
+            "Date:": 1.0
+        }, 
+        "5/3/2002": {
+            "Date:": 1.0
+        }, 
+        "5/325": {
+            "Endocet": 1.0
+        }, 
+        "5/5": {
+            "intact.": 1.0
+        }, 
+        "50": {
+            "of": 1.0
+        }, 
+        "50%": {
+            ",": 1.0
+        }, 
+        "500": {
+            "Levaquin": 1.0
+        }, 
+        "6": {
+            "stabilized.": 1.0
+        }, 
+        "600.": {
+            "were": 1.0
+        }, 
+        "70": {
+            "70/30": 1.0
+        }, 
+        "70/30": {
+            "Insulin": 0.3333333333333333, 
+            "insulin": 0.3333333333333333, 
+            "of": 0.3333333333333333
+        }, 
+        "775954": {
+            "|": 1.0
+        }, 
+        "8.0": {
+            "at": 1.0
+        }, 
+        "80%": {
+            "long": 1.0
+        }, 
+        "83230517": {
+            "|": 1.0
+        }, 
+        "889447689": {
+            "": 1.0
+        }, 
+        "97": {
+            "rate": 1.0
+        }, 
+        "98.2": {
+            "temperature": 1.0
+        }, 
+        "99%": {
+            "saturation": 1.0
+        }, 
+        "A": {
+            "27.": 0.3333333333333333, 
+            "IMPRESSION:": 0.3333333333333333, 
+            "area.": 0.3333333333333333
+        }, 
+        "ABDOMEN:": {
+            "cm.": 1.0
+        }, 
+        "ABOLT": {
+            "GARRET": 1.0
+        }, 
+        "ABSCESS": {
+            "VULVAR": 1.0
+        }, 
+        "ACE": {
+            "her": 1.0
+        }, 
+        "ADMISSION": {
+            "5/3/2002": 1.0
+        }, 
+        "ADMISSION:": {
+            "ON": 1.0
+        }, 
+        "ALLERGIES:": {
+            "days.": 1.0
+        }, 
+        "AM": {
+            "12:00:00": 1.0
+        }, 
+        "ANTOINE": {
+            "By:": 1.0
+        }, 
+        "ARTERY": {
+            "CORONARY": 1.0
+        }, 
+        "Admission": {
+            "|": 1.0
+        }, 
+        "Afebrile": {
+            "SIGNS:": 1.0
+        }, 
+        "Alert": {
+            "NEURO:": 1.0
+        }, 
+        "An": {
+            "enzymes.": 1.0
+        }, 
+        "Attending:": {
+            "DQ37": 1.0
+        }, 
+        "BERNARDO": {
+            "Attending:": 1.0
+        }, 
+        "BUN": {
+            "Renal:": 1.0
+        }, 
+        "Batch:": {
+            "GO009/821705": 1.0
+        }, 
+        "Breast": {
+            "HISTORY:": 1.0
+        }, 
+        "Brehony": {
+            "Dr.": 1.0
+        }, 
+        "By:": {
+            "Dictated": 1.0
+        }, 
+        "CABG": {
+            "for": 1.0
+        }, 
+        "CC:": {
+            "1/4/02": 1.0
+        }, 
+        "CHEST:": {
+            "palpable.": 1.0
+        }, 
+        "CORONARY": {
+            ",": 1.0
+        }, 
+        "COURSE:": {
+            "HOSPITAL": 1.0
+        }, 
+        "Captopril.": {
+            "and": 1.0
+        }, 
+        "Cardiopulmonary:": {
+            ")": 1.0
+        }, 
+        "Center": {
+            "Medical": 1.0
+        }, 
+        "Clear": {
+            "CHEST:": 1.0
+        }, 
+        "Clindamycin": {
+            "MEDICATIONS:": 1.0
+        }, 
+        "Codeine": {
+            "ALLERGIES:": 1.0
+        }, 
+        "Coronary": {
+            "grandmother.": 1.0
+        }, 
+        "Cranial": {
+            "3.": 1.0
+        }, 
+        "D.": {
+            "BERNARDO": 1.0
+        }, 
+        "D:": {
+            "UDIFY907IM": 1.0
+        }, 
+        "DIABETES": {
+            ",": 1.0
+        }, 
+        "DIABETES.": {
+            ",": 1.0
+        }, 
+        "DIAGNOSES:": {
+            "ADMISSION": 0.5, 
+            "DISCHARGE": 0.5
+        }, 
+        "DIS": {
+            "|": 1.0
+        }, 
+        "DISCHARGE": {
+            ".": 0.3333333333333333, 
+            "PRINCIPAL": 0.3333333333333333, 
+            "subcu.": 0.3333333333333333
+        }, 
+        "DISEASE": {
+            "ARTERY": 1.0
+        }, 
+        "DQ37": {
+            "M.D.": 1.0
+        }, 
+        "Date:": {
+            "Admission": 0.5, 
+            "Discharge": 0.5
+        }, 
+        "Demerol": {
+            "constipation;": 1.0
+        }, 
+        "DesOwen": {
+            "q.d.;": 1.0
+        }, 
+        "Diabetes": {
+            ")": 1.0
+        }, 
+        "Dictated": {
+            "week.": 1.0
+        }, 
+        "Diflucan": {
+            "q.d.;": 1.0
+        }, 
+        "Discharge": {
+            "Signed": 1.0
+        }, 
+        "Disease:": {
+            "Infectious": 1.0
+        }, 
+        "Dr.": {
+            "FOLLOWUP:": 0.2, 
+            "GYN": 0.2, 
+            "physician": 0.4, 
+            "with": 0.2
+        }, 
+        "EF": {
+            "an": 1.0
+        }, 
+        "EKG": {
+            "an": 1.0
+        }, 
+        "EOMI.": {
+            "PERRL.": 1.0
+        }, 
+        "EXAMINATION:": {
+            "PHYSICAL": 1.0
+        }, 
+        "EXTREMITIES:": {
+            "masses.": 1.0
+        }, 
+        "Endocet": {
+            "lotion;": 1.0
+        }, 
+        "FAMILY": {
+            "hives.": 1.0
+        }, 
+        "FCMC": {
+            "|": 1.0
+        }, 
+        "FOLLOWUP:": {
+            "DISCHARGE": 1.0
+        }, 
+        "FRANCES": {
+            "WAYLON": 1.0
+        }, 
+        "FUNCTION.": {
+            "SYSTOLIC": 1.0
+        }, 
+        "GARRET": {
+            "1.": 1.0
+        }, 
+        "GENERAL:": {
+            "air.": 1.0
+        }, 
+        "GI:": {
+            ")": 1.0
+        }, 
+        "GO009/821705": {
+            "NW7": 1.0
+        }, 
+        "GYN": {
+            "and": 0.3333333333333333, 
+            "in": 0.3333333333333333, 
+            "the": 0.3333333333333333
+        }, 
+        "GYN.": {
+            "by": 1.0
+        }, 
+        "HEART:": {
+            "bilaterally.": 1.0
+        }, 
+        "HEENT:": {
+            "distress.": 1.0
+        }, 
+        "HISTORY": {
+            "FUNCTION.": 1.0
+        }, 
+        "HISTORY:": {
+            "FAMILY": 0.3333333333333333, 
+            "MEDICAL/SURGICAL": 0.3333333333333333, 
+            "SOCIAL": 0.3333333333333333
+        }, 
+        "HOSPITAL": {
+            "disease.": 1.0
+        }, 
+        "Harland": {
+            "Dr.": 1.0
+        }, 
+        "Her": {
+            "Levaquin.": 0.25, 
+            "course.": 0.25, 
+            "cover.": 0.25, 
+            "regimen.": 0.25
+        }, 
+        "I&D": {
+            "an": 0.5, 
+            "for": 0.25, 
+            "post": 0.25
+        }, 
+        "IDDM": {
+            "controlled": 1.0
+        }, 
+        "ILLNESS:": {
+            "PRESENT": 1.0
+        }, 
+        "IMPRESSION:": {
+            "bilaterally.": 1.0
+        }, 
+        "IV": {
+            "for": 1.0
+        }, 
+        "IV.": {
+            "Lasix": 1.0
+        }, 
+        "Index": {
+            "15639": 1.0
+        }, 
+        "Infectious": {
+            ")": 1.0
+        }, 
+        "Insulin": {
+            "ADMISSION:": 1.0
+        }, 
+        "Insulin-dependent": {
+            "HISTORY:": 1.0
+        }, 
+        "Isaman": {
+            "Harland": 1.0
+        }, 
+        "JVP": {
+            "gallops.": 1.0
+        }, 
+        "KUNAU": {
+            "D.": 1.0
+        }, 
+        "LAD": {
+            "No": 0.5, 
+            "revealed": 0.5
+        }, 
+        "LDL": {
+            "(": 1.0
+        }, 
+        "LEFT": {
+            ",": 1.0
+        }, 
+        "Lac-Hydrin": {
+            "lotion;": 1.0
+        }, 
+        "Lasix": {
+            "q.d.;": 0.3333333333333333, 
+            "with": 0.6666666666666666
+        }, 
+        "Levaquin": {
+            "b.i.d.;": 1.0
+        }, 
+        "Levaquin.": {
+            "of": 1.0
+        }, 
+        "Lopressor": {
+            ",": 1.0
+        }, 
+        "Loren": {
+            "Dr.": 1.0
+        }, 
+        "Low": {
+            "GI:": 1.0
+        }, 
+        "M.D.": {
+            ",": 1.0
+        }, 
+        "MAIDONADO": {
+            "FRANCES": 1.0
+        }, 
+        "MEDICAL/SURGICAL": {
+            "PAST": 1.0
+        }, 
+        "MEDICATIONS": {
+            "gastritis.": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "DISCHARGE": 1.0
+        }, 
+        "MIBI": {
+            "adenosine": 1.0
+        }, 
+        "MR": {
+            "moderate": 1.0
+        }, 
+        "Medical": {
+            "University": 1.0
+        }, 
+        "Moist": {
+            "clear.": 1.0
+        }, 
+        "NECK:": {
+            "dentures.": 1.0
+        }, 
+        "NEURO:": {
+            "refill.": 1.0
+        }, 
+        "NPH": {
+            "to": 1.0
+        }, 
+        "NW7": {
+            "M.D.": 1.0
+        }, 
+        "Nexium": {
+            "b.i.d.;": 0.5, 
+            "on": 0.5
+        }, 
+        "No": {
+            "NECK:": 1.0
+        }, 
+        "No.": {
+            "Index": 1.0
+        }, 
+        "OAKS": {
+            "ANTOINE": 1.0
+        }, 
+        "OF": {
+            "HISTORY": 0.5, 
+            "REVIEW": 0.5
+        }, 
+        "ON": {
+            "MEDICATIONS": 1.0
+        }, 
+        "OR.": {
+            "the": 1.0
+        }, 
+        "October": {
+            "on": 1.0
+        }, 
+        "On": {
+            "Cardiopulmonary:": 0.3333333333333333, 
+            "EXAMINATION:": 0.3333333333333333, 
+            "mellitus:": 0.3333333333333333
+        }, 
+        "Oropharynx": {
+            "EOMI.": 1.0
+        }, 
+        "PAST": {
+            "GYN.": 1.0
+        }, 
+        "PERRL.": {
+            "HEENT:": 1.0
+        }, 
+        "PHYSICAL": {
+            "hemorrhoids.": 1.0
+        }, 
+        "PRESENT": {
+            "OF": 1.0
+        }, 
+        "PRINCIPAL": {
+            "DIABETES.": 1.0
+        }, 
+        "Pain": {
+            "stairs.": 1.0
+        }, 
+        "Paxil": {
+            "discontinued": 1.0
+        }, 
+        "Positive": {
+            "membranes.": 1.0
+        }, 
+        "Primary": {
+            "weeks.": 1.0
+        }, 
+        "Prive": {
+            "Dr.": 1.0
+        }, 
+        "Propionibacterium.": {
+            "and": 1.0
+        }, 
+        "Pulmonary": {
+            "Pulmonary:": 1.0
+        }, 
+        "Pulmonary:": {
+            ")": 1.0
+        }, 
+        "RCA": {
+            "50%": 1.0
+        }, 
+        "REVIEW": {
+            "management.": 1.0
+        }, 
+        "RSO": {
+            "post": 1.0
+        }, 
+        "Recent": {
+            "exercise.": 1.0
+        }, 
+        "Regular": {
+            "and": 1.0
+        }, 
+        "Renal:": {
+            ")": 1.0
+        }, 
+        "Report": {
+            "5/24/2002": 1.0
+        }, 
+        "S": {
+            "Sharpon": 1.0
+        }, 
+        "S1S2": {
+            "HEART:": 1.0
+        }, 
+        "SIGNS:": {
+            "VITAL": 1.0
+        }, 
+        "SOCIAL": {
+            "mother.": 1.0
+        }, 
+        "SYSTEMS:": {
+            "OF": 1.0
+        }, 
+        "SYSTOLIC": {
+            "VENTRICULAR": 1.0
+        }, 
+        "Sensation": {
+            "extremities.": 1.0
+        }, 
+        "Sharpon": {
+            "the": 1.0
+        }, 
+        "She": {
+            "2000.": 0.05263157894736842, 
+            "390.": 0.05263157894736842, 
+            "600.": 0.05263157894736842, 
+            "Captopril.": 0.05263157894736842, 
+            "Disease:": 0.05263157894736842, 
+            "HISTORY:": 0.05263157894736842, 
+            "IV.": 0.05263157894736842, 
+            "OR.": 0.05263157894736842, 
+            "Propionibacterium.": 0.05263157894736842, 
+            "TR.": 0.05263157894736842, 
+            "abscesses.": 0.05263157894736842, 
+            "direction.": 0.05263157894736842, 
+            "drip.": 0.05263157894736842, 
+            "hypokinesis.": 0.05263157894736842, 
+            "lymphadenopathy.": 0.05263157894736842, 
+            "mass.": 0.05263157894736842, 
+            "overload.": 0.05263157894736842, 
+            "smoking.": 0.05263157894736842, 
+            "use.": 0.05263157894736842
+        }, 
+        "Shewbridge": {
+            "Dr.": 1.0
+        }, 
+        "Signed": {
+            "Status:": 0.5, 
+            "|": 0.5
+        }, 
+        "Soft": {
+            "ABDOMEN:": 1.0
+        }, 
+        "Status:": {
+            "Report": 1.0
+        }, 
+        "Stivason": {
+            "Loren": 1.0
+        }, 
+        "Strep": {
+            "pepto": 1.0
+        }, 
+        "T:": {
+            "1/4/02": 1.0
+        }, 
+        "TAH-LSO": {
+            "post": 1.0
+        }, 
+        "TR.": {
+            "trace": 1.0
+        }, 
+        "Tender": {
+            "EXTREMITIES:": 1.0
+        }, 
+        "The": {
+            "ILLNESS:": 0.5, 
+            "b.i.d.": 0.5
+        }, 
+        "Tlgen": {
+            "S": 1.0
+        }, 
+        "Twenty-five": {
+            "SYSTEMS:": 1.0
+        }, 
+        "UDIFY907IM": {
+            "No.": 1.0
+        }, 
+        "University": {
+            "Tlgen": 1.0
+        }, 
+        "VENTRICULAR": {
+            "LEFT": 1.0
+        }, 
+        "VITAL": {
+            "admission.": 1.0
+        }, 
+        "VULVAR": {
+            "DIAGNOSES:": 0.6666666666666666, 
+            "|": 0.3333333333333333
+        }, 
+        "WAYLON": {
+            "2.": 1.0
+        }, 
+        "a": {
+            "after": 0.038461538461538464, 
+            "and": 0.07692307692307693, 
+            "complete": 0.038461538461538464, 
+            "for": 0.038461538461538464, 
+            "had": 0.11538461538461539, 
+            "has": 0.038461538461538464, 
+            "is": 0.07692307692307693, 
+            "noticed": 0.038461538461538464, 
+            "of": 0.038461538461538464, 
+            "on": 0.038461538461538464, 
+            "pack": 0.038461538461538464, 
+            "prescribed": 0.038461538461538464, 
+            "received": 0.038461538461538464, 
+            "revealed": 0.038461538461538464, 
+            "show": 0.038461538461538464, 
+            "underwent": 0.038461538461538464, 
+            "with": 0.23076923076923078
+        }, 
+        "about": {
+            "were": 1.0
+        }, 
+        "abscess": {
+            "ovarian": 0.25, 
+            "vulvar": 0.75
+        }, 
+        "abscesses": {
+            "buttock": 1.0
+        }, 
+        "abscesses.": {
+            "recurrent": 1.0
+        }, 
+        "acute": {
+            "developed": 0.5, 
+            "no": 0.5
+        }, 
+        "adenosine": {
+            "an": 1.0
+        }, 
+        "admission": {
+            "On": 0.25, 
+            "of": 0.25, 
+            "to": 0.5
+        }, 
+        "admission.": {
+            "On": 1.0
+        }, 
+        "admitted": {
+            "initially": 0.5, 
+            "was": 0.5
+        }, 
+        "afebrile": {
+            "was": 1.0
+        }, 
+        "after": {
+            "and": 0.3333333333333333, 
+            "edema": 0.3333333333333333, 
+            "upward": 0.3333333333333333
+        }, 
+        "air.": {
+            "room": 1.0
+        }, 
+        "alcohol": {
+            "denies": 1.0
+        }, 
+        "altered": {
+            "subjective": 1.0
+        }, 
+        "an": {
+            "as": 0.1111111111111111, 
+            "for": 0.1111111111111111, 
+            "from": 0.1111111111111111, 
+            "had": 0.1111111111111111, 
+            "make": 0.2222222222222222, 
+            "post": 0.1111111111111111, 
+            "underwent": 0.1111111111111111, 
+            "with": 0.1111111111111111
+        }, 
+        "anaerobic": {
+            ",": 1.0
+        }, 
+        "and": {
+            "#3": 0.027777777777777776, 
+            "#asthma#": 0.027777777777777776, 
+            ")": 0.027777777777777776, 
+            ",": 0.1111111111111111, 
+            "10.6": 0.027777777777777776, 
+            "30%": 0.027777777777777776, 
+            "Alert": 0.027777777777777776, 
+            "BUN": 0.027777777777777776, 
+            "Isaman": 0.027777777777777776, 
+            "Strep": 0.027777777777777776, 
+            "admission": 0.027777777777777776, 
+            "antibiotics": 0.027777777777777776, 
+            "aspirin": 0.027777777777777776, 
+            "b.i.d.": 0.027777777777777776, 
+            "call": 0.027777777777777776, 
+            "cardiology": 0.027777777777777776, 
+            "cough": 0.027777777777777776, 
+            "decision": 0.027777777777777776, 
+            "disease": 0.027777777777777776, 
+            "drip": 0.027777777777777776, 
+            "in-house": 0.027777777777777776, 
+            "infection": 0.027777777777777776, 
+            "mass": 0.027777777777777776, 
+            "monitored": 0.027777777777777776, 
+            "mother": 0.027777777777777776, 
+            "outpatient": 0.027777777777777776, 
+            "p.o.q.d.": 0.027777777777777776, 
+            "pain": 0.027777777777777776, 
+            "persisted": 0.027777777777777776, 
+            "same": 0.027777777777777776, 
+            "thigh": 0.027777777777777776, 
+            "upper": 0.05555555555555555
+        }, 
+        "antibiotics": {
+            "IV": 1.0
+        }, 
+        "appointment": {
+            "an": 1.0
+        }, 
+        "appointments": {
+            "up": 1.0
+        }, 
+        "area.": {
+            "the": 1.0
+        }, 
+        "artery": {
+            "Coronary": 0.3333333333333333, 
+            "coronary": 0.6666666666666666
+        }, 
+        "as": {
+            "Prive": 1.0
+        }, 
+        "aspirin": {
+            "on": 0.5, 
+            "q.d.;": 0.5
+        }, 
+        "associated": {
+            "without": 1.0
+        }, 
+        "at": {
+            "JVP": 0.3333333333333333, 
+            "She": 0.3333333333333333, 
+            "admission": 0.3333333333333333
+        }, 
+        "atenolol": {
+            "b.i.d.;": 1.0
+        }, 
+        "auscultation": {
+            "to": 1.0
+        }, 
+        "b.i.d.": {
+            "20": 0.2, 
+            "50": 0.2, 
+            "units": 0.6
+        }, 
+        "b.i.d.;": {
+            "5/325": 0.3333333333333333, 
+            "mg": 0.3333333333333333, 
+            "units": 0.3333333333333333
+        }, 
+        "bacteroides": {
+            "revealed": 1.0
+        }, 
+        "be": {
+            "to": 1.0
+        }, 
+        "being": {
+            "after": 1.0
+        }, 
+        "believed": {
+            ",": 1.0
+        }, 
+        "bilateral": {
+            ",": 1.0
+        }, 
+        "bilaterally": {
+            "strength": 1.0
+        }, 
+        "bilaterally.": {
+            "auscultation": 0.5, 
+            "extremities": 0.5
+        }, 
+        "biopsy": {
+            "systemic": 1.0
+        }, 
+        "block": {
+            "branch": 1.0
+        }, 
+        "blood": {
+            ",": 0.5, 
+            "noted": 0.5
+        }, 
+        "bolus": {
+            "unit": 1.0
+        }, 
+        "borderline": {
+            "and": 1.0
+        }, 
+        "both": {
+            "with": 1.0
+        }, 
+        "bowel": {
+            "positive": 1.0
+        }, 
+        "branch": {
+            "bundle": 1.0
+        }, 
+        "breath": {
+            "of": 1.0
+        }, 
+        "bump": {
+            "tender": 1.0
+        }, 
+        "bundle": {
+            "left": 1.0
+        }, 
+        "buttock": {
+            "and": 1.0
+        }, 
+        "by": {
+            "I&D": 0.5, 
+            "recommended": 0.5
+        }, 
+        "bypass": {
+            "artery": 1.0
+        }, 
+        "call": {
+            "to": 1.0
+        }, 
+        "cancer": {
+            "Breast": 0.5, 
+            "ovarian": 0.5
+        }, 
+        "capillary": {
+            "second": 1.0
+        }, 
+        "cardiac": {
+            "a": 0.6666666666666666, 
+            "for": 0.3333333333333333
+        }, 
+        "cardiology": {
+            "by": 1.0
+        }, 
+        "care": {
+            "Primary": 0.5, 
+            "primary": 0.5
+        }, 
+        "catheterization": {
+            "cardiac": 1.0
+        }, 
+        "causes": {
+            "which": 1.0
+        }, 
+        "cells": {
+            "malignant": 1.0
+        }, 
+        "chest": {
+            "a": 1.0
+        }, 
+        "chills": {
+            "of": 1.0
+        }, 
+        "chronic": {
+            "mild": 1.0
+        }, 
+        "clear.": {
+            "Oropharynx": 1.0
+        }, 
+        "climbing": {
+            "on": 1.0
+        }, 
+        "clindamycin": {
+            "and": 0.5, 
+            "on": 0.5
+        }, 
+        "clinic": {
+            "GYN": 1.0
+        }, 
+        "cm": {
+            "3": 0.5, 
+            "3.0": 0.5
+        }, 
+        "cm.": {
+            "8.0": 1.0
+        }, 
+        "complaints": {
+            "with": 1.0
+        }, 
+        "complete": {
+            "to": 1.0
+        }, 
+        "constipation;": {
+            "causes": 1.0
+        }, 
+        "control": {
+            ",": 0.5, 
+            "diabetic": 0.5
+        }, 
+        "controlled": {
+            "poorly": 1.0
+        }, 
+        "coronary": {
+            "2-3": 0.3333333333333333, 
+            "A": 0.3333333333333333, 
+            "diagonal": 0.3333333333333333
+        }, 
+        "cough": {
+            "of": 1.0
+        }, 
+        "count": {
+            "white": 1.0
+        }, 
+        "course": {
+            "hospital": 0.5, 
+            "ten-day": 0.5
+        }, 
+        "course.": {
+            "fourteen-day": 0.5, 
+            "hospital": 0.5
+        }, 
+        "cover.": {
+            "to": 1.0
+        }, 
+        "creatinine": {
+            "and": 1.0
+        }, 
+        "culture": {
+            "anaerobic": 1.0
+        }, 
+        "cultures": {
+            "Her": 1.0
+        }, 
+        "current": {
+            "no": 1.0
+        }, 
+        "day": {
+            "a": 0.2, 
+            "hospital": 0.6, 
+            "the": 0.2
+        }, 
+        "days": {
+            "six": 0.5, 
+            "three": 0.5
+        }, 
+        "days.": {
+            "10": 1.0
+        }, 
+        "decided": {
+            "they": 1.0
+        }, 
+        "decision": {
+            "CABG": 0.5, 
+            "the": 0.5
+        }, 
+        "decrease": {
+            "severe": 1.0
+        }, 
+        "decreased": {
+            ",": 1.0
+        }, 
+        "defect": {
+            "perfusion": 1.0
+        }, 
+        "denies": {
+            ",": 1.0
+        }, 
+        "dentures.": {
+            "upper": 1.0
+        }, 
+        "depression": {
+            ",": 1.0
+        }, 
+        "developed": {
+            "she": 1.0
+        }, 
+        "diabetes": {
+            "Insulin-dependent": 0.2, 
+            "borderline": 0.2, 
+            "her": 0.2, 
+            "insulin-dependent": 0.2, 
+            "with": 0.2
+        }, 
+        "diabetic": {
+            "and": 1.0
+        }, 
+        "diagnosed": {
+            "mellitus": 1.0
+        }, 
+        "diagonal": {
+            "(": 1.0
+        }, 
+        "did": {
+            "She": 1.0
+        }, 
+        "diet": {
+            "her": 0.5, 
+            "restricted": 0.5
+        }, 
+        "direction.": {
+            "that": 1.0
+        }, 
+        "discharge": {
+            "Her": 0.3333333333333333, 
+            "The": 0.3333333333333333, 
+            "on": 0.3333333333333333
+        }, 
+        "discharged": {
+            "be": 0.5, 
+            "was": 0.5
+        }, 
+        "discontinued": {
+            "recently": 1.0
+        }, 
+        "disease": {
+            "artery": 1.0
+        }, 
+        "disease.": {
+            "vessel": 1.0
+        }, 
+        "distant": {
+            "the": 1.0
+        }, 
+        "distress.": {
+            "acute": 1.0
+        }, 
+        "distribution": {
+            "artery": 1.0
+        }, 
+        "diuresed": {
+            "was": 1.0
+        }, 
+        "dose": {
+            "outpatient": 1.0
+        }, 
+        "dosing": {
+            "(": 0.5, 
+            "home": 0.5
+        }, 
+        "drip": {
+            "insulin": 1.0
+        }, 
+        "drip.": {
+            "insulin": 1.0
+        }, 
+        "drug": {
+            "or": 1.0
+        }, 
+        "due": {
+            "be": 0.5, 
+            "likely": 0.5
+        }, 
+        "duration": {
+            "the": 1.0
+        }, 
+        "dysfunction": {
+            "systolic": 1.0
+        }, 
+        "echocardiogram": {
+            "An": 1.0
+        }, 
+        "ectopic": {
+            "for": 1.0
+        }, 
+        "edema": {
+            "pulmonary": 1.0
+        }, 
+        "effusions": {
+            "small": 1.0
+        }, 
+        "ejection": {
+            "30%": 1.0
+        }, 
+        "energy": {
+            "decreased": 1.0
+        }, 
+        "enlarging": {
+            "and": 1.0
+        }, 
+        "enzymes.": {
+            "flat": 1.0
+        }, 
+        "excision": {
+            "post": 1.0
+        }, 
+        "exercise.": {
+            "with": 1.0
+        }, 
+        "extended": {
+            "large": 1.0
+        }, 
+        "extremities": {
+            "her": 0.3333333333333333, 
+            "lower": 0.6666666666666666
+        }, 
+        "extremities.": {
+            "lower": 1.0
+        }, 
+        "extremity": {
+            "lower": 1.0
+        }, 
+        "family": {
+            "a": 0.5, 
+            "extended": 0.5
+        }, 
+        "felt": {
+            "was": 1.0
+        }, 
+        "female": {
+            "48-year-old": 1.0
+        }, 
+        "finger": {
+            "her": 0.5, 
+            "the": 0.5
+        }, 
+        "firm": {
+            ",": 1.0
+        }, 
+        "first": {
+            "She": 1.0
+        }, 
+        "flares": {
+            "recent": 1.0
+        }, 
+        "flat": {
+            "with": 1.0
+        }, 
+        "flight": {
+            "one": 1.0
+        }, 
+        "flocculent": {
+            "question": 1.0
+        }, 
+        "flora": {
+            "vaginal": 1.0
+        }, 
+        "fluid": {
+            "salt": 0.5, 
+            "the": 0.5
+        }, 
+        "follow": {
+            "has": 0.3333333333333333, 
+            "to": 0.3333333333333333, 
+            "with": 0.3333333333333333
+        }, 
+        "for": {
+            ",": 0.06666666666666667, 
+            "Center": 0.06666666666666667, 
+            "I&D": 0.06666666666666667, 
+            "Nexium": 0.06666666666666667, 
+            "RSO": 0.06666666666666667, 
+            "admitted": 0.06666666666666667, 
+            "and": 0.06666666666666667, 
+            "biopsy": 0.06666666666666667, 
+            "clindamycin": 0.06666666666666667, 
+            "is": 0.06666666666666667, 
+            "optimized": 0.06666666666666667, 
+            "plan": 0.06666666666666667, 
+            "surgery": 0.06666666666666667, 
+            "up": 0.06666666666666667, 
+            "was": 0.06666666666666667
+        }, 
+        "fourteen-day": {
+            "a": 1.0
+        }, 
+        "fraction": {
+            "ejection": 1.0
+        }, 
+        "from": {
+            "fluid": 0.5, 
+            "new": 0.5
+        }, 
+        "function": {
+            "systolic": 1.0
+        }, 
+        "further": {
+            "of": 1.0
+        }, 
+        "gallops.": {
+            "or": 1.0
+        }, 
+        "gastritis.": {
+            "chronic": 0.5, 
+            "of": 0.5
+        }, 
+        "gentamicin": {
+            "received": 1.0
+        }, 
+        "given": {
+            ",": 1.0
+        }, 
+        "global": {
+            ",": 0.5, 
+            "severe": 0.5
+        }, 
+        "go": {
+            "to": 1.0
+        }, 
+        "going": {
+            "was": 1.0
+        }, 
+        "graft": {
+            "bypass": 1.0
+        }, 
+        "grandmother.": {
+            "paternal": 1.0
+        }, 
+        "groin": {
+            "left": 1.0
+        }, 
+        "grossly": {
+            "Sensation": 1.0
+        }, 
+        "had": {
+            "She": 0.6, 
+            "she": 0.2, 
+            "ultimately": 0.2
+        }, 
+        "hallucinations;": {
+            "causes": 1.0
+        }, 
+        "has": {
+            "She": 1.0
+        }, 
+        "have": {
+            "not": 1.0
+        }, 
+        "heart": {
+            ",": 1.0
+        }, 
+        "hemorrhagic": {
+            "(": 1.0
+        }, 
+        "hemorrhoids": {
+            ",": 1.0
+        }, 
+        "hemorrhoids.": {
+            "be": 1.0
+        }, 
+        "hepatosplenomegaly": {
+            "no": 1.0
+        }, 
+        "her": {
+            "admission": 0.058823529411764705, 
+            "both": 0.058823529411764705, 
+            "for": 0.23529411764705882, 
+            "given": 0.058823529411764705, 
+            "in": 0.23529411764705882, 
+            "of": 0.17647058823529413, 
+            "on": 0.058823529411764705, 
+            "though": 0.058823529411764705, 
+            "when": 0.058823529411764705
+        }, 
+        "high": {
+            "the": 1.0
+        }, 
+        "history": {
+            ",": 0.16666666666666666, 
+            "A": 0.16666666666666666, 
+            "a": 0.16666666666666666, 
+            "her": 0.16666666666666666, 
+            "long": 0.3333333333333333
+        }, 
+        "hives.": {
+            "causes": 1.0
+        }, 
+        "home": {
+            "go": 0.3333333333333333, 
+            "going": 0.3333333333333333, 
+            "to": 0.3333333333333333
+        }, 
+        "hospital": {
+            "On": 0.2, 
+            "her": 0.2, 
+            "on": 0.4, 
+            "the": 0.2
+        }, 
+        "hypertension": {
+            "pulmonary": 1.0
+        }, 
+        "hypokinesis": {
+            "global": 1.0
+        }, 
+        "hypokinesis.": {
+            "global": 1.0
+        }, 
+        "if": {
+            ",": 1.0
+        }, 
+        "in": {
+            "EKG": 0.058823529411764705, 
+            "Pain": 0.058823529411764705, 
+            "appointment": 0.058823529411764705, 
+            "cancer": 0.11764705882352941, 
+            "decrease": 0.058823529411764705, 
+            "diabetes": 0.11764705882352941, 
+            "diagnosed": 0.058823529411764705, 
+            "family": 0.058823529411764705, 
+            "go": 0.058823529411764705, 
+            "mass": 0.058823529411764705, 
+            "seen": 0.058823529411764705, 
+            "sensation": 0.058823529411764705, 
+            "underwear": 0.058823529411764705, 
+            "were": 0.058823529411764705, 
+            "woman": 0.058823529411764705
+        }, 
+        "in-house": {
+            "diet": 1.0
+        }, 
+        "infarct": {
+            "hemorrhagic": 1.0
+        }, 
+        "infection": {
+            "further": 0.5, 
+            "of": 0.5
+        }, 
+        "inhibitor": {
+            "ACE": 1.0
+        }, 
+        "initially": {
+            ",": 1.0
+        }, 
+        "insulin": {
+            "q.d.;": 0.2, 
+            "subcu": 0.2, 
+            "subsequent": 0.2, 
+            "the": 0.4
+        }, 
+        "insulin-dependent": {
+            "controlled": 1.0
+        }, 
+        "intact": {
+            "grossly": 1.0
+        }, 
+        "intact.": {
+            "nerves": 1.0
+        }, 
+        "intentional": {
+            "pound": 1.0
+        }, 
+        "intubations": {
+            "or": 1.0
+        }, 
+        "is": {
+            "She": 0.5, 
+            "patient": 0.25, 
+            "plan": 0.25
+        }, 
+        "it": {
+            "believed": 1.0
+        }, 
+        "large": {
+            "a": 1.0
+        }, 
+        "left": {
+            "I&D": 0.14285714285714285, 
+            "a": 0.14285714285714285, 
+            "for": 0.14285714285714285, 
+            "her": 0.14285714285714285, 
+            "of": 0.14285714285714285, 
+            "severe": 0.14285714285714285, 
+            "to": 0.14285714285714285
+        }, 
+        "legs": {
+            "in": 1.0
+        }, 
+        "less": {
+            "with": 1.0
+        }, 
+        "levels": {
+            "per": 1.0
+        }, 
+        "likely": {
+            "hypertension": 1.0
+        }, 
+        "lingular": {
+            "of": 1.0
+        }, 
+        "lisinopril": {
+            "and": 0.5, 
+            "q.d.;": 0.5
+        }, 
+        "long": {
+            "LAD": 0.3333333333333333, 
+            "a": 0.6666666666666666
+        }, 
+        "loss": {
+            "weight": 1.0
+        }, 
+        "lotion;": {
+            "DesOwen": 0.5, 
+            "Lac-Hydrin": 0.5
+        }, 
+        "lower": {
+            "and": 0.5, 
+            "palpable": 0.25, 
+            "the": 0.25
+        }, 
+        "lymphadenopathy.": {
+            "associated": 1.0
+        }, 
+        "make": {
+            ",": 0.5, 
+            "and": 0.5
+        }, 
+        "makes": {
+            "she": 1.0
+        }, 
+        "malignant": {
+            "no": 1.0
+        }, 
+        "management.": {
+            "diabetes": 1.0
+        }, 
+        "mass": {
+            "flocculent": 0.3333333333333333, 
+            "lingular": 0.3333333333333333, 
+            "vulvar": 0.3333333333333333
+        }, 
+        "mass.": {
+            "palpable": 1.0
+        }, 
+        "masses.": {
+            "no": 1.0
+        }, 
+        "medically": {
+            "discharged": 1.0
+        }, 
+        "medications": {
+            "current": 1.0
+        }, 
+        "meeting": {
+            "family": 1.0
+        }, 
+        "mellitus": {
+            "diabetes": 1.0
+        }, 
+        "mellitus:": {
+            "Diabetes": 1.0
+        }, 
+        "membranes.": {
+            "mucous": 1.0
+        }, 
+        "mg": {
+            "20": 0.2857142857142857, 
+            "25": 0.14285714285714285, 
+            "300": 0.14285714285714285, 
+            "325": 0.14285714285714285, 
+            "40": 0.2857142857142857
+        }, 
+        "middle-aged": {
+            ",": 1.0
+        }, 
+        "mild": {
+            "for": 1.0
+        }, 
+        "mobile": {
+            "firm": 1.0
+        }, 
+        "moderate": {
+            ",": 1.0
+        }, 
+        "monitored": {
+            "was": 1.0
+        }, 
+        "months": {
+            "two": 1.0
+        }, 
+        "mother": {
+            "her": 1.0
+        }, 
+        "mother.": {
+            "her": 1.0
+        }, 
+        "moved": {
+            "14": 1.0
+        }, 
+        "mucous": {
+            "Moist": 1.0
+        }, 
+        "murmurs": {
+            "no": 1.0
+        }, 
+        "nebs": {
+            "to": 1.0
+        }, 
+        "nerves": {
+            "Cranial": 1.0
+        }, 
+        "neuropathy": {
+            "peripheral": 1.0
+        }, 
+        "new": {
+            "was": 1.0
+        }, 
+        "no": {
+            ",": 0.75, 
+            "in": 0.125, 
+            "showed": 0.125
+        }, 
+        "noncompliance": {
+            "of": 1.0
+        }, 
+        "nondistended": {
+            ",": 1.0
+        }, 
+        "nonerythematous": {
+            ",": 1.0
+        }, 
+        "nonfixed": {
+            ",": 1.0
+        }, 
+        "nontender": {
+            ",": 1.0
+        }, 
+        "not": {
+            "did": 0.5, 
+            "thyroid": 0.5
+        }, 
+        "noted": {
+            "and": 1.0
+        }, 
+        "noticed": {
+            "first": 1.0
+        }, 
+        "of": {
+            "EF": 0.034482758620689655, 
+            "I&D": 0.034482758620689655, 
+            "complaints": 0.034482758620689655, 
+            "control": 0.034482758620689655, 
+            "count": 0.034482758620689655, 
+            "course": 0.034482758620689655, 
+            "day": 0.034482758620689655, 
+            "dose": 0.034482758620689655, 
+            "dosing": 0.034482758620689655, 
+            "duration": 0.034482758620689655, 
+            "excision": 0.034482758620689655, 
+            "flight": 0.034482758620689655, 
+            "history": 0.20689655172413793, 
+            "onset": 0.034482758620689655, 
+            "pressure": 0.06896551724137931, 
+            "setting": 0.034482758620689655, 
+            "shortness": 0.06896551724137931, 
+            "sort": 0.034482758620689655, 
+            "stick": 0.034482758620689655, 
+            "symptoms": 0.034482758620689655, 
+            "titration": 0.034482758620689655, 
+            "week": 0.034482758620689655
+        }, 
+        "on": {
+            "200s": 0.07142857142857142, 
+            "99%": 0.07142857142857142, 
+            "abscess": 0.07142857142857142, 
+            "being": 0.07142857142857142, 
+            "blood": 0.07142857142857142, 
+            "breath": 0.07142857142857142, 
+            "catheterization": 0.07142857142857142, 
+            "decided": 0.07142857142857142, 
+            "discharged": 0.07142857142857142, 
+            "home": 0.07142857142857142, 
+            "insulin": 0.07142857142857142, 
+            "placed": 0.14285714285714285, 
+            "started": 0.07142857142857142
+        }, 
+        "one": {
+            "climbing": 0.25, 
+            "positive": 0.25, 
+            "with": 0.25, 
+            "within": 0.25
+        }, 
+        "onset": {
+            "the": 1.0
+        }, 
+        "optimized": {
+            "medically": 1.0
+        }, 
+        "or": {
+            "alcohol": 0.25, 
+            "flares": 0.25, 
+            "rubs": 0.25, 
+            "signs": 0.25
+        }, 
+        "oriented": {
+            "and": 1.0
+        }, 
+        "original": {
+            "her": 1.0
+        }, 
+        "out": {
+            "rule": 1.0
+        }, 
+        "outpatient": {
+            "an": 0.5, 
+            "original": 0.5
+        }, 
+        "ovarian": {
+            ",": 0.5, 
+            "for": 0.5
+        }, 
+        "over": {
+            "loss": 1.0
+        }, 
+        "overload.": {
+            "volume": 1.0
+        }, 
+        "oxygen": {
+            ",": 1.0
+        }, 
+        "p.o.q.d.": {
+            "mg": 1.0
+        }, 
+        "pack": {
+            "one": 1.0
+        }, 
+        "pain": {
+            "groin": 1.0
+        }, 
+        "palpable": {
+            "enlarging": 0.5, 
+            "have": 0.5
+        }, 
+        "palpable.": {
+            "not": 1.0
+        }, 
+        "past": {
+            "distant": 0.5, 
+            "the": 0.5
+        }, 
+        "paternal": {
+            "her": 1.0
+        }, 
+        "patient": {
+            "The": 0.3333333333333333, 
+            "the": 0.6666666666666666
+        }, 
+        "penicillin": {
+            "hallucinations;": 1.0
+        }, 
+        "pepto": {
+            ",": 1.0
+        }, 
+        "per": {
+            "dosing": 1.0
+        }, 
+        "perfusion": {
+            "reversible": 1.0
+        }, 
+        "peripheral": {
+            "bilateral": 1.0
+        }, 
+        "persisted": {
+            "symptoms": 1.0
+        }, 
+        "physician": {
+            "care": 1.0
+        }, 
+        "placed": {
+            "was": 1.0
+        }, 
+        "plan": {
+            "discharge": 0.3333333333333333, 
+            "the": 0.6666666666666666
+        }, 
+        "planning.": {
+            "and": 1.0
+        }, 
+        "plus/minus": {
+            "a": 1.0
+        }, 
+        "polydipsia": {
+            ",": 1.0
+        }, 
+        "polyuria": {
+            "Recent": 1.0
+        }, 
+        "poorly": {
+            "of": 1.0
+        }, 
+        "positive": {
+            ",": 0.5, 
+            "a": 0.5
+        }, 
+        "post": {
+            "status": 1.0
+        }, 
+        "pound": {
+            "Twenty-five": 1.0
+        }, 
+        "pregnancy": {
+            "ectopic": 1.0
+        }, 
+        "prescribed": {
+            "was": 1.0
+        }, 
+        "presents": {
+            "She": 1.0
+        }, 
+        "pressure": {
+            "blood": 0.3333333333333333, 
+            "wedge": 0.6666666666666666
+        }, 
+        "primary": {
+            "her": 1.0
+        }, 
+        "prior": {
+            "days": 1.0
+        }, 
+        "protocol": {
+            "out": 1.0
+        }, 
+        "pulmonary": {
+            "a": 0.25, 
+            "acute": 0.25, 
+            "showed": 0.25, 
+            "with": 0.25
+        }, 
+        "pulses": {
+            "extremity": 1.0
+        }, 
+        "q.d.": {
+            "500": 1.0
+        }, 
+        "q.d.;": {
+            "100": 0.16666666666666666, 
+            "40": 0.16666666666666666, 
+            "mg": 0.6666666666666666
+        }, 
+        "q.i.d.;": {
+            "mg": 1.0
+        }, 
+        "question": {
+            "nonerythematous": 1.0
+        }, 
+        "rate": {
+            "heart": 1.0
+        }, 
+        "received": {
+            ",": 0.5, 
+            "time": 0.5
+        }, 
+        "recent": {
+            "no": 1.0
+        }, 
+        "recently": {
+            "with": 1.0
+        }, 
+        "recommended": {
+            "was": 1.0
+        }, 
+        "recurrent": {
+            "and": 1.0
+        }, 
+        "refill.": {
+            "capillary": 1.0
+        }, 
+        "regimen.": {
+            "this": 1.0
+        }, 
+        "respirations": {
+            ",": 1.0
+        }, 
+        "response": {
+            "plus/minus": 1.0
+        }, 
+        "restricted": {
+            "fluid": 1.0
+        }, 
+        "returned": {
+            "diet": 0.3333333333333333, 
+            "she": 0.6666666666666666
+        }, 
+        "revealed": {
+            "culture": 0.2, 
+            "cultures": 0.2, 
+            "that": 0.2, 
+            "which": 0.4
+        }, 
+        "reversible": {
+            "small": 1.0
+        }, 
+        "room": {
+            "on": 1.0
+        }, 
+        "rubs": {
+            ",": 1.0
+        }, 
+        "rule": {
+            "a": 1.0
+        }, 
+        "salt": {
+            "Low": 1.0
+        }, 
+        "same": {
+            "the": 1.0
+        }, 
+        "saturation": {
+            "oxygen": 1.0
+        }, 
+        "scale": {
+            "sliding": 1.0
+        }, 
+        "second": {
+            "2": 1.0
+        }, 
+        "seen": {
+            "was": 1.0
+        }, 
+        "sensation": {
+            "altered": 1.0
+        }, 
+        "setting": {
+            "the": 1.0
+        }, 
+        "severe": {
+            ",": 0.3333333333333333, 
+            "revealed": 0.3333333333333333, 
+            "to": 0.3333333333333333
+        }, 
+        "she": {
+            "and": 0.2857142857142857, 
+            "if": 0.14285714285714285, 
+            "returned": 0.14285714285714285, 
+            "so": 0.14285714285714285, 
+            "though": 0.14285714285714285, 
+            "time": 0.14285714285714285
+        }, 
+        "shortness": {
+            ",": 0.5, 
+            "and": 0.5
+        }, 
+        "show": {
+            "to": 1.0
+        }, 
+        "showed": {
+            "course": 0.5, 
+            "that": 0.5
+        }, 
+        "signs": {
+            "no": 1.0
+        }, 
+        "similar": {
+            "NPH": 1.0
+        }, 
+        "simvastatin": {
+            "and": 0.5, 
+            "q.i.d.;": 0.5
+        }, 
+        "sister": {
+            "and": 1.0
+        }, 
+        "six": {
+            "bump": 1.0
+        }, 
+        "sliding": {
+            "a": 1.0
+        }, 
+        "small": {
+            "a": 0.5, 
+            "with": 0.5
+        }, 
+        "smoker": {
+            "day": 1.0
+        }, 
+        "smoking.": {
+            "and": 1.0
+        }, 
+        "so": {
+            "chills": 1.0
+        }, 
+        "some": {
+            "thought": 1.0
+        }, 
+        "sort": {
+            "with": 1.0
+        }, 
+        "sounds": {
+            "bowel": 1.0
+        }, 
+        "stabilized.": {
+            "and": 1.0
+        }, 
+        "stairs.": {
+            "of": 1.0
+        }, 
+        "started": {
+            "and": 0.5, 
+            "patient": 0.5
+        }, 
+        "status": {
+            ",": 0.8571428571428571, 
+            "is": 0.14285714285714285
+        }, 
+        "stenosis": {
+            "80%": 0.5, 
+            "RCA": 0.5
+        }, 
+        "stick": {
+            "finger": 1.0
+        }, 
+        "sticks": {
+            "finger": 1.0
+        }, 
+        "strength": {
+            "5/5": 1.0
+        }, 
+        "stress": {
+            "MIBI": 1.0
+        }, 
+        "subcu": {
+            "to": 1.0
+        }, 
+        "subcu.": {
+            "b.i.d.": 1.0
+        }, 
+        "subjective": {
+            "some": 1.0
+        }, 
+        "subsequent": {
+            "with": 1.0
+        }, 
+        "sugars": {
+            "Her": 0.5, 
+            "discharge": 0.5
+        }, 
+        "surgery": {
+            "cardiac": 0.5, 
+            "post": 0.5
+        }, 
+        "symptoms": {
+            "Her": 0.5, 
+            "or": 0.5
+        }, 
+        "systemic": {
+            "post": 1.0
+        }, 
+        "systolic": {
+            "in": 0.5, 
+            "left": 0.5
+        }, 
+        "temperature": {
+            ",": 1.0
+        }, 
+        "ten-day": {
+            "a": 1.0
+        }, 
+        "tender": {
+            "a": 1.0
+        }, 
+        "test": {
+            "stress": 1.0
+        }, 
+        "than": {
+            "less": 1.0
+        }, 
+        "that": {
+            "at": 0.25, 
+            "echocardiogram": 0.25, 
+            "in": 0.25, 
+            "x-ray": 0.25
+        }, 
+        "the": {
+            "#1": 0.038461538461538464, 
+            ",": 0.038461538461538464, 
+            "about": 0.038461538461538464, 
+            "after": 0.038461538461538464, 
+            "and": 0.07692307692307693, 
+            "clinic": 0.038461538461538464, 
+            "for": 0.038461538461538464, 
+            "from": 0.038461538461538464, 
+            "had": 0.038461538461538464, 
+            "in": 0.19230769230769232, 
+            "makes": 0.038461538461538464, 
+            "of": 0.038461538461538464, 
+            "on": 0.07692307692307693, 
+            "over": 0.038461538461538464, 
+            "throughout": 0.038461538461538464, 
+            "to": 0.11538461538461539, 
+            "until": 0.038461538461538464, 
+            "with": 0.038461538461538464
+        }, 
+        "then": {
+            "She": 1.0
+        }, 
+        "they": {
+            "meeting": 1.0
+        }, 
+        "thigh": {
+            "left": 1.0
+        }, 
+        "this": {
+            ",": 0.5, 
+            "on": 0.5
+        }, 
+        "though": {
+            ",": 1.0
+        }, 
+        "thought": {
+            ",": 1.0
+        }, 
+        "three": {
+            "clinic": 1.0
+        }, 
+        "throughout": {
+            "which": 1.0
+        }, 
+        "thyroid": {
+            ",": 1.0
+        }, 
+        "time": {
+            "that": 0.5, 
+            "which": 0.5
+        }, 
+        "titration": {
+            "the": 1.0
+        }, 
+        "to": {
+            "Clear": 0.043478260869565216, 
+            "admitted": 0.043478260869565216, 
+            "clindamycin": 0.043478260869565216, 
+            "decision": 0.043478260869565216, 
+            "due": 0.08695652173913043, 
+            "felt": 0.043478260869565216, 
+            "her": 0.17391304347826086, 
+            "it": 0.043478260869565216, 
+            "moderate": 0.043478260869565216, 
+            "prior": 0.08695652173913043, 
+            "response": 0.043478260869565216, 
+            "returned": 0.08695652173913043, 
+            "scale": 0.043478260869565216, 
+            "similar": 0.043478260869565216, 
+            "test": 0.043478260869565216, 
+            "transitioned": 0.043478260869565216, 
+            "up": 0.043478260869565216
+        }, 
+        "trace": {
+            ",": 1.0
+        }, 
+        "transitioned": {
+            "She": 1.0
+        }, 
+        "turning": {
+            "was": 1.0
+        }, 
+        "two": {
+            "in": 0.5, 
+            "past": 0.5
+        }, 
+        "ultimately": {
+            "and": 1.0
+        }, 
+        "underwear": {
+            "the": 1.0
+        }, 
+        "underwent": {
+            "She": 1.0
+        }, 
+        "unit": {
+            "15": 1.0
+        }, 
+        "units": {
+            "17": 0.25, 
+            "70": 0.75
+        }, 
+        "until": {
+            "drip": 1.0
+        }, 
+        "up": {
+            "follow": 0.75, 
+            "moved": 0.25
+        }, 
+        "upper": {
+            "Positive": 0.3333333333333333, 
+            "bilaterally": 0.3333333333333333, 
+            "intact": 0.3333333333333333
+        }, 
+        "upward": {
+            "turning": 1.0
+        }, 
+        "use.": {
+            "drug": 1.0
+        }, 
+        "vaginal": {
+            "1+": 1.0
+        }, 
+        "vessel": {
+            "coronary": 1.0
+        }, 
+        "volume": {
+            "left": 1.0
+        }, 
+        "vulvar": {
+            "a": 0.25, 
+            "cm": 0.25, 
+            "left": 0.25, 
+            "the": 0.25
+        }, 
+        "warm": {
+            "were": 1.0
+        }, 
+        "was": {
+            ",": 0.0625, 
+            "She": 0.25, 
+            "and": 0.125, 
+            "creatinine": 0.0625, 
+            "graft": 0.0625, 
+            "plan": 0.0625, 
+            "she": 0.125, 
+            "then": 0.0625, 
+            "this": 0.0625, 
+            "which": 0.125
+        }, 
+        "wedge": {
+            "Pulmonary": 0.5, 
+            "pulmonary": 0.5
+        }, 
+        "week": {
+            "one": 1.0
+        }, 
+        "week.": {
+            "one": 1.0
+        }, 
+        "weeks.": {
+            "two": 1.0
+        }, 
+        "weight": {
+            "intentional": 1.0
+        }, 
+        "were": {
+            "extremities": 0.25, 
+            "sticks": 0.25, 
+            "sugars": 0.5
+        }, 
+        "when": {
+            "and": 1.0
+        }, 
+        "which": {
+            "#2": 0.1111111111111111, 
+            "Codeine": 0.1111111111111111, 
+            "Demerol": 0.1111111111111111, 
+            "October": 0.1111111111111111, 
+            "at": 0.1111111111111111, 
+            "block": 0.1111111111111111, 
+            "effusions": 0.1111111111111111, 
+            "penicillin": 0.1111111111111111, 
+            "workup": 0.1111111111111111
+        }, 
+        "white": {
+            "a": 1.0
+        }, 
+        "with": {
+            "EKG": 0.041666666666666664, 
+            "afebrile": 0.08333333333333333, 
+            "appointments": 0.041666666666666664, 
+            "b.i.d.": 0.041666666666666664, 
+            "bolus": 0.041666666666666664, 
+            "breath": 0.041666666666666664, 
+            "control": 0.041666666666666664, 
+            "depression": 0.041666666666666664, 
+            "discharge": 0.041666666666666664, 
+            "diuresed": 0.041666666666666664, 
+            "dysfunction": 0.041666666666666664, 
+            "edema": 0.041666666666666664, 
+            "female": 0.041666666666666664, 
+            "home": 0.041666666666666664, 
+            "legs": 0.041666666666666664, 
+            "noncompliance": 0.041666666666666664, 
+            "patient": 0.041666666666666664, 
+            "presents": 0.041666666666666664, 
+            "protocol": 0.041666666666666664, 
+            "started": 0.041666666666666664, 
+            "up": 0.041666666666666664, 
+            "warm": 0.041666666666666664, 
+            "woman": 0.041666666666666664
+        }, 
+        "within": {
+            "appointment": 1.0
+        }, 
+        "without": {
+            "groin": 1.0
+        }, 
+        "woman": {
+            "#obese#": 0.5, 
+            "middle-aged": 0.5
+        }, 
+        "workup": {
+            "cardiac": 1.0
+        }, 
+        "x": {
+            "5": 0.25, 
+            "oriented": 0.25, 
+            "q.d.": 0.25, 
+            "smoker": 0.25
+        }, 
+        "x-ray": {
+            "chest": 1.0
+        }, 
+        "years": {
+            "36": 1.0
+        }, 
+        "|": {
+            "775954": 0.1111111111111111, 
+            "83230517": 0.1111111111111111, 
+            "889447689": 0.1111111111111111, 
+            "ABSCESS": 0.1111111111111111, 
+            "AM": 0.1111111111111111, 
+            "DIS": 0.1111111111111111, 
+            "FCMC": 0.1111111111111111, 
+            "Signed": 0.1111111111111111, 
+            "|": 0.1111111111111111
+        }
+    }, 
+    "id": "646", 
+    "text": " 889447689 | FCMC | 83230517 | | 775954 | 1/29/2002 12:00:00 AM | VULVAR ABSCESS | Signed | DIS | Admission Date: 5/24/2002 Report Status: Signed Discharge Date: 5/3/2002 ADMISSION DIAGNOSES: VULVAR ABSCESS , DIABETES. PRINCIPAL DISCHARGE DIAGNOSES: VULVAR ABSCESS , DIABETES , CORONARY ARTERY DISEASE , LEFT VENTRICULAR SYSTOLIC FUNCTION. HISTORY OF PRESENT ILLNESS: The patient is a 47-year-old #obese# woman with a long history of poorly controlled IDDM , and recurrent abscesses. She presents with one week of left groin pain and enlarging palpable mass. She first noticed a tender bump six days prior to admission and was seen in GYN clinic three days prior to admission at which time she was afebrile with a white count of 10.6 and was prescribed a ten-day course of Levaquin. Her symptoms persisted and she had the onset of chills so she returned to the GYN clinic the day of admission , was afebrile with a 5 x 3 cm vulvar mass and the finger stick of 390. She was admitted to the Sharpon S Tlgen University Medical Center for IV antibiotics and diabetic control with the plan for I&D by GYN. PAST MEDICAL/SURGICAL HISTORY: Insulin-dependent diabetes mellitus diagnosed in 1987 , bilateral peripheral neuropathy , depression with recently discontinued Paxil , history of #asthma# , no current medications , no recent flares or intubations , hemorrhoids , status post I&D for left thigh and buttock abscesses , status post TAH-LSO , status post surgery for ectopic pregnancy , status post RSO for ovarian abscess , status post excision of lingular mass ( hemorrhagic infarct , no malignant cells ) , status post systemic biopsy for mild chronic gastritis. MEDICATIONS ON ADMISSION: Insulin 70/30 70 units b.i.d.; Nexium 40 q.d.; Diflucan 100 q.d.; DesOwen lotion; Lac-Hydrin lotion; Endocet 5/325 b.i.d.; Levaquin 500 q.d. x 10 days. ALLERGIES: Codeine which causes constipation; Demerol which causes hallucinations; penicillin which causes hives. FAMILY HISTORY: Breast cancer in her mother and sister , ovarian cancer in her paternal grandmother. Coronary artery disease and borderline diabetes in her mother. SOCIAL HISTORY: She is a positive one pack a day smoker x 36 years , denies alcohol or drug use. She has a large extended family in the area. A history of noncompliance with diabetes management. REVIEW OF SYSTEMS: Twenty-five pound intentional weight loss over the past two months , decreased energy , shortness of breath on climbing one flight of stairs. Pain in legs with exercise. Recent polyuria , polydipsia , and noted blood on the underwear in the distant past , believed it to be hemorrhoids. PHYSICAL EXAMINATION: On admission. VITAL SIGNS: Afebrile , temperature 98.2 , heart rate 97 , blood pressure 140/88 , respirations 18 , oxygen saturation 99% on room air. GENERAL: #obese# , middle-aged woman in no acute distress. HEENT: PERRL. EOMI. Oropharynx clear. Moist mucous membranes. Positive upper dentures. NECK: No LAD , thyroid not palpable. CHEST: Clear to auscultation bilaterally. HEART: S1S2 , no murmurs , rubs or gallops. JVP at 8.0 cm. ABDOMEN: Soft , nontender , nondistended , positive bowel sounds , no hepatosplenomegaly , no masses. EXTREMITIES: Tender , 3.0 cm , firm mobile , nonfixed , nonerythematous question flocculent mass in her left groin without associated lymphadenopathy. She did not have palpable lower extremity pulses , though her extremities were warm with less than 2 second capillary refill. NEURO: Alert and oriented x 3. Cranial nerves intact. 5/5 strength bilaterally upper and lower extremities. Sensation grossly intact upper and lower extremities , thought some subjective altered sensation in the lower extremities bilaterally. IMPRESSION: A 48-year-old female with a long history of poorly controlled insulin-dependent diabetes , initially admitted for an I&D left vulvar abscess , control of her diabetes in the setting of infection , though she developed acute pulmonary edema after being on the insulin drip and ultimately had a cardiac workup which revealed severe left systolic dysfunction with an EF of 30% and a 2-3 coronary vessel disease. HOSPITAL COURSE: 1 ) Infectious Disease: She had a vulvar abscess , received gentamicin ( dosing per levels ) and clindamycin for the duration of her hospital course. Her cultures revealed 1+ vaginal flora , anaerobic culture revealed bacteroides , pepto Strep and Propionibacterium. She is status post an I&D of the vulvar abscess on hospital day #2 which throughout the hospital course showed no signs or symptoms of further infection and the plan is for her to follow up with Dr. Prive as an outpatient and for her to go home on clindamycin to complete a fourteen-day course. 2 ) Diabetes mellitus: On admission her finger sticks were 600. She at that time received a 15 unit bolus with subsequent insulin drip until the OR. She transitioned to subcu insulin on hospital day #3 and when her diet returned she returned to NPH similar to home dosing of 50 b.i.d. and Regular 14 moved up to 17 units b.i.d. with a sliding scale to cover. Her sugars were in the high 100s-low 200s on this regimen. Her discharge sugars were about the same and she was discharged on her original outpatient dose of 70/30 70 units b.i.d. 3 ) Cardiopulmonary: On hospital day #1 the patient started with complaints of cough and shortness of breath with sort of a plus/minus response to nebs , given her history of #asthma# and smoking. She had a chest x-ray that showed pulmonary edema with small effusions which was felt to be due to the fluid from the insulin drip. She had an EKG with a left bundle branch block which was new from an EKG in 2000. She then was placed on a rule out protocol with flat enzymes. An echocardiogram that revealed a 30% ejection fraction , global hypokinesis , moderate to severe decrease in systolic function , moderate MR , trace TR. She underwent an adenosine MIBI stress test to show a small reversible perfusion defect ( diagonal coronary artery distribution ) , severe global hypokinesis. She was placed on aspirin and simvastatin ( LDL 160s ) , Lopressor , and Captopril. She was diuresed with Lasix IV. She underwent a cardiac catheterization on October which revealed LAD long 80% stenosis , 50% RCA stenosis , and a pulmonary wedge pressure of 27. A coronary artery bypass graft was recommended by cardiology and after a family meeting they decided on discharge with follow up for CABG decision and planning. 4 ) GI: Low salt fluid restricted diet in-house and started on Nexium for a history of gastritis. 5 ) Renal: BUN and creatinine was turning upward after the titration of her ACE inhibitor , this was monitored and stabilized. 6 ) Pulmonary: Pulmonary wedge pressure of 27 , the patient with pulmonary hypertension likely due to left volume overload. She was going home with Lasix 40 mg p.o.q.d. and lisinopril 20 b.i.d. The discharge plan was for her to be discharged medically optimized for cardiac surgery , if she makes the decision to go in that direction. She has follow up appointments with both her primary care physician Dr. Harland Isaman and GYN Dr. Shewbridge . DISCHARGE MEDICATIONS: Clindamycin 300 mg q.i.d.; simvastatin 20 mg q.d.; lisinopril 20 mg b.i.d.; atenolol 25 mg q.d.; Lasix 40 mg q.d.; aspirin 325 mg q.d.; insulin 70/30 70 units b.i.d. subcu. DISCHARGE FOLLOWUP: Dr. Brehony , for her to call and make an appointment in two weeks. Primary care physician Dr. Loren Stivason , make an appointment within one week. Dictated By: ANTOINE OAKS , M.D. DQ37 Attending: BERNARDO D. KUNAU , M.D. NW7 GO009/821705 Batch: 15639 Index No. UDIFY907IM D: 1/4/02 T: 1/4/02 CC: 1. GARRET ABOLT , M.D. 2. WAYLON FRANCES MAIDONADO , M.D.", 
+    "tri": {
+        "#1": {
+            "hospital~day": 1.0
+        }, 
+        "#2": {
+            "hospital~day": 1.0
+        }, 
+        "#3": {
+            "hospital~day": 1.0
+        }, 
+        "#asthma#": {
+            "history~of": 1.0
+        }, 
+        "#obese#": {
+            "air.~GENERAL:": 0.5, 
+            "a~47-year-old": 0.5
+        }, 
+        "(": {
+            "and~simvastatin": 0.25, 
+            "lingular~mass": 0.25, 
+            "perfusion~defect": 0.25, 
+            "received~gentamicin": 0.25
+        }, 
+        ")": {
+            "COURSE:~1": 0.1, 
+            "LDL~160s": 0.1, 
+            "artery~distribution": 0.1, 
+            "b.i.d.~3": 0.1, 
+            "course.~2": 0.1, 
+            "gastritis.~5": 0.1, 
+            "malignant~cells": 0.1, 
+            "per~levels": 0.1, 
+            "planning.~4": 0.1, 
+            "stabilized.~6": 0.1
+        }, 
+        ",": {
+            ",~DIABETES": 0.014084507042253521, 
+            ",~Lopressor": 0.014084507042253521, 
+            ",~hemorrhoids": 0.014084507042253521, 
+            ",~nondistended": 0.014084507042253521, 
+            ",~nonfixed": 0.014084507042253521, 
+            ",~nontender": 0.014084507042253521, 
+            ",~polydipsia": 0.014084507042253521, 
+            "160s~)": 0.014084507042253521, 
+            "3.0~cm": 0.014084507042253521, 
+            "36~years": 0.014084507042253521, 
+            "80%~stenosis": 0.014084507042253521, 
+            "ABDOMEN:~Soft": 0.014084507042253521, 
+            "ACE~inhibitor": 0.014084507042253521, 
+            "ANTOINE~OAKS": 0.014084507042253521, 
+            "ARTERY~DISEASE": 0.014084507042253521, 
+            "D.~KUNAU": 0.014084507042253521, 
+            "Dr.~Brehony": 0.014084507042253521, 
+            "EXTREMITIES:~Tender": 0.014084507042253521, 
+            "FRANCES~MAIDONADO": 0.014084507042253521, 
+            "GARRET~ABOLT": 0.014084507042253521, 
+            "GENERAL:~#obese#": 0.014084507042253521, 
+            "HEART:~S1S2": 0.014084507042253521, 
+            "Loren~Stivason": 0.014084507042253521, 
+            "No~LAD": 0.014084507042253521, 
+            "RCA~stenosis": 0.014084507042253521, 
+            "Recent~polyuria": 0.014084507042253521, 
+            "SIGNS:~Afebrile": 0.014084507042253521, 
+            "VULVAR~ABSCESS": 0.028169014084507043, 
+            "and~sister": 0.014084507042253521, 
+            "bowel~sounds": 0.014084507042253521, 
+            "buttock~abscesses": 0.014084507042253521, 
+            "cardiac~surgery": 0.014084507042253521, 
+            "cells~)": 0.014084507042253521, 
+            "controlled~IDDM": 0.014084507042253521, 
+            "current~medications": 0.014084507042253521, 
+            "decreased~energy": 0.014084507042253521, 
+            "discontinued~Paxil": 0.014084507042253521, 
+            "distant~past": 0.014084507042253521, 
+            "distribution~)": 0.014084507042253521, 
+            "ectopic~pregnancy": 0.014084507042253521, 
+            "ejection~fraction": 0.014084507042253521, 
+            "extremity~pulses": 0.014084507042253521, 
+            "firm~mobile": 0.014084507042253521, 
+            "global~hypokinesis": 0.014084507042253521, 
+            "hemorrhagic~infarct": 0.014084507042253521, 
+            "insulin-dependent~diabetes": 0.014084507042253521, 
+            "in~1987": 0.014084507042253521, 
+            "lower~extremities": 0.014084507042253521, 
+            "moderate~MR": 0.014084507042253521, 
+            "no~hepatosplenomegaly": 0.014084507042253521, 
+            "no~murmurs": 0.014084507042253521, 
+            "of~#asthma#": 0.014084507042253521, 
+            "of~27": 0.014084507042253521, 
+            "of~admission": 0.014084507042253521, 
+            "of~infection": 0.014084507042253521, 
+            "or~intubations": 0.014084507042253521, 
+            "ovarian~abscess": 0.014084507042253521, 
+            "peripheral~neuropathy": 0.014084507042253521, 
+            "post~TAH-LSO": 0.014084507042253521, 
+            "pressure~140/88": 0.014084507042253521, 
+            "rate~97": 0.014084507042253521, 
+            "respirations~18": 0.014084507042253521, 
+            "revealed~bacteroides": 0.014084507042253521, 
+            "systolic~function": 0.014084507042253521, 
+            "temperature~98.2": 0.014084507042253521, 
+            "to~nebs": 0.014084507042253521, 
+            "two~months": 0.014084507042253521, 
+            "vaginal~flora": 0.014084507042253521, 
+            "vulvar~abscess": 0.028169014084507043
+        }, 
+        ".": {
+            "Dr.~Shewbridge": 1.0
+        }, 
+        "1": {
+            "HOSPITAL~COURSE:": 1.0
+        }, 
+        "1+": {
+            "cultures~revealed": 1.0
+        }, 
+        "1.": {
+            "1/4/02~CC:": 1.0
+        }, 
+        "1/29/2002": {
+            "775954~|": 1.0
+        }, 
+        "1/4/02": {
+            "1/4/02~T:": 0.5, 
+            "UDIFY907IM~D:": 0.5
+        }, 
+        "10": {
+            "q.d.~x": 1.0
+        }, 
+        "10.6": {
+            "count~of": 1.0
+        }, 
+        "100": {
+            "q.d.;~Diflucan": 1.0
+        }, 
+        "100s-low": {
+            "the~high": 1.0
+        }, 
+        "12:00:00": {
+            "|~1/29/2002": 1.0
+        }, 
+        "14": {
+            "and~Regular": 1.0
+        }, 
+        "140/88": {
+            "blood~pressure": 1.0
+        }, 
+        "15": {
+            "received~a": 1.0
+        }, 
+        "15639": {
+            "GO009/821705~Batch:": 1.0
+        }, 
+        "160s": {
+            "(~LDL": 1.0
+        }, 
+        "17": {
+            "up~to": 1.0
+        }, 
+        "18": {
+            ",~respirations": 1.0
+        }, 
+        "1987": {
+            "diagnosed~in": 1.0
+        }, 
+        "2": {
+            "fourteen-day~course.": 0.5, 
+            "less~than": 0.5
+        }, 
+        "2-3": {
+            "and~a": 1.0
+        }, 
+        "2.": {
+            ",~M.D.": 1.0
+        }, 
+        "20": {
+            "and~lisinopril": 0.3333333333333333, 
+            "q.d.;~lisinopril": 0.3333333333333333, 
+            "q.i.d.;~simvastatin": 0.3333333333333333
+        }, 
+        "2000.": {
+            "EKG~in": 1.0
+        }, 
+        "200s": {
+            "high~100s-low": 1.0
+        }, 
+        "25": {
+            "b.i.d.;~atenolol": 1.0
+        }, 
+        "27": {
+            "pressure~of": 1.0
+        }, 
+        "27.": {
+            "pressure~of": 1.0
+        }, 
+        "3": {
+            "5~x": 0.5, 
+            "units~b.i.d.": 0.5
+        }, 
+        "3.": {
+            "oriented~x": 1.0
+        }, 
+        "3.0": {
+            "Tender~,": 1.0
+        }, 
+        "30%": {
+            "EF~of": 0.5, 
+            "revealed~a": 0.5
+        }, 
+        "300": {
+            "MEDICATIONS:~Clindamycin": 1.0
+        }, 
+        "325": {
+            "q.d.;~aspirin": 1.0
+        }, 
+        "36": {
+            "smoker~x": 1.0
+        }, 
+        "390.": {
+            "stick~of": 1.0
+        }, 
+        "4": {
+            "and~planning.": 1.0
+        }, 
+        "40": {
+            "b.i.d.;~Nexium": 0.3333333333333333, 
+            "q.d.;~Lasix": 0.3333333333333333, 
+            "with~Lasix": 0.3333333333333333
+        }, 
+        "47-year-old": {
+            "is~a": 1.0
+        }, 
+        "48-year-old": {
+            "IMPRESSION:~A": 1.0
+        }, 
+        "5": {
+            "of~gastritis.": 0.5, 
+            "with~a": 0.5
+        }, 
+        "5/24/2002": {
+            "Admission~Date:": 1.0
+        }, 
+        "5/3/2002": {
+            "Discharge~Date:": 1.0
+        }, 
+        "5/325": {
+            "lotion;~Endocet": 1.0
+        }, 
+        "5/5": {
+            "nerves~intact.": 1.0
+        }, 
+        "50": {
+            "dosing~of": 1.0
+        }, 
+        "50%": {
+            "stenosis~,": 1.0
+        }, 
+        "500": {
+            "b.i.d.;~Levaquin": 1.0
+        }, 
+        "6": {
+            "and~stabilized.": 1.0
+        }, 
+        "600.": {
+            "sticks~were": 1.0
+        }, 
+        "70": {
+            "Insulin~70/30": 0.3333333333333333, 
+            "insulin~70/30": 0.3333333333333333, 
+            "of~70/30": 0.3333333333333333
+        }, 
+        "70/30": {
+            "ADMISSION:~Insulin": 0.3333333333333333, 
+            "dose~of": 0.3333333333333333, 
+            "q.d.;~insulin": 0.3333333333333333
+        }, 
+        "775954": {
+            "|~|": 1.0
+        }, 
+        "8.0": {
+            "JVP~at": 1.0
+        }, 
+        "80%": {
+            "LAD~long": 1.0
+        }, 
+        "83230517": {
+            "FCMC~|": 1.0
+        }, 
+        "97": {
+            "heart~rate": 1.0
+        }, 
+        "98.2": {
+            ",~temperature": 1.0
+        }, 
+        "99%": {
+            "oxygen~saturation": 1.0
+        }, 
+        "A": {
+            "bilaterally.~IMPRESSION:": 0.3333333333333333, 
+            "of~27.": 0.3333333333333333, 
+            "the~area.": 0.3333333333333333
+        }, 
+        "ABDOMEN:": {
+            "8.0~cm.": 1.0
+        }, 
+        "ABOLT": {
+            "1.~GARRET": 1.0
+        }, 
+        "ABSCESS": {
+            "DIAGNOSES:~VULVAR": 0.6666666666666666, 
+            "|~VULVAR": 0.3333333333333333
+        }, 
+        "ACE": {
+            "of~her": 1.0
+        }, 
+        "ADMISSION": {
+            "Date:~5/3/2002": 1.0
+        }, 
+        "ADMISSION:": {
+            "MEDICATIONS~ON": 1.0
+        }, 
+        "ALLERGIES:": {
+            "10~days.": 1.0
+        }, 
+        "AM": {
+            "1/29/2002~12:00:00": 1.0
+        }, 
+        "ANTOINE": {
+            "Dictated~By:": 1.0
+        }, 
+        "ARTERY": {
+            ",~CORONARY": 1.0
+        }, 
+        "Admission": {
+            "DIS~|": 1.0
+        }, 
+        "Afebrile": {
+            "VITAL~SIGNS:": 1.0
+        }, 
+        "Alert": {
+            "refill.~NEURO:": 1.0
+        }, 
+        "An": {
+            "flat~enzymes.": 1.0
+        }, 
+        "Attending:": {
+            "M.D.~DQ37": 1.0
+        }, 
+        "BERNARDO": {
+            "DQ37~Attending:": 1.0
+        }, 
+        "BUN": {
+            ")~Renal:": 1.0
+        }, 
+        "Batch:": {
+            "NW7~GO009/821705": 1.0
+        }, 
+        "Breast": {
+            "FAMILY~HISTORY:": 1.0
+        }, 
+        "Brehony": {
+            "FOLLOWUP:~Dr.": 1.0
+        }, 
+        "By:": {
+            "week.~Dictated": 1.0
+        }, 
+        "CABG": {
+            "up~for": 1.0
+        }, 
+        "CC:": {
+            "T:~1/4/02": 1.0
+        }, 
+        "CHEST:": {
+            "not~palpable.": 1.0
+        }, 
+        "CORONARY": {
+            "DIABETES~,": 1.0
+        }, 
+        "COURSE:": {
+            "disease.~HOSPITAL": 1.0
+        }, 
+        "Captopril.": {
+            ",~and": 1.0
+        }, 
+        "Cardiopulmonary:": {
+            "3~)": 1.0
+        }, 
+        "Center": {
+            "University~Medical": 1.0
+        }, 
+        "Clear": {
+            "palpable.~CHEST:": 1.0
+        }, 
+        "Clindamycin": {
+            "DISCHARGE~MEDICATIONS:": 1.0
+        }, 
+        "Codeine": {
+            "days.~ALLERGIES:": 1.0
+        }, 
+        "Coronary": {
+            "paternal~grandmother.": 1.0
+        }, 
+        "Cranial": {
+            "x~3.": 1.0
+        }, 
+        "D.": {
+            "Attending:~BERNARDO": 1.0
+        }, 
+        "D:": {
+            "No.~UDIFY907IM": 1.0
+        }, 
+        "DIABETES": {
+            "ABSCESS~,": 1.0
+        }, 
+        "DIABETES.": {
+            "ABSCESS~,": 1.0
+        }, 
+        "DIAGNOSES:": {
+            "5/3/2002~ADMISSION": 0.5, 
+            "PRINCIPAL~DISCHARGE": 0.5
+        }, 
+        "DIS": {
+            "Signed~|": 1.0
+        }, 
+        "DISCHARGE": {
+            "DIABETES.~PRINCIPAL": 0.3333333333333333, 
+            "Shewbridge~.": 0.3333333333333333, 
+            "b.i.d.~subcu.": 0.3333333333333333
+        }, 
+        "DISEASE": {
+            "CORONARY~ARTERY": 1.0
+        }, 
+        "DQ37": {
+            ",~M.D.": 1.0
+        }, 
+        "Date:": {
+            "Signed~Discharge": 0.5, 
+            "|~Admission": 0.5
+        }, 
+        "Demerol": {
+            "causes~constipation;": 1.0
+        }, 
+        "DesOwen": {
+            "100~q.d.;": 1.0
+        }, 
+        "Diabetes": {
+            "2~)": 1.0
+        }, 
+        "Dictated": {
+            "one~week.": 1.0
+        }, 
+        "Diflucan": {
+            "40~q.d.;": 1.0
+        }, 
+        "Discharge": {
+            "Status:~Signed": 1.0
+        }, 
+        "Disease:": {
+            ")~Infectious": 1.0
+        }, 
+        "Dr.": {
+            "DISCHARGE~FOLLOWUP:": 0.2, 
+            "and~GYN": 0.2, 
+            "care~physician": 0.4, 
+            "up~with": 0.2
+        }, 
+        "EF": {
+            "with~an": 1.0
+        }, 
+        "EKG": {
+            "from~an": 0.5, 
+            "had~an": 0.5
+        }, 
+        "EOMI.": {
+            "HEENT:~PERRL.": 1.0
+        }, 
+        "EXAMINATION:": {
+            "hemorrhoids.~PHYSICAL": 1.0
+        }, 
+        "EXTREMITIES:": {
+            "no~masses.": 1.0
+        }, 
+        "Endocet": {
+            "Lac-Hydrin~lotion;": 1.0
+        }, 
+        "FAMILY": {
+            "causes~hives.": 1.0
+        }, 
+        "FCMC": {
+            "889447689~|": 1.0
+        }, 
+        "FOLLOWUP:": {
+            "subcu.~DISCHARGE": 1.0
+        }, 
+        "FRANCES": {
+            "2.~WAYLON": 1.0
+        }, 
+        "FUNCTION.": {
+            "VENTRICULAR~SYSTOLIC": 1.0
+        }, 
+        "GARRET": {
+            "CC:~1.": 1.0
+        }, 
+        "GENERAL:": {
+            "room~air.": 1.0
+        }, 
+        "GI:": {
+            "4~)": 1.0
+        }, 
+        "GO009/821705": {
+            "M.D.~NW7": 1.0
+        }, 
+        "GYN": {
+            "Isaman~and": 0.3333333333333333, 
+            "seen~in": 0.3333333333333333, 
+            "to~the": 0.3333333333333333
+        }, 
+        "GYN.": {
+            "I&D~by": 1.0
+        }, 
+        "HEART:": {
+            "auscultation~bilaterally.": 1.0
+        }, 
+        "HEENT:": {
+            "acute~distress.": 1.0
+        }, 
+        "HISTORY": {
+            "SYSTOLIC~FUNCTION.": 1.0
+        }, 
+        "HISTORY:": {
+            "PAST~MEDICAL/SURGICAL": 0.3333333333333333, 
+            "hives.~FAMILY": 0.3333333333333333, 
+            "mother.~SOCIAL": 0.3333333333333333
+        }, 
+        "HOSPITAL": {
+            "vessel~disease.": 1.0
+        }, 
+        "Harland": {
+            "physician~Dr.": 1.0
+        }, 
+        "Her": {
+            "hospital~course.": 0.25, 
+            "of~Levaquin.": 0.25, 
+            "this~regimen.": 0.25, 
+            "to~cover.": 0.25
+        }, 
+        "I&D": {
+            "for~an": 0.25, 
+            "plan~for": 0.25, 
+            "post~an": 0.25, 
+            "status~post": 0.25
+        }, 
+        "IDDM": {
+            "poorly~controlled": 1.0
+        }, 
+        "ILLNESS:": {
+            "OF~PRESENT": 1.0
+        }, 
+        "IMPRESSION:": {
+            "extremities~bilaterally.": 1.0
+        }, 
+        "IV": {
+            "Center~for": 1.0
+        }, 
+        "IV.": {
+            "with~Lasix": 1.0
+        }, 
+        "Index": {
+            "Batch:~15639": 1.0
+        }, 
+        "Infectious": {
+            "1~)": 1.0
+        }, 
+        "Insulin": {
+            "ON~ADMISSION:": 1.0
+        }, 
+        "Insulin-dependent": {
+            "MEDICAL/SURGICAL~HISTORY:": 1.0
+        }, 
+        "Isaman": {
+            "Dr.~Harland": 1.0
+        }, 
+        "JVP": {
+            "or~gallops.": 1.0
+        }, 
+        "KUNAU": {
+            "BERNARDO~D.": 1.0
+        }, 
+        "LAD": {
+            "NECK:~No": 0.5, 
+            "which~revealed": 0.5
+        }, 
+        "LDL": {
+            "simvastatin~(": 1.0
+        }, 
+        "LEFT": {
+            "DISEASE~,": 1.0
+        }, 
+        "Lac-Hydrin": {
+            "DesOwen~lotion;": 1.0
+        }, 
+        "Lasix": {
+            "diuresed~with": 0.3333333333333333, 
+            "home~with": 0.3333333333333333, 
+            "mg~q.d.;": 0.3333333333333333
+        }, 
+        "Levaquin": {
+            "5/325~b.i.d.;": 1.0
+        }, 
+        "Levaquin.": {
+            "course~of": 1.0
+        }, 
+        "Lopressor": {
+            ")~,": 1.0
+        }, 
+        "Loren": {
+            "physician~Dr.": 1.0
+        }, 
+        "Low": {
+            ")~GI:": 1.0
+        }, 
+        "M.D.": {
+            "ABOLT~,": 0.25, 
+            "KUNAU~,": 0.25, 
+            "MAIDONADO~,": 0.25, 
+            "OAKS~,": 0.25
+        }, 
+        "MAIDONADO": {
+            "WAYLON~FRANCES": 1.0
+        }, 
+        "MEDICAL/SURGICAL": {
+            "GYN.~PAST": 1.0
+        }, 
+        "MEDICATIONS": {
+            "chronic~gastritis.": 1.0
+        }, 
+        "MEDICATIONS:": {
+            ".~DISCHARGE": 1.0
+        }, 
+        "MIBI": {
+            "an~adenosine": 1.0
+        }, 
+        "MR": {
+            ",~moderate": 1.0
+        }, 
+        "Medical": {
+            "Tlgen~University": 1.0
+        }, 
+        "Moist": {
+            "Oropharynx~clear.": 1.0
+        }, 
+        "NECK:": {
+            "upper~dentures.": 1.0
+        }, 
+        "NEURO:": {
+            "capillary~refill.": 1.0
+        }, 
+        "NPH": {
+            "returned~to": 1.0
+        }, 
+        "NW7": {
+            ",~M.D.": 1.0
+        }, 
+        "Nexium": {
+            "started~on": 0.5, 
+            "units~b.i.d.;": 0.5
+        }, 
+        "No": {
+            "dentures.~NECK:": 1.0
+        }, 
+        "No.": {
+            "15639~Index": 1.0
+        }, 
+        "OAKS": {
+            "By:~ANTOINE": 1.0
+        }, 
+        "OF": {
+            "FUNCTION.~HISTORY": 0.5, 
+            "management.~REVIEW": 0.5
+        }, 
+        "ON": {
+            "gastritis.~MEDICATIONS": 1.0
+        }, 
+        "OR.": {
+            "until~the": 1.0
+        }, 
+        "October": {
+            "catheterization~on": 1.0
+        }, 
+        "On": {
+            ")~Cardiopulmonary:": 0.3333333333333333, 
+            "Diabetes~mellitus:": 0.3333333333333333, 
+            "PHYSICAL~EXAMINATION:": 0.3333333333333333
+        }, 
+        "Oropharynx": {
+            "PERRL.~EOMI.": 1.0
+        }, 
+        "PAST": {
+            "by~GYN.": 1.0
+        }, 
+        "PERRL.": {
+            "distress.~HEENT:": 1.0
+        }, 
+        "PHYSICAL": {
+            "be~hemorrhoids.": 1.0
+        }, 
+        "PRESENT": {
+            "HISTORY~OF": 1.0
+        }, 
+        "PRINCIPAL": {
+            ",~DIABETES.": 1.0
+        }, 
+        "Pain": {
+            "of~stairs.": 1.0
+        }, 
+        "Paxil": {
+            "recently~discontinued": 1.0
+        }, 
+        "Positive": {
+            "mucous~membranes.": 1.0
+        }, 
+        "Primary": {
+            "two~weeks.": 1.0
+        }, 
+        "Prive": {
+            "with~Dr.": 1.0
+        }, 
+        "Propionibacterium.": {
+            "Strep~and": 1.0
+        }, 
+        "Pulmonary": {
+            ")~Pulmonary:": 1.0
+        }, 
+        "Pulmonary:": {
+            "6~)": 1.0
+        }, 
+        "RCA": {
+            ",~50%": 1.0
+        }, 
+        "REVIEW": {
+            "diabetes~management.": 1.0
+        }, 
+        "RSO": {
+            "status~post": 1.0
+        }, 
+        "Recent": {
+            "with~exercise.": 1.0
+        }, 
+        "Regular": {
+            "b.i.d.~and": 1.0
+        }, 
+        "Renal:": {
+            "5~)": 1.0
+        }, 
+        "Report": {
+            "Date:~5/24/2002": 1.0
+        }, 
+        "S": {
+            "the~Sharpon": 1.0
+        }, 
+        "S1S2": {
+            "bilaterally.~HEART:": 1.0
+        }, 
+        "SIGNS:": {
+            "admission.~VITAL": 1.0
+        }, 
+        "SOCIAL": {
+            "her~mother.": 1.0
+        }, 
+        "SYSTEMS:": {
+            "REVIEW~OF": 1.0
+        }, 
+        "SYSTOLIC": {
+            "LEFT~VENTRICULAR": 1.0
+        }, 
+        "Sensation": {
+            "lower~extremities.": 1.0
+        }, 
+        "Sharpon": {
+            "to~the": 1.0
+        }, 
+        "She": {
+            "Infectious~Disease:": 0.05263157894736842, 
+            "Lasix~IV.": 0.05263157894736842, 
+            "SOCIAL~HISTORY:": 0.05263157894736842, 
+            "and~Captopril.": 0.05263157894736842, 
+            "and~Propionibacterium.": 0.05263157894736842, 
+            "and~smoking.": 0.05263157894736842, 
+            "associated~lymphadenopathy.": 0.05263157894736842, 
+            "drug~use.": 0.05263157894736842, 
+            "global~hypokinesis.": 0.05263157894736842, 
+            "insulin~drip.": 0.05263157894736842, 
+            "in~2000.": 0.05263157894736842, 
+            "of~390.": 0.05263157894736842, 
+            "palpable~mass.": 0.05263157894736842, 
+            "recurrent~abscesses.": 0.05263157894736842, 
+            "that~direction.": 0.05263157894736842, 
+            "the~OR.": 0.05263157894736842, 
+            "trace~TR.": 0.05263157894736842, 
+            "volume~overload.": 0.05263157894736842, 
+            "were~600.": 0.05263157894736842
+        }, 
+        "Shewbridge": {
+            "GYN~Dr.": 1.0
+        }, 
+        "Signed": {
+            "ABSCESS~|": 0.5, 
+            "Report~Status:": 0.5
+        }, 
+        "Soft": {
+            "cm.~ABDOMEN:": 1.0
+        }, 
+        "Status:": {
+            "5/24/2002~Report": 1.0
+        }, 
+        "Stivason": {
+            "Dr.~Loren": 1.0
+        }, 
+        "Strep": {
+            ",~pepto": 1.0
+        }, 
+        "T:": {
+            "D:~1/4/02": 1.0
+        }, 
+        "TAH-LSO": {
+            "status~post": 1.0
+        }, 
+        "TR.": {
+            ",~trace": 1.0
+        }, 
+        "Tender": {
+            "masses.~EXTREMITIES:": 1.0
+        }, 
+        "The": {
+            "20~b.i.d.": 0.5, 
+            "PRESENT~ILLNESS:": 0.5
+        }, 
+        "Tlgen": {
+            "Sharpon~S": 1.0
+        }, 
+        "Twenty-five": {
+            "OF~SYSTEMS:": 1.0
+        }, 
+        "UDIFY907IM": {
+            "Index~No.": 1.0
+        }, 
+        "University": {
+            "S~Tlgen": 1.0
+        }, 
+        "VENTRICULAR": {
+            ",~LEFT": 1.0
+        }, 
+        "VITAL": {
+            "On~admission.": 1.0
+        }, 
+        "VULVAR": {
+            "ADMISSION~DIAGNOSES:": 0.3333333333333333, 
+            "AM~|": 0.3333333333333333, 
+            "DISCHARGE~DIAGNOSES:": 0.3333333333333333
+        }, 
+        "WAYLON": {
+            "M.D.~2.": 1.0
+        }, 
+        "a": {
+            ",~and": 0.038461538461538464, 
+            "30%~and": 0.038461538461538464, 
+            "EKG~with": 0.038461538461538464, 
+            "Nexium~for": 0.038461538461538464, 
+            "She~had": 0.07692307692307693, 
+            "She~has": 0.038461538461538464, 
+            "She~is": 0.038461538461538464, 
+            "She~underwent": 0.038461538461538464, 
+            "afebrile~with": 0.07692307692307693, 
+            "and~after": 0.038461538461538464, 
+            "b.i.d.~with": 0.038461538461538464, 
+            "female~with": 0.038461538461538464, 
+            "first~noticed": 0.038461538461538464, 
+            "one~pack": 0.038461538461538464, 
+            "patient~is": 0.038461538461538464, 
+            "placed~on": 0.038461538461538464, 
+            "sort~of": 0.038461538461538464, 
+            "that~revealed": 0.038461538461538464, 
+            "time~received": 0.038461538461538464, 
+            "to~complete": 0.038461538461538464, 
+            "to~show": 0.038461538461538464, 
+            "ultimately~had": 0.038461538461538464, 
+            "was~prescribed": 0.038461538461538464, 
+            "woman~with": 0.038461538461538464
+        }, 
+        "about": {
+            "sugars~were": 1.0
+        }, 
+        "abscess": {
+            "a~vulvar": 0.25, 
+            "for~ovarian": 0.25, 
+            "left~vulvar": 0.25, 
+            "the~vulvar": 0.25
+        }, 
+        "abscesses": {
+            "and~buttock": 1.0
+        }, 
+        "abscesses.": {
+            "and~recurrent": 1.0
+        }, 
+        "acute": {
+            "in~no": 0.5, 
+            "she~developed": 0.5
+        }, 
+        "adenosine": {
+            "underwent~an": 1.0
+        }, 
+        "admission": {
+            "day~of": 0.25, 
+            "mellitus:~On": 0.25, 
+            "prior~to": 0.5
+        }, 
+        "admission.": {
+            "EXAMINATION:~On": 1.0
+        }, 
+        "admitted": {
+            ",~initially": 0.5, 
+            "She~was": 0.5
+        }, 
+        "afebrile": {
+            ",~was": 0.5, 
+            "she~was": 0.5
+        }, 
+        "after": {
+            "cardiology~and": 0.3333333333333333, 
+            "pulmonary~edema": 0.3333333333333333, 
+            "turning~upward": 0.3333333333333333
+        }, 
+        "air.": {
+            "on~room": 1.0
+        }, 
+        "alcohol": {
+            ",~denies": 1.0
+        }, 
+        "altered": {
+            "some~subjective": 1.0
+        }, 
+        "an": {
+            ",~make": 0.1111111111111111, 
+            "Prive~as": 0.1111111111111111, 
+            "She~had": 0.1111111111111111, 
+            "She~underwent": 0.1111111111111111, 
+            "admitted~for": 0.1111111111111111, 
+            "and~make": 0.1111111111111111, 
+            "dysfunction~with": 0.1111111111111111, 
+            "new~from": 0.1111111111111111, 
+            "status~post": 0.1111111111111111
+        }, 
+        "anaerobic": {
+            "flora~,": 1.0
+        }, 
+        "and": {
+            "50~b.i.d.": 0.027777777777777776, 
+            "CABG~decision": 0.027777777777777776, 
+            "Harland~Isaman": 0.027777777777777776, 
+            "IDDM~,": 0.027777777777777776, 
+            "IV~antibiotics": 0.027777777777777776, 
+            "Lopressor~,": 0.027777777777777776, 
+            "NEURO:~Alert": 0.027777777777777776, 
+            "Renal:~BUN": 0.027777777777777776, 
+            "an~outpatient": 0.027777777777777776, 
+            "artery~disease": 0.027777777777777776, 
+            "bilaterally~upper": 0.027777777777777776, 
+            "by~cardiology": 0.027777777777777776, 
+            "day~#3": 0.027777777777777776, 
+            "diet~in-house": 0.027777777777777776, 
+            "further~infection": 0.027777777777777776, 
+            "groin~pain": 0.027777777777777776, 
+            "her~mother": 0.027777777777777776, 
+            "insulin~drip": 0.027777777777777776, 
+            "intact~upper": 0.027777777777777776, 
+            "left~thigh": 0.027777777777777776, 
+            "levels~)": 0.027777777777777776, 
+            "mg~p.o.q.d.": 0.027777777777777776, 
+            "of~#asthma#": 0.027777777777777776, 
+            "of~10.6": 0.027777777777777776, 
+            "of~30%": 0.027777777777777776, 
+            "of~cough": 0.027777777777777776, 
+            "on~aspirin": 0.027777777777777776, 
+            "pepto~Strep": 0.027777777777777776, 
+            "polydipsia~,": 0.027777777777777776, 
+            "stenosis~,": 0.027777777777777776, 
+            "symptoms~persisted": 0.027777777777777776, 
+            "the~same": 0.027777777777777776, 
+            "to~admission": 0.027777777777777776, 
+            "to~call": 0.027777777777777776, 
+            "vulvar~mass": 0.027777777777777776, 
+            "was~monitored": 0.027777777777777776
+        }, 
+        "antibiotics": {
+            "for~IV": 1.0
+        }, 
+        "appointment": {
+            "make~an": 1.0
+        }, 
+        "appointments": {
+            "follow~up": 1.0
+        }, 
+        "area.": {
+            "in~the": 1.0
+        }, 
+        "artery": {
+            "A~coronary": 0.3333333333333333, 
+            "diagonal~coronary": 0.3333333333333333, 
+            "grandmother.~Coronary": 0.3333333333333333
+        }, 
+        "as": {
+            "Dr.~Prive": 1.0
+        }, 
+        "aspirin": {
+            "mg~q.d.;": 0.5, 
+            "placed~on": 0.5
+        }, 
+        "associated": {
+            "groin~without": 1.0
+        }, 
+        "at": {
+            "600.~She": 0.3333333333333333, 
+            "gallops.~JVP": 0.3333333333333333, 
+            "to~admission": 0.3333333333333333
+        }, 
+        "atenolol": {
+            "mg~b.i.d.;": 1.0
+        }, 
+        "auscultation": {
+            "Clear~to": 1.0
+        }, 
+        "b.i.d.": {
+            "17~units": 0.2, 
+            "70~units": 0.4, 
+            "lisinopril~20": 0.2, 
+            "of~50": 0.2
+        }, 
+        "b.i.d.;": {
+            "20~mg": 0.3333333333333333, 
+            "70~units": 0.3333333333333333, 
+            "Endocet~5/325": 0.3333333333333333
+        }, 
+        "bacteroides": {
+            "culture~revealed": 1.0
+        }, 
+        "be": {
+            "felt~to": 0.3333333333333333, 
+            "her~to": 0.3333333333333333, 
+            "it~to": 0.3333333333333333
+        }, 
+        "being": {
+            "edema~after": 1.0
+        }, 
+        "believed": {
+            "past~,": 1.0
+        }, 
+        "bilateral": {
+            "1987~,": 1.0
+        }, 
+        "bilaterally": {
+            "5/5~strength": 1.0
+        }, 
+        "bilaterally.": {
+            "lower~extremities": 0.5, 
+            "to~auscultation": 0.5
+        }, 
+        "biopsy": {
+            "post~systemic": 1.0
+        }, 
+        "block": {
+            "bundle~branch": 1.0
+        }, 
+        "blood": {
+            "97~,": 0.5, 
+            "and~noted": 0.5
+        }, 
+        "bolus": {
+            "15~unit": 1.0
+        }, 
+        "borderline": {
+            "disease~and": 1.0
+        }, 
+        "both": {
+            "appointments~with": 1.0
+        }, 
+        "bowel": {
+            ",~positive": 1.0
+        }, 
+        "branch": {
+            "left~bundle": 1.0
+        }, 
+        "breath": {
+            "shortness~of": 1.0
+        }, 
+        "bump": {
+            "a~tender": 1.0
+        }, 
+        "bundle": {
+            "a~left": 1.0
+        }, 
+        "buttock": {
+            "thigh~and": 1.0
+        }, 
+        "by": {
+            "for~I&D": 0.5, 
+            "was~recommended": 0.5
+        }, 
+        "bypass": {
+            "coronary~artery": 1.0
+        }, 
+        "call": {
+            "her~to": 1.0
+        }, 
+        "cancer": {
+            ",~ovarian": 0.5, 
+            "HISTORY:~Breast": 0.5
+        }, 
+        "capillary": {
+            "2~second": 1.0
+        }, 
+        "cardiac": {
+            "had~a": 0.3333333333333333, 
+            "optimized~for": 0.3333333333333333, 
+            "underwent~a": 0.3333333333333333
+        }, 
+        "cardiology": {
+            "recommended~by": 1.0
+        }, 
+        "care": {
+            "her~primary": 0.5, 
+            "weeks.~Primary": 0.5
+        }, 
+        "catheterization": {
+            "a~cardiac": 1.0
+        }, 
+        "causes": {
+            "Codeine~which": 0.3333333333333333, 
+            "Demerol~which": 0.3333333333333333, 
+            "penicillin~which": 0.3333333333333333
+        }, 
+        "cells": {
+            "no~malignant": 1.0
+        }, 
+        "chest": {
+            "had~a": 1.0
+        }, 
+        "chills": {
+            "onset~of": 1.0
+        }, 
+        "chronic": {
+            "for~mild": 1.0
+        }, 
+        "clear.": {
+            "EOMI.~Oropharynx": 1.0
+        }, 
+        "climbing": {
+            "breath~on": 1.0
+        }, 
+        "clindamycin": {
+            ")~and": 0.5, 
+            "home~on": 0.5
+        }, 
+        "clinic": {
+            "in~GYN": 0.5, 
+            "the~GYN": 0.5
+        }, 
+        "cm": {
+            ",~3.0": 0.5, 
+            "x~3": 0.5
+        }, 
+        "cm.": {
+            "at~8.0": 1.0
+        }, 
+        "complaints": {
+            "started~with": 1.0
+        }, 
+        "complete": {
+            "clindamycin~to": 1.0
+        }, 
+        "constipation;": {
+            "which~causes": 1.0
+        }, 
+        "control": {
+            "abscess~,": 0.5, 
+            "and~diabetic": 0.5
+        }, 
+        "controlled": {
+            "of~poorly": 1.0
+        }, 
+        "coronary": {
+            "(~diagonal": 0.3333333333333333, 
+            "27.~A": 0.3333333333333333, 
+            "a~2-3": 0.3333333333333333
+        }, 
+        "cough": {
+            "complaints~of": 1.0
+        }, 
+        "count": {
+            "a~white": 1.0
+        }, 
+        "course": {
+            "a~ten-day": 0.5, 
+            "the~hospital": 0.5
+        }, 
+        "course.": {
+            "a~fourteen-day": 0.5, 
+            "her~hospital": 0.5
+        }, 
+        "cover.": {
+            "scale~to": 1.0
+        }, 
+        "creatinine": {
+            "BUN~and": 1.0
+        }, 
+        "culture": {
+            ",~anaerobic": 1.0
+        }, 
+        "cultures": {
+            "course.~Her": 1.0
+        }, 
+        "current": {
+            ",~no": 1.0
+        }, 
+        "day": {
+            "On~hospital": 0.2, 
+            "clinic~the": 0.2, 
+            "on~hospital": 0.4, 
+            "pack~a": 0.2
+        }, 
+        "days": {
+            "bump~six": 0.5, 
+            "clinic~three": 0.5
+        }, 
+        "days.": {
+            "x~10": 1.0
+        }, 
+        "decided": {
+            "meeting~they": 1.0
+        }, 
+        "decision": {
+            "for~CABG": 0.5, 
+            "makes~the": 0.5
+        }, 
+        "decrease": {
+            "to~severe": 1.0
+        }, 
+        "decreased": {
+            "months~,": 1.0
+        }, 
+        "defect": {
+            "reversible~perfusion": 1.0
+        }, 
+        "denies": {
+            "years~,": 1.0
+        }, 
+        "dentures.": {
+            "Positive~upper": 1.0
+        }, 
+        "depression": {
+            "neuropathy~,": 1.0
+        }, 
+        "developed": {
+            "though~she": 1.0
+        }, 
+        "diabetes": {
+            "HISTORY:~Insulin-dependent": 0.2, 
+            "and~borderline": 0.2, 
+            "controlled~insulin-dependent": 0.2, 
+            "noncompliance~with": 0.2, 
+            "of~her": 0.2
+        }, 
+        "diabetic": {
+            "antibiotics~and": 1.0
+        }, 
+        "diagnosed": {
+            "diabetes~mellitus": 1.0
+        }, 
+        "diagonal": {
+            "defect~(": 1.0
+        }, 
+        "did": {
+            "lymphadenopathy.~She": 1.0
+        }, 
+        "diet": {
+            "fluid~restricted": 0.5, 
+            "when~her": 0.5
+        }, 
+        "direction.": {
+            "in~that": 1.0
+        }, 
+        "discharge": {
+            "b.i.d.~The": 0.3333333333333333, 
+            "decided~on": 0.3333333333333333, 
+            "regimen.~Her": 0.3333333333333333
+        }, 
+        "discharged": {
+            "she~was": 0.5, 
+            "to~be": 0.5
+        }, 
+        "discontinued": {
+            "with~recently": 1.0
+        }, 
+        "disease": {
+            "Coronary~artery": 1.0
+        }, 
+        "disease.": {
+            "coronary~vessel": 1.0
+        }, 
+        "distant": {
+            "in~the": 1.0
+        }, 
+        "distress.": {
+            "no~acute": 1.0
+        }, 
+        "distribution": {
+            "coronary~artery": 1.0
+        }, 
+        "diuresed": {
+            "She~was": 1.0
+        }, 
+        "dose": {
+            "original~outpatient": 1.0
+        }, 
+        "dosing": {
+            "gentamicin~(": 0.5, 
+            "to~home": 0.5
+        }, 
+        "drip": {
+            "subsequent~insulin": 0.5, 
+            "the~insulin": 0.5
+        }, 
+        "drip.": {
+            "the~insulin": 1.0
+        }, 
+        "drug": {
+            "alcohol~or": 1.0
+        }, 
+        "due": {
+            "hypertension~likely": 0.5, 
+            "to~be": 0.5
+        }, 
+        "duration": {
+            "for~the": 1.0
+        }, 
+        "dysfunction": {
+            "left~systolic": 1.0
+        }, 
+        "echocardiogram": {
+            "enzymes.~An": 1.0
+        }, 
+        "ectopic": {
+            "surgery~for": 1.0
+        }, 
+        "edema": {
+            "acute~pulmonary": 0.5, 
+            "showed~pulmonary": 0.5
+        }, 
+        "effusions": {
+            "with~small": 1.0
+        }, 
+        "ejection": {
+            "a~30%": 1.0
+        }, 
+        "energy": {
+            ",~decreased": 1.0
+        }, 
+        "enlarging": {
+            "pain~and": 1.0
+        }, 
+        "enzymes.": {
+            "with~flat": 1.0
+        }, 
+        "excision": {
+            "status~post": 1.0
+        }, 
+        "exercise.": {
+            "legs~with": 1.0
+        }, 
+        "extended": {
+            "a~large": 1.0
+        }, 
+        "extremities": {
+            "and~lower": 0.3333333333333333, 
+            "the~lower": 0.3333333333333333, 
+            "though~her": 0.3333333333333333
+        }, 
+        "extremities.": {
+            "and~lower": 1.0
+        }, 
+        "extremity": {
+            "palpable~lower": 1.0
+        }, 
+        "family": {
+            "after~a": 0.5, 
+            "large~extended": 0.5
+        }, 
+        "felt": {
+            "which~was": 1.0
+        }, 
+        "female": {
+            "A~48-year-old": 1.0
+        }, 
+        "finger": {
+            "admission~her": 0.5, 
+            "and~the": 0.5
+        }, 
+        "firm": {
+            "cm~,": 1.0
+        }, 
+        "first": {
+            "mass.~She": 1.0
+        }, 
+        "flares": {
+            "no~recent": 1.0
+        }, 
+        "flat": {
+            "protocol~with": 1.0
+        }, 
+        "flight": {
+            "climbing~one": 1.0
+        }, 
+        "flocculent": {
+            "nonerythematous~question": 1.0
+        }, 
+        "flora": {
+            "1+~vaginal": 1.0
+        }, 
+        "fluid": {
+            "Low~salt": 0.5, 
+            "to~the": 0.5
+        }, 
+        "follow": {
+            "She~has": 0.3333333333333333, 
+            "discharge~with": 0.3333333333333333, 
+            "her~to": 0.3333333333333333
+        }, 
+        "for": {
+            "Brehony~,": 0.06666666666666667, 
+            "Medical~Center": 0.06666666666666667, 
+            "and~clindamycin": 0.06666666666666667, 
+            "follow~up": 0.06666666666666667, 
+            "initially~admitted": 0.06666666666666667, 
+            "medically~optimized": 0.06666666666666667, 
+            "on~Nexium": 0.06666666666666667, 
+            "outpatient~and": 0.06666666666666667, 
+            "plan~is": 0.06666666666666667, 
+            "plan~was": 0.06666666666666667, 
+            "post~I&D": 0.06666666666666667, 
+            "post~RSO": 0.06666666666666667, 
+            "post~surgery": 0.06666666666666667, 
+            "systemic~biopsy": 0.06666666666666667, 
+            "the~plan": 0.06666666666666667
+        }, 
+        "fourteen-day": {
+            "complete~a": 1.0
+        }, 
+        "fraction": {
+            "30%~ejection": 1.0
+        }, 
+        "from": {
+            "the~fluid": 0.5, 
+            "was~new": 0.5
+        }, 
+        "function": {
+            "in~systolic": 1.0
+        }, 
+        "further": {
+            "symptoms~of": 1.0
+        }, 
+        "gallops.": {
+            "rubs~or": 1.0
+        }, 
+        "gastritis.": {
+            "history~of": 0.5, 
+            "mild~chronic": 0.5
+        }, 
+        "gentamicin": {
+            ",~received": 1.0
+        }, 
+        "given": {
+            "nebs~,": 1.0
+        }, 
+        "global": {
+            ",~severe": 0.5, 
+            "fraction~,": 0.5
+        }, 
+        "go": {
+            "decision~to": 0.5, 
+            "her~to": 0.5
+        }, 
+        "going": {
+            "She~was": 1.0
+        }, 
+        "graft": {
+            "artery~bypass": 1.0
+        }, 
+        "grandmother.": {
+            "her~paternal": 1.0
+        }, 
+        "groin": {
+            "her~left": 0.5, 
+            "of~left": 0.5
+        }, 
+        "grossly": {
+            "extremities.~Sensation": 1.0
+        }, 
+        "had": {
+            "Disease:~She": 0.2, 
+            "and~she": 0.2, 
+            "and~ultimately": 0.2, 
+            "drip.~She": 0.2, 
+            "smoking.~She": 0.2
+        }, 
+        "hallucinations;": {
+            "which~causes": 1.0
+        }, 
+        "has": {
+            "direction.~She": 0.5, 
+            "use.~She": 0.5
+        }, 
+        "have": {
+            "did~not": 1.0
+        }, 
+        "heart": {
+            "98.2~,": 1.0
+        }, 
+        "hemorrhagic": {
+            "mass~(": 1.0
+        }, 
+        "hemorrhoids": {
+            "intubations~,": 1.0
+        }, 
+        "hemorrhoids.": {
+            "to~be": 1.0
+        }, 
+        "hepatosplenomegaly": {
+            ",~no": 1.0
+        }, 
+        "her": {
+            ",~for": 0.058823529411764705, 
+            ",~given": 0.058823529411764705, 
+            ",~though": 0.058823529411764705, 
+            "On~admission": 0.058823529411764705, 
+            "and~for": 0.058823529411764705, 
+            "and~when": 0.058823529411764705, 
+            "cancer~in": 0.11764705882352941, 
+            "control~of": 0.058823529411764705, 
+            "diabetes~in": 0.058823529411764705, 
+            "discharged~on": 0.058823529411764705, 
+            "duration~of": 0.058823529411764705, 
+            "is~for": 0.058823529411764705, 
+            "mass~in": 0.058823529411764705, 
+            "titration~of": 0.058823529411764705, 
+            "was~for": 0.058823529411764705, 
+            "with~both": 0.058823529411764705
+        }, 
+        "high": {
+            "in~the": 1.0
+        }, 
+        "history": {
+            "Paxil~,": 0.16666666666666666, 
+            "area.~A": 0.16666666666666666, 
+            "a~long": 0.3333333333333333, 
+            "for~a": 0.16666666666666666, 
+            "given~her": 0.16666666666666666
+        }, 
+        "hives.": {
+            "which~causes": 1.0
+        }, 
+        "home": {
+            "similar~to": 0.3333333333333333, 
+            "to~go": 0.3333333333333333, 
+            "was~going": 0.3333333333333333
+        }, 
+        "hospital": {
+            "Cardiopulmonary:~On": 0.2, 
+            "abscess~on": 0.2, 
+            "insulin~on": 0.2, 
+            "of~her": 0.2, 
+            "throughout~the": 0.2
+        }, 
+        "hypertension": {
+            "with~pulmonary": 1.0
+        }, 
+        "hypokinesis": {
+            ",~global": 1.0
+        }, 
+        "hypokinesis.": {
+            "severe~global": 1.0
+        }, 
+        "if": {
+            "surgery~,": 1.0
+        }, 
+        "in": {
+            "Breast~cancer": 0.058823529411764705, 
+            "altered~sensation": 0.058823529411764705, 
+            "an~EKG": 0.058823529411764705, 
+            "an~appointment": 0.058823529411764705, 
+            "borderline~diabetes": 0.058823529411764705, 
+            "extended~family": 0.058823529411764705, 
+            "flocculent~mass": 0.058823529411764705, 
+            "her~diabetes": 0.058823529411764705, 
+            "mellitus~diagnosed": 0.058823529411764705, 
+            "middle-aged~woman": 0.058823529411764705, 
+            "ovarian~cancer": 0.058823529411764705, 
+            "severe~decrease": 0.058823529411764705, 
+            "stairs.~Pain": 0.058823529411764705, 
+            "sugars~were": 0.058823529411764705, 
+            "the~underwear": 0.058823529411764705, 
+            "to~go": 0.058823529411764705, 
+            "was~seen": 0.058823529411764705
+        }, 
+        "in-house": {
+            "restricted~diet": 1.0
+        }, 
+        "infarct": {
+            "(~hemorrhagic": 1.0
+        }, 
+        "infection": {
+            "of~further": 0.5, 
+            "setting~of": 0.5
+        }, 
+        "inhibitor": {
+            "her~ACE": 1.0
+        }, 
+        "initially": {
+            "diabetes~,": 1.0
+        }, 
+        "insulin": {
+            "from~the": 0.2, 
+            "mg~q.d.;": 0.2, 
+            "on~the": 0.2, 
+            "to~subcu": 0.2, 
+            "with~subsequent": 0.2
+        }, 
+        "insulin-dependent": {
+            "poorly~controlled": 1.0
+        }, 
+        "intact": {
+            "Sensation~grossly": 1.0
+        }, 
+        "intact.": {
+            "Cranial~nerves": 1.0
+        }, 
+        "intentional": {
+            "Twenty-five~pound": 1.0
+        }, 
+        "intubations": {
+            "flares~or": 1.0
+        }, 
+        "is": {
+            "HISTORY:~She": 0.25, 
+            "Propionibacterium.~She": 0.25, 
+            "The~patient": 0.25, 
+            "the~plan": 0.25
+        }, 
+        "it": {
+            ",~believed": 1.0
+        }, 
+        "large": {
+            "has~a": 1.0
+        }, 
+        "left": {
+            "I&D~for": 0.14285714285714285, 
+            "an~I&D": 0.14285714285714285, 
+            "due~to": 0.14285714285714285, 
+            "in~her": 0.14285714285714285, 
+            "revealed~severe": 0.14285714285714285, 
+            "week~of": 0.14285714285714285, 
+            "with~a": 0.14285714285714285
+        }, 
+        "legs": {
+            "Pain~in": 1.0
+        }, 
+        "less": {
+            "warm~with": 1.0
+        }, 
+        "levels": {
+            "dosing~per": 1.0
+        }, 
+        "likely": {
+            "pulmonary~hypertension": 1.0
+        }, 
+        "lingular": {
+            "excision~of": 1.0
+        }, 
+        "lisinopril": {
+            "mg~q.d.;": 0.5, 
+            "p.o.q.d.~and": 0.5
+        }, 
+        "long": {
+            "revealed~LAD": 0.3333333333333333, 
+            "with~a": 0.6666666666666666
+        }, 
+        "loss": {
+            "intentional~weight": 1.0
+        }, 
+        "lotion;": {
+            "lotion;~Lac-Hydrin": 0.5, 
+            "q.d.;~DesOwen": 0.5
+        }, 
+        "lower": {
+            "have~palpable": 0.25, 
+            "in~the": 0.25, 
+            "upper~and": 0.5
+        }, 
+        "lymphadenopathy.": {
+            "without~associated": 1.0
+        }, 
+        "make": {
+            "Stivason~,": 0.5, 
+            "call~and": 0.5
+        }, 
+        "makes": {
+            "if~she": 1.0
+        }, 
+        "malignant": {
+            ",~no": 1.0
+        }, 
+        "management.": {
+            "with~diabetes": 1.0
+        }, 
+        "mass": {
+            "cm~vulvar": 0.3333333333333333, 
+            "of~lingular": 0.3333333333333333, 
+            "question~flocculent": 0.3333333333333333
+        }, 
+        "mass.": {
+            "enlarging~palpable": 1.0
+        }, 
+        "masses.": {
+            ",~no": 1.0
+        }, 
+        "medically": {
+            "be~discharged": 1.0
+        }, 
+        "medications": {
+            "no~current": 1.0
+        }, 
+        "meeting": {
+            "a~family": 1.0
+        }, 
+        "mellitus": {
+            "Insulin-dependent~diabetes": 1.0
+        }, 
+        "mellitus:": {
+            ")~Diabetes": 1.0
+        }, 
+        "membranes.": {
+            "Moist~mucous": 1.0
+        }, 
+        "mg": {
+            "Clindamycin~300": 0.14285714285714285, 
+            "Lasix~40": 0.2857142857142857, 
+            "aspirin~325": 0.14285714285714285, 
+            "atenolol~25": 0.14285714285714285, 
+            "lisinopril~20": 0.14285714285714285, 
+            "simvastatin~20": 0.14285714285714285
+        }, 
+        "middle-aged": {
+            "#obese#~,": 1.0
+        }, 
+        "mild": {
+            "biopsy~for": 1.0
+        }, 
+        "mobile": {
+            ",~firm": 1.0
+        }, 
+        "moderate": {
+            "function~,": 0.5, 
+            "hypokinesis~,": 0.5
+        }, 
+        "monitored": {
+            "this~was": 1.0
+        }, 
+        "months": {
+            "past~two": 1.0
+        }, 
+        "mother": {
+            "in~her": 1.0
+        }, 
+        "mother.": {
+            "in~her": 1.0
+        }, 
+        "moved": {
+            "Regular~14": 1.0
+        }, 
+        "mucous": {
+            "clear.~Moist": 1.0
+        }, 
+        "murmurs": {
+            ",~no": 1.0
+        }, 
+        "nebs": {
+            "response~to": 1.0
+        }, 
+        "nerves": {
+            "3.~Cranial": 1.0
+        }, 
+        "neuropathy": {
+            "bilateral~peripheral": 1.0
+        }, 
+        "new": {
+            "which~was": 1.0
+        }, 
+        "no": {
+            "#asthma#~,": 0.125, 
+            "S1S2~,": 0.125, 
+            "course~showed": 0.125, 
+            "hepatosplenomegaly~,": 0.125, 
+            "infarct~,": 0.125, 
+            "medications~,": 0.125, 
+            "sounds~,": 0.125, 
+            "woman~in": 0.125
+        }, 
+        "noncompliance": {
+            "history~of": 1.0
+        }, 
+        "nondistended": {
+            "nontender~,": 1.0
+        }, 
+        "nonerythematous": {
+            "nonfixed~,": 1.0
+        }, 
+        "nonfixed": {
+            "mobile~,": 1.0
+        }, 
+        "nontender": {
+            "Soft~,": 1.0
+        }, 
+        "not": {
+            ",~thyroid": 0.5, 
+            "She~did": 0.5
+        }, 
+        "noted": {
+            ",~and": 1.0
+        }, 
+        "noticed": {
+            "She~first": 1.0
+        }, 
+        "of": {
+            ",~control": 0.034482758620689655, 
+            ",~history": 0.034482758620689655, 
+            ",~shortness": 0.034482758620689655, 
+            "A~history": 0.034482758620689655, 
+            "and~shortness": 0.034482758620689655, 
+            "an~EF": 0.034482758620689655, 
+            "an~I&D": 0.034482758620689655, 
+            "a~history": 0.034482758620689655, 
+            "finger~stick": 0.034482758620689655, 
+            "her~history": 0.034482758620689655, 
+            "home~dosing": 0.034482758620689655, 
+            "long~history": 0.06896551724137931, 
+            "one~flight": 0.034482758620689655, 
+            "one~week": 0.034482758620689655, 
+            "or~symptoms": 0.034482758620689655, 
+            "outpatient~dose": 0.034482758620689655, 
+            "post~excision": 0.034482758620689655, 
+            "ten-day~course": 0.034482758620689655, 
+            "the~day": 0.034482758620689655, 
+            "the~duration": 0.034482758620689655, 
+            "the~onset": 0.034482758620689655, 
+            "the~setting": 0.034482758620689655, 
+            "the~titration": 0.034482758620689655, 
+            "wedge~pressure": 0.06896551724137931, 
+            "white~count": 0.034482758620689655, 
+            "with~complaints": 0.034482758620689655, 
+            "with~sort": 0.034482758620689655
+        }, 
+        "on": {
+            "100s-low~200s": 0.07142857142857142, 
+            "after~being": 0.07142857142857142, 
+            "and~started": 0.07142857142857142, 
+            "cardiac~catheterization": 0.07142857142857142, 
+            "go~home": 0.07142857142857142, 
+            "noted~blood": 0.07142857142857142, 
+            "of~breath": 0.07142857142857142, 
+            "saturation~99%": 0.07142857142857142, 
+            "subcu~insulin": 0.07142857142857142, 
+            "they~decided": 0.07142857142857142, 
+            "vulvar~abscess": 0.07142857142857142, 
+            "was~discharged": 0.07142857142857142, 
+            "was~placed": 0.14285714285714285
+        }, 
+        "one": {
+            "appointment~within": 0.25, 
+            "a~positive": 0.25, 
+            "on~climbing": 0.25, 
+            "presents~with": 0.25
+        }, 
+        "onset": {
+            "had~the": 1.0
+        }, 
+        "optimized": {
+            "discharged~medically": 1.0
+        }, 
+        "or": {
+            ",~rubs": 0.25, 
+            "denies~alcohol": 0.25, 
+            "no~signs": 0.25, 
+            "recent~flares": 0.25
+        }, 
+        "oriented": {
+            "Alert~and": 1.0
+        }, 
+        "original": {
+            "on~her": 1.0
+        }, 
+        "out": {
+            "a~rule": 1.0
+        }, 
+        "outpatient": {
+            "as~an": 0.5, 
+            "her~original": 0.5
+        }, 
+        "ovarian": {
+            "RSO~for": 0.5, 
+            "sister~,": 0.5
+        }, 
+        "over": {
+            "weight~loss": 1.0
+        }, 
+        "overload.": {
+            "left~volume": 1.0
+        }, 
+        "oxygen": {
+            "18~,": 1.0
+        }, 
+        "p.o.q.d.": {
+            "40~mg": 1.0
+        }, 
+        "pack": {
+            "positive~one": 1.0
+        }, 
+        "pain": {
+            "left~groin": 1.0
+        }, 
+        "palpable": {
+            "and~enlarging": 0.5, 
+            "not~have": 0.5
+        }, 
+        "palpable.": {
+            "thyroid~not": 1.0
+        }, 
+        "past": {
+            "over~the": 0.5, 
+            "the~distant": 0.5
+        }, 
+        "paternal": {
+            "in~her": 1.0
+        }, 
+        "patient": {
+            "#1~the": 0.3333333333333333, 
+            ",~the": 0.3333333333333333, 
+            "ILLNESS:~The": 0.3333333333333333
+        }, 
+        "penicillin": {
+            "causes~hallucinations;": 1.0
+        }, 
+        "pepto": {
+            "bacteroides~,": 1.0
+        }, 
+        "per": {
+            "(~dosing": 1.0
+        }, 
+        "perfusion": {
+            "small~reversible": 1.0
+        }, 
+        "peripheral": {
+            ",~bilateral": 1.0
+        }, 
+        "persisted": {
+            "Her~symptoms": 1.0
+        }, 
+        "physician": {
+            "Primary~care": 0.5, 
+            "primary~care": 0.5
+        }, 
+        "placed": {
+            "She~was": 0.5, 
+            "then~was": 0.5
+        }, 
+        "plan": {
+            "The~discharge": 0.3333333333333333, 
+            "and~the": 0.3333333333333333, 
+            "with~the": 0.3333333333333333
+        }, 
+        "planning.": {
+            "decision~and": 1.0
+        }, 
+        "plus/minus": {
+            "of~a": 1.0
+        }, 
+        "polydipsia": {
+            "polyuria~,": 1.0
+        }, 
+        "polyuria": {
+            "exercise.~Recent": 1.0
+        }, 
+        "poorly": {
+            "history~of": 1.0
+        }, 
+        "positive": {
+            "is~a": 0.5, 
+            "nondistended~,": 0.5
+        }, 
+        "post": {
+            ",~status": 0.8571428571428571, 
+            "is~status": 0.14285714285714285
+        }, 
+        "pound": {
+            "SYSTEMS:~Twenty-five": 1.0
+        }, 
+        "pregnancy": {
+            "for~ectopic": 1.0
+        }, 
+        "prescribed": {
+            "and~was": 1.0
+        }, 
+        "presents": {
+            "abscesses.~She": 1.0
+        }, 
+        "pressure": {
+            ",~blood": 0.3333333333333333, 
+            "Pulmonary~wedge": 0.3333333333333333, 
+            "pulmonary~wedge": 0.3333333333333333
+        }, 
+        "primary": {
+            "both~her": 1.0
+        }, 
+        "prior": {
+            "six~days": 0.5, 
+            "three~days": 0.5
+        }, 
+        "protocol": {
+            "rule~out": 1.0
+        }, 
+        "pulmonary": {
+            "and~a": 0.25, 
+            "developed~acute": 0.25, 
+            "patient~with": 0.25, 
+            "that~showed": 0.25
+        }, 
+        "pulses": {
+            "lower~extremity": 1.0
+        }, 
+        "q.d.": {
+            "Levaquin~500": 1.0
+        }, 
+        "q.d.;": {
+            "20~mg": 0.16666666666666666, 
+            "25~mg": 0.16666666666666666, 
+            "325~mg": 0.16666666666666666, 
+            "40~mg": 0.16666666666666666, 
+            "Diflucan~100": 0.16666666666666666, 
+            "Nexium~40": 0.16666666666666666
+        }, 
+        "q.i.d.;": {
+            "300~mg": 1.0
+        }, 
+        "question": {
+            ",~nonerythematous": 1.0
+        }, 
+        "rate": {
+            ",~heart": 1.0
+        }, 
+        "received": {
+            "abscess~,": 0.5, 
+            "that~time": 0.5
+        }, 
+        "recent": {
+            ",~no": 1.0
+        }, 
+        "recently": {
+            "depression~with": 1.0
+        }, 
+        "recommended": {
+            "graft~was": 1.0
+        }, 
+        "recurrent": {
+            ",~and": 1.0
+        }, 
+        "refill.": {
+            "second~capillary": 1.0
+        }, 
+        "regimen.": {
+            "on~this": 1.0
+        }, 
+        "respirations": {
+            "140/88~,": 1.0
+        }, 
+        "response": {
+            "a~plus/minus": 1.0
+        }, 
+        "restricted": {
+            "salt~fluid": 1.0
+        }, 
+        "returned": {
+            "her~diet": 0.3333333333333333, 
+            "returned~she": 0.3333333333333333, 
+            "so~she": 0.3333333333333333
+        }, 
+        "revealed": {
+            "Her~cultures": 0.2, 
+            "October~which": 0.2, 
+            "anaerobic~culture": 0.2, 
+            "echocardiogram~that": 0.2, 
+            "workup~which": 0.2
+        }, 
+        "reversible": {
+            "a~small": 1.0
+        }, 
+        "room": {
+            "99%~on": 1.0
+        }, 
+        "rubs": {
+            "murmurs~,": 1.0
+        }, 
+        "rule": {
+            "on~a": 1.0
+        }, 
+        "salt": {
+            "GI:~Low": 1.0
+        }, 
+        "same": {
+            "about~the": 1.0
+        }, 
+        "saturation": {
+            ",~oxygen": 1.0
+        }, 
+        "scale": {
+            "a~sliding": 1.0
+        }, 
+        "second": {
+            "than~2": 1.0
+        }, 
+        "seen": {
+            "and~was": 1.0
+        }, 
+        "sensation": {
+            "subjective~altered": 1.0
+        }, 
+        "setting": {
+            "in~the": 1.0
+        }, 
+        "severe": {
+            ")~,": 0.3333333333333333, 
+            "moderate~to": 0.3333333333333333, 
+            "which~revealed": 0.3333333333333333
+        }, 
+        "she": {
+            ",~if": 0.14285714285714285, 
+            ",~though": 0.14285714285714285, 
+            "chills~so": 0.14285714285714285, 
+            "diet~returned": 0.14285714285714285, 
+            "persisted~and": 0.14285714285714285, 
+            "same~and": 0.14285714285714285, 
+            "which~time": 0.14285714285714285
+        }, 
+        "shortness": {
+            "cough~and": 0.5, 
+            "energy~,": 0.5
+        }, 
+        "show": {
+            "test~to": 1.0
+        }, 
+        "showed": {
+            "hospital~course": 0.5, 
+            "x-ray~that": 0.5
+        }, 
+        "signs": {
+            "showed~no": 1.0
+        }, 
+        "similar": {
+            "to~NPH": 1.0
+        }, 
+        "simvastatin": {
+            "aspirin~and": 0.5, 
+            "mg~q.i.d.;": 0.5
+        }, 
+        "sister": {
+            "mother~and": 1.0
+        }, 
+        "six": {
+            "tender~bump": 1.0
+        }, 
+        "sliding": {
+            "with~a": 1.0
+        }, 
+        "small": {
+            "edema~with": 0.5, 
+            "show~a": 0.5
+        }, 
+        "smoker": {
+            "a~day": 1.0
+        }, 
+        "smoking.": {
+            "#asthma#~and": 1.0
+        }, 
+        "so": {
+            "of~chills": 1.0
+        }, 
+        "some": {
+            ",~thought": 1.0
+        }, 
+        "sort": {
+            "breath~with": 1.0
+        }, 
+        "sounds": {
+            "positive~bowel": 1.0
+        }, 
+        "stabilized.": {
+            "monitored~and": 1.0
+        }, 
+        "stairs.": {
+            "flight~of": 1.0
+        }, 
+        "started": {
+            "in-house~and": 0.5, 
+            "the~patient": 0.5
+        }, 
+        "status": {
+            ")~,": 0.14285714285714285, 
+            "She~is": 0.14285714285714285, 
+            "TAH-LSO~,": 0.14285714285714285, 
+            "abscesses~,": 0.14285714285714285, 
+            "abscess~,": 0.14285714285714285, 
+            "hemorrhoids~,": 0.14285714285714285, 
+            "pregnancy~,": 0.14285714285714285
+        }, 
+        "stenosis": {
+            "50%~RCA": 0.5, 
+            "long~80%": 0.5
+        }, 
+        "stick": {
+            "the~finger": 1.0
+        }, 
+        "sticks": {
+            "her~finger": 1.0
+        }, 
+        "strength": {
+            "intact.~5/5": 1.0
+        }, 
+        "stress": {
+            "adenosine~MIBI": 1.0
+        }, 
+        "subcu": {
+            "transitioned~to": 1.0
+        }, 
+        "subcu.": {
+            "units~b.i.d.": 1.0
+        }, 
+        "subjective": {
+            "thought~some": 1.0
+        }, 
+        "subsequent": {
+            "bolus~with": 1.0
+        }, 
+        "sugars": {
+            "Her~discharge": 0.5, 
+            "cover.~Her": 0.5
+        }, 
+        "surgery": {
+            "for~cardiac": 0.5, 
+            "status~post": 0.5
+        }, 
+        "symptoms": {
+            "Levaquin.~Her": 0.5, 
+            "signs~or": 0.5
+        }, 
+        "systemic": {
+            "status~post": 1.0
+        }, 
+        "systolic": {
+            "decrease~in": 0.5, 
+            "severe~left": 0.5
+        }, 
+        "temperature": {
+            "Afebrile~,": 1.0
+        }, 
+        "ten-day": {
+            "prescribed~a": 1.0
+        }, 
+        "tender": {
+            "noticed~a": 1.0
+        }, 
+        "test": {
+            "MIBI~stress": 1.0
+        }, 
+        "than": {
+            "with~less": 1.0
+        }, 
+        "that": {
+            "An~echocardiogram": 0.25, 
+            "She~at": 0.25, 
+            "chest~x-ray": 0.25, 
+            "go~in": 0.25
+        }, 
+        "the": {
+            "27~,": 0.038461538461538464, 
+            "GYN~clinic": 0.038461538461538464, 
+            "I&D~of": 0.038461538461538464, 
+            "admitted~to": 0.038461538461538464, 
+            "being~on": 0.038461538461538464, 
+            "blood~on": 0.038461538461538464, 
+            "clindamycin~for": 0.038461538461538464, 
+            "control~with": 0.038461538461538464, 
+            "day~#1": 0.038461538461538464, 
+            "diabetes~in": 0.038461538461538464, 
+            "drip~until": 0.038461538461538464, 
+            "due~to": 0.038461538461538464, 
+            "family~in": 0.038461538461538464, 
+            "fluid~from": 0.038461538461538464, 
+            "infection~and": 0.038461538461538464, 
+            "loss~over": 0.038461538461538464, 
+            "mass~and": 0.038461538461538464, 
+            "returned~to": 0.038461538461538464, 
+            "sensation~in": 0.038461538461538464, 
+            "she~had": 0.038461538461538464, 
+            "she~makes": 0.038461538461538464, 
+            "underwear~in": 0.038461538461538464, 
+            "upward~after": 0.038461538461538464, 
+            "were~about": 0.038461538461538464, 
+            "were~in": 0.038461538461538464, 
+            "which~throughout": 0.038461538461538464
+        }, 
+        "then": {
+            "2000.~She": 1.0
+        }, 
+        "they": {
+            "family~meeting": 1.0
+        }, 
+        "thigh": {
+            "for~left": 1.0
+        }, 
+        "this": {
+            "200s~on": 0.5, 
+            "inhibitor~,": 0.5
+        }, 
+        "though": {
+            "infection~,": 0.5, 
+            "pulses~,": 0.5
+        }, 
+        "thought": {
+            "extremities~,": 1.0
+        }, 
+        "three": {
+            "GYN~clinic": 1.0
+        }, 
+        "throughout": {
+            "#2~which": 1.0
+        }, 
+        "thyroid": {
+            "LAD~,": 1.0
+        }, 
+        "time": {
+            "at~that": 0.5, 
+            "at~which": 0.5
+        }, 
+        "titration": {
+            "after~the": 1.0
+        }, 
+        "to": {
+            ",~moderate": 0.043478260869565216, 
+            "CHEST:~Clear": 0.043478260869565216, 
+            "NPH~similar": 0.043478260869565216, 
+            "She~transitioned": 0.043478260869565216, 
+            "believed~it": 0.043478260869565216, 
+            "be~due": 0.043478260869565216, 
+            "days~prior": 0.08695652173913043, 
+            "for~her": 0.17391304347826086, 
+            "likely~due": 0.043478260869565216, 
+            "moved~up": 0.043478260869565216, 
+            "on~clindamycin": 0.043478260869565216, 
+            "plus/minus~response": 0.043478260869565216, 
+            "she~returned": 0.08695652173913043, 
+            "sliding~scale": 0.043478260869565216, 
+            "stress~test": 0.043478260869565216, 
+            "the~decision": 0.043478260869565216, 
+            "was~admitted": 0.043478260869565216, 
+            "was~felt": 0.043478260869565216
+        }, 
+        "trace": {
+            "MR~,": 1.0
+        }, 
+        "transitioned": {
+            "OR.~She": 1.0
+        }, 
+        "turning": {
+            "creatinine~was": 1.0
+        }, 
+        "two": {
+            "appointment~in": 0.5, 
+            "the~past": 0.5
+        }, 
+        "ultimately": {
+            "drip~and": 1.0
+        }, 
+        "underwear": {
+            "on~the": 1.0
+        }, 
+        "underwent": {
+            "IV.~She": 0.5, 
+            "TR.~She": 0.5
+        }, 
+        "unit": {
+            "a~15": 1.0
+        }, 
+        "units": {
+            "70/30~70": 0.75, 
+            "to~17": 0.25
+        }, 
+        "until": {
+            "insulin~drip": 1.0
+        }, 
+        "up": {
+            "14~moved": 0.25, 
+            "has~follow": 0.25, 
+            "to~follow": 0.25, 
+            "with~follow": 0.25
+        }, 
+        "upper": {
+            "grossly~intact": 0.3333333333333333, 
+            "membranes.~Positive": 0.3333333333333333, 
+            "strength~bilaterally": 0.3333333333333333
+        }, 
+        "upward": {
+            "was~turning": 1.0
+        }, 
+        "use.": {
+            "or~drug": 1.0
+        }, 
+        "vaginal": {
+            "revealed~1+": 1.0
+        }, 
+        "vessel": {
+            "2-3~coronary": 1.0
+        }, 
+        "volume": {
+            "to~left": 1.0
+        }, 
+        "vulvar": {
+            "3~cm": 0.25, 
+            "I&D~left": 0.25, 
+            "had~a": 0.25, 
+            "of~the": 0.25
+        }, 
+        "warm": {
+            "extremities~were": 1.0
+        }, 
+        "was": {
+            ",~this": 0.0625, 
+            "10.6~and": 0.0625, 
+            "390.~She": 0.0625, 
+            "Captopril.~She": 0.0625, 
+            "She~then": 0.0625, 
+            "admission~,": 0.0625, 
+            "admission~and": 0.0625, 
+            "and~creatinine": 0.0625, 
+            "and~she": 0.0625, 
+            "block~which": 0.0625, 
+            "bypass~graft": 0.0625, 
+            "discharge~plan": 0.0625, 
+            "effusions~which": 0.0625, 
+            "hypokinesis.~She": 0.0625, 
+            "overload.~She": 0.0625, 
+            "time~she": 0.0625
+        }, 
+        "wedge": {
+            "Pulmonary:~Pulmonary": 0.5, 
+            "a~pulmonary": 0.5
+        }, 
+        "week": {
+            "with~one": 1.0
+        }, 
+        "week.": {
+            "within~one": 1.0
+        }, 
+        "weeks.": {
+            "in~two": 1.0
+        }, 
+        "weight": {
+            "pound~intentional": 1.0
+        }, 
+        "were": {
+            "Her~sugars": 0.25, 
+            "discharge~sugars": 0.25, 
+            "finger~sticks": 0.25, 
+            "her~extremities": 0.25
+        }, 
+        "when": {
+            "#3~and": 1.0
+        }, 
+        "which": {
+            "ALLERGIES:~Codeine": 0.1111111111111111, 
+            "admission~at": 0.1111111111111111, 
+            "branch~block": 0.1111111111111111, 
+            "cardiac~workup": 0.1111111111111111, 
+            "constipation;~Demerol": 0.1111111111111111, 
+            "day~#2": 0.1111111111111111, 
+            "hallucinations;~penicillin": 0.1111111111111111, 
+            "on~October": 0.1111111111111111, 
+            "small~effusions": 0.1111111111111111
+        }, 
+        "white": {
+            "with~a": 1.0
+        }, 
+        "with": {
+            "#obese#~woman": 0.041666666666666664, 
+            ",~depression": 0.041666666666666664, 
+            "48-year-old~female": 0.041666666666666664, 
+            "She~presents": 0.041666666666666664, 
+            "an~EKG": 0.041666666666666664, 
+            "diabetic~control": 0.041666666666666664, 
+            "follow~up": 0.041666666666666664, 
+            "going~home": 0.041666666666666664, 
+            "in~legs": 0.041666666666666664, 
+            "of~breath": 0.041666666666666664, 
+            "of~noncompliance": 0.041666666666666664, 
+            "on~discharge": 0.041666666666666664, 
+            "out~protocol": 0.041666666666666664, 
+            "patient~started": 0.041666666666666664, 
+            "pulmonary~edema": 0.041666666666666664, 
+            "systolic~dysfunction": 0.041666666666666664, 
+            "the~patient": 0.041666666666666664, 
+            "units~b.i.d.": 0.041666666666666664, 
+            "unit~bolus": 0.041666666666666664, 
+            "up~appointments": 0.041666666666666664, 
+            "was~afebrile": 0.08333333333333333, 
+            "was~diuresed": 0.041666666666666664, 
+            "were~warm": 0.041666666666666664
+        }, 
+        "within": {
+            "an~appointment": 1.0
+        }, 
+        "without": {
+            "left~groin": 1.0
+        }, 
+        "woman": {
+            ",~middle-aged": 0.5, 
+            "47-year-old~#obese#": 0.5
+        }, 
+        "workup": {
+            "a~cardiac": 1.0
+        }, 
+        "x": {
+            "500~q.d.": 0.25, 
+            "and~oriented": 0.25, 
+            "a~5": 0.25, 
+            "day~smoker": 0.25
+        }, 
+        "x-ray": {
+            "a~chest": 1.0
+        }, 
+        "years": {
+            "x~36": 1.0
+        }, 
+        "|": {
+            "12:00:00~AM": 0.1111111111111111, 
+            "83230517~|": 0.1111111111111111, 
+            "VULVAR~ABSCESS": 0.1111111111111111, 
+            "|~775954": 0.1111111111111111, 
+            "|~83230517": 0.1111111111111111, 
+            "|~DIS": 0.1111111111111111, 
+            "|~FCMC": 0.1111111111111111, 
+            "|~Signed": 0.1111111111111111, 
+            "~889447689": 0.1111111111111111
+        }
+    }, 
+    "type": "data/test", 
+    "uni": {
+        "": 0.000777000777000777, 
+        "#1": 0.000777000777000777, 
+        "#2": 0.000777000777000777, 
+        "#3": 0.000777000777000777, 
+        "#asthma#": 0.001554001554001554, 
+        "#obese#": 0.001554001554001554, 
+        "(": 0.003108003108003108, 
+        ")": 0.00777000777000777, 
+        ",": 0.05439005439005439, 
+        ".": 0.000777000777000777, 
+        "1": 0.000777000777000777, 
+        "1+": 0.000777000777000777, 
+        "1.": 0.000777000777000777, 
+        "1/29/2002": 0.000777000777000777, 
+        "1/4/02": 0.001554001554001554, 
+        "10": 0.000777000777000777, 
+        "10.6": 0.000777000777000777, 
+        "100": 0.000777000777000777, 
+        "100s-low": 0.000777000777000777, 
+        "12:00:00": 0.000777000777000777, 
+        "14": 0.000777000777000777, 
+        "140/88": 0.000777000777000777, 
+        "15": 0.000777000777000777, 
+        "15639": 0.000777000777000777, 
+        "160s": 0.000777000777000777, 
+        "17": 0.000777000777000777, 
+        "18": 0.000777000777000777, 
+        "1987": 0.000777000777000777, 
+        "2": 0.001554001554001554, 
+        "2-3": 0.000777000777000777, 
+        "2.": 0.000777000777000777, 
+        "20": 0.002331002331002331, 
+        "2000.": 0.000777000777000777, 
+        "200s": 0.000777000777000777, 
+        "25": 0.000777000777000777, 
+        "27": 0.000777000777000777, 
+        "27.": 0.000777000777000777, 
+        "3": 0.001554001554001554, 
+        "3.": 0.000777000777000777, 
+        "3.0": 0.000777000777000777, 
+        "30%": 0.001554001554001554, 
+        "300": 0.000777000777000777, 
+        "325": 0.000777000777000777, 
+        "36": 0.000777000777000777, 
+        "390.": 0.000777000777000777, 
+        "4": 0.000777000777000777, 
+        "40": 0.002331002331002331, 
+        "47-year-old": 0.000777000777000777, 
+        "48-year-old": 0.000777000777000777, 
+        "5": 0.001554001554001554, 
+        "5/24/2002": 0.000777000777000777, 
+        "5/3/2002": 0.000777000777000777, 
+        "5/325": 0.000777000777000777, 
+        "5/5": 0.000777000777000777, 
+        "50": 0.000777000777000777, 
+        "50%": 0.000777000777000777, 
+        "500": 0.000777000777000777, 
+        "6": 0.000777000777000777, 
+        "600.": 0.000777000777000777, 
+        "70": 0.002331002331002331, 
+        "70/30": 0.002331002331002331, 
+        "775954": 0.000777000777000777, 
+        "8.0": 0.000777000777000777, 
+        "80%": 0.000777000777000777, 
+        "83230517": 0.000777000777000777, 
+        "889447689": 0.000777000777000777, 
+        "97": 0.000777000777000777, 
+        "98.2": 0.000777000777000777, 
+        "99%": 0.000777000777000777, 
+        "A": 0.002331002331002331, 
+        "ABDOMEN:": 0.000777000777000777, 
+        "ABOLT": 0.000777000777000777, 
+        "ABSCESS": 0.002331002331002331, 
+        "ACE": 0.000777000777000777, 
+        "ADMISSION": 0.000777000777000777, 
+        "ADMISSION:": 0.000777000777000777, 
+        "ALLERGIES:": 0.000777000777000777, 
+        "AM": 0.000777000777000777, 
+        "ANTOINE": 0.000777000777000777, 
+        "ARTERY": 0.000777000777000777, 
+        "Admission": 0.000777000777000777, 
+        "Afebrile": 0.000777000777000777, 
+        "Alert": 0.000777000777000777, 
+        "An": 0.000777000777000777, 
+        "Attending:": 0.000777000777000777, 
+        "BERNARDO": 0.000777000777000777, 
+        "BUN": 0.000777000777000777, 
+        "Batch:": 0.000777000777000777, 
+        "Breast": 0.000777000777000777, 
+        "Brehony": 0.000777000777000777, 
+        "By:": 0.000777000777000777, 
+        "CABG": 0.000777000777000777, 
+        "CC:": 0.000777000777000777, 
+        "CHEST:": 0.000777000777000777, 
+        "CORONARY": 0.000777000777000777, 
+        "COURSE:": 0.000777000777000777, 
+        "Captopril.": 0.000777000777000777, 
+        "Cardiopulmonary:": 0.000777000777000777, 
+        "Center": 0.000777000777000777, 
+        "Clear": 0.000777000777000777, 
+        "Clindamycin": 0.000777000777000777, 
+        "Codeine": 0.000777000777000777, 
+        "Coronary": 0.000777000777000777, 
+        "Cranial": 0.000777000777000777, 
+        "D.": 0.000777000777000777, 
+        "D:": 0.000777000777000777, 
+        "DIABETES": 0.000777000777000777, 
+        "DIABETES.": 0.000777000777000777, 
+        "DIAGNOSES:": 0.001554001554001554, 
+        "DIS": 0.000777000777000777, 
+        "DISCHARGE": 0.002331002331002331, 
+        "DISEASE": 0.000777000777000777, 
+        "DQ37": 0.000777000777000777, 
+        "Date:": 0.001554001554001554, 
+        "Demerol": 0.000777000777000777, 
+        "DesOwen": 0.000777000777000777, 
+        "Diabetes": 0.000777000777000777, 
+        "Dictated": 0.000777000777000777, 
+        "Diflucan": 0.000777000777000777, 
+        "Discharge": 0.000777000777000777, 
+        "Disease:": 0.000777000777000777, 
+        "Dr.": 0.003885003885003885, 
+        "EF": 0.000777000777000777, 
+        "EKG": 0.001554001554001554, 
+        "EOMI.": 0.000777000777000777, 
+        "EXAMINATION:": 0.000777000777000777, 
+        "EXTREMITIES:": 0.000777000777000777, 
+        "Endocet": 0.000777000777000777, 
+        "FAMILY": 0.000777000777000777, 
+        "FCMC": 0.000777000777000777, 
+        "FOLLOWUP:": 0.000777000777000777, 
+        "FRANCES": 0.000777000777000777, 
+        "FUNCTION.": 0.000777000777000777, 
+        "GARRET": 0.000777000777000777, 
+        "GENERAL:": 0.000777000777000777, 
+        "GI:": 0.000777000777000777, 
+        "GO009/821705": 0.000777000777000777, 
+        "GYN": 0.002331002331002331, 
+        "GYN.": 0.000777000777000777, 
+        "HEART:": 0.000777000777000777, 
+        "HEENT:": 0.000777000777000777, 
+        "HISTORY": 0.000777000777000777, 
+        "HISTORY:": 0.002331002331002331, 
+        "HOSPITAL": 0.000777000777000777, 
+        "Harland": 0.000777000777000777, 
+        "Her": 0.003108003108003108, 
+        "I&D": 0.003108003108003108, 
+        "IDDM": 0.000777000777000777, 
+        "ILLNESS:": 0.000777000777000777, 
+        "IMPRESSION:": 0.000777000777000777, 
+        "IV": 0.000777000777000777, 
+        "IV.": 0.000777000777000777, 
+        "Index": 0.000777000777000777, 
+        "Infectious": 0.000777000777000777, 
+        "Insulin": 0.000777000777000777, 
+        "Insulin-dependent": 0.000777000777000777, 
+        "Isaman": 0.000777000777000777, 
+        "JVP": 0.000777000777000777, 
+        "KUNAU": 0.000777000777000777, 
+        "LAD": 0.001554001554001554, 
+        "LDL": 0.000777000777000777, 
+        "LEFT": 0.000777000777000777, 
+        "Lac-Hydrin": 0.000777000777000777, 
+        "Lasix": 0.002331002331002331, 
+        "Levaquin": 0.000777000777000777, 
+        "Levaquin.": 0.000777000777000777, 
+        "Lopressor": 0.000777000777000777, 
+        "Loren": 0.000777000777000777, 
+        "Low": 0.000777000777000777, 
+        "M.D.": 0.002331002331002331, 
+        "MAIDONADO": 0.000777000777000777, 
+        "MEDICAL/SURGICAL": 0.000777000777000777, 
+        "MEDICATIONS": 0.000777000777000777, 
+        "MEDICATIONS:": 0.000777000777000777, 
+        "MIBI": 0.000777000777000777, 
+        "MR": 0.000777000777000777, 
+        "Medical": 0.000777000777000777, 
+        "Moist": 0.000777000777000777, 
+        "NECK:": 0.000777000777000777, 
+        "NEURO:": 0.000777000777000777, 
+        "NPH": 0.000777000777000777, 
+        "NW7": 0.000777000777000777, 
+        "Nexium": 0.001554001554001554, 
+        "No": 0.000777000777000777, 
+        "No.": 0.000777000777000777, 
+        "OAKS": 0.000777000777000777, 
+        "OF": 0.001554001554001554, 
+        "ON": 0.000777000777000777, 
+        "OR.": 0.000777000777000777, 
+        "October": 0.000777000777000777, 
+        "On": 0.002331002331002331, 
+        "Oropharynx": 0.000777000777000777, 
+        "PAST": 0.000777000777000777, 
+        "PERRL.": 0.000777000777000777, 
+        "PHYSICAL": 0.000777000777000777, 
+        "PRESENT": 0.000777000777000777, 
+        "PRINCIPAL": 0.000777000777000777, 
+        "Pain": 0.000777000777000777, 
+        "Paxil": 0.000777000777000777, 
+        "Positive": 0.000777000777000777, 
+        "Primary": 0.000777000777000777, 
+        "Prive": 0.000777000777000777, 
+        "Propionibacterium.": 0.000777000777000777, 
+        "Pulmonary": 0.000777000777000777, 
+        "Pulmonary:": 0.000777000777000777, 
+        "RCA": 0.000777000777000777, 
+        "REVIEW": 0.000777000777000777, 
+        "RSO": 0.000777000777000777, 
+        "Recent": 0.000777000777000777, 
+        "Regular": 0.000777000777000777, 
+        "Renal:": 0.000777000777000777, 
+        "Report": 0.000777000777000777, 
+        "S": 0.000777000777000777, 
+        "S1S2": 0.000777000777000777, 
+        "SIGNS:": 0.000777000777000777, 
+        "SOCIAL": 0.000777000777000777, 
+        "SYSTEMS:": 0.000777000777000777, 
+        "SYSTOLIC": 0.000777000777000777, 
+        "Sensation": 0.000777000777000777, 
+        "Sharpon": 0.000777000777000777, 
+        "She": 0.014763014763014764, 
+        "Shewbridge": 0.000777000777000777, 
+        "Signed": 0.001554001554001554, 
+        "Soft": 0.000777000777000777, 
+        "Status:": 0.000777000777000777, 
+        "Stivason": 0.000777000777000777, 
+        "Strep": 0.000777000777000777, 
+        "T:": 0.000777000777000777, 
+        "TAH-LSO": 0.000777000777000777, 
+        "TR.": 0.000777000777000777, 
+        "Tender": 0.000777000777000777, 
+        "The": 0.001554001554001554, 
+        "Tlgen": 0.000777000777000777, 
+        "Twenty-five": 0.000777000777000777, 
+        "UDIFY907IM": 0.000777000777000777, 
+        "University": 0.000777000777000777, 
+        "VENTRICULAR": 0.000777000777000777, 
+        "VITAL": 0.000777000777000777, 
+        "VULVAR": 0.002331002331002331, 
+        "WAYLON": 0.000777000777000777, 
+        "a": 0.020202020202020204, 
+        "about": 0.000777000777000777, 
+        "abscess": 0.003108003108003108, 
+        "abscesses": 0.000777000777000777, 
+        "abscesses.": 0.000777000777000777, 
+        "acute": 0.001554001554001554, 
+        "adenosine": 0.000777000777000777, 
+        "admission": 0.003108003108003108, 
+        "admission.": 0.000777000777000777, 
+        "admitted": 0.001554001554001554, 
+        "afebrile": 0.001554001554001554, 
+        "after": 0.002331002331002331, 
+        "air.": 0.000777000777000777, 
+        "alcohol": 0.000777000777000777, 
+        "altered": 0.000777000777000777, 
+        "an": 0.006993006993006993, 
+        "anaerobic": 0.000777000777000777, 
+        "and": 0.027972027972027972, 
+        "antibiotics": 0.000777000777000777, 
+        "appointment": 0.001554001554001554, 
+        "appointments": 0.000777000777000777, 
+        "area.": 0.000777000777000777, 
+        "artery": 0.002331002331002331, 
+        "as": 0.000777000777000777, 
+        "aspirin": 0.001554001554001554, 
+        "associated": 0.000777000777000777, 
+        "at": 0.002331002331002331, 
+        "atenolol": 0.000777000777000777, 
+        "auscultation": 0.000777000777000777, 
+        "b.i.d.": 0.003885003885003885, 
+        "b.i.d.;": 0.002331002331002331, 
+        "bacteroides": 0.000777000777000777, 
+        "be": 0.002331002331002331, 
+        "being": 0.000777000777000777, 
+        "believed": 0.000777000777000777, 
+        "bilateral": 0.000777000777000777, 
+        "bilaterally": 0.000777000777000777, 
+        "bilaterally.": 0.001554001554001554, 
+        "biopsy": 0.000777000777000777, 
+        "block": 0.000777000777000777, 
+        "blood": 0.001554001554001554, 
+        "bolus": 0.000777000777000777, 
+        "borderline": 0.000777000777000777, 
+        "both": 0.000777000777000777, 
+        "bowel": 0.000777000777000777, 
+        "branch": 0.000777000777000777, 
+        "breath": 0.001554001554001554, 
+        "bump": 0.000777000777000777, 
+        "bundle": 0.000777000777000777, 
+        "buttock": 0.000777000777000777, 
+        "by": 0.001554001554001554, 
+        "bypass": 0.000777000777000777, 
+        "call": 0.000777000777000777, 
+        "cancer": 0.001554001554001554, 
+        "capillary": 0.000777000777000777, 
+        "cardiac": 0.002331002331002331, 
+        "cardiology": 0.000777000777000777, 
+        "care": 0.001554001554001554, 
+        "catheterization": 0.000777000777000777, 
+        "causes": 0.002331002331002331, 
+        "cells": 0.000777000777000777, 
+        "chest": 0.000777000777000777, 
+        "chills": 0.000777000777000777, 
+        "chronic": 0.000777000777000777, 
+        "clear.": 0.000777000777000777, 
+        "climbing": 0.000777000777000777, 
+        "clindamycin": 0.001554001554001554, 
+        "clinic": 0.001554001554001554, 
+        "cm": 0.001554001554001554, 
+        "cm.": 0.000777000777000777, 
+        "complaints": 0.000777000777000777, 
+        "complete": 0.000777000777000777, 
+        "constipation;": 0.000777000777000777, 
+        "control": 0.001554001554001554, 
+        "controlled": 0.001554001554001554, 
+        "coronary": 0.002331002331002331, 
+        "cough": 0.000777000777000777, 
+        "count": 0.000777000777000777, 
+        "course": 0.001554001554001554, 
+        "course.": 0.001554001554001554, 
+        "cover.": 0.000777000777000777, 
+        "creatinine": 0.000777000777000777, 
+        "culture": 0.000777000777000777, 
+        "cultures": 0.000777000777000777, 
+        "current": 0.000777000777000777, 
+        "day": 0.003885003885003885, 
+        "days": 0.001554001554001554, 
+        "days.": 0.000777000777000777, 
+        "decided": 0.000777000777000777, 
+        "decision": 0.001554001554001554, 
+        "decrease": 0.000777000777000777, 
+        "decreased": 0.000777000777000777, 
+        "defect": 0.000777000777000777, 
+        "denies": 0.000777000777000777, 
+        "dentures.": 0.000777000777000777, 
+        "depression": 0.000777000777000777, 
+        "developed": 0.000777000777000777, 
+        "diabetes": 0.003885003885003885, 
+        "diabetic": 0.000777000777000777, 
+        "diagnosed": 0.000777000777000777, 
+        "diagonal": 0.000777000777000777, 
+        "did": 0.000777000777000777, 
+        "diet": 0.001554001554001554, 
+        "direction.": 0.000777000777000777, 
+        "discharge": 0.002331002331002331, 
+        "discharged": 0.001554001554001554, 
+        "discontinued": 0.000777000777000777, 
+        "disease": 0.000777000777000777, 
+        "disease.": 0.000777000777000777, 
+        "distant": 0.000777000777000777, 
+        "distress.": 0.000777000777000777, 
+        "distribution": 0.000777000777000777, 
+        "diuresed": 0.000777000777000777, 
+        "dose": 0.000777000777000777, 
+        "dosing": 0.001554001554001554, 
+        "drip": 0.001554001554001554, 
+        "drip.": 0.000777000777000777, 
+        "drug": 0.000777000777000777, 
+        "due": 0.001554001554001554, 
+        "duration": 0.000777000777000777, 
+        "dysfunction": 0.000777000777000777, 
+        "echocardiogram": 0.000777000777000777, 
+        "ectopic": 0.000777000777000777, 
+        "edema": 0.001554001554001554, 
+        "effusions": 0.000777000777000777, 
+        "ejection": 0.000777000777000777, 
+        "energy": 0.000777000777000777, 
+        "enlarging": 0.000777000777000777, 
+        "enzymes.": 0.000777000777000777, 
+        "excision": 0.000777000777000777, 
+        "exercise.": 0.000777000777000777, 
+        "extended": 0.000777000777000777, 
+        "extremities": 0.002331002331002331, 
+        "extremities.": 0.000777000777000777, 
+        "extremity": 0.000777000777000777, 
+        "family": 0.001554001554001554, 
+        "felt": 0.000777000777000777, 
+        "female": 0.000777000777000777, 
+        "finger": 0.001554001554001554, 
+        "firm": 0.000777000777000777, 
+        "first": 0.000777000777000777, 
+        "flares": 0.000777000777000777, 
+        "flat": 0.000777000777000777, 
+        "flight": 0.000777000777000777, 
+        "flocculent": 0.000777000777000777, 
+        "flora": 0.000777000777000777, 
+        "fluid": 0.001554001554001554, 
+        "follow": 0.002331002331002331, 
+        "for": 0.011655011655011656, 
+        "fourteen-day": 0.000777000777000777, 
+        "fraction": 0.000777000777000777, 
+        "from": 0.001554001554001554, 
+        "function": 0.000777000777000777, 
+        "further": 0.000777000777000777, 
+        "gallops.": 0.000777000777000777, 
+        "gastritis.": 0.001554001554001554, 
+        "gentamicin": 0.000777000777000777, 
+        "given": 0.000777000777000777, 
+        "global": 0.001554001554001554, 
+        "go": 0.001554001554001554, 
+        "going": 0.000777000777000777, 
+        "graft": 0.000777000777000777, 
+        "grandmother.": 0.000777000777000777, 
+        "groin": 0.001554001554001554, 
+        "grossly": 0.000777000777000777, 
+        "had": 0.003885003885003885, 
+        "hallucinations;": 0.000777000777000777, 
+        "has": 0.001554001554001554, 
+        "have": 0.000777000777000777, 
+        "heart": 0.000777000777000777, 
+        "hemorrhagic": 0.000777000777000777, 
+        "hemorrhoids": 0.000777000777000777, 
+        "hemorrhoids.": 0.000777000777000777, 
+        "hepatosplenomegaly": 0.000777000777000777, 
+        "her": 0.01320901320901321, 
+        "high": 0.000777000777000777, 
+        "history": 0.004662004662004662, 
+        "hives.": 0.000777000777000777, 
+        "home": 0.002331002331002331, 
+        "hospital": 0.003885003885003885, 
+        "hypertension": 0.000777000777000777, 
+        "hypokinesis": 0.000777000777000777, 
+        "hypokinesis.": 0.000777000777000777, 
+        "if": 0.000777000777000777, 
+        "in": 0.01320901320901321, 
+        "in-house": 0.000777000777000777, 
+        "infarct": 0.000777000777000777, 
+        "infection": 0.001554001554001554, 
+        "inhibitor": 0.000777000777000777, 
+        "initially": 0.000777000777000777, 
+        "insulin": 0.003885003885003885, 
+        "insulin-dependent": 0.000777000777000777, 
+        "intact": 0.000777000777000777, 
+        "intact.": 0.000777000777000777, 
+        "intentional": 0.000777000777000777, 
+        "intubations": 0.000777000777000777, 
+        "is": 0.003108003108003108, 
+        "it": 0.000777000777000777, 
+        "large": 0.000777000777000777, 
+        "left": 0.005439005439005439, 
+        "legs": 0.000777000777000777, 
+        "less": 0.000777000777000777, 
+        "levels": 0.000777000777000777, 
+        "likely": 0.000777000777000777, 
+        "lingular": 0.000777000777000777, 
+        "lisinopril": 0.001554001554001554, 
+        "long": 0.002331002331002331, 
+        "loss": 0.000777000777000777, 
+        "lotion;": 0.001554001554001554, 
+        "lower": 0.003108003108003108, 
+        "lymphadenopathy.": 0.000777000777000777, 
+        "make": 0.001554001554001554, 
+        "makes": 0.000777000777000777, 
+        "malignant": 0.000777000777000777, 
+        "management.": 0.000777000777000777, 
+        "mass": 0.002331002331002331, 
+        "mass.": 0.000777000777000777, 
+        "masses.": 0.000777000777000777, 
+        "medically": 0.000777000777000777, 
+        "medications": 0.000777000777000777, 
+        "meeting": 0.000777000777000777, 
+        "mellitus": 0.000777000777000777, 
+        "mellitus:": 0.000777000777000777, 
+        "membranes.": 0.000777000777000777, 
+        "mg": 0.005439005439005439, 
+        "middle-aged": 0.000777000777000777, 
+        "mild": 0.000777000777000777, 
+        "mobile": 0.000777000777000777, 
+        "moderate": 0.001554001554001554, 
+        "monitored": 0.000777000777000777, 
+        "months": 0.000777000777000777, 
+        "mother": 0.000777000777000777, 
+        "mother.": 0.000777000777000777, 
+        "moved": 0.000777000777000777, 
+        "mucous": 0.000777000777000777, 
+        "murmurs": 0.000777000777000777, 
+        "nebs": 0.000777000777000777, 
+        "nerves": 0.000777000777000777, 
+        "neuropathy": 0.000777000777000777, 
+        "new": 0.000777000777000777, 
+        "no": 0.006216006216006216, 
+        "noncompliance": 0.000777000777000777, 
+        "nondistended": 0.000777000777000777, 
+        "nonerythematous": 0.000777000777000777, 
+        "nonfixed": 0.000777000777000777, 
+        "nontender": 0.000777000777000777, 
+        "not": 0.001554001554001554, 
+        "noted": 0.000777000777000777, 
+        "noticed": 0.000777000777000777, 
+        "of": 0.022533022533022532, 
+        "on": 0.010878010878010878, 
+        "one": 0.003108003108003108, 
+        "onset": 0.000777000777000777, 
+        "optimized": 0.000777000777000777, 
+        "or": 0.003108003108003108, 
+        "oriented": 0.000777000777000777, 
+        "original": 0.000777000777000777, 
+        "out": 0.000777000777000777, 
+        "outpatient": 0.001554001554001554, 
+        "ovarian": 0.001554001554001554, 
+        "over": 0.000777000777000777, 
+        "overload.": 0.000777000777000777, 
+        "oxygen": 0.000777000777000777, 
+        "p.o.q.d.": 0.000777000777000777, 
+        "pack": 0.000777000777000777, 
+        "pain": 0.000777000777000777, 
+        "palpable": 0.001554001554001554, 
+        "palpable.": 0.000777000777000777, 
+        "past": 0.001554001554001554, 
+        "paternal": 0.000777000777000777, 
+        "patient": 0.002331002331002331, 
+        "penicillin": 0.000777000777000777, 
+        "pepto": 0.000777000777000777, 
+        "per": 0.000777000777000777, 
+        "perfusion": 0.000777000777000777, 
+        "peripheral": 0.000777000777000777, 
+        "persisted": 0.000777000777000777, 
+        "physician": 0.001554001554001554, 
+        "placed": 0.001554001554001554, 
+        "plan": 0.002331002331002331, 
+        "planning.": 0.000777000777000777, 
+        "plus/minus": 0.000777000777000777, 
+        "polydipsia": 0.000777000777000777, 
+        "polyuria": 0.000777000777000777, 
+        "poorly": 0.001554001554001554, 
+        "positive": 0.001554001554001554, 
+        "post": 0.005439005439005439, 
+        "pound": 0.000777000777000777, 
+        "pregnancy": 0.000777000777000777, 
+        "prescribed": 0.000777000777000777, 
+        "presents": 0.000777000777000777, 
+        "pressure": 0.002331002331002331, 
+        "primary": 0.000777000777000777, 
+        "prior": 0.001554001554001554, 
+        "protocol": 0.000777000777000777, 
+        "pulmonary": 0.003108003108003108, 
+        "pulses": 0.000777000777000777, 
+        "q.d.": 0.000777000777000777, 
+        "q.d.;": 0.004662004662004662, 
+        "q.i.d.;": 0.000777000777000777, 
+        "question": 0.000777000777000777, 
+        "rate": 0.000777000777000777, 
+        "received": 0.001554001554001554, 
+        "recent": 0.000777000777000777, 
+        "recently": 0.000777000777000777, 
+        "recommended": 0.000777000777000777, 
+        "recurrent": 0.000777000777000777, 
+        "refill.": 0.000777000777000777, 
+        "regimen.": 0.000777000777000777, 
+        "respirations": 0.000777000777000777, 
+        "response": 0.000777000777000777, 
+        "restricted": 0.000777000777000777, 
+        "returned": 0.002331002331002331, 
+        "revealed": 0.003885003885003885, 
+        "reversible": 0.000777000777000777, 
+        "room": 0.000777000777000777, 
+        "rubs": 0.000777000777000777, 
+        "rule": 0.000777000777000777, 
+        "salt": 0.000777000777000777, 
+        "same": 0.000777000777000777, 
+        "saturation": 0.000777000777000777, 
+        "scale": 0.000777000777000777, 
+        "second": 0.000777000777000777, 
+        "seen": 0.000777000777000777, 
+        "sensation": 0.000777000777000777, 
+        "setting": 0.000777000777000777, 
+        "severe": 0.002331002331002331, 
+        "she": 0.005439005439005439, 
+        "shortness": 0.001554001554001554, 
+        "show": 0.000777000777000777, 
+        "showed": 0.001554001554001554, 
+        "signs": 0.000777000777000777, 
+        "similar": 0.000777000777000777, 
+        "simvastatin": 0.001554001554001554, 
+        "sister": 0.000777000777000777, 
+        "six": 0.000777000777000777, 
+        "sliding": 0.000777000777000777, 
+        "small": 0.001554001554001554, 
+        "smoker": 0.000777000777000777, 
+        "smoking.": 0.000777000777000777, 
+        "so": 0.000777000777000777, 
+        "some": 0.000777000777000777, 
+        "sort": 0.000777000777000777, 
+        "sounds": 0.000777000777000777, 
+        "stabilized.": 0.000777000777000777, 
+        "stairs.": 0.000777000777000777, 
+        "started": 0.001554001554001554, 
+        "status": 0.005439005439005439, 
+        "stenosis": 0.001554001554001554, 
+        "stick": 0.000777000777000777, 
+        "sticks": 0.000777000777000777, 
+        "strength": 0.000777000777000777, 
+        "stress": 0.000777000777000777, 
+        "subcu": 0.000777000777000777, 
+        "subcu.": 0.000777000777000777, 
+        "subjective": 0.000777000777000777, 
+        "subsequent": 0.000777000777000777, 
+        "sugars": 0.001554001554001554, 
+        "surgery": 0.001554001554001554, 
+        "symptoms": 0.001554001554001554, 
+        "systemic": 0.000777000777000777, 
+        "systolic": 0.001554001554001554, 
+        "temperature": 0.000777000777000777, 
+        "ten-day": 0.000777000777000777, 
+        "tender": 0.000777000777000777, 
+        "test": 0.000777000777000777, 
+        "than": 0.000777000777000777, 
+        "that": 0.003108003108003108, 
+        "the": 0.020202020202020204, 
+        "then": 0.000777000777000777, 
+        "they": 0.000777000777000777, 
+        "thigh": 0.000777000777000777, 
+        "this": 0.001554001554001554, 
+        "though": 0.001554001554001554, 
+        "thought": 0.000777000777000777, 
+        "three": 0.000777000777000777, 
+        "throughout": 0.000777000777000777, 
+        "thyroid": 0.000777000777000777, 
+        "time": 0.001554001554001554, 
+        "titration": 0.000777000777000777, 
+        "to": 0.017871017871017872, 
+        "trace": 0.000777000777000777, 
+        "transitioned": 0.000777000777000777, 
+        "turning": 0.000777000777000777, 
+        "two": 0.001554001554001554, 
+        "ultimately": 0.000777000777000777, 
+        "underwear": 0.000777000777000777, 
+        "underwent": 0.001554001554001554, 
+        "unit": 0.000777000777000777, 
+        "units": 0.003108003108003108, 
+        "until": 0.000777000777000777, 
+        "up": 0.003108003108003108, 
+        "upper": 0.002331002331002331, 
+        "upward": 0.000777000777000777, 
+        "use.": 0.000777000777000777, 
+        "vaginal": 0.000777000777000777, 
+        "vessel": 0.000777000777000777, 
+        "volume": 0.000777000777000777, 
+        "vulvar": 0.003108003108003108, 
+        "warm": 0.000777000777000777, 
+        "was": 0.012432012432012432, 
+        "wedge": 0.001554001554001554, 
+        "week": 0.000777000777000777, 
+        "week.": 0.000777000777000777, 
+        "weeks.": 0.000777000777000777, 
+        "weight": 0.000777000777000777, 
+        "were": 0.003108003108003108, 
+        "when": 0.000777000777000777, 
+        "which": 0.006993006993006993, 
+        "white": 0.000777000777000777, 
+        "with": 0.018648018648018648, 
+        "within": 0.000777000777000777, 
+        "without": 0.000777000777000777, 
+        "woman": 0.001554001554001554, 
+        "workup": 0.000777000777000777, 
+        "x": 0.003108003108003108, 
+        "x-ray": 0.000777000777000777, 
+        "years": 0.000777000777000777, 
+        "|": 0.006993006993006993
+    }
+}

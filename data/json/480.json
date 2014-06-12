@@ -1,0 +1,2861 @@
+{
+    "bi": {
+        "(": {
+            "11.7": 0.5, 
+            "positive": 0.5
+        }, 
+        ").": {
+            "0-9": 0.5, 
+            "infection": 0.5
+        }, 
+        ",": {
+            "103": 0.034482758620689655, 
+            "AFP": 0.034482758620689655, 
+            "ATTKISSON": 0.034482758620689655, 
+            "DENZINE": 0.034482758620689655, 
+            "ago": 0.034482758620689655, 
+            "antrum": 0.034482758620689655, 
+            "arthralgias": 0.034482758620689655, 
+            "clubbing": 0.034482758620689655, 
+            "cough": 0.034482758620689655, 
+            "days": 0.034482758620689655, 
+            "distention": 0.034482758620689655, 
+            "edema": 0.034482758620689655, 
+            "fevers": 0.034482758620689655, 
+            "fibrosis": 0.034482758620689655, 
+            "gastritis": 0.034482758620689655, 
+            "hCG": 0.034482758620689655, 
+            "immune": 0.034482758620689655, 
+            "murmurs": 0.034482758620689655, 
+            "myalgias": 0.034482758620689655, 
+            "negative": 0.1724137931034483, 
+            "nodes": 0.06896551724137931, 
+            "positive": 0.034482758620689655, 
+            "sounds": 0.034482758620689655, 
+            "tenderness": 0.034482758620689655
+        }, 
+        "0-9": {
+            "is": 1.0
+        }, 
+        "1/2/1991": {
+            "Date:": 1.0
+        }, 
+        "10/11": {
+            "on": 1.0
+        }, 
+        "10/11/1991": {
+            "Date:": 0.5, 
+            "|": 0.5
+        }, 
+        "102": {
+            "to": 1.0
+        }, 
+        "103": {
+            "or": 1.0
+        }, 
+        "103.4.": {
+            "of": 1.0
+        }, 
+        "11.7": {
+            "was": 1.0
+        }, 
+        "12": {
+            "Approximately": 1.0
+        }, 
+        "12/10/91": {
+            "on": 1.0
+        }, 
+        "12:00:00": {
+            "10/11/1991": 1.0
+        }, 
+        "163702": {
+            "|": 1.0
+        }, 
+        "2.5": {
+            "of": 1.0
+        }, 
+        "21079329": {
+            "|": 1.0
+        }, 
+        "310823285": {
+            "": 1.0
+        }, 
+        "4.5.": {
+            "was": 1.0
+        }, 
+        "4/1/91": {
+            "T:": 1.0
+        }, 
+        "43-year-old": {
+            "a": 1.0
+        }, 
+        "6862": {
+            "Batch:": 1.0
+        }, 
+        "8/5/91": {
+            "D:": 1.0
+        }, 
+        "A": {
+            "hepatitis": 1.0
+        }, 
+        "A7777K41": {
+            "Report:": 1.0
+        }, 
+        "AFP": {
+            "normal.": 1.0
+        }, 
+        "ALLERGIES:": {
+            "negative.": 1.0
+        }, 
+        "AM": {
+            "12:00:00": 1.0
+        }, 
+        "ANA": {
+            "an": 1.0
+        }, 
+        "ATTKISSON": {
+            "M.": 1.0
+        }, 
+        "Abdomen": {
+            "gallops.": 1.0
+        }, 
+        "Abdominal": {
+            "masses.": 1.0
+        }, 
+        "Admission": {
+            "|": 1.0
+        }, 
+        "Approximately": {
+            "fever.": 1.0
+        }, 
+        "B-12": {
+            "negative.": 1.0
+        }, 
+        "Batch:": {
+            "8/5/91": 1.0
+        }, 
+        "By:": {
+            "Dictated": 1.0
+        }, 
+        "C": {
+            "Hepatitis": 1.0
+        }, 
+        "CEA": {
+            ",": 1.0
+        }, 
+        "CMV": {
+            ",": 1.0
+        }, 
+        "COURSE:": {
+            "HOSPITAL": 1.0
+        }, 
+        "CT": {
+            "Pelvic": 0.3333333333333333, 
+            "chest": 0.3333333333333333, 
+            "negative.": 0.3333333333333333
+        }, 
+        "Cardiac": {
+            "lymphadenopathy.": 1.0
+        }, 
+        "Chest": {
+            "cecum.": 1.0
+        }, 
+        "D:": {
+            "QP2": 1.0
+        }, 
+        "DENZINE": {
+            "ISMAEL": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "PRINCIPAL": 1.0
+        }, 
+        "DIS": {
+            "|": 1.0
+        }, 
+        "Dallmann": {
+            "Dr.": 1.0
+        }, 
+        "Date:": {
+            "Admission": 0.5, 
+            "Discharge": 0.5
+        }, 
+        "Dell": {
+            "Un": 1.0
+        }, 
+        "Dictated": {
+            "4/1/91": 1.0
+        }, 
+        "Discharge": {
+            "Signed": 0.5, 
+            "|": 0.5
+        }, 
+        "Disease": {
+            "Infectious": 1.0
+        }, 
+        "Dr.": {
+            "with": 1.0
+        }, 
+        "EXAMINATION:": {
+            "PHYSICAL": 1.0
+        }, 
+        "Endoscopy": {
+            "gastritis.": 1.0
+        }, 
+        "Extremities": {
+            "lymphadenopathy.": 1.0
+        }, 
+        "FUO": {
+            "an": 1.0
+        }, 
+        "GI": {
+            "Upper": 1.0
+        }, 
+        "HEENT": {
+            "103.4.": 1.0
+        }, 
+        "HHS": {
+            "|": 1.0
+        }, 
+        "HISTORY": {
+            "LYMPHOMA.": 1.0
+        }, 
+        "HIV": {
+            "cough.": 0.5, 
+            "normal.": 0.5
+        }, 
+        "HOSPITAL": {
+            "deferred.": 1.0
+        }, 
+        "HSV": {
+            ",": 1.0
+        }, 
+        "He": {
+            "again.": 0.16666666666666666, 
+            "constipated.": 0.16666666666666666, 
+            "extensive.": 0.16666666666666666, 
+            "received.": 0.16666666666666666, 
+            "week.": 0.16666666666666666, 
+            "work-up.": 0.16666666666666666
+        }, 
+        "Hematology": {
+            "and": 1.0
+        }, 
+        "Hepatitis": {
+            "4.5.": 1.0
+        }, 
+        "Hodgkin's": {
+            "with": 1.0
+        }, 
+        "Hospital": {
+            "Memorial": 1.0
+        }, 
+        "ILLNESS:": {
+            "PRESENT": 1.0
+        }, 
+        "ISMAEL": {
+            "KEVEN": 1.0
+        }, 
+        "IgG": {
+            "A": 1.0
+        }, 
+        "IgM": {
+            "A": 1.0
+        }, 
+        "Infectious": {
+            "both": 1.0
+        }, 
+        "KEVEN": {
+            "WF632/7018": 1.0
+        }, 
+        "LYMPHOMA.": {
+            "DIAGNOSIS:": 1.0
+        }, 
+        "Lungs": {
+            "limits.": 1.0
+        }, 
+        "Lyme": {
+            ").": 0.5, 
+            "negative.": 0.5
+        }, 
+        "M.": {
+            "MALIK": 1.0
+        }, 
+        "M.D.": {
+            ",": 1.0
+        }, 
+        "MALIK": {
+            "By:": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "PENICILLIN.": 1.0
+        }, 
+        "Malaria": {
+            "negative.": 1.0
+        }, 
+        "Memorial": {
+            "Nimay": 1.0
+        }, 
+        "Multiple": {
+            "negative.": 1.0
+        }, 
+        "Neck": {
+            "clear.": 1.0
+        }, 
+        "Neurological": {
+            "planus.": 1.0
+        }, 
+        "Nimay": {
+            "Dell": 1.0
+        }, 
+        "OF": {
+            "HISTORY": 1.0
+        }, 
+        "On": {
+            "EXAMINATION:": 0.5, 
+            "MEDICATIONS:": 0.5
+        }, 
+        "Oncology": {
+            "Hematology": 1.0
+        }, 
+        "PENICILLIN.": {
+            "ALLERGIES:": 1.0
+        }, 
+        "PHYSICAL": {
+            "Percocet.": 1.0
+        }, 
+        "PPD": {
+            ").": 1.0
+        }, 
+        "PRESENT": {
+            "OF": 1.0
+        }, 
+        "PRINCIPAL": {
+            "10/11/1991": 1.0
+        }, 
+        "Pelvic": {
+            "cysts.": 1.0
+        }, 
+        "Percocet.": {
+            "and": 1.0
+        }, 
+        "QP2": {
+            "M.D.": 1.0
+        }, 
+        "RPR": {
+            ",": 1.0
+        }, 
+        "Rectal": {
+            "nonfocal.": 1.0
+        }, 
+        "Report": {
+            "1/2/1991": 1.0
+        }, 
+        "Report:": {
+            "6862": 1.0
+        }, 
+        "Rheumatoid": {
+            "negative.": 1.0
+        }, 
+        "SH": {
+            "with": 1.0
+        }, 
+        "SPEP": {
+            "negative.": 1.0
+        }, 
+        "Serology": {
+            "malignancy.": 1.0
+        }, 
+        "Service": {
+            "Disease": 1.0
+        }, 
+        "Service.": {
+            "Oncology": 1.0
+        }, 
+        "Signed": {
+            "Status:": 0.5, 
+            "|": 0.5
+        }, 
+        "Status:": {
+            "Report": 1.0
+        }, 
+        "Summary": {
+            "Discharge": 1.0
+        }, 
+        "T:": {
+            "A7777K41": 1.0
+        }, 
+        "Testicular": {
+            "normal.": 1.0
+        }, 
+        "The": {
+            "COURSE:": 0.14285714285714285, 
+            "ILLNESS:": 0.14285714285714285, 
+            "Service.": 0.14285714285714285, 
+            "cm.": 0.14285714285714285, 
+            "marrow.": 0.14285714285714285, 
+            "node.": 0.14285714285714285, 
+            "pain.": 0.14285714285714285
+        }, 
+        "There": {
+            "chills.": 0.5, 
+            "edge.": 0.5
+        }, 
+        "This": {
+            "work-up.": 1.0
+        }, 
+        "Toxo": {
+            ",": 1.0
+        }, 
+        "Tylenol": {
+            "included": 1.0
+        }, 
+        "Un": {
+            "to": 1.0
+        }, 
+        "Upper": {
+            "aorta.": 1.0
+        }, 
+        "WF632/7018": {
+            "basis.": 1.0
+        }, 
+        "Work-up": {
+            "negative.": 1.0
+        }, 
+        "a": {
+            ",": 0.125, 
+            "for": 0.125, 
+            "had": 0.125, 
+            "is": 0.125, 
+            "noted": 0.125, 
+            "revealed": 0.25, 
+            "with": 0.125
+        }, 
+        "abdomen": {
+            "the": 1.0
+        }, 
+        "abdominal": {
+            "an": 0.5, 
+            "diffuse": 0.5
+        }, 
+        "admission": {
+            "On": 1.0
+        }, 
+        "admitted": {
+            "recently": 0.3333333333333333, 
+            "was": 0.6666666666666666
+        }, 
+        "afebrile": {
+            "after": 1.0
+        }, 
+        "after": {
+            "ago": 1.0
+        }, 
+        "again.": {
+            "fevers": 1.0
+        }, 
+        "ago": {
+            "days": 0.3333333333333333, 
+            "weeks": 0.6666666666666666
+        }, 
+        "all": {
+            "cultures": 1.0
+        }, 
+        "also": {
+            "He": 1.0
+        }, 
+        "an": {
+            "had": 0.25, 
+            "on": 0.25, 
+            "showed": 0.25, 
+            "with": 0.25
+        }, 
+        "and": {
+            "B-12": 0.07142857142857142, 
+            "Service": 0.07142857142857142, 
+            "Tylenol": 0.07142857142857142, 
+            "abdomen": 0.07142857142857142, 
+            "ago": 0.07142857142857142, 
+            "blood": 0.07142857142857142, 
+            "defervesced": 0.07142857142857142, 
+            "deposits": 0.07142857142857142, 
+            "diagnosis": 0.07142857142857142, 
+            "fevers": 0.07142857142857142, 
+            "gas": 0.07142857142857142, 
+            "nausea": 0.07142857142857142, 
+            "rate": 0.07142857142857142, 
+            "sweats": 0.07142857142857142
+        }, 
+        "aneurysm": {
+            "aortic": 1.0
+        }, 
+        "antibody": {
+            "IgG": 0.5, 
+            "IgM": 0.5
+        }, 
+        "antigen": {
+            "surface": 1.0
+        }, 
+        "antrum": {
+            "gastric": 1.0
+        }, 
+        "aorta.": {
+            "ectatic": 1.0
+        }, 
+        "aortic": {
+            "abdominal": 1.0
+        }, 
+        "artery": {
+            "coronary": 1.0
+        }, 
+        "arthralgias": {
+            ",": 1.0
+        }, 
+        "at": {
+            "admitted": 1.0
+        }, 
+        "atypical": {
+            "large": 1.0
+        }, 
+        "basis.": {
+            "outpatient": 1.0
+        }, 
+        "been": {
+            "has": 1.0
+        }, 
+        "began": {
+            "he": 1.0
+        }, 
+        "beta": {
+            ",": 1.0
+        }, 
+        "biliary": {
+            "or": 1.0
+        }, 
+        "biopsy": {
+            "marrow": 0.6666666666666666, 
+            "with": 0.3333333333333333
+        }, 
+        "blood": {
+            "Multiple": 1.0
+        }, 
+        "bone": {
+            "a": 0.3333333333333333, 
+            "the": 0.6666666666666666
+        }, 
+        "both": {
+            "by": 1.0
+        }, 
+        "bowel": {
+            "positive": 1.0
+        }, 
+        "but": {
+            "dilatation": 1.0
+        }, 
+        "by": {
+            "seen": 1.0
+        }, 
+        "calcium": {
+            "artery": 1.0
+        }, 
+        "cecum.": {
+            "second": 1.0
+        }, 
+        "cells": {
+            "atypical": 1.0
+        }, 
+        "change": {
+            "no": 1.0
+        }, 
+        "chest": {
+            "included": 1.0
+        }, 
+        "chills.": {
+            "and": 1.0
+        }, 
+        "clear.": {
+            "were": 1.0
+        }, 
+        "clubbing": {
+            "no": 1.0
+        }, 
+        "cm.": {
+            "2.5": 1.0
+        }, 
+        "consistent": {
+            "picture": 1.0
+        }, 
+        "constipated.": {
+            "been": 1.0
+        }, 
+        "coronary": {
+            ",": 1.0
+        }, 
+        "cough": {
+            "nonproductive": 1.0
+        }, 
+        "cough.": {
+            "productive": 1.0
+        }, 
+        "cultures": {
+            "urine": 1.0
+        }, 
+        "cyanosis": {
+            ",": 1.0
+        }, 
+        "cysts.": {
+            "liver": 1.0
+        }, 
+        "day": {
+            "the": 1.0
+        }, 
+        "days": {
+            "afebrile": 0.5, 
+            "five": 0.5
+        }, 
+        "deferred.": {
+            "was": 1.0
+        }, 
+        "defervesced": {
+            "had": 1.0
+        }, 
+        "deposits": {
+            "calcium": 1.0
+        }, 
+        "diagnosis": {
+            "the": 1.0
+        }, 
+        "diaphragmatic": {
+            "enlarged": 1.0
+        }, 
+        "diffuse": {
+            "some": 1.0
+        }, 
+        "dilatation": {
+            "duct": 1.0
+        }, 
+        "discharge": {
+            "for": 1.0
+        }, 
+        "discharged": {
+            "was": 1.0
+        }, 
+        "disease": {
+            "Hodgkin's": 1.0
+        }, 
+        "distention": {
+            "venous": 1.0
+        }, 
+        "done": {
+            "pelvis": 1.0
+        }, 
+        "duct": {
+            "biliary": 1.0
+        }, 
+        "during": {
+            "vomiting": 1.0
+        }, 
+        "ectatic": {
+            "with": 1.0
+        }, 
+        "edema": {
+            "or": 1.0
+        }, 
+        "edge.": {
+            "liver": 1.0
+        }, 
+        "enlarged": {
+            "question": 0.5, 
+            "revealed": 0.5
+        }, 
+        "episodes": {
+            "febrile": 0.5, 
+            "three": 0.5
+        }, 
+        "essentially": {
+            "showed": 1.0
+        }, 
+        "evidence": {
+            "no": 1.0
+        }, 
+        "exam": {
+            "Cardiac": 0.25, 
+            "HEENT": 0.25, 
+            "Neurological": 0.25, 
+            "Rectal": 0.25
+        }, 
+        "extensive.": {
+            "fairly": 1.0
+        }, 
+        "external": {
+            "left": 1.0
+        }, 
+        "factor": {
+            "Rheumatoid": 1.0
+        }, 
+        "factors": {
+            "risk": 1.0
+        }, 
+        "fairly": {
+            "been": 1.0
+        }, 
+        "febrile": {
+            "the": 1.0
+        }, 
+        "fever.": {
+            "of": 1.0
+        }, 
+        "fevers": {
+            "having": 0.3333333333333333, 
+            "of": 0.3333333333333333, 
+            "recurrent": 0.3333333333333333
+        }, 
+        "fibrosis": {
+            "with": 1.0
+        }, 
+        "five": {
+            "and": 1.0
+        }, 
+        "focal": {
+            "question": 1.0
+        }, 
+        "folate": {
+            "and": 1.0
+        }, 
+        "follow-up": {
+            "to": 1.0
+        }, 
+        "for": {
+            "12/10/91": 0.2, 
+            "admitted": 0.2, 
+            "negative": 0.2, 
+            "scheduled": 0.2, 
+            "time": 0.2
+        }, 
+        "from": {
+            "discharged": 1.0
+        }, 
+        "further": {
+            "for": 1.0
+        }, 
+        "gallops.": {
+            "or": 1.0
+        }, 
+        "gallstones": {
+            "for": 1.0
+        }, 
+        "gas": {
+            "passing": 1.0
+        }, 
+        "gastric": {
+            "the": 1.0
+        }, 
+        "gastritis": {
+            "revealed": 1.0
+        }, 
+        "gastritis.": {
+            "focal": 1.0
+        }, 
+        "hCG": {
+            "beta": 1.0
+        }, 
+        "had": {
+            "has": 0.4, 
+            "patient": 0.6
+        }, 
+        "has": {
+            "He": 0.3333333333333333, 
+            "Work-up": 0.16666666666666666, 
+            "and": 0.16666666666666666, 
+            "patient": 0.16666666666666666, 
+            "work-up": 0.16666666666666666
+        }, 
+        "having": {
+            "began": 1.0
+        }, 
+        "he": {
+            ",": 1.0
+        }, 
+        "hepatitis": {
+            ",": 0.6666666666666666, 
+            "revealed": 0.3333333333333333
+        }, 
+        "hospital": {
+            "the": 1.0
+        }, 
+        "immune": {
+            "rubella": 1.0
+        }, 
+        "in": {
+            "episodes": 1.0
+        }, 
+        "included": {
+            "admission": 0.5, 
+            "has": 0.5
+        }, 
+        "increased": {
+            "possible": 1.0
+        }, 
+        "infection": {
+            "old": 1.0
+        }, 
+        "infiltrating": {
+            "cells": 1.0
+        }, 
+        "informed": {
+            "was": 1.0
+        }, 
+        "inguinal": {
+            "external": 0.5, 
+            "positive": 0.5
+        }, 
+        "intermittent": {
+            ",": 1.0
+        }, 
+        "involving": {
+            "disease": 1.0
+        }, 
+        "is": {
+            "and": 0.3333333333333333, 
+            "normal": 0.3333333333333333, 
+            "patient": 0.3333333333333333
+        }, 
+        "jugular": {
+            "no": 1.0
+        }, 
+        "large": {
+            "showed": 1.0
+        }, 
+        "last": {
+            "the": 1.0
+        }, 
+        "left": {
+            "the": 1.0
+        }, 
+        "lichen": {
+            "positive": 1.0
+        }, 
+        "limits.": {
+            "normal": 1.0
+        }, 
+        "liver": {
+            "enlarged": 0.5, 
+            "small": 0.5
+        }, 
+        "lymph": {
+            "diaphragmatic": 0.3333333333333333, 
+            "inguinal": 0.3333333333333333, 
+            "retroperitoneal": 0.3333333333333333
+        }, 
+        "lymphadenopathy": {
+            "retroperitoneal": 1.0
+        }, 
+        "lymphadenopathy.": {
+            "inguinal": 0.5, 
+            "shotty": 0.5
+        }, 
+        "malignancy.": {
+            "of": 1.0
+        }, 
+        "marrow": {
+            "bone": 1.0
+        }, 
+        "marrow.": {
+            "bone": 1.0
+        }, 
+        "masses.": {
+            "no": 1.0
+        }, 
+        "mild": {
+            "some": 1.0
+        }, 
+        "mucosa": {
+            "the": 1.0
+        }, 
+        "multiple": {
+            "with": 1.0
+        }, 
+        "murmurs": {
+            "without": 1.0
+        }, 
+        "myalgias": {
+            ",": 1.0
+        }, 
+        "nausea": {
+            "of": 1.0
+        }, 
+        "negative": {
+            "CMV": 0.16666666666666666, 
+            "RPR": 0.16666666666666666, 
+            "Toxo": 0.16666666666666666, 
+            "antibody": 0.16666666666666666, 
+            "antigen": 0.16666666666666666, 
+            "was": 0.16666666666666666
+        }, 
+        "negative.": {
+            "CEA": 0.1111111111111111, 
+            "all": 0.1111111111111111, 
+            "was": 0.5555555555555556, 
+            "were": 0.2222222222222222
+        }, 
+        "no": {
+            ",": 0.2, 
+            "essentially": 0.2, 
+            "revealed": 0.4, 
+            "with": 0.2
+        }, 
+        "node.": {
+            "lymph": 1.0
+        }, 
+        "nodes": {
+            "lymph": 1.0
+        }, 
+        "nodularity": {
+            "revealed": 1.0
+        }, 
+        "nonfocal.": {
+            "was": 1.0
+        }, 
+        "nonproductive": {
+            ",": 1.0
+        }, 
+        "normal": {
+            "(": 0.3333333333333333, 
+            "was": 0.3333333333333333, 
+            "within": 0.3333333333333333
+        }, 
+        "normal.": {
+            "SPEP": 0.3333333333333333, 
+            "was": 0.3333333333333333, 
+            "were": 0.3333333333333333
+        }, 
+        "noted": {
+            "also": 0.5, 
+            "patient": 0.5
+        }, 
+        "of": {
+            "aneurysm": 0.1, 
+            "episodes": 0.1, 
+            "evidence": 0.1, 
+            "informed": 0.1, 
+            "onset": 0.1, 
+            "scan": 0.1, 
+            "size": 0.1, 
+            "temperature": 0.1, 
+            "ultrasound": 0.1, 
+            "work-up": 0.1
+        }, 
+        "old": {
+            "(": 1.0
+        }, 
+        "on": {
+            "Dallmann": 0.25, 
+            "Hospital": 0.25, 
+            "discharge": 0.25, 
+            "done": 0.25
+        }, 
+        "onset": {
+            "the": 1.0
+        }, 
+        "or": {
+            "102": 0.25, 
+            "cyanosis": 0.25, 
+            "gallstones": 0.25, 
+            "rubs": 0.25
+        }, 
+        "outpatient": {
+            "an": 1.0
+        }, 
+        "pain.": {
+            "abdominal": 1.0
+        }, 
+        "passing": {
+            "been": 1.0
+        }, 
+        "patient": {
+            "The": 0.8571428571428571, 
+            "the": 0.14285714285714285
+        }, 
+        "pelvis": {
+            "and": 1.0
+        }, 
+        "picture": {
+            "a": 1.0
+        }, 
+        "planus.": {
+            "lichen": 1.0
+        }, 
+        "positive": {
+            ",": 0.2, 
+            "HSV": 0.2, 
+            "antibody": 0.2, 
+            "revealed": 0.2, 
+            "was": 0.2
+        }, 
+        "possible": {
+            ",": 1.0
+        }, 
+        "productive": {
+            "a": 1.0
+        }, 
+        "question": {
+            ",": 1.0
+        }, 
+        "rate": {
+            "regular": 1.0
+        }, 
+        "received.": {
+            "were": 1.0
+        }, 
+        "recently": {
+            "FUO": 1.0
+        }, 
+        "recurrent": {
+            "had": 1.0
+        }, 
+        "regular": {
+            "a": 1.0
+        }, 
+        "results": {
+            "biopsy": 1.0
+        }, 
+        "retroperitoneal": {
+            "multiple": 0.5, 
+            "revealed": 0.5
+        }, 
+        "revealed": {
+            "Abdomen": 0.1, 
+            "CT": 0.1, 
+            "Extremities": 0.1, 
+            "Serology": 0.1, 
+            "admission": 0.1, 
+            "biopsy": 0.1, 
+            "exam": 0.1, 
+            "series": 0.1, 
+            "ultrasound": 0.1, 
+            "which": 0.1
+        }, 
+        "rhythm": {
+            "and": 1.0
+        }, 
+        "risk": {
+            "HIV": 1.0
+        }, 
+        "rubella": {
+            ",": 1.0
+        }, 
+        "rubs": {
+            ",": 1.0
+        }, 
+        "scan": {
+            "CT": 1.0
+        }, 
+        "scheduled": {
+            "was": 1.0
+        }, 
+        "screens": {
+            "Malaria": 1.0
+        }, 
+        "second": {
+            "a": 1.0
+        }, 
+        "seen": {
+            "was": 1.0
+        }, 
+        "series": {
+            "GI": 1.0
+        }, 
+        "shotty": {
+            "some": 1.0
+        }, 
+        "showed": {
+            "10/11": 0.3333333333333333, 
+            "but": 0.3333333333333333, 
+            "which": 0.3333333333333333
+        }, 
+        "size": {
+            "increased": 1.0
+        }, 
+        "small": {
+            "two": 1.0
+        }, 
+        "some": {
+            ",": 0.3333333333333333, 
+            "was": 0.6666666666666666
+        }, 
+        "sounds": {
+            "bowel": 1.0
+        }, 
+        "supple": {
+            "was": 1.0
+        }, 
+        "surface": {
+            "hepatitis": 1.0
+        }, 
+        "sweats": {
+            ",": 1.0
+        }, 
+        "temperature": {
+            "a": 1.0
+        }, 
+        "tenderness": {
+            "mild": 1.0
+        }, 
+        "the": {
+            ",": 0.07142857142857142, 
+            "during": 0.07142857142857142, 
+            "from": 0.07142857142857142, 
+            "in": 0.07142857142857142, 
+            "involving": 0.07142857142857142, 
+            "noted": 0.07142857142857142, 
+            "of": 0.2857142857142857, 
+            "on": 0.07142857142857142, 
+            "to": 0.07142857142857142, 
+            "which": 0.07142857142857142, 
+            "within": 0.07142857142857142
+        }, 
+        "there": {
+            ",": 1.0
+        }, 
+        "this": {
+            "at": 1.0
+        }, 
+        "three": {
+            "had": 1.0
+        }, 
+        "time": {
+            "this": 1.0
+        }, 
+        "titer": {
+            "Lyme": 1.0
+        }, 
+        "to": {
+            "admitted": 0.25, 
+            "intermittent": 0.25, 
+            "is": 0.25, 
+            "nodularity": 0.25
+        }, 
+        "together": {
+            "This": 1.0
+        }, 
+        "two": {
+            "and": 0.5, 
+            "hospital": 0.5
+        }, 
+        "ultrasound": {
+            "Abdominal": 0.3333333333333333, 
+            "Testicular": 0.3333333333333333, 
+            "The": 0.3333333333333333
+        }, 
+        "urine": {
+            "and": 1.0
+        }, 
+        "venous": {
+            "jugular": 1.0
+        }, 
+        "vomiting": {
+            "and": 1.0
+        }, 
+        "was": {
+            "C": 0.043478260869565216, 
+            "HIV": 0.043478260869565216, 
+            "He": 0.13043478260869565, 
+            "Neck": 0.043478260869565216, 
+            "PPD": 0.043478260869565216, 
+            "There": 0.08695652173913043, 
+            "abdomen": 0.043478260869565216, 
+            "and": 0.08695652173913043, 
+            "exam": 0.13043478260869565, 
+            "factor": 0.043478260869565216, 
+            "patient": 0.043478260869565216, 
+            "there": 0.043478260869565216, 
+            "titer": 0.08695652173913043, 
+            "ultrasound": 0.043478260869565216, 
+            "which": 0.043478260869565216, 
+            "x-ray": 0.043478260869565216
+        }, 
+        "week.": {
+            "last": 1.0
+        }, 
+        "weeks": {
+            "12": 0.5, 
+            "two": 0.5
+        }, 
+        "were": {
+            "Lungs": 0.2, 
+            "factors": 0.2, 
+            "folate": 0.2, 
+            "results": 0.2, 
+            "screens": 0.2
+        }, 
+        "which": {
+            "ANA": 0.25, 
+            "CT": 0.25, 
+            "biopsy": 0.25, 
+            "day": 0.25
+        }, 
+        "with": {
+            "43-year-old": 0.1, 
+            "Endoscopy": 0.1, 
+            "change": 0.1, 
+            "consistent": 0.1, 
+            "follow-up": 0.1, 
+            "infiltrating": 0.1, 
+            "lymphadenopathy": 0.1, 
+            "normal": 0.1, 
+            "supple": 0.1, 
+            "together": 0.1
+        }, 
+        "within": {
+            "mucosa": 0.5, 
+            "was": 0.5
+        }, 
+        "without": {
+            "rhythm": 1.0
+        }, 
+        "work-up": {
+            "SH": 0.5, 
+            "further": 0.5
+        }, 
+        "work-up.": {
+            "a": 0.5, 
+            "further": 0.5
+        }, 
+        "x-ray": {
+            "Chest": 1.0
+        }, 
+        "|": {
+            "163702": 0.1111111111111111, 
+            "21079329": 0.1111111111111111, 
+            "310823285": 0.1111111111111111, 
+            "AM": 0.1111111111111111, 
+            "DIS": 0.1111111111111111, 
+            "HHS": 0.1111111111111111, 
+            "Signed": 0.1111111111111111, 
+            "Summary": 0.1111111111111111, 
+            "|": 0.1111111111111111
+        }
+    }, 
+    "id": "480", 
+    "text": " 310823285 | HHS | 21079329 | | 163702 | 10/11/1991 12:00:00 AM | Discharge Summary | Signed | DIS | Admission Date: 1/2/1991 Report Status: Signed Discharge Date: 10/11/1991 PRINCIPAL DIAGNOSIS: LYMPHOMA. HISTORY OF PRESENT ILLNESS: The patient is a 43-year-old with an FUO recently admitted for further work-up of fever. Approximately 12 weeks ago , the patient noted the onset of fevers , intermittent to 102 or 103 , nonproductive cough , arthralgias , myalgias , sweats and chills. There was some diffuse abdominal pain. The patient has had recurrent fevers and was admitted to Un Dell Nimay Memorial Hospital on 12/10/91 for a work-up. This together with SH work-up has been fairly extensive. He was discharged from the hospital two weeks ago and five days ago after afebrile days , he began having fevers again. He was admitted at this time for further work-up. He has had three episodes of nausea and vomiting during the febrile episodes in the last week. He has been passing gas and has been constipated. He also noted a productive cough. HIV risk factors were negative. Work-up has included chest CT which revealed enlarged diaphragmatic lymph nodes , coronary artery calcium deposits and two small liver cysts. Pelvic CT revealed retroperitoneal lymphadenopathy with a second cecum. Chest x-ray was normal. Testicular ultrasound revealed no masses. Abdominal ultrasound was normal with ectatic aorta. Upper GI series revealed nodularity to the mucosa within the gastric antrum , question focal gastritis. Endoscopy with biopsy revealed gastritis , no evidence of malignancy. Serology revealed hepatitis A IgM antibody negative , hepatitis A IgG antibody positive , hepatitis surface antigen negative , rubella immune , RPR negative , Toxo negative , CMV negative , HSV positive ( old infection ). Lyme titer was 11.7 ( normal is 0-9 ). PPD was negative. SPEP normal. AFP , beta hCG , CEA negative. Malaria screens were negative. B-12 and folate were normal. HIV was negative. Multiple blood and urine cultures all negative. ALLERGIES: PENICILLIN. MEDICATIONS: On admission included Tylenol and Percocet. PHYSICAL EXAMINATION: On admission revealed a temperature of 103.4. HEENT exam was within normal limits. Lungs were clear. Neck was supple with no jugular venous distention , there was some shotty lymphadenopathy. Cardiac exam revealed a regular rate and rhythm without murmurs , rubs or gallops. Abdomen revealed positive bowel sounds , some mild tenderness , question enlarged liver edge. There was positive inguinal lymphadenopathy. Extremities revealed no clubbing , cyanosis or edema , positive lichen planus. Neurological exam was nonfocal. Rectal exam was deferred. HOSPITAL COURSE: The patient was seen by both Infectious Disease Service and Hematology Oncology Service. The patient had an ANA which was negative. Rheumatoid factor was negative. Lyme titer was 4.5. Hepatitis C was negative. CT scan of the abdomen and pelvis done on 10/11 showed essentially no change with multiple retroperitoneal lymph nodes , possible increased size of the left external inguinal lymph node. The ultrasound of the abdomen was negative for gallstones or biliary duct dilatation but showed an abdominal aortic aneurysm of 2.5 cm. The patient had a bone marrow biopsy which showed large atypical cells infiltrating with fibrosis , a picture consistent with Hodgkin's disease involving the bone marrow. The patient had defervesced and was scheduled for discharge on the day which the bone marrow biopsy results were received. He was informed of the diagnosis and is to follow-up with Dr. Dallmann on an outpatient basis. WF632/7018 KEVEN ISMAEL DENZINE , M.D. QP2 D: 8/5/91 Batch: 6862 Report: A7777K41 T: 4/1/91 Dictated By: MALIK M. ATTKISSON , M.D.", 
+    "tri": {
+        "(": {
+            "HSV~positive": 0.5, 
+            "was~11.7": 0.5
+        }, 
+        ").": {
+            "is~0-9": 0.5, 
+            "old~infection": 0.5
+        }, 
+        ",": {
+            ",~arthralgias": 0.034482758620689655, 
+            ",~myalgias": 0.034482758620689655, 
+            "CMV~negative": 0.034482758620689655, 
+            "ISMAEL~DENZINE": 0.034482758620689655, 
+            "M.~ATTKISSON": 0.034482758620689655, 
+            "RPR~negative": 0.034482758620689655, 
+            "Toxo~negative": 0.034482758620689655, 
+            "afebrile~days": 0.034482758620689655, 
+            "antibody~negative": 0.034482758620689655, 
+            "antibody~positive": 0.034482758620689655, 
+            "antigen~negative": 0.034482758620689655, 
+            "beta~hCG": 0.034482758620689655, 
+            "bowel~sounds": 0.034482758620689655, 
+            "gastric~antrum": 0.034482758620689655, 
+            "lymph~nodes": 0.06896551724137931, 
+            "mild~tenderness": 0.034482758620689655, 
+            "nonproductive~cough": 0.034482758620689655, 
+            "normal.~AFP": 0.034482758620689655, 
+            "no~clubbing": 0.034482758620689655, 
+            "of~fevers": 0.034482758620689655, 
+            "or~103": 0.034482758620689655, 
+            "or~edema": 0.034482758620689655, 
+            "revealed~gastritis": 0.034482758620689655, 
+            "rubella~immune": 0.034482758620689655, 
+            "venous~distention": 0.034482758620689655, 
+            "weeks~ago": 0.034482758620689655, 
+            "without~murmurs": 0.034482758620689655, 
+            "with~fibrosis": 0.034482758620689655
+        }, 
+        "0-9": {
+            "normal~is": 1.0
+        }, 
+        "1/2/1991": {
+            "Admission~Date:": 1.0
+        }, 
+        "10/11": {
+            "done~on": 1.0
+        }, 
+        "10/11/1991": {
+            "163702~|": 0.5, 
+            "Discharge~Date:": 0.5
+        }, 
+        "102": {
+            "intermittent~to": 1.0
+        }, 
+        "103": {
+            "102~or": 1.0
+        }, 
+        "103.4.": {
+            "temperature~of": 1.0
+        }, 
+        "11.7": {
+            "titer~was": 1.0
+        }, 
+        "12": {
+            "fever.~Approximately": 1.0
+        }, 
+        "12/10/91": {
+            "Hospital~on": 1.0
+        }, 
+        "12:00:00": {
+            "|~10/11/1991": 1.0
+        }, 
+        "163702": {
+            "|~|": 1.0
+        }, 
+        "2.5": {
+            "aneurysm~of": 1.0
+        }, 
+        "21079329": {
+            "HHS~|": 1.0
+        }, 
+        "4.5.": {
+            "titer~was": 1.0
+        }, 
+        "4/1/91": {
+            "A7777K41~T:": 1.0
+        }, 
+        "43-year-old": {
+            "is~a": 1.0
+        }, 
+        "6862": {
+            "8/5/91~Batch:": 1.0
+        }, 
+        "8/5/91": {
+            "QP2~D:": 1.0
+        }, 
+        "A": {
+            ",~hepatitis": 0.5, 
+            "revealed~hepatitis": 0.5
+        }, 
+        "A7777K41": {
+            "6862~Report:": 1.0
+        }, 
+        "AFP": {
+            "SPEP~normal.": 1.0
+        }, 
+        "ALLERGIES:": {
+            "all~negative.": 1.0
+        }, 
+        "AM": {
+            "10/11/1991~12:00:00": 1.0
+        }, 
+        "ANA": {
+            "had~an": 1.0
+        }, 
+        "ATTKISSON": {
+            "MALIK~M.": 1.0
+        }, 
+        "Abdomen": {
+            "or~gallops.": 1.0
+        }, 
+        "Abdominal": {
+            "no~masses.": 1.0
+        }, 
+        "Admission": {
+            "DIS~|": 1.0
+        }, 
+        "Approximately": {
+            "of~fever.": 1.0
+        }, 
+        "B-12": {
+            "were~negative.": 1.0
+        }, 
+        "Batch:": {
+            "D:~8/5/91": 1.0
+        }, 
+        "By:": {
+            "4/1/91~Dictated": 1.0
+        }, 
+        "C": {
+            "4.5.~Hepatitis": 1.0
+        }, 
+        "CEA": {
+            "hCG~,": 1.0
+        }, 
+        "CMV": {
+            "negative~,": 1.0
+        }, 
+        "COURSE:": {
+            "deferred.~HOSPITAL": 1.0
+        }, 
+        "CT": {
+            "cysts.~Pelvic": 0.3333333333333333, 
+            "included~chest": 0.3333333333333333, 
+            "was~negative.": 0.3333333333333333
+        }, 
+        "Cardiac": {
+            "shotty~lymphadenopathy.": 1.0
+        }, 
+        "Chest": {
+            "second~cecum.": 1.0
+        }, 
+        "D:": {
+            "M.D.~QP2": 1.0
+        }, 
+        "DENZINE": {
+            "KEVEN~ISMAEL": 1.0
+        }, 
+        "DIAGNOSIS:": {
+            "10/11/1991~PRINCIPAL": 1.0
+        }, 
+        "DIS": {
+            "Signed~|": 1.0
+        }, 
+        "Dallmann": {
+            "with~Dr.": 1.0
+        }, 
+        "Date:": {
+            "Signed~Discharge": 0.5, 
+            "|~Admission": 0.5
+        }, 
+        "Dell": {
+            "to~Un": 1.0
+        }, 
+        "Dictated": {
+            "T:~4/1/91": 1.0
+        }, 
+        "Discharge": {
+            "AM~|": 0.5, 
+            "Status:~Signed": 0.5
+        }, 
+        "Disease": {
+            "both~Infectious": 1.0
+        }, 
+        "Dr.": {
+            "follow-up~with": 1.0
+        }, 
+        "EXAMINATION:": {
+            "Percocet.~PHYSICAL": 1.0
+        }, 
+        "Endoscopy": {
+            "focal~gastritis.": 1.0
+        }, 
+        "Extremities": {
+            "inguinal~lymphadenopathy.": 1.0
+        }, 
+        "FUO": {
+            "with~an": 1.0
+        }, 
+        "GI": {
+            "aorta.~Upper": 1.0
+        }, 
+        "HEENT": {
+            "of~103.4.": 1.0
+        }, 
+        "HHS": {
+            "310823285~|": 1.0
+        }, 
+        "HISTORY": {
+            "DIAGNOSIS:~LYMPHOMA.": 1.0
+        }, 
+        "HIV": {
+            "productive~cough.": 0.5, 
+            "were~normal.": 0.5
+        }, 
+        "HOSPITAL": {
+            "was~deferred.": 1.0
+        }, 
+        "HSV": {
+            "negative~,": 1.0
+        }, 
+        "He": {
+            "been~constipated.": 0.16666666666666666, 
+            "fairly~extensive.": 0.16666666666666666, 
+            "fevers~again.": 0.16666666666666666, 
+            "further~work-up.": 0.16666666666666666, 
+            "last~week.": 0.16666666666666666, 
+            "were~received.": 0.16666666666666666
+        }, 
+        "Hematology": {
+            "Service~and": 1.0
+        }, 
+        "Hepatitis": {
+            "was~4.5.": 1.0
+        }, 
+        "Hodgkin's": {
+            "consistent~with": 1.0
+        }, 
+        "Hospital": {
+            "Nimay~Memorial": 1.0
+        }, 
+        "ILLNESS:": {
+            "OF~PRESENT": 1.0
+        }, 
+        "ISMAEL": {
+            "WF632/7018~KEVEN": 1.0
+        }, 
+        "IgG": {
+            "hepatitis~A": 1.0
+        }, 
+        "IgM": {
+            "hepatitis~A": 1.0
+        }, 
+        "Infectious": {
+            "by~both": 1.0
+        }, 
+        "KEVEN": {
+            "basis.~WF632/7018": 1.0
+        }, 
+        "LYMPHOMA.": {
+            "PRINCIPAL~DIAGNOSIS:": 1.0
+        }, 
+        "Lungs": {
+            "normal~limits.": 1.0
+        }, 
+        "Lyme": {
+            "infection~).": 0.5, 
+            "was~negative.": 0.5
+        }, 
+        "M.": {
+            "By:~MALIK": 1.0
+        }, 
+        "M.D.": {
+            "ATTKISSON~,": 0.5, 
+            "DENZINE~,": 0.5
+        }, 
+        "MALIK": {
+            "Dictated~By:": 1.0
+        }, 
+        "MEDICATIONS:": {
+            "ALLERGIES:~PENICILLIN.": 1.0
+        }, 
+        "Malaria": {
+            "CEA~negative.": 1.0
+        }, 
+        "Memorial": {
+            "Dell~Nimay": 1.0
+        }, 
+        "Multiple": {
+            "was~negative.": 1.0
+        }, 
+        "Neck": {
+            "were~clear.": 1.0
+        }, 
+        "Neurological": {
+            "lichen~planus.": 1.0
+        }, 
+        "Nimay": {
+            "Un~Dell": 1.0
+        }, 
+        "OF": {
+            "LYMPHOMA.~HISTORY": 1.0
+        }, 
+        "On": {
+            "PENICILLIN.~MEDICATIONS:": 0.5, 
+            "PHYSICAL~EXAMINATION:": 0.5
+        }, 
+        "Oncology": {
+            "and~Hematology": 1.0
+        }, 
+        "PENICILLIN.": {
+            "negative.~ALLERGIES:": 1.0
+        }, 
+        "PHYSICAL": {
+            "and~Percocet.": 1.0
+        }, 
+        "PPD": {
+            "0-9~).": 1.0
+        }, 
+        "PRESENT": {
+            "HISTORY~OF": 1.0
+        }, 
+        "PRINCIPAL": {
+            "Date:~10/11/1991": 1.0
+        }, 
+        "Pelvic": {
+            "liver~cysts.": 1.0
+        }, 
+        "Percocet.": {
+            "Tylenol~and": 1.0
+        }, 
+        "QP2": {
+            ",~M.D.": 1.0
+        }, 
+        "RPR": {
+            "immune~,": 1.0
+        }, 
+        "Rectal": {
+            "was~nonfocal.": 1.0
+        }, 
+        "Report": {
+            "Date:~1/2/1991": 1.0
+        }, 
+        "Report:": {
+            "Batch:~6862": 1.0
+        }, 
+        "Rheumatoid": {
+            "was~negative.": 1.0
+        }, 
+        "SH": {
+            "together~with": 1.0
+        }, 
+        "SPEP": {
+            "was~negative.": 1.0
+        }, 
+        "Serology": {
+            "of~malignancy.": 1.0
+        }, 
+        "Service": {
+            "Infectious~Disease": 1.0
+        }, 
+        "Service.": {
+            "Hematology~Oncology": 1.0
+        }, 
+        "Signed": {
+            "Report~Status:": 0.5, 
+            "Summary~|": 0.5
+        }, 
+        "Status:": {
+            "1/2/1991~Report": 1.0
+        }, 
+        "Summary": {
+            "|~Discharge": 1.0
+        }, 
+        "T:": {
+            "Report:~A7777K41": 1.0
+        }, 
+        "Testicular": {
+            "was~normal.": 1.0
+        }, 
+        "The": {
+            "2.5~cm.": 0.14285714285714285, 
+            "HOSPITAL~COURSE:": 0.14285714285714285, 
+            "Oncology~Service.": 0.14285714285714285, 
+            "PRESENT~ILLNESS:": 0.14285714285714285, 
+            "abdominal~pain.": 0.14285714285714285, 
+            "bone~marrow.": 0.14285714285714285, 
+            "lymph~node.": 0.14285714285714285
+        }, 
+        "There": {
+            "and~chills.": 0.5, 
+            "liver~edge.": 0.5
+        }, 
+        "This": {
+            "a~work-up.": 1.0
+        }, 
+        "Toxo": {
+            "negative~,": 1.0
+        }, 
+        "Tylenol": {
+            "admission~included": 1.0
+        }, 
+        "Un": {
+            "admitted~to": 1.0
+        }, 
+        "Upper": {
+            "ectatic~aorta.": 1.0
+        }, 
+        "WF632/7018": {
+            "outpatient~basis.": 1.0
+        }, 
+        "Work-up": {
+            "were~negative.": 1.0
+        }, 
+        "a": {
+            "12/10/91~for": 0.125, 
+            "admission~revealed": 0.125, 
+            "also~noted": 0.125, 
+            "exam~revealed": 0.125, 
+            "fibrosis~,": 0.125, 
+            "lymphadenopathy~with": 0.125, 
+            "patient~had": 0.125, 
+            "patient~is": 0.125
+        }, 
+        "abdomen": {
+            "of~the": 1.0
+        }, 
+        "abdominal": {
+            "showed~an": 0.5, 
+            "some~diffuse": 0.5
+        }, 
+        "admission": {
+            "EXAMINATION:~On": 0.5, 
+            "MEDICATIONS:~On": 0.5
+        }, 
+        "admitted": {
+            "FUO~recently": 0.3333333333333333, 
+            "He~was": 0.3333333333333333, 
+            "and~was": 0.3333333333333333
+        }, 
+        "afebrile": {
+            "ago~after": 1.0
+        }, 
+        "after": {
+            "days~ago": 1.0
+        }, 
+        "again.": {
+            "having~fevers": 1.0
+        }, 
+        "ago": {
+            "12~weeks": 0.3333333333333333, 
+            "five~days": 0.3333333333333333, 
+            "two~weeks": 0.3333333333333333
+        }, 
+        "all": {
+            "urine~cultures": 1.0
+        }, 
+        "also": {
+            "constipated.~He": 1.0
+        }, 
+        "an": {
+            "43-year-old~with": 0.25, 
+            "Dallmann~on": 0.25, 
+            "but~showed": 0.25, 
+            "patient~had": 0.25
+        }, 
+        "and": {
+            ",~sweats": 0.07142857142857142, 
+            "Disease~Service": 0.07142857142857142, 
+            "Multiple~blood": 0.07142857142857142, 
+            "calcium~deposits": 0.07142857142857142, 
+            "had~defervesced": 0.07142857142857142, 
+            "included~Tylenol": 0.07142857142857142, 
+            "negative.~B-12": 0.07142857142857142, 
+            "of~nausea": 0.07142857142857142, 
+            "passing~gas": 0.07142857142857142, 
+            "recurrent~fevers": 0.07142857142857142, 
+            "regular~rate": 0.07142857142857142, 
+            "the~abdomen": 0.07142857142857142, 
+            "the~diagnosis": 0.07142857142857142, 
+            "weeks~ago": 0.07142857142857142
+        }, 
+        "aneurysm": {
+            "abdominal~aortic": 1.0
+        }, 
+        "antibody": {
+            "A~IgG": 0.5, 
+            "A~IgM": 0.5
+        }, 
+        "antigen": {
+            "hepatitis~surface": 1.0
+        }, 
+        "antrum": {
+            "the~gastric": 1.0
+        }, 
+        "aorta.": {
+            "with~ectatic": 1.0
+        }, 
+        "aortic": {
+            "an~abdominal": 1.0
+        }, 
+        "artery": {
+            ",~coronary": 1.0
+        }, 
+        "arthralgias": {
+            "cough~,": 1.0
+        }, 
+        "at": {
+            "was~admitted": 1.0
+        }, 
+        "atypical": {
+            "showed~large": 1.0
+        }, 
+        "basis.": {
+            "an~outpatient": 1.0
+        }, 
+        "been": {
+            "He~has": 0.3333333333333333, 
+            "and~has": 0.3333333333333333, 
+            "work-up~has": 0.3333333333333333
+        }, 
+        "began": {
+            ",~he": 1.0
+        }, 
+        "beta": {
+            "AFP~,": 1.0
+        }, 
+        "biliary": {
+            "gallstones~or": 1.0
+        }, 
+        "biopsy": {
+            "Endoscopy~with": 0.3333333333333333, 
+            "bone~marrow": 0.6666666666666666
+        }, 
+        "blood": {
+            "negative.~Multiple": 1.0
+        }, 
+        "bone": {
+            "had~a": 0.3333333333333333, 
+            "involving~the": 0.3333333333333333, 
+            "which~the": 0.3333333333333333
+        }, 
+        "both": {
+            "seen~by": 1.0
+        }, 
+        "bowel": {
+            "revealed~positive": 1.0
+        }, 
+        "but": {
+            "duct~dilatation": 1.0
+        }, 
+        "by": {
+            "was~seen": 1.0
+        }, 
+        "calcium": {
+            "coronary~artery": 1.0
+        }, 
+        "cecum.": {
+            "a~second": 1.0
+        }, 
+        "cells": {
+            "large~atypical": 1.0
+        }, 
+        "change": {
+            "essentially~no": 1.0
+        }, 
+        "chest": {
+            "has~included": 1.0
+        }, 
+        "chills.": {
+            "sweats~and": 1.0
+        }, 
+        "clear.": {
+            "Lungs~were": 1.0
+        }, 
+        "clubbing": {
+            "revealed~no": 1.0
+        }, 
+        "cm.": {
+            "of~2.5": 1.0
+        }, 
+        "consistent": {
+            "a~picture": 1.0
+        }, 
+        "constipated.": {
+            "has~been": 1.0
+        }, 
+        "coronary": {
+            "nodes~,": 1.0
+        }, 
+        "cough": {
+            ",~nonproductive": 1.0
+        }, 
+        "cough.": {
+            "a~productive": 1.0
+        }, 
+        "cultures": {
+            "and~urine": 1.0
+        }, 
+        "cyanosis": {
+            "clubbing~,": 1.0
+        }, 
+        "cysts.": {
+            "small~liver": 1.0
+        }, 
+        "day": {
+            "on~the": 1.0
+        }, 
+        "days": {
+            "after~afebrile": 0.5, 
+            "and~five": 0.5
+        }, 
+        "deferred.": {
+            "exam~was": 1.0
+        }, 
+        "defervesced": {
+            "patient~had": 1.0
+        }, 
+        "deposits": {
+            "artery~calcium": 1.0
+        }, 
+        "diagnosis": {
+            "of~the": 1.0
+        }, 
+        "diaphragmatic": {
+            "revealed~enlarged": 1.0
+        }, 
+        "diffuse": {
+            "was~some": 1.0
+        }, 
+        "dilatation": {
+            "biliary~duct": 1.0
+        }, 
+        "discharge": {
+            "scheduled~for": 1.0
+        }, 
+        "discharged": {
+            "He~was": 1.0
+        }, 
+        "disease": {
+            "with~Hodgkin's": 1.0
+        }, 
+        "distention": {
+            "jugular~venous": 1.0
+        }, 
+        "done": {
+            "and~pelvis": 1.0
+        }, 
+        "duct": {
+            "or~biliary": 1.0
+        }, 
+        "during": {
+            "and~vomiting": 1.0
+        }, 
+        "ectatic": {
+            "normal~with": 1.0
+        }, 
+        "edema": {
+            "cyanosis~or": 1.0
+        }, 
+        "edge.": {
+            "enlarged~liver": 1.0
+        }, 
+        "enlarged": {
+            ",~question": 0.5, 
+            "which~revealed": 0.5
+        }, 
+        "episodes": {
+            "had~three": 0.5, 
+            "the~febrile": 0.5
+        }, 
+        "essentially": {
+            "10/11~showed": 1.0
+        }, 
+        "evidence": {
+            ",~no": 1.0
+        }, 
+        "exam": {
+            "103.4.~HEENT": 0.25, 
+            "lymphadenopathy.~Cardiac": 0.25, 
+            "nonfocal.~Rectal": 0.25, 
+            "planus.~Neurological": 0.25
+        }, 
+        "extensive.": {
+            "been~fairly": 1.0
+        }, 
+        "external": {
+            "the~left": 1.0
+        }, 
+        "factor": {
+            "negative.~Rheumatoid": 1.0
+        }, 
+        "factors": {
+            "HIV~risk": 1.0
+        }, 
+        "fairly": {
+            "has~been": 1.0
+        }, 
+        "febrile": {
+            "during~the": 1.0
+        }, 
+        "fever.": {
+            "work-up~of": 1.0
+        }, 
+        "fevers": {
+            "began~having": 0.3333333333333333, 
+            "had~recurrent": 0.3333333333333333, 
+            "onset~of": 0.3333333333333333
+        }, 
+        "fibrosis": {
+            "infiltrating~with": 1.0
+        }, 
+        "five": {
+            "ago~and": 1.0
+        }, 
+        "focal": {
+            ",~question": 1.0
+        }, 
+        "folate": {
+            "B-12~and": 1.0
+        }, 
+        "follow-up": {
+            "is~to": 1.0
+        }, 
+        "for": {
+            "on~12/10/91": 0.2, 
+            "recently~admitted": 0.2, 
+            "this~time": 0.2, 
+            "was~negative": 0.2, 
+            "was~scheduled": 0.2
+        }, 
+        "from": {
+            "was~discharged": 1.0
+        }, 
+        "further": {
+            "admitted~for": 0.5, 
+            "time~for": 0.5
+        }, 
+        "gallops.": {
+            "rubs~or": 1.0
+        }, 
+        "gallstones": {
+            "negative~for": 1.0
+        }, 
+        "gas": {
+            "been~passing": 1.0
+        }, 
+        "gastric": {
+            "within~the": 1.0
+        }, 
+        "gastritis": {
+            "biopsy~revealed": 1.0
+        }, 
+        "gastritis.": {
+            "question~focal": 1.0
+        }, 
+        "hCG": {
+            ",~beta": 1.0
+        }, 
+        "had": {
+            "He~has": 0.2, 
+            "The~patient": 0.6, 
+            "patient~has": 0.2
+        }, 
+        "has": {
+            "SH~work-up": 0.16666666666666666, 
+            "The~patient": 0.16666666666666666, 
+            "gas~and": 0.16666666666666666, 
+            "negative.~Work-up": 0.16666666666666666, 
+            "week.~He": 0.16666666666666666, 
+            "work-up.~He": 0.16666666666666666
+        }, 
+        "having": {
+            "he~began": 1.0
+        }, 
+        "he": {
+            "days~,": 1.0
+        }, 
+        "hepatitis": {
+            "Serology~revealed": 0.3333333333333333, 
+            "negative~,": 0.3333333333333333, 
+            "positive~,": 0.3333333333333333
+        }, 
+        "hospital": {
+            "from~the": 1.0
+        }, 
+        "immune": {
+            ",~rubella": 1.0
+        }, 
+        "in": {
+            "febrile~episodes": 1.0
+        }, 
+        "included": {
+            "On~admission": 0.5, 
+            "Work-up~has": 0.5
+        }, 
+        "increased": {
+            ",~possible": 1.0
+        }, 
+        "infection": {
+            "(~old": 1.0
+        }, 
+        "infiltrating": {
+            "atypical~cells": 1.0
+        }, 
+        "informed": {
+            "He~was": 1.0
+        }, 
+        "inguinal": {
+            "left~external": 0.5, 
+            "was~positive": 0.5
+        }, 
+        "intermittent": {
+            "fevers~,": 1.0
+        }, 
+        "involving": {
+            "Hodgkin's~disease": 1.0
+        }, 
+        "is": {
+            "(~normal": 0.3333333333333333, 
+            "The~patient": 0.3333333333333333, 
+            "diagnosis~and": 0.3333333333333333
+        }, 
+        "jugular": {
+            "with~no": 1.0
+        }, 
+        "large": {
+            "which~showed": 1.0
+        }, 
+        "last": {
+            "in~the": 1.0
+        }, 
+        "left": {
+            "of~the": 1.0
+        }, 
+        "lichen": {
+            ",~positive": 1.0
+        }, 
+        "limits.": {
+            "within~normal": 1.0
+        }, 
+        "liver": {
+            "question~enlarged": 0.5, 
+            "two~small": 0.5
+        }, 
+        "lymph": {
+            "enlarged~diaphragmatic": 0.3333333333333333, 
+            "external~inguinal": 0.3333333333333333, 
+            "multiple~retroperitoneal": 0.3333333333333333
+        }, 
+        "lymphadenopathy": {
+            "revealed~retroperitoneal": 1.0
+        }, 
+        "lymphadenopathy.": {
+            "positive~inguinal": 0.5, 
+            "some~shotty": 0.5
+        }, 
+        "malignancy.": {
+            "evidence~of": 1.0
+        }, 
+        "marrow": {
+            "a~bone": 0.5, 
+            "the~bone": 0.5
+        }, 
+        "marrow.": {
+            "the~bone": 1.0
+        }, 
+        "masses.": {
+            "revealed~no": 1.0
+        }, 
+        "mild": {
+            ",~some": 1.0
+        }, 
+        "mucosa": {
+            "to~the": 1.0
+        }, 
+        "multiple": {
+            "change~with": 1.0
+        }, 
+        "murmurs": {
+            "rhythm~without": 1.0
+        }, 
+        "myalgias": {
+            "arthralgias~,": 1.0
+        }, 
+        "nausea": {
+            "episodes~of": 1.0
+        }, 
+        "negative": {
+            ",~CMV": 0.16666666666666666, 
+            ",~RPR": 0.16666666666666666, 
+            ",~Toxo": 0.16666666666666666, 
+            "IgM~antibody": 0.16666666666666666, 
+            "abdomen~was": 0.16666666666666666, 
+            "surface~antigen": 0.16666666666666666
+        }, 
+        "negative.": {
+            ",~CEA": 0.1111111111111111, 
+            "C~was": 0.1111111111111111, 
+            "HIV~was": 0.1111111111111111, 
+            "PPD~was": 0.1111111111111111, 
+            "cultures~all": 0.1111111111111111, 
+            "factors~were": 0.1111111111111111, 
+            "factor~was": 0.1111111111111111, 
+            "screens~were": 0.1111111111111111, 
+            "which~was": 0.1111111111111111
+        }, 
+        "no": {
+            "Extremities~revealed": 0.2, 
+            "gastritis~,": 0.2, 
+            "showed~essentially": 0.2, 
+            "supple~with": 0.2, 
+            "ultrasound~revealed": 0.2
+        }, 
+        "node.": {
+            "inguinal~lymph": 1.0
+        }, 
+        "nodes": {
+            "diaphragmatic~lymph": 0.5, 
+            "retroperitoneal~lymph": 0.5
+        }, 
+        "nodularity": {
+            "series~revealed": 1.0
+        }, 
+        "nonfocal.": {
+            "exam~was": 1.0
+        }, 
+        "nonproductive": {
+            "103~,": 1.0
+        }, 
+        "normal": {
+            "11.7~(": 0.3333333333333333, 
+            "ultrasound~was": 0.3333333333333333, 
+            "was~within": 0.3333333333333333
+        }, 
+        "normal.": {
+            "folate~were": 0.3333333333333333, 
+            "negative.~SPEP": 0.3333333333333333, 
+            "x-ray~was": 0.3333333333333333
+        }, 
+        "noted": {
+            "He~also": 0.5, 
+            "the~patient": 0.5
+        }, 
+        "of": {
+            "CT~scan": 0.1, 
+            "The~ultrasound": 0.1, 
+            "aortic~aneurysm": 0.1, 
+            "a~temperature": 0.1, 
+            "further~work-up": 0.1, 
+            "increased~size": 0.1, 
+            "no~evidence": 0.1, 
+            "the~onset": 0.1, 
+            "three~episodes": 0.1, 
+            "was~informed": 0.1
+        }, 
+        "old": {
+            "positive~(": 1.0
+        }, 
+        "on": {
+            "Dr.~Dallmann": 0.25, 
+            "Memorial~Hospital": 0.25, 
+            "for~discharge": 0.25, 
+            "pelvis~done": 0.25
+        }, 
+        "onset": {
+            "noted~the": 1.0
+        }, 
+        "or": {
+            ",~cyanosis": 0.25, 
+            ",~rubs": 0.25, 
+            "for~gallstones": 0.25, 
+            "to~102": 0.25
+        }, 
+        "outpatient": {
+            "on~an": 1.0
+        }, 
+        "pain.": {
+            "diffuse~abdominal": 1.0
+        }, 
+        "passing": {
+            "has~been": 1.0
+        }, 
+        "patient": {
+            ",~the": 0.14285714285714285, 
+            "COURSE:~The": 0.14285714285714285, 
+            "ILLNESS:~The": 0.14285714285714285, 
+            "Service.~The": 0.14285714285714285, 
+            "cm.~The": 0.14285714285714285, 
+            "marrow.~The": 0.14285714285714285, 
+            "pain.~The": 0.14285714285714285
+        }, 
+        "pelvis": {
+            "abdomen~and": 1.0
+        }, 
+        "picture": {
+            ",~a": 1.0
+        }, 
+        "planus.": {
+            "positive~lichen": 1.0
+        }, 
+        "positive": {
+            ",~HSV": 0.2, 
+            "Abdomen~revealed": 0.2, 
+            "IgG~antibody": 0.2, 
+            "There~was": 0.2, 
+            "edema~,": 0.2
+        }, 
+        "possible": {
+            "nodes~,": 1.0
+        }, 
+        "productive": {
+            "noted~a": 1.0
+        }, 
+        "question": {
+            "antrum~,": 0.5, 
+            "tenderness~,": 0.5
+        }, 
+        "rate": {
+            "a~regular": 1.0
+        }, 
+        "received.": {
+            "results~were": 1.0
+        }, 
+        "recently": {
+            "an~FUO": 1.0
+        }, 
+        "recurrent": {
+            "has~had": 1.0
+        }, 
+        "regular": {
+            "revealed~a": 1.0
+        }, 
+        "results": {
+            "marrow~biopsy": 1.0
+        }, 
+        "retroperitoneal": {
+            "CT~revealed": 0.5, 
+            "with~multiple": 0.5
+        }, 
+        "revealed": {
+            "CT~which": 0.1, 
+            "Cardiac~exam": 0.1, 
+            "GI~series": 0.1, 
+            "On~admission": 0.1, 
+            "Pelvic~CT": 0.1, 
+            "Testicular~ultrasound": 0.1, 
+            "gallops.~Abdomen": 0.1, 
+            "lymphadenopathy.~Extremities": 0.1, 
+            "malignancy.~Serology": 0.1, 
+            "with~biopsy": 0.1
+        }, 
+        "rhythm": {
+            "rate~and": 1.0
+        }, 
+        "risk": {
+            "cough.~HIV": 1.0
+        }, 
+        "rubella": {
+            "negative~,": 1.0
+        }, 
+        "rubs": {
+            "murmurs~,": 1.0
+        }, 
+        "scan": {
+            "negative.~CT": 1.0
+        }, 
+        "scheduled": {
+            "and~was": 1.0
+        }, 
+        "screens": {
+            "negative.~Malaria": 1.0
+        }, 
+        "second": {
+            "with~a": 1.0
+        }, 
+        "seen": {
+            "patient~was": 1.0
+        }, 
+        "series": {
+            "Upper~GI": 1.0
+        }, 
+        "shotty": {
+            "was~some": 1.0
+        }, 
+        "showed": {
+            "biopsy~which": 0.3333333333333333, 
+            "dilatation~but": 0.3333333333333333, 
+            "on~10/11": 0.3333333333333333
+        }, 
+        "size": {
+            "possible~increased": 1.0
+        }, 
+        "small": {
+            "and~two": 1.0
+        }, 
+        "some": {
+            "There~was": 0.3333333333333333, 
+            "sounds~,": 0.3333333333333333, 
+            "there~was": 0.3333333333333333
+        }, 
+        "sounds": {
+            "positive~bowel": 1.0
+        }, 
+        "supple": {
+            "Neck~was": 1.0
+        }, 
+        "surface": {
+            ",~hepatitis": 1.0
+        }, 
+        "sweats": {
+            "myalgias~,": 1.0
+        }, 
+        "temperature": {
+            "revealed~a": 1.0
+        }, 
+        "tenderness": {
+            "some~mild": 1.0
+        }, 
+        "the": {
+            "ago~,": 0.07142857142857142, 
+            "day~which": 0.07142857142857142, 
+            "discharged~from": 0.07142857142857142, 
+            "discharge~on": 0.07142857142857142, 
+            "disease~involving": 0.07142857142857142, 
+            "episodes~in": 0.07142857142857142, 
+            "informed~of": 0.07142857142857142, 
+            "mucosa~within": 0.07142857142857142, 
+            "nodularity~to": 0.07142857142857142, 
+            "patient~noted": 0.07142857142857142, 
+            "scan~of": 0.07142857142857142, 
+            "size~of": 0.07142857142857142, 
+            "ultrasound~of": 0.07142857142857142, 
+            "vomiting~during": 0.07142857142857142
+        }, 
+        "there": {
+            "distention~,": 1.0
+        }, 
+        "this": {
+            "admitted~at": 1.0
+        }, 
+        "three": {
+            "has~had": 1.0
+        }, 
+        "time": {
+            "at~this": 1.0
+        }, 
+        "titer": {
+            ").~Lyme": 0.5, 
+            "negative.~Lyme": 0.5
+        }, 
+        "to": {
+            ",~intermittent": 0.25, 
+            "and~is": 0.25, 
+            "revealed~nodularity": 0.25, 
+            "was~admitted": 0.25
+        }, 
+        "together": {
+            "work-up.~This": 1.0
+        }, 
+        "two": {
+            "deposits~and": 0.5, 
+            "the~hospital": 0.5
+        }, 
+        "ultrasound": {
+            "masses.~Abdominal": 0.3333333333333333, 
+            "node.~The": 0.3333333333333333, 
+            "normal.~Testicular": 0.3333333333333333
+        }, 
+        "urine": {
+            "blood~and": 1.0
+        }, 
+        "venous": {
+            "no~jugular": 1.0
+        }, 
+        "vomiting": {
+            "nausea~and": 1.0
+        }, 
+        "was": {
+            ").~PPD": 0.043478260869565216, 
+            ",~there": 0.043478260869565216, 
+            "ANA~which": 0.043478260869565216, 
+            "Abdominal~ultrasound": 0.043478260869565216, 
+            "Chest~x-ray": 0.043478260869565216, 
+            "HEENT~exam": 0.043478260869565216, 
+            "Hepatitis~C": 0.043478260869565216, 
+            "Lyme~titer": 0.08695652173913043, 
+            "Neurological~exam": 0.043478260869565216, 
+            "Rectal~exam": 0.043478260869565216, 
+            "Rheumatoid~factor": 0.043478260869565216, 
+            "The~patient": 0.043478260869565216, 
+            "again.~He": 0.043478260869565216, 
+            "chills.~There": 0.043478260869565216, 
+            "clear.~Neck": 0.043478260869565216, 
+            "defervesced~and": 0.043478260869565216, 
+            "edge.~There": 0.043478260869565216, 
+            "extensive.~He": 0.043478260869565216, 
+            "fevers~and": 0.043478260869565216, 
+            "normal.~HIV": 0.043478260869565216, 
+            "received.~He": 0.043478260869565216, 
+            "the~abdomen": 0.043478260869565216
+        }, 
+        "week.": {
+            "the~last": 1.0
+        }, 
+        "weeks": {
+            "Approximately~12": 0.5, 
+            "hospital~two": 0.5
+        }, 
+        "were": {
+            "Malaria~screens": 0.2, 
+            "and~folate": 0.2, 
+            "biopsy~results": 0.2, 
+            "limits.~Lungs": 0.2, 
+            "risk~factors": 0.2
+        }, 
+        "which": {
+            "an~ANA": 0.25, 
+            "chest~CT": 0.25, 
+            "marrow~biopsy": 0.25, 
+            "the~day": 0.25
+        }, 
+        "with": {
+            "This~together": 0.1, 
+            "a~43-year-old": 0.1, 
+            "cells~infiltrating": 0.1, 
+            "gastritis.~Endoscopy": 0.1, 
+            "no~change": 0.1, 
+            "picture~consistent": 0.1, 
+            "retroperitoneal~lymphadenopathy": 0.1, 
+            "to~follow-up": 0.1, 
+            "was~normal": 0.1, 
+            "was~supple": 0.1
+        }, 
+        "within": {
+            "exam~was": 0.5, 
+            "the~mucosa": 0.5
+        }, 
+        "without": {
+            "and~rhythm": 1.0
+        }, 
+        "work-up": {
+            "for~further": 0.5, 
+            "with~SH": 0.5
+        }, 
+        "work-up.": {
+            "for~a": 0.5, 
+            "for~further": 0.5
+        }, 
+        "x-ray": {
+            "cecum.~Chest": 1.0
+        }, 
+        "|": {
+            "12:00:00~AM": 0.1111111111111111, 
+            "21079329~|": 0.1111111111111111, 
+            "Discharge~Summary": 0.1111111111111111, 
+            "|~163702": 0.1111111111111111, 
+            "|~21079329": 0.1111111111111111, 
+            "|~DIS": 0.1111111111111111, 
+            "|~HHS": 0.1111111111111111, 
+            "|~Signed": 0.1111111111111111, 
+            "~310823285": 0.1111111111111111
+        }
+    }, 
+    "type": "data/test", 
+    "uni": {
+        "": 0.0016750418760469012, 
+        "(": 0.0033500837520938024, 
+        ").": 0.0033500837520938024, 
+        ",": 0.04690117252931323, 
+        "0-9": 0.0016750418760469012, 
+        "1/2/1991": 0.0016750418760469012, 
+        "10/11": 0.0016750418760469012, 
+        "10/11/1991": 0.0033500837520938024, 
+        "102": 0.0016750418760469012, 
+        "103": 0.0016750418760469012, 
+        "103.4.": 0.0016750418760469012, 
+        "11.7": 0.0016750418760469012, 
+        "12": 0.0016750418760469012, 
+        "12/10/91": 0.0016750418760469012, 
+        "12:00:00": 0.0016750418760469012, 
+        "163702": 0.0016750418760469012, 
+        "2.5": 0.0016750418760469012, 
+        "21079329": 0.0016750418760469012, 
+        "310823285": 0.0016750418760469012, 
+        "4.5.": 0.0016750418760469012, 
+        "4/1/91": 0.0016750418760469012, 
+        "43-year-old": 0.0016750418760469012, 
+        "6862": 0.0016750418760469012, 
+        "8/5/91": 0.0016750418760469012, 
+        "A": 0.0033500837520938024, 
+        "A7777K41": 0.0016750418760469012, 
+        "AFP": 0.0016750418760469012, 
+        "ALLERGIES:": 0.0016750418760469012, 
+        "AM": 0.0016750418760469012, 
+        "ANA": 0.0016750418760469012, 
+        "ATTKISSON": 0.0016750418760469012, 
+        "Abdomen": 0.0016750418760469012, 
+        "Abdominal": 0.0016750418760469012, 
+        "Admission": 0.0016750418760469012, 
+        "Approximately": 0.0016750418760469012, 
+        "B-12": 0.0016750418760469012, 
+        "Batch:": 0.0016750418760469012, 
+        "By:": 0.0016750418760469012, 
+        "C": 0.0016750418760469012, 
+        "CEA": 0.0016750418760469012, 
+        "CMV": 0.0016750418760469012, 
+        "COURSE:": 0.0016750418760469012, 
+        "CT": 0.005025125628140704, 
+        "Cardiac": 0.0016750418760469012, 
+        "Chest": 0.0016750418760469012, 
+        "D:": 0.0016750418760469012, 
+        "DENZINE": 0.0016750418760469012, 
+        "DIAGNOSIS:": 0.0016750418760469012, 
+        "DIS": 0.0016750418760469012, 
+        "Dallmann": 0.0016750418760469012, 
+        "Date:": 0.0033500837520938024, 
+        "Dell": 0.0016750418760469012, 
+        "Dictated": 0.0016750418760469012, 
+        "Discharge": 0.0033500837520938024, 
+        "Disease": 0.0016750418760469012, 
+        "Dr.": 0.0016750418760469012, 
+        "EXAMINATION:": 0.0016750418760469012, 
+        "Endoscopy": 0.0016750418760469012, 
+        "Extremities": 0.0016750418760469012, 
+        "FUO": 0.0016750418760469012, 
+        "GI": 0.0016750418760469012, 
+        "HEENT": 0.0016750418760469012, 
+        "HHS": 0.0016750418760469012, 
+        "HISTORY": 0.0016750418760469012, 
+        "HIV": 0.0033500837520938024, 
+        "HOSPITAL": 0.0016750418760469012, 
+        "HSV": 0.0016750418760469012, 
+        "He": 0.010050251256281407, 
+        "Hematology": 0.0016750418760469012, 
+        "Hepatitis": 0.0016750418760469012, 
+        "Hodgkin's": 0.0016750418760469012, 
+        "Hospital": 0.0016750418760469012, 
+        "ILLNESS:": 0.0016750418760469012, 
+        "ISMAEL": 0.0016750418760469012, 
+        "IgG": 0.0016750418760469012, 
+        "IgM": 0.0016750418760469012, 
+        "Infectious": 0.0016750418760469012, 
+        "KEVEN": 0.0016750418760469012, 
+        "LYMPHOMA.": 0.0016750418760469012, 
+        "Lungs": 0.0016750418760469012, 
+        "Lyme": 0.0033500837520938024, 
+        "M.": 0.0016750418760469012, 
+        "M.D.": 0.0016750418760469012, 
+        "MALIK": 0.0016750418760469012, 
+        "MEDICATIONS:": 0.0016750418760469012, 
+        "Malaria": 0.0016750418760469012, 
+        "Memorial": 0.0016750418760469012, 
+        "Multiple": 0.0016750418760469012, 
+        "Neck": 0.0016750418760469012, 
+        "Neurological": 0.0016750418760469012, 
+        "Nimay": 0.0016750418760469012, 
+        "OF": 0.0016750418760469012, 
+        "On": 0.0033500837520938024, 
+        "Oncology": 0.0016750418760469012, 
+        "PENICILLIN.": 0.0016750418760469012, 
+        "PHYSICAL": 0.0016750418760469012, 
+        "PPD": 0.0016750418760469012, 
+        "PRESENT": 0.0016750418760469012, 
+        "PRINCIPAL": 0.0016750418760469012, 
+        "Pelvic": 0.0016750418760469012, 
+        "Percocet.": 0.0016750418760469012, 
+        "QP2": 0.0016750418760469012, 
+        "RPR": 0.0016750418760469012, 
+        "Rectal": 0.0016750418760469012, 
+        "Report": 0.0016750418760469012, 
+        "Report:": 0.0016750418760469012, 
+        "Rheumatoid": 0.0016750418760469012, 
+        "SH": 0.0016750418760469012, 
+        "SPEP": 0.0016750418760469012, 
+        "Serology": 0.0016750418760469012, 
+        "Service": 0.0016750418760469012, 
+        "Service.": 0.0016750418760469012, 
+        "Signed": 0.0033500837520938024, 
+        "Status:": 0.0016750418760469012, 
+        "Summary": 0.0016750418760469012, 
+        "T:": 0.0016750418760469012, 
+        "Testicular": 0.0016750418760469012, 
+        "The": 0.011725293132328308, 
+        "There": 0.0033500837520938024, 
+        "This": 0.0016750418760469012, 
+        "Toxo": 0.0016750418760469012, 
+        "Tylenol": 0.0016750418760469012, 
+        "Un": 0.0016750418760469012, 
+        "Upper": 0.0016750418760469012, 
+        "WF632/7018": 0.0016750418760469012, 
+        "Work-up": 0.0016750418760469012, 
+        "a": 0.01340033500837521, 
+        "abdomen": 0.0033500837520938024, 
+        "abdominal": 0.0033500837520938024, 
+        "admission": 0.0033500837520938024, 
+        "admitted": 0.005025125628140704, 
+        "afebrile": 0.0016750418760469012, 
+        "after": 0.0016750418760469012, 
+        "again.": 0.0016750418760469012, 
+        "ago": 0.005025125628140704, 
+        "all": 0.0016750418760469012, 
+        "also": 0.0016750418760469012, 
+        "an": 0.006700167504187605, 
+        "and": 0.023450586264656615, 
+        "aneurysm": 0.0016750418760469012, 
+        "antibody": 0.0033500837520938024, 
+        "antigen": 0.0016750418760469012, 
+        "antrum": 0.0016750418760469012, 
+        "aorta.": 0.0016750418760469012, 
+        "aortic": 0.0016750418760469012, 
+        "artery": 0.0016750418760469012, 
+        "arthralgias": 0.0016750418760469012, 
+        "at": 0.0016750418760469012, 
+        "atypical": 0.0016750418760469012, 
+        "basis.": 0.0016750418760469012, 
+        "been": 0.005025125628140704, 
+        "began": 0.0016750418760469012, 
+        "beta": 0.0016750418760469012, 
+        "biliary": 0.0016750418760469012, 
+        "biopsy": 0.005025125628140704, 
+        "blood": 0.0016750418760469012, 
+        "bone": 0.005025125628140704, 
+        "both": 0.0016750418760469012, 
+        "bowel": 0.0016750418760469012, 
+        "but": 0.0016750418760469012, 
+        "by": 0.0016750418760469012, 
+        "calcium": 0.0016750418760469012, 
+        "cecum.": 0.0016750418760469012, 
+        "cells": 0.0016750418760469012, 
+        "change": 0.0016750418760469012, 
+        "chest": 0.0016750418760469012, 
+        "chills.": 0.0016750418760469012, 
+        "clear.": 0.0016750418760469012, 
+        "clubbing": 0.0016750418760469012, 
+        "cm.": 0.0016750418760469012, 
+        "consistent": 0.0016750418760469012, 
+        "constipated.": 0.0016750418760469012, 
+        "coronary": 0.0016750418760469012, 
+        "cough": 0.0016750418760469012, 
+        "cough.": 0.0016750418760469012, 
+        "cultures": 0.0016750418760469012, 
+        "cyanosis": 0.0016750418760469012, 
+        "cysts.": 0.0016750418760469012, 
+        "day": 0.0016750418760469012, 
+        "days": 0.0033500837520938024, 
+        "deferred.": 0.0016750418760469012, 
+        "defervesced": 0.0016750418760469012, 
+        "deposits": 0.0016750418760469012, 
+        "diagnosis": 0.0016750418760469012, 
+        "diaphragmatic": 0.0016750418760469012, 
+        "diffuse": 0.0016750418760469012, 
+        "dilatation": 0.0016750418760469012, 
+        "discharge": 0.0016750418760469012, 
+        "discharged": 0.0016750418760469012, 
+        "disease": 0.0016750418760469012, 
+        "distention": 0.0016750418760469012, 
+        "done": 0.0016750418760469012, 
+        "duct": 0.0016750418760469012, 
+        "during": 0.0016750418760469012, 
+        "ectatic": 0.0016750418760469012, 
+        "edema": 0.0016750418760469012, 
+        "edge.": 0.0016750418760469012, 
+        "enlarged": 0.0033500837520938024, 
+        "episodes": 0.0033500837520938024, 
+        "essentially": 0.0016750418760469012, 
+        "evidence": 0.0016750418760469012, 
+        "exam": 0.006700167504187605, 
+        "extensive.": 0.0016750418760469012, 
+        "external": 0.0016750418760469012, 
+        "factor": 0.0016750418760469012, 
+        "factors": 0.0016750418760469012, 
+        "fairly": 0.0016750418760469012, 
+        "febrile": 0.0016750418760469012, 
+        "fever.": 0.0016750418760469012, 
+        "fevers": 0.005025125628140704, 
+        "fibrosis": 0.0016750418760469012, 
+        "five": 0.0016750418760469012, 
+        "focal": 0.0016750418760469012, 
+        "folate": 0.0016750418760469012, 
+        "follow-up": 0.0016750418760469012, 
+        "for": 0.008375209380234505, 
+        "from": 0.0016750418760469012, 
+        "further": 0.0033500837520938024, 
+        "gallops.": 0.0016750418760469012, 
+        "gallstones": 0.0016750418760469012, 
+        "gas": 0.0016750418760469012, 
+        "gastric": 0.0016750418760469012, 
+        "gastritis": 0.0016750418760469012, 
+        "gastritis.": 0.0016750418760469012, 
+        "hCG": 0.0016750418760469012, 
+        "had": 0.008375209380234505, 
+        "has": 0.010050251256281407, 
+        "having": 0.0016750418760469012, 
+        "he": 0.0016750418760469012, 
+        "hepatitis": 0.005025125628140704, 
+        "hospital": 0.0016750418760469012, 
+        "immune": 0.0016750418760469012, 
+        "in": 0.0016750418760469012, 
+        "included": 0.0033500837520938024, 
+        "increased": 0.0016750418760469012, 
+        "infection": 0.0016750418760469012, 
+        "infiltrating": 0.0016750418760469012, 
+        "informed": 0.0016750418760469012, 
+        "inguinal": 0.0033500837520938024, 
+        "intermittent": 0.0016750418760469012, 
+        "involving": 0.0016750418760469012, 
+        "is": 0.005025125628140704, 
+        "jugular": 0.0016750418760469012, 
+        "large": 0.0016750418760469012, 
+        "last": 0.0016750418760469012, 
+        "left": 0.0016750418760469012, 
+        "lichen": 0.0016750418760469012, 
+        "limits.": 0.0016750418760469012, 
+        "liver": 0.0033500837520938024, 
+        "lymph": 0.005025125628140704, 
+        "lymphadenopathy": 0.0016750418760469012, 
+        "lymphadenopathy.": 0.0033500837520938024, 
+        "malignancy.": 0.0016750418760469012, 
+        "marrow": 0.0033500837520938024, 
+        "marrow.": 0.0016750418760469012, 
+        "masses.": 0.0016750418760469012, 
+        "mild": 0.0016750418760469012, 
+        "mucosa": 0.0016750418760469012, 
+        "multiple": 0.0016750418760469012, 
+        "murmurs": 0.0016750418760469012, 
+        "myalgias": 0.0016750418760469012, 
+        "nausea": 0.0016750418760469012, 
+        "negative": 0.010050251256281407, 
+        "negative.": 0.01507537688442211, 
+        "no": 0.008375209380234505, 
+        "node.": 0.0016750418760469012, 
+        "nodes": 0.0033500837520938024, 
+        "nodularity": 0.0016750418760469012, 
+        "nonfocal.": 0.0016750418760469012, 
+        "nonproductive": 0.0016750418760469012, 
+        "normal": 0.005025125628140704, 
+        "normal.": 0.005025125628140704, 
+        "noted": 0.0033500837520938024, 
+        "of": 0.01675041876046901, 
+        "old": 0.0016750418760469012, 
+        "on": 0.006700167504187605, 
+        "onset": 0.0016750418760469012, 
+        "or": 0.006700167504187605, 
+        "outpatient": 0.0016750418760469012, 
+        "pain.": 0.0016750418760469012, 
+        "passing": 0.0016750418760469012, 
+        "patient": 0.011725293132328308, 
+        "pelvis": 0.0016750418760469012, 
+        "picture": 0.0016750418760469012, 
+        "planus.": 0.0016750418760469012, 
+        "positive": 0.008375209380234505, 
+        "possible": 0.0016750418760469012, 
+        "productive": 0.0016750418760469012, 
+        "question": 0.0033500837520938024, 
+        "rate": 0.0016750418760469012, 
+        "received.": 0.0016750418760469012, 
+        "recently": 0.0016750418760469012, 
+        "recurrent": 0.0016750418760469012, 
+        "regular": 0.0016750418760469012, 
+        "results": 0.0016750418760469012, 
+        "retroperitoneal": 0.0033500837520938024, 
+        "revealed": 0.01675041876046901, 
+        "rhythm": 0.0016750418760469012, 
+        "risk": 0.0016750418760469012, 
+        "rubella": 0.0016750418760469012, 
+        "rubs": 0.0016750418760469012, 
+        "scan": 0.0016750418760469012, 
+        "scheduled": 0.0016750418760469012, 
+        "screens": 0.0016750418760469012, 
+        "second": 0.0016750418760469012, 
+        "seen": 0.0016750418760469012, 
+        "series": 0.0016750418760469012, 
+        "shotty": 0.0016750418760469012, 
+        "showed": 0.005025125628140704, 
+        "size": 0.0016750418760469012, 
+        "small": 0.0016750418760469012, 
+        "some": 0.005025125628140704, 
+        "sounds": 0.0016750418760469012, 
+        "supple": 0.0016750418760469012, 
+        "surface": 0.0016750418760469012, 
+        "sweats": 0.0016750418760469012, 
+        "temperature": 0.0016750418760469012, 
+        "tenderness": 0.0016750418760469012, 
+        "the": 0.023450586264656615, 
+        "there": 0.0016750418760469012, 
+        "this": 0.0016750418760469012, 
+        "three": 0.0016750418760469012, 
+        "time": 0.0016750418760469012, 
+        "titer": 0.0033500837520938024, 
+        "to": 0.006700167504187605, 
+        "together": 0.0016750418760469012, 
+        "two": 0.0033500837520938024, 
+        "ultrasound": 0.005025125628140704, 
+        "urine": 0.0016750418760469012, 
+        "venous": 0.0016750418760469012, 
+        "vomiting": 0.0016750418760469012, 
+        "was": 0.038525963149078725, 
+        "week.": 0.0016750418760469012, 
+        "weeks": 0.0033500837520938024, 
+        "were": 0.008375209380234505, 
+        "which": 0.006700167504187605, 
+        "with": 0.01675041876046901, 
+        "within": 0.0033500837520938024, 
+        "without": 0.0016750418760469012, 
+        "work-up": 0.0033500837520938024, 
+        "work-up.": 0.0033500837520938024, 
+        "x-ray": 0.0016750418760469012, 
+        "|": 0.01507537688442211
+    }
+}
